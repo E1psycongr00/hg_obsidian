@@ -11,8 +11,12 @@
             "id": "d8c0e255a1a40fb8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Github/Github.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Github/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Github/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Github/Github.md"
+              }
             }
           }
         ]
@@ -141,20 +149,23 @@
   },
   "active": "d8c0e255a1a40fb8",
   "lastOpenFiles": [
+    "IT/Obsidian/제텔카스텐.md",
+    "IT/Github/Github.md",
+    "IT/Github",
+    "IT/Obsidian/Obsidian.md",
+    "IT",
     "인물/니클라스 루만.md",
     "인물/attachments/Pasted image 20231001220742.png",
     "인물/attachments",
-    "Obsidian/제텔카스텐.md",
-    "Obsidian/Obsidian.md",
-    "Obsidian/attachments/Pasted image 20231001204409.png",
+    "IT/Obsidian/attachments/Pasted image 20231001204409.png",
     "인물",
     "README.md",
-    "Obsidian/attachments",
+    "IT/Obsidian/attachments",
     "Pasted image 20231001203923.png.md",
     "Pasted image 20231001203923.png",
     "gitignore.txt",
     "새 텍스트 문서.txt",
     "무제 파일.md",
-    "Obsidian"
+    "IT/Obsidian"
   ]
 }
