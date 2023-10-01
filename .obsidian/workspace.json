@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,6 +152,8 @@
     "Obsidian/Obsidian.md",
     "Obsidian/제텔카스텐.md",
     "Obsidian/attachments/Pasted image 20231001204409.png",
+    "인물/니클라스 루만.md",
+    "인물",
     "README.md",
     "Obsidian/attachments",
     "Pasted image 20231001203923.png.md",
