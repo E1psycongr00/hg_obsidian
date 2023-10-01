@@ -11,12 +11,8 @@
             "id": "d8c0e255a1a40fb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/제텔카스텐.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/제텔카스텐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/제텔카스텐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/제텔카스텐.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +141,12 @@
   },
   "active": "d8c0e255a1a40fb8",
   "lastOpenFiles": [
-    "Obsidian/Obsidian.md",
-    "Obsidian/제텔카스텐.md",
-    "Obsidian/attachments/Pasted image 20231001204409.png",
     "인물/니클라스 루만.md",
+    "인물/attachments/Pasted image 20231001220742.png",
+    "인물/attachments",
+    "Obsidian/제텔카스텐.md",
+    "Obsidian/Obsidian.md",
+    "Obsidian/attachments/Pasted image 20231001204409.png",
     "인물",
     "README.md",
     "Obsidian/attachments",
