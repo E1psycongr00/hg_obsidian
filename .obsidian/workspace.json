@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b16a447c8bf2cb3c",
+        "id": "2fc8c93abc18c4be",
         "type": "tabs",
         "children": [
           {
-            "id": "5a79ff4c7e44603f",
+            "id": "3a9a537f8fae2bf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/제텔 카스텐 기법.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/제텔 카스텐 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/제텔 카스텐 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/제텔 카스텐 기법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,17 +159,18 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "5a79ff4c7e44603f",
+  "active": "3a9a537f8fae2bf9",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231002151011.png",
-    "연습노트/제텔 +카스텐 의미.md",
-    "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
-    "attachments/Pasted image 20231002150914.png",
-    "연습노트/제텔 카스텐 기법.md",
-    "연습노트/니콜라스 루만.md",
-    "templates/솔루션 템플릿.md",
-    "templates/인물 소개 템플릿.md",
     "templates/참조 노트 템플릿.md",
+    "연습노트/니콜라스 루만.md",
+    "templates/인물 소개 템플릿.md",
+    "templates/솔루션 템플릿.md",
+    "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
+    "연습노트/제텔 +카스텐 의미.md",
+    "연습노트/제텔 카스텐 기법.md",
+    "attachments/Pasted image 20231002151011.png",
+    "attachments/Pasted image 20231002150914.png",
     "Resources/IT/Obsidian/제텔카스텐.md",
     "인물/니클라스 루만.md",
     "README.md",
@@ -205,7 +198,6 @@
     "Resources/IT/Github",
     "Resources/IT",
     "Pasted image 20231001203923.png.md",
-    "Pasted image 20231001203923.png",
-    "무제 파일.md"
+    "Pasted image 20231001203923.png"
   ]
 }
