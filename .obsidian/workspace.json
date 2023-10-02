@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/나만의 제텔 카스텐 단위 메모 작성 방법.md",
+                "file": "연습노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "tag:#솔루션",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/나만의 제텔 카스텐 단위 메모 작성 방법.md",
+                "file": "연습노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/나만의 제텔 카스텐 단위 메모 작성 방법.md",
+                "file": "연습노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/나만의 제텔 카스텐 단위 메모 작성 방법.md"
+                "file": "연습노트/나만의 제텔카스텐 단위 메모 작성 이유.md"
               }
             }
           },
@@ -167,25 +168,26 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "aa272f0c1fbb1a51",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "templates/동기 템플릿.md",
+    "templates/참조 노트 템플릿.md",
+    "templates/인물 소개 템플릿.md",
+    "templates/솔루션 템플릿.md",
+    "연습노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
     "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
-    "연습노트/나만의 제텔 카스텐 단위 메모 작성 방법.md",
     "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "attachments/Pasted image 20231002171733.png",
     "attachments/Pasted image 20231002170648.png",
     "attachments/Pasted image 20231002163540.png",
     "Pasted image 20231002162934.png.md",
     "attachments/Pasted image 20231002163052.png",
-    "templates/참조 노트 템플릿.md",
     "attachments/Pasted image 20231002162934.png",
-    "templates/인물 소개 템플릿.md",
     "영구노트/니콜라스 루만.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/제텔 카스텐 기법.md",
     "attachments/Pasted image 20231002152257.png",
-    "templates/솔루션 템플릿.md",
     "attachments/Pasted image 20231002151011.png",
     "attachments/Pasted image 20231002150914.png",
     "Resources/IT/Obsidian/제텔카스텐.md",
