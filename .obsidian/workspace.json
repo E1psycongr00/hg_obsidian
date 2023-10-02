@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f12c1d763c8d2454",
+        "id": "a9e1ec1c823bacb7",
         "type": "tabs",
         "children": [
           {
-            "id": "1972f7983b362dee",
+            "id": "2eabf5e686dd1ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+                "file": "연습노트/니콜라스 루만.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#IT",
+                "query": "tag:#완료",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+                "file": "연습노트/니콜라스 루만.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+                "file": "연습노트/니콜라스 루만.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md"
+                "file": "연습노트/니콜라스 루만.md"
               }
             }
           },
@@ -167,14 +167,14 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "1972f7983b362dee",
+  "active": "2eabf5e686dd1ab6",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231002152257.png",
     "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md",
-    "연습노트/니콜라스 루만.md",
+    "영구노트/제텔 +카스텐 의미.md",
+    "영구노트/제텔 카스텐 기법.md",
     "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
-    "연습노트/제텔 카스텐 기법.md",
-    "연습노트/제텔 +카스텐 의미.md",
+    "연습노트/니콜라스 루만.md",
+    "attachments/Pasted image 20231002152257.png",
     "templates/참조 노트 템플릿.md",
     "templates/인물 소개 템플릿.md",
     "templates/솔루션 템플릿.md",
