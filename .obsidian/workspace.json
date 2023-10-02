@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
+                "file": "연습노트/나만의 노트 분리하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
+                "file": "연습노트/나만의 노트 분리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
+                "file": "연습노트/나만의 노트 분리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md"
+                "file": "연습노트/나만의 노트 분리하기.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +160,8 @@
   "lastOpenFiles": [
     "연습노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "연습노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
+    "연습노트/나만의 노트 분리하기.md",
+    "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
     "영구노트/니콜라스 루만.md",
     "templates/동기 템플릿.md",
     "templates/참조 노트 템플릿.md",
@@ -203,7 +203,6 @@
     "연습노트",
     "Resources/IT/Github/attachments",
     "Resources/IT/Github",
-    "Resources/IT",
-    "Pasted image 20231001203923.png.md"
+    "Resources/IT"
   ]
 }
