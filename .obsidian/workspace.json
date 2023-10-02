@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3645e4d611394bc8",
+        "id": "eb9b13feed0b4969",
         "type": "tabs",
         "children": [
           {
-            "id": "aa272f0c1fbb1a51",
+            "id": "f72f41e9278eb9f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -32,9 +36,11 @@
             "id": "a50575c62e451f9f",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "영구노트/SOLID란 무엇인가.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -44,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#제텔카스텐",
+                "query": "path:연습노트  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,13 +66,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2d39029a77522e3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/무제 파일.md"
+              }
             }
           },
           {
@@ -134,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,12 +170,12 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "aa272f0c1fbb1a51",
+  "active": "f72f41e9278eb9f8",
   "lastOpenFiles": [
-    "연습노트/무제 파일.md",
-    "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "영구노트/SOLID란 무엇인가.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "연습노트/무제 파일.md",
+    "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
     "영구노트/제텔 카스텐 기법.md",
     "영구노트/제텔 +카스텐 의미.md",
