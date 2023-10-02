@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/참조 노트 템플릿.md",
+                "file": "Resources/IT/Obsidian/제텔카스텐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/참조 노트 템플릿.md",
+                "file": "Resources/IT/Obsidian/제텔카스텐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/참조 노트 템플릿.md",
+                "file": "Resources/IT/Obsidian/제텔카스텐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/참조 노트 템플릿.md"
+                "file": "Resources/IT/Obsidian/제텔카스텐.md"
               }
             }
           },
@@ -168,18 +168,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc9cd80ae37d1cfa",
+  "active": "a50575c62e451f9f",
   "lastOpenFiles": [
+    "Resources/IT/Obsidian/Obsidian.md",
+    "Resources/IT/Obsidian/제텔카스텐.md",
+    "templates/생각 임시 노트 템플릿.md",
+    "templates/참조 노트 템플릿.md",
+    "연습노트/제텔 +카스텐 의미.md",
+    "attachments/Pasted image 20231001204409.png",
+    "Resources/IT/Github/Github.md",
     "인물/니클라스 루만.md",
     "attachments/Pasted image 20231001220742.png",
-    "연습노트/무제 파일.md",
     "attachments",
-    "templates/참조 노트 템플릿.md",
     "영구노트/무제 파일.md",
-    "templates/생각 임시 노트 템플릿.md",
     "연습노트/202310020926.md",
     "연습노트/202310020918.md",
-    "Resources/IT/Github/Github.md",
     "연습노트/202310020911.md",
     "영구노트/참조 노트",
     "영구노트/문헌 노트",
@@ -189,16 +192,13 @@
     "202310020910.md",
     "README.md",
     "202310020909.md",
-    "Resources/IT/Obsidian/Obsidian.md",
     "Resources",
     "영구노트",
     "연습노트",
-    "Resources/IT/Obsidian/제텔카스텐.md",
     "Resources/IT/Github/attachments/Pasted image 20231001224939.png",
     "Resources/IT/Github/attachments",
     "Resources/IT/Github",
     "Resources/IT",
-    "Resources/IT/Obsidian/attachments/Pasted image 20231001204409.png",
     "Pasted image 20231001203923.png.md",
     "Pasted image 20231001203923.png",
     "무제 파일.md"
