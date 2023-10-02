@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/생각 임시 노트 템플릿.md",
+                "file": "templates/참조 노트 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/생각 임시 노트 템플릿.md",
+                "file": "templates/참조 노트 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/생각 임시 노트 템플릿.md",
+                "file": "templates/참조 노트 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/생각 임시 노트 템플릿.md"
+                "file": "templates/참조 노트 템플릿.md"
               }
             }
           },
@@ -164,18 +164,19 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "random-note:랜덤 노트 열기": false,
-      "zk-prefixer:새로운 유니크 노트 생성": false
+      "zk-prefixer:새로운 유니크 노트 생성": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "cc9cd80ae37d1cfa",
   "lastOpenFiles": [
-    "templates/참조 노트 템플릿.md",
     "templates/생각 임시 노트 템플릿.md",
+    "templates/참조 노트 템플릿.md",
+    "연습노트/무제 파일.md",
     "연습노트/202310020926.md",
     "연습노트/202310020918.md",
     "Resources/IT/Github/Github.md",
     "연습노트/202310020911.md",
-    "연습노트/무제 파일.md",
     "영구노트/참조 노트",
     "영구노트/문헌 노트",
     "templates",
