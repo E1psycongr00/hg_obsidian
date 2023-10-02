@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/참조 노트 템플릿.md",
+                "file": "연습노트/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#생각",
+                "query": "tag:#임시",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/참조 노트 템플릿.md",
+                "file": "연습노트/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/참조 노트 템플릿.md",
+                "file": "연습노트/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/참조 노트 템플릿.md"
+                "file": "연습노트/무제 파일.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "cc9cd80ae37d1cfa",
   "lastOpenFiles": [
-    "templates/생각 임시 노트 템플릿.md",
     "templates/참조 노트 템플릿.md",
+    "templates/생각 임시 노트 템플릿.md",
     "연습노트/무제 파일.md",
     "연습노트/202310020926.md",
     "연습노트/202310020918.md",
