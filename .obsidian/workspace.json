@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "templates/참조 노트 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#임시",
+                "query": "tag:#완료",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "templates/참조 노트 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "templates/참조 노트 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/무제 파일.md"
+                "file": "templates/참조 노트 템플릿.md"
               }
             }
           },
@@ -171,9 +170,13 @@
   },
   "active": "cc9cd80ae37d1cfa",
   "lastOpenFiles": [
-    "templates/참조 노트 템플릿.md",
-    "templates/생각 임시 노트 템플릿.md",
+    "인물/니클라스 루만.md",
+    "attachments/Pasted image 20231001220742.png",
     "연습노트/무제 파일.md",
+    "attachments",
+    "templates/참조 노트 템플릿.md",
+    "영구노트/무제 파일.md",
+    "templates/생각 임시 노트 템플릿.md",
     "연습노트/202310020926.md",
     "연습노트/202310020918.md",
     "Resources/IT/Github/Github.md",
@@ -190,14 +193,11 @@
     "Resources",
     "영구노트",
     "연습노트",
-    "인물/니클라스 루만.md",
     "Resources/IT/Obsidian/제텔카스텐.md",
     "Resources/IT/Github/attachments/Pasted image 20231001224939.png",
     "Resources/IT/Github/attachments",
     "Resources/IT/Github",
     "Resources/IT",
-    "인물/attachments/Pasted image 20231001220742.png",
-    "인물/attachments",
     "Resources/IT/Obsidian/attachments/Pasted image 20231001204409.png",
     "Pasted image 20231001203923.png.md",
     "Pasted image 20231001203923.png",
