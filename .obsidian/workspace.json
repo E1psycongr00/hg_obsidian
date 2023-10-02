@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc9cd80ae37d1cfa",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "templates/생각 임시 노트 템플릿.md",
     "templates/참조 노트 템플릿.md",
