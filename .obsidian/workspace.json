@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b9137f5bb312a56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Java 8 이전 버전 별 특징.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java 8 특징.md",
+                "file": "연습노트/Java 8 이전 버전 별 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java 8 특징.md",
+                "file": "연습노트/Java 8 이전 버전 별 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java 8 특징.md"
+                "file": "연습노트/Java 8 이전 버전 별 특징.md"
               }
             }
           },
@@ -170,10 +183,11 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "9130360b5da76c71",
+  "active": "1b9137f5bb312a56",
   "lastOpenFiles": [
-    "영구노트/Java 소개.md",
+    "연습노트/Java 8 이전 버전 별 특징.md",
     "연습노트/Java 8 특징.md",
+    "영구노트/Java 소개.md",
     "영구노트/나만의 노트 분리하기.md",
     "영구노트/나만의 노트 확장 방법.md",
     "영구노트/제텔 카스텐 기법.md",
@@ -208,7 +222,6 @@
     "영구노트/무제 파일.md",
     "연습노트/202310020926.md",
     "연습노트/202310020918.md",
-    "연습노트/202310020911.md",
     "영구노트/참조 노트",
     "영구노트/문헌 노트",
     "templates",
