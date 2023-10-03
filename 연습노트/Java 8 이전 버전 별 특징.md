@@ -88,8 +88,11 @@
 
 지원 목록
 - Dynamic Language
-- Switch에서 
-
+- Switch에서 String 사용
+- try 자동 자원 관리
+- Diamond Operatior <>
+- 이진수 리터럴
+- 숫자 리터럴에 _ 지원
 
 
 ## 질문 & 확장
