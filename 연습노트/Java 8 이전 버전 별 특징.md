@@ -27,7 +27,24 @@
 
 ### J2SE 1.2
 
-1998년 12월 8일 발표
+1998년 12월 8일 발표  일반 지원은 2003년 11월에 종료
+
+**지원 목록**
+- JIT
+- COBRA
+- stricfp
+- Swing GUI
+- Java Applet을 구동하는 웹 브라우저 플러그인
+
+### J2SE 1.3
+2000년 3월 8일 발표. 일반 지원은 2006년 11월에 종료
+
+**지원 목록**
+- HotSpot JVM
+- JNDI
+- JPDA
+- JavaSound
+- RMI가 COBRA 지원
 
 ## 질문 & 확장
 
