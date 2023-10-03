@@ -46,6 +46,52 @@
 - JavaSound
 - RMI가 COBRA 지원
 
+### J2SE1.4
+2002년 2월 6일  ~ 2008년 10월, 연장 지원은 2013년 2월에 종료
+
+**지원 목록**
+- assert
+- 정규 표현식
+- IPv6
+- Non-Blocking IO
+- XML API
+- JCE
+- JSSE
+- Java Web Start
+
+### J2SE 5
+
+2004년 9월 30일 ~ 2009년 9월, 연장 지원은 2015년 5월
+
+**지원 목록**
+- Generic
+- Annotation
+- Auto Boxing/ Un Boxing
+- Enumeration
+- static import
+- Cocurrency API 추가
+- java.util.Scanner 추가
+
+### Java SE 6
+
+2006년 12월 11일 ~ 2013년 2월, 연장 지원 2018년 12월
+
+**지원 목록**
+- Scriting Language Support
+- JDBC 4.0
+- Java Compiler API
+- Pluggable Annotation
+
+
+### Java SE 7
+2011년 7월 7일 ~ 2015년 4월, 연장 지원 2022년 7월
+
+지원 목록
+- Dynamic Language
+- Switch에서 
+
+
+
 ## 질문 & 확장
 
 (없음)
