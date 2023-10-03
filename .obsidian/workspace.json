@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9b13feed0b4969",
+        "id": "dc0c5ecc89ec4118",
         "type": "tabs",
         "children": [
           {
-            "id": "f72f41e9278eb9f8",
+            "id": "2aa76262d951ec5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,11 +170,14 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "f72f41e9278eb9f8",
+  "active": "2aa76262d951ec5e",
   "lastOpenFiles": [
-    "영구노트/SOLID란 무엇인가.md",
-    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "Resources/IT/Obsidian/Obsidian.md",
+    "Resources/IT/Obsidian/제텔카스텐.md",
+    "Resources/IT/Github/Github.md",
     "연습노트/Java 소개.md",
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/SOLID란 무엇인가.md",
     "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
     "영구노트/제텔 카스텐 기법.md",
@@ -196,12 +199,9 @@
     "attachments/Pasted image 20231002152257.png",
     "attachments/Pasted image 20231002151011.png",
     "attachments/Pasted image 20231002150914.png",
-    "Resources/IT/Obsidian/제텔카스텐.md",
     "인물/니클라스 루만.md",
     "README.md",
-    "Resources/IT/Github/Github.md",
     "attachments/Pasted image 20231001224939.png",
-    "Resources/IT/Obsidian/Obsidian.md",
     "attachments/Pasted image 20231001204409.png",
     "attachments",
     "영구노트/무제 파일.md",
