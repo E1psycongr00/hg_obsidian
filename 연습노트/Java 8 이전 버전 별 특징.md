@@ -97,7 +97,8 @@
 
 ## 질문 & 확장
 
-(없음)
+- RMI?
+- HotSpot JVM?
 
 ## 출처(링크)
 - https://namu.wiki/w/Java/%EB%B2%84%EC%A0%84#s-2

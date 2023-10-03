@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "1b9137f5bb312a56",
+            "id": "1b73269df4966b11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 8 이전 버전 별 특징.md",
+                "file": "연습노트/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java 8 이전 버전 별 특징.md",
+                "file": "연습노트/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java 8 이전 버전 별 특징.md",
+                "file": "연습노트/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java 8 이전 버전 별 특징.md"
+                "file": "연습노트/무제 파일.md"
               }
             }
           },
@@ -183,16 +183,19 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "1b9137f5bb312a56",
+  "active": "1b73269df4966b11",
   "lastOpenFiles": [
+    "연습노트/Java 8 특징.md",
+    "연습노트/무제 파일.md",
+    "연습노트/Java 8 이전 버전 별 특징.md",
     "영구노트/니콜라스 루만.md",
+    "attachments.md",
+    "영구노트/나만의 노트 확장 방법.md",
+    "영구노트/나만의 노트 분리하기.md",
+    "attachments/Pasted image 20231001204409.png",
     "영구노트/제텔 카스텐 기법.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "영구노트/나만의 노트 분리하기.md",
-    "영구노트/나만의 노트 확장 방법.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
-    "연습노트/Java 8 특징.md",
-    "연습노트/Java 8 이전 버전 별 특징.md",
     "영구노트/Java 소개.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/SOLID란 무엇인가.md",
@@ -217,11 +220,8 @@
     "인물/니클라스 루만.md",
     "README.md",
     "attachments/Pasted image 20231001224939.png",
-    "attachments/Pasted image 20231001204409.png",
     "attachments",
     "영구노트/무제 파일.md",
-    "연습노트/202310020926.md",
-    "연습노트/202310020918.md",
     "영구노트/참조 노트",
     "영구노트/문헌 노트",
     "templates",
