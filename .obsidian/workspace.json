@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/2022년 프로그래밍 별 통계.md",
+                "file": "연습노트/Java 8 이전 버전 별 특징.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:연습노트  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/2022년 프로그래밍 별 통계.md",
+                "file": "영구노트/SOLID란 무엇인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/2022년 프로그래밍 별 통계.md",
+                "file": "영구노트/SOLID란 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/2022년 프로그래밍 별 통계.md"
+                "file": "영구노트/SOLID란 무엇인가.md"
               }
             }
           },
@@ -196,13 +195,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7a2eb0c4136d69ff",
+  "active": "a50575c62e451f9f",
   "lastOpenFiles": [
-    "attachments/Pasted image 20231003181508.png",
+    "연습노트/Java 8 이전 버전 별 특징.md",
     "연습노트/JRE 와 JDK 의 차이.md",
     "연습노트/Java 8 특징.md",
-    "연습노트/Java 8 이전 버전 별 특징.md",
-    "연습노트/2022년 프로그래밍 별 통계.md",
+    "영구노트/2022년 프로그래밍 별 통계.md",
+    "attachments/Pasted image 20231003181849.png",
+    "attachments/Pasted image 20231003181815.png",
+    "attachments/Pasted image 20231003181750.png",
+    "attachments/Pasted image 20231003181728.png",
+    "attachments/Pasted image 20231003181650.png",
+    "attachments/Pasted image 20231003181637.png",
+    "attachments/Pasted image 20231003181508.png",
     "영구노트/니콜라스 루만.md",
     "attachments.md",
     "영구노트/나만의 노트 확장 방법.md",
@@ -225,15 +230,8 @@
     "templates/솔루션 템플릿.md",
     "attachments/Pasted image 20231002171733.png",
     "attachments/Pasted image 20231002170648.png",
-    "attachments/Pasted image 20231002163540.png",
     "Pasted image 20231002162934.png.md",
-    "attachments/Pasted image 20231002163052.png",
-    "attachments/Pasted image 20231002162934.png",
-    "attachments/Pasted image 20231002152257.png",
-    "attachments/Pasted image 20231002151011.png",
-    "attachments/Pasted image 20231002150914.png",
     "인물/니클라스 루만.md",
-    "attachments/Pasted image 20231001224939.png",
     "attachments",
     "영구노트/참조 노트",
     "영구노트/문헌 노트",
