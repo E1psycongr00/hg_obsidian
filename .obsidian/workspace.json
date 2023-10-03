@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/JRE 와 JDK 의 차이.md",
+                "file": "연습노트/Java 8 특징.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,18 +45,6 @@
         "id": "d9f00a06d3554543",
         "type": "tabs",
         "children": [
-          {
-            "id": "a50575c62e451f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/SOLID란 무엇인가.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "021db5a64478cc2e",
             "type": "leaf",
@@ -91,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JRE 와 JDK 의 차이.md",
+                "file": "연습노트/Java 8 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JRE 와 JDK 의 차이.md",
+                "file": "연습노트/Java 8 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JRE 와 JDK 의 차이.md"
+                "file": "연습노트/Java 8 특징.md"
               }
             }
           },
@@ -186,12 +174,13 @@
   },
   "active": "1b73269df4966b11",
   "lastOpenFiles": [
+    "영구노트/Java 8 이전 버전 별 특징.md",
+    "영구노트/SOLID란 무엇인가.md",
+    "연습노트/Java 8 특징.md",
+    "영구노트/JRE 와 JDK 의 차이.md",
+    "영구노트/Java 소개.md",
     "attachments/Pasted image 20231003191242.png",
     "attachments/Pasted image 20231003191214.png",
-    "연습노트/Java 8 특징.md",
-    "영구노트/SOLID란 무엇인가.md",
-    "연습노트/Java 8 이전 버전 별 특징.md",
-    "연습노트/JRE 와 JDK 의 차이.md",
     "영구노트/2022년 프로그래밍 별 통계.md",
     "attachments/Pasted image 20231003181849.png",
     "attachments/Pasted image 20231003181815.png",
@@ -208,7 +197,6 @@
     "영구노트/제텔 카스텐 기법.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
-    "영구노트/Java 소개.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
@@ -219,7 +207,6 @@
     "templates/참조 노트 템플릿.md",
     "templates/인물 소개 템플릿.md",
     "templates/솔루션 템플릿.md",
-    "attachments/Pasted image 20231002171733.png",
     "Pasted image 20231002162934.png.md",
     "인물/니클라스 루만.md",
     "attachments",
