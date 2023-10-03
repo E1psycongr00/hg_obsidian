@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0c5ecc89ec4118",
+        "id": "53c577affd773833",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa76262d951ec5e",
+            "id": "9130360b5da76c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/제텔 카스텐 기법.md",
+                "file": "영구노트/Java 소개.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/제텔 카스텐 기법.md",
+                "file": "영구노트/Java 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/제텔 카스텐 기법.md",
+                "file": "영구노트/Java 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/제텔 카스텐 기법.md"
+                "file": "영구노트/Java 소개.md"
               }
             }
           },
@@ -170,19 +170,19 @@
       "zk-prefixer:새로운 유니크 노트 생성": false
     }
   },
-  "active": "2aa76262d951ec5e",
+  "active": "9130360b5da76c71",
   "lastOpenFiles": [
+    "영구노트/나만의 노트 분리하기.md",
+    "영구노트/나만의 노트 확장 방법.md",
+    "영구노트/제텔 카스텐 기법.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/니콜라스 루만.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
-    "영구노트/나만의 노트 확장 방법.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
     "영구노트/Java 소개.md",
-    "영구노트/나만의 노트 분리하기.md",
     "영구노트/SOLID란 무엇인가.md",
     "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
-    "영구노트/제텔 카스텐 기법.md",
     "Resources/IT/Obsidian/Obsidian.md",
     "Resources/IT/Obsidian/제텔카스텐.md",
     "Resources/IT/Github/Github.md",
