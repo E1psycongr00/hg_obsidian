@@ -5,8 +5,14 @@
 
 ----
 ## 원문
+Oracle JDK와 Open JDK 와 같은 자바 배포판의 특성을 이해하기 위해 이 둘을 비교하고,  어떤 배포판은 선택해야 좋을 지 알아보자
 
-
+### Oracle JDK vs Open JDK
+|           | Oracle JDK                           | Open JDK         |
+| --------- | ------------------------------------ | ---------------- |
+| 출시 일정 | 3년마다 릴리즈                       | 6개월마다 릴리즈 |
+| 라이센스  | Oracle Binary Code License Agreement | GNU GPL          |
+| 성능      |                                      |                  |
 ## 질문 & 확장
 
 (없음)
