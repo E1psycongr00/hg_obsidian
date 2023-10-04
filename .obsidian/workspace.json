@@ -16,8 +16,21 @@
                 "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "24700ad1e728bd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
+                "file": "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
+                "file": "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md"
+                "file": "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md"
               }
             }
           },
@@ -158,15 +171,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99c2b0e3ef3739c9",
+  "active": "24700ad1e728bd1d",
   "lastOpenFiles": [
+    "연습노트/Java 8 특징.md",
     "연습노트/Java 11 특징.md",
+    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
+    "Excalidraw/ttf/NanumDaHaengCe.ttf",
+    "Excalidraw/ttf",
+    "Excalidraw/새 폴더",
     "attachments/Pasted Image 20231004090953_801.png",
     "Excalidraw",
     "무제 파일.canvas",
     "영구노트/Java 8 이전 버전 별 특징.md",
-    "연습노트/Java 8 특징.md",
     "니클라스 루만.md",
     "attachments.md",
     "README.md",
@@ -202,9 +219,6 @@
     "영구노트/문헌 노트",
     "templates",
     "Resources",
-    "영구노트",
-    "연습노트",
-    "Resources/IT/Github/attachments",
-    "Resources/IT/Github"
+    "영구노트"
   ]
 }
