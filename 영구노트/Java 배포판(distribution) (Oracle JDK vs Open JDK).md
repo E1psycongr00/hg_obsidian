@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-04
 작성 시간: 14:33
 
-## 주제: #미완 #IT #JAVA 
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -41,12 +41,12 @@ TCK 유무나 LTS(장기 지원) 여부도 중요할 수 있다.
 어떤 벤더의 JDK를 쓸지는 해당 위키를 참고 할 수 있다. https://en.wikipedia.org/wiki/OpenJDK
 
 ### 완전한 OpenJDK 개요
-Rafeal Winterhalter는 OS, 아키텍처, 라이선스, 자원 및 유지 관리 기간을 포함해 사용가능한 모든 OpenJDK 빌드의 훌륭한 목록을 편집해서 제공한다.
+Rafeal Winterhalter는 OS, 아키텍처, 라이선스, 자원 및 유지 관리 기간을 포함해 사용 가능한 모든 OpenJDK 빌드의 훌륭한 목록을 편집해서 제공한다.
 
 해당 주소에서 확인 가능하다 https://rafael.codes/openjdk/
 
 ## 질문 & 확장
-
+-  Java 11 이후로는 Oracle JDK와 Open JDK가 사실상 동일하니, 11 이후 JDK를 쓰는 게 어떤 JDK를 쓰더라도 안정성을 보장할 수 있겠군
 
 ## 출처(링크)
 - https://namu.wiki/w/Java/%EB%B2%84%EC%A0%84#s-14
