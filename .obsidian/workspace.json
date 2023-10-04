@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/LTS.md",
+                "file": "연습노트/Java Distribution (Oracle JDK vs Open JDK).md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/LTS.md",
+                "file": "연습노트/Java Distribution (Oracle JDK vs Open JDK).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/LTS.md",
+                "file": "연습노트/Java Distribution (Oracle JDK vs Open JDK).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/LTS.md"
+                "file": "연습노트/Java Distribution (Oracle JDK vs Open JDK).md"
               }
             }
           },
@@ -223,11 +223,11 @@
   },
   "active": "8386f39c6ec9a6b0",
   "lastOpenFiles": [
-    "README.md",
+    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/LTS.md",
+    "README.md",
     "연습노트/Java Distribution (Oracle JDK vs Open JDK).md",
     "연습노트/JAVA 람다 활용.md",
-    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "연습노트/자바 11 특징.md",
