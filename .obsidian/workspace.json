@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e28fc6d4166eaf23",
+        "id": "1c575b58e1242c4f",
         "type": "tabs",
         "children": [
           {
-            "id": "99c2b0e3ef3739c9",
+            "id": "6ba70e76949f3eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Java 8 특징.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac9ca7d6eae302e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/자바 9 ~ 11 이전까지 과정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "047d700cac8fa632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/자바 9 ~ 11 이전까지 과정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd123a473e2bed3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/자바 11 특징.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ac09b9d314f7d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8386f39c6ec9a6b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb0f50beb73682fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+                "file": "연습노트/JAVA 람다 활용.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+                "file": "연습노트/JAVA 람다 활용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+                "file": "연습노트/JAVA 람다 활용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md"
+                "file": "연습노트/JAVA 람다 활용.md"
               }
             }
           },
@@ -233,14 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb0f50beb73682fc",
+  "active": "6ba70e76949f3eb6",
   "lastOpenFiles": [
+    "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
+    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/JAVA 람다 활용.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
-    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Project Jigsaw.md",
     "연습노트/LTS.md",
-    "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
     "영구노트/자바 11 특징.md",
     "영구노트/무료와 독점 JDK 모음.md",
     "README.md",
