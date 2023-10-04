@@ -11,6 +11,53 @@
 java9에서도 꽤나 많은 릴리즈가 이루어졌다.
 
 #### 컬렉션
+컬렉션에는 목록, 세트 또는 맵을 쉽게 구성할 수 있는 도우미 메서드를 제공한다.
+
+```java
+List<String> list = List.of("one", "two", "three");
+Set<String> set = Set.of("one", "two", "three");
+Map<String, String> map = Map.of("foo", "one", "bar", "two");
+```
+
+#### 스트림
+스트림에는 takeWhile, dropWhile, iterate 메소드 형태로 몇 가지 추가되었다.
+
+```java
+List<Stream> stream = Stream.iterate("", s -> s + "s")
+	.takeWhile(s -> s.length() < 10);
+```
+
+#### Optional
+Optional에서는 ifPresentOrElse 메소드가 생김
+```java
+user.ifPresentOrElse(this::displayAccount, this::displayLogin);
+```
+
+#### 인터페이스
+인터페이스 고유의 개인 메서드가 생김(static 메서드)
+
+```java
+public interface MyInterface {
+	private static void myInterfaceMethod() {
+		System.out.println("Yay, I am private");
+	}
+}
+```
+
+#### 기타 언어 기능
+향상된 리소스 사용 설명 및 다이아몬드 연산자 확장과 같은 여러가지 개선사항이 있다.
+
+
+#### JShell
+JShell을 통해 java에서 간단한 명령을 시도하고 즉각적으로 결과를 얻을 수 있는 Shell이 추가 되었다.
+```shell
+% jshell
+|  Welcome to JShell -- Version 9
+|  For an introduction type: /help intro
+
+jshell> int x = 10
+x ==> 10
+```
 
 
 ## 질문 & 확장
