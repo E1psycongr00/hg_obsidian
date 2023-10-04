@@ -11,24 +11,15 @@
             "id": "99c2b0e3ef3739c9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "24700ad1e728bd1d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md"
+                "file": "연습노트/Java 8 특징.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
+                "file": "연습노트/Java 8 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
+                "file": "연습노트/Java 8 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md"
+                "file": "연습노트/Java 8 특징.md"
               }
             }
           },
@@ -169,8 +160,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "24700ad1e728bd1d",
+  "active": "99c2b0e3ef3739c9",
   "lastOpenFiles": [
+    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
+    "연습노트/Java 8 특징.md",
+    "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Excalidraw/libraries/aws-architecture-icons.excalidrawlib",
     "Excalidraw/libraries/forms.excalidrawlib",
     "Excalidraw/libraries/data-viz.excalidrawlib",
@@ -178,17 +176,11 @@
     "Excalidraw/libraries/graphs.excalidrawlib",
     "Excalidraw/libraries/stick-figures.excalidrawlib",
     "Excalidraw/libraries/architecture-diagram-components.excalidrawlib",
-    "연습노트/Java 8 특징.md",
     "영구노트/나만의 노트 확장 방법.md",
     "README.md",
     "templates/참조 노트 템플릿.md",
-    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "Excalidraw/libraries/software-architecture.excalidrawlib",
-    "Excalidraw/libraries",
-    "Excalidraw/새 폴더",
     "연습노트/Java 11 특징.md",
-    "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
-    "Excalidraw/ttf/NanumDaHaengCe.ttf",
     "attachments/Pasted Image 20231004090953_801.png",
     "무제 파일.canvas",
     "영구노트/Java 8 이전 버전 별 특징.md",
@@ -206,7 +198,6 @@
     "attachments/Pasted image 20231003181728.png",
     "attachments/Pasted image 20231003181650.png",
     "attachments/Pasted image 20231003181637.png",
-    "attachments/Pasted image 20231003181508.png",
     "영구노트/니콜라스 루만.md",
     "영구노트/나만의 노트 분리하기.md",
     "영구노트/제텔 카스텐 기법.md",
@@ -216,7 +207,6 @@
     "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
     "Resources/IT/Obsidian/Obsidian.md",
-    "Resources/IT/Obsidian/제텔카스텐.md",
-    "Resources/IT/Github/Github.md"
+    "Resources/IT/Obsidian/제텔카스텐.md"
   ]
 }
