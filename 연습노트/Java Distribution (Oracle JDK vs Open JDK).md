@@ -32,12 +32,21 @@ Java SE 11 이후로는 둘 간의 사실상 큰 차이는 없지만 그래도 �
 본인이 Linux기반이라면 Linux에 타입에 따라 지원하는 OpenJDK를 선택하는 것이 바람직할 수 있다.  
 예를 들면 AWS EC2 인스턴스를 쓰고 Amazon 기반 리눅스를 사용한다면 Amazon Coretto를 사용하는 것이 도움이 될 수 있다. 그 이유는 Amazon에서 제공하는 Open JDK이고 프로덕션 환경의 성능, 보안 및 안정성이 더욱 향상되도록 설계되어 있기 때문이다.
 
-TCK 유무나 LTS도 중요할 수 있다. 그 이유는 TCK의 경우
+TCK 유무나 LTS(장기 지원) 여부도 중요할 수 있다. 
 
+> **TCK**
+> 기술 호환성 키트로 불림
+> JSR(Java 사양 요청)의 특정 구현이 준수되었는지 명목상으로 확인하는 테스트 모음
+
+어떤 벤더의 JDK를 쓸지는 해당 위키를 참고 할 수 있다. https://en.wikipedia.org/wiki/OpenJDK
+
+### 완전한 OpenJDK 개요
+Rafeal Winterhalter는 OS, 아키텍처, 라이선스, 자원 및 유지 관리 기간을 포함해 사용가능한 모든 OpenJDK 빌드의 훌륭한 목록을 편집해서 제공한다.
+
+해당 주소에서 확인 가능하다 https://rafael.codes/openjdk/
 
 ## 질문 & 확장
 
-(없음)
 
 ## 출처(링크)
 - https://namu.wiki/w/Java/%EB%B2%84%EC%A0%84#s-14
@@ -47,7 +56,7 @@ TCK 유무나 LTS도 중요할 수 있다. 그 이유는 TCK의 경우
 - https://www.redhat.com/en/topics/application-modernization/openjdk-vs-oracle-jdk
 - https://www.openlogic.com/blog/java-experts-openjdk-vs-oracle-jdk
 ## 연결 노트
-
+- [[무료와 독점 JDK 모음]]
 
 
 
