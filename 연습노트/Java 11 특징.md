@@ -6,13 +6,19 @@
 ----
 ## 원문
 
+자바 11은 큰 릴리즈가 없다. 그래서 자바 9 ~ 11 까지의 릴리즈된 내용을 살펴보고 이를 자바 8과 비교할 계획이다.
+### Java 9
+java9에서도 꽤나 많은 릴리즈가 이루어졌다.
+
+#### 컬렉션
+
 
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
+- https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features
 
 ## 연결 노트
 

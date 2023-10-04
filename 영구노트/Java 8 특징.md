@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-03
 작성 시간: 15:04
 
-## 주제: #미완 #IT #JAVA 
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -31,19 +31,28 @@ Runnable runnable = () -> System.out.println("Hello world two!");
 List<String> list = Arrays.asList("hello", "world");
 ```
 
-또한 컬렉션을 stream을 이용하여 
+또한 컬렉션을 stream을 이용하여 가독성있게 처리할 수 있다.
+
+```java
+list.stream()
+	.filter(name -> name.startsWith("f"))
+	.map(String::toUpperCase())
+	.sorted()
+	.forEach(System.out::println);
+```
 
 
 ## 질문 & 확장
 
-(없음)
+- Optional도 간략하게 소개하는 게 낫지 않으려나?
+- 람다의 심화적인 활용도 궁금하군
 
 ## 출처(링크)
 - https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features
 - https://www.oracle.com/java/technologies/javase/8-whats-new.html
 ## 연결 노트
 - [[JRE 와 JDK 의 차이]]
-
+- [[Java 8 이전 버전 별 특징]]
 
 
 

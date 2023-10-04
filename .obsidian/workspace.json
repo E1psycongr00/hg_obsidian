@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 8 특징.md",
+                "file": "영구노트/Java 8 특징.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac9ca7d6eae302e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Java 11 특징.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java 8 특징.md",
+                "file": "연습노트/Java 11 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java 8 특징.md",
+                "file": "연습노트/Java 11 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java 8 특징.md"
+                "file": "연습노트/Java 11 특징.md"
               }
             }
           },
@@ -160,11 +173,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99c2b0e3ef3739c9",
+  "active": "ac9ca7d6eae302e7",
   "lastOpenFiles": [
-    "영구노트/JRE 와 JDK 의 차이.md",
-    "연습노트/Java 8 특징.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
+    "연습노트/Java 11 특징.md",
+    "연습노트/JAVA 람다 활용.md",
+    "영구노트/Java 8 특징.md",
+    "영구노트/JRE 와 JDK 의 차이.md",
     "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
@@ -181,7 +196,6 @@
     "README.md",
     "templates/참조 노트 템플릿.md",
     "Excalidraw/libraries/software-architecture.excalidrawlib",
-    "연습노트/Java 11 특징.md",
     "attachments/Pasted Image 20231004090953_801.png",
     "무제 파일.canvas",
     "영구노트/Java 8 이전 버전 별 특징.md",
