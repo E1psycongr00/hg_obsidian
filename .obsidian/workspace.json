@@ -83,8 +83,12 @@
             "id": "eb0f50beb73682fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -155,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md"
+              }
             }
           },
           {
