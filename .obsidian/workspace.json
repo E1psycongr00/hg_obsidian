@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e154e1c514ad4f52",
+            "id": "9964787f8ffebd0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Maven vs Gradle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Why Gradle.md",
+                "file": "연습노트/Maven vs Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Why Gradle.md",
+                "file": "연습노트/Maven vs Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Why Gradle.md"
+                "file": "연습노트/Maven vs Gradle.md"
               }
             }
           },
@@ -181,21 +184,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d96dcd8e1fd3cb2",
+  "active": "9964787f8ffebd0e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231005200319.png",
+    "attachments/Pasted image 20231005200229.png",
+    "attachments/Pasted image 20231005200211.png",
+    "연습노트/LTS.md",
+    "연습노트/JAVA 람다 활용.md",
+    "연습노트/Gradle과 Kotlin DSL.md",
+    "연습노트/Maven vs Gradle.md",
+    "연습노트/Why Gradle.md",
     "attachments/Pasted image 20231005181345.png",
     "attachments/Pasted image 20231005181313.png",
-    "연습노트/Gradle과 Kotlin DSL.md",
-    "연습노트/Why Gradle.md",
     "영구노트/Queydsl 소개.md",
     "templates/참조 노트 템플릿.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "연습노트/LTS.md",
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
     "attachments/Pasted image 20231005145435.png",
     "attachments/Pasted image 20231005145424.png",
     "attachments/Pasted image 20231005145403.png",
-    "연습노트/JAVA 람다 활용.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
@@ -212,7 +219,6 @@
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "영구노트/Java 8 특징.md",
     "영구노트/JRE 와 JDK 의 차이.md",
-    "Excalidraw/Drawing 2023-10-04 09.09.08.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -226,9 +232,6 @@
     "Excalidraw/libraries/software-architecture.excalidrawlib",
     "attachments/Pasted Image 20231004090953_801.png",
     "무제 파일.canvas",
-    "attachments/Pasted image 20231003191242.png",
-    "attachments/Pasted image 20231003191214.png",
-    "attachments/Pasted image 20231003181849.png",
-    "attachments/Pasted image 20231003181815.png"
+    "attachments/Pasted image 20231003191242.png"
   ]
 }
