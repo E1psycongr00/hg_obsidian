@@ -25,12 +25,12 @@
 (없음)
 
 ## 출처(링크)
-
-
-## 연결 노트
 - https://www.youtube.com/watch?v=ntOH2bWLWQs
 - https://gradle.org/maven-vs-gradle/
 - https://gradle.org/gradle-vs-maven-performance/
+
+## 연결 노트
+
 
 
 
