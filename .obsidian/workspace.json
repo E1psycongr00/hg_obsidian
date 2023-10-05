@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Queydsl 소개.md",
+                "file": "영구노트/Queydsl 소개.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Queydsl 소개.md",
+                "file": "영구노트/Queydsl 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Queydsl 소개.md",
+                "file": "영구노트/Queydsl 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Queydsl 소개.md"
+                "file": "영구노트/Queydsl 소개.md"
               }
             }
           },
@@ -163,7 +163,7 @@
   "active": "49633694b0448d94",
   "lastOpenFiles": [
     "templates/참조 노트 템플릿.md",
-    "연습노트/Queydsl 소개.md",
+    "영구노트/Queydsl 소개.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
     "연습노트/LTS.md",
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",

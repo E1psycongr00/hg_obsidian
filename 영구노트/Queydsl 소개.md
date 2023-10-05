@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-05
 작성 시간: 11:46
 
-## 주제: #미완 #QueryDSL
+## 주제: #완성  #QueryDSL
 
 ----
 
@@ -36,11 +36,15 @@ List<Member> result = queryFactory
 	.fetch();
 ```
 
-
-###
+### 장점
+- 문자열 기반이 아니기 때문에 코드로 쿼리를 작성할 수 있어 컴파일 시점에 문법 오류를 발견 가능함
+- Intellij와 같은 IDE 도움 받을 수 있음
+- 복잡한 쿼리 작성할 때 JQPL에 비해 매우 편리하다
+- 쿼리 작성시 제약 조건과 관련된 메서드 추출을 통해 재사용이 가능하다.
+	- ex) where절 또는 Order By 절 .....
+- JQPL과 문법이 크게 다르지 않다.
 ## 질문 & 확장
-
-
+(없음)
 
 ## 출처(링크)
 - https://www.baeldung.com/intro-to-querydsl
