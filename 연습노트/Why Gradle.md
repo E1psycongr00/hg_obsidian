@@ -5,8 +5,8 @@
 
 ----
 ## 원문
-Gradle은 오픈소스 빌드 자동화 도구이다.  Maven과 같은 빌드 툴로 Groovy 언어를 이용한다.(최근에는 Kotlin도 지원한다) 현재 안드로이드 앱을 만드는데 필요한 안드로이드 스튜디오의 공식 빌드 도구이기도 하다. 언어 지원은 Java, C++, Python과 같은 여러가지 언어를 지원한다.
-
+### Gradle이란
+2012년에 출시된 Groovy 기반의 오픈소스  빌드 도구로(최근엔 Kotlin도 지원), 거의 대부분 타입의 소프트웨어를 빌드할 수 있는 빌드 자동화 시스템이다. 
 
 ### 왜 Gradle 인가
 Gradle은 현재 활발한 커뮤니티와 강력한 개발자 생태계를 갖춘 성숙한 도구이다.
@@ -38,7 +38,7 @@ Gradle은 현재 활발한 커뮤니티와 강력한 개발자 생태계를 갖�
 ## 연결 노트
 - https://gradle.org/
 - https://docs.gradle.org/current/userguide/userguide.html?_gl=1*15v27hw*_ga*MTk1ODI1ODcyMy4xNjk2NDk2MDgx*_ga_7W7NC6YNPT*MTY5NjQ5NjA4MS4xLjEuMTY5NjQ5NjM3Ni4xOS4wLjA.#why_gradle
-
+- https://www.youtube.com/watch?v=ntOH2bWLWQs
 
 
 
