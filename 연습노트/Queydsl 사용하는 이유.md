@@ -6,7 +6,7 @@
 ----
 
 ## 문제 제기 
-
+QueryDsl은 하이버네이트 쿼리 언어(HQL: Hibernate Query Language)로 타입에 안전하게 생성 및 관리해주는 프레임워크이다.
 
 ## 의견
 
