@@ -16,6 +16,6 @@
 (없음)
 
 ## 출처(링크)
-
-
+- https://www.baeldung.com/intro-to-querydsl
+- https://ittrue.tistory.com/292
 ## 연결 노트
