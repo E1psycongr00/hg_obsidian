@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#동기",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,20 +183,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9964787f8ffebd0e",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
+    "연습노트/Maven vs Gradle.md",
+    "연습노트/Why Gradle.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "연습노트/Gradle과 Kotlin DSL.md",
     "연습노트/JAVA 람다 활용.md",
-    "연습노트/Maven vs Gradle.md",
     "attachments/Pasted image 20231005200348.png",
     "attachments/Pasted image 20231005200319.png",
     "attachments/Pasted image 20231005200229.png",
     "attachments/Pasted image 20231005200211.png",
     "연습노트/LTS.md",
-    "연습노트/Why Gradle.md",
     "attachments/Pasted image 20231005181345.png",
     "attachments/Pasted image 20231005181313.png",
     "영구노트/Queydsl 소개.md",
