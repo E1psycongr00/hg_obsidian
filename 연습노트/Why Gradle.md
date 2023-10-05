@@ -26,6 +26,15 @@
 2. 멀티 프로젝트 빌드
 3. 빠른 빌드 속도
 
+#### 1. 프로젝트 설정 주입
+```groovy
+dependencies {
+	implementation 'org.springframework.boot::spring-boot-starter'
+	testImplementation 'org.springframework.boot::spring-boot-starter-test'
+}
+```
+
+project별로 주입되는 설정을 다르게 할 수 있는 장점이 있음
 
 ### 지원되는 언어 및 프레임워크
 ![[Pasted image 20231005181313.png]]
