@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/JAVA 람다 활용.md",
+                "file": "연습노트/LTS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JAVA 람다 활용.md",
+                "file": "연습노트/LTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JAVA 람다 활용.md",
+                "file": "연습노트/LTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JAVA 람다 활용.md"
+                "file": "연습노트/LTS.md"
               }
             }
           },
@@ -162,12 +162,12 @@
   },
   "active": "6ba70e76949f3eb6",
   "lastOpenFiles": [
-    "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
-    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/JAVA 람다 활용.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "연습노트/Project Jigsaw.md",
+    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/LTS.md",
+    "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
     "영구노트/자바 11 특징.md",
     "영구노트/무료와 독점 JDK 모음.md",
     "README.md",
