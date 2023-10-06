@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3881624f1ef7aa",
+        "id": "812a36fde7b8cc30",
         "type": "tabs",
         "children": [
           {
-            "id": "b87749cbfd7c94f9",
+            "id": "e27aa69567bf11d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/컴파일(compile)과 빌드(build) 개념.md",
+                "file": "연습노트/빌드 관리 도구 필요성.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bbd0a7b58138630f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d367ae4d17743e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -100,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/빌드 관리 도구 필요성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/빌드 관리 도구 필요성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/빌드 관리 도구 필요성.md"
+              }
             }
           },
           {
@@ -170,12 +161,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d367ae4d17743e9",
+  "active": "e27aa69567bf11d0",
   "lastOpenFiles": [
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "연습노트/빌드 관리 도구 필요성.md",
+    "연습노트/Why Gradle.md",
+    "영구노트/나만의 노트 확장 방법.md",
     "templates/인물 소개 템플릿.md",
     "영구노트/컴파일(compile)과 빌드(build) 개념.md",
-    "연습노트/Why Gradle.md",
-    "연습노트/빌드 관리 도구 필요성.md",
+    "Excalidraw/java의 build 과정 순서도.md",
     "연습노트/JAVA 람다 활용.md",
     "연습노트/Java의 컴파일과 빌드.md",
     "연습노트/Gradle과 Kotlin DSL.md",
@@ -187,8 +181,6 @@
     "연습노트/Spring Rest Docs vs Swagger.md",
     "영구노트/2022년 프로그래밍 별 통계.md",
     "영구노트/나만의 노트 분리하기.md",
-    "영구노트/나만의 노트 확장 방법.md",
-    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
     "영구노트/니콜라스 루만.md",
     "영구노트/무료와 독점 JDK 모음.md",
@@ -197,7 +189,6 @@
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/제텔 카스텐 기법.md",
     "templates/참조 노트 템플릿.md",
-    "Excalidraw/linux C의 build 과정 순서도.md",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
     "attachments/Pasted image 20231006085122.png",
