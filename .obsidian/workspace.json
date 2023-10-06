@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3955357e4936cdc",
+            "id": "72df183ecedc8cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Why Gradle.md",
+                "file": "연습노트/컴파일(compile)의 정의.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "72df183ecedc8cfb",
+            "id": "c566f2ab43e0d013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java의 컴파일과 빌드.md",
+                "file": "연습노트/컴파일(compile)의 정의.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java의 컴파일과 빌드.md",
+                "file": "연습노트/컴파일(compile)의 정의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java의 컴파일과 빌드.md",
+                "file": "연습노트/컴파일(compile)의 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java의 컴파일과 빌드.md"
+                "file": "연습노트/컴파일(compile)의 정의.md"
               }
             }
           },
@@ -172,13 +172,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72df183ecedc8cfb",
+  "active": "c566f2ab43e0d013",
   "lastOpenFiles": [
-    "연습노트/Why Gradle.md",
+    "연습노트/바이너리 코드와 바이트 코드.md",
+    "연습노트/컴파일(compile)의 정의.md",
     "연습노트/Java의 컴파일과 빌드.md",
+    "연습노트/Why Gradle.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
-    "영구노트/컴파일(compile)의 정의.md",
     "연습노트/Spring Rest Docs vs Swagger.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Polling(폴링).md",
@@ -209,7 +210,6 @@
     "영구노트/제텔 카스텐 기법.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/자바 9 ~ 11 이전까지 과정.md",
-    "영구노트/니콜라스 루만.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/libraries/aws-architecture-icons.excalidrawlib",
