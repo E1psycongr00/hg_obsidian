@@ -29,6 +29,8 @@
 ### 빌드
 빌드란 소스 코드를 컴퓨터가 실행할 수 있는 파일을 만드는 과정이다. 빌드는 지원하는 언어에 따라 다르지만 큰 틀에서는 2가지로 볼 수 있다. C의 build와 Java의 빌드이다.
 
+### C의 빌드 과정
+![[Pasted image 20231006160103.png]]
 
 ## 질문 & 확장
 
@@ -38,6 +40,7 @@
 - https://bradbury.tistory.com/226
 - https://shrtorznzl.tistory.com/82
 - https://junroot.github.io/programming/Java%EC%9D%98-%EB%B9%8C%EB%93%9C%EC%99%80-%EB%B0%B0%ED%8F%AC/
+- https://bradbury.tistory.com/226
 ## 연결 노트
 
 
