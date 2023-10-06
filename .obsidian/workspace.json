@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e3b3796fe26c45f9",
+        "id": "ec3881624f1ef7aa",
         "type": "tabs",
         "children": [
           {
-            "id": "72df183ecedc8cfb",
+            "id": "e2721ea08669bcfd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/linux C의 build 과정 순서도.md"
-              }
-            }
-          },
-          {
-            "id": "612db5d535c6acf7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/java의 build 과정 순서도.md"
+                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/java의 build 과정 순서도.md",
+                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/java의 build 과정 순서도.md",
+                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/java의 build 과정 순서도.md"
+                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md"
               }
             }
           },
@@ -169,11 +159,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "e2721ea08669bcfd",
   "lastOpenFiles": [
     "Excalidraw/linux C의 build 과정 순서도.md",
     "Excalidraw/java의 build 과정 순서도.md",
-    "연습노트/컴파일(compile)과 빌드(build) 정의.md",
+    "연습노트/컴파일(compile)과 빌드(build) 개념.md",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
     "연습노트/Java의 컴파일과 빌드.md",
