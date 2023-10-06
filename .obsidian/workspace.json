@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/컴파일(compile)의 정의.md",
+                "file": "연습노트/컴파일(compile)과 빌드(build) 정의.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/컴파일(compile)의 정의.md",
+                "file": "연습노트/컴파일(compile)과 빌드(build) 정의.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/컴파일(compile)의 정의.md",
+                "file": "연습노트/컴파일(compile)과 빌드(build) 정의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/컴파일(compile)의 정의.md",
+                "file": "연습노트/컴파일(compile)과 빌드(build) 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/컴파일(compile)의 정의.md"
+                "file": "연습노트/컴파일(compile)과 빌드(build) 정의.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   },
   "active": "c566f2ab43e0d013",
   "lastOpenFiles": [
-    "연습노트/바이너리 코드와 바이트 코드.md",
-    "연습노트/컴파일(compile)의 정의.md",
     "연습노트/Java의 컴파일과 빌드.md",
+    "연습노트/컴파일(compile)과 빌드(build) 정의.md",
+    "연습노트/바이너리 코드와 바이트 코드.md",
     "연습노트/Why Gradle.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
