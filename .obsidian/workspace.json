@@ -16,8 +16,19 @@
                 "file": "Excalidraw/linux C의 build 과정 순서도.md"
               }
             }
+          },
+          {
+            "id": "612db5d535c6acf7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/java의 build 과정 순서도.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -84,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/linux C의 build 과정 순서도.md",
+                "file": "Excalidraw/java의 build 과정 순서도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/linux C의 build 과정 순서도.md",
+                "file": "Excalidraw/java의 build 과정 순서도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/linux C의 build 과정 순서도.md"
+                "file": "Excalidraw/java의 build 과정 순서도.md"
               }
             }
           },
@@ -157,11 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72df183ecedc8cfb",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "Excalidraw/linux C의 build 과정 순서도.md",
+    "Excalidraw/java의 build 과정 순서도.md",
     "연습노트/컴파일(compile)과 빌드(build) 정의.md",
     "attachments/Pasted image 20231006162835.png",
-    "Excalidraw/linux C의 build 과정 순서도.md",
     "attachments/Pasted image 20231006160103.png",
     "연습노트/Java의 컴파일과 빌드.md",
     "연습노트/바이너리 코드와 바이트 코드.md",
