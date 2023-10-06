@@ -76,8 +76,8 @@ project별로 주입되는 설정을 다르게 할 수 있는 장점이 있음
 - https://www.youtube.com/watch?v=V4knLFDG-ZM
 ## 연결 노트
 
-
-
+- [[컴파일(compile)과 빌드(build) 개념]]
+- [[빌드 관리 도구 필요성]]
 
 
 

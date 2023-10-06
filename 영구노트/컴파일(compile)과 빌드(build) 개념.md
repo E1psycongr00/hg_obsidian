@@ -57,8 +57,8 @@ C의 경우에는 실행파일로 만들기 이전에 중간 단계로 object �
 - https://junroot.github.io/programming/Java%EC%9D%98-%EB%B9%8C%EB%93%9C%EC%99%80-%EB%B0%B0%ED%8F%AC/
 - https://bradbury.tistory.com/226
 ## 연결 노트
-
-
+- [[빌드 관리 도구 필요성]]
+- [[Why Gradle]]
 
 
 
