@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-05
 작성 시간: 17:55
 
-## 주제: #완성  #IT #Gradle 
+## 주제: #미완   #IT #Gradle 
 
 ----
 ## 원문
@@ -73,7 +73,7 @@ project별로 주입되는 설정을 다르게 할 수 있는 장점이 있음
 - https://gradle.org/
 - https://docs.gradle.org/current/userguide/userguide.html?_gl=1*15v27hw*_ga*MTk1ODI1ODcyMy4xNjk2NDk2MDgx*_ga_7W7NC6YNPT*MTY5NjQ5NjA4MS4xLjEuMTY5NjQ5NjM3Ni4xOS4wLjA.#why_gradle
 - https://www.youtube.com/watch?v=ntOH2bWLWQs
-
+- https://www.youtube.com/watch?v=V4knLFDG-ZM
 ## 연결 노트
 
 
