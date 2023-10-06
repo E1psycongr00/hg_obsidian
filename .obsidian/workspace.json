@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md",
+                "file": "영구노트/컴파일(compile)과 빌드(build) 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87749cbfd7c94f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/빌드 도구 필요성.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md",
+                "file": "연습노트/빌드 도구 필요성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md",
+                "file": "연습노트/빌드 도구 필요성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/컴파일(compile)과 빌드(build) 개념.md"
+                "file": "연습노트/빌드 도구 필요성.md"
               }
             }
           },
@@ -159,44 +172,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2721ea08669bcfd",
+  "active": "b87749cbfd7c94f9",
   "lastOpenFiles": [
+    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
+    "연습노트/빌드 도구 필요성.md",
+    "연습노트/JAVA 람다 활용.md",
+    "연습노트/Java의 컴파일과 빌드.md",
+    "연습노트/Gradle과 Kotlin DSL.md",
+    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
+    "연습노트/LTS.md",
+    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+    "연습노트/Polling(폴링).md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/Spring Rest Docs vs Swagger.md",
+    "연습노트/Why Gradle.md",
+    "영구노트/2022년 프로그래밍 별 통계.md",
+    "영구노트/나만의 노트 분리하기.md",
+    "영구노트/나만의 노트 확장 방법.md",
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
+    "영구노트/니콜라스 루만.md",
+    "영구노트/무료와 독점 JDK 모음.md",
+    "영구노트/자바 9 ~ 11 이전까지 과정.md",
+    "영구노트/자바 11 특징.md",
+    "영구노트/제텔 +카스텐 의미.md",
+    "영구노트/제텔 카스텐 기법.md",
+    "templates/참조 노트 템플릿.md",
     "Excalidraw/linux C의 build 과정 순서도.md",
     "Excalidraw/java의 build 과정 순서도.md",
-    "연습노트/컴파일(compile)과 빌드(build) 개념.md",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
-    "연습노트/Java의 컴파일과 빌드.md",
-    "연습노트/바이너리 코드와 바이트 코드.md",
-    "연습노트/Why Gradle.md",
-    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
-    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
-    "연습노트/Spring Rest Docs vs Swagger.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/Polling(폴링).md",
-    "연습노트/JAVA 람다 활용.md",
-    "연습노트/Gradle과 Kotlin DSL.md",
-    "연습노트/LTS.md",
-    "영구노트/Maven vs Gradle.md",
     "attachments/Pasted image 20231006085122.png",
-    "영구노트/Queydsl 소개.md",
-    "영구노트/SOLID란 무엇인가.md",
     "attachments/Pasted image 20231005200348.png",
     "attachments/Pasted image 20231005200319.png",
     "attachments/Pasted image 20231005200229.png",
     "attachments/Pasted image 20231005200211.png",
     "attachments/Pasted image 20231005181345.png",
     "attachments/Pasted image 20231005181313.png",
-    "templates/참조 노트 템플릿.md",
-    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
     "attachments/Pasted image 20231005145435.png",
-    "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
-    "영구노트/자바 11 특징.md",
-    "영구노트/무료와 독점 JDK 모음.md",
-    "README.md",
-    "영구노트/2022년 프로그래밍 별 통계.md",
-    "영구노트/제텔 카스텐 기법.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/libraries/aws-architecture-icons.excalidrawlib",
