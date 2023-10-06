@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring Rest Docs vs Swagger.md",
+                "file": "영구노트/Why Gradle.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gradle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring Rest Docs vs Swagger.md",
+                "file": "영구노트/Why Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring Rest Docs vs Swagger.md",
+                "file": "영구노트/Why Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring Rest Docs vs Swagger.md"
+                "file": "영구노트/Why Gradle.md"
               }
             }
           },
@@ -186,8 +185,8 @@
   },
   "active": "b9b74d12dba166a2",
   "lastOpenFiles": [
-    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Spring Rest Docs vs Swagger.md",
+    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Polling(폴링).md",
     "연습노트/JAVA 람다 활용.md",
