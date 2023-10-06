@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-05
 작성 시간: 20:01
 
-## 주제: #미완 #IT #Gradle
+## 주제: #완성  #IT #Gradle
 
 ----
 ## 원문
@@ -25,6 +25,10 @@ Maven, Gradle 두 시스템 모두 가능한 저장소의 종속성을 해결하
 
 Maven에서는 Dependency를 재정의할 수 있지만 버전별로만 허용된다.
 
+Gradle의 경우, 종속성을 처리하기 위해 [종속성 선택 및 대체 규칙](https://docs.gradle.org/current/userguide/dependency_management.html?_gl=1*1ftxv2x*_ga*MTk1ODI1ODcyMy4xNjk2NDk2MDgx*_ga_7W7NC6YNPT*MTY5NjU0OTYyMy41LjEuMTY5NjU1MDI1My45LjAuMA..#component_selection_rules)을 제공한다. 이 메커니즘을 통해 여러 소스 프로젝트를 함께 빌드하여 복합 빌드를 만들어낼 수 있다.
+
+Gradle의 경우  [api 및 implement 종속성을 선언하여](https://docs.gradle.org/current/userguide/java_library_plugin.html?_gl=1*18yekko*_ga*MTk1ODI1ODcyMy4xNjk2NDk2MDgx*_ga_7W7NC6YNPT*MTY5NjU0OTYyMy41LjEuMTY5NjU1MDUwOS41Ny4wLjA.#sec:java_library_separation) , 원치 않는 라이브러리가 소비자의 클래스 경로로 누출되는 것을 방지도 가능하다. Maven의 경우, [선택적 종속성](https://maven.apache.org/guides/introduction/introduction-to-optional-and-excludes-dependencies.html)  메타 데이터를 제공하지만 문서로만 제공된다.
+
 ### 검색 트렌드
 [구글 트렌드(Maven vs Gradle)](https://trends.google.com/trends/explore?geo=KR&q=maven,gradle&hl=ko) 를 참고했다.
 
@@ -42,7 +46,8 @@ Maven에서는 Dependency를 재정의할 수 있지만 버전별로만 허용�
 
 ## 질문 & 확장
 
-(없음)
+- Gradle의 의존성 관리는 구체적으로 어떻게 이루어질까?
+- api와 implement를 통해 원치 않는 클래스 노출 방지가 가능하다는 데 원리가 뭘까?
 
 ## 출처(링크)
 - https://www.youtube.com/watch?v=ntOH2bWLWQs
