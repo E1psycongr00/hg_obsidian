@@ -12,8 +12,9 @@
 (없음)
 
 ## 출처(링크)
-
-
+- https://code-lab1.tistory.com/300
+- https://appmaster.io/ko/blog/websocketiran-mueosimyeo-eoddeohge-saengseonghabnigga
+- https://ko.wikipedia.org/wiki/%EC%9B%B9%EC%86%8C%EC%BC%93
 ## 연결 노트
 
 
