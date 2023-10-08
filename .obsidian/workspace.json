@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c93dbc11ffedaf81",
+        "id": "fd793eb5fd5e0769",
         "type": "tabs",
         "children": [
           {
-            "id": "53d4cd925128564b",
+            "id": "7ef43e624420d245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+                "file": "연습노트/Java 동작 원리.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ba58bfc511958adc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Web Socket이란.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d81b350ec950ebf8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md",
+                "file": "연습노트/Java 동작 원리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md",
+                "file": "연습노트/Java 동작 원리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md"
+                "file": "연습노트/Java 동작 원리.md"
               }
             }
           },
@@ -186,19 +161,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d81b350ec950ebf8",
+  "active": "7ef43e624420d245",
   "lastOpenFiles": [
-    "Excalidraw/libraries/it-icons.excalidrawlib",
-    "연습노트/Web Socket이란.md",
-    "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md",
+    "연습노트/Project Jigsaw.md",
+    "Excalidraw/웹소켓 동작 과정.md",
+    "Excalidraw/java의 build 과정 순서도.md",
+    "Excalidraw/linux C의 build 과정 순서도.md",
     "연습노트/Java 동작 원리.md",
     "연습노트/Java 12 ~ 15까지 과정.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/Spring Rest Docs vs Swagger.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
-    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
-    "연습노트/Gradle 문법.md",
     "연습노트/Gradle과 Kotlin DSL.md",
+    "연습노트/Gradle 문법.md",
+    "연습노트/Spring Rest Docs vs Swagger.md",
+    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
+    "영구노트/Web Socket이란.md",
+    "Excalidraw/libraries/it-icons.excalidrawlib",
     "영구노트/Polling(폴링).md",
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
     "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
@@ -213,7 +190,6 @@
     "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
     "영구노트/SOLID란 무엇인가.md",
     "영구노트/Java 8 이전 버전 별 특징.md",
-    "영구노트/JRE 와 JDK 의 차이.md",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
     "attachments/Pasted image 20231006085122.png",
@@ -233,7 +209,6 @@
     "Excalidraw/libraries/graphs.excalidrawlib",
     "Excalidraw/libraries/stick-figures.excalidrawlib",
     "Excalidraw/libraries/architecture-diagram-components.excalidrawlib",
-    "Excalidraw/libraries/software-architecture.excalidrawlib",
     "무제 파일.canvas"
   ]
 }

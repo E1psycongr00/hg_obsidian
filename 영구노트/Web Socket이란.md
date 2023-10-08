@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-07
 작성 시간: 17:21
 
-## 주제: #미완 #IT 
+## 주제: #완성  #IT 
 
 
 ----
@@ -16,6 +16,30 @@
 - 웹 소켓 프로토콜 사양은 2개의 새로운 URI 스킴으로 ws, wss를 정의하며 이들은 암호화되지 않은 연결과 암호화된 연결에 각각 사용된다.
 
 ### 동작 과정
+![[웹소켓 동작 과정|800]]
+
+### 프로토콜 핸드 쉐이크
+**Client 요청**
+```text
+GET /chat HTTP/1.1
+Host: server.example.com
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Key: x3JJHMbDL1EzLkh9GBhXDw==
+Sec-WebSocket-Protocol: chat, superchat
+Sec-WebSocket-Version: 13
+Origin: http://example.com
+```
+
+
+**Server 응답**
+```text
+HTTP/1.1 101 Switching Protocols
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Accept: HSmrc0sMlYUkAGmm5OPpG2HaGWk=
+Sec-WebSocket-Protocol: chat
+```
 
 ## 질문 & 확장
 
@@ -27,7 +51,7 @@
 - https://ko.wikipedia.org/wiki/%EC%9B%B9%EC%86%8C%EC%BC%93
 - https://velog.io/@codingbotpark/Web-Socket-%EC%9D%B4%EB%9E%80
 ## 연결 노트
-
+- [[Polling(폴링)]]
 
 
 
