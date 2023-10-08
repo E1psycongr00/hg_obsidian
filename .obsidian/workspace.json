@@ -95,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -187,6 +188,7 @@
   },
   "active": "d81b350ec950ebf8",
   "lastOpenFiles": [
+    "Excalidraw/libraries/it-icons.excalidrawlib",
     "연습노트/Web Socket이란.md",
     "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md",
     "연습노트/Java 동작 원리.md",
@@ -212,7 +214,6 @@
     "영구노트/SOLID란 무엇인가.md",
     "영구노트/Java 8 이전 버전 별 특징.md",
     "영구노트/JRE 와 JDK 의 차이.md",
-    "Excalidraw/java의 build 과정 순서도.md",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
     "attachments/Pasted image 20231006085122.png",
