@@ -57,9 +57,9 @@ JVM이 동작하기 시작하면 Heap 영역과 Method 영역이 생성되며 �
 - Runtime Constant Pool , field, function, code 등 클래스와 인터페이스 구조가 저장되는 공간이다
 
 #### Runtime Constant Pool
-- 클래스, 인터페이스 마다 존재하는 클래스 파일의 constant pool 테이블 영역이 저장되는 공간이다
-- 각 클래스, 인터페이스의 전역 변수, 함수, 
-
+ 
+- Class Constant Pool에서 읽어온 상수값과 클래스 메타 데이터 저장
+- 클래스에 포함되어 있던 값이 런타임시에 저장됨
 
 ## 질문 & 확장
 
@@ -69,6 +69,7 @@ JVM이 동작하기 시작하면 Heap 영역과 Method 영역이 생성되며 �
 - https://velog.io/@sgwon1996/JAVA%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-JVM-%EA%B5%AC%EC%A1%B0
 - https://homoefficio.github.io/2019/01/31/Back-to-the-Essence-Java-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80-2/
 - https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf
+- https://deveric.tistory.com/123
 ## 연결 노트
 
 
