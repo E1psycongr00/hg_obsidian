@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f53cb882cc83b77",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.md",
+                "file": "연습노트/JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.md",
+                "file": "연습노트/JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.md"
+                "file": "연습노트/JVM.md"
               }
             }
           },
@@ -186,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f53cb882cc83b77",
+  "active": "1b8a47f400d45645",
   "lastOpenFiles": [
-    "연습노트/JVM.md",
     "Excalidraw/Runtime Data Area 구성.md",
+    "연습노트/JVM.md",
     "연습노트/Java 동작 원리.md",
     "연습노트/Project Jigsaw.md",
     "Excalidraw/웹소켓 동작 과정.md",

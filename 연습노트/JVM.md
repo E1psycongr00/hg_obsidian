@@ -14,8 +14,19 @@ JVM은 자바 가상 머신으로 자바 어플리케이션을 실행하는 가�
 ### JVM 구조
 JVM 명세에서는 반드시 지켜야 할 구조만을 명시하고 내부적인 구현은 구현하려는 개발자 재량으로 남겨두었다. 알아야 할 핵심 구조를 짚어보자
 
-#### Runtime Data Area
+### Runtime Data Area
+![[Runtime Data Area 구성|800]]
 
+
+#### 라이프 사이클
+
+**Heap & Method**
+- JVM 시작시 생성되며 JVM 종료시 모두 소멸한다.
+- 모든 Thread에 정보를 공유한다.
+
+**PC Register & Native Method Stack**
+JVM이 동작하기 시작하면 Heap 영역과 Method 영역이 생성되며 해당 영역은 모드 Thread들과 공유한다.
+각 쓰레드는 생성 마다 PC Register, Native Method Stack이 생성되며 스레드가 종료되며
 ## 질문 & 확장
 
 (없음)
