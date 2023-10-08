@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f53cb882cc83b77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Runtime Data Area 구성.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JVM.md",
+                "file": "Excalidraw/Runtime Data Area 구성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JVM.md",
+                "file": "Excalidraw/Runtime Data Area 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JVM.md"
+                "file": "Excalidraw/Runtime Data Area 구성.md"
               }
             }
           },
@@ -175,10 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b8a47f400d45645",
+  "active": "0f53cb882cc83b77",
   "lastOpenFiles": [
-    "연습노트/Java 동작 원리.md",
     "연습노트/JVM.md",
+    "Excalidraw/Runtime Data Area 구성.md",
+    "연습노트/Java 동작 원리.md",
     "연습노트/Project Jigsaw.md",
     "Excalidraw/웹소켓 동작 과정.md",
     "Excalidraw/java의 build 과정 순서도.md",
@@ -203,7 +215,6 @@
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/제텔 카스텐 기법.md",
     "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
-    "영구노트/SOLID란 무엇인가.md",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
     "attachments/Pasted image 20231006085122.png",
