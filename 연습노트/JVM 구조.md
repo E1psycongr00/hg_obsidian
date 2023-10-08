@@ -60,18 +60,19 @@ JVM이 동작하기 시작하면 Heap 영역과 Method 영역이 생성되며 �
  
 - Class Constant Pool에서 읽어온 상수값과 클래스 메타 데이터 저장
 - 클래스에 포함되어 있던 값이 런타임시에 저장됨
+- Constant Pool에 관련된 정보는 class 파일에 있지만 이를 로드하면서 runtime constant pool에 저장하게 됨
+-  Runtime Constant Pool을 통해 해당 메소드나 필드의 실제 메모리 상 주소를 찾아 참조한다.
 
 ## 질문 & 확장
 
-(없음)
-
+- Runtime Constant Pool 은 뭔가 이해가 잘 안되는 느낌이야. 비교해서 정리할 필요가 있겠어
 ## 출처(링크)
 - https://velog.io/@sgwon1996/JAVA%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-JVM-%EA%B5%AC%EC%A1%B0
 - https://homoefficio.github.io/2019/01/31/Back-to-the-Essence-Java-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80-2/
 - https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf
 - https://deveric.tistory.com/123
 ## 연결 노트
-
+- [[String Constant Pool vs Constant Pool vs Runtime Constant Pool]]
 
 
 
