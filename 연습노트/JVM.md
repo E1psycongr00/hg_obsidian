@@ -41,6 +41,24 @@ JVM이 동작하기 시작하면 Heap 영역과 Method 영역이 생성되며 �
 - C와 같이 전통적인 언어의 Stack과 역할이 비슷하다.(지역변수, 함수의 실행 결과를 저장)
 
 #### Frame
+- 함수가 호출될 때 생성되고 함수가 종료되면 사라진다.
+- 데이터 및 반환 데이터를 저장하는 자료구조
+- 각 프레임은 지역변수 배열, Operand Stack, Runtime Constant Pool 에 대한 참조 값을 가진다.
+
+#### Native Method Stack
+- Java 이외의 다른 언어로 작성된 코드를 실행할 때 사용하는 스택이다.
+
+#### Heap
+- Heap 영역은 클래스의 인스턴스들과 배열이 저장되는 공간이다.
+- Heap 영역은 가비지 컬렉션과 동적 메모리 관리 시스템에 의해 관리된다.
+
+
+#### Method
+- Runtime Constant Pool , field, function, code 등 클래스와 인터페이스 구조가 저장되는 공간이다
+
+#### Runtime Constant Pool
+- 클래스, 인터페이스 마다 존재하는 클래스 파일의 constant pool 테이블 영역이 저장되는 공간이다
+- 각 클래스, 인터페이스의 전역 변수, 함수, 
 
 
 ## 질문 & 확장
