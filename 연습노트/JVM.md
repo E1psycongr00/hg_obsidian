@@ -26,15 +26,31 @@ JVM 명세에서는 반드시 지켜야 할 구조만을 명시하고 내부적�
 
 **PC Register & Native Method Stack**
 JVM이 동작하기 시작하면 Heap 영역과 Method 영역이 생성되며 해당 영역은 모드 Thread들과 공유한다.
-각 쓰레드는 생성 마다 PC Register, Native Method Stack이 생성되며 스레드가 종료되며
+각 쓰레드는 생성 마다 PC Register, Native Method Stack이 생성되며 스레드가 종료되면 사라진다.
+
+#### PC Register
+- 자바 가상 머신이 현재 실행 중인 명령어 주소를 저장
+
+> **PC Register**
+>컴퓨터가 다음에 실행할 명령어가 어디에 있는지 가리키는 포인터 역할
+>명령어의 메모리 주소를 저장하고, CPU의 다음 명령어를 찾아서 실행할 때 사용한다.
+>프로그램 흐름을 제어하고, 명령어를 순차적으로 실행하는데 필요한 구성 요소 
+
+#### Stack
+- Frame이라는 자료 구조를 저장함
+- C와 같이 전통적인 언어의 Stack과 역할이 비슷하다.(지역변수, 함수의 실행 결과를 저장)
+
+#### Frame
+
+
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
 - https://velog.io/@sgwon1996/JAVA%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC%EC%99%80-JVM-%EA%B5%AC%EC%A1%B0
-- 
-
+- https://homoefficio.github.io/2019/01/31/Back-to-the-Essence-Java-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EA%B9%8C%EC%A7%80-2/
+- https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf
 ## 연결 노트
 
 
