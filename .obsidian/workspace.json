@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d81b350ec950ebf8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Web Socket이란.md",
+                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Web Socket이란.md",
+                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Web Socket이란.md"
+                "file": "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md"
               }
             }
           },
@@ -175,12 +185,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba58bfc511958adc",
+  "active": "d81b350ec950ebf8",
   "lastOpenFiles": [
+    "연습노트/Web Socket이란.md",
+    "Excalidraw/Drawing 2023-10-08 10.12.24.excalidraw.md",
     "연습노트/Java 동작 원리.md",
     "연습노트/Java 12 ~ 15까지 과정.md",
     "연습노트/Project Jigsaw.md",
-    "연습노트/Web Socket이란.md",
     "연습노트/Spring Rest Docs vs Swagger.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
@@ -202,7 +213,6 @@
     "영구노트/Java 8 이전 버전 별 특징.md",
     "영구노트/JRE 와 JDK 의 차이.md",
     "Excalidraw/java의 build 과정 순서도.md",
-    "Excalidraw/linux C의 build 과정 순서도.md",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
     "attachments/Pasted image 20231006085122.png",
