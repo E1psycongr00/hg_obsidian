@@ -3,7 +3,7 @@
 작성 날짜: 2023-10-06
 작성 시간: 19:14
 
-## 주제: #미완 #IT #JAVA 
+## 주제: #완성 #IT #JAVA 
 
 ----
 ## 원문
@@ -27,8 +27,11 @@ Class Loader가 클래스 파일을 받고 이 과정에서 Loading, Linking, In
 링크는 3단계를 거친다
 - Verification(검증): 로딩된 바이트 코드가 JVM 명세를 따르는지 검증
 - Prepare(준비): 정적 필드를 각 유형의 초기값으로 초기화하는 과정
-	- ex) int type =
+	- ex) int type-> 0, reference type -> null
+- Resolution(해결): 클래스 안의 Constant Pool 안에 있는 Symbolic Reference를 고정된 주소값으로 바꾸는 과정이다. 
 
+#### Initialization
+클래스 초기화 함수를 실행한다. 클래스에 작성된 static 초기화 함수를 모두 합쳐 한꺼번에 실행한다. 초기화 과정은 링킹 과정이 끝나고 단 한번만 이루어진다.
 
 
 
@@ -41,8 +44,8 @@ Class Loader가 클래스 파일을 받고 이 과정에서 Loading, Linking, In
 - https://junroot.github.io/programming/Java%EC%9D%98-%EB%B9%8C%EB%93%9C%EC%99%80-%EB%B0%B0%ED%8F%AC/
 - https://kingofbackend.tistory.com/123#article-2--java-compiler-with-binary-code,-byte-code
 ## 연결 노트
-- 
-
+-  [[Class Loader]]
+- [[JVM 구조]]
 
 
 
