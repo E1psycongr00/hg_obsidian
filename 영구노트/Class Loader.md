@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-08
 작성 시간: 20:08
 
-## 주제: #미완 #IT #JAVA 
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -43,7 +43,7 @@
 
 - Java Platform SE API가 정확하게 뭘까 표준 API인가?
 - Class Loader는 하위 클래스에서 class 탐색을 진행하지만, 그 이전에 부모에게 위임해서 class를 처리하고, 처리하지 못하는 경우, 해당 로더에서 탐색을 진행하는 군
-- 
+
 
 ## 출처(링크)
 - https://www.baeldung.com/java-classloaders
@@ -52,6 +52,7 @@
 - https://tecoble.techcourse.co.kr/post/2021-07-15-jvm-classloader/
 
 ## 연결 노트
+- [[Class Loader 메서드]]
 - [[String Constant Pool vs Constant Pool vs Runtime Constant Pool]]
 
 
