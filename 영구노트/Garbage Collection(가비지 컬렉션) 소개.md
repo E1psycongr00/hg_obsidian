@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-11
 작성 시간: 09:59
 
-## 주제: #미완 #IT #JAVA #GC
+## 주제: #완성  #IT #JAVA #GC
 
 ----
 ## 원문
@@ -17,14 +17,6 @@
 
 > **GC 개발자 직접 호출 X**
 > Java는 프로그램 코드에서 명시적으로 메모리를 해제하지 않는다. 가끔 명시적으로 해제하기 위해 null을 활용하는 경우가 있다. 이는 문제가 되지 않는다. 하지만 직접 GC를 호출하는 System.gc()는 시스템 성능에 직접적인 악영향을 끼칠 우려가 있다.
-
-### 가비지 컬렉션 정리
-
-| GC종류    | Minor GC                | Major GC               |
-| --------- | ----------------------- | ---------------------- |
-| 대상      | Young Generation        | Old Generation         |
-| 실행 시점 | Eden 영역이 가득찬 경우 | Old 영역이 가득찬 경우 |
-| 실행 속도 | 빠르다                  | 느리다                 |
 ## 질문 & 확장
 
 (없음)
@@ -35,8 +27,10 @@
 - https://d2.naver.com/helloworld/329631
 - https://d2.naver.com/helloworld/1329
 ## 연결 노트
+- [[Garbage Collection(가비지 컬렉션) 알고리즘 종류]]
 - [[Young Generation 과 Old Generation 특징]]
-- 
+- [[Minor GC(Young) vs Major GC(Old)]]
+
 
 
 
