@@ -12,7 +12,6 @@
 (없음)
 
 ## 출처(링크)
-- https://recordsoflife.tistory.com/277
 - https://www.baeldung.com/jvm-epsilon-gc-garbage-collector
 
 ## 연결 노트
