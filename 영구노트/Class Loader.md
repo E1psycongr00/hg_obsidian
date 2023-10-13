@@ -53,7 +53,7 @@
 
 ## 연결 노트
 - [[Class Loader 메서드]]
-- [[String Constant Pool vs Constant Pool vs Runtime Constant Pool]]
+- [[영구노트/String Constant Pool]]
 
 
 
