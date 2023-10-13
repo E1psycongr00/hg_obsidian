@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/자바 11 특징.md",
+                "file": "영구노트/자바 9 ~ 11 이전까지 과정.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java 11",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +66,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/자바 11 특징.md",
+                "file": "영구노트/자바 9 ~ 11 이전까지 과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/자바 11 특징.md",
+                "file": "영구노트/자바 9 ~ 11 이전까지 과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/자바 11 특징.md"
+                "file": "영구노트/자바 9 ~ 11 이전까지 과정.md"
               }
             }
           },
@@ -161,12 +161,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cd0b8d06dddc0fb",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
+    "연습노트/Java 12 ~ 16까지 과정.md",
+    "영구노트/자바 11 특징.md",
     "영구노트/자바 9 ~ 11 이전까지 과정.md",
     "영구노트/String Constant Pool.md",
     "영구노트/Java 8 이전 버전 별 특징.md",
-    "연습노트/Java 12 ~ 15까지 과정.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Spring Rest Docs vs Swagger.md",
     "연습노트/Project Jigsaw.md",
@@ -193,7 +194,6 @@
     "Excalidraw/웹소켓 동작 과정.md",
     "Excalidraw/java의 build 과정 순서도.md",
     "Excalidraw/linux C의 build 과정 순서도.md",
-    "영구노트/Web Socket이란.md",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
