@@ -16,5 +16,23 @@
       ],
       "key": "T"
     }
+  ],
+  "graph-analysis:refresh-analysis-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "graph-analysis:show-graph-analysis-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }
