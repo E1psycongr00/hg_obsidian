@@ -2,7 +2,7 @@
 작성 날짜: 2023-10-11
 작성 시간: 18:12
 
-## 주제: #미완 #IT #JAVA #GC 
+## 주제: #완성  #IT #JAVA #GC 
 
 ----
 ## 원문
@@ -43,7 +43,31 @@ Parallel GC와 Old Generation에서 사용하는 알고리즘만 차이점이 �
 Parallel의 경우 모든 쓰레드가 멈추고 병렬 쓰레드를 활용해 GC를 빠르게 처리하는 방식이라면 CMS GC는 동시에 처리하기 때문에 Application이 intial Mark 동안만 짧게 멈추고 나머지는 application thread가 정상적으로 동작하며 다흔 하나면 marking하기 위해 쓰인다. 이런 과정을 거치기 때문에 stop the world 시간이 짧아지는 장점이 있다.
 
 그러나 단점이 있다.
+- 다른 메모리에 비해 CPU와 메모리를 많이 사용한다.
 
+```
+// deprecated in java9 and finally dropped in java14 java -XX:+UseConcMarkSweepGC -jar Application.java
+```
+
+지금은 deprecate 되었다.
+
+### G1 GC
+
+Garbage First GC를 줄인 단어인다. 장기적으로 많은 문제를 일으킬 수 있는 CMS GC를 대체하기 위해 고안된 GC이다. 
+
+G1 GC에서는 Eden, Survivor, Old 역할에 더해 Humonogous와 Availabe/Unused라는 2가지 역할을 추가했다. 
+
+> **Humonguous**
+> Region 크기의 50%를 초과하는 객체를 저장하는 Region을 의미
+
+>  **Availabe/Unused**
+>   사용되지 않은 Region을 의미
+
+![[Pasted image 20231016142218.png]]
+
+G1 GC의 핵심은 Heap을 동일한 크기의 Region으로 나누고, 가비지가 많은 Region에 대해 우선적으로 GC를 수행하는 것이다. 그리고 G1 GC도 다른 가비지 컬렉션과 마찬가지로 2가지 GC(Minor GC, Major GC)로 나누어 수행되는데, 각각에 대해 살펴보도록 하자.
+
+지금까지 소개한 GC보다 성능적으로 가장 좋다.
 
 ## 질문 & 확장
 
@@ -57,7 +81,7 @@ Parallel의 경우 모든 쓰레드가 멈추고 병렬 쓰레드를 활용해 G
 - https://d2.naver.com/helloworld/1329
 
 ## 연결 노트
-
+- [[Garbage Collection(가비지 컬렉션) 소개]]
 
 
 
