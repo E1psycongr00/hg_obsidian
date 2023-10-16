@@ -4,29 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "35a0edb638828ab0",
+        "id": "d1d98d9266c30d66",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf86c7405ab7834",
+            "id": "fb4736ef4b6958f0",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "4758c367da51d20f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +152,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4758c367da51d20f",
+  "active": "fb4736ef4b6958f0",
   "lastOpenFiles": [
+    "영구노트/제텔 카스텐 기법.md",
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
+    "영구노트/나만의 노트 확장 방법.md",
+    "영구노트/2022년 프로그래밍 별 통계.md",
+    "영구노트/나만의 노트 분리하기.md",
     "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "Excalidraw/Drawing 2023-10-14 18.58.01.excalidraw.md",
     "Excalidraw/웹소켓 동작 과정.md",
@@ -179,18 +174,12 @@
     "영구노트/Java 8 특징.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/빌드 관리 도구 필요성.md",
-    "영구노트/나만의 노트 확장 방법.md",
     "영구노트/Why Gradle.md",
     "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
     "연습노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "연습노트/Gradle 문법.md",
     "연습노트/Gradle과 Kotlin DSL.md",
-    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/Spring Rest Docs vs Swagger.md",
-    "영구노트/Java 12 ~ 17까지 과정.md",
-    "영구노트/자바 9 ~ 11 이전까지 과정.md",
     "attachments/Pasted image 20231011173346.png",
     "attachments/Pasted image 20231011173341.png",
     "attachments/Pasted image 20231011172103.png",
