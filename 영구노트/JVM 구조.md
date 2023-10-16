@@ -73,6 +73,7 @@ JVM이 동작하기 시작하면 Heap 영역과 Method 영역이 생성되며 �
 - https://deveric.tistory.com/123
 ## 연결 노트
 - [[영구노트/String Constant Pool]]
+- [[Class Loader]]
 
 
 

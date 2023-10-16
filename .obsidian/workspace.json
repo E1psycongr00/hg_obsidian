@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d98d9266c30d66",
+        "id": "b688a97577fee987",
         "type": "tabs",
         "children": [
           {
-            "id": "fb4736ef4b6958f0",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c74c5b3060066003",
+            "id": "bb484d9782c9a485",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,51 +18,7 @@
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "5392ecbc2c5e1c61"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6bbe15194cc337ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df223f156193a27c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "영구노트/Java 동작 원리.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "5392ecbc2c5e1c61"
+            }
           }
         ]
       }
@@ -193,7 +141,7 @@
             }
           },
           {
-            "id": "2743f476f18245a2",
+            "id": "8615b4c93c416935",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -205,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 440
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +170,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c74c5b3060066003",
+  "active": "bb484d9782c9a485",
   "lastOpenFiles": [
+    "영구노트/JVM 구조.md",
     "영구노트/Class Loader.md",
-    "영구노트/String Constant Pool.md",
+    "templates/참조 노트 템플릿.md",
+    "영구노트/Java 8 특징.md",
+    "영구노트/Class Loader 메서드.md",
     "영구노트/Java 동작 원리.md",
+    "Excalidraw/자바 동작 과정.md",
+    "영구노트/String Constant Pool.md",
     "영구노트/제텔 카스텐 기법.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
@@ -240,16 +193,11 @@
     "Excalidraw/Runtime Data Area 구성.md",
     "Excalidraw/linux C의 build 과정 순서도.md",
     "Excalidraw/java의 build 과정 순서도.md",
-    "Excalidraw/자바 동작 과정.md",
-    "영구노트/JVM 구조.md",
     "영구노트/java 11 특징.md",
-    "영구노트/Java 8 특징.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/빌드 관리 도구 필요성.md",
     "영구노트/Why Gradle.md",
     "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
-    "연습노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
-    "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "attachments/Pasted image 20231011173346.png",
     "attachments/Pasted image 20231011173341.png",
     "attachments/Pasted image 20231011172103.png",

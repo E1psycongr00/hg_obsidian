@@ -45,6 +45,7 @@ Class Loader가 클래스 파일을 받고 이 과정에서 Loading, Linking, In
 ## 연결 노트
 -  [[Class Loader]]
 - [[JVM 구조]]
+-  [[영구노트/String Constant Pool|String Constant Pool]]
 
 
 
