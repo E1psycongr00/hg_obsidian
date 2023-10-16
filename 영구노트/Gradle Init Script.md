@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-16
 작성 시간: 21:20
 
-## 주제: #미완 #Gradle 
+## 주제: #완성  #Gradle 
 
 ----
 ## 원문
@@ -23,6 +23,8 @@ Initialization Script는 Gradle의 다른 스크립트와 유사하지만 다른
 **build.gradle.kts**
 
 ```kotlin
+// build.gradle.kts
+
 repositories {
     mavenCentral()
 }
@@ -39,7 +41,8 @@ tasks.register("showRepos") {
 **init.gradle.kts**
 
 ```kotlin
-# init
+// init.gradle.kts
+
 allprojects {
     repositories {
         mavenLocal()
@@ -47,8 +50,15 @@ allprojects {
 }
 ```
 
+그리고 실행하는 방법은 다음과 같다.
 
+```
+> gradle --init-script init.gradle.kts -q showRepos
+All repos:
+[MavenLocal, MavenRepo]
+```
 
+그 이외의 자세한 사용 방법은 [Gradle 초기화 스크립트](https://docs.gradle.org/current/userguide/init_scripts.html)를 참고하자
 ## 질문 & 확장
 
 (없음)
