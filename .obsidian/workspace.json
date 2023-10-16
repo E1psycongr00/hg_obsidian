@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5941f02523a87e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Gradle Wrapper.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Why Gradle by Kotlin DSL.md",
+                "file": "연습노트/Gradle Wrapper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Why Gradle by Kotlin DSL.md",
+                "file": "연습노트/Gradle Wrapper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Why Gradle by Kotlin DSL.md"
+                "file": "연습노트/Gradle Wrapper.md"
               }
             }
           },
@@ -169,12 +183,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d972c16347b3ba2",
+  "active": "5941f02523a87e6f",
   "lastOpenFiles": [
-    "영구노트/Gradle 지원 버전.md",
     "연습노트/Why Gradle by Kotlin DSL.md",
-    "연습노트/Gradle 문법.md",
+    "excalibrain.md",
+    "연습노트/Gradle Wrapper.md",
+    "README.md",
     "연습노트/Why Kotlin.md",
+    "영구노트/Gradle 지원 버전.md",
+    "연습노트/Gradle 문법.md",
     "연습노트/Project Jigsaw.md",
     "영구노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md",
@@ -189,7 +206,6 @@
     "Excalidraw/자바 동작 과정(draw).md",
     "Excalidraw/웹소켓 동작 과정(draw).md",
     "영구노트/String Constant Pool.md",
-    "excalibrain.md",
     "Excalidraw/java의 build 과정 순서도(draw).md",
     "Excalidraw/ExcaliBrain Snapshot - 자바 동작 과정(draw).excalidraw.md",
     "영구노트/Mark And Sweep.md",
@@ -198,8 +214,6 @@
     "attachments/Pasted image 20231016142218.png",
     "attachments/Pasted image 20231016141453.png",
     "영구노트/Co-citations.md",
-    "영구노트/나만의 노트 분리하기.md",
-    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
     "attachments/Pasted image 20231011173346.png",
     "attachments/Pasted image 20231011173341.png",
     "attachments/Pasted image 20231011172103.png",
