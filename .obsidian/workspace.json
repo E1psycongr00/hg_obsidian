@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,8 +171,9 @@
   },
   "active": "8d972c16347b3ba2",
   "lastOpenFiles": [
-    "연습노트/Gradle 문법.md",
+    "영구노트/Gradle 지원 버전.md",
     "연습노트/Why Gradle by Kotlin DSL.md",
+    "연습노트/Gradle 문법.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Project Jigsaw.md",
     "영구노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
@@ -199,7 +200,6 @@
     "영구노트/Co-citations.md",
     "영구노트/나만의 노트 분리하기.md",
     "영구노트/컴파일(compile)과 빌드(build) 개념.md",
-    "영구노트/자바 9 ~ 11 이전까지 과정.md",
     "attachments/Pasted image 20231011173346.png",
     "attachments/Pasted image 20231011173341.png",
     "attachments/Pasted image 20231011172103.png",
