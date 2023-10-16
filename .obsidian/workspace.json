@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Gradle 문법.md",
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "70da10ec1ecb6749",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md",
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md",
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md"
+                "file": "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md"
               }
             }
           },
@@ -176,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 440,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,17 +184,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "70da10ec1ecb6749",
+  "active": "088b71116de5a8c6",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
     "연습노트/Gradle 문법.md",
-    "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md",
     "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "연습노트/Project Jigsaw.md",
-    "연습노트/Gradle과 Kotlin DSL.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
+    "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/자바 동작 과정(draw).md",
+    "Excalidraw/웹소켓 동작 과정(draw).md",
+    "영구노트/String Constant Pool.md",
+    "excalibrain.md",
+    "Excalidraw/java의 build 과정 순서도(draw).md",
+    "Excalidraw/ExcaliBrain Snapshot - 자바 동작 과정(draw).excalidraw.md",
+    "연습노트/Gradle과 Kotlin DSL.md",
     "영구노트/Mark And Sweep.md",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
     "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
@@ -216,13 +214,6 @@
     "영구노트/컴파일(compile)과 빌드(build) 개념.md",
     "영구노트/자바 9 ~ 11 이전까지 과정.md",
     "templates/무제 파일.md",
-    "영구노트/빌드 관리 도구 필요성.md",
-    "영구노트/Maven vs Gradle.md",
-    "templates/참조 노트 템플릿.md",
-    "Excalidraw/linux C의 build 과정 순서도(draw).md",
-    "영구노트/Why Gradle.md",
-    "영구노트/Class Loader 메서드.md",
-    "영구노트/JVM 구조.md",
     "attachments/Pasted image 20231011173346.png",
     "attachments/Pasted image 20231011173341.png",
     "attachments/Pasted image 20231011172103.png",
@@ -231,7 +222,6 @@
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "attachments/Pasted image 20231006162835.png",
     "attachments/Pasted image 20231006160103.png",
-    "attachments/Pasted image 20231006085122.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw/libraries/aws-architecture-icons.excalidrawlib",
