@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "850a7326adf8fcdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Gradle Plugin 사용하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bdabfa9c1d9f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Gradle 바이너리 플러그인.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Gradle Plugin 사용하기.md",
+                "file": "연습노트/Gradle 바이너리 플러그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Gradle Plugin 사용하기.md",
+                "file": "연습노트/Gradle 바이너리 플러그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Gradle Plugin 사용하기.md"
+                "file": "연습노트/Gradle 바이너리 플러그인.md"
               }
             }
           },
@@ -169,8 +196,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d972c16347b3ba2",
+  "active": "0bdabfa9c1d9f8f9",
   "lastOpenFiles": [
+    "연습노트/Gradle 스크립트 플러그인.md",
+    "연습노트/Gradle 바이너리 플러그인.md",
+    "연습노트/Gradle Plugin 사용하기.md",
     "영구노트/Why Gradle by Kotlin DSL.md",
     "영구노트/Gradle Wrapper.md",
     "영구노트/Gradle Init Script.md",
@@ -179,7 +209,6 @@
     "README.md",
     "연습노트/Why Kotlin.md",
     "영구노트/Gradle 지원 버전.md",
-    "연습노트/Gradle Plugin 사용하기.md",
     "연습노트/Project Jigsaw.md",
     "영구노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md",
@@ -197,8 +226,6 @@
     "Excalidraw/java의 build 과정 순서도(draw).md",
     "Excalidraw/ExcaliBrain Snapshot - 자바 동작 과정(draw).excalidraw.md",
     "영구노트/Mark And Sweep.md",
-    "연습노트/Spring Rest Docs vs Swagger.md",
-    "영구노트/Adamic Adars.md",
     "attachments/Pasted image 20231016142218.png",
     "attachments/Pasted image 20231016141453.png",
     "attachments/Pasted image 20231011173346.png",
