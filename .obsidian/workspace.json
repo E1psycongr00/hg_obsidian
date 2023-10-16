@@ -11,9 +11,12 @@
             "id": "bb484d9782c9a485",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.excalidraw.md"
+                "file": "영구노트/JVM 구조.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -29,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.excalidraw.md",
+                "file": "영구노트/JVM 구조.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -109,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -125,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.excalidraw.md",
+                "file": "영구노트/JVM 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.excalidraw.md",
+                "file": "영구노트/JVM 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Runtime Data Area 구성.excalidraw.md"
+                "file": "영구노트/JVM 구조.md"
               }
             }
           },
@@ -207,17 +211,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb484d9782c9a485",
+  "active": "93031b30e49a1c79",
   "lastOpenFiles": [
-    "Excalidraw/linux C의 build 과정 순서도.excalidraw.md",
-    "Excalidraw/java의 build 과정 순서도.excalidraw.md",
-    "영구노트/Java 동작 원리.md",
-    "Excalidraw/자바 동작 과정.excalidraw.md",
-    "Excalidraw/웹소켓 동작 과정.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-16 10.51.10.excalidraw.md",
-    "영구노트/JVM 구조.md",
     "영구노트/Class Loader.md",
     "영구노트/Class Loader 메서드.md",
+    "Excalidraw/string constant pool(draw).md",
+    "Excalidraw/Runtime Data Area 구성(draw).md",
+    "Excalidraw/linux C의 build 과정 순서도(draw).md",
+    "Excalidraw/java의 build 과정 순서도(draw).md",
+    "Excalidraw/자바 동작 과정(draw).md",
+    "Excalidraw/웹소켓 동작 과정(draw).md",
+    "영구노트/Java 동작 원리.md",
+    "Excalidraw/Drawing 2023-10-16 10.51.10.excalidraw.md",
+    "영구노트/JVM 구조.md",
     "templates/참조 노트 템플릿.md",
     "영구노트/Java 8 특징.md",
     "영구노트/String Constant Pool.md",
@@ -229,8 +235,6 @@
     "영구노트/나만의 노트 분리하기.md",
     "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
     "Excalidraw/Drawing 2023-10-14 18.58.01.excalidraw.md",
-    "Excalidraw/string constant pool.md",
-    "Excalidraw/Runtime Data Area 구성.excalidraw.md",
     "영구노트/java 11 특징.md",
     "영구노트/제텔 +카스텐 의미.md",
     "영구노트/빌드 관리 도구 필요성.md",

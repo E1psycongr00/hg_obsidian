@@ -17,7 +17,7 @@ String simpleObject = new String("hello world");
 
 첫번째와 두번째는 서로 다른 공간에 저장된다. 두번쨰의 경우 단순 인스턴스 생성이기에 heap에 생성된다. 첫번째의 경우도 heap이긴 하나 heap 안에 String Constant Pool에 저장된다.
 
-![[Excalidraw/string constant pool|800]]
+![[string constant pool(draw)|800]]
 
 string constant pool의 경우 중복되는 경우 단순히 재사용하기 때문에 new를 이용한 임시 객체에 비해 훨씬 효율적이다. 
 

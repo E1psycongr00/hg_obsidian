@@ -15,7 +15,7 @@ JVM은 자바 가상 머신으로 자바 어플리케이션을 실행하는 가�
 JVM 명세에서는 반드시 지켜야 할 구조만을 명시하고 내부적인 구현은 구현하려는 개발자 재량으로 남겨두었다. 알아야 할 핵심 구조를 짚어보자
 
 ### Runtime Data Area
-![[Runtime Data Area 구성.excalidraw|800]]
+![[Runtime Data Area 구성(draw)|800]]
 
 
 #### 라이프 사이클
