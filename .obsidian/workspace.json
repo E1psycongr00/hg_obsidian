@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Project Jigsaw.md",
+                "file": "연습노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Project Jigsaw.md",
+                "file": "연습노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Project Jigsaw.md",
+                "file": "연습노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Project Jigsaw.md"
+                "file": "연습노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md"
               }
             }
           },
@@ -198,18 +198,18 @@
   },
   "active": "90d9edbd78590bbc",
   "lastOpenFiles": [
+    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+    "연습노트/Project Jigsaw.md",
     "연습노트/Spring Rest Docs vs Swagger.md",
     "연습노트/Gradle과 Kotlin DSL.md",
-    "연습노트/Gradle 문법.md",
     "연습노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
+    "연습노트/Gradle 문법.md",
     "연습노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "영구노트/Co-citations.md",
     "영구노트/나만의 노트 분리하기.md",
     "영구노트/컴파일(compile)과 빌드(build) 개념.md",
     "영구노트/Adamic Adars.md",
-    "연습노트/Project Jigsaw.md",
     "영구노트/자바 9 ~ 11 이전까지 과정.md",
-    "연습노트/No - Op GC (Epsilon 가비지 컬렉터).md",
     "templates/무제 파일.md",
     "영구노트/빌드 관리 도구 필요성.md",
     "영구노트/Maven vs Gradle.md",
