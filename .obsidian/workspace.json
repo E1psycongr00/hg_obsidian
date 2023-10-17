@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Gradle 바이너리 플러그인.md",
+                "file": "연습노트/사용자 정의 플러그인 개발하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Gradle 바이너리 플러그인.md",
+                "file": "연습노트/사용자 정의 플러그인 개발하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Gradle 바이너리 플러그인.md",
+                "file": "연습노트/사용자 정의 플러그인 개발하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Gradle 바이너리 플러그인.md"
+                "file": "연습노트/사용자 정의 플러그인 개발하기.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "a7cb28ab16c91389",
   "lastOpenFiles": [
-    "연습노트/Gradle 스크립트 플러그인.md",
     "연습노트/Gradle 바이너리 플러그인.md",
+    "연습노트/Gradle 스크립트 플러그인.md",
     "연습노트/사용자 정의 플러그인 개발하기.md",
     "연습노트/Gradle Plugin 사용하기.md",
     "연습노트/Project Jigsaw.md",
