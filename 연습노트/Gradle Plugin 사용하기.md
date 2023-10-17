@@ -37,8 +37,7 @@ Gradle 사용자를 위한 다양한 플러그인을 제공하는 [플러그인 
 - https://docs.gradle.org/current/userguide/plugins.html
 
 ## 연결 노트
-- [[Gradle 바이너리 플러그인]]
-- [[Gradle 스크립트 플러그인]]
+
 
 
 
