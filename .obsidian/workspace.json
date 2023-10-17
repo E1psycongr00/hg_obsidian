@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/사용자 정의 플러그인 개발하기.md",
+                "file": "연습노트/Gradle 바이너리 플러그인.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/사용자 정의 플러그인 개발하기.md",
+                "file": "연습노트/Gradle 바이너리 플러그인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/사용자 정의 플러그인 개발하기.md",
+                "file": "연습노트/Gradle 바이너리 플러그인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/사용자 정의 플러그인 개발하기.md"
+                "file": "연습노트/Gradle 바이너리 플러그인.md"
               }
             }
           },
@@ -185,6 +185,16 @@
             "state": {
               "type": "graph-analysis",
               "state": {}
+            }
+          },
+          {
+            "id": "ce3d90f6df65bb74",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -211,18 +221,18 @@
   },
   "active": "a7cb28ab16c91389",
   "lastOpenFiles": [
-    "연습노트/Gradle 바이너리 플러그인.md",
-    "연습노트/Gradle 스크립트 플러그인.md",
-    "연습노트/사용자 정의 플러그인 개발하기.md",
     "연습노트/Gradle Plugin 사용하기.md",
     "연습노트/Project Jigsaw.md",
+    "연습노트/Gradle 스크립트 플러그인.md",
+    "연습노트/Gradle 바이너리 플러그인.md",
+    "연습노트/사용자 정의 플러그인 개발하기.md",
+    "연습노트/Why Kotlin.md",
     "영구노트/Why Gradle by Kotlin DSL.md",
     "영구노트/Gradle Wrapper.md",
     "영구노트/Gradle Init Script.md",
     "attachments/Pasted image 20231016211159.png",
     "excalibrain.md",
     "README.md",
-    "연습노트/Why Kotlin.md",
     "영구노트/Gradle 지원 버전.md",
     "영구노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
     "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md",
