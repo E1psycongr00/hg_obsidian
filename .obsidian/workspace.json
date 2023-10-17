@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md",
+                "file": "영구노트/Gradle Plugin 사용하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md",
+                "file": "영구노트/Gradle Plugin 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md",
+                "file": "영구노트/Gradle Plugin 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md"
+                "file": "영구노트/Gradle Plugin 사용하기.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "850a7326adf8fcdd",
   "lastOpenFiles": [
-    "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
     "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md",
-    "연습노트/Gradle Plugin 사용하기.md",
+    "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
+    "영구노트/Gradle Plugin 사용하기.md",
     "attachments/Pasted image 20231017110504.png",
     "attachments/Pasted image 20231017110425.png",
     "attachments/Pasted image 20231017105157.png",

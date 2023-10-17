@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-06
 작성 시간: 19:13
 
-## 주제: #미완 #IT #Gradle
+## 주제: #완성  #IT #Gradle
 
 ----
 ## 원문
@@ -37,7 +37,7 @@ Gradle 사용자를 위한 다양한 플러그인을 제공하는 [플러그인 
 - https://docs.gradle.org/current/userguide/plugins.html
 
 ## 연결 노트
-
+- [[Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기]]
 
 
 
