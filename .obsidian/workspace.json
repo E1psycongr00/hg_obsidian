@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Why Kotlin.md",
+                "file": "연습노트/Gradle Build Life Cycle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Why Kotlin.md",
+                "file": "연습노트/Gradle Build Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Why Kotlin.md",
+                "file": "연습노트/Gradle Build Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Why Kotlin.md"
+                "file": "연습노트/Gradle Build Life Cycle.md"
               }
             }
           },
@@ -182,10 +182,10 @@
   },
   "active": "850a7326adf8fcdd",
   "lastOpenFiles": [
-    "연습노트/Project Jigsaw.md",
-    "연습노트/Gradle Build Life Cycle.md",
     "연습노트/사용자 정의 플러그인 개발하기.md",
+    "연습노트/Gradle Build Life Cycle.md",
     "연습노트/Why Kotlin.md",
+    "연습노트/Project Jigsaw.md",
     "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md",
     "Excalidraw/gradle life cycle(draw).md",
     "영구노트/Gradle Plugin 사용하기.md",
