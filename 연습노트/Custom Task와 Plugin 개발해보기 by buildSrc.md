@@ -136,6 +136,7 @@ public interface GreetingPluginExtension {
 인터페이스를 선언할 때는 여러 메서드를 사용해도 되지만 getter 메서드에 Property로 감싸서 반환하도록 하자.
 
 ```java
+// buildSrc/plugin/GreetingPlugin.java
 public class GreetingPlugin implements Plugin<Project> {  
   
     @Override  
@@ -148,9 +149,41 @@ public class GreetingPlugin implements Plugin<Project> {
 }
 ```
 
-그 이후에는 project에서 extension을 불러온다음 extension에 GreetingPluginExtension 인터페이스를 담아서 extension을 생성해주고 새로 task를 생성한다음 해당 extension의 property를 가져와 활용하면 된다.
+그 이후에는 project에서 extension을 불러온다음 extension에 GreetingPluginExtension 인터페이스를 담아서 extension을 생성해주고 새로 task를 생성한 다음 해당 extension의 property를 가져와 활용하면 된다.
+
+그 다음 똑같이 빌드 스크립트에 다음과 같이 설정해준다.
+```kotlin
+// buildSrc/build.gradle.kts
+plugins {  
+    `java-gradle-plugin`  
+}  
+  
+gradlePlugin {  
+    plugins {  
+        create("greeting-plugin") {  
+            id = "greeting"  
+            implementationClass = "plugin.GreetingPlugin"  
+        }  
+    }
+}
+```
 
 그러나 만약 Task가 굉장히 복잡해지면 Plugin 코드가 복잡해지므로 Task의 분리가 필요할 수 있다.
+
+외부 gradle에서 사용 시 다음과 같다.
+```kotlin
+plugins {
+	"greeting"
+}
+
+// configure를 활용해 extension 변수를 정의한다
+configure<GreetingPluginExtension> {  
+    message = "LHG"  
+}
+```
+
+그리고 task를 실행하면 다음과 같은 결과를 얻는다.
+![[Pasted image 20231019211312.png]]
 
 #### Task 분리 버전
 
