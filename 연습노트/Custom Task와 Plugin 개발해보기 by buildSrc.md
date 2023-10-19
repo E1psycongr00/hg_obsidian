@@ -24,7 +24,9 @@ tasks.register("myTask") {
 }
 ```
 
-task를 register 하는 방법이다. 
+task를 등록하는데는 2가지 방법이 있다. 하나는 **register**, 또 다른 하나는 **create**이다.
+
+Task를 등록할 때 register와 create의 차이는 [[Task create vs register]]를 참고하자
 ## 질문 & 확장
 
 (없음)
@@ -33,7 +35,7 @@ task를 register 하는 방법이다.
 - https://docs.gradle.org/current/userguide/custom_plugins.html#custom_plugins
 - https://velog.io/@jeongyunsung/Gradle%EB%86%80%EC%9D%B43-Custom-Task#task-1
 ## 연결 노트
-
+- [[Task create vs register]]
 
 
 
