@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#Gradle  ",
+      "color": {
+        "a": 1,
+        "rgb": 7921746
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792688,
+  "scale": 0.5087618855792692,
   "close": false
 }
