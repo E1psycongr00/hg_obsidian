@@ -27,6 +27,8 @@ tasks.register("myTask") {
 task를 등록하는데는 2가지 방법이 있다. 하나는 **register**, 또 다른 하나는 **create**이다.
 
 Task를 등록할 때 register와 create의 차이는 [[Task create vs register]]를 참고하자
+
+
 ## 질문 & 확장
 
 (없음)

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Task create vs register.md",
+                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Task create vs register.md",
+                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Task create vs register.md",
+                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Task create vs register.md"
+                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md"
               }
             }
           },
@@ -184,13 +184,11 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 440,
-    "collapsed": true
+    "width": 440
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,12 +207,15 @@
   },
   "active": "48cea7e269902fda",
   "lastOpenFiles": [
+    "연습노트/Project Jigsaw.md",
+    "영구노트/Task create vs register.md",
+    "attachments/Pasted image 20231019170743.png",
+    "attachments/Pasted image 20231019170613.png",
+    "attachments/Pasted image 20231019170514.png",
     "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
-    "연습노트/Task create vs register.md",
     "영구노트/Gradle Build Life Cycle.md",
     "영구노트/Gradle의 doLast()를 언제 써야 할까.md",
     "연습노트/Why Kotlin.md",
-    "연습노트/Project Jigsaw.md",
     "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md",
     "Excalidraw/gradle life cycle(draw).md",
     "영구노트/Gradle Plugin 사용하기.md",
@@ -240,11 +241,7 @@
     "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Organic Line.md",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
     "attachments/Pasted image 20231016142218.png",
-    "attachments/Pasted image 20231016141453.png",
-    "attachments/Pasted image 20231011173346.png",
-    "attachments/Pasted image 20231011173341.png",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
