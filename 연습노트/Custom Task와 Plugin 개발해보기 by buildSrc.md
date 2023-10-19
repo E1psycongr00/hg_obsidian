@@ -55,6 +55,7 @@ tasks.register<Copy>("copyTask") {
 
 ### buildSrc를 활용해 독립적인 Task와 Plugin 구축하기
 ```java
+// path: buildSrc/inject/JavaInjectTask.java
 public class JavaInjectTask extends DefaultTask {  
   
     private final String message;  
@@ -66,7 +67,7 @@ public class JavaInjectTask extends DefaultTask {
   
     @TaskAction  
     void print() {  
-       System.out.println(this.message);  
+       System.out.println("my Message is " + this.message);  
     }  
 }
 ```
@@ -78,6 +79,43 @@ DefaultTask를 상속하면 CustomTask를 만들 수 있다.
 
 이제 이 Task로 Plugin을 만들어서 등록해보자
 
+```java
+// path: buildSrc/inject/JavaInjectPlugin.java
+public class JavaInjectPlugin implements Plugin<Project> {  
+    @Override  
+    public void apply(Project project) {  
+       project.getTasks().register("injectTask", JavaInjectTask.class, "my task");  
+    }  
+}
+```
+
+이제 해당 플러그인에 id를 부여할 것이다.
+
+```kotlin
+// path: buildSrc/build.gradle.kts
+plugins {  
+    `java-gradle-plugin`  
+}  
+  
+gradlePlugin {  
+    plugins {  
+        create("inject-plugin") {  
+            id = "inject"  
+            implementationClass = "inject.JavaInjectPlugin"  
+        }  
+    }
+}
+```
+
+플러그인에 java-gradle-plugin을 등록한다. 그 이후
+gradlePlugin을 정의한다.
+
+create 다음에는 플러그인 네임, 그리고 다른 gradle에서 plugin 로드에 필요한 id를 입력한다.
+implementationClass에는 buildSrc 경로에서 내가 만든 자바 플러그인 경로를 넣어준다.
+
+플러그인을 여러 Task와 설정 정보들의 모음이라 생각하면 된다. 
+
+### Extension과 Lazy initialization
 ## 질문 & 확장
 
 (없음)
