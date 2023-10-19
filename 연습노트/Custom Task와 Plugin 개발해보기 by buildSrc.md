@@ -186,6 +186,7 @@ configure<GreetingPluginExtension> {
 ![[Pasted image 20231019211312.png]]
 
 #### Task 분리 버전
+이번엔 Task 분리 버전을 해보자
 
 ## 질문 & 확장
 
