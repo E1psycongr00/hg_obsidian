@@ -54,8 +54,26 @@ tasks.register<Copy>("copyTask") {
 
 
 ### buildSrc를 활용한 Custom Task 작성하기
+```java
+public class JavaInjectTask extends DefaultTask {  
+  
+    private final String message;  
+  
+    @Inject  
+    public JavaInjectTask(String message) {  
+       this.message = message;  
+    }  
+  
+    @TaskAction  
+    void print() {  
+       System.out.println(this.message);  
+    }  
+}
+```
 
+DefaultTask를 상속하면 CustomTask를 만들 수 있다. 
 
+@
 ## 질문 & 확장
 
 (없음)
