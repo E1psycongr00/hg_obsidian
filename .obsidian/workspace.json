@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/Task create vs register.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/Task create vs register.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/Task create vs register.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md"
+                "file": "연습노트/Task create vs register.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "48cea7e269902fda",
   "lastOpenFiles": [
-    "연습노트/Task create vs register.md",
     "연습노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+    "연습노트/Task create vs register.md",
     "영구노트/Gradle Build Life Cycle.md",
     "영구노트/Gradle의 doLast()를 언제 써야 할까.md",
     "연습노트/Why Kotlin.md",
