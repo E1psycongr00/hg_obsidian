@@ -188,6 +188,49 @@ configure<GreetingPluginExtension> {
 #### Task 분리 버전
 이번엔 Task 분리 버전을 해보자
 
+```java
+public interface JavaMessageExtension {  
+    Property<Integer> getCode();  
+}
+```
+
+```java
+public class JavaMessageExtensionTask extends DefaultTask {  
+  
+    private final Property<Integer> code;  
+  
+    @Inject  
+    public JavaMessageExtensionTask(Project project) {  
+       JavaMessageExtension messageExtension = project.getExtensions().getByType(JavaMessageExtension.class);  
+       this.code = messageExtension.getCode();  
+    }  
+  
+    @TaskAction  
+    void print() {  
+       System.out.println("Code :" + code.get());
+```
+
+생성자 인자로 Project를 넘긴다. 이러면 lazy하게 사용가능하고  configure 를 활용해 configure phase에 인자를 초기화 가능하다.
+
+```java
+public class JavaMessageExtensionPlugin implements Plugin<Project> {  
+    @Override  
+    public void apply(Project project) {  
+       ExtensionContainer extensions = project.getExtensions();  
+       extensions.create("messageExtension", JavaMessageExtension.class);  
+       project.getTasks().register("JavaMessageTask", JavaMessageExtensionTask.class);  
+    }  
+}
+```
+
+마지막으로 extension과 task를 등록해준다.
+
+plugin 정의를 하고 똑같이 다른 모듈에서 호출하면 다음과 같이 결과가 잘 나온다.
+
+simple 버전과 똑같이 사용해보자
+![[Pasted image 20231019225804.png]]
+
+다음과 같이 원하는 결과를 얻었다
 ## 질문 & 확장
 
 (없음)
@@ -195,6 +238,7 @@ configure<GreetingPluginExtension> {
 ## 출처(링크)
 - https://docs.gradle.org/current/userguide/custom_plugins.html#custom_plugins
 - https://velog.io/@jeongyunsung/Gradle%EB%86%80%EC%9D%B43-Custom-Task#task-1
+- 
 ## 연결 노트
 - [[Task create vs register]]
 
