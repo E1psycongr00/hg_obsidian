@@ -53,7 +53,7 @@ tasks.register<Copy>("copyTask") {
 ```
 
 
-### buildSrc를 활용한 Custom Task 작성하기
+### buildSrc를 활용해 독립적인 Task와 Plugin 구축하기
 ```java
 public class JavaInjectTask extends DefaultTask {  
   
@@ -73,7 +73,11 @@ public class JavaInjectTask extends DefaultTask {
 
 DefaultTask를 상속하면 CustomTask를 만들 수 있다. 
 
-@
+@Inject는 생성자에 적용해서 인수를 받도록 설정한다.
+@TaskAction은 Task의 동작을 정의한다.
+
+이제 이 Task로 Plugin을 만들어서 등록해보자
+
 ## 질문 & 확장
 
 (없음)
