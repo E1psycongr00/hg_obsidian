@@ -116,6 +116,44 @@ implementationClass에는 buildSrc 경로에서 내가 만든 자바 플러그�
 플러그인을 여러 Task와 설정 정보들의 모음이라 생각하면 된다. 
 
 ### Extension과 Lazy initialization
+
+Plugin 초기에 생성자에 주입하는 방식이 아닌 Plugin에 Task를 등록하고 나중에 변수를 주입하고 싶을 수도 있다. 이럴 때  extension를 활용하면 된다.
+
+Extension의 task 로직이 간단하면 Extension과 ExtensionPlugin만으로 충분하다. 만약 복잡하다면 ExtensionTask를 따로 분리할 수도 있다. 간단한 버전과 조금 더 복잡한 버전 모두 소개하겠다.
+
+
+#### 간단한 Task의 경우
+
+우선 lazy하게 변수를 담아서 Inject할 extension을 선언해준다.
+
+```java
+// buildSrc/plugin/GreetingPluginExtension.java
+public interface GreetingPluginExtension {  
+    Property<String> getMessage();  
+}
+```
+
+인터페이스를 선언할 때는 여러 메서드를 사용해도 되지만 getter 메서드에 Property로 감싸서 반환하도록 하자.
+
+```java
+public class GreetingPlugin implements Plugin<Project> {  
+  
+    @Override  
+    public void apply(Project target) {  
+       ExtensionContainer extensions = target.getExtensions();  
+       GreetingPluginExtension greeting = extensions.create("greeting", GreetingPluginExtension.class);  
+       target.task("hello")  
+          .doLast(task -> System.out.println("Hello from " + greeting.getMessage().get() + "!"));  
+    }  
+}
+```
+
+그 이후에는 project에서 extension을 불러온다음 extension에 GreetingPluginExtension 인터페이스를 담아서 extension을 생성해주고 새로 task를 생성한다음 해당 extension의 property를 가져와 활용하면 된다.
+
+그러나 만약 Task가 굉장히 복잡해지면 Plugin 코드가 복잡해지므로 Task의 분리가 필요할 수 있다.
+
+#### Task 분리 버전
+
 ## 질문 & 확장
 
 (없음)
