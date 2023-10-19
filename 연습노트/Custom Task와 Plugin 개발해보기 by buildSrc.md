@@ -13,7 +13,7 @@
 
 ## 출처(링크)
 - https://docs.gradle.org/current/userguide/custom_plugins.html#custom_plugins
-
+- https://velog.io/@jeongyunsung/Gradle%EB%86%80%EC%9D%B43-Custom-Task#task-1
 ## 연결 노트
 
 
