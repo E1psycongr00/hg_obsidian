@@ -26,6 +26,9 @@
 - [[Young Generation 과 Old Generation 특징]]
 
 
+### java 메서드 & 문법
+- [[instanceof 패턴 매칭]]
+- 
 ### 테스트 관련
 - [[클래스의 테스트 커버리지가 채워지지 않는 경우 해결법]]
 

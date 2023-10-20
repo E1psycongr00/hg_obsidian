@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-21
 작성 시간: 00:36
 
-## 주제: #미완 #IT #JAVA 
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -18,9 +18,14 @@ if (x instanceof String) {
 그러나 jav16에 오면서 형변환 없이 쉽게 사용하도록 문법이 개선되었다.
 
 ```java
-
+Object x = "1";  
+if (x instanceof String s) {  
+    String result = s.concat("2");  
+    System.out.println(result);  
+}
 ```
 
+이렇게 뒤에 valuable name을 할당하면 캐스팅 없이 해당 name을 이용해 해당 타입의 메서드를 사용할 수 있다.
 ## 질문 & 확장
 
 (없음)

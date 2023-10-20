@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/instanceof 패턴 매칭.md",
+                "file": "Resources/IT/Java/Java 공부.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/instanceof 패턴 매칭.md",
+                "file": "연습노트/Java17 Switch 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/instanceof 패턴 매칭.md",
+                "file": "연습노트/Java17 Switch 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/instanceof 패턴 매칭.md"
+                "file": "연습노트/Java17 Switch 문법.md"
               }
             }
           },
@@ -200,13 +200,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c41046d52f815581",
+  "active": "2e7784e311b3746f",
   "lastOpenFiles": [
+    "Resources/IT/Java/Java 공부.md",
+    "영구노트/instanceof 패턴 매칭.md",
     "연습노트/Java17 Switch 문법.md",
-    "연습노트/instanceof 패턴 매칭.md",
     "영구노트/Mark And Sweep.md",
     "영구노트/Querydsl 소개.md",
-    "Resources/IT/Java/Java 공부.md",
     "Resources/IT/Gradle/Gradle 공부.md",
     "Resources/IT/Gradle",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
