@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -43,89 +42,15 @@
             }
           },
           {
-            "id": "d9884c715bccadd2",
+            "id": "34fd196480da5bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 소개.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
-          },
-          {
-            "id": "7da7b4a341f44818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 12 ~ 17까지 과정.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a537b16869dd121e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "c0119036fc81a2c8"
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "bdaa8c3766dd8ea1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dec89679266e3336",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Java.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "c0119036fc81a2c8"
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java.md"
-              }
+              "state": {}
             }
           },
           {
@@ -283,10 +204,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a537b16869dd121e",
+  "active": "34fd196480da5bae",
   "lastOpenFiles": [
+    "Resources/IT/Java/Java 공부.md",
+    "Resources/IT/Java",
+    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
     "영구노트/Java 8 특징.md",
-    "Java.md",
     "영구노트/무료와 독점 JDK 모음.md",
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
     "영구노트/Java 12 ~ 17까지 과정.md",
@@ -320,8 +243,6 @@
     "영구노트/Why Gradle by Kotlin DSL.md",
     "영구노트/Gradle Wrapper.md",
     "영구노트/Gradle Init Script.md",
-    "excalibrain.md",
-    "README.md",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -330,7 +251,6 @@
     "Excalidraw/libraries/data-viz.excalidrawlib",
     "Excalidraw/libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
     "Excalidraw/libraries/graphs.excalidrawlib",
-    "Excalidraw/libraries/stick-figures.excalidrawlib",
-    "Excalidraw/libraries/architecture-diagram-components.excalidrawlib"
+    "Excalidraw/libraries/stick-figures.excalidrawlib"
   ]
 }
