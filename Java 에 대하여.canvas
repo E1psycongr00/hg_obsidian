@@ -1,4 +1,9 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"ff7b8ca44124c44e","x":-740,"y":540,"width":400,"height":400,"type":"file","file":"영구노트/Java 소개.md"},
+		{"id":"b3a81565b309b025","x":-160,"y":800,"width":220,"height":120,"type":"text","text":"java"}
+	],
+	"edges":[
+		{"id":"562c65eaa3f6f06b","fromNode":"b3a81565b309b025","fromSide":"left","toNode":"ff7b8ca44124c44e","toSide":"right"}
+	]
 }
