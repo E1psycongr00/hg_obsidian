@@ -4,53 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7a36d666191df5",
+        "id": "fa9f49a79d8075cb",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b0e2ed9c9c116d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "34fd196480da5bae",
+            "id": "df99977e59080b25",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "tag:#JAVA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,9 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34fd196480da5bae",
+  "active": "df99977e59080b25",
   "lastOpenFiles": [
+    "영구노트/Mark And Sweep.md",
+    "영구노트/Querydsl 소개.md",
     "Resources/IT/Java/Java 공부.md",
+    "Resources/IT/Gradle/Gradle 공부.md",
+    "Resources/IT/Gradle",
+    "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
     "Resources/IT/Java",
     "영구노트/컴파일(compile)과 빌드(build) 개념.md",
     "영구노트/Java 8 특징.md",
@@ -220,7 +190,6 @@
     "영구노트/Java 소개.md",
     "영구노트/Gradle Build Life Cycle.md",
     "Excalidraw/string constant pool(draw).md",
-    "영구노트/Queydsl 소개.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/Task create vs register.md",
     "attachments/Pasted image 20231019225804.png",
@@ -241,8 +210,6 @@
     "attachments/Pasted image 20231017105157.png",
     "연습노트/Gradle 바이너리 플러그인.md",
     "영구노트/Why Gradle by Kotlin DSL.md",
-    "영구노트/Gradle Wrapper.md",
-    "영구노트/Gradle Init Script.md",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -250,7 +217,6 @@
     "Excalidraw/libraries/forms.excalidrawlib",
     "Excalidraw/libraries/data-viz.excalidrawlib",
     "Excalidraw/libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
-    "Excalidraw/libraries/graphs.excalidrawlib",
-    "Excalidraw/libraries/stick-figures.excalidrawlib"
+    "Excalidraw/libraries/graphs.excalidrawlib"
   ]
 }
