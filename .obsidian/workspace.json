@@ -4,16 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "c8201433ab2e3423",
+        "id": "1b1863ac7cef9ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "43499fe338ad9643",
+            "id": "f3408c0583689907",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "Java 에 대하여.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
             }
+          },
+          {
+            "id": "4e036b66c42b0eef",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Java 에 대하여.canvas",
+                "viewState": {
+                  "x": -885,
+                  "y": -440,
+                  "zoom": 0
+                }
+              }
+            },
+            "group": "2ee3d09c6f34fffd"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1a7a36d666191df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b0e2ed9c9c116d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Java 에 대하여.canvas",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "2ee3d09c6f34fffd"
           }
         ]
       }
@@ -66,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -83,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java 에 대하여.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java 에 대하여.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java 에 대하여.canvas"
+              }
             }
           },
           {
@@ -153,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440
+    "width": 440,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +260,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "4e036b66c42b0eef",
   "lastOpenFiles": [
+    "영구노트/Java 소개.md",
+    "Java 에 대하여.canvas",
     "영구노트/Gradle Build Life Cycle.md",
     "Excalidraw/string constant pool(draw).md",
     "영구노트/Queydsl 소개.md",
@@ -207,7 +299,6 @@
     "영구노트/Young Generation 과 Old Generation 특징.md",
     "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
-    "Excalidraw/Drawing 2023-10-16 16.14.25.excalidraw.md",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -217,7 +308,6 @@
     "Excalidraw/libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
     "Excalidraw/libraries/graphs.excalidrawlib",
     "Excalidraw/libraries/stick-figures.excalidrawlib",
-    "Excalidraw/libraries/architecture-diagram-components.excalidrawlib",
-    "무제 파일.canvas"
+    "Excalidraw/libraries/architecture-diagram-components.excalidrawlib"
   ]
 }
