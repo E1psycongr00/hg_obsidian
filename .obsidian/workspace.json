@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Java 소개.md",
+                "file": "Java.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -59,19 +59,73 @@
             "id": "7da7b4a341f44818",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Java 에 대하여.canvas",
-                "viewState": {
-                  "x": -132.12615242454282,
-                  "y": 772.1436362534972,
-                  "zoom": 0.3333333333333332
-                }
+                "file": "영구노트/Java 12 ~ 17까지 과정.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
+          },
+          {
+            "id": "a537b16869dd121e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "c0119036fc81a2c8"
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "bdaa8c3766dd8ea1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec89679266e3336",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Java.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "c0119036fc81a2c8"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +192,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Java 소개.md",
-                "collapseAll": false,
+                "file": "Java.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -155,9 +209,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Java 소개.md",
+                "file": "Java.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -178,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Java 소개.md"
+                "file": "Java.md"
               }
             }
           },
@@ -212,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440,
-    "collapsed": true
+    "width": 440
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,11 +283,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7da7b4a341f44818",
+  "active": "a537b16869dd121e",
   "lastOpenFiles": [
+    "영구노트/Java 8 특징.md",
+    "Java.md",
+    "영구노트/무료와 독점 JDK 모음.md",
+    "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
+    "영구노트/Java 12 ~ 17까지 과정.md",
+    "Java 에 대하여.canvas",
+    "영구노트/java 11 특징.md",
+    "연습노트/Project Jigsaw.md",
     "Excalidraw/Drawing 2023-10-20 13.52.06.excalidraw.md",
     "영구노트/Java 소개.md",
-    "Java 에 대하여.canvas",
     "영구노트/Gradle Build Life Cycle.md",
     "Excalidraw/string constant pool(draw).md",
     "영구노트/Queydsl 소개.md",
@@ -244,7 +304,6 @@
     "attachments/Pasted image 20231019211312.png",
     "attachments/Pasted image 20231019211300.png",
     "attachments/Pasted image 20231019211242.png",
-    "연습노트/Project Jigsaw.md",
     "attachments/Pasted image 20231019170743.png",
     "attachments/Pasted image 20231019170613.png",
     "attachments/Pasted image 20231019170514.png",
@@ -263,12 +322,6 @@
     "영구노트/Gradle Init Script.md",
     "excalibrain.md",
     "README.md",
-    "영구노트/Gradle 지원 버전.md",
-    "영구노트/Excalidraw 설치 및 한글 폰트 적용하기.md",
-    "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md",
-    "영구노트/Minor GC(Young) vs Major GC(Old).md",
-    "영구노트/Young Generation 과 Old Generation 특징.md",
-    "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
