@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java17 Switch 문법.md",
+                "file": "영구노트/Java17 Switch 문법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Resources/IT/Gradle/Gradle 공부.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Resources/IT/Gradle/Gradle 공부.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Resources/IT/Gradle/Gradle 공부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Resources/IT/Gradle/Gradle 공부.md"
               }
             }
           },
@@ -215,13 +215,16 @@
   },
   "active": "214ca0299219ada9",
   "lastOpenFiles": [
+    "Resources/IT/Obsidian/Obsidian.md",
+    "Resources/IT/Obsidian/제텔카스텐.md",
     "Resources/IT/Java/Java 공부.md",
+    "Resources/IT/Gradle/Gradle 공부.md",
+    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+    "영구노트/Java17 Switch 문법.md",
     "무제 파일.md",
-    "연습노트/Java17 Switch 문법.md",
     "영구노트/instanceof 패턴 매칭.md",
     "영구노트/Mark And Sweep.md",
     "영구노트/Querydsl 소개.md",
-    "Resources/IT/Gradle/Gradle 공부.md",
     "Resources/IT/Gradle",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
     "Resources/IT/Java",
@@ -237,7 +240,6 @@
     "영구노트/Java 소개.md",
     "영구노트/Gradle Build Life Cycle.md",
     "Excalidraw/string constant pool(draw).md",
-    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/Task create vs register.md",
     "attachments/Pasted image 20231019225804.png",
     "attachments/Pasted image 20231019211312.png",
@@ -249,8 +251,6 @@
     "영구노트/Gradle의 doLast()를 언제 써야 할까.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Intellij와 Kotlin DSL을 통해 멀티 모듈 종속성 설정하기.md",
-    "Excalidraw/gradle life cycle(draw).md",
-    "영구노트/Gradle Plugin 사용하기.md",
     "attachments/Pasted image 20231017110504.png",
     "attachments/Pasted image 20231017110425.png",
     "attachments/Pasted image 20231017105157.png",
