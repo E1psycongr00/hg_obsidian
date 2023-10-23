@@ -11,30 +11,21 @@
             "id": "01b4d58af8d97f65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/java/Java 공부.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "d86aaed76c65ea8e",
+            "id": "4aa7b70d70773544",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "연습노트/Java List 유틸 메서드 by Collections.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/rotate array(draw).md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java List 유틸 메서드 by Collections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java List 유틸 메서드 by Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/Java List 유틸 메서드 by Collections.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,10 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d86aaed76c65ea8e",
+  "active": "01b4d58af8d97f65",
   "lastOpenFiles": [
     "Resources/IT/java/Java 공부.md",
-    "연습노트/Java List 유틸 메서드 by Collections.md",
+    "영구노트/Java List 유틸 메서드 by Collections.md",
+    "Excalidraw/rotate array(draw).md",
     "Resources/IT/java/java 배열 사용법.md",
     "영구노트/배열 초기화.md",
     "영구노트/Java 배열 정의.md",
@@ -225,7 +213,6 @@
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
     "Java 에 대하여.canvas",
     "영구노트/java 11 특징.md",
-    "Excalidraw/Drawing 2023-10-20 13.52.06.excalidraw.md",
     "attachments/Pasted image 20231019225804.png",
     "attachments/Pasted image 20231019211312.png",
     "attachments/Pasted image 20231019211300.png",

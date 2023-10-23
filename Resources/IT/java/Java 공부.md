@@ -31,7 +31,7 @@
 - [[Java17 Switch 문법]]
 - [[Java Record 사용법]]
 - [[java 배열 사용법]]
-- 
+- [[Java List 유틸 메서드 by Collections]]
 ### 테스트 관련
 - [[클래스의 테스트 커버리지가 채워지지 않는 경우 해결법]]
 

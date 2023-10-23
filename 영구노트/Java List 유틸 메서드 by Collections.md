@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-23
 작성 시간: 14:39
 
-## 주제: #미완
+## 주제: #완성 #IT #JAVA 
 
 ----
 ## 원문
@@ -80,12 +80,24 @@ List<Integer> list = Arrays.asList(1,2,3,4,5);
 Collections.swap(list, 1, 2);
 ```
 
+### Collections.rotate(list, distance)
+
+```java
+List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);  
+Collections.rotate(list, -1);  
+System.out.println(list);
+```
+
+![[rotate array(draw)|700]]
+
+
+
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
+- https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html
 
 ## 연결 노트
 
