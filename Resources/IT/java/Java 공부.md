@@ -26,11 +26,12 @@
 - [[Young Generation 과 Old Generation 특징]]
 
 
-### java 문법 및 클래스 분석
+### java 문법 & 클래스 & 메서드
 - [[instanceof 패턴 매칭]]
 - [[Java17 Switch 문법]]
 - [[Java Record 사용법]]
 - [[java 배열 사용법]]
+- 
 ### 테스트 관련
 - [[클래스의 테스트 커버리지가 채워지지 않는 경우 해결법]]
 

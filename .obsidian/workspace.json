@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md",
+                "file": "Resources/IT/java/Java 공부.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d86aaed76c65ea8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Java List 유틸 메서드 by Collections.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md",
+                "file": "연습노트/Java List 유틸 메서드 by Collections.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md",
+                "file": "연습노트/Java List 유틸 메서드 by Collections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md"
+                "file": "연습노트/Java List 유틸 메서드 by Collections.md"
               }
             }
           },
@@ -179,11 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01b4d58af8d97f65",
+  "active": "d86aaed76c65ea8e",
   "lastOpenFiles": [
-    "영구노트/배열 초기화.md",
-    "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
+    "연습노트/Java List 유틸 메서드 by Collections.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "영구노트/배열 초기화.md",
     "영구노트/Java 배열 정의.md",
     "attachments/Pasted image 20231023130449.png",
     "Resources/IT/java",
