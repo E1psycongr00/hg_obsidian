@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb1899dd8f715a16",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "2422afd4a3da9f1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md",
+                "file": "영구노트/배열 초기화.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/java/Java 공부.md",
+                "file": "Resources/IT/java/java 배열 사용법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/IT/java/java 배열 사용법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Resources/IT/java/java 배열 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Resources/IT/java/java 배열 사용법.md"
+              }
             }
           },
           {
@@ -196,14 +192,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb1899dd8f715a16",
+  "active": "01b4d58af8d97f65",
   "lastOpenFiles": [
-    "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
-    "연습노트/Java 배열 정의.md",
+    "영구노트/배열 초기화.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "영구노트/Java 배열 정의.md",
     "attachments/Pasted image 20231023130449.png",
     "Resources/IT/java",
-    "무제 파일.md",
     "영구노트/Java 12 ~ 17까지 과정.md",
     "영구노트/Java17 Switch 문법.md",
     "영구노트/Java Record 사용법.md",
