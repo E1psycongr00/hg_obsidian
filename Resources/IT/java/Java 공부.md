@@ -26,7 +26,7 @@
 - [[Young Generation 과 Old Generation 특징]]
 
 
-### java 메서드 & 문법
+### java 문법 및 클래스 분석
 - [[instanceof 패턴 매칭]]
 - [[Java17 Switch 문법]]
 - [[Java Record 사용법]]
