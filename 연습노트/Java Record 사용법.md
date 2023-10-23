@@ -84,7 +84,19 @@ public record Person(String name, int age) {
 
 ### 게어 비어만의 컴팩트 생성자 의도
 
+보통 클래스의 생성자 호출시 변수들의 validation 로직이 섞여 있을 때 코드가 복잡하다. 이런 경우 때문에 검증/정규화 코드만 필요한 새로운 형태의 compact(소형화)된 생성자 선언이 필요했고 그래서 컴팩트 생성자가 탄생하게 되었다.
 
+컴팩트 생성자 -> 인스턴스 초기화 과정을 거치며, 정규화도 수행 가능하다. 예를 들어 다음과 같은 분수를 VO 형태로 만든 record를 분석해보자.
+
+```java
+record Rational(int num, int denom) { 
+	Rational {
+		int gcd = gcd(num, denom);
+		num /= gcd;
+		denom /= gcd;
+	}
+}
+```
 
 ## 질문 & 확장
 
