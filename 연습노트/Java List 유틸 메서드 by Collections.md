@@ -7,6 +7,13 @@
 ## 원문
 java 배열의 경우 Util 메서드가 부실한 경우가 많다. Collections에서는 보다 유틸 메서드가 풍부한데, Collections 에서 제공하는 List에 도움이 되는 유틸 클래스에 대해서 알아보자
 
+Collections는 **java.util** 패키지에 있다.
+
+### Collections.max(), Collections.min()
+
+이건 max
+
+
 
 ## 질문 & 확장
 
