@@ -11,8 +11,13 @@
             "id": "01b4d58af8d97f65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Why Kotlin.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -92,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/Why Kotlin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/Why Kotlin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/Why Kotlin.md"
+              }
             }
           },
           {
@@ -182,10 +191,12 @@
   },
   "active": "01b4d58af8d97f65",
   "lastOpenFiles": [
+    "연습노트/Project Jigsaw.md",
+    "Resources/IT/Gradle 공부.md",
+    "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
     "영구노트/Java List 유틸 메서드 by Collections.md",
     "Excalidraw/rotate array(draw).md",
-    "Resources/IT/java/java 배열 사용법.md",
     "영구노트/배열 초기화.md",
     "영구노트/Java 배열 정의.md",
     "attachments/Pasted image 20231023130449.png",
@@ -193,9 +204,7 @@
     "영구노트/Java 12 ~ 17까지 과정.md",
     "영구노트/Java17 Switch 문법.md",
     "영구노트/Java Record 사용법.md",
-    "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
-    "연습노트/Project Jigsaw.md",
     "연습노트/Why Kotlin.md",
     "README.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",

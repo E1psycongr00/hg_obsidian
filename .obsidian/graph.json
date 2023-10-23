@@ -11,14 +11,21 @@
       "query": "tag:#JAVA  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15277084
       }
     },
     {
       "query": "tag:#Gradle  ",
       "color": {
         "a": 1,
-        "rgb": 7921746
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "file:(draw)",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181715,
+  "scale": 0.3628873693012248,
   "close": false
 }
