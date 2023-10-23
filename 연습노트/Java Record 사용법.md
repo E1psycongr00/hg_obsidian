@@ -60,7 +60,30 @@ VO를 구현하기 위해서는 getter와 불변 속성, equals & hash를 구현
 public record Person(String name, int age) {}
 ```
 
-### Record constructor
+### Record compact 생성자
+
+record 콤팩트 생성자를 이용하면 생성자 인자를 넣지 않고 쉽게 생성자의 validation을 구현할 수 있다.
+
+```java
+public record Person(String name, int age) {  
+  
+    public Person {  
+       if (age < 0) {  
+          throw new IllegalArgumentException("나이는 0보다 작을 수 없습니다.");  
+       }  
+       if (name == null) {  
+          throw new IllegalArgumentException("이름은 null일 수 없습니다.");  
+       }  
+    }  
+}
+```
+
+호출 순서는 컴팩트 생성자 호출 이후, 변수 초기화 작업을 수행한다. 위의 코드는 다음과 같다.
+
+
+
+### 게어 비어만의 컴팩트 생성자 의도
+
 
 
 ## 질문 & 확장
@@ -68,7 +91,7 @@ public record Person(String name, int age) {}
 (없음)
 
 ## 출처(링크)
-
+- https://blog.hexabrain.net/399#%EC%BB%B4%ED%8C%A9%ED%8A%B8-%EC%83%9D%EC%84%B1%EC%9E%90compact-constructor
 
 ## 연결 노트
 
