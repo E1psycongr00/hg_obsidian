@@ -28,6 +28,16 @@ Collections.sort(list, Collections.reverseOrder());
 ```
 
 역순으로 정렬하고 싶다면 Collections.reverseOrder() 또는 Comparator.reverseOrder()를 사용하면 된다.
+
+### Collections.binarySearch(list, key)
+
+비교 가능한 원소를 가지고 있는 LIst와 찾고자 하는 key값이 주어졌을 때 binarySearch 알고리즘을 이용하여 index를 반환한다. 이것의 좋은 점은 List가 굉장히 큰 경우 index를 찾는데 $O(\log(N))$ 밖에 걸리지 않기 때문이다.
+
+
+### Collections.reverse(list)
+
+
+
 ### Collections.max(), Collections.min()
 
 이건 컬렉션 내부에서 최대값과 최소값을 구할 떄 사용된다.
