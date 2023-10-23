@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4eb51224fdb4acc1",
+            "id": "cb1899dd8f715a16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Java17 Switch 문법.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java Record 사용법.md",
+                "file": "Resources/IT/Java 공부.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JAVA",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java Record 사용법.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java Record 사용법.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java Record 사용법.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -192,11 +191,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01b4d58af8d97f65",
+  "active": "cb1899dd8f715a16",
   "lastOpenFiles": [
-    "영구노트/Java17 Switch 문법.md",
-    "연습노트/Java Record 사용법.md",
+    "영구노트/Java 12 ~ 17까지 과정.md",
     "Resources/IT/Java 공부.md",
+    "무제 파일.md",
+    "영구노트/Java17 Switch 문법.md",
+    "영구노트/Java Record 사용법.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
     "연습노트/Project Jigsaw.md",
@@ -215,14 +216,12 @@
     "영구노트/Java 8 특징.md",
     "영구노트/무료와 독점 JDK 모음.md",
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
-    "영구노트/Java 12 ~ 17까지 과정.md",
     "Java 에 대하여.canvas",
     "영구노트/java 11 특징.md",
     "Excalidraw/Drawing 2023-10-20 13.52.06.excalidraw.md",
     "영구노트/Java 소개.md",
     "영구노트/Gradle Build Life Cycle.md",
     "Excalidraw/string constant pool(draw).md",
-    "영구노트/Task create vs register.md",
     "attachments/Pasted image 20231019225804.png",
     "attachments/Pasted image 20231019211312.png",
     "attachments/Pasted image 20231019211300.png",

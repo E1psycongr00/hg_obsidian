@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-23
 작성 시간: 12:01
 
-## 주제: #미완
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -95,6 +95,32 @@ record Rational(int num, int denom) {
 		num /= gcd;
 		denom /= gcd;
 	}
+}
+```
+
+실제 build된 코드를 보면 다음과 같이 생성된다.
+
+```java
+public record Rational(int num, int den) {  
+    public Rational(int num, int den) {  
+        int gcd = this.gcd(num, den);  
+        num /= gcd;  
+        den /= gcd;  
+        this.num = num;  
+        this.den = den;  
+    }  
+  
+    private int gcd(int a, int b) {  
+        return b == 0 ? a : this.gcd(b, a % b);  
+    }  
+  
+    public int num() {  
+        return this.num;  
+    }  
+  
+    public int den() {  
+        return this.den;  
+    }  
 }
 ```
 
