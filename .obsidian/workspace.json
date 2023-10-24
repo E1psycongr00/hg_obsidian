@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25b069f7a06654d8",
+        "id": "7234ac8fc14c106e",
         "type": "tabs",
         "children": [
           {
-            "id": "01b4d58af8d97f65",
+            "id": "b566cb78f9376dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Why Kotlin.md",
+                "file": "Resources/명언/명언 모음.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,56 +21,20 @@
             }
           },
           {
-            "id": "8dc92defc9d65b50",
+            "id": "27f2356a223932bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/승자가 되기 위해서는... by donald trump.md",
+                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e8a51c3f8e108694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/본능의 목소리에 귀울여라... by donald trump.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f86dc0c1e44d538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4aa7b70d70773544",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/rotate array(draw).md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
+                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
+                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
+                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md"
               }
             }
           },
@@ -229,20 +193,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f86dc0c1e44d538",
+  "active": "27f2356a223932bf",
   "lastOpenFiles": [
-    "연습노트/본능의 목소리에 귀울여라... by donald trump.md",
-    "연습노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
-    "attachments/Pasted image 20231024144128.png",
-    "연습노트/승자가 되기 위해서는... by donald trump.md",
-    "attachments/Pasted image 20231024143949.png",
+    "Resources/명언/명언 모음.md",
+    "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
+    "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
+    "영구노트/본능의 목소리에 귀울여라... by donald trump.md",
+    "영구노트/승자가 되기 위해서는... by donald trump.md",
     "연습노트/Why Kotlin.md",
+    "Excalidraw/rotate array(draw).md",
+    "Resources/명언",
+    "attachments/Pasted image 20231024144128.png",
+    "attachments/Pasted image 20231024143949.png",
     "연습노트/Project Jigsaw.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
     "영구노트/Java List 유틸 메서드 by Collections.md",
-    "Excalidraw/rotate array(draw).md",
     "영구노트/배열 초기화.md",
     "영구노트/Java 배열 정의.md",
     "attachments/Pasted image 20231023130449.png",
@@ -253,16 +220,14 @@
     "Resources/IT/Github.md",
     "README.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
-    "Resources/IT/Obsidian/Obsidian.md",
-    "Resources/IT/Obsidian/제텔카스텐.md",
+    "Resources/Obsidian/Obsidian.md",
+    "Resources/Obsidian/제텔카스텐.md",
     "영구노트/instanceof 패턴 매칭.md",
     "영구노트/Mark And Sweep.md",
     "영구노트/Querydsl 소개.md",
     "Resources/IT/Gradle",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
     "Resources/IT/Java",
-    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
-    "영구노트/Java 8 특징.md",
     "Java 에 대하여.canvas",
     "attachments/Pasted image 20231019225804.png",
     "attachments/Pasted image 20231019211312.png",
@@ -276,7 +241,6 @@
     "Excalidraw/Scripts",
     "Excalidraw/libraries/aws-architecture-icons.excalidrawlib",
     "Excalidraw/libraries/forms.excalidrawlib",
-    "Excalidraw/libraries/data-viz.excalidrawlib",
-    "Excalidraw/libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib"
+    "Excalidraw/libraries/data-viz.excalidrawlib"
   ]
 }
