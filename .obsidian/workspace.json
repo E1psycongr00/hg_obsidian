@@ -26,15 +26,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
+                "file": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9b512e6480bb9ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,10 +197,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27f2356a223932bf",
+  "active": "e9b512e6480bb9ef",
   "lastOpenFiles": [
     "Resources/명언/명언 모음.md",
-    "연습노트/지식보다 중요한 것은 상상력이다 ... by Einstein.md",
+    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
+    "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
+    "attachments/Pasted image 20231024145920.png",
     "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
     "영구노트/본능의 목소리에 귀울여라... by donald trump.md",
     "영구노트/승자가 되기 위해서는... by donald trump.md",
@@ -226,7 +232,6 @@
     "영구노트/Mark And Sweep.md",
     "영구노트/Querydsl 소개.md",
     "Resources/IT/Gradle",
-    "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
     "Resources/IT/Java",
     "Java 에 대하여.canvas",
     "attachments/Pasted image 20231019225804.png",
@@ -235,7 +240,6 @@
     "attachments/Pasted image 20231019211242.png",
     "attachments/Pasted image 20231019170743.png",
     "attachments/Pasted image 20231019170613.png",
-    "attachments/Pasted image 20231019170514.png",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
