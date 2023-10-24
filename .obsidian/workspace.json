@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/승자가 ㄷ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/승자가 ㄷ.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/승자가 ㄷ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "연습노트/승자가 ㄷ.md"
               }
             }
           },
@@ -206,7 +206,7 @@
   "active": "8dc92defc9d65b50",
   "lastOpenFiles": [
     "연습노트/Why Kotlin.md",
-    "무제 파일.md",
+    "연습노트/승자가 ㄷ.md",
     "연습노트/Project Jigsaw.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/java/java 배열 사용법.md",
