@@ -46,7 +46,11 @@ public interface HelloRepository extends JpaRepository<Hello, UUID> {
 <T> Optional<T> findByName(String name, Class<T> type);
 ```
 
-위와 같이 인자 타입과 classType을 같이 넘긴다. 그러면 
+위와 같이 인자 타입과 classType을 같이 넘긴다. 그러면 다음과 같은 결과를 얻을 수 있다.
+
+![[Pasted image 20231026220731.png]]
+
+
 ## 질문 & 확장
 
 (없음)
