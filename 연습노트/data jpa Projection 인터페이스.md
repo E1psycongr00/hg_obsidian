@@ -57,13 +57,46 @@ public class Hello {
 
 위의 예시의 경우에서 name과 age만을 projection해서 가져오고 싶다면 다음과 같이 작성할 수 있다.
 ```java
-public interface {
-
+/**  
+ * Projection for {@link com.example.restdocs.hello.domain.entity.Hello}  
+ */
+ public interface HelloInfo {  
+    String getName();  
+  
+    int getAge();  
+  
+    String getMessage();  
 }
 ```
 
+Spring Data Jpa 문서에 따르면 중첩 interface를 통해 Projection을 표현할 수 있다고 한다.
 
+```java
+interface Person {
+	String getName();
+	int getAge();
+	interface Address {
+		String getStreetName;
+		String getCity;
+	}
+}
+```
 
+### Interface로 data jpa repostory를 활용해 조회해본다면?
+
+```java
+public interface HelloInfo {  
+    String getName();  
+  
+    int getAge();  
+  
+    String getMessage();  
+}
+```
+
+```java
+Optional<HelloInfo> findHelloInfoByName(String name);
+```
 
 ## 질문 & 확장
 
