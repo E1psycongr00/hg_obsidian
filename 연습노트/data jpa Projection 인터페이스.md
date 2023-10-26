@@ -94,9 +94,13 @@ public interface HelloInfo {
 }
 ```
 
+위와 같은 Closed Projection을 만들고 적용해보자.
+
 ```java
 Optional<HelloInfo> findHelloInfoByName(String name);
 ```
+
+
 
 ## 질문 & 확장
 
