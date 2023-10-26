@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7234ac8fc14c106e",
+        "id": "cd71b51bbbf10404",
         "type": "tabs",
         "children": [
           {
-            "id": "b566cb78f9376dbc",
+            "id": "17d6fe537903363b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/명언/명언 모음.md",
+                "file": "Resources/IT/Gradle 공부.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,33 +21,12 @@
             }
           },
           {
-            "id": "27f2356a223932bf",
+            "id": "c467db7ce22270d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9b512e6480bb9ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1acf4bb0bc01dab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
+                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md"
               }
             }
           },
@@ -214,10 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1acf4bb0bc01dab1",
+  "active": "c467db7ce22270d9",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "Resources/IT/Gradle 공부.md",
+    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/명언/명언 모음.md",
+    "무제 파일.md",
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
     "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
     "attachments/Pasted image 20231024145920.png",
@@ -230,7 +211,6 @@
     "attachments/Pasted image 20231024144128.png",
     "attachments/Pasted image 20231024143949.png",
     "연습노트/Project Jigsaw.md",
-    "Resources/IT/Gradle 공부.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
     "영구노트/Java List 유틸 메서드 by Collections.md",
@@ -243,7 +223,6 @@
     "영구노트/Java Record 사용법.md",
     "Resources/IT/Github.md",
     "README.md",
-    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
     "영구노트/instanceof 패턴 매칭.md",
