@@ -14,10 +14,34 @@ Hello라는 객체의 엔티티가 있다고 하자.
 
 ## 해결 방안
 
-### 객체 리턴 타입을 명시하기
+### 객체 리턴 타입을 메서드 네임에 명시하기
 
-만약 Hello 엔티티와 HelloInfo라는 projection 두 가지 타입을 name을 활용해 데이터를 가져오고 싶다고 가정하자. 이 때 가져오려는 데이터가 Projection이
+만약 Hello 엔티티와 HelloInfo라는 projection 두 가지 타입을 name을 활용해 데이터를 가져오고 싶다고 가정하자. 
 
+그렇다면 이런 네이밍 규칙을 활용해 작성하면 된다
+
+(find 또는 count exist) (리턴 타입) by ~~~
+
+예시 코드를 살펴보자
+
+```java
+public interface HelloRepository extends JpaRepository<Hello, UUID> {  
+    Optional<HelloInfo> findHelloInfoByName(String name);  
+  
+    Optional<Hello> findHelloByName(String name);  
+  
+}
+```
+
+테스트 코드를 돌려보면 잘 동작한다.
+
+![[Pasted image 20231026193154.png]]
+
+
+![[Pasted image 20231026193345.png]]
+
+
+### 제네릭을 활용하기
 ## 질문 & 확장
 
 (없음)
