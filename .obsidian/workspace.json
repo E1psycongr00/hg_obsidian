@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cd71b51bbbf10404",
+        "id": "ec1a70908698976b",
         "type": "tabs",
         "children": [
           {
-            "id": "17d6fe537903363b",
+            "id": "145f60dd67b37474",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/Gradle 공부.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c467db7ce22270d9",
+            "id": "b42be13dac81580b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/Projection 인터페이스.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/Projection 인터페이스.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/Projection 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md"
+                "file": "연습노트/Projection 인터페이스.md"
               }
             }
           },
@@ -193,8 +188,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c467db7ce22270d9",
+  "active": "b42be13dac81580b",
   "lastOpenFiles": [
+    "연습노트/Projection 인터페이스.md",
     "Resources/IT/Gradle 공부.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/명언/명언 모음.md",
@@ -226,7 +222,6 @@
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
     "영구노트/instanceof 패턴 매칭.md",
-    "영구노트/Mark And Sweep.md",
     "Resources/IT/Gradle",
     "Resources/IT/Java",
     "Java 에 대하여.canvas",
