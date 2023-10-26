@@ -38,8 +38,8 @@
 
 ### 프레임 워크
 - [[Querydsl 소개]]
-- 
-
+- [[data jpa Projection 인터페이스]]
+- [[data jpa repository 응답 타입 유연하게 쓰기]]
 ### 자바 tag dataview
 
 ```dataview

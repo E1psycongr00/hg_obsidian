@@ -1,7 +1,7 @@
 작성 날짜: 2023-10-26
 작성 시간: 17:07
 
-## 주제: #미완 #IT #JAVA #JPA
+## 주제: #완성  #IT #JAVA #JPA
 
 ----
 ## 원문
@@ -149,6 +149,7 @@ jdk.proxy3.$Proxy143 이라는 클래스 네임이 나온다. 이것은 JDK Prox
 - https://velog.io/@pjh612/Spring-Data-JPA%EC%97%90%EC%84%9C%EC%9D%98-Projection-%EB%B0%A9%EB%B2%95
 - https://velog.io/@max9106/JPA-Projection
 ## 연결 노트
+- [[data jpa repository 응답 타입 유연하게 쓰기]]
 
 
 
