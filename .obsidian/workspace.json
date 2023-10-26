@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Projection 인터페이스.md",
+                "file": "연습노트/data jpa Projection 인터페이스.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Projection 인터페이스.md",
+                "file": "연습노트/data jpa Projection 인터페이스.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Projection 인터페이스.md",
+                "file": "연습노트/data jpa Projection 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Projection 인터페이스.md"
+                "file": "연습노트/data jpa Projection 인터페이스.md"
               }
             }
           },
@@ -190,7 +190,7 @@
   },
   "active": "b42be13dac81580b",
   "lastOpenFiles": [
-    "연습노트/Projection 인터페이스.md",
+    "연습노트/data jpa Projection 인터페이스.md",
     "Resources/IT/Gradle 공부.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/명언/명언 모음.md",
