@@ -101,10 +101,42 @@ Optional<HelloInfo> findHelloInfoByName(String name);
 ```
 
 
+다음은 테스트 코드이다
+
+```java
+@DataJpaTest  
+@AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)  
+class HelloRepositoryTest {  
+  
+    @Autowired  
+    private HelloRepository helloRepository;  
+  
+    @Test  
+    void findHelloInfoByName() {  
+       Hello hello = Hello.of(null, "hello", 20, "hello world");  
+       helloRepository.save(hello);  
+  
+       Optional<HelloInfo> helloProjection = helloRepository.findHelloInfoByName("hello");  
+       HelloInfo helloInfo = helloProjection.get();  
+       System.out.println(helloInfo.getClass());  
+       System.out.println(helloInfo.getName());  
+       System.out.println(helloInfo.getAge());  
+       System.out.println(helloInfo.getMessage());  
+    }
+}
+```
+
+위 코드를 통해 테스트 결과를 살펴보면 다음과 같은 내용이 출력된다.
+
+![[Pasted image 20231026191519.png]]
+
+jdk.proxy3.$Proxy143 이라는 클래스 네임이 나온다. 이것은 JDK Proxy(다이나믹 프록시)로 interface를 활용해 대리 인스턴스 객체를 생성한다. 그리고 이를 interface를 활용해 객체에 요청을 할 수 있게 된다.
+
+
 
 ## 질문 & 확장
 
-(없음)
+- J
 
 ## 출처(링크)
 - https://velog.io/@pjh612/Spring-Data-JPA%EC%97%90%EC%84%9C%EC%9D%98-Projection-%EB%B0%A9%EB%B2%95
