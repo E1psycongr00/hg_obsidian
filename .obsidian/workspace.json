@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "cc89278121e3811f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10f2d6c1b319d096",
             "type": "leaf",
             "state": {
@@ -72,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+                "file": "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md"
               }
             }
           },
@@ -233,13 +219,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc89278121e3811f",
+  "active": "b42be13dac81580b",
   "lastOpenFiles": [
     "연습노트/spring jpa를 사용하는 이유.md",
+    "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
+    "Resources/IT/Gradle 공부.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
-    "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
     "영구노트/data jpa Projection 인터페이스.md",
     "Resources/IT/java/Java 공부.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
@@ -251,7 +238,6 @@
     "attachments/Pasted image 20231026193154.png",
     "attachments/Pasted image 20231026191519.png",
     "attachments/Pasted image 20231026191456.png",
-    "Resources/IT/Gradle 공부.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/명언/명언 모음.md",
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
