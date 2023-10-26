@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/data jpa Projection 인터페이스.md",
+                "file": "연습노트/data jpa repository 응답 타입 유연하게 쓰기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/data jpa Projection 인터페이스.md",
+                "file": "연습노트/data jpa repository 응답 타입 유연하게 쓰기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/data jpa Projection 인터페이스.md",
+                "file": "연습노트/data jpa repository 응답 타입 유연하게 쓰기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/data jpa Projection 인터페이스.md"
+                "file": "연습노트/data jpa repository 응답 타입 유연하게 쓰기.md"
               }
             }
           },
@@ -190,9 +190,11 @@
   },
   "active": "b42be13dac81580b",
   "lastOpenFiles": [
+    "연습노트/data jpa Projection 인터페이스.md",
+    "연습노트/data jpa repository 응답 타입 유연하게 쓰기.md",
+    "closed projection.md",
     "attachments/Pasted image 20231026191519.png",
     "attachments/Pasted image 20231026191456.png",
-    "연습노트/data jpa Projection 인터페이스.md",
     "Resources/IT/Gradle 공부.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/명언/명언 모음.md",
@@ -222,7 +224,6 @@
     "Resources/IT/Github.md",
     "README.md",
     "Resources/Obsidian/Obsidian.md",
-    "Resources/Obsidian/제텔카스텐.md",
     "Resources/IT/Gradle",
     "Resources/IT/Java",
     "Java 에 대하여.canvas",
@@ -230,7 +231,6 @@
     "attachments/Pasted image 20231019211312.png",
     "attachments/Pasted image 20231019211300.png",
     "attachments/Pasted image 20231019211242.png",
-    "attachments/Pasted image 20231019170743.png",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",

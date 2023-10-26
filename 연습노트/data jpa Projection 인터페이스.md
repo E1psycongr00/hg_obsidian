@@ -130,13 +130,20 @@ class HelloRepositoryTest {
 
 ![[Pasted image 20231026191519.png]]
 
-jdk.proxy3.$Proxy143 이라는 클래스 네임이 나온다. 이것은 JDK Proxy(다이나믹 프록시)로 interface를 활용해 대리 인스턴스 객체를 생성한다. 그리고 이를 interface를 활용해 객체에 요청을 할 수 있게 된다.
+jdk.proxy3.$Proxy143 이라는 클래스 네임이 나온다. 이것은 JDK Proxy(다이나믹 프록시)를 활용해 대리 객체를 생성해서 사용할 수 있게 된다. 이를 활용해 실제 쿼리에서도 필요한 속성만을 프로젝션 가능하게 된다.
+
+### Open Projection
+
+쿼리 최적화를 하지 못하는 단점이 있기 때문에 생략한다.
+
+
 
 
 
 ## 질문 & 확장
 
-- J
+- JDK Proxy 즉 다이나믹 프록시에 대해서 좀 더 알고 싶긴 하다.
+- spring data repository의 쿼리 방식을 응답 리턴을 유연하게 가져가고 싶다면 어떻게 해야 할까?
 
 ## 출처(링크)
 - https://velog.io/@pjh612/Spring-Data-JPA%EC%97%90%EC%84%9C%EC%9D%98-Projection-%EB%B0%A9%EB%B2%95
