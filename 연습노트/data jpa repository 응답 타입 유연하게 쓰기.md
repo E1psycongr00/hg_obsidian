@@ -42,11 +42,13 @@ public interface HelloRepository extends JpaRepository<Hello, UUID> {
 
 
 ### 제네릭을 활용하기
+
+
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
 - https://velog.io/@max9106/JPA-Projection
-
+- https://dncjf64.tistory.com/358
 ## 연결 노트
