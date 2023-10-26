@@ -42,8 +42,11 @@ public interface HelloRepository extends JpaRepository<Hello, UUID> {
 
 
 ### 제네릭을 활용하기
+```java
+<T> Optional<T> findByName(String name, Class<T> type);
+```
 
-
+위와 같이 인자 타입과 classType을 같이 넘긴다. 그러면 
 ## 질문 & 확장
 
 (없음)
