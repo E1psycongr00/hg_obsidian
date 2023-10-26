@@ -59,3 +59,5 @@ public interface HelloRepository extends JpaRepository<Hello, UUID> {
 - https://velog.io/@max9106/JPA-Projection
 - https://dncjf64.tistory.com/358
 ## 연결 노트
+- [[data jpa Projection 인터페이스]]
+- [[다이나믹 프록시]]
