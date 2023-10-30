@@ -24,7 +24,7 @@ dependencies {
 
 
 💡 **롬복을 사용하는 경우 롬복 의존성을 mapstruct보다 위에 배치해줘야한다.**
-### Mapper 활용하기
+### 가장 기본적인 Mapper 활용하기
 
 가장 기본적인 사용법은 다음과 같다.
 
@@ -77,7 +77,16 @@ public interface HelloMapper {
 }
 ```
 
+id, name, age, message 속성이 있고, dto로 프로젝션할때는 id 없이 name, age, message 3개를 프로젝션하고 싶다. 이럴 때 Mapstruct를 이용하면 간단하게 mapper를 작성할 수 있다.
 
+사용 방법은 매우 심플하다.
+
+자동 생성된 구현체에 접근하기 위해 INSTANCE라는 변수를 만들어주고 Mappers.getMapper를 활용해 HelloMapper 클래스의 구현체를 연결해준다.
+
+그 이후 메서드를 만들어주기만 하면 알아서 메서드를 생성한다.
+
+
+### Mapper 
 
 ## 질문 & 확장
 
