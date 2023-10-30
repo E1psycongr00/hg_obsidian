@@ -22,9 +22,60 @@ dependencies {
 }
 ```
 
+
+💡 **롬복을 사용하는 경우 롬복 의존성을 mapstruct보다 위에 배치해줘야한다.**
 ### Mapper 활용하기
 
+가장 기본적인 사용법은 다음과 같다.
 
+```java
+@Builder  
+public record HelloDto(@NotNull String name, @PositiveOrZero int age, @Size(min = 5, max = 10) String message) {  
+}
+```
+
+```java
+@Entity  
+@Table(name = "hello")  
+@Getter  
+@AllArgsConstructor(staticName = "of")  
+@NoArgsConstructor(access = AccessLevel.PRIVATE)  
+public class Hello {  
+  
+    @Id  
+    @GeneratedValue(strategy = GenerationType.UUID)  
+    @Column(name = "id", nullable = false)  
+    private UUID id;  
+  
+    @Column(name = "name", nullable = false)  
+    private String name;  
+  
+    @Column(name = "age", nullable = false)  
+    private int age;  
+  
+    @Column(name = "message", nullable = false)  
+    private String message;  
+  
+    @Builder()  
+    public Hello(String name, int age, String message) {  
+       this.name = name;  
+       this.age = age;  
+       this.message = message;  
+    }  
+}
+```
+
+```java
+@Mapper  
+public interface HelloMapper {  
+  
+    HelloMapper INSTANCE = Mappers.getMapper(HelloMapper.class);  
+  
+    HelloDto helloToHelloDto(Hello hello);  
+  
+    Hello helloDtoToHello(HelloDto helloDto);  
+}
+```
 
 
 
