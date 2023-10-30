@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c062b5bbc4ee41de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+                "file": "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md"
+                "file": "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
               }
             }
           },
@@ -180,17 +194,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10f2d6c1b319d096",
+  "active": "c062b5bbc4ee41de",
   "lastOpenFiles": [
+    "연습노트/다이나믹 프록시(동적 프록시).md",
+    "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "attachments/Pasted image 20231030204435.png",
+    "attachments/Pasted image 20231030204409.png",
+    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/IT/Gradle 공부.md",
     "영구노트/Gradle Plugin 사용하기.md",
     "영구노트/Task create vs register.md",
-    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "Resources/IT/Github.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
-    "연습노트/다이나믹 프록시(동적 프록시).md",
     "영구노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
     "Resources/IT/java/Java 공부.md",
     "Excalidraw/Mapping mapper(draw).md",
@@ -215,10 +232,6 @@
     "영구노트/승자가 되기 위해서는... by donald trump.md",
     "Excalidraw/rotate array(draw).md",
     "Resources/명언",
-    "attachments/Pasted image 20231024144128.png",
-    "attachments/Pasted image 20231024143949.png",
-    "Resources/IT/java/java 배열 사용법.md",
-    "영구노트/Java List 유틸 메서드 by Collections.md",
     "Resources/IT/java",
     "Resources/IT/Gradle",
     "Resources/IT/Java",
