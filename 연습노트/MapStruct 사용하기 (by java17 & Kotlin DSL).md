@@ -86,7 +86,28 @@ id, name, age, message 속성이 있고, dto로 프로젝션할때는 id 없이 
 그 이후 메서드를 만들어주기만 하면 알아서 메서드를 생성한다.
 
 
-### Mapper 
+### mapping 속성 이름이 일치하지 않는 경우
+
+mapping 속성이 일치하지 않는 경우에는 직접 매핑을 해줘야한다. 이 때 @Mapping 어노테이션을 사용한다.
+
+기존의 Hello 엔티티는 그대로 사용하고 HelloRequestDto라는 것을 만든다고 가정하자. 코드는 다음과 같다.
+
+```java
+public record HelloRequestDto(@NotNull String userName, @PositiveOrZero int userAge) {  
+}
+```
+
+name이 아닌 userName, age가 아닌 userAge이다. 이런 경우에는 직접 mapping 처리를 해줘야 한다.
+
+```java
+@Mapping(target = "userName", source = "name")  
+@Mapping(target = "userAge", source = "age")  
+HelloRequestDto helloToHelloRequestDto(Hello hello);
+```
+
+이 코드는 hello -> helloRequsetDto로 mapping 해주는 코드이다. target은 리턴할 타입의 속성이다.
+source는 변환할 속성이다. 
+
 
 ## 질문 & 확장
 
