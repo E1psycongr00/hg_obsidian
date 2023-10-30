@@ -36,10 +36,11 @@
 - [[클래스의 테스트 커버리지가 채워지지 않는 경우 해결법]]
 
 
-### 프레임 워크
+### 프레임 워크 or Library
 - [[Querydsl 소개]]
 - [[data jpa Projection 인터페이스]]
 - [[data jpa repository 응답 타입 유연하게 쓰기]]
+- [[MapStruct 사용하기 (by java17 & Kotlin DSL)]]
 ### 자바 tag dataview
 
 ```dataview

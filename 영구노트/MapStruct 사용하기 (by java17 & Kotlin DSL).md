@@ -2,7 +2,7 @@
 작성 날짜: 2023-10-26
 작성 시간: 22:29
 
-## 주제: #미완
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -108,7 +108,7 @@ HelloRequestDto helloToHelloRequestDto(Hello hello);
 이 코드는 hello -> helloRequsetDto로 mapping 해주는 코드이다. target은 리턴할 타입의 속성이다.
 source는 변환할 속성이다. 
 
-
+![[Mapping mapper(draw)|700]]
 ## 질문 & 확장
 
 (없음)

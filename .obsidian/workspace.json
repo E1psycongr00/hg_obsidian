@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b42be13dac81580b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43d93c8b133bf6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/spring jpa를 사용하는 이유.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "10f2d6c1b319d096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Project Jigsaw.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73efd1de4369896d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/java/Java 공부.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md"
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
               }
             }
           },
@@ -219,18 +180,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b42be13dac81580b",
+  "active": "10f2d6c1b319d096",
   "lastOpenFiles": [
-    "연습노트/다이나믹 프록시(동적 프록시).md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Why Kotlin.md",
     "연습노트/spring jpa를 사용하는 이유.md",
-    "연습노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Project Jigsaw.md",
+    "연습노트/다이나믹 프록시(동적 프록시).md",
+    "영구노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
+    "Resources/IT/java/Java 공부.md",
+    "Excalidraw/Mapping mapper(draw).md",
+    "attachments/Pasted Image 20231030115120_929.png",
+    "attachments/Pasted Image 20231030115105_920.png",
+    "연습노트/Why Kotlin.md",
     "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
     "Resources/IT/Gradle 공부.md",
     "영구노트/data jpa Projection 인터페이스.md",
-    "Resources/IT/java/Java 공부.md",
     "README.md",
     "closed projection.md",
     "attachments/Pasted image 20231026220731.png",
@@ -254,14 +218,10 @@
     "영구노트/Java List 유틸 메서드 by Collections.md",
     "영구노트/배열 초기화.md",
     "영구노트/Java 배열 정의.md",
-    "attachments/Pasted image 20231023130449.png",
     "Resources/IT/java",
-    "영구노트/Java 12 ~ 17까지 과정.md",
-    "영구노트/Java17 Switch 문법.md",
     "Resources/IT/Gradle",
     "Resources/IT/Java",
     "Java 에 대하여.canvas",
-    "attachments/Pasted image 20231019225804.png",
     "Excalidraw/libraries/it-icons.excalidrawlib",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
