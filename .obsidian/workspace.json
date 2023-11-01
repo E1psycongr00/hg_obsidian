@@ -60,6 +60,16 @@
             }
           },
           {
+            "id": "59b697dfb5efa6be",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-01 15.36.51.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "d03ccdba37ce782d",
             "type": "leaf",
             "state": {
@@ -70,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -137,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/2차원 구간합, 부분합.md",
+                "file": "Excalidraw/Drawing 2023-11-01 15.36.51.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/2차원 구간합, 부분합.md",
+                "file": "Excalidraw/Drawing 2023-11-01 15.36.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/2차원 구간합, 부분합.md"
+                "file": "Excalidraw/Drawing 2023-11-01 15.36.51.excalidraw.md"
               }
             }
           },
@@ -230,10 +241,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25771f19b2e940d6",
+  "active": "59b697dfb5efa6be",
   "lastOpenFiles": [
-    "연습노트/부분합, 누적합.md",
     "연습노트/2차원 구간합, 부분합.md",
+    "Excalidraw/Drawing 2023-11-01 15.36.51.excalidraw.md",
+    "attachments/Pasted image 20231101153033.png",
+    "연습노트/부분합, 누적합.md",
     "Excalidraw/a, b 구간합 예시(draw).md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
@@ -265,9 +278,7 @@
     "Resources/명언/명언 모음.md",
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
     "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
-    "attachments/Pasted image 20231024145920.png",
     "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
-    "영구노트/본능의 목소리에 귀울여라... by donald trump.md",
     "Resources/명언",
     "Resources/IT/java",
     "Resources/IT/Gradle",
