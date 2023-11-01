@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d03ccdba37ce782d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-01 15.13.05.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/부분합, 누적합.md",
+                "file": "Excalidraw/Drawing 2023-11-01 15.13.05.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/부분합, 누적합.md",
+                "file": "Excalidraw/Drawing 2023-11-01 15.13.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/부분합, 누적합.md"
+                "file": "Excalidraw/Drawing 2023-11-01 15.13.05.excalidraw.md"
               }
             }
           },
@@ -207,10 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2b889b4b725b0b9",
+  "active": "d03ccdba37ce782d",
   "lastOpenFiles": [
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/부분합, 누적합.md",
+    "Excalidraw/Drawing 2023-11-01 15.13.05.excalidraw.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
     "attachments/Pasted image 20231030204435.png",
@@ -244,7 +256,6 @@
     "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
     "영구노트/본능의 목소리에 귀울여라... by donald trump.md",
     "영구노트/승자가 되기 위해서는... by donald trump.md",
-    "Excalidraw/rotate array(draw).md",
     "Resources/명언",
     "Resources/IT/java",
     "Resources/IT/Gradle",
