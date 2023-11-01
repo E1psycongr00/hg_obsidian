@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/부분합, 누적합.md",
+                "file": "Resources/IT/java/java 배열 사용법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/부분합, 누적합.md",
+                "file": "Resources/IT/java/java 배열 사용법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/부분합, 누적합.md",
+                "file": "Resources/IT/java/java 배열 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/부분합, 누적합.md"
+                "file": "Resources/IT/java/java 배열 사용법.md"
               }
             }
           },
@@ -233,11 +232,13 @@
   },
   "active": "25771f19b2e940d6",
   "lastOpenFiles": [
+    "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "연습노트/부분합, 누적합.md",
     "연습노트/2차원 구간합, 부분합.md",
     "attachments/Pasted image 20231101154753.png",
     "Excalidraw/2차원 배열 점화식(draw).md",
     "attachments/Pasted image 20231101153033.png",
-    "연습노트/부분합, 누적합.md",
     "Excalidraw/a, b 구간합 예시(draw).md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
@@ -252,7 +253,6 @@
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
     "영구노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
-    "Resources/IT/java/Java 공부.md",
     "Excalidraw/Mapping mapper(draw).md",
     "attachments/Pasted Image 20231030115120_929.png",
     "attachments/Pasted Image 20231030115105_920.png",
