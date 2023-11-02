@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/이분 탐색 최소 & 최대 해 구하기.md",
+                "file": "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/이분 탐색 최소 & 최대 해 구하기.md",
+                "file": "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/이분 탐색 최소 & 최대 해 구하기.md",
+                "file": "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/이분 탐색 최소 & 최대 해 구하기.md"
+                "file": "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md"
               }
             }
           },
@@ -236,7 +236,7 @@
   "active": "301d4cb427d5b18e",
   "lastOpenFiles": [
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/이분 탐색 최소 & 최대 해 구하기.md",
+    "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "Resources/IT/알고리즘.md",
     "연습노트/구간합 문제 모음.md",
     "영구노트/부분합, 누적합.md",
