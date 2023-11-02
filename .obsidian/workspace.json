@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/부분합, 누적합.md",
+                "file": "연습노트/이분 탐색.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,17 +60,20 @@
             }
           },
           {
-            "id": "d03ccdba37ce782d",
+            "id": "087fbc545258553c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/a, b 구간합 예시(draw).md"
+                "file": "영구노트/부분합, 누적합.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/구간합 문제 모음.md",
+                "file": "연습노트/이분 탐색.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/구간합 문제 모음.md",
+                "file": "연습노트/이분 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/구간합 문제 모음.md"
+                "file": "연습노트/이분 탐색.md"
               }
             }
           },
@@ -230,19 +233,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25771f19b2e940d6",
+  "active": "d2b889b4b725b0b9",
   "lastOpenFiles": [
-    "연습노트/Project Jigsaw.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
+    "영구노트/부분합, 누적합.md",
     "연습노트/구간합 문제 모음.md",
-    "영구노트/2차원 구간합, 부분합.md",
+    "Excalidraw/a, b 구간합 예시(draw).md",
     "Resources/IT/알고리즘.md",
+    "연습노트/이분 탐색.md",
+    "연습노트/Why Kotlin.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/spring jpa를 사용하는 이유.md",
+    "연습노트/Project Jigsaw.md",
+    "영구노트/2차원 구간합, 부분합.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
     "Resources/명언/명언 모음.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
-    "영구노트/부분합, 누적합.md",
     "Resources/IT/무제 폴더",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "영구노트/Java List 유틸 메서드 by Collections.md",
@@ -251,20 +259,15 @@
     "attachments/Pasted image 20231101154753.png",
     "Excalidraw/2차원 배열 점화식(draw).md",
     "attachments/Pasted image 20231101153033.png",
-    "Excalidraw/a, b 구간합 예시(draw).md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "attachments/Pasted image 20231030204435.png",
     "attachments/Pasted image 20231030204409.png",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/Gradle Plugin 사용하기.md",
     "영구노트/Task create vs register.md",
-    "연습노트/spring jpa를 사용하는 이유.md",
     "영구노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
     "Excalidraw/Mapping mapper(draw).md",
     "attachments/Pasted Image 20231030115120_929.png",
     "attachments/Pasted Image 20231030115105_920.png",
-    "연습노트/Why Kotlin.md",
-    "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
     "attachments/Pasted image 20231026220731.png",
     "attachments/Pasted image 20231026193345.png",
     "attachments/Pasted image 20231026193154.png",
