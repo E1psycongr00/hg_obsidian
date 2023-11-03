@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "f3480eaf7c0c6134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Range 1D Array constant value update.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d2b889b4b725b0b9",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "연습노트/Range 1D Array constant value update.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "연습노트/Range 1D Array constant value update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+                "file": "연습노트/Range 1D Array constant value update.md"
               }
             }
           },
@@ -233,12 +246,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "301d4cb427d5b18e",
+  "active": "f3480eaf7c0c6134",
   "lastOpenFiles": [
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Range 1D Array constant value update.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Why Kotlin.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
     "연습노트/구간합 문제 모음.md",
     "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md",
@@ -265,7 +279,6 @@
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/Gradle Plugin 사용하기.md",
     "영구노트/Task create vs register.md",
-    "영구노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
     "attachments/Pasted Image 20231030115120_929.png",
     "attachments/Pasted Image 20231030115105_920.png",
     "attachments/Pasted image 20231026220731.png",
