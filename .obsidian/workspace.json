@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Range 1D Array constant value update.md",
+                "file": "연습노트/1D array constant time query update.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Range 1D Array constant value update.md",
+                "file": "연습노트/1D array constant time query update.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Range 1D Array constant value update.md",
+                "file": "연습노트/1D array constant time query update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Range 1D Array constant value update.md"
+                "file": "연습노트/1D array constant time query update.md"
               }
             }
           },
@@ -249,7 +249,7 @@
   "active": "f3480eaf7c0c6134",
   "lastOpenFiles": [
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Range 1D Array constant value update.md",
+    "연습노트/1D array constant time query update.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Why Kotlin.md",

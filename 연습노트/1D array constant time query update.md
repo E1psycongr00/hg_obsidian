@@ -17,7 +17,7 @@
 (없음)
 
 ## 출처(링크)
-
+- https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
 
