@@ -27,7 +27,35 @@ $$ S(x2, y2) = S(x2, y1-1) + S(x1-1, y2) - S(x1-1, y1-1) + a(x1-1, y1-1) $$
 ![[2d array constant value query (draw) | 700]]
 
 ### Code
+```java
+// 쿼리 초기화
+int[] upd = new int[rows+1][cols+1];
+for (int[] query : queries) {
+	int y1 = query[0];
+	int x1 = query[1];
+	int y2 = query[2];
+	int x2 = query[3];
+	
+	upd[y1][x1]++;
+	upd[y1][x2+1]--;
+	upd[y2+1][x1]--;
+	upd[y2+1][x2+1]++;
+}
 
+// 누적합을 이용해 쿼리 생성하기
+for (int i = 0; i < rows; i++) {
+	for (int j = 1; j < cols; j++) {
+		upd[i][j] = upd[i][j-1] + upd[i][j];
+	}
+}
+
+for (int j = 0; j < cols; j++) {
+	for (int i = 1; i < rows; i++) {
+		upd[i][j] = upd[i-1][j] + upd[i][j];
+	}
+}
+
+```
 ## 질문 & 확장
 
 (없음)
@@ -36,7 +64,7 @@ $$ S(x2, y2) = S(x2, y1-1) + S(x1-1, y2) - S(x1-1, y1-1) + a(x1-1, y1-1) $$
 - https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
-
+- [[1D array constant time query update]]
 
 
 
