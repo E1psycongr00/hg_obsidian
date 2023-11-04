@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "301d4cb427d5b18e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3480eaf7c0c6134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/2D array constant time query update.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6f7d923dcd41d2e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "0dd284df910d5531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "25771f19b2e940d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/구간합 문제 모음.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -151,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md"
+                "file": "연습노트/2D array constant time query update.md"
               }
             }
           },
@@ -244,20 +193,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6f7d923dcd41d2e",
+  "active": "0dd284df910d5531",
   "lastOpenFiles": [
+    "Excalidraw/2d array constant value query (draw).md",
     "연습노트/2D array constant time query update.md",
-    "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md",
-    "연습노트/1D array constant time query update.md",
     "영구노트/2차원 구간합, 부분합.md",
-    "Resources/IT/알고리즘.md",
-    "attachments/Pasted image 20231104134932.png",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "Resources/IT/알고리즘.md",
+    "연습노트/구간합 문제 모음.md",
+    "연습노트/1D array constant time query update.md",
+    "attachments/Pasted image 20231104134932.png",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Why Kotlin.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
-    "연습노트/구간합 문제 모음.md",
     "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "영구노트/부분합, 누적합.md",
     "영구노트/이분 탐색.md",
