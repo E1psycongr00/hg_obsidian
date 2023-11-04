@@ -29,7 +29,7 @@ $$ S(x2, y2) = S(x2, y1-1) + S(x1-1, y2) - S(x1-1, y1-1) + a(x1-1, y1-1) $$
 ### Code
 ```java
 // 쿼리 초기화
-int[] upd = new int[rows+1][cols+1];
+int[][] upd = new int[rows+1][cols+1];
 for (int[] query : queries) {
 	int y1 = query[0];
 	int x1 = query[1];

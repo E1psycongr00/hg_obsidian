@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/알고리즘.md"
+                "file": "연습노트/2D array constant time query update.md"
               }
             }
           },
@@ -195,11 +195,11 @@
   },
   "active": "0dd284df910d5531",
   "lastOpenFiles": [
+    "Resources/IT/알고리즘.md",
     "연습노트/2D array constant time query update.md",
     "Excalidraw/2d array constant value query (draw).md",
     "영구노트/2차원 구간합, 부분합.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "Resources/IT/알고리즘.md",
     "연습노트/구간합 문제 모음.md",
     "연습노트/1D array constant time query update.md",
     "attachments/Pasted image 20231104134932.png",
