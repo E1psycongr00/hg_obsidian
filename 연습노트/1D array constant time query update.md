@@ -30,7 +30,7 @@ a[a]++;
 - https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
-
+- [[2D array constant time query update]]
 
 
 

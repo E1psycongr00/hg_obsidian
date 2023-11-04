@@ -26,10 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/1D array constant time query update.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f6f7d923dcd41d2e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md"
               }
             }
           },
@@ -124,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -140,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md",
+                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md",
+                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md"
+                "file": "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md"
               }
             }
           },
@@ -233,12 +244,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0dd284df910d5531",
+  "active": "f6f7d923dcd41d2e",
   "lastOpenFiles": [
-    "Resources/IT/알고리즘.md",
     "연습노트/2D array constant time query update.md",
-    "attachments/Pasted image 20231104134932.png",
+    "Excalidraw/Drawing 2023-11-04 14.27.55.excalidraw.md",
     "연습노트/1D array constant time query update.md",
+    "영구노트/2차원 구간합, 부분합.md",
+    "Resources/IT/알고리즘.md",
+    "attachments/Pasted image 20231104134932.png",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
@@ -249,7 +262,6 @@
     "영구노트/부분합, 누적합.md",
     "영구노트/이분 탐색.md",
     "Excalidraw/a, b 구간합 예시(draw).md",
-    "영구노트/2차원 구간합, 부분합.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
     "Resources/명언/명언 모음.md",
