@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "0dd284df910d5531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/2D array constant time query update.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d2b889b4b725b0b9",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/1D array constant time query update.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/1D array constant time query update.md",
+                "file": "연습노트/2D array constant time query update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/1D array constant time query update.md"
+                "file": "연습노트/2D array constant time query update.md"
               }
             }
           },
@@ -246,10 +259,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3480eaf7c0c6134",
+  "active": "0dd284df910d5531",
   "lastOpenFiles": [
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "attachments/Pasted image 20231104134932.png",
     "연습노트/1D array constant time query update.md",
+    "연습노트/2D array constant time query update.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Why Kotlin.md",
@@ -277,8 +292,6 @@
     "attachments/Pasted image 20231030204435.png",
     "attachments/Pasted image 20231030204409.png",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
-    "영구노트/Gradle Plugin 사용하기.md",
-    "영구노트/Task create vs register.md",
     "attachments/Pasted Image 20231030115120_929.png",
     "attachments/Pasted Image 20231030115105_920.png",
     "attachments/Pasted image 20231026220731.png",
