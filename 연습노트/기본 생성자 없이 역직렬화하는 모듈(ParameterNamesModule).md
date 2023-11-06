@@ -6,7 +6,74 @@
 ----
 ## 원문
 
-Jackson을 이용해 역직렬화를 하다보면 기본 생성자를 사용하지 않고 생성자를 이용해서 역직렬화를 하도록 하고 싶다. 이런 경우에는 기존에는 직접 파라미터를 적용해줘야했으나 오늘은 파라미터 적용없이 
+### 문제점
+
+
+```java
+public class User {  
+  
+    private final long userId;  
+    private final String username;  
+    private final int postCount;  
+  
+    public User(long userId, String username, int postCount) {  
+       this.userId = userId;  
+       this.username = username;  
+       this.postCount = postCount;  
+    }  
+  
+    public long getUserId() {  
+       return userId;  
+    }  
+  
+    public String getUsername() {  
+       return username;  
+    }  
+  
+    public int getPostCount() {  
+       return postCount;  
+    }  
+}
+```
+다음과 같은 dto가 있다고 가정하자. dto는 내부 데이터가 바뀔 수도 있지만 경우에 따라서는  바뀌지 않는 것이 더 안전할 수 있다. dto 또는 VO 또한 마찬가지이다. 그러나 이를 ObjectMapper에서 그대로 호출하면 다음과 같은 에러가 발생한다.
+
+![[Pasted image 20231106224347.png]]
+
+### 기본 생성자로 해결하기
+
+private을 활용해 기본생성자를 지정해준다. 그러면 문제를 해결할 수 있다.
+
+```java
+public class User {  
+  
+    private long userId;  
+    private String username;
+    private int postCount;  
+  
+    private User() {  
+    }  
+    public User(long userId, String username, int postCount) {  
+       this.userId = userId;  
+       this.username = username;  
+       this.postCount = postCount;  
+    }  
+  
+    public long getUserId() {  
+       return userId;  
+    }  
+  
+    public String getUsername() {  
+       return username;  
+    }  
+  
+    public int getPostCount() {  
+       return postCount;  
+    }  
+}
+```
+
+
+
 
 ## 질문 & 확장
 

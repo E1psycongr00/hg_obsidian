@@ -88,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -215,8 +216,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "dd813098aeb424ad",
   "lastOpenFiles": [
+    "attachments/Pasted image 20231106224347.png",
+    "attachments/Pasted image 20231106224335.png",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "Resources/IT/Gradle 공부.md",
@@ -244,7 +247,6 @@
     "영구노트/무료와 독점 JDK 모음.md",
     "Resources/명언/명언 모음.canvas",
     "Resources/명언/명언 모음.md",
-    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "attachments/Pasted image 20231104134932.png",
     "Resources/IT/무제 폴더",
     "attachments/Pasted image 20231101154753.png",
@@ -255,7 +257,6 @@
     "attachments/Pasted Image 20231030115105_920.png",
     "attachments/Pasted image 20231026220731.png",
     "attachments/Pasted image 20231026193345.png",
-    "attachments/Pasted image 20231026193154.png",
     "Resources/명언",
     "Resources/IT/java",
     "Resources/IT/Gradle",
