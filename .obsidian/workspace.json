@@ -11,6 +11,14 @@
             "id": "efd575b8caed0f6f",
             "type": "leaf",
             "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f395a415744bc7db",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
@@ -20,7 +28,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,15 +203,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "efd575b8caed0f6f",
+  "active": "f395a415744bc7db",
   "lastOpenFiles": [
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "Resources/IT/Gradle 공부.md",
     "README.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
     "영구노트/HttpServer.md",
     "영구노트/컴파일(compile)과 빌드(build) 개념.md",
     "Resources/IT/java/Java 공부.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "영구노트/HttpHandler.md",
     "영구노트/Young Generation 과 Old Generation 특징.md",
     "영구노트/Maven vs Gradle.md",
