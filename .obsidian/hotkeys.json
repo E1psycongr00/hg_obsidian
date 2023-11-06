@@ -34,5 +34,14 @@
       ],
       "key": "A"
     }
+  ],
+  "3d-graph:open-3d-graph-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
   ]
 }
