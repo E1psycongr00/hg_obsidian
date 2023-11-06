@@ -41,7 +41,7 @@ public class User {
 
 ### 기본 생성자로 해결하기
 
-private을 활용해 기본생성자를 지정해준다. 그러면 문제를 해결할 수 있다.
+private을 활용해 기본 생성자를 지정해준다. 그러면 문제를 해결할 수 있다.
 
 ```java
 public class User {  
@@ -50,8 +50,8 @@ public class User {
     private String username;
     private int postCount;  
   
-    private User() {  
-    }  
+    private User() {}
+      
     public User(long userId, String username, int postCount) {  
        this.userId = userId;  
        this.username = username;  
@@ -72,7 +72,12 @@ public class User {
 }
 ```
 
+**단점**
 
+- 기본 생성자가 private이여서 접근할 수 없겠지만 리플렉션 공격에 취약하다
+- Java를 엄격하게 사용하는 사람들은 라이브러리 때문에 굳이 변하지 않는 속성을 final로 지정 못하는 것에 대해 불만이 많을 것이다. 자바를 이용한 프로그래밍 특징 중 하나는 엄격하게 프로그래밍을 해서 개발자의 실수를 줄이는 것을 기준으로 삼기 때문이다. 
+
+### 어노테이션으로 해결하기
 
 
 ## 질문 & 확장
