@@ -21,32 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd813098aeb424ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e53ff15af8bfc415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "연습노트/configure & DeserializationFeature 구성.md",
                 "mode": "source",
                 "backlinks": false,
@@ -55,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +120,14 @@
             }
           },
           {
+            "id": "31945d394c488365",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
             "id": "c4c24c7255fda044",
             "type": "leaf",
             "state": {
@@ -153,16 +135,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4be71bc475c585a0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "연습노트/configure & DeserializationFeature 구성.md"
               }
             }
           },
@@ -183,17 +155,9 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "31945d394c488365",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -206,8 +170,19 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "4be71bc475c585a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "연습노트/configure & DeserializationFeature 구성.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,13 +204,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e53ff15af8bfc415",
+  "active": "31945d394c488365",
   "lastOpenFiles": [
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+    "영구노트/부분합, 누적합.md",
+    "Resources/IT/알고리즘.md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "Resources/IT/Gradle 공부.md",
     "README.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
@@ -256,11 +233,9 @@
     "영구노트/Constant Pool vs Runtime Constant Pool.md",
     "영구노트/Java 소개.md",
     "영구노트/MapStruct 사용하기 (by java17 & Kotlin DSL).md",
-    "Resources/IT/알고리즘.md",
     "Java 공부.canvas",
     "영구노트/무료와 독점 JDK 모음.md",
     "Resources/명언/명언 모음.canvas",
-    "Resources/명언/명언 모음.md",
     "attachments/Pasted image 20231104134932.png",
     "Resources/IT/무제 폴더",
     "attachments/Pasted image 20231101154753.png",
