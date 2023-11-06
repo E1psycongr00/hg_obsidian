@@ -41,6 +41,7 @@
 - [[data jpa Projection 인터페이스]]
 - [[data jpa repository 응답 타입 유연하게 쓰기]]
 - [[MapStruct 사용하기 (by java17 & Kotlin DSL)]]
+-  [[기초적인 Rest API 서버 설계하기]]
 ### 자바 tag dataview
 
 ```dataview

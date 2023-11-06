@@ -11,26 +11,8 @@
             "id": "e439fa54ca0c892a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/다이나믹 프록시(동적 프록시).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e419c517321803af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/HttpServer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           },
           {
@@ -39,11 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/HttpHandler.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "e926454239a2bf82",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -114,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/HttpHandler.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/HttpHandler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/HttpHandler.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,14 +207,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "eb1075da81e9963a",
+  "active": "e926454239a2bf82",
   "lastOpenFiles": [
-    "연습노트/HttpServer.md",
-    "연습노트/HttpHandler.md",
+    "README.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
-    "영구노트/Young Generation 과 Old Generation 특징.md",
-    "Resources/IT/java/Java 공부.md",
+    "영구노트/HttpServer.md",
     "영구노트/컴파일(compile)과 빌드(build) 개념.md",
+    "Resources/IT/Gradle 공부.md",
+    "Resources/IT/java/Java 공부.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
+    "영구노트/HttpHandler.md",
+    "영구노트/Young Generation 과 Old Generation 특징.md",
     "영구노트/Maven vs Gradle.md",
     "Excalidraw/java의 build 과정 순서도(draw).md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
@@ -248,9 +237,6 @@
     "Resources/명언/명언 모음.md",
     "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "연습노트/구간합 문제 모음.md",
-    "영구노트/2D array constant time query update.md",
-    "영구노트/1D array constant time query update.md",
-    "Excalidraw/2d array constant value query (draw).md",
     "attachments/Pasted image 20231104134932.png",
     "Resources/IT/무제 폴더",
     "attachments/Pasted image 20231101154753.png",
