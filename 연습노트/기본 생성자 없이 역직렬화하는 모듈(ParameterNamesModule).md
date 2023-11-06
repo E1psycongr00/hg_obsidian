@@ -160,8 +160,9 @@ private static final ObjectMapper SNAKE_MAPPER = new ObjectMapper()
 registerModule을 이용해 ParameterNamesModule()을 등록해준다.
 
 ### 유의할 점
-이 경우 네이밍만 맞으면 알아서 자동으로 인식해서 만들어주는 편리한 장점이 있지만 생성자 파라미터가 하나인 경우에는 오류가 발생한다. 그렇기 때문에 항상
-**생성자에서는 항상 @JsonCreator를 붙여주는 것이 좋다.**
+이 경우 네이밍만 맞으면 알아서 자동으로 인식해서 만들어주는 편리한 장점이 있지만 생성자 파라미터가 하나인 경우에는 오류가 발생한다. 
+
+**생성자는 항상 @JsonCreator를 붙여주는 것이 좋다.**
 
 ```java
 public class Sum {  

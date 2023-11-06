@@ -40,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e53ff15af8bfc415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/configure & DeserializationFeature 구성.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+                "file": "연습노트/configure & DeserializationFeature 구성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+                "file": "연습노트/configure & DeserializationFeature 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
+                "file": "연습노트/configure & DeserializationFeature 구성.md"
               }
             }
           },
@@ -216,12 +229,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "dd813098aeb424ad",
+  "active": "e53ff15af8bfc415",
   "lastOpenFiles": [
+    "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+    "연습노트/configure & DeserializationFeature 구성.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "Resources/IT/Gradle 공부.md",
     "README.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
@@ -256,7 +270,6 @@
     "attachments/Pasted Image 20231030115120_929.png",
     "attachments/Pasted Image 20231030115105_920.png",
     "attachments/Pasted image 20231026220731.png",
-    "attachments/Pasted image 20231026193345.png",
     "Resources/명언",
     "Resources/IT/java",
     "Resources/IT/Gradle",
