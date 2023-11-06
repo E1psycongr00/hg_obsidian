@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/jackson 라이브러리 분석하기.md",
+                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/jackson 라이브러리 분석하기.md",
+                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/jackson 라이브러리 분석하기.md",
+                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/jackson 라이브러리 분석하기.md"
+                "file": "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
               }
             }
           },
@@ -216,10 +215,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "dd813098aeb424ad",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/jackson 라이브러리 분석하기.md",
+    "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "Resources/IT/Gradle 공부.md",
     "README.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
