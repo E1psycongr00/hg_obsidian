@@ -8,7 +8,6 @@
 
 ### 문제점
 
-
 ```java
 public class User {  
   
@@ -78,8 +77,56 @@ public class User {
 - Java를 엄격하게 사용하는 사람들은 라이브러리 때문에 굳이 변하지 않는 속성을 final로 지정 못하는 것에 대해 불만이 많을 것이다. 자바를 이용한 프로그래밍 특징 중 하나는 엄격하게 프로그래밍을 해서 개발자의 실수를 줄이는 것을 기준으로 삼기 때문이다. 
 
 ### 어노테이션으로 해결하기
+```java
+public class User {  
+  
+    private final long userId;  
+    private final String username;  
+    private final int postCount;  
+  
+    @JsonCreator  
+    public User(@JsonProperty("user_id") long userId,  
+       @JsonProperty("username") String username,  
+       @JsonProperty("post_count") int postCount) {  
+       this.userId = userId;  
+       this.username = username;  
+       this.postCount = postCount;  
+    }  
+  
+    public long getUserId() {  
+       return userId;  
+    }  
+  
+    public String getUsername() {  
+       return username;  
+    }  
+  
+    public int getPostCount() {  
+       return postCount;  
+    }  
+}
+```
 
+**단점**
 
+- Jackson 어노테이션에 너무 많이 의존해서 불필요하게 코드가 길어진다.
+	- 매번 dto나 vo를 만들 때 이렇게 작성하는 것은 비효율적이다.
+
+### ParameterNamesModule 사용하기
+
+#### 의존성 추가하기
+
+기본 jackson 라이브러리는 ParameterNamesModule을 제공하지 않는다. 다음과 같이 의존성을 추가한다.
+
+```groovy
+// jackson
+implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.7.1'  
+
+// parameter-names-module
+implementation "com.fasterxml.jackson.module:jackson-module-parameter-names:2.16.0-rc1"
+```
+
+#### 
 ## 질문 & 확장
 
 (없음)
