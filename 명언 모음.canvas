@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"Resources/명언/명언 모음.md","type":"file","file":"Resources/명언/명언 모음.md","x":0,"y":1200,"width":500,"height":500,"color":"1"},
+		{"id":"영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md","type":"file","file":"영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md","x":1000,"y":0,"width":500,"height":500},
+		{"id":"attachments/Pasted image 20231024144128.png","type":"file","file":"attachments/Pasted image 20231024144128.png","x":2000,"y":0,"width":500,"height":348},
+		{"id":"영구노트/본능의 목소리에 귀울여라... by donald trump.md","type":"file","file":"영구노트/본능의 목소리에 귀울여라... by donald trump.md","x":1000,"y":600,"width":500,"height":500},
+		{"id":"영구노트/승자가 되기 위해서는... by donald trump.md","type":"file","file":"영구노트/승자가 되기 위해서는... by donald trump.md","x":1000,"y":1200,"width":500,"height":500},
+		{"id":"attachments/Pasted image 20231024143949.png","type":"file","file":"attachments/Pasted image 20231024143949.png","x":2000,"y":1200,"width":500,"height":348},
+		{"id":"영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md","type":"file","file":"영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md","x":1000,"y":1800,"width":500,"height":500},
+		{"id":"attachments/Pasted image 20231024145920.png","type":"file","file":"attachments/Pasted image 20231024145920.png","x":2000,"y":1800,"width":383,"height":500},
+		{"id":"영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md","type":"file","file":"영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md","x":1000,"y":2400,"width":500,"height":500}
+	],
+	"edges":[
+		{"id":"Resources/명언/명언 모음.md-영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md","fromNode":"Resources/명언/명언 모음.md","fromSide":"right","toNode":"영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md","toSide":"left"},
+		{"id":"영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md-attachments/Pasted image 20231024144128.png","fromNode":"영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md","fromSide":"right","toNode":"attachments/Pasted image 20231024144128.png","toSide":"left"},
+		{"id":"Resources/명언/명언 모음.md-영구노트/본능의 목소리에 귀울여라... by donald trump.md","fromNode":"Resources/명언/명언 모음.md","fromSide":"right","toNode":"영구노트/본능의 목소리에 귀울여라... by donald trump.md","toSide":"left"},
+		{"id":"영구노트/본능의 목소리에 귀울여라... by donald trump.md-attachments/Pasted image 20231024144128.png","fromNode":"영구노트/본능의 목소리에 귀울여라... by donald trump.md","fromSide":"right","toNode":"attachments/Pasted image 20231024144128.png","toSide":"left"},
+		{"id":"Resources/명언/명언 모음.md-영구노트/승자가 되기 위해서는... by donald trump.md","fromNode":"Resources/명언/명언 모음.md","fromSide":"right","toNode":"영구노트/승자가 되기 위해서는... by donald trump.md","toSide":"left"},
+		{"id":"영구노트/승자가 되기 위해서는... by donald trump.md-attachments/Pasted image 20231024143949.png","fromNode":"영구노트/승자가 되기 위해서는... by donald trump.md","fromSide":"right","toNode":"attachments/Pasted image 20231024143949.png","toSide":"left"},
+		{"id":"Resources/명언/명언 모음.md-영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md","fromNode":"Resources/명언/명언 모음.md","fromSide":"right","toNode":"영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md","toSide":"left"},
+		{"id":"영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md-attachments/Pasted image 20231024145920.png","fromNode":"영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md","fromSide":"right","toNode":"attachments/Pasted image 20231024145920.png","toSide":"left"},
+		{"id":"Resources/명언/명언 모음.md-영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md","fromNode":"Resources/명언/명언 모음.md","fromSide":"right","toNode":"영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md","toSide":"left"},
+		{"id":"영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md-attachments/Pasted image 20231024145920.png","fromNode":"영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md","fromSide":"right","toNode":"attachments/Pasted image 20231024145920.png","toSide":"left"}
+	]
+}

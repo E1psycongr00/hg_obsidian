@@ -11,12 +11,14 @@
             "id": "0dd284df910d5531",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "연습노트/2D array constant time query update.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "명언 모음.canvas",
+                "viewState": {
+                  "x": 1250,
+                  "y": 1913.719791806936,
+                  "zoom": -1
+                }
               }
             }
           },
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/2D array constant time query update.md",
+                "file": "영구노트/승자가 되기 위해서는... by donald trump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/2D array constant time query update.md",
+                "file": "영구노트/승자가 되기 위해서는... by donald trump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/2D array constant time query update.md"
+                "file": "영구노트/승자가 되기 위해서는... by donald trump.md"
               }
             }
           },
@@ -195,25 +197,26 @@
   },
   "active": "0dd284df910d5531",
   "lastOpenFiles": [
+    "Resources/명언/명언 모음.md",
+    "명언 모음.canvas",
     "Resources/IT/알고리즘.md",
-    "연습노트/2D array constant time query update.md",
+    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/다이나믹 프록시(동적 프록시).md",
+    "연습노트/구간합 문제 모음.md",
+    "영구노트/2D array constant time query update.md",
+    "영구노트/1D array constant time query update.md",
     "Excalidraw/2d array constant value query (draw).md",
     "영구노트/2차원 구간합, 부분합.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/구간합 문제 모음.md",
-    "연습노트/1D array constant time query update.md",
     "attachments/Pasted image 20231104134932.png",
     "연습노트/spring jpa를 사용하는 이유.md",
-    "연습노트/Project Jigsaw.md",
     "연습노트/Why Kotlin.md",
-    "연습노트/다이나믹 프록시(동적 프록시).md",
-    "연습노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "영구노트/부분합, 누적합.md",
     "영구노트/이분 탐색.md",
     "Excalidraw/a, b 구간합 예시(draw).md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
-    "Resources/명언/명언 모음.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
     "Resources/IT/무제 폴더",
@@ -226,7 +229,6 @@
     "attachments/Pasted image 20231101153033.png",
     "attachments/Pasted image 20231030204435.png",
     "attachments/Pasted image 20231030204409.png",
-    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "attachments/Pasted Image 20231030115120_929.png",
     "attachments/Pasted Image 20231030115105_920.png",
     "attachments/Pasted image 20231026220731.png",
