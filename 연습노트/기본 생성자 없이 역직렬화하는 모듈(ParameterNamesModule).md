@@ -126,7 +126,59 @@ implementation 'com.fasterxml.jackson.core:jackson-databind:2.12.7.1'
 implementation "com.fasterxml.jackson.module:jackson-module-parameter-names:2.16.0-rc1"
 ```
 
-#### 
+#### gradle 컴파일 옵션 설정하기
+
+해당 모듈은 리플렉션 기반으로 동작하는데 생성자와 파라미터 정보를 얻어오기 위해서는 compiler에 -parameters 옵션을 추가시켜야 한다.
+
+인텔리제이를 사용하는 경우에는 build & run 모두 gradle로 바꾸고 다음과 같은 내용을 추가한다.
+
+```groovy
+compileJava {  
+    options.compilerArgs << '-parameters'  
+}  
+  
+compileTestJava {  
+    options.compilerArgs << '-parameters'  
+}
+```
+
+
+> **<<** 의미:
+>  **options.compilerArgs라는 리스트에 '-parameters' 인자를 추가시키라는 의미이다.**
+
+SpringBoot의 경우에는 해당 인자가 자동으로 설정되어 있기 때문에 따로 설정할 필요가 없다고 한다.
+
+
+#### ObjectMapper에 모듈 등록하기
+
+```java
+private static final ObjectMapper SNAKE_MAPPER = new ObjectMapper()  
+    .registerModule(new ParameterNamesModule())  
+    .setPropertyNamingStrategy(PropertyNamingStrategies.SNAKE_CASE);
+```
+
+registerModule을 이용해 ParameterNamesModule()을 등록해준다.
+
+### 유의할 점
+이 경우 네이밍만 맞으면 알아서 자동으로 인식해서 만들어주는 편리한 장점이 있지만 생성자 파라미터가 하나인 경우에는 오류가 발생한다. 그렇기 때문에 항상
+**생성자에서는 항상 @JsonCreator를 붙여주는 것이 좋다.**
+
+```java
+public class Sum {  
+  
+    private final long sum;  
+  
+    @JsonCreator  
+    public Sum(long sum) {  
+       this.sum = sum;  
+    }  
+  
+    public long getSum() {  
+       return sum;  
+    }  
+  
+}
+```
 ## 질문 & 확장
 
 (없음)
