@@ -19,16 +19,47 @@
 
 특정 요청에 대해서 처리하려면 HttpHandler를 서버와 연결해야 한다.  createContext(String, HttpHandler) 메서드를 사용해서 경로와 요청을 처리하는 로직을 담당하는 Handler와 server를 uri 경로와 함께 연결할 수 있다.
 
+Executor를 통해 쓰레드를 관리할 수 있고, 만약 특별한 입력이 없다면 기본 구현된 방법으로 쓰레드를 관리한다.
+
+
+### Code
+
+```java
+import java.io.IOException;  
+import java.net.InetSocketAddress;  
+  
+import com.sun.net.httpserver.HttpServer;  
+  
+public class Main {  
+  
+    public static void main(String[] args) throws IOException {  
+       int port = 8080;  
+       // 1. server 생성
+       HttpServer server = HttpServer.create(new InetSocketAddress("0.0.0.0", port), 0);  
+       // 2. uri path와 handler 맵핑
+       server.createContext("/", new CheckHandler());  
+       server.createContext("/sum", new SumHandler()); 
+
+	   // 쓰레드 관련, 아무 입력도 없는 경우 기본 구현으로 처리
+       server.setExecutor(null);  
+
+	   // 서버 시작
+       server.start();  
+  
+    }  
+}
+```
+Ip와 port 인자를 활용해 InetSocketAddress 객체를 생성하고 이를 이용해 HttpServer를 생성한다.
 
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
+- Javadocs
 
 ## 연결 노트
-
+- [[HttpHandler]]
 
 
 

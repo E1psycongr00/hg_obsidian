@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/HttpServer.md",
+                "file": "연습노트/HttpHandler.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/HttpServer.md",
+                "file": "연습노트/HttpHandler.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/HttpServer.md",
+                "file": "연습노트/HttpHandler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/HttpServer.md"
+                "file": "연습노트/HttpHandler.md"
               }
             }
           },
@@ -223,8 +223,8 @@
   },
   "active": "eb1075da81e9963a",
   "lastOpenFiles": [
-    "연습노트/HttpHandler.md",
     "연습노트/HttpServer.md",
+    "연습노트/HttpHandler.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
     "영구노트/Young Generation 과 Old Generation 특징.md",
     "Resources/IT/java/Java 공부.md",
