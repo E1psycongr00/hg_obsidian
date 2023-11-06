@@ -13,7 +13,9 @@
 
 ## 출처(링크)
 
-
+- https://dundung.tistory.com/202
+- https://beaniejoy.tistory.com/76
+- https://mvnrepository.com/artifact/com.fasterxml.jackson.module/jackson-module-parameter-names/2.16.0-rc1
 ## 연결 노트
 
 
