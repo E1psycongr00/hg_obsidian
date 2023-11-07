@@ -44,7 +44,35 @@ Files.createDirectories(base.resolve("backjoon").resolve("input"));
 
 ### 속성 조회하기
 
-#### Files
+#### Files.readAttributes(path, attribute)
+
+```java
+Path base = Paths.get(DIRECTORY);  
+BasicFileAttributes attributes = Files.readAttributes(base.resolve("hello.txt"),  
+    BasicFileAttributes.class);
+```
+
+
+파일 접근 시간, 생성 시간 등등에 대해서 접근할 수 있다.
+
+
+### 파일 복제하기
+
+```java
+Path base = Paths.get(DIRECTORY);  
+Files.copy(base.resolve("hello.txt"), base.resolve("hello2.txt"));
+```
+
+이미 target 경로에 파일이 존재한다면 **java.nio.file.FileAlreadyExistsException** 예외가 발생한다
+
+3번째 인자로 CopyOption을 줄 수도 있다.
+
+**CopyOption 종류**
+- StandardCopyOption.REPLACE_EXISTING => 기존에 파일이 존재한다면 덮어 씌움
+- StandardCopyOption.COPY_ATTRIBUTES => 기존 파일이 존재하면 예외 발생
+- StandardCopyOption.ATOMIC_MOVE
+
+
 
 ## 질문 & 확장
 
