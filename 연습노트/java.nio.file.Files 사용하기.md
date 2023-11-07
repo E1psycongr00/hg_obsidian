@@ -35,8 +35,16 @@ Files.createDirectory(base.resolve("backjoon"));
 
 #### Files.createDirectories(path)
 
+```java
+Path base = Paths.get(DIRECTORY);  
+Files.createDirectories(base.resolve("backjoon").resolve("input"));
+```
 
-### 
+중간에 디렉토리가 존재하지 않아도 계속해서 디렉토리를 생성한다.
+
+### 속성 조회하기
+
+#### Files
 
 ## 질문 & 확장
 
@@ -45,6 +53,7 @@ Files.createDirectory(base.resolve("backjoon"));
 ## 출처(링크)
 - https://www.baeldung.com/java-nio-2-file-api
 - https://www.baeldung.com/java-path-vs-file
+- https://velog.io/@dailylifecoding/Java-nio-package-Files-usage#%F0%9F%A5%9D-%ED%8A%B9%EC%A0%95-%ED%99%95%EC%9E%A5%EC%9E%90%EC%9D%98-%ED%8C%8C%EC%9D%BC%EB%93%A4%EB%A7%8C-%EC%B0%BE%EC%95%84%EB%82%B4%EA%B8%B0
 ## 연결 노트
 
 - [[java.nio.file.Path 사용하기]]
