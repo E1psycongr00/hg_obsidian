@@ -17,8 +17,6 @@ Files 클래스와 함께 사용한다.
 - Path 루트, 루트 및 이름 시퀀스 또는 단순히 하나 이상의 이름 요소를 나타낼 수 있습니다.
 - Path가 하나의 비어 있는 이름 요소로만 구성된 경우 Path 빈 경로로 간주된다.
 	- 빈 경로를 사용하여 파일에 액세스하는 것은 파일 시스템의 기본 디렉터리에 액세스하는 것과 같다.
-- Path 경로 구성 요소 또는 해당 이름 요소의 하위 시퀀스에 액세스하기 위한 getFileName , getParent , getRoot 및 subpath 메서드를 정의합니다.
-
 
 ### Path 생성하기
 
@@ -61,9 +59,33 @@ Root 와 가장 먼 경로를 출력한다. 최종 디렉토리 이름 또는 �
 #### getNameCount()
 
 ```java
-Path path = Paths.get("/home/project/file.txt");
+Path path = Paths.get("/home/project/file.txt"); // 요소는 3개
+for (int i = 0; i < path.getNameCount(); i++) {
+	System.out.println(path.getName(i));
+}
+// home
+// project
+// file.txt
 
 ```
+
+구분자로 구분된 각 요소들의 갯수를 반환한다. getName(index) 메서드와 함께 사용해서 각각의 요소를 Path로 반환이 가능하다.
+
+#### subpath()
+```java
+Path path = Paths.get("/home/project/file.txt");
+path.subpath(1, 3); // "project/file.txt"
+```
+
+경로를 분리해서 상대 경로를 추출할 수 있다.
+
+**유의점**
+endIndex는 항상 +1로 열린 공간으로 생가해준다.
+위의 예제의 경우 0: home, 1: project, 2: file.txt이지만 위의 결과를 위해선 2 + 1을 해준다.
+
+
+### 
+
 ## 질문 & 확장
 
 (없음)
