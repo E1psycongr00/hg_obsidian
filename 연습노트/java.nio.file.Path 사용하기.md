@@ -117,6 +117,45 @@ path.toAbsolutePath();
 // C:\java_project\algorithm\home\project\hello.txt
 ```
 
+#### toFile()
+
+```java
+String currentPath = "home/project/hello.txt";  
+Path path = Paths.get(currentPath);  
+path.toFile();
+```
+
+파일 타입으로 변환한다. 파일의 경우에도 역으로 Path로 변환이 가능하다.
+
+
+### Path 조합하기
+
+#### resolve(other path)
+
+```java
+Path base = Paths.get("src/backjoon");  
+Path path1 = base.resolve("hello.txt");
+// src/backjoon/hello.txt
+```
+
+다른 path 또는 String 타입을 인자로 받을수 있다. 
+
+이 메서드는 두 개의 Path를 합치는 역할을 수행한다.
+
+
+#### resolveSibling(other path)
+
+```java
+Path base = Paths.get("src/backjoon/hello.txt");  
+Path path1 = base.resolveSibling("hello2.txt");
+// src\backjoon\hello2.txt
+```
+
+resolve와 비슷하나 차이점은 부모 디렉토리 기준으로 추가된다는 점이다. 이 의미는 현재 최종 경로에 해당 경로로 바꿔치기한다는 것이다. 그래서 Sibling이라는 이름이 메서드에 붙은듯 하다
+
+
+### 경로 비교하기
+
 ## 질문 & 확장
 
 (없음)
