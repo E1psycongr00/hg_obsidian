@@ -49,9 +49,30 @@ public class Main {
 
 ### 하위 디렉토리 파일 읽기
 
-```java
+하위 디렉토리의 모든 파일을 읽을 때는 listFiles()라는 메서드를 사용한다.
 
+**listFiles()는 File이 디렉토리가 아닌경우 null을 리턴한다.**
+
+```java
+public class Main {  
+    private static final String SYSTEM_PATH = System.getProperty("user.dir");  
+    private static final String DIRECTORY = "src/backjoon";  
+  
+    public static void main(String[] args) throws IOException {  
+       String currentPath = SYSTEM_PATH + File.separator + DIRECTORY;  
+       File dir = new File(currentPath);  
+       File[] files = dir.listFiles();  
+       System.out.println(Arrays.toString(files));  
+    }  
+  
+}
 ```
+
+
+### 재귀를 이용해서 모든 하위 디렉토리 파일 읽기
+
+depth가 1차가 아닌 n차인 경우에 재귀적으로 탐색하는 방법을 알아보자
+
 
 ## 질문 & 확장
 
