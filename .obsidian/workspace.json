@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/java.nio.file.Files 사용하기.md",
+                "file": "Resources/IT/java/Java 공부.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,11 +265,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "19611c5e022e4a85",
+  "active": "41a93c751c6689ee",
   "lastOpenFiles": [
-    "연습노트/Java 파일 다루기.md",
     "Resources/IT/java/Java 공부.md",
     "연습노트/java.nio.file.Files 사용하기.md",
+    "연습노트/spring jpa를 사용하는 이유.md",
+    "연습노트/Java 파일 다루기.md",
     "영구노트/java.nio.file.Path 사용하기.md",
     "영구노트/Java 파일 쓰기.md",
     "영구노트/Java 파일 읽기.md",
@@ -278,7 +279,6 @@
     "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "영구노트/HttpServer.md",
     "연습노트/Project Jigsaw.md",
-    "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
     "연습노트/구간합 문제 모음.md",

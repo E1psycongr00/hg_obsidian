@@ -119,11 +119,27 @@ readAllLines은 줄바꿈을 List로 구분해서 담아두는 반면 readString
 바이너리 파일을 쓸 때 사용한다. OpenOption은 생략 가능하다
 
 
-#### Files.write(path, Iterable 문자열, OpenOption)
+#### Files.write(path, Iterable 문자열, charset, OpenOption)
 
 ```java
-
+Path base = Paths.get(DIRECTORY);  
+List<String> lines = Arrays.asList("hello", "world");  
+Files.write(base.resolve("hello2.txt"), lines, StandardCharsets.UTF_8, StandardOpenOption.CREATE);
 ```
+
+인코딩 옵션을 설정할 수 있고 이터러블한 문자열을 입력 받는다. 분리된 문자열은 줄바꿈으로 분리된다. List 마지막 문자열에도 자동으로 "\n"이 들어간다.
+
+그래서 글자가 길어지고 println 느낌으로 여러 문자열을 넣고 싶다면 해당 메서드를 추천한다
+
+StandardOpenOption.APPEND 
+
+#### Files.write(path, Iterable 문자열)
+
+단순 문자열 String 타입을 추가할 떄 사용한다. 위와 사용방법은 거의 같다. List로 받느냐 String으로 받느냐 차이일뿐
+
+### 디렉토리 내 파일 조회하기
+
+
 ## 질문 & 확장
 
 (없음)
