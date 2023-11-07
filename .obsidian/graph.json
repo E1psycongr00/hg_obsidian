@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#명언  ",
+      "query": "tag:#명언 ",
       "color": {
         "a": 1,
         "rgb": 5526240
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.3628873693012254,
-  "close": true
+  "close": false
 }
