@@ -24,7 +24,7 @@ Files의 장점은 코드의 실수를 줄여주고 읽기 쓰기 등 File 관�
 
 ## 출처(링크)
 - https://www.baeldung.com/java-nio-2-file-api
-
+- https://www.baeldung.com/java-path-vs-file
 ## 연결 노트
 
 
