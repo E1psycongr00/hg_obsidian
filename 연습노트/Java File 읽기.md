@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-07
 작성 시간: 12:41
 
-## 주제: #미완
+## 주제: #미완 #IT #JAVA 
 
 ----
 ## 원문
@@ -67,7 +67,9 @@ public class Main {
 }
 ```
 
-성능을 위해 BufferedInputStream으로 감
+성능을 위해 BufferedInputStream으로 감싸서 사용하고 사용 방법은 FileReader와 동일하다. String 타입, File 타입 모두 인자로 받을 수 있다. 
+
+차이점은 byte를 가져오느냐, 아니면 인코딩된 데이터를 가져오느냐 차이가 될 것이다.
 ## 질문 & 확장
 
 (없음)
@@ -77,6 +79,7 @@ public class Main {
 
 ## 연결 노트
 
+- [[java.io.File 파일 생성 및 가져오기]]
 
 
 
