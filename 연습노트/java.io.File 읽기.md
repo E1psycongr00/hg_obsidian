@@ -16,9 +16,58 @@ java.io.File을 읽기 위해서 FileReader와 FileInputStream을 사용한다. 
 ### FileReader 사용하기
 
 ```java
-
+import java.io.BufferedReader;  
+import java.io.File;  
+import java.io.FileReader;  
+import java.io.IOException;  
+import java.nio.charset.StandardCharsets;  
+  
+public class Main {  
+    private static final String SYSTEM_PATH = System.getProperty("user.dir");  
+    private static final String DIRECTORY = "src/backjoon";  
+  
+    public static void main(String[] args) throws IOException {  
+       String currentPath = SYSTEM_PATH + File.separator + DIRECTORY + File.separator + "hello.txt";  
+       
+       try (BufferedReader bufferedReader = new BufferedReader(new FileReader(currentPath, StandardCharsets.UTF_8))) {  
+          String line;  
+          while ((line = bufferedReader.readLine()) != null) {  
+             System.out.println(line);  
+          }  
+       }  
+    }  
+}
 ```
 
+try resouce를 이용해 구현했다. 이 경우 auto close를 해준다.
+
+BufferedReader와 FileReader를 사용했는데 인자로 **String 타입** 또는 **파일 타입** 모두 가능하다
+
+또 Reader의 경우 텍스트 파일을 읽는데 사용하기 때문에 인코딩을 명시적으로 설정할 수 있다.
+**StandardCharsets.UTF_8** 인자를 활용해 UTF-8로 명시적으로 등록했다.
+### FileInputStream 사용하기
+```java
+import java.io.BufferedInputStream;  
+import java.io.File;  
+import java.io.FileInputStream;  
+import java.io.IOException;  
+  
+public class Main {  
+    private static final String SYSTEM_PATH = System.getProperty("user.dir");  
+    private static final String DIRECTORY = "src/backjoon";  
+  
+    public static void main(String[] args) throws IOException {  
+       String currentPath = SYSTEM_PATH + File.separator + DIRECTORY + File.separator + "hello.txt";  
+       
+       try (BufferedInputStream buffer = new BufferedInputStream(new FileInputStream(currentPath))) {  
+          byte[] readBytes = buffer.readAllBytes();  
+          System.out.println(new String(readBytes));  
+       }  
+    }  
+}
+```
+
+성능을 위해 BufferedInputStream으로 감
 ## 질문 & 확장
 
 (없음)

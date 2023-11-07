@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 파일 읽기.md",
+                "file": "연습노트/Java 파일 읽기 종류.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 파일 읽기.md",
+                "file": "연습노트/Java 파일 읽기 종류.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -306,7 +306,7 @@
   },
   "active": "cad0893009f74a15",
   "lastOpenFiles": [
-    "연습노트/Java 파일 읽기.md",
+    "연습노트/Java 파일 읽기 종류.md",
     "연습노트/java.io.File 읽기.md",
     "영구노트/java.io.File 파일 생성 및 가져오기.md",
     "연습노트/spring jpa를 사용하는 이유.md",
