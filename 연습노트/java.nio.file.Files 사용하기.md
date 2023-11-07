@@ -72,8 +72,47 @@ Files.copy(base.resolve("hello.txt"), base.resolve("hello2.txt"));
 - StandardCopyOption.COPY_ATTRIBUTES => 기존 파일이 존재하면 예외 발생
 - StandardCopyOption.ATOMIC_MOVE
 
+디렉토리를 재귀적으로 복사하고 싶은 경우에는 SpringFramework를 활용해야 한다.
+**org.springframework.util.FileSystemUtils.copyRecursively**
 
 
+### 파일 내용 읽기
+
+#### Files.readAllLines(path)
+
+```java
+Path base = Paths.get(DIRECTORY);  
+List<String> list = Files.readAllLines(base.resolve("hello.txt"), StandardCharsets.UTF_8);
+```
+
+줄바꿈을 기준으로 List 형태로 글자를 가져온다.  인코딩 타입을 명시적으로 정해줄 수 있다.
+
+존재하지 않는 경우 **java.nio.file.NoSuchFileException** 예외 발생
+#### Files.readAllBytes(path)
+
+```java
+Path base = Paths.get(DIRECTORY);  
+byte[] bytes = Files.readAllBytes(base.resolve("hello.txt"));
+```
+
+binary 파일을 가져올 때 쓰인다
+
+존재하지 않는 경우 **java.nio.file.NoSuchFileException** 예외 발생
+
+
+#### Files.readString(path)
+
+```java
+Path base = Paths.get(DIRECTORY);  
+String s = Files.readString(base.resolve("hello.txt"));
+```
+
+readAllLines은 줄바꿈을 List로 구분해서 담아두는 반면 readString은 모든 라인을 String 타입으로 반환한다.
+
+존재하지 않는 경우 **java.nio.file.NoSuchFileException** 예외 발생
+
+
+### 
 ## 질문 & 확장
 
 (없음)
