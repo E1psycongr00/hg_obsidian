@@ -26,3 +26,4 @@ https://school.programmers.co.kr/skill_check_assignments/430
 ## 연결 노트
 - [[HttpServer]]
 - [[HttpHandler]]
+- [[기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)]]
