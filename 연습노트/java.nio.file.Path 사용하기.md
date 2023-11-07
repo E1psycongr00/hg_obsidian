@@ -28,21 +28,51 @@ Path path = Paths.get(currentPath);
 ```
 
 
-### getRoot()
+### 경로 관련 정보 가져오기
+
+#### getRoot()
 
 ```java
-Path path = Paths.g
-path.getRoot()
+Path path = Paths.get("/home/project/file.txt");
+path.getRoot() // "/home"
+```
+
+이 경우에는 home을 Path로 가진다.
+
+#### getParent()
+
+```java
+Path path = Paths.get("/home/project/file.txt");
+path.getParent() // "/home/project"
+```
+바로 이전 경로를 리턴한다. 
+
+
+#### getFileName()
+
+```java
+Path path = Paths.get("/home/project/file.txt");
+path.getFileName(); // file.txt
+```
+
+Root 와 가장 먼 경로를 출력한다. 최종 디렉토리 이름 또는 파일 이름이 된다.
+
+
+#### getNameCount()
+
+```java
+Path path = Paths.get("/home/project/file.txt");
+
 ```
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
+-  https://m.blog.naver.com/horajjan/220484659082\
+-  https://www.baeldung.com/java-path-vs-file
 
 ## 연결 노트
-- https://www.baeldung.com/java-path-vs-file
 
 
 
