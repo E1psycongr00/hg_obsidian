@@ -112,7 +112,18 @@ readAllLines은 줄바꿈을 List로 구분해서 담아두는 반면 readString
 존재하지 않는 경우 **java.nio.file.NoSuchFileException** 예외 발생
 
 
-### 
+### 파일에 쓰기
+
+#### Files.write(path, byte, OpenOption)
+
+바이너리 파일을 쓸 때 사용한다. OpenOption은 생략 가능하다
+
+
+#### Files.write(path, Iterable 문자열, OpenOption)
+
+```java
+
+```
 ## 질문 & 확장
 
 (없음)
