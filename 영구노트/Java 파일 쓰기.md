@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-07
 작성 시간: 13:08
 
-## 주제: #미완
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -56,7 +56,7 @@ public class Main {
        String currentPath = CURRENT_DIRECTORY + File.separator + "hello.txt";  
        try (PrintWriter printer = new PrintWriter(new FileWriter(currentPath, StandardCharsets.UTF_8, true))) {  
           printer.println("hello world!!");  
-          printer.printf("hello world %d\n", 50);  
+          printer.println(String.format("hello world %d", 50));  
        }  
     }  
 }
@@ -64,6 +64,33 @@ public class Main {
 
 BuffedWriter와 달리 println, printf 와 같은 print에 친숙한 메서드를 제공해서 쓰는 것을 더 쉽게 만들어준다. 공통점은 FileWriter를 기반으로 동작하기 때문에 append 동작이 FileWriter의 생성 인자에 기반에 동작한다.
 
+### FileOutputStream 사용하기
+
+```java
+import java.io.BufferedOutputStream;  
+import java.io.File;  
+import java.io.FileOutputStream;  
+import java.io.IOException;  
+import java.nio.charset.StandardCharsets;  
+  
+public class Main {  
+    private static final String SYSTEM_PATH = System.getProperty("user.dir");  
+    private static final String DIRECTORY = "src/backjoon";  
+  
+    private static final String CURRENT_DIRECTORY = SYSTEM_PATH + File.separator + DIRECTORY;  
+  
+    public static void main(String[] args) throws IOException {  
+       String currentPath = CURRENT_DIRECTORY + File.separator + "hello.txt";  
+       try (BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(currentPath, true))) {  
+          bos.write("Hello World!".getBytes(StandardCharsets.UTF_8));  
+       }  
+    }  
+}
+```
+
+바이너리를 입력할 때 쓰이며 필요한 경우 인코딩해서 문자열을 넣을 수도 있다. 위의 코드는 UTF-8로 인코딩해서 집어넣는 코드이다.
+
+bos.write() 동작시에 byte 데이터를 넣어주어야 한다.
 
 
 ## 질문 & 확장
@@ -75,7 +102,8 @@ BuffedWriter와 달리 println, printf 와 같은 print에 친숙한 메서드�
 
 ## 연결 노트
 
-
+- [[Java File 읽기]]
+- [[java.io.File 파일 생성 및 가져오기]]
 
 
 

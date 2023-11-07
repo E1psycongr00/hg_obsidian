@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java File 읽기.md",
+                "file": "영구노트/Java File 읽기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 파일 쓰기.md",
+                "file": "연습노트/Java 파일 읽기 종류.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java 파일 쓰기.md",
+                "file": "연습노트/Java 파일 읽기 종류.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java 파일 쓰기.md",
+                "file": "연습노트/Java 파일 읽기 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Java 파일 쓰기.md",
+                "file": "연습노트/Java 파일 읽기 종류.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -290,12 +290,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java 파일 쓰기.md"
+                "file": "연습노트/Java 파일 읽기 종류.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -319,12 +318,13 @@
   },
   "active": "42f390f88d4abf39",
   "lastOpenFiles": [
-    "연습노트/Java File 읽기.md",
-    "연습노트/Java 파일 쓰기.md",
+    "영구노트/Java File 읽기.md",
+    "영구노트/Java 파일 쓰기.md",
     "연습노트/Java 파일 읽기 종류.md",
-    "영구노트/java.io.File 파일 생성 및 가져오기.md",
-    "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/spring jpa를 사용하는 이유.md",
+    "영구노트/java.io.File 파일 생성 및 가져오기.md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
     "연습노트/구간합 문제 모음.md",
@@ -344,7 +344,6 @@
     "Excalidraw/자바 동작 과정(draw).md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/알고리즘.md",
-    "Resources/IT/Github.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",

@@ -65,7 +65,8 @@ public static void main(String[] args) throws IOException {
 ## 연결 노트
 
 - [[java.io.File 파일 생성 및 가져오기]]
-
+- [[Java 파일 쓰기]]
+- [[Java File 읽기]]
 
 
 
