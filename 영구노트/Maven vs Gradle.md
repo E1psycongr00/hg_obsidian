@@ -55,7 +55,7 @@ Gradle의 경우  [api 및 implement 종속성을 선언하여](https://docs.gra
 - https://gradle.org/gradle-vs-maven-performance/
 
 ## 연결 노트
-
+- [[빌드 관리 도구 필요성]]
 
 
 

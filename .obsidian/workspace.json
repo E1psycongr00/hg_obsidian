@@ -8,54 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e7b1cd8ccf2c569",
+            "id": "42f390f88d4abf39",
             "type": "leaf",
             "state": {
               "type": "3d_graph_view",
               "state": {}
             }
-          },
-          {
-            "id": "42f390f88d4abf39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 파일 다루기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41a93c751c6689ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/java.nio.file.Files 사용하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19611c5e022e4a85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/java/Java 공부.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -121,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/java.nio.file.Files 사용하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/java.nio.file.Files 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/java.nio.file.Files 사용하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +139,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224431,
+                  "scale": 0.5087618855792596,
                   "close": true
                 }
               }
@@ -217,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -236,13 +194,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/java.nio.file.Files 사용하기.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -264,11 +219,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "42f390f88d4abf39",
   "lastOpenFiles": [
-    "영구노트/Java 파일 다루기.md",
-    "연습노트/java.nio.file.Files 사용하기.md",
+    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+    "영구노트/2차원 구간합, 부분합.md",
+    "영구노트/Maven vs Gradle.md",
+    "영구노트/빌드 관리 도구 필요성.md",
+    "영구노트/Why Gradle.md",
+    "영구노트/Gradle 지원 버전.md",
     "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/표준 Java Error.md",
+    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "영구노트/Java 파일 다루기.md",
+    "영구노트/java.nio.file.Files 사용하기.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "영구노트/java.nio.file.Path 사용하기.md",
     "영구노트/Java 파일 쓰기.md",
@@ -284,14 +247,6 @@
     "README.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "영구노트/HttpHandler.md",
-    "영구노트/java 11 특징.md",
-    "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md",
-    "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
-    "영구노트/JVM 구조.md",
-    "영구노트/String Constant Pool.md",
-    "영구노트/Class Loader.md",
-    "영구노트/Java 동작 원리.md",
-    "Excalidraw/자바 동작 과정(draw).md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
