@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/java.nio.file.Path 사용하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/java.nio.file.Path 사용하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/java.nio.file.Path 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/java.nio.file.Path 사용하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "연습노트/java.nio.file.Path 사용하기.md"
               }
             }
           }
@@ -345,7 +345,7 @@
   "active": "19611c5e022e4a85",
   "lastOpenFiles": [
     "연습노트/java.nio.file.Files 사용하기.md",
-    "무제 파일.md",
+    "연습노트/java.nio.file.Path 사용하기.md",
     "연습노트/Java 파일 다루기.md",
     "영구노트/Java 파일 읽기.md",
     "영구노트/Java 파일 쓰기.md",
