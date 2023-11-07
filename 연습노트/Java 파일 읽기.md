@@ -27,7 +27,33 @@ File 인스턴스를 생성하고 createNewFile()을 이용해 파일을 생성�
 
 ### java.io.FileOutputStream
 
+```java
+public static void main(String[] args) throws IOException {  
+    String path = System.getProperty("user.dir");  
+  
+    try (FileOutputStream fileOutputStream = new FileOutputStream(path + "/src/backjoon.txt", true)) {  
+       String str = "Hello World!";  
+       byte[] bytes = str.getBytes();  
+       fileOutputStream.write(bytes);  
+    } catch (FileNotFoundException e) {  
+       e.printStackTrace();  
+    }  
+}
+```
 
+읽기 성능을 끌어 올리기 위해 BufferedOutputStream과 같이 쓰기도 한다.
+
+FileOutputStream의 append가 true인 경우 기존 파일에 데이터를 추가하고, false인 경우에는 새롭게 생성한다.
+
+### java.nio.file.Files
+```java
+public static void main(String[] args) throws IOException {  
+    String path = System.getProperty("user.dir");  
+    Path filePath = Paths.get(path, "input.txt");  
+    Path path1 = Files.createFile(filePath);  
+    System.out.println(path1);  
+}
+```
 
 ## 질문 & 확장
 
