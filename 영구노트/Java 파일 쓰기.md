@@ -102,7 +102,7 @@ bos.write() 동작시에 byte 데이터를 넣어주어야 한다.
 
 ## 연결 노트
 
-- [[Java File 읽기]]
+- [[Java 파일 읽기]]
 - [[java.io.File 파일 생성 및 가져오기]]
 
 

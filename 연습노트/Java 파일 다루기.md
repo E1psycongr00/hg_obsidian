@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-07
 작성 시간: 10:47
 
-## 주제: #미완
+## 주제: #미완 #IT #JAVA 
 
 ----
 ## 원문
@@ -25,7 +25,7 @@ public static void main(String[] args) throws IOException {
 File 인스턴스를 생성하고 createNewFile()을 이용해 파일을 생성할 수 있다.
 
 
-### java.io.FileOutputStream
+### java.io.FileOutputStream & FileInputStream
 
 ```java
 public static void main(String[] args) throws IOException {  
@@ -55,6 +55,8 @@ public static void main(String[] args) throws IOException {
 }
 ```
 
+
+Files는 파일, 디렉토리 생성부터 복제, 삭제, 쓰기, 읽기 등을 굉장히 편하게 활용할 수 있는 유틸 클래스이다. Path 기반으로 동작한다
 ## 질문 & 확장
 
 (없음)
@@ -66,7 +68,7 @@ public static void main(String[] args) throws IOException {
 
 - [[java.io.File 파일 생성 및 가져오기]]
 - [[Java 파일 쓰기]]
-- [[Java File 읽기]]
+- [[Java 파일 읽기]]
 
 
 

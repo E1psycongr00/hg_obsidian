@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 파일 읽기 종류.md",
+                "file": "연습노트/Java 파일 다루기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 파일 읽기 종류.md",
+                "file": "연습노트/Java 파일 다루기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Java File 읽기.md",
+                "file": "영구노트/Java 파일 읽기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 파일 읽기 종류.md",
+                "file": "연습노트/Java 파일 다루기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41a93c751c6689ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/java.nio.file.Files 사용하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19611c5e022e4a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -126,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "httpserver",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java 파일 읽기 종류.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java 파일 읽기 종류.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Java 파일 읽기 종류.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +316,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java 파일 읽기 종류.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -316,11 +342,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "42f390f88d4abf39",
+  "active": "19611c5e022e4a85",
   "lastOpenFiles": [
-    "영구노트/Java File 읽기.md",
+    "연습노트/java.nio.file.Files 사용하기.md",
+    "무제 파일.md",
+    "연습노트/Java 파일 다루기.md",
+    "영구노트/Java 파일 읽기.md",
     "영구노트/Java 파일 쓰기.md",
-    "연습노트/Java 파일 읽기 종류.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/spring jpa를 사용하는 이유.md",
@@ -342,8 +370,6 @@
     "영구노트/Class Loader.md",
     "영구노트/Java 동작 원리.md",
     "Excalidraw/자바 동작 과정(draw).md",
-    "Resources/IT/Gradle 공부.md",
-    "Resources/IT/알고리즘.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
