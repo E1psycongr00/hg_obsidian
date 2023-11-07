@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-07
 작성 시간: 14:07
 
-## 주제: #미완
+## 주제: #미완 #IT #JAVA 
 
 ----
 ## 원문
@@ -139,7 +139,27 @@ StandardOpenOption.APPEND
 
 ### 디렉토리 내 파일 조회하기
 
+#### Files.walk(path)
 
+```java
+Path base = Paths.get(DIRECTORY);  
+List<Path> files;  
+  
+try (Stream<Path> walk = Files.walk(base)) {  
+    files = walk.filter(Files::isRegularFile)  
+       .toList();  
+} catch (IOException e) {  
+    throw new IOException("파일 목록을 가져오는데 실패했습니다.");  
+}  
+files.forEach(System.out::println);
+```
+
+**해당 path 디렉토리에 파일을  포맷을 재귀적으로 찾는다**. 
+
+Stream\<Path> 형태로 제공하기 때문에
+filter를 사용해서 편하게 필터링 가능하다.
+
+depth를 제한하고 싶다면 path 인자에 depth 인자를 추가만 해주면 된다.
 ## 질문 & 확장
 
 (없음)

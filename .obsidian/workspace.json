@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java 파일 다루기.md",
+                "file": "영구노트/Java 파일 다루기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,8 +101,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,7 +181,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224428,
+                  "scale": 0.7132754626224431,
                   "close": true
                 }
               }
@@ -265,12 +264,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "41a93c751c6689ee",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
-    "Resources/IT/java/Java 공부.md",
+    "영구노트/Java 파일 다루기.md",
     "연습노트/java.nio.file.Files 사용하기.md",
+    "Resources/IT/java/Java 공부.md",
     "연습노트/spring jpa를 사용하는 이유.md",
-    "연습노트/Java 파일 다루기.md",
     "영구노트/java.nio.file.Path 사용하기.md",
     "영구노트/Java 파일 쓰기.md",
     "영구노트/Java 파일 읽기.md",
