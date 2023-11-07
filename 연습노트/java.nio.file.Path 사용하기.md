@@ -77,14 +77,45 @@ Path path = Paths.get("/home/project/file.txt");
 path.subpath(1, 3); // "project/file.txt"
 ```
 
-경로를 분리해서 상대 경로를 추출할 수 있다.
+일부 Path를 분리해서 상대 경로를 추출할 수 있다.
 
 **유의점**
 endIndex는 항상 +1로 열린 공간으로 생가해준다.
 위의 예제의 경우 0: home, 1: project, 2: file.txt이지만 위의 결과를 위해선 2 + 1을 해준다.
 
 
-### 
+### Path 변환하기
+
+#### toUri()
+
+```java
+String currentPath = "/home/project/hello.txt";  
+Path path = Paths.get(currentPath);  
+path.toUri();
+// file:///C:/home/project/hello.txt
+```
+
+Path를 웹 브라우저에서 사용하는 형식의 문자열로 변환할 수 있다.
+
+#### toAbsolutePath()
+
+```java
+String currentPath = "/home/project/hello.txt";  
+Path path = Paths.get(currentPath);  
+path.toAbsolutePath();
+// C:\home\project\hello.txt
+```
+
+절대 경로로 변환한다.
+
+Root에 /를 붙이지 않은 경우에는 현재 작업 디렉토리를 기준으로 절대 경로를 반환한다
+
+```java
+String currentPath = "home/project/hello.txt";  
+Path path = Paths.get(currentPath);  
+path.toAbsolutePath();
+// C:\java_project\algorithm\home\project\hello.txt
+```
 
 ## 질문 & 확장
 
