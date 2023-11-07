@@ -22,6 +22,8 @@ public static void main(String[] args) throws IOException {
 }
 ```
 
+[[java.io.File 파일 생성 및 가져오기]]
+
 File 인스턴스를 생성하고 createNewFile()을 이용해 파일을 생성할 수 있다.
 
 
@@ -55,6 +57,8 @@ public static void main(String[] args) throws IOException {
 }
 ```
 
+[[java.nio.file.Files 사용하기]]
+[[java.nio.file.Path 사용하기]]
 
 Files는 파일, 디렉토리 생성부터 복제, 삭제, 쓰기, 읽기 등을 굉장히 편하게 활용할 수 있는 유틸 클래스이다. Path 기반으로 동작한다
 ## 질문 & 확장
