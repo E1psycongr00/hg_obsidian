@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-07
 작성 시간: 12:03
 
-## 주제: #미완 #IT #JAVA 
+## 주제: #완성  #IT #JAVA 
 
 ----
 ## 원문
@@ -47,7 +47,7 @@ public class Main {
 }
 ```
 
-### 하위 디렉토리 파일 읽기
+### 하위 디렉토리 파일 가져오기
 
 하위 디렉토리의 모든 파일을 읽을 때는 listFiles()라는 메서드를 사용한다.
 
@@ -69,9 +69,26 @@ public class Main {
 ```
 
 
-### 재귀를 이용해서 모든 하위 디렉토리 파일 읽기
+#### 재귀를 이용해서 모든 하위 디렉토리 파일 가져오기
 
-depth가 1차가 아닌 n차인 경우에 재귀적으로 탐색하는 방법을 알아보자
+depth가 1차가 아닌 n차인 경우에 재귀적으로 탐색하는 방법을 알아보자.
+재귀적으로 코드를 짜주기만 하면 된다.
+
+```java
+private static void recursiveSearchFile(File dir, List<File> temp) {  
+	if (dir.isFile()) {  
+		temp.add(dir);  
+		return; 
+	}  
+    for (File file : Objects.requireNonNull(dir.listFiles())) {  
+		if (file.isDirectory()) {  
+			recursiveSearchFile(file, temp);  
+		} else {  
+			temp.add(file);  
+		}  
+    }  
+}
+```
 
 
 ## 질문 & 확장
@@ -79,7 +96,8 @@ depth가 1차가 아닌 n차인 경우에 재귀적으로 탐색하는 방법을
 (없음)
 
 ## 출처(링크)
-
+- https://codingdog.tistory.com/entry/java-file-%EA%B0%9D%EC%B2%B4%EB%A1%9C-%ED%95%98%EC%9C%84-%ED%8F%B4%EB%8D%94-%ED%8C%8C%EC%9D%BC%EB%93%A4%EC%9D%84-%EB%AA%A8%EB%91%90-%EC%B0%BE%EC%95%84-%EB%B4%85%EC%8B%9C%EB%8B%A4
+- https://sgpassion.tistory.com/331
 
 ## 연결 노트
 
