@@ -6,11 +6,18 @@
 ----
 ## 원문
 
-java.io.File을 읽기 위해서 FileReader와 FileInputStream을 사용한다. 두 개의 차이는 다음과 같다.
+java.io.File을 읽기 위해서 FileReader와 FileInputStream을 사용한다. 두 개의 공통점과 차이점은 다음과 같다.
 
+| 클래스          | 공통점    | 차이점               | 용도                      |
+| --------------- | --------- | -------------------- | ------------------------- |
+| FileReader      | 파일 읽기 | 인코딩 처리가 가능   | 문자 파일                 |
+| FileInputStream | 파일 읽기 | 바이너리 형태로 읽음 | 이미지 같은 바이너리 파일 |
 
+### FileReader 사용하기
 
+```java
 
+```
 
 ## 질문 & 확장
 
