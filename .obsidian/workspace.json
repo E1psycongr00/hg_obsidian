@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md"
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md"
               }
             }
           }
@@ -246,8 +246,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6798bfc7261f07e3",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "연습노트/구간합 문제 모음.md",
+    "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
+    "연습노트/다이나믹 프록시(동적 프록시).md",
+    "연습노트/configure & DeserializationFeature 구성.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/spring jpa를 사용하는 이유.md",
     "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/2차원 구간합, 부분합.md",
@@ -260,20 +268,12 @@
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "영구노트/Java 파일 다루기.md",
     "영구노트/java.nio.file.Files 사용하기.md",
-    "연습노트/spring jpa를 사용하는 이유.md",
     "영구노트/java.nio.file.Path 사용하기.md",
     "영구노트/Java 파일 쓰기.md",
     "영구노트/Java 파일 읽기.md",
     "영구노트/java.io.File 파일 생성 및 가져오기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "영구노트/HttpServer.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/configure & DeserializationFeature 구성.md",
-    "연습노트/다이나믹 프록시(동적 프록시).md",
-    "연습노트/구간합 문제 모음.md",
     "README.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
