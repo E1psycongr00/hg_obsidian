@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/MethodArgumentNotValidException이란.md",
+                "file": "연습노트/Spring bean validation 예외 분석.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/MethodArgumentNotValidException이란.md",
+                "file": "연습노트/Spring bean validation 예외 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/MethodArgumentNotValidException이란.md",
+                "file": "연습노트/Spring bean validation 예외 분석.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/MethodArgumentNotValidException이란.md"
+                "file": "연습노트/Spring bean validation 예외 분석.md"
               }
             }
           }
@@ -257,11 +257,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5f907b2e6f9595a3",
+  "active": "9777c90b82a1c37f",
   "lastOpenFiles": [
+    "연습노트/MethodArgumentNotValidException이란.md",
     "연습노트/Spring bean validation 예외 분석.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "연습노트/MethodArgumentNotValidException이란.md",
     "Resources/IT/java/Java Annotation.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/Github.md",
