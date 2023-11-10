@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-10
 작성 시간: 09:49
 
-## 주제: #미완
+## 주제: #완성  #IT #JAVA #Validation 
 
 ----
 ## 원문
@@ -86,6 +86,8 @@ Bean Validation은 Validator 객체를 활용해서 인스턴스의 내부 속�
 
 ### Nested Field 유효성 정의하기
 
+#### Nested 클래스 Validation 정의하기
+
 코드를 짜다 보면 Nest 클래스의 유효성을 체크해야 할 때가 있다. 다음의 예제를 살펴보자
 
 ```java
@@ -123,10 +125,36 @@ public class Person {
 }
 ```
 
+
 코드를 보면 Address라는 객체가 있고 address 객체는 내부적으로 NotBlank과 Range validation이 존재한다. 이를 그냥 사용하면 Person에 적용된 어노테이션은 검사를 진행하지만 Address 타입은 진행하지 않는다. 이를 수행하기 위해서는 **@Valid** 어노테이션을 필드에 붙여주면 된다. 그러면 Vallidator는 해당 타입을 인식하고 생성된 속성의 타입 인스턴스의 유효성을 검사한다.
 
->@Valid
->Valid는 Jakarta Bean Validation 어노테이션으로 정의된 타입에게 명시적으로 유효성 검사를 하라고 하는 어
+>**@Valid**
+>Valid는 타입 내부에 Jakarta Bean Validation 어노테이션으로 정의된 속성을 명시적으로 유효성 검사를 하라고 하는 것이다.  이를 적용하지 않으면 타입 내부에 어떤 Validation 어노테이션을 적용하더라고 검사를 하지 않는다.
+
+
+#### Nested Field를 Validation하는 테스트
+
+```java
+@Test  
+void test() {  
+    Person person = new Person("홍길동", -2, new Person.Address("서울", -1));  
+  
+    // Validator 생성  
+    ValidatorFactory validatorFactory = Validation.buildDefaultValidatorFactory();  
+    Validator validator = validatorFactory.getValidator();  
+  
+    // Validation 출력  
+    Set<ConstraintViolation<Person>> validate = validator.validate(person);  
+    validate.forEach(System.out::println);  
+}
+```
+
+결과는 다음과 같다.
+
+> **ConstraintViolationImpl{interpolatedMessage='1에서 100 사이여야 합니다'**, propertyPath=age, rootBeanClass=class backjoon.Person, messageTemplate='{org.hibernate.validator.constraints.Range.message}'}
+> **ConstraintViolationImpl{interpolatedMessage='1에서 1000 사이여야 합니다'**, propertyPath=address.rodeNumber, rootBeanClass=class backjoon.Person, messageTemplate='{org.hibernate.validator.constraints.Range.message}'}
+
+
 ## 질문 & 확장
 
 (없음)
