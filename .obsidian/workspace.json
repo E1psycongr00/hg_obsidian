@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f80265d67e2da46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/MethodArgumentNotValidException이란.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring bean validation 예외 분석.md",
+                "file": "연습노트/MethodArgumentNotValidException이란.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring bean validation 예외 분석.md",
+                "file": "연습노트/MethodArgumentNotValidException이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring bean validation 예외 분석.md",
+                "file": "연습노트/MethodArgumentNotValidException이란.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring bean validation 예외 분석.md"
+                "file": "연습노트/MethodArgumentNotValidException이란.md"
               }
             }
           }
@@ -243,10 +256,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5f907b2e6f9595a3",
+  "active": "8f80265d67e2da46",
   "lastOpenFiles": [
-    "Resources/IT/java/Spring Bean Validation 총정리.md",
     "연습노트/Spring bean validation 예외 분석.md",
+    "연습노트/MethodArgumentNotValidException이란.md",
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
     "Resources/IT/java/Java Annotation.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/Github.md",
@@ -271,7 +285,6 @@
     "연습노트/Project Jigsaw.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Why Kotlin.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
