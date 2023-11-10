@@ -8,7 +8,6 @@
 - [[@Valid 용도]]
 - [[parameter에 java bean validation 적용 및 테스트]]
 - [[메서드 return에 java bean validation 적용 및 테스트]]
-- [[constructor에 java bean validation 적용 및 테스트]]
 - [[java bean validation에서 custom validator 만들기]]
 - [[java bean validation에서 커스텀 메시지 만들기]]
 
