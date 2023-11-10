@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-10
 작성 시간: 18:36
 
-## 주제: #미완 #JAVA #Validation 
+## 주제: #완성 #JAVA #Validation 
 
 ----
 ## 원문
@@ -71,16 +71,19 @@ public ResponseEntity<ErrorResponse> handleConstraintViolationException(Constrai
 }
 ```
 
+getViolations를 활용해 적절한 내용들을 가져오면 된다
+
+
 ## 질문 & 확장
 
-(없음)
-
+- 이상하게 MockMvc 테스트가 영어로 출력되네.. 어떻게 해결해야 되지?
 ## 출처(링크)
 - https://kapentaz.github.io/spring/Spring-Boo-Bean-Validation-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%93%B0%EC%9E%90/#
 - https://docs.spring.io/spring-framework/reference/core/validation/beanvalidation.html
 - https://velog.io/@imcool2551/Spring-%EA%B2%80%EC%A6%9D1-BindingResult-MessageCodesResolver#1-bindingresult-fielderror-objecterror
 ## 연결 노트
 - [[MethodArgumentNotValidException이란]]
+- [[MockMvc 영어 출력을 한글 출력으로 바꾸기]]
 
 
 
