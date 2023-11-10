@@ -12,6 +12,8 @@
 
 MessageCodesResolver는 단계적으로 코드를 생성하며, 세부적인 내용에서 범용적인 내용 순으로 우선 순위를 가지고 관리한다. 이 때문에 코드를 이용하여 평소에는 범용적으로 사용하다가 필요할 때 세부적인 예외를 작성할 수 있게 된다.
 
+![[MessageCodesResolver code 우선순위(draw)|700]]
+
 ### MessageCodesResolver 구성
 Spring에서는 오류 메시지를 관리하기 위해서 `MessageCodesResolver` 를 사용한다. 기본 구현체는 DefaultMessageCodesResolver이다.
 
@@ -25,6 +27,42 @@ public interface MessageCodesResolver {
 ```
 
 
+
+### 동작 원리 파악하기
+
+```java
+@Getter  
+@RequiredArgsConstructor  
+public class ItemRequest {  
+  
+    @Positive  
+    private final Long serialNumber;  
+  
+    @NotBlank  
+    @Length(max = 10)  
+    private final String name;  
+  
+}
+```
+
+다음과 같은 ItemRequest가 있다고 가정하자. 우리는 여기서 코드를 추출해볼 것이다.
+
+```java
+public class MessageCodesResolverTest {  
+  
+    private final MessageCodesResolver resolver = new DefaultMessageCodesResolver();  
+  
+    @Test  
+    void objectTest() {  
+       String[] codes = resolver.resolveMessageCodes("NotEmpty", "itemRequest", "name", String.class);  
+       for (String code : codes) {  
+          System.out.println(code);  
+       }  
+    }  
+}
+```
+
+테스트를 간단히 설명하자면 NotEmpty 어노테이션이 붙은 ItemRequest 객체에서 필드 이름이 name이고 타입이 String으로
 ## 질문 & 확장
 
 (없음)

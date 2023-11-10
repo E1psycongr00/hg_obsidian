@@ -26,12 +26,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-10 23.46.12.excalidraw.md"
+                "file": "Excalidraw/MessageCodesResolver code 우선순위(draw).md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-10 23.46.12.excalidraw.md",
+                "file": "연습노트/Spring bean validation과 MessageCodesResolver.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-10 23.46.12.excalidraw.md",
+                "file": "연습노트/Spring bean validation과 MessageCodesResolver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-10 23.46.12.excalidraw.md",
+                "file": "연습노트/Spring bean validation과 MessageCodesResolver.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-10 23.46.12.excalidraw.md"
+                "file": "연습노트/Spring bean validation과 MessageCodesResolver.md"
               }
             }
           }
@@ -241,10 +240,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d87c6112344307ac",
+  "active": "905725aa3dc6a2c5",
   "lastOpenFiles": [
+    "Excalidraw/MessageCodesResolver code 우선순위(draw).md",
     "연습노트/Spring bean validation과 MessageCodesResolver.md",
-    "Excalidraw/Drawing 2023-11-10 23.46.12.excalidraw.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/구간합 문제 모음.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
