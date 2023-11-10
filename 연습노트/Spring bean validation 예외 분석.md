@@ -40,7 +40,7 @@ public ResponseEntity<ErrorResponse> handleMethodArgumentNotValidException(Metho
 
 다음 코드는 MethodArgumentNotValidException을 핸들링하는 코드이다. bindingResult로 부터 FieldError들을 가져오고 상세정보를 가져와서 가공한 코드임을 볼 수 있다.
 
-**이 방법의 문제점은 getDefaultMessage()가 영어로 출력된다는 점이다.**
+
 
 
 ### @Validated 클래스에서 발생한 예외
@@ -49,6 +49,13 @@ public ResponseEntity<ErrorResponse> handleMethodArgumentNotValidException(Metho
 
 클래스 컴포넌트(Bean)에 @Validated를 붙이면 해당 컴포넌트는 Validation 해야할 Bean으로 인식하고 유효성 검사를 실행한다. 예외 발생시 **ConstraintViolationException**이 발생한다.
 
+Spring에서는 따로 처리하고 있지 않으므로 Internal Error Exception이 발생한다.
+
+#### 커스텀 예외 처리하기
+
+```java
+
+```
 
 ## 질문 & 확장
 
