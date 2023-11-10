@@ -47,7 +47,8 @@ public ResponseEntity<ErrorResponse> handleMethodArgumentNotValidException(Metho
 
 #### 원인
 
-클래스 컴포넌트(Bean)에 @Validated를 붙이면 
+클래스 컴포넌트(Bean)에 @Validated를 붙이면 해당 컴포넌트는 Validation 해야할 Bean으로 인식하고 유효성 검사를 실행한다. 예외 발생시 **ConstraintViolationException**이 발생한다.
+
 
 ## 질문 & 확장
 
