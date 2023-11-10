@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84675d924f619318",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
             "id": "7e677373f3496297",
             "type": "leaf",
             "state": {
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,9 +232,10 @@
   },
   "active": "7e677373f3496297",
   "lastOpenFiles": [
+    "Spring Bean Validation 소개.md",
+    "Resources/IT/java/Spring Bean Validation.md",
     "Resources/IT/java/Java Annotation.md",
     "영구노트/어노테이션 @Target.md",
-    "Resources/IT/java/Spring Bean Validation.md",
     "영구노트/java bean validation에서 custom validator 만들기.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Java 공부.md",
@@ -266,7 +258,6 @@
     "영구노트/Java Bean Validation 소개.md",
     "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
-    "영구노트/2차원 구간합, 부분합.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
