@@ -13,6 +13,6 @@
 
 ### Spring Bean Validation
 - [[Spring Bean Validation 소개]]
-- [[Spring bean validation ConstraintViolationException]]
+- [[Spring bean validation 예외 분석]]
 - [[@Valid와 @Validated 차이]]
 - [[Spring bean validation과 MessageCodeResolver]]

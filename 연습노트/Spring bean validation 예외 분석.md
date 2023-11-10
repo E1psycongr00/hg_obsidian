@@ -6,6 +6,11 @@
 ----
 ## 원문
 
+### @RequestBody에서 Validation 에러가 발생한 경우
+
+RequestBody에서 Validation이 발생한 경우 400 코드 응답이 뜬다. 그리고 [[MethodArgumentNotValidException 이 발생한다. 
+
+
 
 ## 질문 & 확장
 
@@ -16,7 +21,7 @@
 - https://docs.spring.io/spring-framework/reference/core/validation/beanvalidation.html
 
 ## 연결 노트
-
+- [[MethodArgumentNotValidException이란]]
 
 
 
