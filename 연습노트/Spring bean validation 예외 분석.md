@@ -22,29 +22,32 @@ BindingException을 상속하기 때문에 여기서 BindingResult을 뽑아낼 
 ```java
 @ExceptionHandler(MethodArgumentNotValidException.class)  
 public ResponseEntity<ErrorResponse> handleMethodArgumentNotValidException(MethodArgumentNotValidException e) {  
-    log.error(e.getMessage());  
     BindingResult bindingResult = e.getBindingResult();  
+    List<String> errorFieldMessages = new ArrayList<>();  
   
-    StringBuilder builder = new StringBuilder();  
     for (FieldError fieldError : bindingResult.getFieldErrors()) {  
-       builder.append("[");  
-       builder.append(fieldError.getField());  
-       builder.append("]은 ");  
-       builder.append(fieldError.getDefaultMessage());  
-       builder.append(" 입력된 값: [");  
-       builder.append(fieldError.getRejectedValue());  
-       builder.append("]");  
+       String errorField = fieldError.getField();  
+       String message = fieldError.getDefaultMessage();  
+       String rejectedValue = fieldError.getRejectedValue().toString();  
+       String errorMessage = String.format("필드 이름: %s, 오류 메시지: %s, 입력된 값: %s", errorField, message, rejectedValue);  
+       errorFieldMessages.add(errorMessage);  
     }  
   
-    return ResponseEntity.badRequest().body(new ErrorResponse(400, builder.toString()));  
+    log.error(errorFieldMessages.toString());  
+    return ResponseEntity.badRequest().body(new ErrorResponse(400, errorFieldMessages.toString()));  
 }
 ```
 
 다음 코드는 MethodArgumentNotValidException을 핸들링하는 코드이다. bindingResult로 부터 FieldError들을 가져오고 상세정보를 가져와서 가공한 코드임을 볼 수 있다.
 
+**이 방법의 문제점은 getDefaultMessage()가 영어로 출력된다는 점이다.**
 
 
+### @Validated 클래스에서 발생한 예외
 
+#### 원인
+
+클래스 컴포넌트(Bean)에 @Validated를 붙이면 
 
 ## 질문 & 확장
 
