@@ -62,7 +62,20 @@ public class MessageCodesResolverTest {
 }
 ```
 
-테스트를 간단히 설명하자면 NotEmpty 어노테이션이 붙은 ItemRequest 객체에서 필드 이름이 name이고 타입이 String으로
+테스트를 간단히 설명하자면 errorCode가 NotEmpty(**어노테이션 이름**)인 ItemRequest 객체에서 필드 이름이 name이고 타입이 String인 것을 단계별 메시지 코드를 생성해주세요란 의미가 된다.
+
+그러면 다음과 같은 메시지가 생성된다.
+
+```text
+NotEmpty.itemRequest.name
+NotEmpty.name
+NotEmpty.java.lang.String
+NotEmpty
+```
+
+
+
+
 ## 질문 & 확장
 
 (없음)
