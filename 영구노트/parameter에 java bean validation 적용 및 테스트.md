@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-10
 작성 시간: 11:47
 
-## 주제: #미완 #JAVA #Validation 
+## 주제: #완성  #IT #JAVA #Validation 
 
 ----
 ## 원문
