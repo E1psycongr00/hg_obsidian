@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1699613717683,
+      "items": [],
+      "title": "spring"
+    },
+    {
+      "type": "group",
+      "ctime": 1699613759910,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1699613809888,
+          "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
+        }
+      ],
+      "title": "알고리즘"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "filters": {
+    "doShowOrphans": true,
+    "doShowAttachments": true
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "tag:#JAVA",
+        "color": "#ed0202"
+      },
+      {
+        "query": "tag:#알고리즘",
+        "color": "#029af7"
+      },
+      {
+        "query": "tag:#Gradle",
+        "color": "#37ff00"
+      },
+      {
+        "query": "Excalidraw",
+        "color": "#f2c86e"
+      },
+      {
+        "query": "tag:#명언",
+        "color": "#e052ba"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 3,
+    "linkThickness": 3,
+    "particleSize": 7,
+    "particleCount": 3
+  }
+}
