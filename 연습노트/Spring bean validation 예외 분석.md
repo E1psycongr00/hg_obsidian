@@ -40,7 +40,7 @@ public ResponseEntity<ErrorResponse> handleMethodArgumentNotValidException(Metho
 }
 ```
 
-다음 코드는 MethodArgumentNotValidException을 핸들링하는 코드이다. bindingResult로 부터 FieldError들을 가져오고 상세정보를 가져오도
+다음 코드는 MethodArgumentNotValidException을 핸들링하는 코드이다. bindingResult로 부터 FieldError들을 가져오고 상세정보를 가져와서 가공한 코드임을 볼 수 있다.
 
 
 
