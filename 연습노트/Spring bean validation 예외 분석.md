@@ -54,7 +54,21 @@ Spring에서는 따로 처리하고 있지 않으므로 Internal Error Exception
 #### 커스텀 예외 처리하기
 
 ```java
-
+@ExceptionHandler(ConstraintViolationException.class)  
+public ResponseEntity<ErrorResponse> handleConstraintViolationException(ConstraintViolationException e) {  
+    List<String> errorFieldMessages = new ArrayList<>();  
+  
+    e.getConstraintViolations().forEach(violation -> {  
+       String errorFieldPath = violation.getPropertyPath().toString();  
+       String errorField = errorFieldPath.substring(errorFieldPath.lastIndexOf(".") + 1);  
+       String message = violation.getMessage();  
+       String errorMessage = String.format("필드 이름: %s, 오류 메시지: %s", errorField, message);  
+       errorFieldMessages.add(errorMessage);  
+    });  
+  
+    log.error(errorFieldMessages.toString());  
+    return ResponseEntity.badRequest().body(new ErrorResponse(400, errorFieldMessages.toString()));  
+}
 ```
 
 ## 질문 & 확장
