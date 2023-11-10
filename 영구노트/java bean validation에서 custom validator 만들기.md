@@ -76,14 +76,14 @@ void test() {
 
 ## 질문 & 확장
 
+
+## 출처(링크)
 - https://kapentaz.github.io/java/Java-Bean-Validation-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%93%B0%EC%9E%90/#
 - https://docs.spring.io/spring-framework/reference/core/validation/beanvalidation.html
 
-## 출처(링크)
-
 
 ## 연결 노트
-
+- [[어노테이션 @Target]]
 
 
 
