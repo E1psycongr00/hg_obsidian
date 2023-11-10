@@ -11,13 +11,8 @@
             "id": "84675d924f619318",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/java bean validation에서 커스텀 메시지 만들기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/java bean validation에서 커스텀 메시지 만들기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/java bean validation에서 커스텀 메시지 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/java bean validation에서 커스텀 메시지 만들기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/java bean validation에서 커스텀 메시지 만들기.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -232,32 +222,32 @@
   },
   "active": "84675d924f619318",
   "lastOpenFiles": [
+    "연습노트/java bean validation에서 custom validator 만들기.md",
     "Resources/IT/java/Spring Bean Validation.md",
-    "Resources/IT/java/Java 공부.md",
-    "연습노트/java bean validation에서 커스텀 메시지 만들기.md",
     "연습노트/configure & DeserializationFeature 구성.md",
+    "연습노트/메서드 return에 java bean validation 적용 및 테스트.md",
+    "연습노트/다이나믹 프록시(동적 프록시).md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "java bean validation에서 custom validator 만들기.md",
+    "연습노트/구간합 문제 모음.md",
+    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+    "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
+    "Resources/IT/java/Java 공부.md",
     "영구노트/parameter에 java bean validation 적용 및 테스트.md",
-    "연습노트/메서드 return에 java bean validation 적용 및 테스트.md",
     "영구노트/getter에 java bean validation 적용 및 테스트.md",
     "영구노트/field에 java bean validation 적용 및 테스트.md",
     "영구노트/Java Bean Validation 소개.md",
     "Resources/IT/java/java 배열 사용법.md",
-    "연습노트/구간합 문제 모음.md",
-    "연습노트/다이나믹 프록시(동적 프록시).md",
     "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/2차원 구간합, 부분합.md",
     "영구노트/Maven vs Gradle.md",
     "영구노트/빌드 관리 도구 필요성.md",
     "영구노트/Why Gradle.md",
-    "영구노트/Gradle 지원 버전.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
