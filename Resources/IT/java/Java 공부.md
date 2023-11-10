@@ -45,6 +45,7 @@
 - [[data jpa repository 응답 타입 유연하게 쓰기]]
 - [[MapStruct 사용하기 (by java17 & Kotlin DSL)]]
 -  [[기초적인 Rest API 서버 설계하기]]
+-  [[Spring Bean Validation]]
 
 ### 자바 에러 모음
 - [[표준 Java Error]]

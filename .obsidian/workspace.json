@@ -34,19 +34,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Bean Validation.md",
+                "file": "연습노트/Java Bean Validation 소개.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "401517611060e8e4",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
             }
           }
         ],
@@ -117,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Bean Validation.md",
+                "file": "연습노트/Java Bean Validation 소개.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring Bean Validation.md",
+                "file": "연습노트/Java Bean Validation 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spring Bean Validation.md",
+                "file": "연습노트/Java Bean Validation 소개.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -233,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Bean Validation.md"
+                "file": "연습노트/Java Bean Validation 소개.md"
               }
             }
           }
@@ -259,10 +251,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "aa29e9f77fb6067b",
   "lastOpenFiles": [
+    "java bean validation에서 custom validator 만들기.md",
+    "Resources/IT/java/Spring Bean Validation.md",
     "Resources/IT/java/Java 공부.md",
-    "Spring Bean Validation.md",
+    "연습노트/Java Bean Validation 소개.md",
+    "Resources/IT/java/java 배열 사용법.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/구간합 문제 모음.md",
     "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
@@ -284,9 +279,6 @@
     "영구노트/java.nio.file.Files 사용하기.md",
     "영구노트/java.nio.file.Path 사용하기.md",
     "영구노트/Java 파일 쓰기.md",
-    "영구노트/Java 파일 읽기.md",
-    "영구노트/java.io.File 파일 생성 및 가져오기.md",
-    "영구노트/HttpServer.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
