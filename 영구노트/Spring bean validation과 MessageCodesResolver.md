@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-10
 작성 시간: 18:37
 
-## 주제: #미완 #JAVA #Validation 
+## 주제: #완성  #JAVA #Validation 
 
 ----
 ## 원문
@@ -74,11 +74,11 @@ NotEmpty
 ```
 
 
-
+이는 내부적으로 BindingResult 와 같은데서 사용되는데 이것과 MessageSource를 이용하면 커스텀 메시지를 작성할 수 있다.
 
 ## 질문 & 확장
 
-(없음)
+- MessageSource를 활용해 Custom 메시지를 작성하는 방법을 알아봐야겠군
 
 ## 출처(링크)
 - https://docs.spring.io/spring-framework/reference/core/validation/conversion.html
