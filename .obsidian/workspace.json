@@ -29,6 +29,19 @@
             }
           },
           {
+            "id": "aa29e9f77fb6067b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring Bean Validation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "401517611060e8e4",
             "type": "leaf",
             "state": {
@@ -37,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
+                "file": "Spring Bean Validation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
+                "file": "Spring Bean Validation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
+                "file": "Spring Bean Validation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JacksonModule & Std(De)Serializer.md"
+                "file": "Spring Bean Validation.md"
               }
             }
           }
@@ -248,12 +261,14 @@
   },
   "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "Resources/IT/java/Java 공부.md",
+    "Spring Bean Validation.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/구간합 문제 모음.md",
     "연습노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
     "연습노트/configure & DeserializationFeature 구성.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
@@ -263,7 +278,6 @@
     "영구노트/빌드 관리 도구 필요성.md",
     "영구노트/Why Gradle.md",
     "영구노트/Gradle 지원 버전.md",
-    "Resources/IT/java/Java 공부.md",
     "Resources/IT/java/표준 Java Error.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "영구노트/Java 파일 다루기.md",
@@ -273,7 +287,6 @@
     "영구노트/Java 파일 읽기.md",
     "영구노트/java.io.File 파일 생성 및 가져오기.md",
     "영구노트/HttpServer.md",
-    "README.md",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
