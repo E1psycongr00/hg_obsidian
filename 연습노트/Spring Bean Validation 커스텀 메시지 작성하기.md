@@ -29,6 +29,15 @@ Spring Bean Validation을 사용하면 유효성 검사 예외 발생시 범용�
 
 ### 해결 전략
 
+해결 전략은 2가지로 나누어서 해야하는 데 크게는 다음과 같다.
+
+1. BindingResult 또는 ContraintViolation으로 부터 Code와 Argument 정보를 뽑아온다.
+2. 예외 처리시 MessageSource 객체를 활용해 MessageSource에 등록된 메시지를 출력한다. 
+	1. 우선순위 Code부터 처리한다.
+	2. 모든 Code를 다 탐색해서 처리해야 한다.
+	3. Code가 없는 경우 DefaultMessage로 처리한다.
+
+
 
 
 ## 질문 & 확장
