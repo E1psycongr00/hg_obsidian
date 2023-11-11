@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb1a1205b4da4b42",
+        "id": "98e6528b5be6b777",
         "type": "tabs",
         "children": [
           {
-            "id": "262487760445ea6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/java/Spring Bean Validation 총정리.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee7d737a6e60a0a8",
+            "id": "94e05432fcea44f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "75bf3b9142cc5cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Spring bean validation과 MessageCodesResolver.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,11 +230,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "ee7d737a6e60a0a8",
+  "active": "94e05432fcea44f6",
   "lastOpenFiles": [
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "영구노트/Spring bean validation 예외 분석.md",
     "영구노트/Spring bean validation과 MessageCodesResolver.md",
     "연습노트/Spring Bean Validation 커스텀 메시지 작성하기.md",
-    "Resources/IT/java/Spring Bean Validation 총정리.md",
     "Excalidraw/MessageCodesResolver code 우선순위(draw).md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
@@ -269,7 +243,6 @@
     "연습노트/구간합 문제 모음.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/다이나믹 프록시(동적 프록시).md",
-    "영구노트/Spring bean validation 예외 분석.md",
     "영구노트/MethodArgumentNotValidException이란.md",
     "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
     "@Valid와 @Validated 차이.md",
