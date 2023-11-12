@@ -43,6 +43,25 @@ Spring Bean Validation을 사용하면 유효성 검사 예외 발생시 범용�
 위의 그림대로 Validation Error가 발생했을 때 처리해야 한다. 그래서 나는 이러한 에러가 발생했을 때 이를 **ControllerAdvice**에서 처리하고자 한다.
 
 그리고 위 과정을 자동화해야한다.
+
+### MessageSource 설정하기
+
+#### Resources에 생성하기
+```properties
+# messages.properties
+Length.itemRequest.name={0}는 {1} 보다 같거나 짧이야 합니다  
+Positive.findItem.id=양수로 좀 넣어라 임마...
+```
+
+#### application.yml에서 messagesource 관련 설정해주기
+
+만약 messages.properties가 아닌 다른 곳에 저장하고 이를 MessageSource에서 인식하게 만들려면 application.yml에서 설정해주자
+
+```yml
+
+```
+
+
 ### Code
 #### MessageSourceResolvable로 부터 메시지 추출하기
 우선 MessageSourceResolvable이냐 아니면 ConstraintViolation이냐에 따라서 다르게 처리해야 한다. 이것을 해결할 수 있는 객체를 하나 설계하려고 한다.
