@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-11
 작성 시간: 00:13
 
-## 주제: #미완 #솔루션 #JAVA #Validation 
+## 주제: #완성  #솔루션 #JAVA #Validation 
 
 ----
 
@@ -244,6 +244,10 @@ Length.itemRequest.name={0}는 {1} 보다 같거나 짧이야 합니다
 그리고 컨트롤러 테스트 코드를 짜서 일부로 validation error를 발생시키면 다음과 같은 에러가 발생한다.
 
 **name는 10 보다 같거나 짧이야 합니다, 0보다 커야 합니다**
+
+
+>[!attention] 주의점
+>ControllerAdvice에서 예외처리할때 메시지를 생성하므로 다른 곳에서 ConstraintViolation 예외가 발생했을때 Message 예외처리가 안된다고 당황하지 말자
 
 
 ## 질문 & 확장
