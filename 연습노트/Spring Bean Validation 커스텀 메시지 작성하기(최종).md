@@ -44,7 +44,7 @@ Spring Bean Validation을 사용하면 유효성 검사 예외 발생시 범용�
 
 그리고 위 과정을 자동화해야한다.
 ### Code
-
+#### MessageSourceResolvable로 부터 메시지 추출하기
 우선 MessageSourceResolvable이냐 아니면 ConstraintViolation이냐에 따라서 다르게 처리해야 한다. 이것을 해결할 수 있는 객체를 하나 설계하려고 한다.
 
 ```java
@@ -62,7 +62,137 @@ public String getMessage(FieldError fieldError) {
 
 코드를 간단히 설명하자면 단순히 MessageSourceResolvable 타입의 하위 타입인 FieldError를 활용해 메시지를 생성하는 것이다. MessageSourceResolvable 타입은 Code, Argument등의 정보가 포함되어 있기 때문에 MessageSource로 부터 code, argument를 활용해 message를 읽는 역할을 수행한다.
 
+#### ConstraintViolation로 부터 메시지 추출하기
 
+```java
+public String getMessage(ConstraintViolation<?> violation) {  
+    ConstraintDescriptor<?> descriptor = violation.getConstraintDescriptor();  
+    Map<String, Object> attributes = descriptor.getAttributes();  
+  
+    String annotationName = descriptor.getAnnotation().annotationType().getSimpleName();  
+    String rootBeanName = StringUtils.uncapitalize(violation.getRootBeanClass().getSimpleName());  
+    String path = violation.getPropertyPath().toString();  
+  
+    String[] codes = messageCodesResolver.resolveMessageCodes(annotationName, rootBeanName, path, null);  
+    String errorMessage = findErrorMessage(codes, attributes, violation.getInvalidValue().toString());  
+  
+    return errorMessage != null ? errorMessage : violation.getMessage();  
+}
+```
+
+ConstraintViolation의 경우 정보가 없기 때문에 직접 Code와 Argument 정보를 추출해야 한다.
+Code를 MessageCodesResolver를 활용해 만들고 custom message를 가져온다. Attributes로 부터 argument를 뽑아내서 메시지를 직접 수정한다.
+
+#### 커스텀 메시지를 처리하는 객체 전체 Code
+
+```java
+@Component  
+@RequiredArgsConstructor  
+@Slf4j  
+public class FieldValidationMessageSource {  
+  
+    private final MessageSource messageSource;  
+    private final MessageCodesResolver messageCodesResolver = new DefaultMessageCodesResolver();  
+  
+    public String getMessage(FieldError fieldError) {  
+       String errorMessage;  
+       try {  
+          errorMessage = messageSource.getMessage(fieldError, LocaleContextHolder.getLocale());  
+       } catch (NoSuchMessageException e) {  
+          log.debug("No such message code " + Arrays.toString(fieldError.getCodes()));  
+          errorMessage = fieldError.getField() + "는 " + fieldError.getDefaultMessage();  
+       }  
+       return errorMessage;  
+    }  
+  
+    public String getMessage(ConstraintViolation<?> violation) {  
+       ConstraintDescriptor<?> descriptor = violation.getConstraintDescriptor();  
+       Map<String, Object> attributes = descriptor.getAttributes();  
+  
+       String annotationName = descriptor.getAnnotation().annotationType().getSimpleName();  
+       String rootBeanName = StringUtils.uncapitalize(violation.getRootBeanClass().getSimpleName());  
+       String path = violation.getPropertyPath().toString();  
+  
+       String[] codes = messageCodesResolver.resolveMessageCodes(annotationName, rootBeanName, path, null);  
+       String errorMessage = findErrorMessage(codes, attributes, violation.getInvalidValue().toString());  
+  
+       return errorMessage != null ? errorMessage : violation.getMessage();  
+    }  
+  
+    private String findErrorMessage(String[] codes, Map<String, Object> attributes, String invalidValue) {  
+       for (String code : codes) {  
+          Optional<String> message = getMessage(code, null);  
+          if (message.isPresent()) {  
+             String temp = message.get();  
+             for (Map.Entry<String, Object> entry : attributes.entrySet()) {  
+                String key = "{" + entry.getKey() + "}";  
+                String value = Objects.toString(entry.getValue());  
+                temp = temp.replace(key, value);  
+             }  
+             return temp.replace("{validatedValue}", invalidValue);  
+          }  
+       }  
+       return null;  
+    }  
+  
+    private Optional<String> getMessage(String code, Object[] args) {  
+       try {  
+          String result = messageSource.getMessage(code, args, LocaleContextHolder.getLocale());  
+          return Optional.of(result);  
+       } catch (NoSuchMessageException e) {  
+          return Optional.empty();  
+       }  
+    }  
+}
+```
+
+
+#### ControllerAdvice에 적용하기
+
+```java
+@RestControllerAdvice  
+@RequiredArgsConstructor  
+@Slf4j  
+public class GlobalExceptionHandler {  
+  
+    private final FieldValidationMessageSource fieldValidationMessageSource;  
+  
+    @ExceptionHandler(ConstraintViolationException.class)  
+    public ResponseEntity<ErrorResponse> handleConstraintViolationException(ConstraintViolationException e) {  
+       List<String> errorFieldMessages = new ArrayList<>();  
+  
+       e.getConstraintViolations().forEach(violation -> {  
+          String errorMessage = fieldValidationMessageSource.getMessage(violation);  
+          errorFieldMessages.add(errorMessage);  
+       });  
+  
+       log.error(errorFieldMessages.toString());  
+       return ResponseEntity.badRequest().body(new ErrorResponse(400, errorFieldMessages.toString()));  
+    }  
+  
+    @ExceptionHandler(MethodArgumentNotValidException.class)  
+    public ResponseEntity<ErrorResponse> handleMethodArgumentNotValidException(MethodArgumentNotValidException e,  
+       BindingResult bindingResult) {  
+       List<String> errorFieldMessages = new ArrayList<>();  
+  
+       for (FieldError fieldError : bindingResult.getFieldErrors()) {  
+          String errorMessage = fieldValidationMessageSource.getMessage(fieldError);  
+          errorFieldMessages.add(errorMessage);  
+       }  
+  
+       log.error(errorFieldMessages.toString());  
+       return ResponseEntity.badRequest().body(new ErrorResponse(400, errorFieldMessages.toString()));  
+    }  
+  
+    @ExceptionHandler(RuntimeException.class)  
+    public ResponseEntity<ErrorResponse> handleInternalException(RuntimeException e) {  
+       log.error(e.getClass() + " " + e.getMessage());  
+       return ResponseEntity.internalServerError().body(new ErrorResponse(500, "Internal Server Error"));  
+    }  
+}
+```
+
+이제 해당 코드를 이용해서 설계만 해주면 문제를 쉽게 해결할 수 있다.
 ## 질문 & 확장
 
 (없음)
