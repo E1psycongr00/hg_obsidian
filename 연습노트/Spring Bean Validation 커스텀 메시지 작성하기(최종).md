@@ -58,10 +58,10 @@ Positive.findItem.id=양수로 좀 넣어라 임마...
 만약 messages.properties가 아닌 다른 곳에 저장하고 이를 MessageSource에서 인식하게 만들려면 application.yml에서 설정해주자
 
 ```yml
-
+spring:  
+  messages:  
+    basename: messages,errors
 ```
-
-
 ### Code
 #### MessageSourceResolvable로 부터 메시지 추출하기
 우선 MessageSourceResolvable이냐 아니면 ConstraintViolation이냐에 따라서 다르게 처리해야 한다. 이것을 해결할 수 있는 객체를 하나 설계하려고 한다.
@@ -212,6 +212,40 @@ public class GlobalExceptionHandler {
 ```
 
 이제 해당 코드를 이용해서 설계만 해주면 문제를 쉽게 해결할 수 있다.
+
+
+### 결과 테스트 해보기
+
+code의 우선순위대로 테스트를 하는데 여러 코드가 생성되고 가장 앞에 있는 코드가 가장 긴 경로를 가지고 있어 긴 경로를 설정해주면 그 경로만 커스텀 메시지가 작성되고 그 다음부터는 점점 범용성이 증가한다. 맨 앞에 Length와 같은 어노테이션 이름으로 지정하면 모든 어노테이션에 커스텀 메시지가 적용된다.
+
+```java
+@Getter  
+@RequiredArgsConstructor  
+public class ItemRequest {  
+  
+    @Positive  
+    private final Long serialNumber;  
+  
+    @NotBlank  
+    @Length(max = 10)  
+    private final String name;  
+  
+}
+```
+
+
+이런 dto가 있고 
+```properties
+Length.itemRequest.name={0}는 {1} 보다 같거나 짧이야 합니다
+```
+
+이렇게 messageSource에 등록해보자
+
+그리고 컨트롤러 테스트 코드를 짜서 일부로 validation error를 발생시키면 다음과 같은 에러가 발생한다.
+
+**name는 10 보다 같거나 짧이야 합니다, 0보다 커야 합니다**
+
+
 ## 질문 & 확장
 
 (없음)
