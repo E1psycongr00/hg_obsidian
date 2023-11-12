@@ -60,6 +60,8 @@ public String getMessage(FieldError fieldError) {
 }
 ```
 
+코드를 간단히 설명하자면 단순히 MessageSourceResolvable 타입의 하위 타입인 FieldError를 활용해 메시지를 생성하는 것이다. MessageSourceResolvable 타입은 Code, Argument등의 정보가 포함되어 있기 때문에 MessageSource로 부터 code, argument를 활용해 message를 읽는 역할을 수행한다.
+
 
 ## 질문 & 확장
 
