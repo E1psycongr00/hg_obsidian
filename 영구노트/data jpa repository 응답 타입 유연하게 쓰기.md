@@ -60,4 +60,4 @@ public interface HelloRepository extends JpaRepository<Hello, UUID> {
 - https://dncjf64.tistory.com/358
 ## 연결 노트
 - [[data jpa Projection 인터페이스]]
-- [[다이나믹 프록시(동적 프록시)]]
+- [[JDK Proxy(동적 Proxy)]]
