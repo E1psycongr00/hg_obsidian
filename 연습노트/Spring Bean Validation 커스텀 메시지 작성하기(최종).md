@@ -38,6 +38,27 @@ Spring Bean Validation을 사용하면 유효성 검사 예외 발생시 범용�
 	3. Code가 없는 경우 DefaultMessage로 처리한다.
 
 
+![[Custom Message 해결 전략(draw)|700]]
+
+위의 그림대로 Validation Error가 발생했을 때 처리해야 한다. 그래서 나는 이러한 에러가 발생했을 때 이를 **ControllerAdvice**에서 처리하고자 한다.
+
+그리고 위 과정을 자동화해야한다.
+### Code
+
+우선 MessageSourceResolvable이냐 아니면 ConstraintViolation이냐에 따라서 다르게 처리해야 한다. 이것을 해결할 수 있는 객체를 하나 설계하려고 한다.
+
+```java
+public String getMessage(FieldError fieldError) {  
+    String errorMessage;  
+    try {  
+       errorMessage = messageSource.getMessage(fieldError, LocaleContextHolder.getLocale());  
+    } catch (NoSuchMessageException e) {  
+       log.debug("No such message code " + Arrays.toString(fieldError.getCodes()));  
+       errorMessage = fieldError.getField() + "는 " + fieldError.getDefaultMessage();  
+    }  
+    return errorMessage;  
+}
+```
 
 
 ## 질문 & 확장
