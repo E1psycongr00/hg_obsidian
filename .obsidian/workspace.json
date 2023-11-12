@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa33aaad043aede6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/프록시 패턴이란.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/프록시 패턴이란.md",
+                "file": "연습노트/다이나믹 프록시(동적 프록시).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/프록시 패턴이란.md",
+                "file": "연습노트/다이나믹 프록시(동적 프록시).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/프록시 패턴이란.md",
+                "file": "연습노트/다이나믹 프록시(동적 프록시).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/프록시 패턴이란.md"
+                "file": "연습노트/다이나믹 프록시(동적 프록시).md"
               }
             }
           }
@@ -244,10 +230,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fa33aaad043aede6",
+  "active": "acf5351f8253d6ac",
   "lastOpenFiles": [
-    "연습노트/다이나믹 프록시(동적 프록시).md",
     "연습노트/프록시 패턴이란.md",
+    "연습노트/다이나믹 프록시(동적 프록시).md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Project Jigsaw.md",
