@@ -23,7 +23,7 @@ Spring Bean Validation을 사용하면 유효성 검사 예외 발생시 범용�
 - ObjectError, FieldError, MessageSourceResolvable
 - ConstraintViolation가 무엇이고 어떤 것을 제공하는가
 - MessageSource 사용법
-- MessageCodesResolver
+- [[Spring bean validation과 MessageCodesResolver|MessageCodesResolver]]
 
 이 5가지는 정확하게 이해하고 있어야 한다.
 
