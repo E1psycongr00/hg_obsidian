@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "영구노트/이분 탐색.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "영구노트/이분 탐색.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "영구노트/이분 탐색.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "영구노트/이분 탐색.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+                "file": "영구노트/이분 탐색.md"
               }
             }
           }
@@ -232,8 +232,9 @@
   },
   "active": "c9658ac742bb932a",
   "lastOpenFiles": [
-    "영구노트/히오스 제라툴 딜계산.md",
+    "Resources/IT/알고리즘.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "영구노트/히오스 제라툴 딜계산.md",
     "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
@@ -251,7 +252,6 @@
     "영구노트/HttpServer.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
-    "Resources/IT/알고리즘.md",
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
