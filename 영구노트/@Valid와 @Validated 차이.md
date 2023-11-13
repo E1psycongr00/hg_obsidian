@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-12
 작성 시간: 13:21
 
-## 주제: #미완 #JAVA #Validation 
+## 주제: #완성  #JAVA #Validation 
 
 ----
 ## 원문
@@ -26,7 +26,11 @@ public class Person {
 
 ### @Validated
 
-Spring Bean Validation에서 추가된 어노테이션이다.
+Spring Bean Validation에서 추가된 어노테이션이다. 두 가지 기능을 제공한다.
+
+- @Valid는 그룹별 Validation이 불가능하지만 Spring Bean Validation은 가능하다.
+- 클래스에 @Validated를 붙이면 해당 컴포넌트(빈)은 유효성 검사를 진행하고 예외 발생시 ConstraintViolationException을 발생한다.
+
 
 
 ## 질문 & 확장
