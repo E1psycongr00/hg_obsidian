@@ -21,7 +21,7 @@ DataSourceInitializer 클래스는 db의 데이터를 초기화하고 삭제를 
 DatabasePopulator를 통해 해당 경로에 있는 .sql 파일을 가져오고 초기화를 진행한다.
 
 
-### application.yml에 경로 설정하기
+### application.yml 설정하기
 
 resource 하위 디렉토리가 아닌 다른 곳에 설정해주었다면 경로를 명시해주어야 한다.
 
@@ -35,14 +35,8 @@ spring:
     driver-class-name: org.h2.Driver  
     url: jdbc:h2:mem:testdb  
     username: sa  
-      
-    # 더미 데이터 설정  
-    schema: classpath:h2/schema.sql  
-    data: classpath:h2/data.sql  
-    initialization-mode: always
 ```
 
-이 경우는  h2 디레토리 하위에 schema.sql과 data.sql이 위치한 경우다.
 ## 질문 & 확장
 
 (없음)
