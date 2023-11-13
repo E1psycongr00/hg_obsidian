@@ -104,9 +104,38 @@ update문은 jdbcTemplate.update를 호출하며 역시 동적으로 사용가�
 ### insert 문
 
 ```java
-
+@Override  
+public boolean save(Member member) {  
+    int update = jdbcTemplate.update(  
+       MemberQuery.INSERT.getSql(),  
+       member.getName(),  
+       member.getAge()  
+    );  
+    return update == 1;  
+}
 ```
 
+jdbcTemplate.update 문으로 작성한다.
+
+insert문: INSERT INTO members (name, age) VALUES (?, ?)
+
+
+### delete 문
+
+```java
+@Override  
+public boolean delete(Long id) {  
+    int update = jdbcTemplate.update(  
+       MemberQuery.DELETE_BY_ID.getSql(),  
+       id  
+    );  
+    return update == 1;  
+}
+```
+
+역시 update 문으로 작성하낟.
+
+delete 문: DELETE FROM members WHERE id = ?
 ## 질문 & 확장
 
 (없음)
