@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-11
 작성 시간: 00:13
 
-## 주제: #완성  #솔루션 #JAVA #Validation 
+## 주제: #완성  #솔루션 #JAVA #Spring #Validation 
 
 ----
 
