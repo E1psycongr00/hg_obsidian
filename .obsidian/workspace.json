@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/이분 탐색.md",
+                "file": "연습노트/@Valid와 @Validated 차이.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/이분 탐색.md",
+                "file": "연습노트/@Valid와 @Validated 차이.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/이분 탐색.md",
+                "file": "연습노트/@Valid와 @Validated 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/이분 탐색.md",
+                "file": "연습노트/@Valid와 @Validated 차이.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/이분 탐색.md"
+                "file": "연습노트/@Valid와 @Validated 차이.md"
               }
             }
           }
@@ -232,6 +232,7 @@
   },
   "active": "c9658ac742bb932a",
   "lastOpenFiles": [
+    "영구노트/이분 탐색.md",
     "Resources/IT/알고리즘.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/히오스 제라툴 딜계산.md",
@@ -258,7 +259,6 @@
     "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
     "Excalidraw/Custom Message 해결 전략(draw).md",
     "영구노트/Spring bean validation 예외 분석.md",
-    "영구노트/Spring bean validation과 MessageCodesResolver.md",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",
     "attachments/Pasted image 20231106224335.png",
