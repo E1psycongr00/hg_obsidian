@@ -69,6 +69,44 @@ public Optional<Member> findById(Long id) {
 MemberQuery.FIND_BY_ID 는 "SELECT * FROM members WHERE id = ?" 형태의 동적 쿼리이다.
 동적 쿼리를 입력하는 경우 new Object[] {...args}를 인자로 넣어주면 된다. 
 
+#### 여러 객체(query)
+```java
+@Override  
+public List<Member> findAllByAge(int age) {  
+    return jdbcTemplate.query(  
+       MemberQuery.FIND_ALL_BY_AGE.getSql(),  
+       new Object[] {age},  
+       ITEM_MAPPER  
+    );  
+}
+```
+
+여러 객체를 호출하는 경우에는 따로 예외 처리할 필요가 없다. 빈 리스트가 반환되기 때문이다.
+
+### update 문
+
+```java
+@Override  
+public boolean update(Member member) {  
+    int update = jdbcTemplate.update(  
+       MemberQuery.UPDATE.getSql(),  
+       member.getName(),  
+       member.getAge()  
+    );  
+    return update == 1;  
+}
+```
+
+update문은 jdbcTemplate.update를 호출하며 역시 동적으로 사용가능하다. argument를 넣어주면 된다.
+
+위 코드의 update 쿼리는 UPDATE members SET name = ?, age = ? WHERE id = ? 이다.
+
+### insert 문
+
+```java
+
+```
+
 ## 질문 & 확장
 
 (없음)
