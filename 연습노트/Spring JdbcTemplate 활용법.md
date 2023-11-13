@@ -42,8 +42,32 @@ public class MemberMapper implements RowMapper<Member>  {
 
 ### select 문
 
-JdbcTemplate의 query 메서드를 활용한다. 
+JdbcTemplate의 **query** 메서드를 활용한다.  여러 객체를 반환할 때는 query를 사용하고, 단일 객체를 반환하고 싶다면 **queryForObject** 메서드를 활용한다.
 
+#### 단일 객체 (queryForObject)
+```java
+@Override  
+public Optional<Member> findById(Long id) {  
+    Member member;  
+  
+    try {  
+       member = jdbcTemplate.queryForObject(  
+          MemberQuery.FIND_BY_ID.getSql(),  
+          new Object[] {id},  
+          ITEM_MAPPER);  
+    } catch (DataAccessException e) {  
+       member = null;  
+    }  
+  
+    return Optional.ofNullable(member);  
+}
+```
+
+>[!info] try ... catch를 한 이유
+>만약 데이터를 찾지 못한 경우 **EmptyResultDataAccessException이** 발생한다.  예외를 null로 처리하고 Optional로 묶기 위해서 처리해주었다.
+
+MemberQuery.FIND_BY_ID 는 "SELECT * FROM members WHERE id = ?" 형태의 동적 쿼리이다.
+동적 쿼리를 입력하는 경우 new Object[] {...args}를 인자로 넣어주면 된다. 
 
 ## 질문 & 확장
 
