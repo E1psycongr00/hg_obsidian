@@ -18,6 +18,8 @@ Schema.sql -> data.sql
 ### 실행 원리
 
 DataSourceInitializer 클래스는 db의 데이터를 초기화하고 삭제를 담당하는 클래스이다.
+DatabasePopulator를 통해 해당 경로에 있는 .sql 파일을 가져오고 초기화를 진행한다.
+
 
 ## 질문 & 확장
 
@@ -25,6 +27,7 @@ DataSourceInitializer 클래스는 db의 데이터를 초기화하고 삭제를 
 
 ## 출처(링크)
 - https://engineerinsight.tistory.com/77
+- https://woodadada16.tistory.com/30
 
 ## 연결 노트
 
