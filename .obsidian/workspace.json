@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring JDBC 소개.md",
+                "file": "연습노트/Spring JdbcTemplate 활용법.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring JDBC 소개.md",
+                "file": "연습노트/Spring JdbcTemplate 활용법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring JDBC 소개.md",
+                "file": "연습노트/Spring JdbcTemplate 활용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring JDBC 소개.md",
+                "file": "연습노트/Spring JdbcTemplate 활용법.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring JDBC 소개.md"
+                "file": "연습노트/Spring JdbcTemplate 활용법.md"
               }
             }
           }
@@ -233,7 +233,7 @@
   "active": "2a4be96b9bceadc9",
   "lastOpenFiles": [
     "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
-    "연습노트/Spring JDBC 소개.md",
+    "연습노트/Spring JdbcTemplate 활용법.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/spring jpa를 사용하는 이유.md",
