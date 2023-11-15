@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDBC와 1대 N 조인.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDBC와 1대 N 조인.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDBC와 1대 N 조인.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "JDBC와 1대 N 조인.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDBC와 1대 N 조인.md"
+                "file": "연습노트/JDBC와 1대 N 조인.md"
               }
             }
           }
@@ -247,7 +247,7 @@
   "active": "f7c12fe30c6b4546",
   "lastOpenFiles": [
     "Resources/IT/java/Spring JDBC.md",
-    "JDBC와 1대 N 조인.md",
+    "연습노트/JDBC와 1대 N 조인.md",
     "영구노트/JDBC와 JOIN.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
