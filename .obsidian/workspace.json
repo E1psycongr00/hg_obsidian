@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7c12fe30c6b4546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDBC와 1대 N 조인.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/java/Spring JDBC.md",
+                "file": "JDBC와 1대 N 조인.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/java/Spring JDBC.md",
+                "file": "JDBC와 1대 N 조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/java/Spring JDBC.md",
+                "file": "JDBC와 1대 N 조인.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/java/Spring JDBC.md"
+                "file": "JDBC와 1대 N 조인.md"
               }
             }
           }
@@ -230,9 +244,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d4a59b620de4ac26",
+  "active": "f7c12fe30c6b4546",
   "lastOpenFiles": [
     "Resources/IT/java/Spring JDBC.md",
+    "JDBC와 1대 N 조인.md",
+    "영구노트/JDBC와 JOIN.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/spring jpa를 사용하는 이유.md",
@@ -240,7 +256,6 @@
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "영구노트/JDBC와 JOIN.md",
     "영구노트/Spring JdbcTemplate 활용법.md",
     "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
     "연습노트/구간합 문제 모음.md",
@@ -257,7 +272,6 @@
     "영구노트/Spring Bean Validation 소개.md",
     "영구노트/이분 탐색.md",
     "Resources/IT/알고리즘.md",
-    "영구노트/히오스 제라툴 딜계산.md",
     "attachments/Pasted image 20231112135207.png",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",
