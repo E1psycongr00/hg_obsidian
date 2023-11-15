@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44715876c8cf6c1b",
+        "id": "d8b552a9a640ca77",
         "type": "tabs",
         "children": [
           {
-            "id": "d4a59b620de4ac26",
+            "id": "b455147c101070f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7c12fe30c6b4546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
-                "mode": "source",
+                "file": "연습노트/configure & DeserializationFeature 구성.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -84,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
+                "file": "연습노트/configure & DeserializationFeature 구성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
+                "file": "연습노트/configure & DeserializationFeature 구성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
+                "file": "연습노트/configure & DeserializationFeature 구성.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md"
+                "file": "연습노트/configure & DeserializationFeature 구성.md"
               }
             }
           }
@@ -236,19 +222,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d4a59b620de4ac26",
+  "active": "b455147c101070f4",
   "lastOpenFiles": [
-    "Resources/IT/java/Spring JDBC.md",
-    "영구노트/Spring JdbcTemplate 활용법.md",
-    "영구노트/ResultSetExtractor와 RowMapper 차이.md",
-    "Excalidraw/RowMapper(draw).md",
-    "연습노트/JDBC와 1대 N 조인.md",
-    "영구노트/JDBC와 JOIN.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/spring jpa를 사용하는 이유.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "영구노트/ResultSetExtractor와 RowMapper 차이.md",
+    "영구노트/JDBC와 1대 N 조인.md",
+    "Resources/IT/java/Spring JDBC.md",
+    "영구노트/Spring JdbcTemplate 활용법.md",
+    "Excalidraw/RowMapper(draw).md",
+    "영구노트/JDBC와 JOIN.md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
