@@ -33,7 +33,9 @@ public class Member {
 1. 여러 데이터와 List\<Items> 을 업데이트하기 위해서 HashMap을 활용한다. 
 	- key는 ID, value는 Member 객체를 활용한다. 
 2. ID를 통해 Member 객체를 찾아나가고, items 데이터를 업데이트한다.
-3. HashMap을 List 형태로 펼쳐서 바
+3. HashMap을 List 형태로 펼쳐서 반환한다.
+
+
 
 
 
