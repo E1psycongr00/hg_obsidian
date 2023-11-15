@@ -20,6 +20,7 @@ Jdbc를 활용해 1:N join을 해야하는 경우를 살펴보자
 
 ## 연결 노트
 
+- [[ResultSetExtractor와 RowMapper 차이]]
 
 
 

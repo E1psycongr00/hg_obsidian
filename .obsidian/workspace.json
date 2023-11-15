@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
+                "file": "연습노트/JDBC와 1대 N 조인.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md"
+                "file": "연습노트/JDBC와 1대 N 조인.md"
               }
             }
           }
@@ -239,6 +239,7 @@
   "active": "d4a59b620de4ac26",
   "lastOpenFiles": [
     "Resources/IT/java/Spring JDBC.md",
+    "영구노트/Spring JdbcTemplate 활용법.md",
     "영구노트/ResultSetExtractor와 RowMapper 차이.md",
     "Excalidraw/RowMapper(draw).md",
     "연습노트/JDBC와 1대 N 조인.md",
@@ -250,7 +251,6 @@
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "영구노트/Spring JdbcTemplate 활용법.md",
     "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
     "연습노트/구간합 문제 모음.md",
     "Resources/IT/Gradle 공부.md",
