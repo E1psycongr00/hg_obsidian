@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/java/Spring JDBC.md",
+                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
+                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
+                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
+                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md",
+                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,7 +153,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224439,
+                  "scale": 0.7132754626224446,
                   "close": true
                 }
               }
@@ -187,14 +187,6 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "dc6880679151ee5c",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -217,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JDBC와 1대 N 조인.md"
+                "file": "영구노트/ResultSetExtractor와 RowMapper 차이.md"
               }
             }
           }
@@ -244,9 +236,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "f7c12fe30c6b4546",
+  "active": "d4a59b620de4ac26",
   "lastOpenFiles": [
     "Resources/IT/java/Spring JDBC.md",
+    "영구노트/ResultSetExtractor와 RowMapper 차이.md",
+    "Excalidraw/RowMapper(draw).md",
     "연습노트/JDBC와 1대 N 조인.md",
     "영구노트/JDBC와 JOIN.md",
     "연습노트/Why Kotlin.md",
@@ -270,8 +264,6 @@
     "영구노트/@Valid와 @Validated 차이.md",
     "영구노트/Spring bean validation 예외 분석.md",
     "영구노트/Spring Bean Validation 소개.md",
-    "영구노트/이분 탐색.md",
-    "Resources/IT/알고리즘.md",
     "attachments/Pasted image 20231112135207.png",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",
