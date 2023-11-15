@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28835163d70e7e80",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d4a59b620de4ac26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/JDBC와 JOIN.md",
+                "file": "Resources/IT/java/Spring JDBC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JDBC와 JOIN.md",
+                "file": "Resources/IT/java/Spring JDBC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JDBC와 JOIN.md",
+                "file": "Resources/IT/java/Spring JDBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/JDBC와 JOIN.md",
+                "file": "Resources/IT/java/Spring JDBC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JDBC와 JOIN.md"
+                "file": "Resources/IT/java/Spring JDBC.md"
               }
             }
           }
@@ -241,16 +232,17 @@
   },
   "active": "d4a59b620de4ac26",
   "lastOpenFiles": [
-    "연습노트/JDBC와 JOIN.md",
-    "영구노트/Spring JdbcTemplate 활용법.md",
     "Resources/IT/java/Spring JDBC.md",
-    "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
-    "연습노트/Project Jigsaw.md",
+    "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/spring jpa를 사용하는 이유.md",
+    "연습노트/Project Jigsaw.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
+    "영구노트/JDBC와 JOIN.md",
+    "영구노트/Spring JdbcTemplate 활용법.md",
+    "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
     "연습노트/구간합 문제 모음.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
@@ -266,7 +258,6 @@
     "영구노트/이분 탐색.md",
     "Resources/IT/알고리즘.md",
     "영구노트/히오스 제라툴 딜계산.md",
-    "영구노트/JDK Proxy(동적 Proxy).md",
     "attachments/Pasted image 20231112135207.png",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",

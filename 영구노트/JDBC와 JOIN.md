@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-15
 작성 시간: 15:10
 
-## 주제: #미완 #JAVA #SQL 
+## 주제: #완성 #JAVA #JAVA #SQL 
 
 ----
 ## 원문
@@ -27,10 +27,34 @@ public class Item {
 
 ### SQL 코드 짜기
 ```sql
-
+SELECT i.id as id,
+	i.name as name,
+	i.price as price,
+	m.id as member_id,
+	m.name as member_name,
+	m.age as member_age
+FROM items i
+LEFT JOIN members as m on m.id = i.member_id
 ```
 
-
+```java
+public class ItemMapper implements RowMapper<Item> {  
+    @Override  
+    public Item mapRow(ResultSet rs, int rowNum) throws SQLException {  
+       Member member = new Member(  
+          rs.getLong("member_id"),  
+          rs.getString("member_name"),  
+          rs.getInt("member_age")  
+       );  
+       return new Item(  
+          rs.getLong("id"),  
+          rs.getString("name"),  
+          rs.getInt("price"),  
+          member  
+       );  
+    }  
+}
+```
 
 >[!warning] SQL 작성시 주의해야 할 점
 >SQL 작성시 column 네임을 명확히 해야 ResultSet으로 부터 가져오는데 오류를 줄일 수 있다. Join의 경우에는 가져올때 name이 column name이랑 똑같이 가져오는 경우가 생길 수 있기 때문이다. 그래서 as로 column name을 반드시 명시해주자
