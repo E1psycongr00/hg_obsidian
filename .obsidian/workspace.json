@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8b552a9a640ca77",
+        "id": "a7356297b2733eb1",
         "type": "tabs",
         "children": [
           {
-            "id": "b455147c101070f4",
+            "id": "a4770272721a9708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mockM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md"
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
               }
             }
           }
@@ -221,23 +222,24 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b455147c101070f4",
+  "active": "a4770272721a9708",
   "lastOpenFiles": [
-    "연습노트/configure & DeserializationFeature 구성.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/spring jpa를 사용하는 이유.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/spring jpa를 사용하는 이유.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/configure & DeserializationFeature 구성.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
+    "연습노트/구간합 문제 모음.md",
+    "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
     "영구노트/ResultSetExtractor와 RowMapper 차이.md",
     "영구노트/JDBC와 1대 N 조인.md",
     "Resources/IT/java/Spring JDBC.md",
     "영구노트/Spring JdbcTemplate 활용법.md",
     "Excalidraw/RowMapper(draw).md",
     "영구노트/JDBC와 JOIN.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
-    "연습노트/구간합 문제 모음.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
     "Resources/IT/java/java 배열 사용법.md",
@@ -248,7 +250,6 @@
     "영구노트/Spring bean validation과 MessageCodesResolver.md",
     "영구노트/@Valid와 @Validated 차이.md",
     "영구노트/Spring bean validation 예외 분석.md",
-    "영구노트/Spring Bean Validation 소개.md",
     "attachments/Pasted image 20231112135207.png",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",
