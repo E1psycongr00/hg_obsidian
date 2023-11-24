@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb9ee3bd01f3612",
+        "id": "feec9ef9be4fe4a1",
         "type": "tabs",
         "children": [
           {
-            "id": "57f4bb8d0b57872a",
+            "id": "30d214f0e626940e",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -212,7 +212,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "57f4bb8d0b57872a",
+  "active": "30d214f0e626940e",
   "lastOpenFiles": [
     "연습노트/구간합 문제 모음.md",
     "영구노트/Obsidian 콜아웃 종류.md",
