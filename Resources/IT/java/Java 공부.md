@@ -35,7 +35,7 @@
 - [[Java List 유틸 메서드 by Collections]]
 ### 테스트 관련
 - [[클래스의 테스트 커버리지가 채워지지 않는 경우 해결법]]
-
+- [[Lombok 테스트 파일에서도 가능하도록 설정하기]]
 
 ### 프레임 워크 or Library
 - [[java.nio.file.Files 사용하기]]
@@ -46,6 +46,7 @@
 - [[MapStruct 사용하기 (by java17 & Kotlin DSL)]]
 -  [[기초적인 Rest API 서버 설계하기]]
 -  [[Spring Bean Validation 총정리]]
+- [[Spring Converter]]
 
 ### 자바 에러 모음
 - [[표준 Java Error]]

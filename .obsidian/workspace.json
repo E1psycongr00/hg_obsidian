@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "feec9ef9be4fe4a1",
+        "id": "369092e34a3b2875",
         "type": "tabs",
         "children": [
           {
-            "id": "54047ab7acf61f0d",
+            "id": "1baf648d5bd81c71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Spring Converter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "207461276dffa45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Spring Converter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring Converter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring Converter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring Converter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/Spring Converter.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -236,11 +212,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "207461276dffa45f",
+  "active": "1baf648d5bd81c71",
   "lastOpenFiles": [
+    "Resources/IT/java/Java 공부.md",
+    "영구노트/Lombok 테스트 파일에서도 가능하도록 설정하기.md",
+    "영구노트/Spring Converter.md",
+    "Resources/IT/java/표준 Java Error.md",
     "영구노트/Spring ConverterFactory.md",
     "영구노트/범용 EnumConverter 만들기.md",
-    "연습노트/Spring Converter.md",
     "연습노트/구간합 문제 모음.md",
     "영구노트/Obsidian 콜아웃 종류.md",
     "영구노트/승자가 되기 위해서는... by donald trump.md",
@@ -264,9 +243,6 @@
     "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
     "영구노트/Spring bean validation과 MessageCodesResolver.md",
     "영구노트/Spring bean validation 예외 분석.md",
-    "영구노트/MethodArgumentNotValidException이란.md",
-    "Excalidraw/MessageCodesResolver code 우선순위(draw).md",
-    "Excalidraw/Custom Message 해결 전략(draw).md",
     "attachments/Pasted image 20231112135207.png",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",
