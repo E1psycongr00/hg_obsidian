@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a7356297b2733eb1",
+        "id": "fcb9ee3bd01f3612",
         "type": "tabs",
         "children": [
           {
-            "id": "a4770272721a9708",
+            "id": "57f4bb8d0b57872a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/알고리즘.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff7c65144b7cf3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/미로 탈출 명령어.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MessageCOdesResolver",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/미로 탈출 명령어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/미로 탈출 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/미로 탈출 명령어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/미로 탈출 명령어.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -236,10 +212,26 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3ff7c65144b7cf3f",
+  "active": "57f4bb8d0b57872a",
   "lastOpenFiles": [
+    "연습노트/구간합 문제 모음.md",
+    "영구노트/Obsidian 콜아웃 종류.md",
+    "영구노트/승자가 되기 위해서는... by donald trump.md",
+    "Resources/명언/명언 모음.md",
+    "영구노트/공부가 아니라 배움이다  by 타일러.md",
+    "연습노트/spring jpa를 사용하는 이유.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Why Kotlin.md",
+    "Resources/Obsidian/Obsidian 관련 내용.md",
+    "attachments/Pasted image 20231124125154.png",
+    "attachments/Pasted image 20231124125136.png",
+    "attachments/Pasted image 20231124125121.png",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/configure & DeserializationFeature 구성.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
+    "영구노트/미로 탈출 명령어.md",
     "Resources/IT/알고리즘.md",
-    "연습노트/미로 탈출 명령어.md",
     "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
     "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
@@ -248,22 +240,9 @@
     "영구노트/MethodArgumentNotValidException이란.md",
     "Excalidraw/MessageCodesResolver code 우선순위(draw).md",
     "Excalidraw/Custom Message 해결 전략(draw).md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Why Kotlin.md",
-    "연습노트/spring jpa를 사용하는 이유.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/configure & DeserializationFeature 구성.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/구간합 문제 모음.md",
     "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
     "영구노트/ResultSetExtractor와 RowMapper 차이.md",
     "영구노트/JDBC와 1대 N 조인.md",
-    "Resources/IT/java/Spring JDBC.md",
-    "영구노트/Spring JdbcTemplate 활용법.md",
-    "Excalidraw/RowMapper(draw).md",
-    "영구노트/JDBC와 JOIN.md",
-    "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
     "attachments/Pasted image 20231112135207.png",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",
@@ -275,9 +254,6 @@
     "attachments/Pasted image 20231101154753.png",
     "attachments/Pasted image 20231101153033.png",
     "attachments/Pasted image 20231030204435.png",
-    "attachments/Pasted image 20231030204409.png",
-    "attachments/Pasted Image 20231030115120_929.png",
-    "attachments/Pasted Image 20231030115105_920.png",
     "Resources/명언",
     "Resources/IT/java",
     "Resources/IT/Gradle",
