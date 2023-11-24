@@ -41,6 +41,32 @@ public interface Converter<S, T> {
 
 함수형 인터페이스로  andThen을 통해 여러 컨버터를 연결해서 사용 가능하다. FunctionalInterface이기 때문에 람다로 간단하게 작성하는 것도 가능하다.
 
+### MVC ConversionService에 등록하기
+
+#### Bean으로 등록하기
+
+구현한 class에 @Component를 붙여주면 된다.
+
+#### WebConfigurer에 등록하기
+
+```java
+@Configuration  
+public class AppConfig implements WebMvcConfigurer {  
+  
+    @Override  
+    public void addFormatters(FormatterRegistry registry) {  
+       registry.addConverter(new MoneyConverter());  
+    }  
+}
+```
+
+
+### 테스트 코드 작성하기
+
+Converter는 ConversionService가 보관할 수 있다고 했다. 테스트 시에는 DefaultConversionService를 활용해서 여러 컨버터들을 등록학고 꺼내서 테스트할 수 있다.
+
+
+
 ## 질문 & 확장
 
 (없음)
