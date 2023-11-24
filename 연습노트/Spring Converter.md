@@ -63,8 +63,28 @@ public class AppConfig implements WebMvcConfigurer {
 
 ### 테스트 코드 작성하기
 
-Converter는 ConversionService가 보관할 수 있다고 했다. 테스트 시에는 DefaultConversionService를 활용해서 여러 컨버터들을 등록학고 꺼내서 테스트할 수 있다.
+Converter는 ConversionService가 보관할 수 있다고 했다. 테스트 시에는 **DefaultFormattingConversionService** 활용해서 여러 컨버터들을 등록하고 꺼내서 테스트할 수 있다.
 
+
+```java
+class FormatterConverterTest {  
+  
+    private static final DefaultFormattingConversionService conversionService = new DefaultFormattingConversionService();  
+  
+    @BeforeAll  
+    public static void setUp() {  
+       conversionService.addConverterFactory(new StringToEnumConverterFactory());  
+    }  
+  
+    @Test  
+    void test() {  
+       Money money = conversionService.convert("1,000,000", Money.class);  
+       assertThat(money).isInstanceOf(Money.class)  
+          .hasFieldOrPropertyWithValue("value", 1_000_000);  
+    }  
+  
+}
+```
 
 
 ## 질문 & 확장
