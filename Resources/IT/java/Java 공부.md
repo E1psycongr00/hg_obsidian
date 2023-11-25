@@ -47,6 +47,7 @@
 -  [[기초적인 Rest API 서버 설계하기]]
 -  [[Spring Bean Validation 총정리]]
 - [[Spring Converter]]
+- [[Spring Formatter]]
 
 ### 자바 에러 모음
 - [[표준 Java Error]]
