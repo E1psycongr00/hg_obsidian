@@ -68,9 +68,8 @@ class FormatterConverterTest {
   
     @Test  
     void test() {  
-       Money money = conversionService.convert("1,000,000", Money.class);  
-       assertThat(money).isInstanceOf(Money.class)  
-          .hasFieldOrPropertyWithValue("value", 1_000_000);  
+       String convert = conversionService.convert(new Money(1_000_000), String.class);  
+assertThat(convert).isEqualTo("1,000,000 원입니당!!!");
     }  
   
 ```
