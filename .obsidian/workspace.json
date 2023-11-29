@@ -19,13 +19,8 @@
             "id": "d5fcfd749275d58a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Project Jigsaw.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
         ],
@@ -96,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Project Jigsaw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Project Jigsaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +118,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Project Jigsaw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/Project Jigsaw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -233,9 +223,9 @@
   },
   "active": "d5fcfd749275d58a",
   "lastOpenFiles": [
+    "연습노트/Project Jigsaw.md",
     "연습노트/Spring Formatter.md",
     "연습노트/구간합 문제 모음.md",
-    "연습노트/Project Jigsaw.md",
     "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
     "Resources/IT/java/Java 공부.md",
     "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md",
