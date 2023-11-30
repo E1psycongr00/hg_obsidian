@@ -2,7 +2,7 @@
 작성 날짜: 2023-11-30
 작성 시간: 16:12
 
-## 주제: #미완
+## 주제: #완성 #객체지향  
 
 ----
 ## 원문
@@ -30,19 +30,29 @@ plusMinutes, plusHours, plusSeconds를 활용해서 시, 분, 초를 바꿀 수 
 String log = "00:12:24";
 LocalTime time = LocalTime.parse(log);
 
-// LocalTime -> seconds
+// LocalTime -> (int) seconds
 int seconds = time.toSecondOfDay();
 
-// seconds -> LocalTime
+// (int) seconds -> LocalTime
 LocalTime nowTime = LocalTime.ofSecondOfDay(seconds);
 ```
 
+
+### Duration
+
+Duration 객체를 활용하면 두 시간의 간격을 측정할 수 있고, 이를 second로 변환 가능하다.  이를 통해서 LocalTime 객체와 Duration을 활용해 시간 간격과 시간 데이터 변환을 쉽게 활용 가능하다.
+
+```java
+Duration duration = Duration.between(time, time.plusMinutes(10));  
+long seconds = duration.getSeconds();  
+LocalTime ofDay = LocalTime.ofSecondOfDay(seconds);  
+```
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
+- javadocs
 
 ## 연결 노트
 
