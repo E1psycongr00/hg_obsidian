@@ -9,6 +9,8 @@
 
 ### LocalTime
 
+#### 기본 사용법
+
 LocalTime을 이용해서 시간 형태로 이루어진 문자열을 시계열 데이터로 파싱 가능하다.
 
 ```java
@@ -20,7 +22,20 @@ System.out.println(time.getMinute());
 System.out.println(time.getSecond());
 ```
 
-plusMinutes, plusHours, plusSeconds를 활용해서 
+plusMinutes, plusHours, plusSeconds를 활용해서 시, 분, 초를 바꿀 수 있다.
+
+#### 초 단위로 변환 및 초를 시간 데이터로 파싱하기
+
+```java
+String log = "00:12:24";
+LocalTime time = LocalTime.parse(log);
+
+// LocalTime -> seconds
+int seconds = time.toSecondOfDay();
+
+// seconds -> LocalTime
+LocalTime nowTime = LocalTime.ofSecondOfDay(seconds);
+```
 
 ## 질문 & 확장
 
