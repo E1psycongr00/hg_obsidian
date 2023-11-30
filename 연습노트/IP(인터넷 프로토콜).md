@@ -36,6 +36,16 @@ IP에는 Ipv4와 Ipv6방식이 있다.
 - 8개의 4자리 16진수로 이루어져 있고, 각 16진수는 (:) 콜론으로 구분한다.
 	-  ex) 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
+### Static IP vs Dynamic IP
+
+#### Static IP
+
+고정 IP란 변하지 않고 고정적으로 부여된 IP이다. 
+
+#### Dynamic IP
+
+단어 의미 그대로 변하는 IP주소이다. 인터넷 사용자 모두에게 고정 IP를 부여하기 힘들기 때문에 일정한 주기 또는 접속할 떄 마다 사용하지 않는 IP 주소를 발급해주는 방식이다. 대부분의 경우 Dynamic IP를 사용한다.
+
 
 
 ## 질문 & 확장
@@ -45,6 +55,7 @@ IP에는 Ipv4와 Ipv6방식이 있다.
 ## 출처(링크)
 - https://namu.wiki/w/IP
 - https://m.blog.naver.com/wjw1225/223099790901?isInf=true
+- https://study-recording.tistory.com/7
 ## 연결 노트
 
 
