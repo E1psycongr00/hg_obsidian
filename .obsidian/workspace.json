@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "369092e34a3b2875",
+        "id": "0b207c5b22c38bff",
         "type": "tabs",
         "children": [
           {
-            "id": "d3ae06b4b3aaee6f",
+            "id": "6ef6d4d12e7bf808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +131,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224446,
+                  "scale": 0.5087618855792607,
                   "close": true
                 }
               }
@@ -194,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -222,9 +212,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d3ae06b4b3aaee6f",
+  "active": "6ef6d4d12e7bf808",
   "lastOpenFiles": [
+    "Resources/Obsidian/제텔카스텐.md",
     "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "Resources/IT/Github.md",
+    "Resources/IT/알고리즘.md",
+    "Resources/IT/Gradle 공부.md",
     "영구노트/Java 시간 관련 라이브러리 다루기.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/spring jpa를 사용하는 이유.md",
@@ -232,7 +227,6 @@
     "연습노트/configure & DeserializationFeature 구성.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "영구노트/구간합 문제 모음.md",
-    "Resources/IT/알고리즘.md",
     "영구노트/Spring Formatter.md",
     "영구노트/광고 삽입.md",
     "영구노트/1D array constant time query update.md",
@@ -246,10 +240,6 @@
     "영구노트/Spring ConverterFactory.md",
     "영구노트/범용 EnumConverter 만들기.md",
     "영구노트/Obsidian 콜아웃 종류.md",
-    "영구노트/승자가 되기 위해서는... by donald trump.md",
-    "Resources/명언/명언 모음.md",
-    "영구노트/공부가 아니라 배움이다  by 타일러.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "attachments/Pasted image 20231124125154.png",
     "attachments/Pasted image 20231124125136.png",
     "attachments/Pasted image 20231124125121.png",
