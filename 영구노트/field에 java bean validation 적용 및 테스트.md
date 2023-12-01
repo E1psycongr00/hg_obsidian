@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #Validation 
 
 ----
-## 원문
+## 내용(Content)
 
 클래스 필드에 Validation 어노테이션을 적용해서 유효성 검사를 진행할 수 있다.
 

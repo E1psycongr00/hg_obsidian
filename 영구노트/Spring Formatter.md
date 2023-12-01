@@ -4,7 +4,7 @@
 ## 주제: #완성  #Spring #databinding 
 
 ----
-## 원문
+## 내용(Content)
 
 ### 사용 용도
 

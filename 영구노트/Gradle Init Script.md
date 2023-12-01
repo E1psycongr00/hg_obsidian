@@ -4,7 +4,7 @@
 ## 주제: #완성  #Gradle 
 
 ----
-## 원문
+## 내용(Content)
 
 Initialization Script는 Gradle의 다른 스크립트와 유사하지만 다른 특징이 있다. 바로 Gradle의 build가 실행되기 전에 Script를 실행한다는 점이다. 그래서 Initialization Script를 작성시 알아야 할 특징 및 목적에 대해서 알아보자
 

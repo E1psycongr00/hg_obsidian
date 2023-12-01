@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #Spring #Validation 
 
 ----
-## 원문
+## 내용(Content)
 
 Spring Bean Validation는 Java Bean Validation을 기반으로 동작한다.  Spring Bean Validation은 말 그대로 Bean Component와 Java Bean Validation을 서로 연결하고 관련된 몇가지 편의성을 제공한다
 

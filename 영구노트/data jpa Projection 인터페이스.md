@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #JPA
 
 ----
-## 원문
+## 내용(Content)
 
 ### Projection이란
 

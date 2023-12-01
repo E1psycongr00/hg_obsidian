@@ -6,7 +6,7 @@
 ## 주제: #완성  #IT #JAVA
 
 ----
-## 원문
+## 내용(Content)
 ```java
 String x = "MON";  
 switch (x) {  

@@ -5,7 +5,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 ### 무료 오픈 소스 JDK
 - AdoptOpenJDK
 - Amazon Corretto

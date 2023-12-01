@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 
 **java.io.File은 String 타입의 path와 File 인스턴스를 생성**해서 동작한다. 이를 이용해서 Diretory와 File 생성이 가능하다.
 

@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #Validation 
 
 ----
-## 원문
+## 내용(Content)
 
 ### getter에 적용하기
 

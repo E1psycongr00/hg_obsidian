@@ -4,7 +4,7 @@
 ## 주제: #완성 #IT #JAVA #GC 
 
 ----
-## 원문
+## 내용(Content)
 Minor GC는 Young 영역에서 일어난 GC, Major GC는 Old 영역에서 일어나는 GC이다. 2개의 GC가 어떻게 다른지 살펴보자
 
 ### Minor GC 동작 과정

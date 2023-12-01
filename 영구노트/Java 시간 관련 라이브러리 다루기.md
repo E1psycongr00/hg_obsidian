@@ -5,7 +5,7 @@
 ## 주제: #완성 #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 
 ### LocalTime
 

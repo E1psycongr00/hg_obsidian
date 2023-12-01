@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 
 ### HttpServer란
 **com.sun.net.httpserver** 패키지에서 제공하는 클래스이다. 자세한 설명은 javadocs에 다음과 같이 적혀있다.

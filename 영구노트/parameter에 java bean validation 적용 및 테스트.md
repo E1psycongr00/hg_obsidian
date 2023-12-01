@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #Validation 
 
 ----
-## 원문
+## 내용(Content)
 
 ### 파라미터에 Validation 적용하기
 

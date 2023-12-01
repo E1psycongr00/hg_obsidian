@@ -5,7 +5,7 @@
 ## 주제: #완성  #IT #Gradle #Kotlin
 
 ----
-## 원문
+## 내용(Content)
 
 ### IDE를 통해 정적 분석 가능
 

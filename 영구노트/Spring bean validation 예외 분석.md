@@ -4,7 +4,7 @@
 ## 주제: #완성 #JAVA #Spring #Validation 
 
 ----
-## 원문
+## 내용(Content)
 
 ### @RequestBody에서 Validation 에러가 발생한 경우
 

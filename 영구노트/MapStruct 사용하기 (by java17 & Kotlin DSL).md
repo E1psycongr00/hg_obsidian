@@ -5,7 +5,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 
 MapStruct 1.5.5 Final을 기준으로 사용 방법을 알아보자
 

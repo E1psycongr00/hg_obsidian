@@ -4,7 +4,7 @@
 ## 주제: #완성 #Gradle
 
 ----
-## 원문
+## 내용(Content)
 
 Table 1. Java Compatibility
 

@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 Runetime Constant Pool 과 Constant Pool이 헷갈리기 쉬워서 정리했다.
 
 ### Constant Pool

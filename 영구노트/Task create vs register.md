@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #Gradle 
 
 ----
-## 원문
+## 내용(Content)
 
 ### Create와 Register
 

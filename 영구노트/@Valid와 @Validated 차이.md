@@ -4,7 +4,7 @@
 ## 주제: #완성  #JAVA #Spring #Validation 
 
 ----
-## 내용
+## 내용(Content)
 ### @Valid
 valid는 객체의 내부에 정의된 어노테이션의 유효성을 검증할 떄 사용한다.
 
@@ -21,7 +21,7 @@ public class Person {
 }
 ```
 
-어디선가는 이 Person을 사용하고 이 객체 안의 내용을 검증하고 싶을 것이다. 이럴 떄 @Valid를 사용한다.
+다른 곳에서는 위에서 정의해둔 Person을 사용하고 이 객체 안의 내용을 검증하고 싶을 것이다. 이럴 떄 @Valid를 사용한다.
 
 
 ### @Validated

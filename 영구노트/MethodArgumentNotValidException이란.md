@@ -4,7 +4,7 @@
 ## 주제: #완성 #JAVA
 
 ----
-## 원문
+## 내용(Content)
 
 > Exception to be thrown when validation on an argument annotated with @Valid fails. Extends BindException as of 5.3.
 

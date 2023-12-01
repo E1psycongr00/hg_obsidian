@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #GC
 
 ----
-## 원문
+## 내용(Content)
 
 ### Garbage Collection이란
 

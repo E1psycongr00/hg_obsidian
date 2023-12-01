@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #Gradle
 
 ----
-## 원문
+## 내용(Content)
 
 Gradle과 intellij를 활용하면 MultiModule를 쉽게 설계 할 수 있다. 실제 실습을 통해 멀티 모듈 적용 방법 알아보자
 

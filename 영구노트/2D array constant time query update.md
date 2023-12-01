@@ -4,7 +4,7 @@
 ## 주제: #완성  #알고리즘 #PrefixSum 
 
 ----
-## 원문
+## 내용(Content)
 
 1차원 constant update에 비해 조금 더 복잡하다. 알아보자
 

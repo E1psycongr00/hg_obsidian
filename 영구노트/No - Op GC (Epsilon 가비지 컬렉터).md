@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #GC 
 
 ----
-## 원문
+## 내용(Content)
 
 Java 11에서부터 가장 낮은 GC 오버헤드를 약속하는 Epsilon 이라는 No Op GC를 도입했다. 
 

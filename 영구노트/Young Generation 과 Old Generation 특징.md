@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA #GC 
 
 ----
-## 원문
+## 내용(Content)
 ### Young 영역과 Old 영역 특징
 
 JVM의 Heap 영역에는 처음 설계될 때, 다음의 2가지를 전제(Weak Generation Hypothesis)로 설계되었다.

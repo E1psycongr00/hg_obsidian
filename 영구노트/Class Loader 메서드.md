@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 java.lang.ClassLoader의 메서드를 알아보자
 
 ### loadClass(String name, boolean resolve)

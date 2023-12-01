@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #Gradle 
 
 ----
-## 원문
+## 내용(Content)
 ### 빌드 스크립트를 활용한 Custom Task
 
 커스텀 Task를 설계해보자. 커스텀 Task는 Java나 Groovy, kotlin으로 작성할 수도 있고, 간편하게 build script를 이용해 작성할 수도 있다. 여러 가지 방법을 통해 custom Task를 만드는 방법을 알아보자

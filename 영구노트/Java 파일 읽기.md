@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 
 java.io.File을 읽기 위해서 FileReader와 FileInputStream을 사용한다. 두 개의 공통점과 차이점은 다음과 같다.
 

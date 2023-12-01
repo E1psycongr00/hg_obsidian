@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 자바 8은 대규모 릴리즈이고 자세한 내용은 [자바8 릴리즈](https://www.oracle.com/java/technologies/javase/8-whats-new.html) 를 참고하면 된다. 그 중 핵심은 람다, Collection stream, Optional이 있다. 이것의 자세한 내용은 주제를 넘어서기 때문에 간단하게 소개하겠다.
 
 ### Lambda

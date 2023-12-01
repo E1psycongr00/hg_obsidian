@@ -4,7 +4,7 @@
 ## 주제: #완성  #JAVA #SQL 
 
 ----
-## 원문
+## 내용(Content)
 
 Spring Jdbc를 사용하면 JdbcTemplate를 활용해 sql 쿼리를 실행 할 수 있다. 이 때 Java 객체 (DAO)와 매핑 할 수 있는 SqlMapper를 작성해야 하며, SQL문과 함께 요청하면 DB에 있는 데이터를 자바 객체에 담아 올 수 있다.
 

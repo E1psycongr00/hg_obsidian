@@ -4,7 +4,7 @@
 ## 주제: #완성 #JAVA #Spring #databinding 
 
 ----
-## 원문
+## 내용(Content)
 
 ### 사용하는 이유
 Spring Converter는 Controller에서 데이터를 받아올 때 데이터간 타입 변환에 주로 사용된다. 

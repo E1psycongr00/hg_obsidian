@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 
 기존의 instanceof는 casting을 활용해 형변환해줘야 한다.
 ```java

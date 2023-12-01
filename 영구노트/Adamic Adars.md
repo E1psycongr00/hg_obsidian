@@ -4,7 +4,7 @@
 ## 주제: #완성  #graph
 
 ----
-## 원문
+## 내용(Content)
 
 Adamic - Adars 는 두 노드 사이의 공유 링크 양에 따라 소셜 네트워크의 링크를 예측하기 위해 설계되었다. 
 $$ A(x,y)=\sum _{u\in N(x)\cap N(y)}{\frac {1}{\log {|N(u)|}}} $$

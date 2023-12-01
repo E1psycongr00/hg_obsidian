@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #Gradle
 
 ----
-## 원문
+## 내용(Content)
 
 Gradle은 의도적으로 자동화를 제공하지 않는다.  Java Code Compile과 같은 유용한 기능은 모두 플러그인에 의해 추가된다. 
 

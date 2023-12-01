@@ -4,7 +4,7 @@
 ## 주제: #완성  #IT #JAVA 
 
 ----
-## 원문
+## 내용(Content)
 Oracle JDK와 Open JDK 와 같은 자바 배포판의 특성을 이해하기 위해 이 둘을 비교하고,  어떤 배포판은 선택해야 좋을 지 알아보자
 
 ### Oracle JDK vs Open JDK

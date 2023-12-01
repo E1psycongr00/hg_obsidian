@@ -5,7 +5,7 @@
 ## 주제: #완성  #IT #JAVA #GC 
 
 ----
-## 원문
+## 내용(Content)
 
 ### Serial GC
 [[Mark And Sweep]] 이라는 과정으로 진행된다. Old Generation에는 Mark Sweep Compact 라는 알고리즘이 사용된다.  해당 알고리즘은 Mark Sweep에 Compact라는 작업이 추가된 것이다. Compact란 Heap 영역을 정리하기 위한 단계로 유효한 객체들이 연속되게 쌓이도록 앞 부분부터 채워서 객체가 존재하는 부분과 존재하지 않는 부분으로 나누는 것이다. 

@@ -4,7 +4,7 @@
 ## 주제: #완성 #JAVA #Spring #SQL
 
 ----
-## 원문
+## 내용(Content)
 
 ### Schema.sql과 data.sql 용도
 

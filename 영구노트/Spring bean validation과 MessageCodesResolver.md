@@ -4,7 +4,7 @@
 ## 주제: #완성  #JAVA #Spring #Validation 
 
 ----
-## 원문
+## 내용(Content)
 
 ### MessageCodesResolver가 필요한 이유
 
