@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Locust 스크립트 문법.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdbb06146fbf0987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Locust 동작 방식.md",
+                "file": "Resources/IT/부하 테스트 도구.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Locust 동작 방식.md",
+                "file": "Resources/IT/부하 테스트 도구.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Locust 동작 방식.md",
+                "file": "Resources/IT/부하 테스트 도구.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Locust 동작 방식.md",
+                "file": "Resources/IT/부하 테스트 도구.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Locust 동작 방식.md"
+                "file": "Resources/IT/부하 테스트 도구.md"
               }
             }
           }
@@ -250,14 +236,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "cdbb06146fbf0987",
+  "active": "12ca8e9d1332e8f1",
   "lastOpenFiles": [
+    "연습노트/Locust 스크립트 문법.md",
+    "연습노트/Locust 동작 방식.md",
     "attachments/Pasted image 20231201172508.png",
     "연습노트/Project Jigsaw.md",
     "연습노트/Locust 튜토리얼.md",
     "연습노트/Locust 소개.md",
-    "연습노트/Locust 스크립트 문법.md",
-    "연습노트/Locust 동작 방식.md",
     "Resources/IT/부하 테스트 도구.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/무제 폴더",
@@ -289,7 +275,6 @@
     "attachments/Pasted image 20231112135207.png",
     "무제 폴더",
     "attachments/Pasted image 20231106224347.png",
-    "attachments/Pasted image 20231106224335.png",
     "Java 공부.canvas",
     "Resources/명언/명언 모음.canvas",
     "Resources/명언",
