@@ -18,7 +18,7 @@
 ## 출처(링크)
 - https://kim-dragon.tistory.com/133
 - https://docs.locust.io/en/stable/writing-a-locustfile.html
-- 
+- https://bcho.tistory.com/1369
 
 ## 연결 노트
 

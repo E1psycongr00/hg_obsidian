@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "연습노트/Locust 스크립트 문법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "연습노트/Locust 스크립트 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "연습노트/Locust 스크립트 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "연습노트/Locust 스크립트 문법.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Locust 소개.md"
+                "file": "연습노트/Locust 스크립트 문법.md"
               }
             }
           }
@@ -238,9 +238,9 @@
   },
   "active": "12ca8e9d1332e8f1",
   "lastOpenFiles": [
+    "영구노트/Locust 소개.md",
     "연습노트/Locust 스크립트 문법.md",
     "영구노트/Locust 튜토리얼.md",
-    "영구노트/Locust 소개.md",
     "연습노트/Locust 동작 방식.md",
     "Resources/IT/부하 테스트 도구.md",
     "영구노트/Flask로 편하게 Oauth2.0 Authorization Code 얻기.md",
