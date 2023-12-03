@@ -24,12 +24,9 @@
             "id": "b3e3a4386f93707e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "연습노트/야근에 대한 질문.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/linux C의 build 과정 순서도(draw).md"
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/야근에 대한 질문.md",
+                "file": "Excalidraw/linux C의 build 과정 순서도(draw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/야근에 대한 질문.md",
+                "file": "Excalidraw/linux C의 build 과정 순서도(draw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/야근에 대한 질문.md",
+                "file": "Excalidraw/linux C의 build 과정 순서도(draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/야근에 대한 질문.md"
+                "file": "Excalidraw/linux C의 build 과정 순서도(draw).md"
               }
             }
           }
@@ -238,8 +235,16 @@
   },
   "active": "b3e3a4386f93707e",
   "lastOpenFiles": [
-    "연습노트/Locust 스크립트 문법.md",
+    "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
+    "Excalidraw/Mapping mapper(draw).md",
+    "Excalidraw/java의 build 과정 순서도(draw).md",
+    "Excalidraw/Dynamic IP and Static IP(draw).md",
+    "Excalidraw/a, b 구간합 예시(draw).md",
+    "Excalidraw/2d array constant value query (draw).md",
+    "Excalidraw/2차원 배열 점화식(draw).md",
+    "Excalidraw/rotate array(draw).md",
     "연습노트/야근에 대한 질문.md",
+    "연습노트/Locust 스크립트 문법.md",
     "연습노트/Locust 동작 방식.md",
     "attachments/Pasted image 20231202185516.png",
     "attachments/Pasted image 20231202185455.png",
@@ -266,14 +271,6 @@
     "영구노트/Why Gradle by Kotlin DSL.md",
     "영구노트/Why Gradle.md",
     "영구노트/Web Socket이란.md",
-    "영구노트/Task create vs register.md",
-    "영구노트/Spring JdbcTemplate 활용법.md",
-    "영구노트/Spring Formatter.md",
-    "영구노트/Spring ConverterFactory.md",
-    "영구노트/Spring Converter.md",
-    "영구노트/Spring bean validation과 MessageCodesResolver.md",
-    "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
-    "영구노트/Spring bean validation 예외 분석.md",
     "attachments/Pasted image 20231124125154.png",
     "무제 폴더",
     "Java 공부.canvas",
