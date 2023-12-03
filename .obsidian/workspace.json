@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2e44704f40178b98",
+        "id": "26bce609733965c3",
         "type": "tabs",
         "children": [
           {
-            "id": "12ca8e9d1332e8f1",
+            "id": "8b99f64146d0b20a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "연습노트/Locust 스크립트 문법.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "b3e3a4386f93707e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2d array constant value query (draw).md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "tag:#솔루션",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/2d array constant value query (draw).md",
+                "file": "연습노트/Locust 스크립트 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/2d array constant value query (draw).md",
+                "file": "연습노트/Locust 스크립트 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/2d array constant value query (draw).md",
+                "file": "연습노트/Locust 스크립트 문법.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,10 +139,18 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224452,
+                  "scale": 0.7132754626224458,
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "f4abdd0460214afe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -205,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/2d array constant value query (draw).md"
+                "file": "연습노트/Locust 스크립트 문법.md"
               }
             }
           }
@@ -232,34 +230,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b3e3a4386f93707e",
+  "active": "57b6e74ab5c2820d",
   "lastOpenFiles": [
+    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "영구노트/Java 파일 다루기.md",
+    "영구노트/Java 파일 쓰기.md",
+    "영구노트/MethodArgumentNotValidException이란.md",
+    "영구노트/Java 파일 읽기.md",
+    "영구노트/java.io.File 파일 생성 및 가져오기.md",
+    "영구노트/Java 소개.md",
+    "영구노트/Java 8 이전 버전 별 특징.md",
+    "영구노트/배열 초기화.md",
+    "templates/인물 소개 템플릿.md",
+    "영구노트/어노테이션 @Target.md",
+    "Resources/IT/java/Java Annotation.md",
+    "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "Resources/Obsidian/Obsidian 관련 내용.md",
-    "영구노트/Class Loader 메서드.md",
-    "영구노트/field에 java bean validation 적용 및 테스트.md",
-    "영구노트/Constant Pool vs Runtime Constant Pool.md",
-    "영구노트/ResultSetExtractor와 RowMapper 차이.md",
-    "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
-    "영구노트/Why Gradle by Kotlin DSL.md",
-    "영구노트/Mark And Sweep.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "Resources/Obsidian/Obsidian.md",
-    "영구노트/Gradle Init Script.md",
-    "Excalidraw/MessageCodesResolver code 우선순위(draw).md",
-    "Excalidraw/Mapping mapper(draw).md",
-    "Excalidraw/linux C의 build 과정 순서도(draw).md",
-    "Excalidraw/string constant pool(draw).md",
-    "Excalidraw/Runtime Data Area 구성(draw).md",
-    "Excalidraw/RowMapper(draw).md",
-    "Excalidraw/2차원 배열 점화식(draw).md",
-    "Excalidraw/2d array constant value query (draw).md",
-    "Excalidraw/Custom Message 해결 전략(draw).md",
-    "Excalidraw/웹소켓 동작 과정(draw).md",
-    "Excalidraw/a, b 구간합 예시(draw).md",
-    "Excalidraw/자바 동작 과정(draw).md",
-    "Excalidraw/Dynamic IP and Static IP(draw).md",
-    "Excalidraw/gradle life cycle(draw).md",
+    "Resources/IT/java/Spring JDBC.md",
+    "Resources/IT/java/표준 Java Error.md",
+    "영구노트/Young Generation 과 Old Generation 특징.md",
+    "Resources/명언/명언 모음.md",
+    "영구노트/Java List 유틸 메서드 by Collections.md",
+    "README.md",
+    "Resources/IT/java/Java 공부.md",
+    "영구노트/Class Loader.md",
+    "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
+    "영구노트/Gradle Wrapper.md",
+    "Resources/IT/부하 테스트 도구.md",
+    "연습노트/Project Jigsaw.md",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "attachments/Pasted image 20231202185516.png",
     "attachments/Pasted image 20231202185455.png",
