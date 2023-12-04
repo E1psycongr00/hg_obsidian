@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md",
+                "file": "데일리/2023-12-05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md",
+                "file": "데일리/2023-12-05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md",
+                "file": "데일리/2023-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md",
+                "file": "데일리/2023-12-05.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "350459afc1252945",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md"
+                "file": "데일리/2023-12-05.md"
               }
             }
           }
@@ -231,14 +231,16 @@
   },
   "active": "591452ddd7cffc54",
   "lastOpenFiles": [
+    "데일리/2023-12-04.md",
+    "데일리/2023-12-05.md",
+    "{{tomorrow}}.md",
+    "연습노트/부하 테스트 개념.md",
     "영구노트/서비스 수준 용어.md",
     "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
-    "연습노트/부하 테스트 개념.md",
     "영구노트/Locust 동작 방식.md",
     "Resources/IT/부하 테스트.md",
     "영구노트/Obsidian 콜아웃 종류.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
-    "데일리/2023-12-04.md",
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
@@ -256,8 +258,6 @@
     "templates/참조 노트 템플릿.md",
     "영구노트/Obsidian tasks 쿼리 문법.md",
     "Resources/명언/명언 모음.canvas",
-    "영구노트/Obsidian Media Extend plugin 사용법.md",
-    "Excalidraw/자바 동작 과정(draw).md",
     "attachments/Pasted image 20231016142218.png",
     "attachments/Pasted image 20231019170743.png",
     "attachments/Pasted image 20231024143949.png",
