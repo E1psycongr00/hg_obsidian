@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/SLO(Service Level Objective).md",
+                "file": "연습노트/서비스 수준 용어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/SLO(Service Level Objective).md",
+                "file": "연습노트/서비스 수준 용어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/SLO(Service Level Objective).md",
+                "file": "연습노트/서비스 수준 용어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/SLO(Service Level Objective).md",
+                "file": "연습노트/서비스 수준 용어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/SLO(Service Level Objective).md"
+                "file": "연습노트/서비스 수준 용어.md"
               }
             }
           }
@@ -247,7 +247,7 @@
   "active": "3a318066e04c5d08",
   "lastOpenFiles": [
     "데일리/2023-12-04.md",
-    "연습노트/SLO(Service Level Objective).md",
+    "연습노트/서비스 수준 용어.md",
     "연습노트/Locust 동작 방식.md",
     "연습노트/Locust 스크립트 문법.md",
     "연습노트/Project Jigsaw.md",
