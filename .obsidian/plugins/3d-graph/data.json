@@ -24,6 +24,10 @@
       {
         "query": "tag:#명언",
         "color": "#e052ba"
+      },
+      {
+        "query": "tag:#데일리",
+        "color": "#9294c3"
       }
     ]
   },
