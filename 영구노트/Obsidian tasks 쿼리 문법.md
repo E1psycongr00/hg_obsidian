@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-04
 작성 시간: 14:11
 
-## 주제: #미완 #Obsidian 
+## 주제: #완성 #Obsidian 
 
 ----
 ## 내용(Content)
@@ -30,6 +30,23 @@ due before in two weeks
 ```text
 done heading 
 includes tasks
+```
+
+#### 파일 경로 중에 `Planner` 을 포함하고 2022년 1월 20일까지 완료되지 않은 모든 항목 조회하기
+
+```text
+not done
+due on 2022-01-20
+path includes Planner
+```
+
+#### 오늘부터 2주 동안 하지 않은 일 마감일과 수정 버튼 없애기
+```text
+not done
+due after today
+due before 2021-05-15
+hide due date
+hide edit button
 ```
 ## 질문 & 확장
 
