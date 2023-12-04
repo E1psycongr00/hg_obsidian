@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "연습노트/부하 테스트 개념.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "연습노트/부하 테스트 개념.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "연습노트/부하 테스트 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "연습노트/부하 테스트 개념.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md"
+                "file": "연습노트/부하 테스트 개념.md"
               }
             }
           }
@@ -231,13 +231,13 @@
   },
   "active": "591452ddd7cffc54",
   "lastOpenFiles": [
+    "영구노트/서비스 수준 용어.md",
     "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
     "연습노트/부하 테스트 개념.md",
     "영구노트/Locust 동작 방식.md",
     "Resources/IT/부하 테스트.md",
     "영구노트/Obsidian 콜아웃 종류.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
-    "영구노트/서비스 수준 용어.md",
     "데일리/2023-12-04.md",
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
