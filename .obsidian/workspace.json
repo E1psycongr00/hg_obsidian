@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Obsidian tasks 쿼리 문법.md",
-                "mode": "source",
+                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "media",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Obsidian tasks 쿼리 문법.md",
+                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Obsidian tasks 쿼리 문법.md",
+                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Obsidian tasks 쿼리 문법.md",
+                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +138,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224458,
+                  "scale": 1.0000000000000058,
                   "close": true
                 }
               }
@@ -183,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -203,12 +202,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Obsidian tasks 쿼리 문법.md"
+                "file": "영구노트/Obsidian Media Extend plugin 사용법.md"
               }
+            }
+          },
+          {
+            "id": "8b06122893df9711",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -232,45 +239,45 @@
   },
   "active": "66c8aa8039aedab8",
   "lastOpenFiles": [
+    "영구노트/Obsidian Media Extend plugin 사용법.md",
+    "Excalidraw/자바 동작 과정(draw).md",
+    "영구노트/Querydsl 소개.md",
+    "Excalidraw/웹소켓 동작 과정(draw).md",
+    "Excalidraw/a, b 구간합 예시(draw).md",
+    "Excalidraw/Custom Message 해결 전략(draw).md",
+    "Excalidraw/Dynamic IP and Static IP(draw).md",
+    "Excalidraw/gradle life cycle(draw).md",
+    "Excalidraw/java의 build 과정 순서도(draw).md",
+    "Excalidraw/linux C의 build 과정 순서도(draw).md",
+    "Excalidraw/Mapping mapper(draw).md",
+    "Excalidraw/MessageCodesResolver code 우선순위(draw).md",
+    "Excalidraw/rotate array(draw).md",
+    "Excalidraw/RowMapper(draw).md",
+    "Excalidraw/Runtime Data Area 구성(draw).md",
+    "Excalidraw/string constant pool(draw).md",
+    "Excalidraw/2d array constant value query (draw).md",
+    "Excalidraw/2차원 배열 점화식(draw).md",
+    "attachments/Pasted image 20231016142218.png",
+    "attachments/Pasted image 20231019170743.png",
+    "attachments/Pasted image 20231024143949.png",
+    "attachments/Pasted image 20231030204409.png",
+    "attachments/Pasted image 20231202185455.png",
+    "attachments/Pasted image 20231202160450.png",
+    "attachments/Pasted image 20231201143922.png",
+    "attachments/Pasted image 20231124125154.png",
+    "attachments/Pasted image 20231026193154.png",
+    "attachments/Pasted image 20231024144128.png",
+    "연습노트/Obsidian tasks 쿼리 문법.md",
     "데일리/2023-12-04.md",
     "templates/일정 템플릿.md",
-    "연습노트/Obsidian tasks 쿼리 문법.md",
     "연습노트/Locust 동작 방식.md",
     "연습노트/Locust 스크립트 문법.md",
     "영구노트/야근에 대한 질문.md",
     "{{tomorrow}}.md",
     "README.md",
-    "templates/참조 노트 템플릿.md",
-    "{{yesterday}}.md",
-    "templates/인물 소개 템플릿.md",
-    "templates/영상 참조 템플릿.md",
-    "templates/솔루션 템플릿.md",
-    "templates/동기 템플릿.md",
-    "2023-12-04.md",
     "데일리",
-    "영구노트/Obsidian Media Extend plugin 사용법.md",
-    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
-    "영구노트/Java 파일 다루기.md",
-    "영구노트/Java 파일 쓰기.md",
-    "영구노트/MethodArgumentNotValidException이란.md",
-    "영구노트/Java 파일 읽기.md",
-    "영구노트/java.io.File 파일 생성 및 가져오기.md",
-    "영구노트/Java 소개.md",
-    "영구노트/Java 8 이전 버전 별 특징.md",
-    "영구노트/배열 초기화.md",
-    "영구노트/어노테이션 @Target.md",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
-    "attachments/Pasted image 20231202185516.png",
-    "attachments/Pasted image 20231202185455.png",
-    "attachments/Pasted image 20231202185445.png",
-    "attachments/Pasted image 20231202160450.png",
-    "attachments/Pasted image 20231201172508.png",
     "Resources/IT/무제 폴더",
-    "attachments/Pasted image 20231201144001.png",
-    "attachments/Pasted image 20231201143922.png",
-    "attachments/Pasted image 20231201134931.png",
-    "attachments/Pasted image 20231201133400.png",
-    "attachments/Pasted image 20231124125154.png",
     "Java 공부.canvas",
     "Resources/명언/명언 모음.canvas",
     "Resources/명언",
