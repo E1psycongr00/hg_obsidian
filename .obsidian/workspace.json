@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ebadf6280d1b85",
+        "id": "18b1dfd53c41d143",
         "type": "tabs",
         "children": [
           {
-            "id": "66c8aa8039aedab8",
+            "id": "591452ddd7cffc54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
+                "file": "데일리/2023-12-04.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
+                "file": "데일리/2023-12-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
+                "file": "데일리/2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Obsidian Media Extend plugin 사용법.md",
+                "file": "데일리/2023-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,20 +203,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Obsidian Media Extend plugin 사용법.md"
+                "file": "데일리/2023-12-04.md"
               }
-            }
-          },
-          {
-            "id": "8b06122893df9711",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -237,8 +230,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "66c8aa8039aedab8",
+  "active": "591452ddd7cffc54",
   "lastOpenFiles": [
+    "Resources/명언/명언 모음.canvas",
+    "Resources/명언/명언 모음.md",
     "영구노트/Obsidian Media Extend plugin 사용법.md",
     "Excalidraw/자바 동작 과정(draw).md",
     "영구노트/Querydsl 소개.md",
@@ -273,13 +268,10 @@
     "연습노트/Locust 동작 방식.md",
     "연습노트/Locust 스크립트 문법.md",
     "영구노트/야근에 대한 질문.md",
-    "{{tomorrow}}.md",
-    "README.md",
     "데일리",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "Resources/IT/무제 폴더",
     "Java 공부.canvas",
-    "Resources/명언/명언 모음.canvas",
     "Resources/명언",
     "Resources/IT/java",
     "Resources/IT/Gradle",
