@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Locust 스크립트 문법.md",
-                "mode": "preview",
+                "file": "2023-12-04.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Locust 스크립트 문법.md",
+                "file": "2023-12-04.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Locust 스크립트 문법.md",
+                "file": "2023-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Locust 스크립트 문법.md",
+                "file": "2023-12-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Locust 스크립트 문법.md"
+                "file": "2023-12-04.md"
               }
             }
           }
@@ -230,14 +230,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8b99f64146d0b20a",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
-    "영구노트/Obsidian Media Extend plugin 사용법.md",
-    "templates/영상 참조 템플릿.md",
+    "daily",
+    "연습노트/야근에 대한 질문.md",
+    "2023-12-04.md",
+    "templates/동기 템플릿.md",
     "templates/솔루션 템플릿.md",
+    "templates/영상 참조 템플릿.md",
+    "연습노트/Locust 스크립트 문법.md",
+    "영구노트/Obsidian Media Extend plugin 사용법.md",
     "templates/참조 노트 템플릿.md",
     "templates/인물 소개 템플릿.md",
-    "연습노트/Locust 스크립트 문법.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "영구노트/Java 파일 다루기.md",
     "영구노트/Java 파일 쓰기.md",
@@ -254,10 +258,6 @@
     "Resources/IT/java/Spring JDBC.md",
     "Resources/IT/java/표준 Java Error.md",
     "영구노트/Young Generation 과 Old Generation 특징.md",
-    "Resources/명언/명언 모음.md",
-    "영구노트/Java List 유틸 메서드 by Collections.md",
-    "README.md",
-    "Resources/IT/java/Java 공부.md",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "attachments/Pasted image 20231202185516.png",
     "attachments/Pasted image 20231202185455.png",
@@ -270,7 +270,6 @@
     "attachments/Pasted image 20231201134931.png",
     "attachments/Pasted image 20231201133400.png",
     "attachments/Pasted image 20231124125154.png",
-    "무제 폴더",
     "Java 공부.canvas",
     "Resources/명언/명언 모음.canvas",
     "Resources/명언",
