@@ -13,32 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데일리/2023-12-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a318066e04c5d08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/서비스 수준 용어.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b9c822fa74b6ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "연습노트/부하 테스트 개념.md",
                 "mode": "source",
                 "backlinks": false,
@@ -47,15 +21,20 @@
             }
           },
           {
-            "id": "a53a218f1fd778a8",
+            "id": "131adc565f33d0a1",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/부하 테스트의 가용성과 확장성의 정의.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md",
+                "file": "연습노트/부하 테스트의 가용성과 확장성의 정의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md",
+                "file": "연습노트/부하 테스트의 가용성과 확장성의 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md",
+                "file": "연습노트/부하 테스트의 가용성과 확장성의 정의.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +153,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000067,
+                  "scale": 0.7132754626224471,
                   "close": true
                 }
               }
@@ -238,12 +217,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/부하 테스트 개념.md"
+                "file": "연습노트/부하 테스트의 가용성과 확장성의 정의.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,13 +243,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6b9c822fa74b6ce6",
+  "active": "131adc565f33d0a1",
   "lastOpenFiles": [
-    "Resources/IT/부하 테스트.md",
-    "연습노트/부하 테스트 개념.md",
-    "연습노트/부하 테스트의 가용성과 확장성의 정의.md",
     "연습노트/서비스 수준 용어.md",
+    "연습노트/부하 테스트의 가용성과 확장성의 정의.md",
+    "연습노트/부하 테스트 개념.md",
     "데일리/2023-12-04.md",
+    "Resources/IT/부하 테스트.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
