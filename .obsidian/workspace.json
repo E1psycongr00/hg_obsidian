@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/부하 테스트 개념.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -245,9 +245,9 @@
   },
   "active": "22ee0d5c2e424f62",
   "lastOpenFiles": [
-    "영구노트/부하 테스트 개념.md",
     "영구노트/서비스 수준 용어.md",
     "연습노트/백엔드 부하 테스트 해보기.md",
+    "영구노트/부하 테스트 개념.md",
     "Resources/IT/부하 테스트.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Locust 스크립트 문법.md",
