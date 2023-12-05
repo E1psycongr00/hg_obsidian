@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "영구노트/부하 테스트 개념.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "연습노트/백엔드 부하 테스트 해보기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "연습노트/백엔드 부하 테스트 해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "연습노트/백엔드 부하 테스트 해보기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +153,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224472,
+                  "scale": 0.7132754626224473,
                   "close": true
                 }
               }
@@ -196,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md"
+                "file": "연습노트/백엔드 부하 테스트 해보기.md"
               }
             }
           }
@@ -242,15 +243,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "591452ddd7cffc54",
+  "active": "22ee0d5c2e424f62",
   "lastOpenFiles": [
-    "Resources/IT/부하 테스트.md",
+    "영구노트/부하 테스트 개념.md",
+    "영구노트/서비스 수준 용어.md",
     "연습노트/백엔드 부하 테스트 해보기.md",
+    "Resources/IT/부하 테스트.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Locust 스크립트 문법.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "데일리/2023-12-05.md",
-    "영구노트/부하 테스트 개념.md",
     "데일리/2023-12-04.md",
     "templates/일정 템플릿.md",
     "Resources/IT/알고리즘.md",
@@ -260,7 +262,6 @@
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
     "{{tomorrow}}.md",
-    "영구노트/서비스 수준 용어.md",
     "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
     "영구노트/Locust 동작 방식.md",
     "영구노트/Obsidian 콜아웃 종류.md",
