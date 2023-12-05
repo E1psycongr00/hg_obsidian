@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데일리/2023-12-05.md",
+                "file": "영구노트/서비스 수준 용어.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22ee0d5c2e424f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/백엔드 부하 테스트 해보기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2023-12-05.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2023-12-05.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2023-12-05.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데일리/2023-12-05.md"
+                "file": "영구노트/서비스 수준 용어.md"
               }
             }
           }
@@ -231,32 +244,32 @@
   },
   "active": "591452ddd7cffc54",
   "lastOpenFiles": [
-    "데일리/2023-12-04.md",
+    "Resources/IT/부하 테스트.md",
+    "연습노트/백엔드 부하 테스트 해보기.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/Locust 스크립트 문법.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "데일리/2023-12-05.md",
+    "영구노트/부하 테스트 개념.md",
+    "데일리/2023-12-04.md",
+    "templates/일정 템플릿.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/Github.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
-    "영구노트/부하 테스트 개념.md",
     "{{tomorrow}}.md",
     "영구노트/서비스 수준 용어.md",
     "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
     "영구노트/Locust 동작 방식.md",
-    "Resources/IT/부하 테스트.md",
     "영구노트/Obsidian 콜아웃 종류.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "영구노트/제텔 카스텐 기법.md",
     "영구노트/나만의 노트 확장 방법.md",
     "Resources/명언/명언 모음.md",
-    "연습노트/Locust 스크립트 문법.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Project Jigsaw.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Why Kotlin.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "templates/일정 템플릿.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/Pasted image 20231016142218.png",
     "attachments/Pasted image 20231019170743.png",
