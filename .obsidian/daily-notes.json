@@ -1,5 +1,5 @@
 {
   "folder": "데일리",
   "template": "templates/일정 템플릿",
-  "autorun": true
+  "autorun": false
 }
