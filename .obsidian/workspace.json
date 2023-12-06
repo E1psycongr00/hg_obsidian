@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "99d62d50e2fbbcdf",
+        "id": "9554534bcdc078bf",
         "type": "tabs",
         "children": [
           {
-            "id": "445ca913101eddfa",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c2205dbc3d15f1c8",
+            "id": "324a351492ae3c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데일리/2023-12-06.md",
-                "mode": "preview",
+                "file": "연습노트/k6 스크립트 문법.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2023-12-06.md",
+                "file": "연습노트/k6 스크립트 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2023-12-06.md",
+                "file": "연습노트/k6 스크립트 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2023-12-06.md",
+                "file": "연습노트/k6 스크립트 문법.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데일리/2023-12-06.md"
+                "file": "연습노트/k6 스크립트 문법.md"
               }
             }
           }
@@ -238,16 +229,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c2205dbc3d15f1c8",
+  "active": "324a351492ae3c34",
   "lastOpenFiles": [
-    "데일리/2023-12-04.md",
-    "데일리/2023-12-06.md",
+    "Resources/IT/부하 테스트.md",
     "연습노트/k6 스크립트 문법.md",
+    "attachments/Pasted image 20231206191313.png",
+    "데일리/2023-12-06.md",
+    "데일리/2023-12-04.md",
     "attachments/Pasted image 20231206162639.png",
     "데일리/2023-12-05.md",
     "{{tomorrow}}.md",
     "{{yesterday}}.md",
-    "Resources/IT/부하 테스트.md",
     "연습노트/Locust 스크립트 문법.md",
     "영구노트/k6 소개.md",
     "영구노트/서비스 수준 용어.md",
@@ -275,7 +267,6 @@
     "attachments/Pasted image 20231202160450.png",
     "attachments/Pasted image 20231201143922.png",
     "attachments/Pasted image 20231124125154.png",
-    "attachments/Pasted image 20231026193154.png",
     "데일리",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "Resources/IT/무제 폴더",
