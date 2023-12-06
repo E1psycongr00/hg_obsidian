@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/k6 스크립트 문법.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/k6 스크립트 문법.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/k6 스크립트 문법.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/k6 스크립트 문법.md",
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "350459afc1252945",
@@ -203,11 +203,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/k6 스크립트 문법.md"
+                "file": "연습노트/JacksonModule & Std(De)Serializer.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,24 +230,28 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "324a351492ae3c34",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
-    "Resources/IT/부하 테스트.md",
-    "연습노트/k6 스크립트 문법.md",
-    "attachments/Pasted image 20231206191313.png",
-    "데일리/2023-12-06.md",
-    "데일리/2023-12-04.md",
-    "attachments/Pasted image 20231206162639.png",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Locust 스크립트 문법.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/Why Kotlin.md",
     "데일리/2023-12-05.md",
+    "데일리/2023-12-04.md",
+    "데일리/2023-12-06.md",
+    "데일리/2023-12-07.md",
+    "영구노트/k6 스크립트 문법.md",
+    "영구노트/k6 소개.md",
+    "Resources/IT/부하 테스트.md",
+    "attachments/Pasted image 20231206191313.png",
+    "attachments/Pasted image 20231206162639.png",
     "{{tomorrow}}.md",
     "{{yesterday}}.md",
-    "연습노트/Locust 스크립트 문법.md",
-    "영구노트/k6 소개.md",
     "영구노트/서비스 수준 용어.md",
     "영구노트/부하 테스트 개념.md",
     "연습노트/백엔드 부하 테스트 해보기.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "templates/일정 템플릿.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/Github.md",
@@ -255,9 +260,6 @@
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/제텔카스텐.md",
     "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
-    "영구노트/Locust 동작 방식.md",
-    "영구노트/Obsidian 콜아웃 종류.md",
-    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/Pasted image 20231016142218.png",
     "attachments/Pasted image 20231019170743.png",
