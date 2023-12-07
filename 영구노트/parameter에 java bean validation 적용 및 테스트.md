@@ -48,7 +48,7 @@ void parameterTest() throws NoSuchMethodException {
 
 필드나 getter를 검사할 때와는 다르게 ExecutableValidator를 이용해 테스트를 한다.
 
-이 때 메서드 정보는 리플렉션을 통해 가져오며 실제 실행하지는 않고 reflectio 정보만을 활용해 해당 인자가 적절한 인자인지 validation을 수행한다.
+이 때 메서드 정보는 리플렉션을 통해 가져오며 실제 실행하지는 않고 reflection 정보만을 활용해 해당 인자가 적절한 인자인지 validation을 수행한다.
 
 
 
