@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1524fa183d680c35",
+        "id": "d842d3efca27f7c2",
         "type": "tabs",
         "children": [
           {
-            "id": "8b26139c352ceada",
+            "id": "cf37b430584c73b1",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/k6 소개.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구노트/k6 소개.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구노트/k6 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,6 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "영구노트/k6 소개.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +202,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "영구노트/k6 소개.md"
+              }
             }
           }
         ],
@@ -220,8 +230,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8b26139c352ceada",
+  "active": "cf37b430584c73b1",
   "lastOpenFiles": [
+    "Resources/IT/부하 테스트.md",
+    "영구노트/k6 Metric.md",
+    "영구노트/k6 소개.md",
     "영구노트/Locust Task에 관하여.md",
     "Resources/Obsidian/Obsidian.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
@@ -231,8 +244,6 @@
     "데일리/2023-12-06.md",
     "데일리/2023-12-07.md",
     "데일리/2023-12-08.md",
-    "Resources/IT/부하 테스트.md",
-    "영구노트/k6 소개.md",
     "영구노트/Locust 동작 방식.md",
     "영구노트/Locust 스크립트 문법.md",
     "영구노트/Locust User Class에 관하여.md",
@@ -249,7 +260,6 @@
     "{{tomorrow}}.md",
     "{{yesterday}}.md",
     "영구노트/서비스 수준 용어.md",
-    "영구노트/부하 테스트 개념.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/Pasted image 20231016142218.png",
     "attachments/Pasted image 20231019170743.png",
