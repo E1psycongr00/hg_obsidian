@@ -13,6 +13,25 @@ Spring에서는 컨트롤러 외에 @Validated가 붙은 bean의 경우 유효�
 
 ### ConstraintViolation
 해당 예외는 ConstraintViolation 객체를 Set 형태로 저장한다.
+
+web에서 예외가 발생시 저장하는 BindResult와는 다르게 ConstraintViolation은 code정보가 없기 때문에 만약 MessageSource와 연동하고자 하면 직접 추출해야 한다.
+
+ConstraintViolation에서는 대략 다음의 정보들을 얻을 수 있다.
+
+- 유효성 검사에 수행된 어노테이션 정보
+- RootBean과 LeafBean 경로
+- 
+
+#### ConstraintDescriptor
+getConstraintDescriptor 메서드를 통해 타입을 호출할 수 있다.
+
+descriptor는 다음과 같은 메서드들을 가지고 있다.
+
+- getAnnotation()
+- getAttributes()
+
+위의 정보는 어노테이션을 얻어오고 Attribute로 부터 Annotation에 지정된 인자를 인덱스 순서로 가져온다. 
+
 ## 질문 & 확장
 
 (없음)
