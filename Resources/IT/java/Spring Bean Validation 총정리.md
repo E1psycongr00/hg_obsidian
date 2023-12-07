@@ -17,3 +17,8 @@
 - [[@Valid와 @Validated 차이]]
 - [[Spring bean validation과 MessageCodesResolver]]
 - [[Spring Bean Validation 커스텀 메시지 작성하기(최종)]]
+
+
+### Exception
+- [[MethodArgumentNotValidException]]
+- [[ConstraintViolationException]]

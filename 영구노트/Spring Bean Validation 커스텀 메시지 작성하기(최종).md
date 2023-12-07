@@ -19,7 +19,7 @@ Spring Bean Validation을 사용하면 유효성 검사 예외 발생시 범용�
 
 우선 이 문제를 해결하기 위해 이해해야 할 객체들이 있다.
 
-- BindingResult
+- [[MethodArgumentNotValidException|MethodArgumentNotValidException이 무엇인가]]
 - ObjectError, FieldError, MessageSourceResolvable
 - ConstraintViolation가 무엇이고 어떤 것을 제공하는가
 - MessageSource 사용법
@@ -263,7 +263,7 @@ Length.itemRequest.name={0}는 {1} 보다 같거나 짧이야 합니다
 ## 연결 노트
 
 - [[Spring bean validation과 MessageCodesResolver]]
-
+- [[MethodArgumentNotValidException]]
 
 
 
