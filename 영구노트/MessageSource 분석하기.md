@@ -2,7 +2,7 @@
 작성 날짜: 2023-12-07
 작성 시간: 21:33
 
-## 주제: #미완 #Spring 
+## 주제: #완성 #Spring 
 
 ----
 ## 내용(Content)
@@ -29,7 +29,6 @@ getMessage의 3개의 다른 인자 형태로 존재한다.
 2개는 필수적으로 code가 들어가며  defaultMessage가 있느냐 없느냐에 따라 달라지고 나머지 하나는 MessageSourceResolvable 타입을 인자로 받아 처리한다.
 
 MessageSOurceResolvable은 ObjectError, FieldError등이 속한다.
-### ResourceBundleMessageSource
 
 
 

@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-07
 작성 시간: 14:25
 
-## 주제: #미완 #Spring #Validation #Error 
+## 주제: #완성 #Spring #Validation #Error 
 
 ----
 ## 내용(Content)
@@ -18,11 +18,12 @@ web에서 예외가 발생시 저장하는 BindResult와는 다르게 Constraint
 
 ConstraintViolation에서는 대략 다음의 정보들을 얻을 수 있다.
 
-- 유효성 검사에 수행된 어노테이션 정보
-- RootBean과 LeafBean 경로
-- 검사한 property의 path
+- 유효성 검사에 수행된 **어노테이션 정보**
+- **RootBean과 LeafBean 경로**
+- 검사한 **property의 path**
 	- 파라미터에 validation을 적용한 경우 `메서드이름.target타입이름` 이런식으로 출력된다.
 	- ex) Controller의 findItem에서 Id를 검사하는 경우 -> findItem.id
+- invalidValue를 얻어올 수 있다.
 
 #### ConstraintDescriptor
 getConstraintDescriptor 메서드를 통해 타입을 호출할 수 있다.

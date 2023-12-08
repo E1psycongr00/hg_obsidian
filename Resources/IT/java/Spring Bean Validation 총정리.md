@@ -16,6 +16,7 @@
 - [[Spring bean validation 예외 분석]]
 - [[@Valid와 @Validated 차이]]
 - [[Spring bean validation과 MessageCodesResolver]]
+- [[MessageSource 분석하기]]
 - [[Spring Bean Validation 커스텀 메시지 작성하기(최종)]]
 
 
