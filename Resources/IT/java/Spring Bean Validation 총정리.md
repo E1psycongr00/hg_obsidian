@@ -18,7 +18,7 @@
 - [[Spring bean validation과 MessageCodesResolver]]
 - [[MessageSource 분석하기]]
 - [[Spring Bean Validation 커스텀 메시지 작성하기(최종)]]
-
+- [[index 기반으로 ConstraintViolation을 MessageSource로 활용하기]]
 
 ### Exception
 - [[MethodArgumentNotValidException]]
