@@ -54,7 +54,7 @@ public class MessageCodesResolverTest {
   
     @Test  
     void objectTest() {  
-       String[] codes = resolver.resolveMessageCodes("NotEmpty", "itemRequest", "name", String.class);  
+       String[] codes = resolver.resolveMessageCodes("NotBlank", "itemRequest", "name", String.class);  
        for (String code : codes) {  
           System.out.println(code);  
        }  
@@ -67,14 +67,36 @@ public class MessageCodesResolverTest {
 그러면 다음과 같은 메시지가 생성된다.
 
 ```text
-NotEmpty.itemRequest.name
-NotEmpty.name
-NotEmpty.java.lang.String
-NotEmpty
+NotBlank.itemRequest.name
+NotBlank.name
+NotBlank.java.lang.String
+NotBlank
 ```
 
 
 이는 내부적으로 BindingResult 와 같은데서 사용되는데 이것과 MessageSource를 이용하면 커스텀 메시지를 작성할 수 있다.
+
+
+>[!summary]
+>Bean Validation에서는 다음과 같은 규칙을 따른다.
+>- errorCode -> 어노테이션 이름
+>- objectName -> path
+>- fieldName -> target
+
+>[!example] 예제 1: 클래스
+>ItemRequest의 name 필드에 @NotBlank가 적용된 경우
+>- errorCode -> NotBlank
+>- objecName -> itemRequest
+>- fieldName -> name
+>
+>최종 생성되는 code는 NotBlank.itemRequest.name
+
+>[!example] 예제2: 메서드 파라미터 word라는 
+
+
+
+
+
 
 ## 질문 & 확장
 
