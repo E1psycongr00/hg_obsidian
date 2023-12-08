@@ -74,7 +74,7 @@ NotBlank
 ```
 
 
-이는 내부적으로 BindingResult 와 같은데서 사용되는데 이것과 MessageSource를 이용하면 커스텀 메시지를 작성할 수 있다.
+이는 내부적으로 BindingResult 와 같은 데서 사용되는데 이것과 MessageSource를 이용하면 커스텀 메시지를 작성할 수 있다.
 
 
 >[!summary]
@@ -91,7 +91,15 @@ NotBlank
 >
 >최종 생성되는 code는 NotBlank.itemRequest.name
 
->[!example] 예제2: 메서드 파라미터 word라는 
+>[!example] 예제2: 메서드 파라미터
+> WordFinder 클래스의 findWord 메서드 파라미터 word라는 것에 @NotBlank가 적용된 경우
+>- errorCode -> NotBlank
+>- objectName -> wordFinder
+>- fieldName -> findWord.word
+>
+>최종 생성되는 code는 NotBlank.wordFinder.findWord.word
+
+
 
 
 
