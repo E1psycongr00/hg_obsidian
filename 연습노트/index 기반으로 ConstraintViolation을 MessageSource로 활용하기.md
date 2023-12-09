@@ -1,14 +1,14 @@
 작성 날짜: 2023-12-08
 작성 시간: 20:37
 
-## 주제: #미완
+## 주제: #미완 #Spring #Validation
 
 ----
 ## 내용(Content)
 
 ### ConstraintViolation에서 FieldError 추출하기
 
-ConsraintViolation은 여러 정보들을 가지고 있지만, 
+ConsraintViolation은 여러 정보들을 가지고 있지만,  code가 없기 떄문에 MessageCodesResolver를 활용해 Code를 생성해줘야 한다.
 
 ### code
 
