@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md"
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
               }
             }
           }
@@ -241,8 +241,9 @@
   },
   "active": "a7a3e2125ebb4a0b",
   "lastOpenFiles": [
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Project Jigsaw.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/무제 파일.md",
@@ -266,7 +267,6 @@
     "영구노트/UnionFind 그룹별 갯수 구하기.md",
     "Excalidraw/UnionFind예시1(draw).md",
     "README.md",
-    "데일리/2023-12-11.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
