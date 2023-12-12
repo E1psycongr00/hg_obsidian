@@ -6,6 +6,9 @@
 ----
 ## 내용(Content)
 
+### Simple UnionFind의 문제점
+
+경로최저
 
 ## 질문 & 확장
 
