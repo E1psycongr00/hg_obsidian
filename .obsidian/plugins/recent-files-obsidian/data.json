@@ -5,6 +5,10 @@
       "path": "연습노트/단속 카메라 문제.md"
     },
     {
+      "basename": "단속 카메라 예제1(draw)",
+      "path": "Excalidraw/단속 카메라 예제1(draw).md"
+    },
+    {
       "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
       "path": "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
     }

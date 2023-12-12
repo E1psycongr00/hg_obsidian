@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3eac39e6a278eb28",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/단속 카메라 예제1(draw).md"
+              }
+            }
           }
         ]
       }
@@ -240,8 +250,9 @@
   },
   "active": "dee621b97b9a38d3",
   "lastOpenFiles": [
-    "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
+    "Excalidraw/단속 카메라 예제1(draw).md",
     "연습노트/단속 카메라 문제.md",
+    "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/Github.md",
     "Resources/IT/Gradle 공부.md",
@@ -265,7 +276,6 @@
     "데일리/2023-12-07.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
