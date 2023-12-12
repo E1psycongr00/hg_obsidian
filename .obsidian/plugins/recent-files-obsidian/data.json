@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "기초적인 Rest API 서버 설계하기",
+      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Project Jigsaw",
+      "path": "연습노트/Project Jigsaw.md"
+    },
+    {
+      "basename": "Why Kotlin",
+      "path": "연습노트/Why Kotlin.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
       "basename": "단속 카메라 문제",
-      "path": "연습노트/단속 카메라 문제.md"
+      "path": "영구노트/단속 카메라 문제.md"
+    },
+    {
+      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
+      "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
+    },
+    {
+      "basename": "2023-12-12",
+      "path": "데일리/2023-12-12.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "Resources/IT/알고리즘.md"
     },
     {
       "basename": "단속 카메라 원리1(draw)",
       "path": "Excalidraw/단속 카메라 원리1(draw).md"
     },
     {
-      "basename": "무제 파일",
-      "path": "연습노트/무제 파일.md"
-    },
-    {
       "basename": "단속 카메라 예제1(draw)",
       "path": "Excalidraw/단속 카메라 예제1(draw).md"
-    },
-    {
-      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
-      "path": "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
     }
   ],
   "omittedPaths": [],

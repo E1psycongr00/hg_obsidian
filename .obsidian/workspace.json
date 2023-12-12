@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "475864a2a9701f32",
+        "id": "352d9fe6d4b72ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "dee621b97b9a38d3",
+            "id": "a7a3e2125ebb4a0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/단속 카메라 문제.md",
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d2f9521408e0d095",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/단속 카메라 원리1(draw).md"
               }
             }
           }
@@ -89,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/단속 카메라 문제.md",
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/단속 카메라 문제.md",
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/단속 카메라 문제.md",
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/단속 카메라 문제.md"
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md"
               }
             }
           }
@@ -250,18 +239,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "dee621b97b9a38d3",
+  "active": "a7a3e2125ebb4a0b",
   "lastOpenFiles": [
-    "Excalidraw/단속 카메라 원리1(draw).md",
-    "연습노트/단속 카메라 문제.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/Why Kotlin.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/무제 파일.md",
-    "Excalidraw/단속 카메라 예제1(draw).md",
-    "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
+    "영구노트/단속 카메라 문제.md",
+    "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
+    "데일리/2023-12-12.md",
     "Resources/IT/알고리즘.md",
+    "Excalidraw/단속 카메라 원리1(draw).md",
+    "Excalidraw/단속 카메라 예제1(draw).md",
     "Resources/IT/Github.md",
     "Resources/IT/Gradle 공부.md",
     "데일리/2023-12-06.md",
-    "데일리/2023-12-12.md",
     "무제 파일.md",
     "Excalidraw/UnionFind예제2(draw).md",
     "영구노트/UnionFind.md",
@@ -274,10 +267,6 @@
     "Excalidraw/UnionFind예시1(draw).md",
     "README.md",
     "데일리/2023-12-11.md",
-    "데일리/2023-12-09.md",
-    "2023-12-09.md",
-    "데일리/2023-12-08.md",
-    "데일리/2023-12-07.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
