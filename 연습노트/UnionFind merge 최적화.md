@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-12
 작성 시간: 14:34
 
-## 주제: #미완
+## 주제: #미완 #알고리즘 #UnionFind 
 
 ----
 ## 내용(Content)
@@ -17,7 +17,52 @@
 
 ### 균형 이진 트리를 적용하기
 
-rank라는 것을 적용해서 큰 랭크쪽으로 붙이도록 하는 것이다. 랭크가 높다는 것이 depth가 크다는 의미이고, 큰 depth 쪽으로 낮은 depth들이 이동하도록 하는 것이다. 이런 경우에 최악의 경우에도 O(logN) 시작복잡도를 유지할 
+rank라는 것을 적용해서 큰 랭크쪽으로 붙이도록 하는 것이다. 랭크가 높다는 것이 depth가 크다는 의미이고, 큰 depth 쪽으로 낮은 depth들이 이동하도록 하는 것이다. 이런 경우에 최악의 경우에도 O(logN) 시작복잡도를 유지할 수 있다.
+
+
+### code
+
+```java
+public class UnionFind {  
+  
+    private final int[] parents;  
+    private final int[] ranks;  
+  
+    public UnionFind(int n) {  
+       parents = new int[n + 1];  
+       ranks = new int[n + 1];  
+       for (int i = 0; i <= n; i++) {  
+          parents[i] = i;  
+       }  
+    }  
+  
+    public int find(int x) {  
+       if (parents[x] != x) {  
+          parents[x] = find(parents[x]);  
+       }  
+       return parents[x];  
+    }  
+  
+    public void merge(int x, int y) {  
+       int rootX = find(x);  
+       int rootY = find(y);  
+       if (rootX == rootY) {  
+          return;  
+       }  
+       if (ranks[rootX] < ranks[rootY]) {  
+          parents[rootX] = rootY;  
+       } else if (ranks[rootX] > ranks[rootY]) {  
+          parents[rootY] = rootX;  
+       } else {  
+          parents[rootX] = rootY;  
+          ranks[rootY]++;  
+       }  
+    }  
+}
+```
+
+merge 부분을 살펴보면 merge부분이  rank에 따라 parents를 어떻게 업데이트 할지 결정된다. 이전 설명대로 랭크가  큰 쪽을 부모 root로 설정한다. 같은 경우에는 rank가 올라간다. rank == depth
+
 ## 질문 & 확장
 
 (없음)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/UnionFind merge 최적화.md",
+                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/UnionFind merge 최적화.md",
+                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/UnionFind merge 최적화.md",
+                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/UnionFind merge 최적화.md",
+                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/UnionFind merge 최적화.md"
+                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md"
               }
             }
           }
@@ -255,9 +255,12 @@
   },
   "active": "54cd92adbe4d0073",
   "lastOpenFiles": [
-    "Excalidraw/UnionFind예제2(draw).md",
-    "연습노트/UnionFind merge 최적화.md",
     "Resources/IT/알고리즘.md",
+    "연습노트/UnionFind 그룹별 갯수 구하기.md",
+    "Resources/IT/java/Spring JDBC.md",
+    "Resources/IT/부하 테스트.md",
+    "연습노트/UnionFind merge 최적화.md",
+    "Excalidraw/UnionFind예제2(draw).md",
     "연습노트/UnionFind.md",
     "Excalidraw/UnionFind예시1(draw).md",
     "README.md",
@@ -276,11 +279,8 @@
     "Resources/IT/java/Java Annotation.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/표준 Java Error.md",
-    "Resources/IT/부하 테스트.md",
     "영구노트/k6 스크립트 문법.md",
-    "Resources/IT/java/Spring JDBC.md",
     "Resources/IT/java/Java 공부.md",
-    "연습노트/Why Kotlin.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
