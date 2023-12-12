@@ -8,7 +8,7 @@
 
 ### Simple UnionFind의 문제점
 
-경로최적화만 적용된 UnionFind의 문제점은 
+경로 최적화만 적용된 UnionFind의 문제점은 
 
 ## 질문 & 확장
 
