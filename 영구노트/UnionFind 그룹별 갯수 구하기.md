@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-12
 작성 시간: 16:18
 
-## 주제: #미완 #솔루션
+## 주제: #완성 #솔루션 #알고리즘 #UnionFind 
 
 ----
 
@@ -14,13 +14,17 @@ UnionFind의 그룹별 갯수를 구하되, 박싱/언박싱으로 발생하는 
 UnionFind는 노드 번호 별로 일차원 배열에 저장하고, 이를 활용해 노드를 연결하고 공통 조상을 정하게 된다. 이것을 카운트할 때 find(int x) 메서드를 활용하는데 이것이 리턴하는 것이 int이기 때문에 배열을 충분히 활용할 수 있다. 배열의 index: find(x) 로 매핑하고 value값은 counting해주면 된다.
 
 ```java
-public int[] count() {
+public int[] counts() {
+	int[] counts = new int[parents.length];
 	for (int i = 0; i < parents.length; i++) {
-		int root = f
+		int root = find(i);
+		counts[root]++;
 	}
+	return counts;
 }
 ```
 
+생성하는데 O(N)의 시간복잡도가 소모되며, int[] 타입이기 업데이트 및 접근이 굉장히 빠르다.
 
 ## 질문 & 확장
 

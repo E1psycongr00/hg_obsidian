@@ -4,40 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "99e7036ef72d6a75",
+        "id": "98d6f38b767d066a",
         "type": "tabs",
         "children": [
           {
-            "id": "54cd92adbe4d0073",
+            "id": "8fdd0d7da9a996cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36bac00723ad9081",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/UnionFind예제2(draw).md"
-              }
-            }
-          },
-          {
-            "id": "91684300b015ef4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/UnionFind.md",
-                "mode": "source",
+                "file": "데일리/2023-12-06.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -110,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
+                "file": "데일리/2023-12-06.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
+                "file": "데일리/2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md",
+                "file": "데일리/2023-12-06.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/UnionFind 그룹별 갯수 구하기.md"
+                "file": "데일리/2023-12-06.md"
               }
             }
           }
@@ -253,18 +230,21 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "54cd92adbe4d0073",
+  "active": "8fdd0d7da9a996cd",
   "lastOpenFiles": [
+    "데일리/2023-12-12.md",
+    "무제 파일.md",
     "Resources/IT/알고리즘.md",
-    "연습노트/UnionFind 그룹별 갯수 구하기.md",
-    "Resources/IT/java/Spring JDBC.md",
-    "Resources/IT/부하 테스트.md",
-    "연습노트/UnionFind merge 최적화.md",
     "Excalidraw/UnionFind예제2(draw).md",
-    "연습노트/UnionFind.md",
+    "영구노트/UnionFind.md",
+    "Resources/IT/부하 테스트.md",
+    "Resources/IT/java/Spring JDBC.md",
+    "Resources/IT/java/Java Annotation.md",
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "영구노트/UnionFind merge 최적화.md",
+    "영구노트/UnionFind 그룹별 갯수 구하기.md",
     "Excalidraw/UnionFind예시1(draw).md",
     "README.md",
-    "데일리/2023-12-12.md",
     "데일리/2023-12-11.md",
     "데일리/2023-12-09.md",
     "2023-12-09.md",
@@ -275,12 +255,9 @@
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
-    "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "Resources/IT/java/Java Annotation.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/표준 Java Error.md",
     "영구노트/k6 스크립트 문법.md",
-    "Resources/IT/java/Java 공부.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
