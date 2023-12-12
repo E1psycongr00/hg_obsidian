@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98d6f38b767d066a",
+        "id": "475864a2a9701f32",
         "type": "tabs",
         "children": [
           {
-            "id": "8fdd0d7da9a996cd",
+            "id": "dee621b97b9a38d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,8 +65,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d4d5b1da2fa85337",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -229,10 +238,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "dee621b97b9a38d3",
   "lastOpenFiles": [
-    "Resources/IT/알고리즘.md",
+    "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
     "연습노트/단속 카메라 문제.md",
+    "Resources/IT/알고리즘.md",
     "Resources/IT/Github.md",
     "Resources/IT/Gradle 공부.md",
     "데일리/2023-12-06.md",
@@ -256,7 +266,6 @@
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
