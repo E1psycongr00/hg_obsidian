@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/UnionFind merge 최적화.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/UnionFind merge 최적화.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/UnionFind merge 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/UnionFind merge 최적화.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/알고리즘.md"
+                "file": "연습노트/UnionFind merge 최적화.md"
               }
             }
           }
@@ -245,6 +245,7 @@
   },
   "active": "54cd92adbe4d0073",
   "lastOpenFiles": [
+    "Resources/IT/알고리즘.md",
     "연습노트/UnionFind.md",
     "연습노트/UnionFind merge 최적화.md",
     "Excalidraw/UnionFind예시1(draw).md",
@@ -270,7 +271,6 @@
     "Resources/IT/java/Java 공부.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Project Jigsaw.md",
-    "영구노트/Spring bean validation과 MessageCodesResolver.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
