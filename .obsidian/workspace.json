@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3eac39e6a278eb28",
+            "id": "d2f9521408e0d095",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/단속 카메라 예제1(draw).md"
+                "file": "Excalidraw/단속 카메라 원리1(draw).md"
               }
             }
           }
@@ -85,11 +85,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -230,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500
+    "width": 500,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +252,10 @@
   },
   "active": "dee621b97b9a38d3",
   "lastOpenFiles": [
-    "Excalidraw/단속 카메라 예제1(draw).md",
+    "Excalidraw/단속 카메라 원리1(draw).md",
     "연습노트/단속 카메라 문제.md",
+    "연습노트/무제 파일.md",
+    "Excalidraw/단속 카메라 예제1(draw).md",
     "연습노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/Github.md",
@@ -274,8 +278,6 @@
     "2023-12-09.md",
     "데일리/2023-12-08.md",
     "데일리/2023-12-07.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
