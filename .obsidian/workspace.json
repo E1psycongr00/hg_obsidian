@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d842d3efca27f7c2",
+        "id": "99e7036ef72d6a75",
         "type": "tabs",
         "children": [
           {
-            "id": "cf37b430584c73b1",
+            "id": "57ccc880bebe475d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데일리/2023-12-12.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2023-12-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2023-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +109,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2023-12-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "데일리/2023-12-12.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -230,12 +220,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "cf37b430584c73b1",
+  "active": "57ccc880bebe475d",
   "lastOpenFiles": [
-    "데일리/2023-12-06.md",
+    "README.md",
     "데일리/2023-12-12.md",
     "데일리/2023-12-11.md",
     "데일리/2023-12-09.md",
+    "2023-12-09.md",
+    "데일리/2023-12-06.md",
     "데일리/2023-12-08.md",
     "데일리/2023-12-07.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
@@ -250,14 +242,12 @@
     "영구노트/k6 스크립트 문법.md",
     "Resources/IT/java/Spring JDBC.md",
     "Resources/IT/java/Java 공부.md",
-    "2023-12-09.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Project Jigsaw.md",
     "영구노트/Spring bean validation과 MessageCodesResolver.md",
     "영구노트/MessageSource 분석하기.md",
     "영구노트/ConstraintViolationException.md",
     "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
-    "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
