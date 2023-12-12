@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/회의실 배정 문제.md",
+                "file": "연습노트/단속 카메라 문제.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#databinding",
+                "query": "tag:#솔루션",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/회의실 배정 문제.md",
+                "file": "연습노트/단속 카메라 문제.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/회의실 배정 문제.md",
+                "file": "연습노트/단속 카메라 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/회의실 배정 문제.md",
+                "file": "연습노트/단속 카메라 문제.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/회의실 배정 문제.md"
+                "file": "연습노트/단속 카메라 문제.md"
               }
             }
           }
@@ -230,10 +229,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8fdd0d7da9a996cd",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "Resources/IT/알고리즘.md",
-    "연습노트/회의실 배정 문제.md",
+    "연습노트/단속 카메라 문제.md",
     "Resources/IT/Github.md",
     "Resources/IT/Gradle 공부.md",
     "데일리/2023-12-06.md",
