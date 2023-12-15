@@ -5,6 +5,10 @@
       "path": "연습노트/InfluxDB 소개.md"
     },
     {
+      "basename": "Pasted image 20231215163308",
+      "path": "attachments/screenshot/Pasted image 20231215163308.png"
+    },
+    {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231002163052",
       "path": "attachments/screenshot/Pasted image 20231002163052.png"
-    },
-    {
-      "basename": "Mindmap format",
-      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.md"
     }
   ],
   "omittedPaths": [],
