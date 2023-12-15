@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "연습노트/TSDB란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "128dc147fbc33c70",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
               }
             }
           },
@@ -32,22 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0d2146a22d3083e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/TSDB란.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/TSDB란.md"
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
               }
             }
           }
@@ -265,14 +262,23 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a0d2146a22d3083e",
+  "active": "128dc147fbc33c70",
   "lastOpenFiles": [
-    "연습노트/InfluxDB 소개.md",
     "연습노트/TSDB란.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/Project Jigsaw.md",
+    "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/InfluxDB 소개.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+    "영구노트/2차원 구간합, 부분합.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
+    "연습노트/Project Jigsaw.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/표준 Java Error.md",
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "Resources/IT/java/Java Annotation.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Why Kotlin.md",
     "Resources/IT/부하 테스트.md",
     "Resources/IT/알고리즘.md",
@@ -284,15 +290,6 @@
     "templates/참조 노트 템플릿.md",
     "데일리/2023-12-14.md",
     "데일리/2023-12-13.md",
-    "데일리/2023-12-12.md",
-    "영구노트/단속 카메라 문제.md",
-    "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
-    "Excalidraw/단속 카메라 원리1(draw).md",
-    "Excalidraw/단속 카메라 예제1(draw).md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "Resources/IT/Github.md",
-    "Resources/IT/Gradle 공부.md",
-    "데일리/2023-12-06.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",

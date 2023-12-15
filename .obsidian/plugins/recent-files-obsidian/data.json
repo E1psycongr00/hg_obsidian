@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-12-15 13.24.41.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
+    },
+    {
       "basename": "TSDB란",
       "path": "연습노트/TSDB란.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
       "basename": "InfluxDB 소개",
       "path": "연습노트/InfluxDB 소개.md"
     },
     {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
+      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
+    },
+    {
+      "basename": "2차원 구간합, 부분합",
+      "path": "영구노트/2차원 구간합, 부분합.md"
+    },
+    {
+      "basename": "기초적인 Rest API 서버 설계하기",
+      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
     },
     {
       "basename": "Project Jigsaw",
       "path": "연습노트/Project Jigsaw.md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+      "basename": "java 배열 사용법",
+      "path": "Resources/IT/java/java 배열 사용법.md"
+    },
+    {
+      "basename": "Java 공부",
+      "path": "Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "표준 Java Error",
+      "path": "Resources/IT/java/표준 Java Error.md"
+    },
+    {
+      "basename": "Spring Bean Validation 총정리",
+      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "Resources/IT/java/Java Annotation.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
       "basename": "부하 테스트",
@@ -75,10 +111,6 @@
     {
       "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
       "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
-    },
-    {
-      "basename": "기초적인 Rest API 서버 설계하기",
-      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
     }
   ],
   "omittedPaths": [],
