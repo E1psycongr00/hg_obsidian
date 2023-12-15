@@ -19,6 +19,7 @@
 - https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%89%EC%8A%A4_%EC%8B%9C%EA%B0%84
 
 ## 연결 노트
+- [[UTC(세계 협정시)]]
 
 
 
