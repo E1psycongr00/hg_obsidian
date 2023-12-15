@@ -36,5 +36,7 @@
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-lavender",
   "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-block",
-  "anuppuccin-theme-settings@@anp-header-margin-value": 20
+  "anuppuccin-theme-settings@@anp-header-margin-value": 20,
+  "anuppuccin-theme-settings@@anp-h2-divider": false,
+  "anuppuccin-theme-settings@@h2-line-height": 3
 }
