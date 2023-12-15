@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/InfluxDB 소개.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59996d658b318646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/UTC(세계 협정시).md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/UTC(세계 협정시).md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/UTC(세계 협정시).md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/UTC(세계 협정시).md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -225,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/UTC(세계 협정시).md"
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
               }
             }
           }
@@ -252,15 +238,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "59996d658b318646",
+  "active": "c76d1f5685d6e777",
   "lastOpenFiles": [
-    "영구노트/Unix Time.md",
-    "연습노트/UTC(세계 협정시).md",
     "연습노트/InfluxDB 소개.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "영구노트/UTC(세계 협정시).md",
+    "영구노트/Unix Time.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/TSDB란.md",
     "attachments/screenshot/Pasted image 20231215163308.png",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "attachments/screenshot/Pasted image 20231215144104.png",
