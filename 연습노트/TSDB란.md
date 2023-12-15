@@ -26,9 +26,16 @@ TSDB가 중요해진 이유는 오늘날에 많은 시계열 데이터들을 수
 #### Time Based Storage
 TSDB가 다른 DB와 차별되는 아키텍처 디자인 특징이 있다. 바로 time-stamp를 기반으로 하는 저장소를 가지고 있다는 점이다. 이를 통해 대규모의 데이터를 압축하고 요약하는 등의 작업을 진행하고, 대규모의 시간 데이터들을 쉽게 다루고, 시간 기반 쿼리를 빠르게 수행할 수 있다.
 
+![[InfluxDB 저장 방식(draw)]]
+
+이렇게 시간을 기반으로 데이터를 분할해서 저장하기 때문에 메모리에 로드되는 데이터 양을 줄일 수 있고, 자체적으로 최적화된 압축 알고리즘을 사용해서 비용을 최소화한다.
+
+#### 빠른 쿼리 속도
+
+[Comparison of Relational and Time-Series Databases for Real-Time Massive Datasets](https://bib.irb.hr/datoteka/1015968.06_cts_5558.pdf) 해당 자료에 의하면 시계열 데이터가 많아질수록 기존 db들과 tsdb의 차이점이 두드러진다.
 
 
-
+tsdb(InfluxDB)와 다른 db들의 비교 그래프이다.
 ## 질문 & 확장
 
 (없음)

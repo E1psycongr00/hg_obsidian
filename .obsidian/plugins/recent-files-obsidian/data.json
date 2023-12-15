@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2023-12-15 13.24.41.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
+      "basename": "TSDB란",
+      "path": "연습노트/TSDB란.md"
+    },
+    {
+      "basename": "InfluxDB 저장 방식(draw)",
+      "path": "Excalidraw/InfluxDB 저장 방식(draw).md"
     },
     {
       "basename": "Custom Message 해결 전략(draw)",
@@ -175,10 +179,6 @@
     {
       "basename": "Pasted image 20231002163052",
       "path": "attachments/screenshot/Pasted image 20231002163052.png"
-    },
-    {
-      "basename": "TSDB란",
-      "path": "연습노트/TSDB란.md"
     },
     {
       "basename": "InfluxDB 소개",
