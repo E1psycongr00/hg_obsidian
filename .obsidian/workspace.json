@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0d2146a22d3083e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/TSDB란.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/InfluxDB 소개.md",
+                "file": "연습노트/TSDB란.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/InfluxDB 소개.md",
+                "file": "연습노트/TSDB란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/InfluxDB 소개.md",
+                "file": "연습노트/TSDB란.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/InfluxDB 소개.md"
+                "file": "연습노트/TSDB란.md"
               }
             }
           }
@@ -252,10 +265,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "cfa9ed7d77ade9fd",
+  "active": "a0d2146a22d3083e",
   "lastOpenFiles": [
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/InfluxDB 소개.md",
+    "연습노트/TSDB란.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Why Kotlin.md",
     "Resources/IT/부하 테스트.md",
     "Resources/IT/알고리즘.md",
     "영구노트/k6 소개.md",
@@ -266,17 +284,12 @@
     "templates/참조 노트 템플릿.md",
     "데일리/2023-12-14.md",
     "데일리/2023-12-13.md",
-    "연습노트/Why Kotlin.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "데일리/2023-12-12.md",
     "영구노트/단속 카메라 문제.md",
     "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
     "Excalidraw/단속 카메라 원리1(draw).md",
     "Excalidraw/단속 카메라 예제1(draw).md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/InfluxDB 소개.md",
     "Resources/IT/Github.md",
     "Resources/IT/Gradle 공부.md",
     "데일리/2023-12-06.md",
