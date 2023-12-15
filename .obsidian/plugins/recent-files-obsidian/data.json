@@ -5,12 +5,12 @@
       "path": "연습노트/TSDB란.md"
     },
     {
-      "basename": "Drawing 2023-12-15 13.24.41.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
-    },
-    {
       "basename": "InfluxDB 소개",
       "path": "연습노트/InfluxDB 소개.md"
+    },
+    {
+      "basename": "Drawing 2023-12-15 13.24.41.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
     },
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",

@@ -14,22 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "연습노트/TSDB란.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "cfa9ed7d77ade9fd",
+            "id": "b08f8416b7f7b1e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "연습노트/InfluxDB 소개.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
               }
             }
           }
@@ -254,9 +251,9 @@
   },
   "active": "a7a3e2125ebb4a0b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
-    "연습노트/TSDB란.md",
     "연습노트/InfluxDB 소개.md",
+    "연습노트/TSDB란.md",
+    "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
