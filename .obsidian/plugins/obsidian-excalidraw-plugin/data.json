@@ -10122,6 +10122,12 @@
         "value": 50,
         "description": "The distance between the tail of the connection and the connecting elements of the mind map"
       }
+    },
+    "Downloaded/Normalize Selected Arrows": {
+      "Gap": {
+        "value": 8,
+        "description": "The value of the gap between the connection line and the element, which must be greater than 0. If you want the connector to be next to the element, set it to 1."
+      }
     }
   },
   "defaultTrayMode": true,
@@ -10133,8 +10139,9 @@
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md"
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md"
   ],
   "customPens": [
     {
