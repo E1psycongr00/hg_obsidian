@@ -9,12 +9,16 @@
       "path": "연습노트/TSDB란.md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
       "basename": "InfluxDB 소개",
       "path": "연습노트/InfluxDB 소개.md"
+    },
+    {
+      "basename": "Mindmap format",
+      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",

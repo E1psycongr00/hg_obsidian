@@ -11,19 +11,6 @@
             "id": "a7a3e2125ebb4a0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/TSDB란.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "128dc147fbc33c70",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
@@ -43,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500
+    "width": 500,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,12 +249,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "128dc147fbc33c70",
+  "active": "a7a3e2125ebb4a0b",
   "lastOpenFiles": [
     "연습노트/TSDB란.md",
-    "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/InfluxDB 소개.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
+    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "영구노트/2차원 구간합, 부분합.md",
@@ -287,9 +279,6 @@
     "영구노트/k6 스크립트 문법.md",
     "데일리/2023-12-15.md",
     "templates/일정 템플릿.md",
-    "templates/참조 노트 템플릿.md",
-    "데일리/2023-12-14.md",
-    "데일리/2023-12-13.md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
@@ -298,9 +287,6 @@
     "attachments/Pasted image 20231024143949.png",
     "attachments/Pasted image 20231030204409.png",
     "attachments/Pasted image 20231202185455.png",
-    "attachments/Pasted image 20231202160450.png",
-    "attachments/Pasted image 20231201143922.png",
-    "attachments/Pasted image 20231124125154.png",
     "데일리",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "Resources/IT/무제 폴더",
