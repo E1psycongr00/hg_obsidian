@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "attachments/screenshot",
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",

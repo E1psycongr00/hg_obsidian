@@ -1,16 +1,184 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2023-12-15 13.24.41.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
+    },
+    {
+      "basename": "Pasted image 20231003191242",
+      "path": "attachments/screenshot/Pasted image 20231003191242.png"
+    },
+    {
+      "basename": "JRE 와 JDK 의 차이",
+      "path": "영구노트/JRE 와 JDK 의 차이.md"
+    },
+    {
+      "basename": "Pasted image 20231202185516",
+      "path": "attachments/screenshot/Pasted image 20231202185516.png"
+    },
+    {
+      "basename": "Pasted image 20231001220742",
+      "path": "attachments/screenshot/Pasted image 20231001220742.png"
+    },
+    {
+      "basename": "Pasted image 20231001204409",
+      "path": "attachments/screenshot/Pasted image 20231001204409.png"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Resources/Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "Locust 동작 방식",
+      "path": "영구노트/Locust 동작 방식.md"
+    },
+    {
+      "basename": "java.nio.file.Path 사용하기",
+      "path": "영구노트/java.nio.file.Path 사용하기.md"
+    },
+    {
+      "basename": "Java Record 사용법",
+      "path": "영구노트/Java Record 사용법.md"
+    },
+    {
+      "basename": "java.io.File 파일 생성 및 가져오기",
+      "path": "영구노트/java.io.File 파일 생성 및 가져오기.md"
+    },
+    {
+      "basename": "java bean validation에서 custom validator 만들기",
+      "path": "영구노트/java bean validation에서 custom validator 만들기.md"
+    },
+    {
+      "basename": "Java Bean Validation 소개",
+      "path": "영구노트/Java Bean Validation 소개.md"
+    },
+    {
+      "basename": "Java 시간 관련 라이브러리 다루기",
+      "path": "영구노트/Java 시간 관련 라이브러리 다루기.md"
+    },
+    {
+      "basename": "Gradle 지원 버전",
+      "path": "영구노트/Gradle 지원 버전.md"
+    },
+    {
+      "basename": "Garbage Collection(가비지 컬렉션) 소개",
+      "path": "영구노트/Garbage Collection(가비지 컬렉션) 소개.md"
+    },
+    {
+      "basename": "ConstraintViolationException",
+      "path": "영구노트/ConstraintViolationException.md"
+    },
+    {
+      "basename": "히오스 제라툴 딜계산",
+      "path": "영구노트/히오스 제라툴 딜계산.md"
+    },
+    {
+      "basename": "나만의 노트 확장 방법",
+      "path": "영구노트/나만의 노트 확장 방법.md"
+    },
+    {
+      "basename": "때로는 승부에서 패배해봐야 .... by donald trump",
+      "path": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
+    },
+    {
+      "basename": "메서드 return에 java bean validation 적용 및 테스트",
+      "path": "영구노트/메서드 return에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "Pasted image 20231003181508",
+      "path": "attachments/screenshot/Pasted image 20231003181508.png"
+    },
+    {
+      "basename": "Pasted image 20231002150914",
+      "path": "attachments/screenshot/Pasted image 20231002150914.png"
+    },
+    {
+      "basename": "부분합, 누적합",
+      "path": "영구노트/부분합, 누적합.md"
+    },
+    {
+      "basename": "니콜라스 루만",
+      "path": "영구노트/니콜라스 루만.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 기법+ 옵시디언",
+      "path": "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md"
+    },
+    {
+      "basename": "1D array constant time query update",
+      "path": "영구노트/1D array constant time query update.md"
+    },
+    {
+      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
+      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
+    },
+    {
+      "basename": "나만의 노트 분리하기",
+      "path": "영구노트/나만의 노트 분리하기.md"
+    },
+    {
+      "basename": "Pasted image 20231001224939",
+      "path": "attachments/screenshot/Pasted image 20231001224939.png"
+    },
+    {
+      "basename": "Pasted image 20231002170648",
+      "path": "attachments/screenshot/Pasted image 20231002170648.png"
+    },
+    {
+      "basename": "Pasted image 20231003181650",
+      "path": "attachments/screenshot/Pasted image 20231003181650.png"
+    },
+    {
+      "basename": "Pasted image 20231202185455",
+      "path": "attachments/screenshot/Pasted image 20231202185455.png"
+    },
+    {
+      "basename": "Pasted image 20231206191313",
+      "path": "attachments/screenshot/Pasted image 20231206191313.png"
+    },
+    {
+      "basename": "Pasted image 20231201133400",
+      "path": "attachments/screenshot/Pasted image 20231201133400.png"
+    },
+    {
+      "basename": "Pasted image 20231030204435",
+      "path": "attachments/screenshot/Pasted image 20231030204435.png"
+    },
+    {
+      "basename": "Pasted image 20231026193345",
+      "path": "attachments/screenshot/Pasted image 20231026193345.png"
+    },
+    {
+      "basename": "Pasted image 20231023130449",
+      "path": "attachments/screenshot/Pasted image 20231023130449.png"
+    },
+    {
+      "basename": "Pasted image 20231017110425",
+      "path": "attachments/screenshot/Pasted image 20231017110425.png"
+    },
+    {
+      "basename": "Pasted image 20231011172103",
+      "path": "attachments/screenshot/Pasted image 20231011172103.png"
+    },
+    {
+      "basename": "Pasted image 20231005181345",
+      "path": "attachments/screenshot/Pasted image 20231005181345.png"
+    },
+    {
+      "basename": "Pasted image 20231003181849",
+      "path": "attachments/screenshot/Pasted image 20231003181849.png"
+    },
+    {
+      "basename": "Pasted image 20231002163052",
+      "path": "attachments/screenshot/Pasted image 20231002163052.png"
+    },
+    {
       "basename": "TSDB란",
       "path": "연습노트/TSDB란.md"
     },
     {
       "basename": "InfluxDB 소개",
       "path": "연습노트/InfluxDB 소개.md"
-    },
-    {
-      "basename": "Drawing 2023-12-15 13.24.41.excalidraw",
-      "path": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
     },
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
@@ -29,96 +197,8 @@
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
-      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
-      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
-    },
-    {
       "basename": "2차원 구간합, 부분합",
       "path": "영구노트/2차원 구간합, 부분합.md"
-    },
-    {
-      "basename": "기초적인 Rest API 서버 설계하기",
-      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
-    },
-    {
-      "basename": "Project Jigsaw",
-      "path": "연습노트/Project Jigsaw.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "표준 Java Error",
-      "path": "Resources/IT/java/표준 Java Error.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "Resources/IT/부하 테스트.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "Resources/IT/알고리즘.md"
-    },
-    {
-      "basename": "k6 소개",
-      "path": "영구노트/k6 소개.md"
-    },
-    {
-      "basename": "k6 Metric",
-      "path": "영구노트/k6 Metric.md"
-    },
-    {
-      "basename": "k6 스크립트 문법",
-      "path": "영구노트/k6 스크립트 문법.md"
-    },
-    {
-      "basename": "2023-12-15",
-      "path": "데일리/2023-12-15.md"
-    },
-    {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "2023-12-14",
-      "path": "데일리/2023-12-14.md"
-    },
-    {
-      "basename": "2023-12-13",
-      "path": "데일리/2023-12-13.md"
-    },
-    {
-      "basename": "2023-12-12",
-      "path": "데일리/2023-12-12.md"
-    },
-    {
-      "basename": "단속 카메라 문제",
-      "path": "영구노트/단속 카메라 문제.md"
-    },
-    {
-      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
-      "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
     }
   ],
   "omittedPaths": [],

@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7a3e2125ebb4a0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/TSDB란.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b08f8416b7f7b1e4",
             "type": "leaf",
             "state": {
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +130,7 @@
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -157,7 +144,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224473,
+                  "scale": 0.7132754626224482,
                   "close": true
                 }
               }
@@ -201,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -221,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/TSDB란.md"
+                "file": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
               }
             }
           }
@@ -230,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500,
-    "collapsed": true
+    "width": 500
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,44 +235,45 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a7a3e2125ebb4a0b",
+  "active": "b08f8416b7f7b1e4",
   "lastOpenFiles": [
-    "연습노트/InfluxDB 소개.md",
-    "연습노트/TSDB란.md",
-    "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "attachments/screenshot/Pasted image 20231003191242.png",
+    "영구노트/JRE 와 JDK 의 차이.md",
+    "attachments/screenshot/Pasted image 20231202185516.png",
+    "attachments/screenshot/Pasted image 20231001220742.png",
+    "attachments/screenshot/Pasted image 20231001204409.png",
+    "Resources/Obsidian/Obsidian.md",
+    "영구노트/Locust 동작 방식.md",
+    "attachments/screenshot",
+    "영구노트/java.nio.file.Path 사용하기.md",
+    "영구노트/Java Record 사용법.md",
+    "영구노트/java.io.File 파일 생성 및 가져오기.md",
+    "영구노트/java bean validation에서 custom validator 만들기.md",
+    "영구노트/Java Bean Validation 소개.md",
+    "영구노트/Java 시간 관련 라이브러리 다루기.md",
+    "영구노트/Gradle 지원 버전.md",
+    "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
+    "영구노트/ConstraintViolationException.md",
+    "영구노트/히오스 제라툴 딜계산.md",
+    "영구노트/나만의 노트 확장 방법.md",
+    "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
+    "영구노트/메서드 return에 java bean validation 적용 및 테스트.md",
+    "attachments/screenshot/Pasted image 20231003181508.png",
+    "attachments/screenshot/Pasted image 20231002150914.png",
+    "영구노트/부분합, 누적합.md",
+    "영구노트/니콜라스 루만.md",
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/1D array constant time query update.md",
     "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "영구노트/2차원 구간합, 부분합.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/Project Jigsaw.md",
-    "Resources/IT/java/java 배열 사용법.md",
-    "Resources/IT/java/Java 공부.md",
-    "Resources/IT/java/표준 Java Error.md",
-    "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "Resources/IT/java/Java Annotation.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Why Kotlin.md",
-    "Resources/IT/부하 테스트.md",
-    "Resources/IT/알고리즘.md",
-    "영구노트/k6 소개.md",
-    "영구노트/k6 Metric.md",
-    "영구노트/k6 스크립트 문법.md",
-    "데일리/2023-12-15.md",
-    "templates/일정 템플릿.md",
-    "attachments/Pasted image 20231206191313.png",
-    "attachments/Pasted image 20231206162639.png",
+    "영구노트/나만의 노트 분리하기.md",
+    "attachments/screenshot/Pasted image 20231001224939.png",
+    "attachments/screenshot/Pasted image 20231002170648.png",
+    "attachments/screenshot/Pasted image 20231003181650.png",
+    "attachments/screenshot/Pasted image 20231202185455.png",
+    "연습노트/TSDB란.md",
+    "연습노트/InfluxDB 소개.md",
+    "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md",
     "Resources/명언/명언 모음.canvas",
-    "attachments/Pasted image 20231016142218.png",
-    "attachments/Pasted image 20231019170743.png",
-    "attachments/Pasted image 20231024143949.png",
-    "attachments/Pasted image 20231030204409.png",
-    "attachments/Pasted image 20231202185455.png",
     "데일리",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "Resources/IT/무제 폴더",
@@ -297,7 +284,6 @@
     "Resources/IT/Java",
     "Java 에 대하여.canvas",
     "Excalidraw/libraries/it-icons.excalidrawlib",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }
