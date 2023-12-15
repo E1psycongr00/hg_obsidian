@@ -5,6 +5,10 @@
       "path": "Excalidraw/Drawing 2023-12-15 13.24.41.excalidraw.md"
     },
     {
+      "basename": "Custom Message 해결 전략(draw)",
+      "path": "Excalidraw/Custom Message 해결 전략(draw).md"
+    },
+    {
       "basename": "Pasted image 20231003191242",
       "path": "attachments/screenshot/Pasted image 20231003191242.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "2차원 구간합, 부분합",
-      "path": "영구노트/2차원 구간합, 부분합.md"
     }
   ],
   "omittedPaths": [],
