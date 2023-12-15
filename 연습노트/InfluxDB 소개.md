@@ -35,6 +35,10 @@ TICK Stack 기반으로 구축한 시스템
 | indexed columns   | tags(string type only) |
 | unindexed columns | fields                 |
 
+#### measurement
+
+RDB의 테이블과 매칭되는 키워드이다.  RDB에서 여러 테이블을 가질 수 있는 것과 같이 InfluxDB에서도 여러 개의 measurement를 가질 수 있다.
+
 ## 질문 & 확장
 
 (없음)
