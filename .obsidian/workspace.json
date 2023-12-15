@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa9ed7d77ade9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/InfluxDB 소개.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/InfluxDB 소개.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/InfluxDB 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/InfluxDB 소개.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/알고리즘.md"
+                "file": "연습노트/InfluxDB 소개.md"
               }
             }
           }
@@ -238,34 +252,34 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a7a3e2125ebb4a0b",
+  "active": "cfa9ed7d77ade9fd",
   "lastOpenFiles": [
-    "데일리/2023-12-13.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/InfluxDB 소개.md",
     "Resources/IT/부하 테스트.md",
+    "Resources/IT/알고리즘.md",
+    "영구노트/k6 소개.md",
+    "영구노트/k6 Metric.md",
+    "영구노트/k6 스크립트 문법.md",
+    "데일리/2023-12-15.md",
+    "templates/일정 템플릿.md",
+    "templates/참조 노트 템플릿.md",
+    "데일리/2023-12-14.md",
+    "데일리/2023-12-13.md",
     "연습노트/Why Kotlin.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "무제 파일.md",
     "데일리/2023-12-12.md",
-    "Resources/IT/알고리즘.md",
     "영구노트/단속 카메라 문제.md",
     "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
     "Excalidraw/단속 카메라 원리1(draw).md",
     "Excalidraw/단속 카메라 예제1(draw).md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/무제 파일.md",
+    "연습노트/InfluxDB 소개.md",
     "Resources/IT/Github.md",
     "Resources/IT/Gradle 공부.md",
     "데일리/2023-12-06.md",
-    "Excalidraw/UnionFind예제2(draw).md",
-    "영구노트/UnionFind.md",
-    "Resources/IT/java/Spring JDBC.md",
-    "Resources/IT/java/Java Annotation.md",
-    "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "영구노트/UnionFind merge 최적화.md",
-    "영구노트/UnionFind 그룹별 갯수 구하기.md",
-    "Excalidraw/UnionFind예시1(draw).md",
     "attachments/Pasted image 20231206191313.png",
     "attachments/Pasted image 20231206162639.png",
     "Resources/명언/명언 모음.canvas",
