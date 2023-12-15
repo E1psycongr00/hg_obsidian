@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "연습노트/InfluxDB 소개.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "연습노트/InfluxDB 소개.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "연습노트/InfluxDB 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/TSDB란.md",
+                "file": "연습노트/InfluxDB 소개.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/TSDB란.md"
+                "file": "연습노트/InfluxDB 소개.md"
               }
             }
           }
@@ -240,7 +240,19 @@
   },
   "active": "c76d1f5685d6e777",
   "lastOpenFiles": [
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/InfluxDB 소개.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/TSDB란.md",
+    "attachments/screenshot/Pasted image 20231215144104.png",
+    "attachments/screenshot/Pasted image 20231215144059.png",
+    "attachments/screenshot/Pasted image 20231215144050.png",
+    "attachments/screenshot/Pasted image 20231215144042.png",
+    "attachments/screenshot/Pasted image 20231215143923.png",
+    "attachments/screenshot/Pasted image 20231215143911.png",
+    "attachments/screenshot/Pasted image 20231215143853.png",
     "Excalidraw/InfluxDB 저장 방식(draw).md",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
@@ -248,14 +260,9 @@
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded/Reverse arrows.svg",
     "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Custom Message 해결 전략(draw).md",
-    "attachments/screenshot/Pasted image 20231003191242.png",
     "영구노트/JRE 와 JDK 의 차이.md",
-    "attachments/screenshot/Pasted image 20231202185516.png",
-    "attachments/screenshot/Pasted image 20231001220742.png",
-    "attachments/screenshot/Pasted image 20231001204409.png",
     "Resources/Obsidian/Obsidian.md",
     "영구노트/Locust 동작 방식.md",
     "attachments/screenshot",
@@ -270,13 +277,6 @@
     "영구노트/ConstraintViolationException.md",
     "영구노트/히오스 제라툴 딜계산.md",
     "영구노트/나만의 노트 확장 방법.md",
-    "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
-    "영구노트/메서드 return에 java bean validation 적용 및 테스트.md",
-    "attachments/screenshot/Pasted image 20231003181508.png",
-    "attachments/screenshot/Pasted image 20231002150914.png",
-    "영구노트/부분합, 누적합.md",
-    "영구노트/니콜라스 루만.md",
-    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "Resources/명언/명언 모음.canvas",
     "데일리",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",

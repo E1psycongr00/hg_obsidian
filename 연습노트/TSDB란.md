@@ -34,8 +34,24 @@ TSDB가 다른 DB와 차별되는 아키텍처 디자인 특징이 있다. 바�
 
 [Comparison of Relational and Time-Series Databases for Real-Time Massive Datasets](https://bib.irb.hr/datoteka/1015968.06_cts_5558.pdf) 해당 자료에 의하면 시계열 데이터가 많아질수록 기존 db들과 tsdb의 차이점이 두드러진다.
 
+![[Pasted image 20231215144042.png]]
 
-tsdb(InfluxDB)와 다른 db들의 비교 그래프이다.
+![[Pasted image 20231215144050.png]]
+
+
+tsdb(InfluxDB)와 NoSQL 비교 그래프이다. 이것 말고도 여러가지 비교들이 있지만 성능을 보았을 때 데이터가 쌓이면 InfluxDB가 성능이 좋음을 알 수 있다.
+
+#### 다양한 자동화 기능
+
+시계열 데이터 분석에는 데이터 요약이나, 통계와 같은 작업이 요구된다. TSDB는 특정 주기마다 자동으로 데이터를 처리하거나 오래된 데이터는 삭제하는 등 편의성을 제공한다.(InfluxDB)
+
+#### 단점
+
+TSDB는 시계열데이터 맞춤으로 설계된 DB이기 때문에 다음과 같은 단점들이 존재한다.
+
+- INSERT와 SELECT 최적화를 위해 DELETE나 UPDATE가 제한된다
+- 시간에 따른 데이터를 오름차순으로 정렬하기 때문에 임의 시간에 대해서 읽고 쓰는 작업은 효율이 떨어짐
+
 ## 질문 & 확장
 
 (없음)

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "InfluxDB 소개",
+      "path": "연습노트/InfluxDB 소개.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Project Jigsaw",
+      "path": "연습노트/Project Jigsaw.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
       "basename": "TSDB란",
       "path": "연습노트/TSDB란.md"
     },
@@ -137,10 +157,6 @@
       "path": "attachments/screenshot/Pasted image 20231003181650.png"
     },
     {
-      "basename": "Pasted image 20231202185455",
-      "path": "attachments/screenshot/Pasted image 20231202185455.png"
-    },
-    {
       "basename": "Pasted image 20231206191313",
       "path": "attachments/screenshot/Pasted image 20231206191313.png"
     },
@@ -181,24 +197,8 @@
       "path": "attachments/screenshot/Pasted image 20231002163052.png"
     },
     {
-      "basename": "InfluxDB 소개",
-      "path": "연습노트/InfluxDB 소개.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
       "basename": "Mindmap format",
       "path": "Excalidraw/Scripts/Downloaded/Mindmap format.md"
-    },
-    {
-      "basename": "Mindmap format",
-      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     }
   ],
   "omittedPaths": [],
