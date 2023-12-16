@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "서비스 수준 용어",
-      "path": "영구노트/서비스 수준 용어.md"
+      "basename": "k6 소개",
+      "path": "영구노트/k6 소개.md"
     },
     {
       "basename": "부하 테스트",
       "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "서비스 수준 용어",
+      "path": "영구노트/서비스 수준 용어.md"
     },
     {
       "basename": "부하 테스트의 가용성과 확장성의 정의",
@@ -195,10 +199,6 @@
     {
       "basename": "니콜라스 루만",
       "path": "영구노트/니콜라스 루만.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 기법+ 옵시디언",
-      "path": "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "영구노트/k6 소개.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "영구노트/k6 소개.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "영구노트/k6 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md",
+                "file": "영구노트/k6 소개.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/서비스 수준 용어.md"
+                "file": "영구노트/k6 소개.md"
               }
             }
           }
@@ -241,6 +241,7 @@
   "active": "c76d1f5685d6e777",
   "lastOpenFiles": [
     "Resources/IT/부하 테스트.md",
+    "영구노트/서비스 수준 용어.md",
     "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
     "영구노트/Locust 소개.md",
     "templates/동기 템플릿.md",
@@ -275,7 +276,6 @@
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
