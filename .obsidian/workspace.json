@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "데일리/2023-12-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "데일리/2023-12-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "데일리/2023-12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "데일리/2023-12-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "350459afc1252945",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+                "file": "데일리/2023-12-16.md"
               }
             }
           }
@@ -240,15 +240,20 @@
   },
   "active": "c76d1f5685d6e777",
   "lastOpenFiles": [
-    "연습노트/InfluxDB 소개.md",
+    "데일리/2023-12-15.md",
+    "데일리/2023-12-14.md",
+    "데일리/2023-12-13.md",
+    "데일리/2023-12-16.md",
+    "영구노트/InfluxDB 소개.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Project Jigsaw.md",
     "영구노트/UTC(세계 협정시).md",
     "영구노트/Unix Time.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/TSDB란.md",
     "attachments/screenshot/Pasted image 20231215163308.png",
-    "연습노트/Project Jigsaw.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "attachments/screenshot/Pasted image 20231215144104.png",
     "attachments/screenshot/Pasted image 20231215144059.png",
     "attachments/screenshot/Pasted image 20231215144050.png",
@@ -272,11 +277,6 @@
     "영구노트/Java Record 사용법.md",
     "영구노트/java.io.File 파일 생성 및 가져오기.md",
     "영구노트/java bean validation에서 custom validator 만들기.md",
-    "영구노트/Java Bean Validation 소개.md",
-    "영구노트/Java 시간 관련 라이브러리 다루기.md",
-    "영구노트/Gradle 지원 버전.md",
-    "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
-    "영구노트/ConstraintViolationException.md",
     "Resources/명언/명언 모음.canvas",
     "데일리",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
