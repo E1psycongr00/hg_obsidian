@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/서비스 수준 용어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/부하 테스트.md"
+                "file": "영구노트/서비스 수준 용어.md"
               }
             }
           }
@@ -240,8 +240,9 @@
   },
   "active": "c76d1f5685d6e777",
   "lastOpenFiles": [
-    "영구노트/Locust 소개.md",
     "Resources/IT/부하 테스트.md",
+    "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
+    "영구노트/Locust 소개.md",
     "templates/동기 템플릿.md",
     "templates/솔루션 템플릿.md",
     "templates/영상 참조 템플릿.md",
@@ -275,7 +276,6 @@
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
     "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Custom Message 해결 전략(draw).md",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
