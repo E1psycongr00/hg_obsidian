@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "부하 테스트",
+      "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "Locust 소개",
+      "path": "영구노트/Locust 소개.md"
+    },
+    {
+      "basename": "동기 템플릿",
+      "path": "templates/동기 템플릿.md"
+    },
+    {
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
+    },
+    {
+      "basename": "영상 참조 템플릿",
+      "path": "templates/영상 참조 템플릿.md"
+    },
+    {
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
+    },
+    {
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
+    },
+    {
       "basename": "2023-12-16",
       "path": "데일리/2023-12-16.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
       "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
-    },
-    {
-      "basename": "나만의 노트 분리하기",
-      "path": "영구노트/나만의 노트 분리하기.md"
-    },
-    {
-      "basename": "Pasted image 20231001224939",
-      "path": "attachments/screenshot/Pasted image 20231001224939.png"
-    },
-    {
-      "basename": "Pasted image 20231002170648",
-      "path": "attachments/screenshot/Pasted image 20231002170648.png"
-    },
-    {
-      "basename": "Pasted image 20231003181650",
-      "path": "attachments/screenshot/Pasted image 20231003181650.png"
-    },
-    {
-      "basename": "Pasted image 20231206191313",
-      "path": "attachments/screenshot/Pasted image 20231206191313.png"
-    },
-    {
-      "basename": "Pasted image 20231201133400",
-      "path": "attachments/screenshot/Pasted image 20231201133400.png"
-    },
-    {
-      "basename": "Pasted image 20231030204435",
-      "path": "attachments/screenshot/Pasted image 20231030204435.png"
     }
   ],
   "omittedPaths": [],
