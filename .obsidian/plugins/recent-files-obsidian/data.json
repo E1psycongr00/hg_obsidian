@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "연습노트/Kernel Level Thread vs User Level Thread.md"
+    },
+    {
       "basename": "k6 소개",
       "path": "영구노트/k6 소개.md"
     },
     {
       "basename": "GoRoutine 고루틴 소개",
       "path": "연습노트/GoRoutine 고루틴 소개.md"
-    },
-    {
-      "basename": "Kernel Level Thread vs User Level Thread",
-      "path": "연습노트/Kernel Level Thread vs User Level Thread.md"
     },
     {
       "basename": "부하 테스트",
