@@ -5,6 +5,10 @@
       "path": "연습노트/Kernel Level Thread vs User Level Thread.md"
     },
     {
+      "basename": "GoRoutine 고루틴 소개",
+      "path": "연습노트/GoRoutine 고루틴 소개.md"
+    },
+    {
       "basename": "many-to-one-thread model(draw)",
       "path": "Excalidraw/many-to-one-thread model(draw).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "many-to-many thread model(draw)",
       "path": "Excalidraw/many-to-many thread model(draw).md"
-    },
-    {
-      "basename": "GoRoutine 고루틴 소개",
-      "path": "연습노트/GoRoutine 고루틴 소개.md"
     },
     {
       "basename": "k6 소개",

@@ -53,12 +53,21 @@ Thread는 어떠한 프로그램 내에서, 특히 프로세스 내에서 실행
 #### many-to-many
 ![[many-to-many thread model(draw)]]
 
-여러 개의 사용자 스레드를 
-### Combined Thread
-User-Level-Thread와 Kernel-Level-Thread를 섞은 혼합 모델이다. 유저 레벨 스레드는 LWP에 의해 multiplex된다. 커널은 LWP를 스케줄링하고, LWP는 대기 중인 유저 레벨 스레드를 실행한다. 
+**특징**
+여러 개의 사용자 스레드를 그보다 적은 수 또는 같은 수의 Kernel Thread와 함께 다양한 작업을 효과적으로 관리하고 분배한다. 
 
->[!info] LWP
->Light Weight Process의 약자로 우리가 알고 있는 Thread가 바로 LWP이다. LWP는 프로세스 내부의 메모리를 공유한다.
+Kernel Thread의 수는 응용 프로그램이나 머신의 사양에 따라 결정된다.
+ex) 응용 프로그램은 4개의 코어 시스템보다 8개의 코어 시스템에서 더 많은 Kernel Thread를 할당 받을 수 있음.
+
+**장점**
+- 개발자는 필요한 만큼 사용자 수준 스레드를 생성가능하고 스레드를 병렬로 실행 가능함
+- 스레드가 시스템 호출에 의해 멈추더라도 커널이 다른 스레드 수행을 스케줄링 가능하다
+
+**단점**
+- 구현 난이도가 높다
+
+
+
 ## 질문 & 확장
 
 (없음)
