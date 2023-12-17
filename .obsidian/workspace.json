@@ -32,9 +32,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c82b3fce8ef7d76",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/many-to-one-thread model(draw).md"
+              }
+            }
+          },
+          {
+            "id": "e67d1e3db2e84e13",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/one-to-one thread model(draw).md"
+              }
+            }
+          },
+          {
+            "id": "6070922ad3daf22d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/many-to-many thread model(draw).md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "Excalidraw/many-to-many thread model(draw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "Excalidraw/many-to-many thread model(draw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "Excalidraw/many-to-many thread model(draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md"
+                "file": "Excalidraw/many-to-many thread model(draw).md"
               }
             }
           }
@@ -252,10 +282,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "e8bfb56c725d909e",
+  "active": "6070922ad3daf22d",
   "lastOpenFiles": [
-    "연습노트/GoRoutine 고루틴 소개.md",
+    "Excalidraw/many-to-one-thread model(draw).md",
+    "Excalidraw/one-to-one thread model(draw).md",
+    "Excalidraw/many-to-many thread model(draw).md",
     "연습노트/Kernel Level Thread vs User Level Thread.md",
+    "연습노트/GoRoutine 고루틴 소개.md",
     "영구노트/k6 소개.md",
     "attachments/screenshot/Pasted image 20231217201103.png",
     "Resources/IT/부하 테스트.md",
@@ -278,9 +311,6 @@
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Project Jigsaw.md",
-    "영구노트/UTC(세계 협정시).md",
-    "영구노트/Unix Time.md",
     "attachments/screenshot/Pasted image 20231215163308.png",
     "attachments/screenshot/Pasted image 20231215144104.png",
     "attachments/screenshot/Pasted image 20231215144059.png",
