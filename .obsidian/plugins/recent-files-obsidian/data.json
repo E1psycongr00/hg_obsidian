@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "k6 소개",
+      "path": "영구노트/k6 소개.md"
+    },
+    {
       "basename": "부하 테스트",
       "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
       "basename": "k6 스크립트 문법",
@@ -11,10 +19,6 @@
     {
       "basename": "k6 Metric",
       "path": "영구노트/k6 Metric.md"
-    },
-    {
-      "basename": "k6 소개",
-      "path": "영구노트/k6 소개.md"
     },
     {
       "basename": "서비스 수준 용어",
@@ -75,10 +79,6 @@
     {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/k6 소개.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/k6 소개.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/k6 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/k6 소개.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/부하 테스트.md"
+                "file": "영구노트/k6 소개.md"
               }
             }
           }
@@ -240,8 +241,9 @@
   },
   "active": "c76d1f5685d6e777",
   "lastOpenFiles": [
-    "영구노트/k6 스크립트 문법.md",
     "Resources/IT/부하 테스트.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "영구노트/k6 스크립트 문법.md",
     "영구노트/k6 Metric.md",
     "영구노트/k6 소개.md",
     "영구노트/서비스 수준 용어.md",
@@ -259,7 +261,6 @@
     "영구노트/InfluxDB 소개.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Project Jigsaw.md",
     "영구노트/UTC(세계 협정시).md",
