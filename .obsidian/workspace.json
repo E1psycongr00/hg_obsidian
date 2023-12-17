@@ -32,39 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c82b3fce8ef7d76",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/many-to-one-thread model(draw).md"
-              }
-            }
-          },
-          {
-            "id": "e67d1e3db2e84e13",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/one-to-one thread model(draw).md"
-              }
-            }
-          },
-          {
-            "id": "6070922ad3daf22d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/many-to-many thread model(draw).md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/many-to-many thread model(draw).md",
+                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/many-to-many thread model(draw).md",
+                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/many-to-many thread model(draw).md",
+                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/many-to-many thread model(draw).md"
+                "file": "연습노트/Kernel Level Thread vs User Level Thread.md"
               }
             }
           }
@@ -282,7 +252,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6070922ad3daf22d",
+  "active": "e8bfb56c725d909e",
   "lastOpenFiles": [
     "Excalidraw/many-to-one-thread model(draw).md",
     "Excalidraw/one-to-one thread model(draw).md",

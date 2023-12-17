@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "many-to-many thread model(draw)",
-      "path": "Excalidraw/many-to-many thread model(draw).md"
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "연습노트/Kernel Level Thread vs User Level Thread.md"
     },
     {
       "basename": "many-to-one-thread model(draw)",
@@ -13,8 +13,8 @@
       "path": "Excalidraw/one-to-one thread model(draw).md"
     },
     {
-      "basename": "Kernel Level Thread vs User Level Thread",
-      "path": "연습노트/Kernel Level Thread vs User Level Thread.md"
+      "basename": "many-to-many thread model(draw)",
+      "path": "Excalidraw/many-to-many thread model(draw).md"
     },
     {
       "basename": "GoRoutine 고루틴 소개",
