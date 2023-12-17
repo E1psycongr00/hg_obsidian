@@ -79,7 +79,10 @@ TCB의 경우
 TCB가 전달해야 할 정보가 PCB에 적지만 고루틴의 경우 Context Switching 전달하는 정보가 매우 적다. 쓰레드간 Context Switching 비용보다 저렴하기 때문에 부담이 적다.
 
 
+### 고루틴의 스레드 활용
+고루틴은 user-level 방식과 kernel-level 방식을 혼용해서 사용하고 있다. (M:N) 고루틴(User-lv) - OS 스레드(kernel lv)를 M:N으로 매핑하는 구조로 사용되어 Context Switching의 비용 문제와 멀티코어의 장점 모두 가지게 된다.
 
+유저 레벨과 커널 레벨의 쓰레드에 대한 내용은 [[Kernel Level Thread vs User Level Thread]] 를 참고하자
 
 ## 질문 & 확장
 
@@ -92,7 +95,6 @@ TCB가 전달해야 할 정보가 PCB에 적지만 고루틴의 경우 Context S
 
 ## 연결 노트
 - [[Kernel Level Thread vs User Level Thread]]
-- 
 
 
 
