@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-17",
+      "path": "데일리/2023-12-17.md"
+    },
+    {
+      "basename": "2023-12-16",
+      "path": "데일리/2023-12-16.md"
+    },
+    {
       "basename": "Kernel Level Thread vs User Level Thread",
       "path": "연습노트/Kernel Level Thread vs User Level Thread.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "일정 템플릿",
       "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "데일리/2023-12-16.md"
     },
     {
       "basename": "2023-12-15",
@@ -195,10 +199,6 @@
     {
       "basename": "ConstraintViolationException",
       "path": "영구노트/ConstraintViolationException.md"
-    },
-    {
-      "basename": "히오스 제라툴 딜계산",
-      "path": "영구노트/히오스 제라툴 딜계산.md"
     }
   ],
   "omittedPaths": [],

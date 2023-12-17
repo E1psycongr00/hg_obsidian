@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "데일리/2023-12-17.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "데일리/2023-12-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "데일리/2023-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "데일리/2023-12-17.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224482,
+                  "scale": 0.7514342322277581,
                   "close": true
                 }
               }
@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "350459afc1252945",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Kernel Level Thread vs User Level Thread.md"
+                "file": "데일리/2023-12-17.md"
               }
             }
           }
@@ -254,8 +254,10 @@
   },
   "active": "e8bfb56c725d909e",
   "lastOpenFiles": [
-    "연습노트/GoRoutine 고루틴 소개.md",
+    "데일리/2023-12-16.md",
+    "데일리/2023-12-17.md",
     "연습노트/Kernel Level Thread vs User Level Thread.md",
+    "연습노트/GoRoutine 고루틴 소개.md",
     "Excalidraw/many-to-one-thread model(draw).md",
     "Excalidraw/one-to-one thread model(draw).md",
     "Excalidraw/many-to-many thread model(draw).md",
@@ -273,14 +275,12 @@
     "templates/영상 참조 템플릿.md",
     "templates/인물 소개 템플릿.md",
     "templates/일정 템플릿.md",
-    "데일리/2023-12-16.md",
     "데일리/2023-12-15.md",
     "데일리/2023-12-14.md",
     "데일리/2023-12-13.md",
     "영구노트/InfluxDB 소개.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "attachments/screenshot/Pasted image 20231215163308.png",
     "attachments/screenshot/Pasted image 20231215144104.png",
     "attachments/screenshot/Pasted image 20231215144059.png",
