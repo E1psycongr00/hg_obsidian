@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "연습노트/Kernel Level Thread vs User Level Thread.md"
+    },
+    {
       "basename": "GoRoutine 고루틴에 대하여",
       "path": "연습노트/GoRoutine 고루틴에 대하여.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "메서드 return에 java bean validation 적용 및 테스트",
       "path": "영구노트/메서드 return에 java bean validation 적용 및 테스트.md"
-    },
-    {
-      "basename": "Pasted image 20231003181508",
-      "path": "attachments/screenshot/Pasted image 20231003181508.png"
     }
   ],
   "omittedPaths": [],

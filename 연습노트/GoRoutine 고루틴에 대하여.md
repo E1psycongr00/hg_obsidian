@@ -91,7 +91,8 @@ TCB가 전달해야 할 정보가 PCB에 적지만 고루틴의 경우 Context S
 - https://velog.io/@snake7667/Go-%EA%B3%A0%EB%A3%A8%ED%8B%B4Goroutine%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C#%EA%B3%A0%EB%A3%A8%ED%8B%B4%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%EB%90%98%EB%8A%94%EA%B0%80
 
 ## 연결 노트
-
+- [[Kernel Level Thread vs User Level Thread]]
+- 
 
 
 
