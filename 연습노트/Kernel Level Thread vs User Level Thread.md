@@ -19,17 +19,41 @@ Thread는 어떠한 프로그램 내에서, 특히 프로세스 내에서 실행
 
 멀티 프로세싱 환경에서는 커널은 여러 개의 스레드를 각각 다른 프로세서에 할당할 수 있다.
 
+### 스레드 모델
 #### many-to-one
 ![[many-to-one-thread model(draw)|300]]
+
+**특징**
+많은 사용자 스레드가 하나의 커널 스레드를 활용함
+
+**장점**
+- 스레드 관리가 사용자 공간 라이브러리에서 행해지기 때문에 효율적이다.
+
+**단점**
+- 한 스레드가 시스템 콜에 의해 중단될 경우 전체 프로세스가 중단된다.
+- 한번에 하나의 커널 스레드에 접근 가능하다.
+	- 다중 스레드가 다중 코어 시스템에서 병렬 실행 X
+	- 다중 코어의 이점을 살릴 수 없음
+	- 현재 이 모델은 거의 사용되지 않음
+
 
 #### one-to-one
 ![[one-to-one thread model(draw)]]
 
+**특징**
+각 사용자 스레드와 커널 스레드가 1:1로 연결됨. Linux, Window등 대부분의 운영체제에서 해당 모델을 사용한다.
 
+**장점**
+- 하나의 스레드가 중지되더라도 다른 스레드 실행 가능
+- 다중 처리기에서 다중 스레드가 병렬로 수행되는 것을 허용
+
+**단점**
+- 사용자 스레드를 만들려면 커널 스레드를 생성해야함
+- 커널 스레드는 생성/관리가 무겁기 때문에 시스템 성능에 부담이 간다
 #### many-to-many
 ![[many-to-many thread model(draw)]]
 
-
+여러 개의 사용자 스레드를 
 ### Combined Thread
 User-Level-Thread와 Kernel-Level-Thread를 섞은 혼합 모델이다. 유저 레벨 스레드는 LWP에 의해 multiplex된다. 커널은 LWP를 스케줄링하고, LWP는 대기 중인 유저 레벨 스레드를 실행한다. 
 
@@ -42,7 +66,7 @@ User-Level-Thread와 Kernel-Level-Thread를 섞은 혼합 모델이다. 유저 �
 ## 출처(링크)
 - https://kspsd.tistory.com/50
 - https://velog.io/@khsb2012/go-goroutine#%EA%B3%A0%EB%A3%A8%ED%8B%B4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%EB%90%A0%EA%B9%8C
-
+- https://howudong.tistory.com/268
 ## 연결 노트
 
 
