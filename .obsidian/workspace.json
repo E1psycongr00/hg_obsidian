@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/k6 스크립트 문법.md",
-                "mode": "preview",
+                "file": "Resources/IT/부하 테스트.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/k6 스크립트 문법.md",
+                "file": "Resources/IT/부하 테스트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/k6 스크립트 문법.md",
+                "file": "Resources/IT/부하 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/k6 스크립트 문법.md",
+                "file": "Resources/IT/부하 테스트.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/k6 스크립트 문법.md"
+                "file": "Resources/IT/부하 테스트.md"
               }
             }
           }
@@ -240,6 +240,7 @@
   },
   "active": "c76d1f5685d6e777",
   "lastOpenFiles": [
+    "영구노트/k6 스크립트 문법.md",
     "Resources/IT/부하 테스트.md",
     "영구노트/k6 Metric.md",
     "영구노트/k6 소개.md",
@@ -274,7 +275,6 @@
     "attachments/screenshot/Pasted image 20231215143853.png",
     "Excalidraw/InfluxDB 저장 방식(draw).md",
     "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
