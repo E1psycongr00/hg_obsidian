@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GoRoutine 고루틴에 대하여",
+      "path": "연습노트/GoRoutine 고루틴에 대하여.md"
+    },
+    {
       "basename": "k6 소개",
       "path": "영구노트/k6 소개.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231003181508",
       "path": "attachments/screenshot/Pasted image 20231003181508.png"
-    },
-    {
-      "basename": "Pasted image 20231002150914",
-      "path": "attachments/screenshot/Pasted image 20231002150914.png"
     }
   ],
   "omittedPaths": [],
