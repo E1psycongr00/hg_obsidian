@@ -29,7 +29,6 @@ services:
       - INFLUXDB_ADMIN_USER_TOKEN=admintoken123
       - INFLUXDB_HTTP_AUTH_ENABLED=false
       - INFLUXDB_DB=myk6db
-  
   grafana:
     image: bitnami/grafana:latest
     container_name: grafana
@@ -39,7 +38,9 @@ services:
       - monitoring
     depends_on:
       - influxdb
-  
+    volumes:
+      - ./data:/var/lib/grafana
+
 networks:
   monitoring:
     external: true
@@ -53,6 +54,8 @@ docker-compose ps 명령어를 통해 container가 잘 생성 됬는지 확인�
 
 ![[Pasted image 20231218130824.png]]
 
+
+grafana의 정보를 유지하고 싶다면 /var/lib/grafana를 바인드 마운트하면 된다.
 
 #### grafana에 접속해 influxdb 연결하기
 
