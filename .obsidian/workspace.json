@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+                "file": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
               }
             }
           }
@@ -267,8 +267,8 @@
   },
   "active": "5f86a12e0523e77a",
   "lastOpenFiles": [
-    "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
     "attachments/screenshot/Pasted image 20231218132409.png",
     "attachments/screenshot/Pasted image 20231218132210.png",
     "attachments/screenshot/Pasted image 20231218131424.png",

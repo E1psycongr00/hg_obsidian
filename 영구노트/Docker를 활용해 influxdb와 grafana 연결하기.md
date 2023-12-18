@@ -48,6 +48,8 @@ networks:
 
 docker container들을 편리하게 생성 및 관리하기 위해 docker-compose를 작성해준다.
 
+influxdb image의 자세한 정보는 https://hub.docker.com/r/bitnami/influxdb 를 참고하자
+
 만약 network 관련 에러가 발생한다면 [[network (network name) declared as external, but could not be found]] 를 참고하자.
 
 docker-compose ps 명령어를 통해 container가 잘 생성 됬는지 확인하자
