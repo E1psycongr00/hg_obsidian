@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "network (network name) declared as external, but could not be found",
-      "path": "연습노트/network (network name) declared as external, but could not be found.md"
-    },
-    {
       "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
       "path": "연습노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
+    },
+    {
+      "basename": "network (network name) declared as external, but could not be found",
+      "path": "영구노트/network (network name) declared as external, but could not be found.md"
     },
     {
       "basename": "InfluxDB 소개",

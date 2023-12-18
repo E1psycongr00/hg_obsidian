@@ -11,7 +11,7 @@ influxdb는 TSDB로 대규모 시계열 데이터를 처리하는데 특화된 D
 
 Docker를 활용하면 로컬 환경, 배포 환경에 상관없이 구축 가능하기 때문에 매우 편리하다.  Docker를 이용해 InfluxDB와 Grafana 이미지를 생성하고 인프라를 구축해보자
 
-#### docker-compose
+#### docker-compose를 이용해 이미지 생성하기
 
 ```yml
 version: "3.7"
@@ -48,6 +48,15 @@ networks:
 docker container들을 편리하게 생성 및 관리하기 위해 docker-compose를 작성해준다.
 
 만약 network 관련 에러가 발생한다면 [[network (network name) declared as external, but could not be found]] 를 참고하자.
+
+docker-compose ps 명령어를 통해 container가 잘 생성 됬는지 확인하자
+
+![[Pasted image 20231218130824.png]]
+
+
+#### grafana에 접속해 influxdb 연결하기
+
+포트포워딩을 했기 때문에 localhost:3005로 접속해보자. 그럼 다음과 같은 화면을 만난다.
 
 
 
