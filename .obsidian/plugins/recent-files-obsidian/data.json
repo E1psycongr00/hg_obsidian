@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
+      "path": "연습노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
+    },
+    {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "2023-12-18",
@@ -191,14 +199,6 @@
     {
       "basename": "Java 시간 관련 라이브러리 다루기",
       "path": "영구노트/Java 시간 관련 라이브러리 다루기.md"
-    },
-    {
-      "basename": "Gradle 지원 버전",
-      "path": "영구노트/Gradle 지원 버전.md"
-    },
-    {
-      "basename": "Garbage Collection(가비지 컬렉션) 소개",
-      "path": "영구노트/Garbage Collection(가비지 컬렉션) 소개.md"
     }
   ],
   "omittedPaths": [],
