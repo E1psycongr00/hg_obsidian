@@ -74,6 +74,9 @@ InfluxDB 1.8+ ~ 2.0 버전부터는 InfluxQL을 안쓰기 때문에 Flux로 설�
 
 Organization과 token 2개만 입력해주면 연결이 완료된다.
 
+![[Pasted image 20231218132409.png]]
+
+
 #### token과 organization 얻어오기
 organization은 influxdb 내부에 접속해서 쉽게 알 수 있다.
 
@@ -89,6 +92,9 @@ influx org list --token admintoken123
 
 아까 docker-compose에서 설정한 토큰을 입력하면 다음과 같이 토큰 ID와 네임이 나온다.
 
+![[Pasted image 20231218132210.png]]
+
+여기서 ID를 Organization에 넣어주면 된다.
 ## 질문 & 확장
 
 (없음)
