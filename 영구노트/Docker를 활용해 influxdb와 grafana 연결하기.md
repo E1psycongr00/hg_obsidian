@@ -29,6 +29,8 @@ services:
       - INFLUXDB_ADMIN_USER_TOKEN=admintoken123
       - INFLUXDB_HTTP_AUTH_ENABLED=false
       - INFLUXDB_DB=myk6db
+    volumes:
+      - ./influx-persistance:/bitnami/influxdb
   grafana:
     image: bitnami/grafana:latest
     container_name: grafana
@@ -48,7 +50,7 @@ networks:
 
 docker container들을 편리하게 생성 및 관리하기 위해 docker-compose를 작성해준다.
 
-influxdb image의 자세한 정보는 https://hub.docker.com/r/bitnami/influxdb 를 참고하자
+influxdb image 설정에 대한 자세한 정보는 https://hub.docker.com/r/bitnami/influxdb 를 참고하자
 
 만약 network 관련 에러가 발생한다면 [[network (network name) declared as external, but could not be found]] 를 참고하자.
 
