@@ -34,7 +34,7 @@ services:
     image: bitnami/grafana:latest
     container_name: grafana
     ports:
-      - "3005:3005"
+      - "3005:3000"
     networks:
       - monitoring
     depends_on:
@@ -56,9 +56,38 @@ docker-compose ps 명령어를 통해 container가 잘 생성 됬는지 확인�
 
 #### grafana에 접속해 influxdb 연결하기
 
-포트포워딩을 했기 때문에 localhost:3005로 접속해보자. 그럼 다음과 같은 화면을 만난다.
+3000 포트를 3005로 포트포워딩을 했기 때문에 localhost:3005로 접속해보자. 그럼 다음과 같은 화면을 만난다.
 
+![[Pasted image 20231218131211.png]]
 
+admin/admin을 입력하자
+
+![[Pasted image 20231218131256.png]]
+
+들어가서 InfluxDB를 누르면 다음과 같은 창이 뜬다
+
+![[Pasted image 20231218131424.png]]
+
+우리는 Docker로 생성했기 때문에 URL에 Docker container 명을 입력한다. 우리는 InfluxDB로 생성했기 때문에 http://influxdb:8086 으로 입력해주면 된다.
+
+InfluxDB 1.8+ ~ 2.0 버전부터는 InfluxQL을 안쓰기 때문에 Flux로 설정하고 2가지 정보를 입력해야 한다.
+
+Organization과 token 2개만 입력해주면 연결이 완료된다.
+
+#### token과 organization 얻어오기
+organization은 influxdb 내부에 접속해서 쉽게 알 수 있다.
+
+```bash
+docker-compose exec -it influxdb /bin/bash
+```
+
+이렇게 하면 influxdb 컨테이너의 bash에 접근 가능하고 내부에서 명령어를 상호작용 할 수 있다.
+
+```
+influx org list --token admintoken123
+```
+
+아까 docker-compose에서 설정한 토큰을 입력하면 다음과 같이 토큰 ID와 네임이 나온다.
 
 ## 질문 & 확장
 
