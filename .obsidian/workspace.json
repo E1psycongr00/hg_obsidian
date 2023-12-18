@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/기초적인 Rest API 서버 설계하기.md"
+                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
               }
             }
           }
@@ -240,16 +240,17 @@
   },
   "active": "7e2090d50194ace5",
   "lastOpenFiles": [
+    "데일리/2023-12-18.md",
+    "데일리/2023-12-17.md",
+    "데일리/2023-12-16.md",
+    "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "데일리/2023-12-17.md",
     "영구노트/GoRoutine 고루틴 소개.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "영구노트/k6 소개.md",
-    "데일리/2023-12-16.md",
     "Excalidraw/many-to-one-thread model(draw).md",
     "Excalidraw/one-to-one thread model(draw).md",
     "Excalidraw/many-to-many thread model(draw).md",
@@ -266,7 +267,6 @@
     "templates/인물 소개 템플릿.md",
     "templates/일정 템플릿.md",
     "데일리/2023-12-15.md",
-    "데일리/2023-12-14.md",
     "attachments/screenshot/Pasted image 20231215163308.png",
     "attachments/screenshot/Pasted image 20231215144104.png",
     "attachments/screenshot/Pasted image 20231215144059.png",
