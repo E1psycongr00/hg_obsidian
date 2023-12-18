@@ -174,7 +174,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277581,
+                  "scale": 0.535979599622594,
                   "close": true
                 }
               }
@@ -265,7 +265,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5f86a12e0523e77a",
+  "active": "57b6e74ab5c2820d",
   "lastOpenFiles": [
     "attachments/screenshot/Pasted image 20231218132409.png",
     "attachments/screenshot/Pasted image 20231218132210.png",
