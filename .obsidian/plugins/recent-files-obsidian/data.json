@@ -5,6 +5,10 @@
       "path": "연습노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
     },
     {
+      "basename": "InfluxDB 소개",
+      "path": "영구노트/InfluxDB 소개.md"
+    },
+    {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "2023-12-13",
       "path": "데일리/2023-12-13.md"
-    },
-    {
-      "basename": "InfluxDB 소개",
-      "path": "영구노트/InfluxDB 소개.md"
     },
     {
       "basename": "UTC(세계 협정시)",

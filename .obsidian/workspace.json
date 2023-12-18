@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de393426a8ce4a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/InfluxDB 소개.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -254,8 +267,9 @@
   },
   "active": "5f86a12e0523e77a",
   "lastOpenFiles": [
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "영구노트/InfluxDB 소개.md",
     "연습노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "README.md",
     "데일리/2023-12-18.md",
     "데일리/2023-12-17.md",
@@ -280,7 +294,6 @@
     "templates/동기 템플릿.md",
     "templates/솔루션 템플릿.md",
     "templates/영상 참조 템플릿.md",
-    "templates/인물 소개 템플릿.md",
     "attachments/screenshot/Pasted image 20231215163308.png",
     "attachments/screenshot/Pasted image 20231215144104.png",
     "attachments/screenshot/Pasted image 20231215144059.png",
