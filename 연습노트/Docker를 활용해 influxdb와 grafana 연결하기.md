@@ -29,6 +29,7 @@ services:
       - INFLUXDB_ADMIN_USER_TOKEN=admintoken123
       - INFLUXDB_HTTP_AUTH_ENABLED=false
       - INFLUXDB_DB=myk6db
+  
   grafana:
     image: bitnami/grafana:latest
     container_name: grafana
@@ -38,11 +39,17 @@ services:
       - monitoring
     depends_on:
       - influxdb
+  
+networks:
+  monitoring:
+    external: true
 ```
 
 docker container들을 편리하게 생성 및 관리하기 위해 docker-compose를 작성해준다.
 
-그 이후 실행하면 다음과 같다.
+만약 network 관련 에러가 발생한다면 [[network (network name) declared as external, but could not be found]] 를 참고하자.
+
+
 
 ## 질문 & 확장
 
@@ -54,5 +61,5 @@ docker container들을 편리하게 생성 및 관리하기 위해 docker-compos
 
 ## 연결 노트
 - [[InfluxDB 소개]]
-
+- [[network (network name) declared as external, but could not be found]]
 
