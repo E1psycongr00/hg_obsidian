@@ -12,7 +12,8 @@
 (없음)
 
 ## 출처(링크)
-
+- https://velog.io/@makengi/InfluxDB-InFluxDB-Java-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8
+- https://2juhyunju.tistory.com/46
 
 ## 연결 노트
 
