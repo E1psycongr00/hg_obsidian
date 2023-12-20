@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-20",
+      "path": "데일리/2023-12-20.md"
+    },
+    {
+      "basename": "2023-12-19",
+      "path": "데일리/2023-12-19.md"
+    },
+    {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "java.io.File 파일 생성 및 가져오기",
       "path": "영구노트/java.io.File 파일 생성 및 가져오기.md"
-    },
-    {
-      "basename": "java bean validation에서 custom validator 만들기",
-      "path": "영구노트/java bean validation에서 custom validator 만들기.md"
-    },
-    {
-      "basename": "Java Bean Validation 소개",
-      "path": "영구노트/Java Bean Validation 소개.md"
     }
   ],
   "omittedPaths": [],
