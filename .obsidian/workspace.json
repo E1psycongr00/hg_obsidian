@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/k6와 docker influxdb v2 연결하기.md",
+                "file": "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/k6와 docker influxdb v2 연결하기.md",
+                "file": "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/k6와 docker influxdb v2 연결하기.md",
+                "file": "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/k6와 docker influxdb v2 연결하기.md",
+                "file": "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/k6와 docker influxdb v2 연결하기.md"
+                "file": "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md"
               }
             }
           }
@@ -254,23 +254,23 @@
   },
   "active": "602b1d764b766c9a",
   "lastOpenFiles": [
+    "Resources/IT/부하 테스트.md",
+    "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "attachments/screenshot/Pasted image 20231221175934.png",
+    "attachments/screenshot/Pasted image 20231221175900.png",
+    "attachments/screenshot/Pasted image 20231221175725.png",
     "attachments/screenshot/Pasted image 20231221175626.png",
     "attachments/screenshot/Pasted image 20231221175431.png",
     "attachments/screenshot/Pasted image 20231221175122.png",
     "attachments/screenshot/Pasted image 20231221175111.png",
     "attachments/screenshot/Pasted image 20231221175050.png",
     "attachments/screenshot/Pasted image 20231221174904.png",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/k6와 docker influxdb v2 연결하기.md",
     "데일리/2023-12-20.md",
     "영구노트/InfluxDB 소개.md",
     "데일리/2023-12-19.md",
     "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
     "attachments/screenshot/Pasted image 20231218132409.png",
-    "attachments/screenshot/Pasted image 20231218132210.png",
-    "attachments/screenshot/Pasted image 20231218131424.png",
-    "attachments/screenshot/Pasted image 20231218131256.png",
-    "attachments/screenshot/Pasted image 20231218131241.png",
     "영구노트/network (network name) declared as external, but could not be found.md",
     "README.md",
     "데일리/2023-12-18.md",
@@ -286,7 +286,6 @@
     "Excalidraw/many-to-one-thread model(draw).md",
     "Excalidraw/one-to-one thread model(draw).md",
     "Excalidraw/many-to-many thread model(draw).md",
-    "Resources/IT/부하 테스트.md",
     "영구노트/k6 스크립트 문법.md",
     "영구노트/k6 Metric.md",
     "영구노트/서비스 수준 용어.md",

@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-21
 작성 시간: 17:37
 
-## 주제: #미완 #Docker #DataBase 
+## 주제: #완성 #Docker #DataBase 
 
 ----
 ## 내용(Content)
@@ -98,10 +98,21 @@ flux를 이용해 dashboard에 데이터를 시각화 가능하다.
 
 localhost:8086에 접속하자
 ![[Pasted image 20231221175626.png]]
+위와 같은 로그인 화면이 나타난다.  로그인 하자.
 
+![[Pasted image 20231221175725.png]]
 
+DashBoard에 들어가면 기존에 만들었던 dashboard를 import도 가능하나, 우리는 새로운 DashBoard를 구성해보자
 
+![[Pasted image 20231221175900.png]]
+
+각 데이터를 보여주는 네모난 칸들은 Cell이다. Add Cell를 통해 Cell을 추가하려고 하면
+
+![[Pasted image 20231221175934.png]]
+
+다음과 같은 화면이 뜨는데 어떻게 쿼리할 건지 정해주면 된다. SCRIPT EDITOR를 누르면 스크립트를 직접 짤 수도 있다.
 ## 질문 & 확장
+
 
 (없음)
 
@@ -112,6 +123,8 @@ localhost:8086에 접속하자
 
 ## 연결 노트
 
+- [[InfluxDB 소개]]
+- [[Docker를 활용해 influxdb와 grafana 연결하기]]
 
 
 
