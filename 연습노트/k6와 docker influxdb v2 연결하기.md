@@ -48,9 +48,58 @@ networks:
 
 bitnami는 최신 influxdb를 간단하게 image로 빌드가 가능하다. 
 
-### xk6 build하기
+### windows에서 xk6 build하기
 
-k6 만으로는 Influxdb v2에 접근할 수 없다. extend 버전이 필요한데 이것은 Go를 이용해 xk6 바이
+k6 만으로는 Influxdb v2에 접근할 수 없다. extend 버전이 필요하다.
+[xk6 build하고 사용하기](https://k6.io/docs/results-output/real-time/influxdb/)
+
+```bash
+# Install xk6
+go install go.k6.io/xk6/cmd/xk6@latest
+
+# Build the k6 binary
+xk6 build --with github.com/grafana/xk6-output-influxdb
+```
+
+이것은 Go를 이용해 xk6 바이너리 파일을 빌드하는 것이다. 당연히 Go가 설치되어 있어야 한다.
+
+Windows의 경우에 go install은 $GOPATH 에 package가 설치된다.
+![[Pasted image 20231221174904.png]]
+
+그리고 xk6를 build하면 실행할 로컬 디렉토리에 확장된 k6 binary 파일이 생긴다.
+
+![[Pasted image 20231221175050.png]]
+
+![[Pasted image 20231221175122.png]]
+
+
+### k6 스크립트를 실행하고 influxdb에 데이터 전달하기
+
+script를 작성하고 실행한다. 여러 변수들을 전달해야 하기 때문에 windows 스크립트를 짯다
+
+```bat
+set K6_INFLUXDB_ORGANIZATION=35f0fc21b269d98e
+set K6_INFLUXDB_BUCKET=load_test
+set K6_INFLUXDB_TOKEN=admintoken123
+set K6_INFLUXDB_ADDR=http://localhost:8086
+
+k6 run script.js -o xk6-influxdb
+```
+
+정상적으로 실행되면 다음과 같은 결과를 얻는다
+
+![[Pasted image 20231221175431.png]]
+
+이건 결과고 실행되는 동안에도 실시간으로 결과를 influxdb에서 얻을 수 있다.
+
+### InfluxDB v2 DashBoard에서 데이터 확인하기
+
+flux를 이용해 dashboard에 데이터를 시각화 가능하다.
+
+localhost:8086에 접속하자
+![[Pasted image 20231221175626.png]]
+
+
 
 ## 질문 & 확장
 
@@ -59,7 +108,7 @@ k6 만으로는 Influxdb v2에 접근할 수 없다. extend 버전이 필요한�
 ## 출처(링크)
 - https://docs.influxdata.com/platform/
 - https://k6.io/docs/results-output/real-time/influxdb/
-
+- https://velog.io/@heka1024/Grafana-k6%EC%9C%BC%EB%A1%9C-%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0
 
 ## 연결 노트
 
