@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
       "basename": "k6와 docker image로 만들어진 influxdb v2 연결하기",
       "path": "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md"
     },
     {
       "basename": "부하 테스트",
       "path": "Resources/IT/부하 테스트.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
       "basename": "2023-12-20",
