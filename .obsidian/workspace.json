@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "eba0989ac2e2214f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Windows 명령어.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "602b1d764b766c9a",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "연습노트/Windows 명령어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "연습노트/Windows 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "연습노트/Windows 명령어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+                "file": "연습노트/Windows 명령어.md"
               }
             }
           }
@@ -251,10 +265,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "7e2090d50194ace5",
+  "active": "eba0989ac2e2214f",
   "lastOpenFiles": [
-    "데일리/2023-12-22.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Windows 명령어.md",
+    "데일리/2023-12-22.md",
     "데일리/2023-12-21.md",
     "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md",
     "Resources/IT/부하 테스트.md",
@@ -288,7 +303,6 @@
     "Excalidraw/one-to-one thread model(draw).md",
     "Excalidraw/many-to-many thread model(draw).md",
     "영구노트/k6 스크립트 문법.md",
-    "영구노트/k6 Metric.md",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
