@@ -5,6 +5,14 @@
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
+      "basename": "2023-12-22",
+      "path": "데일리/2023-12-22.md"
+    },
+    {
+      "basename": "2023-12-21",
+      "path": "데일리/2023-12-21.md"
+    },
+    {
       "basename": "k6와 docker image로 만들어진 influxdb v2 연결하기",
       "path": "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Locust 동작 방식",
       "path": "영구노트/Locust 동작 방식.md"
-    },
-    {
-      "basename": "java.nio.file.Path 사용하기",
-      "path": "영구노트/java.nio.file.Path 사용하기.md"
-    },
-    {
-      "basename": "Java Record 사용법",
-      "path": "영구노트/Java Record 사용법.md"
     }
   ],
   "omittedPaths": [],

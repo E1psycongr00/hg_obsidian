@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+                "file": "데일리/2023-12-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,11 +251,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "602b1d764b766c9a",
+  "active": "7e2090d50194ace5",
   "lastOpenFiles": [
+    "데일리/2023-12-22.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "데일리/2023-12-21.md",
     "영구노트/k6와 docker image로 만들어진 influxdb v2 연결하기.md",
     "Resources/IT/부하 테스트.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "attachments/screenshot/Pasted image 20231221175934.png",
     "attachments/screenshot/Pasted image 20231221175900.png",
     "attachments/screenshot/Pasted image 20231221175725.png",
@@ -288,7 +289,6 @@
     "Excalidraw/many-to-many thread model(draw).md",
     "영구노트/k6 스크립트 문법.md",
     "영구노트/k6 Metric.md",
-    "영구노트/서비스 수준 용어.md",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
