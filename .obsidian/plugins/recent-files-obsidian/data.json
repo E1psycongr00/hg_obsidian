@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "기초적인 Rest API 서버 설계하기",
+      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Project Jigsaw",
+      "path": "연습노트/Project Jigsaw.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "2023-12-26",
+      "path": "데일리/2023-12-26.md"
+    },
+    {
       "basename": "2023-12-25",
       "path": "데일리/2023-12-25.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "2023-12-22",
       "path": "데일리/2023-12-22.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
       "basename": "Windows  cmd 명령어",
@@ -71,18 +87,6 @@
     {
       "basename": "2023-12-16",
       "path": "데일리/2023-12-16.md"
-    },
-    {
-      "basename": "기초적인 Rest API 서버 설계하기",
-      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Project Jigsaw",
-      "path": "연습노트/Project Jigsaw.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
@@ -195,10 +199,6 @@
     {
       "basename": "JRE 와 JDK 의 차이",
       "path": "영구노트/JRE 와 JDK 의 차이.md"
-    },
-    {
-      "basename": "Pasted image 20231202185516",
-      "path": "attachments/screenshot/Pasted image 20231202185516.png"
     }
   ],
   "omittedPaths": [],

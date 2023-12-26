@@ -26,15 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데일리/2023-12-25.md",
+                "file": "데일리/2023-12-26.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea91a4c37b4c9133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2023-12-25.md",
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2023-12-25.md",
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2023-12-25.md",
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +213,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -225,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데일리/2023-12-25.md"
+                "file": "연습노트/기초적인 Rest API 서버 설계하기.md"
               }
             }
           }
@@ -252,14 +267,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "602b1d764b766c9a",
+  "active": "ea91a4c37b4c9133",
   "lastOpenFiles": [
-    "데일리/2023-12-24.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Project Jigsaw.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "데일리/2023-12-25.md",
+    "데일리/2023-12-26.md",
+    "데일리/2023-12-24.md",
     "2023-12-24.md",
     "데일리/2023-12-23.md",
     "데일리/2023-12-22.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/Windows  cmd 명령어.md",
     "attachments/screenshot/Pasted image 20231222203013.png",
     "attachments/screenshot/Pasted image 20231222202945.png",
@@ -284,12 +302,9 @@
     "데일리/2023-12-17.md",
     "데일리/2023-12-16.md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Project Jigsaw.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/GoRoutine 고루틴 소개.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
-    "영구노트/k6 소개.md",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
