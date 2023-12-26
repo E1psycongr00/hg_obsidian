@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데일리/2023-12-23.md",
+                "file": "데일리/2023-12-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2023-12-23.md",
+                "file": "데일리/2023-12-25.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2023-12-23.md",
+                "file": "데일리/2023-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2023-12-23.md",
+                "file": "데일리/2023-12-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데일리/2023-12-23.md"
+                "file": "데일리/2023-12-25.md"
               }
             }
           }
@@ -254,8 +254,11 @@
   },
   "active": "602b1d764b766c9a",
   "lastOpenFiles": [
-    "데일리/2023-12-22.md",
+    "데일리/2023-12-24.md",
+    "데일리/2023-12-25.md",
+    "2023-12-24.md",
     "데일리/2023-12-23.md",
+    "데일리/2023-12-22.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/Windows  cmd 명령어.md",
     "attachments/screenshot/Pasted image 20231222203013.png",
@@ -287,9 +290,6 @@
     "영구노트/GoRoutine 고루틴 소개.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "영구노트/k6 소개.md",
-    "Excalidraw/many-to-one-thread model(draw).md",
-    "Excalidraw/one-to-one thread model(draw).md",
-    "Excalidraw/many-to-many thread model(draw).md",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
