@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
       "basename": "기초적인 Rest API 서버 설계하기",
       "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Project Jigsaw",
       "path": "연습노트/Project Jigsaw.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
       "basename": "2023-12-26",
