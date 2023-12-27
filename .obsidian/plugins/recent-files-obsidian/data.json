@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "연습노트/무제 파일.md"
+    },
+    {
       "basename": "기초적인 Rest API 서버 설계하기",
       "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20231003191242",
       "path": "attachments/screenshot/Pasted image 20231003191242.png"
-    },
-    {
-      "basename": "JRE 와 JDK 의 차이",
-      "path": "영구노트/JRE 와 JDK 의 차이.md"
     }
   ],
   "omittedPaths": [],
