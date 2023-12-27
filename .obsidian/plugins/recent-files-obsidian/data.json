@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "연습노트/무제 파일.md"
+      "basename": "프로그래머스 과제 진행하기",
+      "path": "연습노트/프로그래머스 과제 진행하기.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "2023-12-26",
+      "path": "데일리/2023-12-26.md"
     },
     {
       "basename": "기초적인 Rest API 서버 설계하기",
       "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
+    },
+    {
+      "basename": "2023-12-11",
+      "path": "데일리/2023-12-11.md"
+    },
+    {
+      "basename": "2023-12-10",
+      "path": "데일리/2023-12-10.md"
+    },
+    {
+      "basename": "2023-12-27",
+      "path": "데일리/2023-12-27.md"
     },
     {
       "basename": "JacksonModule & Std(De)Serializer",
@@ -19,14 +39,6 @@
     {
       "basename": "Project Jigsaw",
       "path": "연습노트/Project Jigsaw.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "2023-12-26",
-      "path": "데일리/2023-12-26.md"
     },
     {
       "basename": "2023-12-25",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20231215163308",
       "path": "attachments/screenshot/Pasted image 20231215163308.png"
-    },
-    {
-      "basename": "InfluxDB 저장 방식(draw)",
-      "path": "Excalidraw/InfluxDB 저장 방식(draw).md"
-    },
-    {
-      "basename": "Custom Message 해결 전략(draw)",
-      "path": "Excalidraw/Custom Message 해결 전략(draw).md"
-    },
-    {
-      "basename": "Pasted image 20231003191242",
-      "path": "attachments/screenshot/Pasted image 20231003191242.png"
     }
   ],
   "omittedPaths": [],
