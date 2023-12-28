@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-12-28",
+      "path": "데일리/2023-12-28.md"
+    },
+    {
       "basename": "프로그래머스 과제 진행하기",
       "path": "연습노트/프로그래머스 과제 진행하기.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "TSDB란",
       "path": "영구노트/TSDB란.md"
-    },
-    {
-      "basename": "Pasted image 20231215163308",
-      "path": "attachments/screenshot/Pasted image 20231215163308.png"
     }
   ],
   "omittedPaths": [],
