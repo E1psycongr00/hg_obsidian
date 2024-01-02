@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ecc8f2a3f2ed1207",
+        "id": "e78d8b2d8769ca22",
         "type": "tabs",
         "children": [
           {
-            "id": "544f4d673f1c5f40",
+            "id": "8d8ab5e026b59bb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데일리/2024-01-02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e418f3eb57c2632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Spring에서 Validation 예외 처리 과정.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유효성",
+                "query": "콜아웃",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring에서 Validation 예외 처리 과정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring에서 Validation 예외 처리 과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +118,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring에서 Validation 예외 처리 과정.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,9 +206,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/Spring에서 Validation 예외 처리 과정.md"
-              }
+              "state": {}
             }
           },
           {
@@ -242,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,15 +241,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2e418f3eb57c2632",
+  "active": "8d8ab5e026b59bb7",
   "lastOpenFiles": [
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "영구노트/Obsidian 콜아웃 종류.md",
+    "Resources/Obsidian/Obsidian 관련 내용.md",
     "연습노트/Project Jigsaw.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "데일리/2024-01-02.md",
+    "연습노트/Obsidian의 Admonition 사용법.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/프로그래머스 과제 진행하기.md",
-    "연습노트/Spring에서 Validation 예외 처리 과정.md",
-    "데일리/2024-01-02.md",
     "데일리/2024-01-03.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
     "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
@@ -292,9 +271,6 @@
     "나의 마일스톤/2024년/무제 파일.md",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
-    "Tasks Plugin - Review and check your Statuses 2024-01-02 11-27-37.md",
-    "데일리/2023-12-17.md",
-    "데일리/2023-12-05.md",
     "attachments/screenshot/Pasted image 20231222203013.png",
     "attachments/screenshot/Pasted image 20231222202945.png",
     "attachments/screenshot/Pasted image 20231222202826.png",

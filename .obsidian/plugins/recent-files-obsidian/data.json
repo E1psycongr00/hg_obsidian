@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Spring에서 Validation 예외 처리 과정",
-      "path": "연습노트/Spring에서 Validation 예외 처리 과정.md"
+      "basename": "Obsidian 콜아웃 종류",
+      "path": "영구노트/Obsidian 콜아웃 종류.md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+      "basename": "Obsidian 관련 내용",
+      "path": "Resources/Obsidian/Obsidian 관련 내용.md"
     },
     {
       "basename": "Project Jigsaw",
@@ -17,16 +17,24 @@
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "2024-01-02",
+      "path": "데일리/2024-01-02.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
       "basename": "프로그래머스 과제 진행하기",
       "path": "연습노트/프로그래머스 과제 진행하기.md"
-    },
-    {
-      "basename": "2024-01-02",
-      "path": "데일리/2024-01-02.md"
     },
     {
       "basename": "2024-01-03",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-12-19",
       "path": "데일리/2023-12-19.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "데일리/2023-12-16.md"
-    },
-    {
-      "basename": "2023-12-14",
-      "path": "데일리/2023-12-14.md"
     }
   ],
   "omittedPaths": [],
