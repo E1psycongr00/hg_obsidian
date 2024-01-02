@@ -1,6 +1,6 @@
 {
   "snapStepMinutes": 10,
-  "progressIndicator": "pie",
+  "progressIndicator": "bar",
   "showTaskNotification": false,
   "zoomLevel": 2,
   "timelineIcon": "checkmark",
@@ -10,8 +10,8 @@
   "centerNeedle": true,
   "plannerHeading": "Day planner",
   "plannerHeadingLevel": 1,
-  "timelineColored": false,
-  "timelineStartColor": "#006466",
+  "timelineColored": true,
+  "timelineStartColor": "#246b70",
   "timelineEndColor": "#4d194d",
   "timestampFormat": "HH:mm",
   "hourFormat": "H",
