@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "java bean validation에서 커스텀 메시지 만들기",
-      "path": "영구노트/java bean validation에서 커스텀 메시지 만들기.md"
+      "basename": "java bean validation에서 custom validator 만들기",
+      "path": "영구노트/java bean validation에서 custom validator 만들기.md"
     },
     {
       "basename": "Spring Bean Validation 총정리",
       "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "java bean validation에서 커스텀 메시지 만들기",
+      "path": "영구노트/java bean validation에서 커스텀 메시지 만들기.md"
     },
     {
       "basename": "2024-01-02",
@@ -195,10 +199,6 @@
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "기초적인 Rest API 서버 설계하기",
-      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
     }
   ],
   "omittedPaths": [],
