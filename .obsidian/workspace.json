@@ -16,12 +16,33 @@
             }
           },
           {
-            "id": "8fcded042c6297a3",
+            "id": "d64867efa63d6cc5",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
+          },
+          {
+            "id": "b15d47c37b4f4b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "데일리/2024-01-02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b79ffcff0f109c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks Plugin - Review and check your Statuses 2024-01-02 11-27-37.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -29,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +118,7 @@
       {
         "id": "1838285c49809bd3",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 55.769230769230774,
         "children": [
           {
             "id": "fbb43720530e7e29",
@@ -105,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2024-01-02.md",
+                "file": "Tasks Plugin - Review and check your Statuses 2024-01-02 11-27-37.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2024-01-02.md",
+                "file": "Tasks Plugin - Review and check your Statuses 2024-01-02 11-27-37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2024-01-02.md",
+                "file": "Tasks Plugin - Review and check your Statuses 2024-01-02 11-27-37.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,6 +193,14 @@
             }
           },
           {
+            "id": "b69dab0f3e4ed3fe",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
             "id": "c4c24c7255fda044",
             "type": "leaf",
             "state": {
@@ -191,12 +220,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "350459afc1252945",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 44.230769230769226,
         "children": [
           {
             "id": "6c5936d8ec472ac8",
@@ -212,20 +241,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데일리/2024-01-02.md"
+                "file": "Tasks Plugin - Review and check your Statuses 2024-01-02 11-27-37.md"
               }
-            }
-          },
-          {
-            "id": "b53a1e913186f2ec",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,11 +269,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8fcded042c6297a3",
+  "active": "40b79ffcff0f109c",
   "lastOpenFiles": [
     "데일리/2024-01-02.md",
-    "영구노트/JRE 와 JDK 의 차이.md",
+    "Tasks Plugin - Review and check your Statuses 2024-01-02 11-27-37.md",
+    "데일리/2023-12-05.md",
     "데일리/2024-01-01.md",
+    "데일리/2023-12-04.md",
+    "영구노트/JRE 와 JDK 의 차이.md",
     "영구노트/Adamic Adars.md",
     "데일리/2023-12-18.md",
     "데일리/2023-12-15.md",
@@ -273,9 +297,6 @@
     "데일리/2023-12-24.md",
     "데일리/2023-12-23.md",
     "데일리/2023-12-22.md",
-    "데일리/2023-12-21.md",
-    "데일리/2023-12-20.md",
-    "데일리/2023-12-19.md",
     "attachments/screenshot/Pasted image 20231222203013.png",
     "attachments/screenshot/Pasted image 20231222202945.png",
     "attachments/screenshot/Pasted image 20231222202826.png",
