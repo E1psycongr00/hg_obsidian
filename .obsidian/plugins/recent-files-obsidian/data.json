@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
-      "path": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
+      "basename": "Spring bean validation과 MessageCodesResolver",
+      "path": "영구노트/Spring bean validation과 MessageCodesResolver.md"
     },
     {
       "basename": "Spring Bean Validation 총정리",
       "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
     },
     {
-      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
-      "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
+      "basename": "MessageSource 분석하기",
+      "path": "영구노트/MessageSource 분석하기.md"
     },
     {
-      "basename": "Spring bean validation과 MessageCodesResolver",
-      "path": "영구노트/Spring bean validation과 MessageCodesResolver.md"
+      "basename": "ConstraintViolationException",
+      "path": "영구노트/ConstraintViolationException.md"
+    },
+    {
+      "basename": "MethodArgumentNotValidException",
+      "path": "영구노트/MethodArgumentNotValidException.md"
+    },
+    {
+      "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
+      "path": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
+    },
+    {
+      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
+      "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
     },
     {
       "basename": "서비스 수준 용어",
@@ -23,10 +35,6 @@
     {
       "basename": "2024년 목표",
       "path": "나의 마일스톤/2024년 목표.md"
-    },
-    {
-      "basename": "ConstraintViolationException",
-      "path": "영구노트/ConstraintViolationException.md"
     },
     {
       "basename": "2024-01-02",
@@ -191,14 +199,6 @@
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "Project Jigsaw",
-      "path": "연습노트/Project Jigsaw.md"
-    },
-    {
-      "basename": "Windows  cmd 명령어",
-      "path": "영구노트/Windows  cmd 명령어.md"
     }
   ],
   "omittedPaths": [],
