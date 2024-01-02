@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c509f45326698b8a",
+        "id": "ecc8f2a3f2ed1207",
         "type": "tabs",
         "children": [
           {
-            "id": "c247a88c6f35c58d",
+            "id": "544f4d673f1c5f40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/java bean validation에서 custom validator 만들기.md",
+                "file": "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/java bean validation에서 custom validator 만들기.md",
+                "file": "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/java bean validation에서 custom validator 만들기.md",
+                "file": "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/java bean validation에서 custom validator 만들기.md",
+                "file": "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/java bean validation에서 custom validator 만들기.md"
+                "file": "영구노트/java bean validation에서 커스텀 메시지 만들기.md"
               }
             }
           },
@@ -251,11 +251,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c247a88c6f35c58d",
+  "active": "544f4d673f1c5f40",
   "lastOpenFiles": [
-    "데일리/2024-01-02.md",
-    "영구노트/java bean validation에서 custom validator 만들기.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "나의 마일스톤/2024년 목표.md",
+    "영구노트/java bean validation에서 custom validator 만들기.md",
+    "데일리/2024-01-02.md",
     "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
     "데일리/2024-01-03.md",
     "templates/일정 템플릿.md",
@@ -267,7 +268,6 @@
     "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
     "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
     "영구노트/서비스 수준 용어.md",
-    "나의 마일스톤/2024년 목표.md",
     "영구노트/@Valid와 @Validated 차이.md",
     "나의 마일스톤/2024년/무제 파일.md",
     "나의 마일스톤/2024년",
