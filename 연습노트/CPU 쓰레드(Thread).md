@@ -12,7 +12,7 @@
 (없음)
 
 ## 출처(링크)
-
+- https://www.youtube.com/watch?v=_dhLLWJNhwY#t=355.283127
 
 ## 연결 노트
 

@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb878be3065e4a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/GoRoutine 고루틴 소개.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3067635143ea642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/CPU 코어.md",
+                "file": "연습노트/CPU 쓰레드(Thread).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/CPU 코어.md",
+                "file": "연습노트/CPU 쓰레드(Thread).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/CPU 코어.md",
+                "file": "연습노트/CPU 쓰레드(Thread).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/CPU 코어.md",
+                "file": "연습노트/CPU 쓰레드(Thread).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/CPU 코어.md"
+                "file": "연습노트/CPU 쓰레드(Thread).md"
               }
             }
           },
@@ -267,9 +253,13 @@
   },
   "active": "f3067635143ea642",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20240103180319.png",
-    "연습노트/CPU 코어.md",
+    "영구노트/GoRoutine 고루틴 소개.md",
     "연습노트/CPU 쓰레드(Thread).md",
+    "데일리/2024-01-03.md",
+    "데일리/2023-12-13.md",
+    "데일리/2023-12-17.md",
+    "영구노트/CPU 코어.md",
+    "attachments/screenshot/Pasted image 20240103180319.png",
     "Excalidraw/불타는 CPU(draw).md",
     "attachments/screenshot/Pasted Image 20240103175343_811.png",
     "Excalidraw/코어(draw).md",
@@ -282,13 +272,10 @@
     "attachments/screenshot/Pasted image 20240103165007.png",
     "attachments/screenshot/Pasted image 20240103164524.png",
     "attachments/screenshot/Pasted image 20240103164322.png",
-    "영구노트/GoRoutine 고루틴 소개.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "Excalidraw/many-to-many thread model(draw).md",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
     "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
-    "데일리/2024-01-03.md",
-    "데일리/2023-12-17.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
     "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
@@ -305,7 +292,6 @@
     "나의 마일스톤/2024년",
     "나의 마일스톤",
     "attachments/screenshot/Pasted image 20231222203013.png",
-    "attachments/screenshot/Pasted image 20231222202945.png",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
