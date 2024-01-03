@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "CPU 코어",
+      "path": "연습노트/CPU 코어.md"
+    },
+    {
       "basename": "GoRoutine 고루틴 소개",
       "path": "영구노트/GoRoutine 고루틴 소개.md"
+    },
+    {
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
+    },
+    {
+      "basename": "many-to-many thread model(draw)",
+      "path": "Excalidraw/many-to-many thread model(draw).md"
     },
     {
       "basename": "Garbage Collection(가비지 컬렉션) 소개",
@@ -187,18 +199,6 @@
     {
       "basename": "2023-12-27",
       "path": "데일리/2023-12-27.md"
-    },
-    {
-      "basename": "2023-12-26",
-      "path": "데일리/2023-12-26.md"
-    },
-    {
-      "basename": "2023-12-25",
-      "path": "데일리/2023-12-25.md"
-    },
-    {
-      "basename": "2023-12-24",
-      "path": "데일리/2023-12-24.md"
     }
   ],
   "omittedPaths": [],
