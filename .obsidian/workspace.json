@@ -21,43 +21,20 @@
             }
           },
           {
-            "id": "8cfb0109d1b9294b",
+            "id": "be5dd317f23c0947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+                "file": "연습노트/프로세스 & 스레드 메모리.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4278ebc96af6f1f9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ee7f59002f568011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/CPU 쓰레드(Thread).md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
+                "file": "연습노트/프로세스 & 스레드 메모리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
+                "file": "연습노트/프로세스 & 스레드 메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
+                "file": "연습노트/프로세스 & 스레드 메모리.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md"
+                "file": "연습노트/프로세스 & 스레드 메모리.md"
               }
             }
           },
@@ -288,12 +265,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4278ebc96af6f1f9",
+  "active": "be5dd317f23c0947",
   "lastOpenFiles": [
-    "연습노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
-    "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
     "영구노트/CPU 쓰레드(Thread).md",
+    "연습노트/프로세스 & 스레드 메모리.md",
     "영구노트/CPU 코어.md",
+    "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+    "Excalidraw/CPU 병렬성(draw).md",
     "영구노트/CPU 클럭 속도.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "attachments/screenshot/Pasted image 20240103222033.png",
@@ -326,7 +304,6 @@
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
-    "나의 마일스톤/2024년 목표.md",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
     "attachments/screenshot",

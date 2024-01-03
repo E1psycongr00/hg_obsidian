@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-01-03 22.41.46.excalidraw",
-      "path": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md"
-    },
-    {
-      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
-      "path": "연습노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+      "basename": "프로세스 & 스레드 메모리",
+      "path": "연습노트/프로세스 & 스레드 메모리.md"
     },
     {
       "basename": "CPU 쓰레드(Thread)",
@@ -15,6 +11,14 @@
     {
       "basename": "CPU 코어",
       "path": "영구노트/CPU 코어.md"
+    },
+    {
+      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
+      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+    },
+    {
+      "basename": "CPU 병렬성(draw)",
+      "path": "Excalidraw/CPU 병렬성(draw).md"
     },
     {
       "basename": "CPU 클럭 속도",
@@ -195,10 +199,6 @@
     {
       "basename": "2023-12-10",
       "path": "데일리/2023-12-10.md"
-    },
-    {
-      "basename": "2023-12-08",
-      "path": "데일리/2023-12-08.md"
     }
   ],
   "omittedPaths": [],
