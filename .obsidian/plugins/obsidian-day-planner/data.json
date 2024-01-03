@@ -9,7 +9,7 @@
   "timelineDateFormat": "YYYY-MM-DD",
   "centerNeedle": true,
   "plannerHeading": "Day planner",
-  "plannerHeadingLevel": 1,
+  "plannerHeadingLevel": 2,
   "timelineColored": true,
   "timelineStartColor": "#246b70",
   "timelineEndColor": "#4d194d",
@@ -22,7 +22,7 @@
   "showTimestampInTaskBlock": true,
   "unscheduledTasksHeight": 100,
   "showUncheduledTasks": false,
-  "showUnscheduledNestedTasks": true,
+  "showUnscheduledNestedTasks": false,
   "showNow": true,
   "showNext": true
 }

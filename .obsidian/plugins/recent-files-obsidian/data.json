@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-03",
+      "path": "데일리/2024-01-03.md"
+    },
+    {
+      "basename": "기초적인 Rest API 서버 설계하기",
+      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
+    },
+    {
+      "basename": "프로그래머스 과제 진행하기",
+      "path": "연습노트/프로그래머스 과제 진행하기.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "Project Jigsaw",
+      "path": "연습노트/Project Jigsaw.md"
+    },
+    {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "schema.sql & data.sql 활용해 더미 데이터 생성하기",
+      "path": "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md"
+    },
+    {
+      "basename": "2024년 목표",
+      "path": "나의 마일스톤/2024년 목표.md"
+    },
+    {
+      "basename": "2024-01-02",
+      "path": "데일리/2024-01-02.md"
     },
     {
       "basename": "Obsidian 콜아웃 종류",
@@ -13,44 +53,12 @@
       "path": "Resources/Obsidian/Obsidian 관련 내용.md"
     },
     {
-      "basename": "Project Jigsaw",
-      "path": "연습노트/Project Jigsaw.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "2024-01-02",
-      "path": "데일리/2024-01-02.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "프로그래머스 과제 진행하기",
-      "path": "연습노트/프로그래머스 과제 진행하기.md"
-    },
-    {
-      "basename": "2024-01-03",
-      "path": "데일리/2024-01-03.md"
-    },
-    {
       "basename": "Spring Bean Validation 총정리",
       "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
     },
     {
       "basename": "java bean validation에서 커스텀 메시지 만들기",
       "path": "영구노트/java bean validation에서 커스텀 메시지 만들기.md"
-    },
-    {
-      "basename": "2024년 목표",
-      "path": "나의 마일스톤/2024년 목표.md"
     },
     {
       "basename": "java bean validation에서 custom validator 만들기",
@@ -191,14 +199,6 @@
     {
       "basename": "2023-12-21",
       "path": "데일리/2023-12-21.md"
-    },
-    {
-      "basename": "2023-12-20",
-      "path": "데일리/2023-12-20.md"
-    },
-    {
-      "basename": "2023-12-19",
-      "path": "데일리/2023-12-19.md"
     }
   ],
   "omittedPaths": [],
