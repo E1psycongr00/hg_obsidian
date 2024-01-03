@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ebd4974597a3825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/CPU 클럭 속도.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/CPU 코어.md",
+                "file": "연습노트/CPU 클럭 속도.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/CPU 코어.md",
+                "file": "연습노트/CPU 클럭 속도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/CPU 코어.md",
+                "file": "연습노트/CPU 클럭 속도.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/CPU 코어.md"
+                "file": "연습노트/CPU 클럭 속도.md"
               }
             }
           },
@@ -265,10 +278,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f3067635143ea642",
+  "active": "5ebd4974597a3825",
   "lastOpenFiles": [
-    "영구노트/GoRoutine 고루틴 소개.md",
+    "attachments/screenshot/Pasted image 20240103165007.png",
+    "attachments/screenshot/Pasted image 20240103164524.png",
+    "attachments/screenshot/Pasted image 20240103164322.png",
     "연습노트/CPU 코어.md",
+    "연습노트/CPU 클럭 속도.md",
+    "영구노트/GoRoutine 고루틴 소개.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "Excalidraw/many-to-many thread model(draw).md",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
@@ -291,8 +308,6 @@
     "Resources/Obsidian/Obsidian 관련 내용.md",
     "연습노트/Obsidian의 Admonition 사용법.md",
     "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
-    "영구노트/java bean validation에서 custom validator 만들기.md",
-    "templates/일정 템플릿.md",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
     "attachments/screenshot/Pasted image 20231222203013.png",
@@ -303,8 +318,6 @@
     "attachments/screenshot/Pasted image 20231222202252.png",
     "attachments/screenshot/Pasted image 20231222202150.png",
     "attachments/screenshot/Pasted image 20231222202124.png",
-    "attachments/screenshot/Pasted image 20231222202010.png",
-    "attachments/screenshot/Pasted image 20231222201957.png",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
