@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
       "basename": "Obsidian 콜아웃 종류",
       "path": "영구노트/Obsidian 콜아웃 종류.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "2024-01-02",
       "path": "데일리/2024-01-02.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
       "basename": "JacksonModule & Std(De)Serializer",

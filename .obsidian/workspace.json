@@ -11,8 +11,13 @@
             "id": "8d8ab5e026b59bb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+              }
             }
           },
           {
