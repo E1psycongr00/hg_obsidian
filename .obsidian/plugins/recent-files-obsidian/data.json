@@ -5,6 +5,10 @@
       "path": "연습노트/CPU 쓰레드(Thread).md"
     },
     {
+      "basename": "CPU 코어",
+      "path": "영구노트/CPU 코어.md"
+    },
+    {
       "basename": "GoRoutine 고루틴 소개",
       "path": "영구노트/GoRoutine 고루틴 소개.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2023-12-17",
       "path": "데일리/2023-12-17.md"
-    },
-    {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
     },
     {
       "basename": "불타는 CPU(draw)",
