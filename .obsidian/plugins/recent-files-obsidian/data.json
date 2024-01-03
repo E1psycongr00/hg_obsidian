@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "코어(draw)",
-      "path": "Excalidraw/코어(draw).md"
-    },
-    {
       "basename": "CPU 코어",
       "path": "연습노트/CPU 코어.md"
     },
     {
-      "basename": "CPU 클럭 속도",
-      "path": "영구노트/CPU 클럭 속도.md"
-    },
-    {
       "basename": "CPU 쓰레드(Thread)",
       "path": "연습노트/CPU 쓰레드(Thread).md"
+    },
+    {
+      "basename": "불타는 CPU(draw)",
+      "path": "Excalidraw/불타는 CPU(draw).md"
+    },
+    {
+      "basename": "코어(draw)",
+      "path": "Excalidraw/코어(draw).md"
+    },
+    {
+      "basename": "CPU 클럭 속도",
+      "path": "영구노트/CPU 클럭 속도.md"
     },
     {
       "basename": "GoRoutine 고루틴 소개",
@@ -195,10 +199,6 @@
     {
       "basename": "영상 참조 템플릿",
       "path": "templates/영상 참조 템플릿.md"
-    },
-    {
-      "basename": "2023-12-30",
-      "path": "데일리/2023-12-30.md"
     }
   ],
   "omittedPaths": [],

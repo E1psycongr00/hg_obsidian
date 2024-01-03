@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "380a901ae4d5842c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/코어(draw).md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/코어(draw).md",
+                "file": "연습노트/CPU 코어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/코어(draw).md",
+                "file": "연습노트/CPU 코어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/코어(draw).md",
+                "file": "연습노트/CPU 코어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/코어(draw).md"
+                "file": "연습노트/CPU 코어.md"
               }
             }
           },
@@ -275,12 +265,20 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "380a901ae4d5842c",
+  "active": "f3067635143ea642",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240103180319.png",
     "연습노트/CPU 코어.md",
-    "Excalidraw/코어(draw).md",
-    "영구노트/CPU 클럭 속도.md",
     "연습노트/CPU 쓰레드(Thread).md",
+    "Excalidraw/불타는 CPU(draw).md",
+    "attachments/screenshot/Pasted Image 20240103175343_811.png",
+    "Excalidraw/코어(draw).md",
+    "attachments/screenshot/Pasted Image 20240103175046_442.png",
+    "attachments/screenshot/Pasted Image 20240103175011_829.png",
+    "attachments/screenshot/Pasted Image 20240103174957_558.png",
+    "attachments/screenshot/Pasted Image 20240103174942_557.png",
+    "Excalidraw/libraries/computer-parts.excalidrawlib",
+    "영구노트/CPU 클럭 속도.md",
     "attachments/screenshot/Pasted image 20240103165007.png",
     "attachments/screenshot/Pasted image 20240103164524.png",
     "attachments/screenshot/Pasted image 20240103164322.png",
@@ -304,17 +302,10 @@
     "나의 마일스톤/2024년 목표.md",
     "데일리/2024-01-02.md",
     "영구노트/Obsidian 콜아웃 종류.md",
-    "Resources/Obsidian/Obsidian 관련 내용.md",
-    "연습노트/Obsidian의 Admonition 사용법.md",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
     "attachments/screenshot/Pasted image 20231222203013.png",
     "attachments/screenshot/Pasted image 20231222202945.png",
-    "attachments/screenshot/Pasted image 20231222202826.png",
-    "attachments/screenshot/Pasted image 20231222202721.png",
-    "attachments/screenshot/Pasted image 20231222202357.png",
-    "attachments/screenshot/Pasted image 20231222202252.png",
-    "attachments/screenshot/Pasted image 20231222202150.png",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
@@ -324,7 +315,6 @@
     "Resources/명언",
     "Resources/IT/java",
     "Resources/IT/Gradle",
-    "Resources/IT/Java",
     "Java 에 대하여.canvas"
   ]
 }
