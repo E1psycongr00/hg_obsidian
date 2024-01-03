@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5ebd4974597a3825",
+            "id": "754a0bb4e6d209aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/CPU 클럭 속도.md",
+                "file": "연습노트/CPU 코어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/CPU 클럭 속도.md",
+                "file": "연습노트/CPU 코어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/CPU 클럭 속도.md",
+                "file": "연습노트/CPU 코어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/CPU 클럭 속도.md",
+                "file": "연습노트/CPU 코어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/CPU 클럭 속도.md"
+                "file": "연습노트/CPU 코어.md"
               }
             }
           },
@@ -278,13 +278,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5ebd4974597a3825",
+  "active": "754a0bb4e6d209aa",
   "lastOpenFiles": [
+    "영구노트/CPU 클럭 속도.md",
+    "연습노트/CPU 코어.md",
+    "연습노트/CPU 쓰레드(Thread).md",
     "attachments/screenshot/Pasted image 20240103165007.png",
     "attachments/screenshot/Pasted image 20240103164524.png",
     "attachments/screenshot/Pasted image 20240103164322.png",
-    "연습노트/CPU 코어.md",
-    "연습노트/CPU 클럭 속도.md",
     "영구노트/GoRoutine 고루틴 소개.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "Excalidraw/many-to-many thread model(draw).md",
@@ -317,7 +318,6 @@
     "attachments/screenshot/Pasted image 20231222202357.png",
     "attachments/screenshot/Pasted image 20231222202252.png",
     "attachments/screenshot/Pasted image 20231222202150.png",
-    "attachments/screenshot/Pasted image 20231222202124.png",
     "attachments/screenshot",
     "Resources/명언/명언 모음.canvas",
     "데일리",
