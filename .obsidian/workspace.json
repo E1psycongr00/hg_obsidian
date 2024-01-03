@@ -13,10 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/CPU 쓰레드(Thread).md",
+                "file": "영구노트/CPU 쓰레드(Thread).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8cfb0109d1b9294b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4278ebc96af6f1f9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md"
               }
             }
           },
@@ -26,14 +49,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/CPU 코어.md",
+                "file": "영구노트/CPU 쓰레드(Thread).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CPU",
+                "query": "tag:#Thread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -108,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/CPU 쓰레드(Thread).md",
+                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/CPU 쓰레드(Thread).md",
+                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/CPU 쓰레드(Thread).md",
+                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/CPU 쓰레드(Thread).md"
+                "file": "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md"
               }
             }
           },
@@ -263,12 +288,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f3067635143ea642",
+  "active": "4278ebc96af6f1f9",
   "lastOpenFiles": [
+    "연습노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+    "Excalidraw/Drawing 2024-01-03 22.41.46.excalidraw.md",
+    "영구노트/CPU 쓰레드(Thread).md",
+    "영구노트/CPU 코어.md",
+    "영구노트/CPU 클럭 속도.md",
+    "영구노트/Kernel Level Thread vs User Level Thread.md",
     "attachments/screenshot/Pasted image 20240103222033.png",
     "attachments/screenshot/Pasted image 20240103220118.png",
-    "영구노트/CPU 코어.md",
-    "연습노트/CPU 쓰레드(Thread).md",
     "영구노트/GoRoutine 고루틴 소개.md",
     "데일리/2024-01-03.md",
     "데일리/2023-12-13.md",
@@ -282,11 +311,8 @@
     "attachments/screenshot/Pasted Image 20240103174957_558.png",
     "attachments/screenshot/Pasted Image 20240103174942_557.png",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
-    "영구노트/CPU 클럭 속도.md",
     "attachments/screenshot/Pasted image 20240103165007.png",
     "attachments/screenshot/Pasted image 20240103164524.png",
-    "attachments/screenshot/Pasted image 20240103164322.png",
-    "영구노트/Kernel Level Thread vs User Level Thread.md",
     "Excalidraw/many-to-many thread model(draw).md",
     "영구노트/Garbage Collection(가비지 컬렉션) 소개.md",
     "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md",
@@ -301,7 +327,6 @@
     "연습노트/Spring에서 예외 처리 과정.md",
     "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
     "나의 마일스톤/2024년 목표.md",
-    "데일리/2024-01-02.md",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
     "attachments/screenshot",
