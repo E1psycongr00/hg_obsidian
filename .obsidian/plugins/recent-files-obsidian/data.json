@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "표준 Java Error",
+      "path": "Resources/IT/java/표준 Java Error.md"
+    },
+    {
+      "basename": "Java 공부",
+      "path": "Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "java 배열 사용법",
+      "path": "Resources/IT/java/java 배열 사용법.md"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "Resources/IT/java/Java Annotation.md"
+    },
+    {
+      "basename": "Spring Bean Validation 총정리",
+      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "Spring JDBC",
+      "path": "Resources/IT/java/Spring JDBC.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.canvas"
+    },
+    {
+      "basename": "할까 말까 망설이면 걍 해라 by 친구들",
+      "path": "영구노트/할까 말까 망설이면 걍 해라 by 친구들.md"
+    },
+    {
+      "basename": "영상 참조 템플릿",
+      "path": "templates/영상 참조 템플릿.md"
+    },
+    {
+      "basename": "공부가 아니라 배움이다  by 타일러",
+      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
+    },
+    {
+      "basename": "지식보다 중요한 것은 상상력이다... by Einstein",
+      "path": "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md"
+    },
+    {
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
+    },
+    {
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
+    },
+    {
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
+    },
+    {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "동기 템플릿",
+      "path": "templates/동기 템플릿.md"
+    },
+    {
+      "basename": "2024-01-03",
+      "path": "데일리/2024-01-03.md"
+    },
+    {
       "basename": "프로세스 & 스레드 메모리",
       "path": "연습노트/프로세스 & 스레드 메모리.md"
     },
@@ -33,10 +105,6 @@
       "path": "영구노트/GoRoutine 고루틴 소개.md"
     },
     {
-      "basename": "2024-01-03",
-      "path": "데일리/2024-01-03.md"
-    },
-    {
       "basename": "2023-12-13",
       "path": "데일리/2023-12-13.md"
     },
@@ -63,10 +131,6 @@
     {
       "basename": "Garbage Collection(가비지 컬렉션) 알고리즘 종류",
       "path": "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
     },
     {
       "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
@@ -129,76 +193,12 @@
       "path": "영구노트/java bean validation에서 custom validator 만들기.md"
     },
     {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
-    },
-    {
       "basename": "Spring bean validation과 MessageCodesResolver",
       "path": "영구노트/Spring bean validation과 MessageCodesResolver.md"
     },
     {
       "basename": "MessageSource 분석하기",
       "path": "영구노트/MessageSource 분석하기.md"
-    },
-    {
-      "basename": "ConstraintViolationException",
-      "path": "영구노트/ConstraintViolationException.md"
-    },
-    {
-      "basename": "MethodArgumentNotValidException",
-      "path": "영구노트/MethodArgumentNotValidException.md"
-    },
-    {
-      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
-      "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
-    },
-    {
-      "basename": "서비스 수준 용어",
-      "path": "영구노트/서비스 수준 용어.md"
-    },
-    {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "영구노트/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "2023-12-05",
-      "path": "데일리/2023-12-05.md"
-    },
-    {
-      "basename": "2024-01-01",
-      "path": "데일리/2024-01-01.md"
-    },
-    {
-      "basename": "2023-12-04",
-      "path": "데일리/2023-12-04.md"
-    },
-    {
-      "basename": "JRE 와 JDK 의 차이",
-      "path": "영구노트/JRE 와 JDK 의 차이.md"
-    },
-    {
-      "basename": "Adamic Adars",
-      "path": "영구노트/Adamic Adars.md"
-    },
-    {
-      "basename": "2023-12-18",
-      "path": "데일리/2023-12-18.md"
-    },
-    {
-      "basename": "2023-12-15",
-      "path": "데일리/2023-12-15.md"
-    },
-    {
-      "basename": "2023-12-12",
-      "path": "데일리/2023-12-12.md"
-    },
-    {
-      "basename": "2023-12-10",
-      "path": "데일리/2023-12-10.md"
     }
   ],
   "omittedPaths": [],
