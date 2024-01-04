@@ -1,48 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "프로세스 & 스레드 정의",
-      "path": "연습노트/프로세스 & 스레드 정의.md"
+      "basename": "Drawing 2024-01-04 14.32.44.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-04 14.32.44.excalidraw.md"
     },
     {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+      "basename": "프로세스의 한계 및 쓰레드 등장",
+      "path": "연습노트/프로세스의 한계 및 쓰레드 등장.md"
+    },
+    {
+      "basename": "프로그래머스 과제 진행하기",
+      "path": "연습노트/프로그래머스 과제 진행하기.md"
     },
     {
       "basename": "2024-01-04",
       "path": "데일리/2024-01-04.md"
     },
     {
-      "basename": "2024-01-03",
-      "path": "데일리/2024-01-03.md"
+      "basename": "프로세스 & 스레드 정의",
+      "path": "영구노트/프로세스 & 스레드 정의.md"
     },
     {
       "basename": "CPU 클럭 속도",
       "path": "영구노트/CPU 클럭 속도.md"
     },
     {
-      "basename": "CPU 병렬성(draw)",
-      "path": "Excalidraw/CPU 병렬성(draw).md"
+      "basename": "CPU 쓰레드(Thread)",
+      "path": "영구노트/CPU 쓰레드(Thread).md"
     },
     {
       "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
       "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
     },
     {
+      "basename": "2024-01-03",
+      "path": "데일리/2024-01-03.md"
+    },
+    {
+      "basename": "CPU 병렬성(draw)",
+      "path": "Excalidraw/CPU 병렬성(draw).md"
+    },
+    {
       "basename": "CPU 코어",
       "path": "영구노트/CPU 코어.md"
     },
     {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
       "basename": "일정 템플릿",
       "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "CPU 쓰레드(Thread)",
-      "path": "영구노트/CPU 쓰레드(Thread).md"
     },
     {
       "basename": "솔루션 템플릿",
@@ -95,10 +99,6 @@
     {
       "basename": "동기 템플릿",
       "path": "templates/동기 템플릿.md"
-    },
-    {
-      "basename": "Kernel Level Thread vs User Level Thread",
-      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
     }
   ],
   "omittedPaths": [],

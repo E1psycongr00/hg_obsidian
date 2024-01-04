@@ -39,12 +39,12 @@
   "anuppuccin-theme-settings@@anp-header-margin-value": 20,
   "anuppuccin-theme-settings@@anp-h2-divider": false,
   "anuppuccin-theme-settings@@h2-line-height": 3,
-  "anuppuccin-theme-settings@@h3-line-height": 2.5,
   "anuppuccin-theme-settings@@anp-toggle-preview": false,
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab",
   "anuppuccin-theme-settings@@anp-preview-width-pct": 100,
   "anuppuccin-theme-settings@@file-margins": 32,
   "anuppuccin-theme-settings@@cards-min-width": "180px",
   "anuppuccin-theme-settings@@cards-padding": "1.2em",
-  "anuppuccin-theme-settings@@h4-line-height": 2.5
+  "anuppuccin-theme-settings@@h4-line-height": 1.7,
+  "anuppuccin-theme-settings@@h3-line-height": 3
 }
