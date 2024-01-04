@@ -4,38 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5fd7c548d21c63b",
+        "id": "5d6f4228e078b059",
         "type": "tabs",
         "children": [
           {
-            "id": "f37e10242356586c",
+            "id": "c57b81a4777fdf3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/프로세스의 한계 및 쓰레드 등장.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f42a93ee81e5dfd",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "17955b30b80ea2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데일리/2024-01-04.md",
-                "mode": "preview",
+                "file": "연습노트/프로세스 & 스레드 메모리 구조.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -95,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -116,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/프로세스의 한계 및 쓰레드 등장.md",
+                "file": "연습노트/프로세스 & 스레드 메모리 구조.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/프로세스의 한계 및 쓰레드 등장.md",
+                "file": "연습노트/프로세스 & 스레드 메모리 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/프로세스의 한계 및 쓰레드 등장.md",
+                "file": "연습노트/프로세스 & 스레드 메모리 구조.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +148,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277601,
+                  "scale": 0.7514342322277615,
                   "close": true
                 }
               }
@@ -235,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/프로세스의 한계 및 쓰레드 등장.md"
+                "file": "연습노트/프로세스 & 스레드 메모리 구조.md"
               }
             }
           },
@@ -247,8 +227,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,16 +250,24 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f37e10242356586c",
+  "active": "c57b81a4777fdf3a",
   "lastOpenFiles": [
     "연습노트/프로세스의 한계 및 쓰레드 등장.md",
+    "연습노트/프로세스 & 스레드 메모리 구조.md",
     "Excalidraw/Chrome 을 이용해 동시 멀티 작업(draw).md",
+    "영구노트/Why Gradle.md",
     "데일리/2024-01-04.md",
+    "영구노트/빌드 관리 도구 필요성.md",
+    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
+    "Resources/IT/java/Java 공부.md",
     "영구노트/JVM 구조.md",
+    "영구노트/Minor GC(Young) vs Major GC(Old).md",
+    "영구노트/Locust 동작 방식.md",
+    "영구노트/Kernel Level Thread vs User Level Thread.md",
+    "영구노트/HttpServer.md",
     "영구노트/Java 동작 원리.md",
     "영구노트/Class Loader.md",
     "영구노트/Class Loader 메서드.md",
-    "연습노트/프로세스 & 스레드 메모리 구조.md",
     "영구노트/프로세스 & 스레드 정의.md",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
@@ -297,14 +284,6 @@
     "데일리/2024-01-03.md",
     "Excalidraw/CPU 병렬성(draw).md",
     "영구노트/CPU 코어.md",
-    "영구노트/할까 말까 망설이면 걍 해라 by 친구들.md",
-    "templates/일정 템플릿.md",
-    "templates/솔루션 템플릿.md",
-    "Excalidraw/코어(draw).md",
-    "연습노트/기초적인 Rest API 서버 설계하기.md",
-    "영구노트/MessageSource 분석하기.md",
-    "Resources/IT/java/표준 Java Error.md",
-    "Resources/IT/java/Java 공부.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted image 20240103222033.png",
     "attachments/screenshot/Pasted image 20240103220118.png",

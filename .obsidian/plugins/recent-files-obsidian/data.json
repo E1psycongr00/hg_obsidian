@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "프로세스 & 스레드 메모리 구조",
+      "path": "연습노트/프로세스 & 스레드 메모리 구조.md"
+    },
+    {
       "basename": "프로세스의 한계 및 쓰레드 등장",
       "path": "연습노트/프로세스의 한계 및 쓰레드 등장.md"
     },
@@ -9,12 +13,44 @@
       "path": "Excalidraw/Chrome 을 이용해 동시 멀티 작업(draw).md"
     },
     {
+      "basename": "Why Gradle",
+      "path": "영구노트/Why Gradle.md"
+    },
+    {
       "basename": "2024-01-04",
       "path": "데일리/2024-01-04.md"
     },
     {
+      "basename": "빌드 관리 도구 필요성",
+      "path": "영구노트/빌드 관리 도구 필요성.md"
+    },
+    {
+      "basename": "컴파일(compile)과 빌드(build) 개념",
+      "path": "영구노트/컴파일(compile)과 빌드(build) 개념.md"
+    },
+    {
+      "basename": "Java 공부",
+      "path": "Resources/IT/java/Java 공부.md"
+    },
+    {
       "basename": "JVM 구조",
       "path": "영구노트/JVM 구조.md"
+    },
+    {
+      "basename": "Minor GC(Young) vs Major GC(Old)",
+      "path": "영구노트/Minor GC(Young) vs Major GC(Old).md"
+    },
+    {
+      "basename": "Locust 동작 방식",
+      "path": "영구노트/Locust 동작 방식.md"
+    },
+    {
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
+    },
+    {
+      "basename": "HttpServer",
+      "path": "영구노트/HttpServer.md"
     },
     {
       "basename": "Java 동작 원리",
@@ -27,10 +63,6 @@
     {
       "basename": "Class Loader 메서드",
       "path": "영구노트/Class Loader 메서드.md"
-    },
-    {
-      "basename": "프로세스 & 스레드 메모리 구조",
-      "path": "연습노트/프로세스 & 스레드 메모리 구조.md"
     },
     {
       "basename": "프로세스 & 스레드 정의",
@@ -67,38 +99,6 @@
     {
       "basename": "일정 템플릿",
       "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "솔루션 템플릿",
-      "path": "templates/솔루션 템플릿.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "Spring JDBC",
-      "path": "Resources/IT/java/Spring JDBC.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "Resources/명언/명언 모음.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "Resources/명언/명언 모음.canvas"
-    },
-    {
-      "basename": "영상 참조 템플릿",
-      "path": "templates/영상 참조 템플릿.md"
     }
   ],
   "omittedPaths": [],
