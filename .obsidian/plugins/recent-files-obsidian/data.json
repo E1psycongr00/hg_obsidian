@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-01-04 14.32.44.excalidraw",
-      "path": "Excalidraw/Drawing 2024-01-04 14.32.44.excalidraw.md"
-    },
-    {
       "basename": "프로세스의 한계 및 쓰레드 등장",
       "path": "연습노트/프로세스의 한계 및 쓰레드 등장.md"
     },
     {
-      "basename": "프로그래머스 과제 진행하기",
-      "path": "연습노트/프로그래머스 과제 진행하기.md"
+      "basename": "Chrome 을 이용해 동시 멀티 작업(draw)",
+      "path": "Excalidraw/Chrome 을 이용해 동시 멀티 작업(draw).md"
     },
     {
       "basename": "2024-01-04",
       "path": "데일리/2024-01-04.md"
     },
     {
+      "basename": "JVM 구조",
+      "path": "영구노트/JVM 구조.md"
+    },
+    {
+      "basename": "Java 동작 원리",
+      "path": "영구노트/Java 동작 원리.md"
+    },
+    {
+      "basename": "Class Loader",
+      "path": "영구노트/Class Loader.md"
+    },
+    {
+      "basename": "Class Loader 메서드",
+      "path": "영구노트/Class Loader 메서드.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 메모리 구조",
+      "path": "연습노트/프로세스 & 스레드 메모리 구조.md"
+    },
+    {
       "basename": "프로세스 & 스레드 정의",
       "path": "영구노트/프로세스 & 스레드 정의.md"
+    },
+    {
+      "basename": "프로그래머스 과제 진행하기",
+      "path": "연습노트/프로그래머스 과제 진행하기.md"
     },
     {
       "basename": "CPU 클럭 속도",
@@ -79,26 +99,6 @@
     {
       "basename": "영상 참조 템플릿",
       "path": "templates/영상 참조 템플릿.md"
-    },
-    {
-      "basename": "공부가 아니라 배움이다  by 타일러",
-      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
-    },
-    {
-      "basename": "지식보다 중요한 것은 상상력이다... by Einstein",
-      "path": "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md"
-    },
-    {
-      "basename": "인물 소개 템플릿",
-      "path": "templates/인물 소개 템플릿.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "동기 템플릿",
-      "path": "templates/동기 템플릿.md"
     }
   ],
   "omittedPaths": [],
