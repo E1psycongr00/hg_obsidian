@@ -5,16 +5,28 @@
       "path": "연습노트/프로세스 & 스레드 메모리 구조.md"
     },
     {
+      "basename": "프로세스의 한계 및 쓰레드 등장",
+      "path": "연습노트/프로세스의 한계 및 쓰레드 등장.md"
+    },
+    {
+      "basename": "선풍기 바람이 시원하지 않은 이유는 그 바람이 어디서 오는지 알기 때문이다 by 이경규",
+      "path": "영구노트/선풍기 바람이 시원하지 않은 이유는 그 바람이 어디서 오는지 알기 때문이다 by 이경규.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "무거운 짐을 함부러 버리지마라 by 이경규",
+      "path": "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md"
+    },
+    {
       "basename": "Process 메모리 구조(draw)",
       "path": "Excalidraw/Process 메모리 구조(draw).md"
     },
     {
       "basename": "프로그래머스 과제 진행하기",
       "path": "연습노트/프로그래머스 과제 진행하기.md"
-    },
-    {
-      "basename": "프로세스의 한계 및 쓰레드 등장",
-      "path": "연습노트/프로세스의 한계 및 쓰레드 등장.md"
     },
     {
       "basename": "프로세스 & 스레드 정의",
@@ -87,18 +99,6 @@
     {
       "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
       "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
-    },
-    {
-      "basename": "2024-01-03",
-      "path": "데일리/2024-01-03.md"
-    },
-    {
-      "basename": "CPU 병렬성(draw)",
-      "path": "Excalidraw/CPU 병렬성(draw).md"
-    },
-    {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
     }
   ],
   "omittedPaths": [],
