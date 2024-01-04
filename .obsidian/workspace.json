@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/프로세스 & 스레드 메모리.md",
+                "file": "연습노트/프로세스 & 스레드 정의.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/프로세스 & 스레드 메모리.md",
+                "file": "연습노트/프로세스 & 스레드 정의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/프로세스 & 스레드 메모리.md",
+                "file": "연습노트/프로세스 & 스레드 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/프로세스 & 스레드 메모리.md",
+                "file": "연습노트/프로세스 & 스레드 정의.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "350459afc1252945",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/프로세스 & 스레드 메모리.md"
+                "file": "연습노트/프로세스 & 스레드 정의.md"
               }
             }
           },
@@ -275,9 +275,11 @@
   },
   "active": "63c58c7a33bfab63",
   "lastOpenFiles": [
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/프로세스 & 스레드 정의.md",
+    "attachments/screenshot/Pasted image 20240104135739.png",
     "데일리/2024-01-04.md",
     "데일리/2024-01-03.md",
-    "연습노트/프로세스 & 스레드 메모리.md",
     "영구노트/CPU 클럭 속도.md",
     "Excalidraw/CPU 병렬성(draw).md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
@@ -290,7 +292,6 @@
     "Excalidraw/코어(draw).md",
     "연습노트/기초적인 Rest API 서버 설계하기.md",
     "연습노트/프로그래머스 과제 진행하기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "영구노트/MessageSource 분석하기.md",
     "Resources/IT/java/표준 Java Error.md",
     "Resources/IT/java/Java 공부.md",
@@ -301,7 +302,6 @@
     "Resources/명언/명언 모음.canvas",
     "templates/영상 참조 템플릿.md",
     "영구노트/공부가 아니라 배움이다  by 타일러.md",
-    "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
     "attachments/screenshot/Pasted image 20240103222033.png",
     "attachments/screenshot/Pasted image 20240103220118.png",
     "attachments/screenshot/Pasted image 20240103180319.png",
@@ -312,7 +312,6 @@
     "attachments/screenshot/Pasted Image 20240103174942_557.png",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "attachments/screenshot/Pasted image 20240103165007.png",
-    "attachments/screenshot/Pasted image 20240103164524.png",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
     "attachments/screenshot",
