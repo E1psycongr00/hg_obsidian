@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "표준 Java Error",
-      "path": "Resources/IT/java/표준 Java Error.md"
+      "basename": "프로세스 & 스레드 메모리",
+      "path": "연습노트/프로세스 & 스레드 메모리.md"
+    },
+    {
+      "basename": "2024-01-04",
+      "path": "데일리/2024-01-04.md"
+    },
+    {
+      "basename": "2024-01-03",
+      "path": "데일리/2024-01-03.md"
+    },
+    {
+      "basename": "CPU 클럭 속도",
+      "path": "영구노트/CPU 클럭 속도.md"
+    },
+    {
+      "basename": "CPU 병렬성(draw)",
+      "path": "Excalidraw/CPU 병렬성(draw).md"
+    },
+    {
+      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
+      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+    },
+    {
+      "basename": "CPU 코어",
+      "path": "영구노트/CPU 코어.md"
+    },
+    {
+      "basename": "Spring Bean Validation 총정리",
+      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
+    },
+    {
+      "basename": "CPU 쓰레드(Thread)",
+      "path": "영구노트/CPU 쓰레드(Thread).md"
+    },
+    {
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
     },
     {
       "basename": "Java 공부",
@@ -17,10 +57,6 @@
       "path": "Resources/IT/java/Java Annotation.md"
     },
     {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
       "basename": "Spring JDBC",
       "path": "Resources/IT/java/Spring JDBC.md"
     },
@@ -31,10 +67,6 @@
     {
       "basename": "명언 모음",
       "path": "Resources/명언/명언 모음.canvas"
-    },
-    {
-      "basename": "할까 말까 망설이면 걍 해라 by 친구들",
-      "path": "영구노트/할까 말까 망설이면 걍 해라 by 친구들.md"
     },
     {
       "basename": "영상 참조 템플릿",
@@ -49,16 +81,8 @@
       "path": "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md"
     },
     {
-      "basename": "솔루션 템플릿",
-      "path": "templates/솔루션 템플릿.md"
-    },
-    {
       "basename": "인물 소개 템플릿",
       "path": "templates/인물 소개 템플릿.md"
-    },
-    {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
     },
     {
       "basename": "참조 노트 템플릿",
@@ -69,139 +93,15 @@
       "path": "templates/동기 템플릿.md"
     },
     {
-      "basename": "2024-01-03",
-      "path": "데일리/2024-01-03.md"
-    },
-    {
-      "basename": "프로세스 & 스레드 메모리",
-      "path": "연습노트/프로세스 & 스레드 메모리.md"
-    },
-    {
-      "basename": "CPU 쓰레드(Thread)",
-      "path": "영구노트/CPU 쓰레드(Thread).md"
-    },
-    {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
-    },
-    {
-      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
-      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
-    },
-    {
-      "basename": "CPU 병렬성(draw)",
-      "path": "Excalidraw/CPU 병렬성(draw).md"
-    },
-    {
-      "basename": "CPU 클럭 속도",
-      "path": "영구노트/CPU 클럭 속도.md"
-    },
-    {
       "basename": "Kernel Level Thread vs User Level Thread",
       "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
     },
     {
       "basename": "GoRoutine 고루틴 소개",
       "path": "영구노트/GoRoutine 고루틴 소개.md"
-    },
-    {
-      "basename": "2023-12-13",
-      "path": "데일리/2023-12-13.md"
-    },
-    {
-      "basename": "2023-12-17",
-      "path": "데일리/2023-12-17.md"
-    },
-    {
-      "basename": "불타는 CPU(draw)",
-      "path": "Excalidraw/불타는 CPU(draw).md"
-    },
-    {
-      "basename": "코어(draw)",
-      "path": "Excalidraw/코어(draw).md"
-    },
-    {
-      "basename": "many-to-many thread model(draw)",
-      "path": "Excalidraw/many-to-many thread model(draw).md"
-    },
-    {
-      "basename": "Garbage Collection(가비지 컬렉션) 소개",
-      "path": "영구노트/Garbage Collection(가비지 컬렉션) 소개.md"
-    },
-    {
-      "basename": "Garbage Collection(가비지 컬렉션) 알고리즘 종류",
-      "path": "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md"
-    },
-    {
-      "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
-      "path": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
-    },
-    {
-      "basename": "기초적인 Rest API 서버 설계하기",
-      "path": "연습노트/기초적인 Rest API 서버 설계하기.md"
-    },
-    {
-      "basename": "프로그래머스 과제 진행하기",
-      "path": "연습노트/프로그래머스 과제 진행하기.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "Project Jigsaw",
-      "path": "연습노트/Project Jigsaw.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "schema.sql & data.sql 활용해 더미 데이터 생성하기",
-      "path": "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md"
-    },
-    {
-      "basename": "2024년 목표",
-      "path": "나의 마일스톤/2024년 목표.md"
-    },
-    {
-      "basename": "2024-01-02",
-      "path": "데일리/2024-01-02.md"
-    },
-    {
-      "basename": "Obsidian 콜아웃 종류",
-      "path": "영구노트/Obsidian 콜아웃 종류.md"
-    },
-    {
-      "basename": "Obsidian 관련 내용",
-      "path": "Resources/Obsidian/Obsidian 관련 내용.md"
-    },
-    {
-      "basename": "java bean validation에서 커스텀 메시지 만들기",
-      "path": "영구노트/java bean validation에서 커스텀 메시지 만들기.md"
-    },
-    {
-      "basename": "java bean validation에서 custom validator 만들기",
-      "path": "영구노트/java bean validation에서 custom validator 만들기.md"
-    },
-    {
-      "basename": "Spring bean validation과 MessageCodesResolver",
-      "path": "영구노트/Spring bean validation과 MessageCodesResolver.md"
-    },
-    {
-      "basename": "MessageSource 분석하기",
-      "path": "영구노트/MessageSource 분석하기.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null,
+  "maxLength": 25,
   "openType": "tab"
 }
