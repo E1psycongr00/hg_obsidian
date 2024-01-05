@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "excalidraw-plugin": "datetime"
+    "excalidraw-plugin": "datetime",
+    "date modified": "datetime",
+    "date created": "datetime"
   }
 }
