@@ -1,7 +1,14 @@
+---
+tags:
+  - IT
+  - JAVA
+  - Jackson
+aliases:
+---
 작성 날짜: 2023-11-06
 작성 시간: 18:08
 
-## 주제: #완성  #IT #JAVA #Jackson
+## 주제: #완성 #IT #JAVA #Jackson
 
 ----
 ## 내용(Content)

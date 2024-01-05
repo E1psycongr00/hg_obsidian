@@ -1,7 +1,14 @@
+---
+tags:
+  - JAVA
+  - Spring
+  - Validation
+aliases:
+---
 작성 날짜: 2023-11-12
 작성 시간: 13:21
 
-## 주제: #완성  #JAVA #Spring #Validation 
+## 주제: #완성 #JAVA #Spring #Validation 
 
 ----
 ## 내용(Content)
