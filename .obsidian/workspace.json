@@ -4,32 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6002255fc68fec",
+        "id": "f9532bf30923add9",
         "type": "tabs",
         "children": [
           {
-            "id": "1a47467dd44c47a2",
+            "id": "d513d61ccc807631",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "036d7b2f77613738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +69,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -105,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +118,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "350459afc1252945",
@@ -223,9 +206,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
-              }
+              "state": {}
             }
           },
           {
@@ -260,13 +241,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "036d7b2f77613738",
+  "active": "d513d61ccc807631",
   "lastOpenFiles": [
+    "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
+    "연습노트/Process의 상태 전이(Process State Diagram).md",
+    "Excalidraw/UnionFind예시1(draw).md",
     "Resources/명언/명언 모음.md",
+    "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md",
+    "Resources/명언/명언 모음.canvas",
     "연습노트/프로그래머스 과제 진행하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/Process의 상태 전이(Process State Diagram).md",
     "연습노트/202401051350.md",
     "영구노트/프로세스 & 스레드 메모리 구조.md",
     "Excalidraw/Process와 Thread 메모리 관계(draw).md",
@@ -274,7 +259,6 @@
     "Excalidraw/Process 메모리 구조(draw).md",
     "영구노트/프로세스의 한계 및 쓰레드 등장.md",
     "영구노트/선풍기 바람이 시원하지 않은 이유는 그 바람이 어디서 오는지 알기 때문이다 by 이경규.md",
-    "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md",
     "영구노트/프로세스 & 스레드 정의.md",
     "Excalidraw/Chrome 을 이용해 동시 멀티 작업(draw).md",
     "영구노트/Why Gradle.md",
@@ -286,15 +270,12 @@
     "영구노트/Minor GC(Young) vs Major GC(Old).md",
     "영구노트/Locust 동작 방식.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
-    "영구노트/HttpServer.md",
-    "영구노트/Java 동작 원리.md",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
     "attachments/screenshot/Pasted Image 20240104143550_816.png",
     "attachments/screenshot/Pasted Image 20240104143432_787.png",
     "attachments/screenshot/Pasted Image 20240104143401_808.png",
     "attachments/screenshot/Pasted image 20240104135739.png",
-    "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted image 20240103222033.png",
     "attachments/screenshot/Pasted image 20240103220118.png",
     "attachments/screenshot/Pasted image 20240103180319.png",

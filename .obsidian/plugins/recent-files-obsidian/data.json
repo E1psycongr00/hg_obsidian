@@ -5,8 +5,24 @@
       "path": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
     },
     {
+      "basename": "Process의 상태 전이(Process State Diagram)",
+      "path": "연습노트/Process의 상태 전이(Process State Diagram).md"
+    },
+    {
+      "basename": "UnionFind예시1(draw)",
+      "path": "Excalidraw/UnionFind예시1(draw).md"
+    },
+    {
       "basename": "명언 모음",
       "path": "Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "무거운 짐을 함부러 버리지마라 by 이경규",
+      "path": "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.canvas"
     },
     {
       "basename": "프로그래머스 과제 진행하기",
@@ -19,10 +35,6 @@
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "Process의 상태 전이(Process State Diagram)",
-      "path": "연습노트/Process의 상태 전이(Process State Diagram).md"
     },
     {
       "basename": "프로세스 & 스레드 메모리 구조",
@@ -47,10 +59,6 @@
     {
       "basename": "선풍기 바람이 시원하지 않은 이유는 그 바람이 어디서 오는지 알기 때문이다 by 이경규",
       "path": "영구노트/선풍기 바람이 시원하지 않은 이유는 그 바람이 어디서 오는지 알기 때문이다 by 이경규.md"
-    },
-    {
-      "basename": "무거운 짐을 함부러 버리지마라 by 이경규",
-      "path": "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md"
     },
     {
       "basename": "프로세스 & 스레드 정의",
@@ -91,14 +99,6 @@
     {
       "basename": "Locust 동작 방식",
       "path": "영구노트/Locust 동작 방식.md"
-    },
-    {
-      "basename": "Kernel Level Thread vs User Level Thread",
-      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
-    },
-    {
-      "basename": "HttpServer",
-      "path": "영구노트/HttpServer.md"
     }
   ],
   "omittedPaths": [],
