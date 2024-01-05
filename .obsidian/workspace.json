@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "3d37886bcdbb0297",
+        "id": "9b6002255fc68fec",
         "type": "tabs",
         "children": [
           {
-            "id": "9cfd4fedc71c63d4",
+            "id": "1a47467dd44c47a2",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "036d7b2f77613738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/무제 파일.md",
-                "mode": "source",
+                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,12 +224,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/무제 파일.md"
+                "file": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
               }
             }
           },
           {
-            "id": "a0facb5339bef8ed",
+            "id": "00e8ffbb2361afb6",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -228,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -247,22 +256,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "3d-graph:3D Graph": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "9cfd4fedc71c63d4",
+  "active": "036d7b2f77613738",
   "lastOpenFiles": [
-    "연습노트/무제 파일.md",
+    "Resources/명언/명언 모음.md",
+    "연습노트/프로그래머스 과제 진행하기.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Process의 상태 전이(Process State Diagram).md",
+    "연습노트/202401051350.md",
     "영구노트/프로세스 & 스레드 메모리 구조.md",
     "Excalidraw/Process와 Thread 메모리 관계(draw).md",
     "Excalidraw/프로세스가 메모리에 저장되는 과정(draw).md",
     "Excalidraw/Process 메모리 구조(draw).md",
     "영구노트/프로세스의 한계 및 쓰레드 등장.md",
     "영구노트/선풍기 바람이 시원하지 않은 이유는 그 바람이 어디서 오는지 알기 때문이다 by 이경규.md",
-    "Resources/명언/명언 모음.md",
     "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md",
-    "연습노트/프로그래머스 과제 진행하기.md",
     "영구노트/프로세스 & 스레드 정의.md",
     "Excalidraw/Chrome 을 이용해 동시 멀티 작업(draw).md",
     "영구노트/Why Gradle.md",
@@ -276,14 +288,11 @@
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "영구노트/HttpServer.md",
     "영구노트/Java 동작 원리.md",
-    "영구노트/Class Loader.md",
-    "영구노트/Class Loader 메서드.md",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
     "attachments/screenshot/Pasted Image 20240104143550_816.png",
     "attachments/screenshot/Pasted Image 20240104143432_787.png",
     "attachments/screenshot/Pasted Image 20240104143401_808.png",
-    "영구노트/CPU 클럭 속도.md",
     "attachments/screenshot/Pasted image 20240104135739.png",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted image 20240103222033.png",
