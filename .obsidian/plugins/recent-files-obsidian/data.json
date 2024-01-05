@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Process의 상태 전이(Process State Diagram)",
-      "path": "연습노트/Process의 상태 전이(Process State Diagram).md"
+      "basename": "프로세스 스케줄링",
+      "path": "연습노트/프로세스 스케줄링.md"
     },
     {
-      "basename": "Obsidian 콜아웃 종류",
-      "path": "영구노트/Obsidian 콜아웃 종류.md"
+      "basename": "프로세스 상태 전이",
+      "path": "영구노트/프로세스 상태 전이.md"
+    },
+    {
+      "basename": "프로그래머스 과제 진행하기",
+      "path": "연습노트/프로그래머스 과제 진행하기.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
@@ -17,8 +29,12 @@
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
-      "basename": "프로그래머스 과제 진행하기",
-      "path": "연습노트/프로그래머스 과제 진행하기.md"
+      "basename": "Obsidian 콜아웃 종류",
+      "path": "영구노트/Obsidian 콜아웃 종류.md"
+    },
+    {
+      "basename": "프로세스 상태 전이도(draw)",
+      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
     },
     {
       "basename": "단속 카메라 문제",
@@ -83,22 +99,6 @@
     {
       "basename": "@Valid와 @Validated 차이",
       "path": "영구노트/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "인물 소개 템플릿",
-      "path": "templates/인물 소개 템플릿.md"
-    },
-    {
-      "basename": "영상 참조 템플릿",
-      "path": "templates/영상 참조 템플릿.md"
     }
   ],
   "omittedPaths": [],
