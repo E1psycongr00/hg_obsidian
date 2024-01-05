@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"date created\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,21 +206,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "7f154498cf76e4b8",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "350459afc1252945",
@@ -280,9 +267,10 @@
   },
   "active": "713c410d0a450ca0",
   "lastOpenFiles": [
-    "templates/동기 템플릿.md",
     "연습노트/무제2.md",
+    "templates/동기 템플릿.md",
     "연습노트/무제1.md",
+    "templates/솔루션 템플릿.md",
     "t2.md",
     "t3.md",
     "t1.md",
@@ -306,7 +294,6 @@
     "Excalidraw/Chrome 을 이용해 동시 멀티 작업(draw).md",
     "영구노트/Why Gradle.md",
     "데일리/2024-01-04.md",
-    "영구노트/빌드 관리 도구 필요성.md",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
     "attachments/screenshot/Pasted Image 20240104143550_816.png",
