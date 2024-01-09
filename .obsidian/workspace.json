@@ -11,13 +11,8 @@
             "id": "fc99f5aa30b86188",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데일리/2024-01-08.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "weekly",
+              "state": {}
             }
           },
           {
@@ -32,8 +27,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dd4b2d3d6ff0651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/PCB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0249343eff6bad19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2024-01-08.md",
+                "file": "연습노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2024-01-08.md",
+                "file": "연습노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2024-01-08.md",
+                "file": "연습노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "데일리/2024-01-08.md"
+                "file": "연습노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md"
               }
             }
           },
@@ -217,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "350459afc1252945",
@@ -238,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데일리/2024-01-08.md"
+                "file": "연습노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md"
               }
             }
           },
@@ -274,23 +296,25 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "fc99f5aa30b86188",
+  "active": "0249343eff6bad19",
   "lastOpenFiles": [
-    "데일리/2024-01-07.md",
-    "데일리/2024-01-08.md",
-    "데일리/2023-12-11.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "나의 마일스톤/2024년 목표.md",
+    "연습노트/IO Bound와 CPU Bound.md",
+    "Resources/IT/프로세스.md",
     "연습노트/PCB.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
+    "데일리/2024-01-09.md",
+    "데일리/2024-01-08.md",
+    "데일리/2024-01-07.md",
+    "데일리/2023-12-11.md",
+    "나의 마일스톤/2024년 목표.md",
     "영구노트/CPU 쓰레드(Thread).md",
     "영구노트/CPU 코어.md",
     "영구노트/프로세스 & 스레드 정의.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/Process와 컨텍스트 스위칭.md",
     "데일리/2024-01-06.md",
     "데일리/2024-01-05.md",
-    "Resources/IT/프로세스.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
@@ -301,8 +325,6 @@
     "연습노트/IO.md",
     "Resources/IT/알고리즘.md",
     "Resources/명언/명언 모음.canvas",
-    "Resources/IT/Github.md",
-    "Resources/IT/부하 테스트.md",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
     "attachments/screenshot/Pasted Image 20240104143550_816.png",
