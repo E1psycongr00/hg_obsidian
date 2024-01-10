@@ -12,7 +12,7 @@ aliases:
 작성 날짜: 2024-01-09
 작성 시간: 10:17
 
-## 주제: #미완 #OS #CPU #Thread 
+## 주제: #완성 #OS #CPU #Thread 
 
 ----
 ## 내용(Content)

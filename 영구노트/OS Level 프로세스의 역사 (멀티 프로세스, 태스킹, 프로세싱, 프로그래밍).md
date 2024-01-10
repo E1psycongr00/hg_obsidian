@@ -8,7 +8,7 @@ tags:
 작성 날짜: 2024-01-05
 작성 시간: 19:39
 
-## 주제: #미완 #OS #Process #Thread #동시처리
+## 주제: #완성 #OS #Process #Thread #동시처리
 
 
 ## 내용(Content)
@@ -38,3 +38,4 @@ https://www.youtube.com/watch?v=QmtYKZC0lMU
 - [[CPU 코어]]
 - [[프로세스 & 스레드 정의]]
 - [[프로세스 & 스레드 메모리 구조]]
+- [[CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트]]
