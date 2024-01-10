@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e371739732a540e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/race condition.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데일리/2024-01-10.md",
+                "file": "연습노트/race condition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데일리/2024-01-10.md",
+                "file": "연습노트/race condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데일리/2024-01-10.md",
+                "file": "연습노트/race condition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "데일리/2024-01-10.md"
+                "file": "연습노트/race condition.md"
               }
             }
           },
@@ -204,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "350459afc1252945",
@@ -225,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데일리/2024-01-10.md"
+                "file": "연습노트/race condition.md"
               }
             }
           },
@@ -261,10 +275,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "0106e9f1d8c381f5",
+  "active": "9d534a5df67b7cbf",
   "lastOpenFiles": [
-    "연습노트/Spring에서 예외 처리 과정.md",
     "데일리/2024-01-10.md",
+    "연습노트/race condition.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
@@ -290,7 +305,6 @@
     "나의 마일스톤/2024년 목표.md",
     "영구노트/CPU 쓰레드(Thread).md",
     "영구노트/CPU 코어.md",
-    "영구노트/프로세스 & 스레드 정의.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",

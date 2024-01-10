@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "race condition",
+      "path": "연습노트/race condition.md"
+    },
+    {
       "basename": "2024-01-10",
       "path": "데일리/2024-01-10.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "CPU 쓰레드(Thread)",
       "path": "영구노트/CPU 쓰레드(Thread).md"
-    },
-    {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
     }
   ],
   "omittedPaths": [],
