@@ -5,11 +5,12 @@ tags:
   - Thread
 aliases:
   - Process Context Switching
+  - PCS
 ---
 작성 날짜: 2024-01-05
 작성 시간: 20:08
 
-## 주제: #미완 #OS #Process #Thread 
+## 주제: #완성 #OS #Process #Thread 
 
 ----
 ## 내용(Content)
