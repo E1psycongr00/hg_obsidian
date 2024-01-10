@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "동기화를 위한 전략",
+      "path": "연습노트/동기화를 위한 전략.md"
+    },
+    {
       "basename": "race condition",
-      "path": "연습노트/race condition.md"
+      "path": "영구노트/race condition.md"
+    },
+    {
+      "basename": "Dead Lock 예시(draw)",
+      "path": "Excalidraw/Dead Lock 예시(draw).md"
     },
     {
       "basename": "2024-01-10",
@@ -91,14 +99,6 @@
     {
       "basename": "2023-12-11",
       "path": "데일리/2023-12-11.md"
-    },
-    {
-      "basename": "2024년 목표",
-      "path": "나의 마일스톤/2024년 목표.md"
-    },
-    {
-      "basename": "CPU 쓰레드(Thread)",
-      "path": "영구노트/CPU 쓰레드(Thread).md"
     }
   ],
   "omittedPaths": [],

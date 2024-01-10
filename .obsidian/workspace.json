@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3e371739732a540e",
+            "id": "89417791622c2f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/race condition.md",
+                "file": "연습노트/동기화를 위한 전략.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pcs",
+                "query": "tag:#동기화",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/race condition.md",
+                "file": "연습노트/동기화를 위한 전략.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/race condition.md",
+                "file": "연습노트/동기화를 위한 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/race condition.md",
+                "file": "연습노트/동기화를 위한 전략.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/race condition.md"
+                "file": "연습노트/동기화를 위한 전략.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/race condition.md"
+                "file": "연습노트/동기화를 위한 전략.md"
               }
             }
           },
@@ -275,10 +275,12 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9d534a5df67b7cbf",
+  "active": "89417791622c2f02",
   "lastOpenFiles": [
+    "영구노트/race condition.md",
+    "연습노트/동기화를 위한 전략.md",
+    "Excalidraw/Dead Lock 예시(draw).md",
     "데일리/2024-01-10.md",
-    "연습노트/race condition.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
@@ -303,8 +305,6 @@
     "데일리/2024-01-07.md",
     "데일리/2023-12-11.md",
     "나의 마일스톤/2024년 목표.md",
-    "영구노트/CPU 쓰레드(Thread).md",
-    "영구노트/CPU 코어.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
