@@ -13,6 +13,10 @@
       "path": "데일리/2024-01-10.md"
     },
     {
+      "basename": "Obsidian 콜아웃 종류",
+      "path": "영구노트/Obsidian 콜아웃 종류.md"
+    },
+    {
       "basename": "race condition",
       "path": "영구노트/race condition.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "2024-01-08",
       "path": "데일리/2024-01-08.md"
-    },
-    {
-      "basename": "2024-01-07",
-      "path": "데일리/2024-01-07.md"
     }
   ],
   "omittedPaths": [],
