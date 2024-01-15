@@ -5,6 +5,10 @@
       "path": "연습노트/뮤텍스(Mutex).md"
     },
     {
+      "basename": "운영 체제(OS)",
+      "path": "영구노트/운영 체제(OS).md"
+    },
+    {
       "basename": "2024-01-10",
       "path": "데일리/2024-01-10.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "프로세스",
       "path": "Resources/IT/프로세스.md"
-    },
-    {
-      "basename": "2024-01-09",
-      "path": "데일리/2024-01-09.md"
     }
   ],
   "omittedPaths": [],
