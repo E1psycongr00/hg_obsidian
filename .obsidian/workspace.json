@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "213cb8a3c116394e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/세마포어 wait 호출 전 예시(draw).md"
+              }
+            }
           }
         ]
       }
@@ -263,8 +273,9 @@
   },
   "active": "d177856d06463e5b",
   "lastOpenFiles": [
-    "연습노트/Java에서 Mutex 사용 예제.md",
+    "Excalidraw/세마포어 wait 호출 전 예시(draw).md",
     "연습노트/세마포어.md",
+    "연습노트/Java에서 Mutex 사용 예제.md",
     "영구노트/뮤텍스(Mutex).md",
     "연습노트/선점 & 비선점 스케줄링.md",
     "연습노트/CPU 스케줄링 알고리즘.md",
@@ -292,7 +303,6 @@
     "attachments/screenshot/Pasted image 20240110175922.png",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
     "영구노트/PCB(Process Controll Block.md",
-    "Excalidraw/PCB 구조.md",
     "attachments/screenshot/Pasted image 20240110163734.png",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
