@@ -5,12 +5,16 @@
       "path": "연습노트/뮤텍스(Mutex).md"
     },
     {
-      "basename": "운영 체제(OS)",
-      "path": "영구노트/운영 체제(OS).md"
-    },
-    {
       "basename": "2024-01-10",
       "path": "데일리/2024-01-10.md"
+    },
+    {
+      "basename": "race condition",
+      "path": "영구노트/race condition.md"
+    },
+    {
+      "basename": "운영 체제(OS)",
+      "path": "영구노트/운영 체제(OS).md"
     },
     {
       "basename": "Spin Lock (스핀 락)",
@@ -23,10 +27,6 @@
     {
       "basename": "Obsidian 콜아웃 종류",
       "path": "영구노트/Obsidian 콜아웃 종류.md"
-    },
-    {
-      "basename": "race condition",
-      "path": "영구노트/race condition.md"
     },
     {
       "basename": "Dead Lock 예시(draw)",
