@@ -46,5 +46,6 @@
   "anuppuccin-theme-settings@@cards-min-width": "180px",
   "anuppuccin-theme-settings@@cards-padding": "1.2em",
   "anuppuccin-theme-settings@@h4-line-height": 1.7,
-  "anuppuccin-theme-settings@@h3-line-height": 3
+  "anuppuccin-theme-settings@@h3-line-height": 3,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-dark"
 }
