@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java에서 Mutex 사용 예제",
+      "path": "연습노트/Java에서 Mutex 사용 예제.md"
+    },
+    {
       "basename": "세마포어",
       "path": "연습노트/세마포어.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "CPU 스케줄러",
       "path": "영구노트/CPU 스케줄러.md"
-    },
-    {
-      "basename": "Java에서 Mutex & 세마포어 사용 예제",
-      "path": "연습노트/Java에서 Mutex & 세마포어 사용 예제.md"
     },
     {
       "basename": "JacksonModule & Std(De)Serializer",
