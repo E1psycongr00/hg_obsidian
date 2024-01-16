@@ -18,6 +18,41 @@ Mutex는 Mutual(상호간의) + Exclusion(제외, 배제)의 합성어이다. �
 
 이렇게 하는 이유는 공유 자원을 여럿이 접근할 때 발생하는 [[race condition]] 상황을 방지하기 위해서 사용한다.
 
+### 활용 예
+#### Java
+Java에서는 동기화 문제를 해결하기 위해 Synchronized 키워드나 Lock 인터페이스를 사용한다.
+##### Synchronized
+이 키워드를 사용하면 메서드 블록 내에 하나의 스레드만 접근 가능하다.  Synchronized 키워드는 내부적으로 Lock을 관리하기 떄문에 사용자가 임의로 Lock을 취득할 필요가 없다.
+
+```java
+class SharedResource {
+	synchronized void accessResource() {
+		// Critical Section
+	}
+}
+```
+
+
+```java
+class SharedResource {
+	synchronized void access(String threadName) {
+		System.out.println(threadName + "is accessing shared resource");
+		// 동작 코드
+		System.out.println(threadName + "is leaving shared resource");
+	}
+}
+```
+
+
+##### Lock 인터페이스 (ReentrantLock 클래스)
+java.util.concurrent.locks 패키지에 있는 Lock 인터페이스와 그 구현체인 ReentrantLock 클래스를 사용하면 뮤텍스 락을 구현 가능하다.
+
+tryLock을 활용해 락을 획득할 옵션이 있어서 
+
+
+
+
+
 
 ## 질문 & 확장
 
