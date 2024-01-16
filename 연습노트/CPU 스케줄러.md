@@ -31,9 +31,34 @@ ready에서 프로세스가 running 상태로 바뀌는 것을 Dispatch라고 �
 >[!summary] dispatcher
 >선택된 프로세스에게 CPU를 할당하는 역할
 
-### 선점/비선점 방식
+### 선점/비선점 스케줄링
+>[!note] 선점 스케줄링
+>스케줄링이 적극적으로 개입해서 끝까지 끝나지 않았음에도 불구하고 강제로 프로세스 상태를 전환한다.
+>
+>특징
+>- 적극적
+>- 강제적
+>- 빠른 응답성
+>- 데이터 일관성 문제
+>
+>
 
->![summary]
+>[!summary] 비선점 스케줄링
+> 비선점 스케줄링 방식의 특징은 크게 3가지다
+> - 신사적
+> 	- OS 입장에서 CPU가 Thread를 끝까지 쓸 때까지 기다려줌
+> - 협력적(Cooperative)
+> 	- 프로세스가 스스로 양보해서 다른 프로세스를 실행하도록 함 => 프로그램의 협력으로 상태를 관리함
+> - 느린 응답성
+> 	- 신사적의 연장선으로서 CPU가 Thread를 끝까지 쓸때까지 기다리기 때문에 프로세스 시작은 했지만 실행되지 못하는 경우가 생긴다. 이것은 사용자 입장에서 느린 응답성으로 느낄 수 있다.
+
+### 스케줄링 알고리즘
+- FCFS(First Come First Serve)
+- SJF(Shortest Job First)
+- SRTF(Shortest Remaining Time First)
+- Priority
+- RR(Round Robin)
+- MultiLevel Queue
 ## 질문 & 확장
 
 (없음)

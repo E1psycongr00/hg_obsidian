@@ -12,59 +12,15 @@ aliases:
 ----
 ## 내용(Content)
 ### 뮤텍스의 의미
-동기화의 기본적인 기법 중 하나이다.
-
-Mutex는 Mutual(상호간의) + Exclusion(제외, 배제)의 합성어이다. 단어 의미 그대로 공유 자원(Critical Section)에 한번에 하나의 프로세스만 접근하도록 하는 기법이다. 
+Mutex는 Mutual(상호간의) + Exclusion(제외, 배제)의 합성어이다. 단어 의미 그대로 **공유 자원(Critical Section)에 한번에 하나의 프로세스만 접근하도록 하는 동기화 메커니즘**이다.
 
 이렇게 하는 이유는 공유 자원을 여럿이 접근할 때 발생하는 [[race condition]] 상황을 방지하기 위해서 사용한다.
 
-### 활용 예
-#### Java
-Java에서는 동기화 문제를 해결하기 위해 Synchronized 키워드나 Lock 인터페이스를 사용한다.
-##### Synchronized
-이 키워드를 사용하면 메서드 블록 내에 하나의 스레드만 접근 가능하다.  Synchronized 키워드는 내부적으로 Lock을 관리하기 떄문에 사용자가 임의로 Lock을 취득할 필요가 없다.
 
-```java
-class SharedResource {
-	synchronized void accessResource() {
-		// Critical Section
-	}
-}
-```
-
-
-```java
-class SharedResource {
-	synchronized void access(String threadName) {
-		System.out.println(threadName + "is accessing shared resource");
-		// 동작 코드
-		System.out.println(threadName + "is leaving shared resource");
-	}
-}
-```
-
-
-##### Lock 인터페이스 (ReentrantLock 클래스)
-java.util.concurrent.locks 패키지에 있는 Lock 인터페이스와 그 구현체인 ReentrantLock 클래스를 사용하면 뮤텍스 락을 구현 가능하다.
-
-명시적으로 Lock을 제어할 수 있기 때문에 데드락을 피하는데 큰 도움을 줄 수 있다.
-
-```java
-class SharedResource {
-	private Lock lock = new ReentrantLock();
-
-	public void accessResource() {
-		lock.lock();
-		try {
-			// critical section
-		} finally {
-			lock.unlock();
-		}
-	}
-}
-```
-
-
+### 뮤텍스 동작 방식
+1. Shared Resource에 접근하려면 Mutex Lock을 획득해야 한다.
+2. 이미 다른 프로세스/스레드가 사용중이면 Lock이 되고, unlock 될 때까지 다른 프로세스/스레드의 접근을 막는다.
+3. 리소스의 사용이 끝나면 unlock 상태로 전환되고, 다른 프로세스가 접근이 가능하다.
 
 
 ## 질문 & 확장
