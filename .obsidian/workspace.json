@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Race condition",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -260,7 +260,7 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "afc111a23f3b1f98",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "데일리/2024-01-10.md",
     "영구노트/race condition.md",
