@@ -47,9 +47,22 @@ class SharedResource {
 ##### Lock 인터페이스 (ReentrantLock 클래스)
 java.util.concurrent.locks 패키지에 있는 Lock 인터페이스와 그 구현체인 ReentrantLock 클래스를 사용하면 뮤텍스 락을 구현 가능하다.
 
-tryLock을 활용해 락을 획득할 옵션이 있어서 
+명시적으로 Lock을 제어할 수 있기 때문에 데드락을 피하는데 큰 도움을 줄 수 있다.
 
+```java
+class SharedResource {
+	private Lock lock = new ReentrantLock();
 
+	public void accessResource() {
+		lock.lock();
+		try {
+			// critical section
+		} finally {
+			lock.unlock();
+		}
+	}
+}
+```
 
 
 
