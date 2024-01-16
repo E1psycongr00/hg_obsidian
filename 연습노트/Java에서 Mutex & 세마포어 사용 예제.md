@@ -65,10 +65,13 @@ class SequentialGeneratorTest {
 
 ![[Pasted image 20240116213307.png]]
 ## 내용(Content)
-### 뮤텍스 기법 사용 이유
+### 동기화가 필요하다
+#### Mutex
 [[뮤텍스(Mutex)]] 참고하자
 
 다중 스레드 방식을 사용하다보면 동시에 여러 스레드가 공유 리소스에 액세스하면 안되는 상황이 발생할 수 있다. 이런 경우에 Mutex 기법을 활용할 수 있다.
+
+#### Semaphore
 
 
 ### Synchronized 키워드 사용하기

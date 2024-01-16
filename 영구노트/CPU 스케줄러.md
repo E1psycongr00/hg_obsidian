@@ -9,7 +9,7 @@ aliases:
 작성 날짜: 2024-01-16
 작성 시간: 19:45
 
-## 주제: #미완 #OS #Process #CPU 
+## 주제: #완성 #OS #Process #CPU 
 
 ----
 ## 내용(Content)
@@ -67,7 +67,8 @@ ready에서 프로세스가 running 상태로 바뀌는 것을 Dispatch라고 �
 - https://www.youtube.com/watch?v=LgEY4ghpTJI
 
 ## 연결 노트
-
+- [[선점 & 비선점 스케줄링]]
+- [[CPU 스케줄링 알고리즘]]
 
 
 

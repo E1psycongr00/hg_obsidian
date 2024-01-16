@@ -3,11 +3,13 @@ tags:
   - OS
   - Synchronization
 aliases:
+  - 뮤텍스
+  - Mutex
 ---
 작성 날짜: 2024-01-11
 작성 시간: 21:47
 
-## 주제: #미완 #OS #Synchronization 
+## 주제: #완성 #OS #Synchronization 
 
 ----
 ## 내용(Content)
@@ -18,9 +20,9 @@ Mutex는 Mutual(상호간의) + Exclusion(제외, 배제)의 합성어이다. �
 
 
 ### 뮤텍스 동작 방식
-1. Shared Resource에 접근하려면 Mutex Lock을 획득해야 한다.
+1. Shared Resource에 접근하려면 Mutex Lock을 획득해야 한다.(Lock을 소유하는 주체는 실행중인 Process 또는 Thread 이다)
 2. 이미 다른 프로세스/스레드가 사용중이면 Lock이 되고, unlock 될 때까지 다른 프로세스/스레드의 접근을 막는다.
-3. 리소스의 사용이 끝나면 unlock 상태로 전환되고, 다른 프로세스가 접근이 가능하다.
+3. 리소스의 사용이 끝나면 unlock 상태로 전환되고, 다른 프로세스가 접근이 가능하다.(Lock 획득)
 
 
 ## 질문 & 확장
@@ -33,7 +35,7 @@ Mutex는 Mutual(상호간의) + Exclusion(제외, 배제)의 합성어이다. �
 
 ## 연결 노트
 - [[Spin Lock (스핀 락)|Spin Lock]]
-- [[Java에서 Mutex 사용 예제]]
+- [[Java에서 Mutex & 세마포어 사용 예제]]
 
 
 
