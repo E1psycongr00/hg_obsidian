@@ -60,6 +60,10 @@ class SequentialGeneratorTest {
     }  
 }
 ```
+
+위의 코드를 실행하면 다음과 같은 결과가 나온다
+
+![[Pasted image 20240116213307.png]]
 ## 내용(Content)
 ### 뮤텍스 기법 사용 이유
 [[뮤텍스(Mutex)]] 참고하자
@@ -67,10 +71,45 @@ class SequentialGeneratorTest {
 다중 스레드 방식을 사용하다보면 동시에 여러 스레드가 공유 리소스에 액세스하면 안되는 상황이 발생할 수 있다. 이런 경우에 Mutex 기법을 활용할 수 있다.
 
 
+### Synchronized 키워드 사용하기
+자바에선 Synchronized를 활용해서 임계영역에 접근하는 것을 제한 시킬 수 있다. 내부적으로 Mutex 기법으로 동작한다.
 
+```java
+public class SynchronizedSequentialGenerator extends SequentialGenerator {  
+    @Override  
+    public synchronized int getNextSequence() {  
+       return super.getNextSequence();  
+    }  
+}
+```
 
+기존의 SequentialGenerator를 상속 받고 genNextSequence를 synchronized로 선언하면 된다.
 
+![[Pasted image 20240116213900.png]]
 
+동기화가 잘 적용된 것을 알 수 있다.
+
+### ReentrantLock 사용
+Synchronized 키워드보다 좀 더 세부적으로 lock을 정의 할 수 있다. 이 클래스를 활용하면 임계영역을 보다 세부 조정할 수 있다.
+
+```java
+public class LockSequenceGenerator extends SequentialGenerator {  
+  
+    private final Lock lock = new ReentrantLock();  
+  
+    @Override  
+    public int getNextSequence() {  
+       lock.lock();  
+       try {  
+          return super.getNextSequence();  
+       } finally {  
+          lock.unlock();  
+       }  
+    }  
+}
+```
+
+![[Pasted image 20240116214428.png]]
 
 ## 질문 & 확장
 
