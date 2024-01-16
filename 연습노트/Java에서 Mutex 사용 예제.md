@@ -69,13 +69,10 @@ class SequentialGeneratorTest {
 #### Mutex
 [[뮤텍스(Mutex)]] 참고하자
 
-다중 스레드 방식을 사용하다보면 동시에 여러 스레드가 공유 리소스에 액세스하면 안되는 상황이 발생할 수 있다. 이런 경우에 Mutex 기법을 활용할 수 있다.
-
-#### Semaphore
-
+다중 스레드 방식을 사용하다보면 동시에 여러 스레드가 공유 리소스에 액세스하면 안되는 상황이 발생할 수 있다. 상호 배제를 위해서 Mutex를 사용한다.
 
 ### Synchronized 키워드 사용하기
-자바에선 Synchronized를 활용해서 임계영역에 접근하는 것을 제한 시킬 수 있다. 내부적으로 Mutex 기법으로 동작한다.
+자바에선 Synchronized를 활용해서 임계 영역에 접근하는 것을 제한 시킬 수 있다. 내부적으로 Mutex 기법으로 동작한다.
 
 ```java
 public class SynchronizedSequentialGenerator extends SequentialGenerator {  
@@ -114,6 +111,12 @@ public class LockSequenceGenerator extends SequentialGenerator {
 
 ![[Pasted image 20240116214428.png]]
 
+### Semaphore 사용
+Semaphore를 사용해서 Mutex와 같이 상호 배제를 보장하도록 할 수 있다. Semaphore는 시그널 방식이기도 하지만 1로 설정하여 binary Semaphore로 활용하면 Mutex 효과를 낼 수 있다.
+
+```java
+
+```
 ## 질문 & 확장
 
 (없음)

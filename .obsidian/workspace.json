@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Java에서 Mutex 사용 예제.md",
+                "file": "연습노트/세마포어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java에서 Mutex 사용 예제.md",
+                "file": "연습노트/세마포어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java에서 Mutex 사용 예제.md",
+                "file": "연습노트/세마포어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Java에서 Mutex 사용 예제.md",
+                "file": "연습노트/세마포어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Java에서 Mutex 사용 예제.md"
+                "file": "연습노트/세마포어.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java에서 Mutex 사용 예제.md"
+                "file": "연습노트/세마포어.md"
               }
             }
           },
@@ -263,12 +263,12 @@
   },
   "active": "d177856d06463e5b",
   "lastOpenFiles": [
+    "연습노트/Java에서 Mutex 사용 예제.md",
     "연습노트/세마포어.md",
     "영구노트/뮤텍스(Mutex).md",
     "연습노트/선점 & 비선점 스케줄링.md",
     "연습노트/CPU 스케줄링 알고리즘.md",
     "영구노트/CPU 스케줄러.md",
-    "연습노트/Java에서 Mutex 사용 예제.md",
     "attachments/screenshot/Pasted image 20240116214428.png",
     "attachments/screenshot/Pasted image 20240116213900.png",
     "attachments/screenshot/Pasted image 20240116213307.png",
