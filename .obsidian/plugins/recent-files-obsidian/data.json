@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "선점 & 비선점 스케줄링",
+      "path": "연습노트/선점 & 비선점 스케줄링.md"
+    },
+    {
+      "basename": "CPU 스케줄러",
+      "path": "연습노트/CPU 스케줄러.md"
+    },
+    {
+      "basename": "프로세스 상태 전이",
+      "path": "영구노트/프로세스 상태 전이.md"
+    },
+    {
       "basename": "뮤텍스(Mutex)",
       "path": "연습노트/뮤텍스(Mutex).md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "IO Bound와 CPU Bound",
       "path": "영구노트/IO Bound와 CPU Bound.md"
-    },
-    {
-      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
-      "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
-    },
-    {
-      "basename": "프로세스의 버스트 과정(draw)",
-      "path": "Excalidraw/프로세스의 버스트 과정(draw).md"
-    },
-    {
-      "basename": "프로세스",
-      "path": "Resources/IT/프로세스.md"
     }
   ],
   "omittedPaths": [],

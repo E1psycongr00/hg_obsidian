@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/뮤텍스(Mutex).md",
+                "file": "영구노트/프로세스 상태 전이.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b8f35a7012a7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/CPU 스케줄러.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df6ebd479bd34510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/선점 & 비선점 스케줄링.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/뮤텍스(Mutex).md",
+                "file": "연습노트/선점 & 비선점 스케줄링.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/뮤텍스(Mutex).md",
+                "file": "연습노트/선점 & 비선점 스케줄링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/뮤텍스(Mutex).md",
+                "file": "연습노트/선점 & 비선점 스케줄링.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/뮤텍스(Mutex).md"
+                "file": "연습노트/선점 & 비선점 스케줄링.md"
               }
             }
           },
@@ -224,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/뮤텍스(Mutex).md"
+                "file": "연습노트/선점 & 비선점 스케줄링.md"
               }
             }
           },
@@ -260,11 +288,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "df6ebd479bd34510",
   "lastOpenFiles": [
+    "연습노트/CPU 스케줄러.md",
+    "연습노트/선점 & 비선점 스케줄링.md",
+    "영구노트/프로세스 상태 전이.md",
+    "연습노트/뮤텍스(Mutex).md",
     "데일리/2024-01-10.md",
     "영구노트/race condition.md",
-    "연습노트/뮤텍스(Mutex).md",
     "영구노트/운영 체제(OS).md",
     "영구노트/Spin Lock (스핀 락).md",
     "연습노트/동기화를 위한 전략.md",
@@ -287,9 +318,6 @@
     "영구노트/IO Bound와 CPU Bound.md",
     "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md",
     "attachments/screenshot/Pasted image 20240110163734.png",
-    "Excalidraw/프로세스의 버스트 과정(draw).md",
-    "Resources/IT/프로세스.md",
-    "데일리/2024-01-09.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
