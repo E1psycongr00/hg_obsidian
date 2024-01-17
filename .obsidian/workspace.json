@@ -4,49 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa7a5b9207d9bd6",
+        "id": "b8c99b74adaf400b",
         "type": "tabs",
         "children": [
           {
-            "id": "d177856d06463e5b",
+            "id": "6a9be329b148b5d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/세마포어.md",
-                "mode": "source",
+                "file": "연습노트/Mutex와 binary semaphore 같지 않다.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d51241188493e3ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/세마포어 signal 대기 좌석 있는 경우 예시(draw).md"
-              }
-            }
-          },
-          {
-            "id": "c383b5cb43010c90",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/세마 포어 signal 대기 좌석 없는 경우 예시(draw).md"
-              }
-            }
-          },
-          {
-            "id": "535887d6a5ec9740",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/세마포어 wait 호출 후 예시(draw).md"
               }
             }
           }
@@ -69,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spin lock",
+                "query": "세마포어",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/세마포어.md",
+                "file": "연습노트/Mutex와 binary semaphore 같지 않다.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/세마포어.md",
+                "file": "연습노트/Mutex와 binary semaphore 같지 않다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/세마포어.md",
+                "file": "연습노트/Mutex와 binary semaphore 같지 않다.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/세마포어.md"
+                "file": "연습노트/Mutex와 binary semaphore 같지 않다.md"
               }
             }
           },
@@ -255,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/세마포어.md"
+                "file": "연습노트/Mutex와 binary semaphore 같지 않다.md"
               }
             }
           },
@@ -291,15 +261,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d177856d06463e5b",
+  "active": "6a9be329b148b5d4",
   "lastOpenFiles": [
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Java와 함께하는 Semaphore 사용 예제.md",
+    "연습노트/Java와 함께하는 Mutex 사용 예제.md",
+    "연습노트/Mutex와 binary semaphore 같지 않다.md",
+    "영구노트/세마포어.md",
+    "attachments/screenshot/Pasted image 20240117013137.png",
+    "Excalidraw/세마포어 wait 호출 후 예시(draw).md",
     "Excalidraw/세마 포어 signal 대기 좌석 없는 경우 예시(draw).md",
     "Excalidraw/세마포어 signal 대기 좌석 있는 경우 예시(draw).md",
-    "연습노트/세마포어.md",
     "세마포어 signal 대기 좌석 없는 경우 예시(draw).md",
-    "Excalidraw/세마포어 wait 호출 후 예시(draw).md",
     "Excalidraw/세마포어 wait 호출 전 예시(draw).md",
-    "연습노트/Java에서 Mutex 사용 예제.md",
     "영구노트/뮤텍스(Mutex).md",
     "연습노트/선점 & 비선점 스케줄링.md",
     "연습노트/CPU 스케줄링 알고리즘.md",
@@ -312,7 +286,6 @@
     "연습노트/동기화를 위한 전략.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "templates/솔루션 템플릿.md",
     "영구노트/프로세스 상태 전이.md",
     "연습노트/비동기에 관하여.md",
@@ -320,8 +293,6 @@
     "데일리/2024-01-10.md",
     "영구노트/race condition.md",
     "영구노트/운영 체제(OS).md",
-    "영구노트/Obsidian 콜아웃 종류.md",
-    "Excalidraw/Dead Lock 예시(draw).md",
     "attachments/screenshot/Pasted image 20240110175922.png",
     "attachments/screenshot/Pasted image 20240110163734.png",
     "Resources/명언/명언 모음.canvas",
@@ -329,7 +300,6 @@
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
     "attachments/screenshot/Pasted Image 20240104143550_816.png",
     "attachments/screenshot/Pasted Image 20240104143432_787.png",
-    "attachments/screenshot/Pasted Image 20240104143401_808.png",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
