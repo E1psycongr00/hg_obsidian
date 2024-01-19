@@ -77,7 +77,12 @@ time slice로 나누어진 CPU time을 번갈아가면서 실행하는 알고리
 선점형으로 빠른 응답성을 제공하기 때문에 실시간 시스템에 사용하면 좋다.
 
 ### MLFQ(Multi Level Feedback Queue)
-여러 개의 큐로 구성되어 있고, 각 큐마다 다른 우선순위가 배정된다. 
+여러 개의 큐로 구성되어 있고, 각 큐마다 다른 우선순위가 배정된다. MLFQ의 큰 특징은 무엇일까? 큐마다 우선 순위가 있고 큐들 마다 특성은 다르지만 RR 스케줄링이 적용된다.
+
+RR알고리즘이 빠른 응답성을 주는 장점이 있지만 역시나 컨텍스트 스위칭이 자주 일어나기 때문에 늦은 반환 시간을 가진다.  SJF SRTF같은 경우도 버스트 기준으로 하더라도 실행시간을 정확히 파악하기는 사실상 불가능 하기 때문에 정확히 적용하기 어렵다는 단점이 있다.
+
+MLFQ의 동작은 다음가 같이 진행된다.
+
 ## 질문 & 확장
 
 (없음)
@@ -85,6 +90,7 @@ time slice로 나누어진 CPU time을 번갈아가면서 실행하는 알고리
 ## 출처(링크)
 - https://wonit.tistory.com/108
 - https://jwprogramming.tistory.com/17
+- https://velog.io/@jewelrykim/%EB%A9%80%ED%8B%B0-%EB%A0%88%EB%B2%A8-%ED%94%BC%EB%93%9C%EB%B0%B1-%ED%81%90%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%A7%81
 ## 연결 노트
 - [[CPU 스케줄러|CPU Scheduler]]
 
