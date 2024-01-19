@@ -33,6 +33,19 @@ public void produce(int item) throws InterruptedException {
 }
 ```
 
+```java
+public int consume() throws InterruptedException {  
+    full.acquire(); // Wait for a full slot  
+  
+    mutex.acquire(); // Enter Critical Section  
+    int item = buffer[out];  
+    out = (out + 1) % bufferSize;  
+    mutex.release(); // Exit Critical Section  
+  
+    empty.release(); // Signal that the slot is empty  
+    return item;  
+}
+```
 ## 질문 & 확장
 
 (없음)
