@@ -17,14 +17,18 @@ aliases:
 OS마다 다를 적용하는게 다를 순 있지만 CPU가 프로세스를 스케줄링하는데 몇가지 기법이 있다.
 
 - FCFS
-- SJF
+- SJF(Shortest Job First)
 - SRTF
 - priority
 - round robin
 - multi level queue
 
 
-### ㄹ
+### FCFS(First Come First Served)
+
+### SJF(Sortest Job First)
+프로세스의 다음 CPU Burst가 가장 짧은 프로세스부터 실행하는 알고리즘이다.
+
 ## 질문 & 확장
 
 (없음)

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IO Bound와 CPU Bound",
+      "path": "영구노트/IO Bound와 CPU Bound.md"
+    },
+    {
+      "basename": "프로세스의 버스트 과정(draw)",
+      "path": "Excalidraw/프로세스의 버스트 과정(draw).md"
+    },
+    {
       "basename": "CPU 스케줄링 알고리즘",
       "path": "연습노트/CPU 스케줄링 알고리즘.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "Spin Lock (스핀 락)",
       "path": "영구노트/Spin Lock (스핀 락).md"
-    },
-    {
-      "basename": "2024-01-10",
-      "path": "데일리/2024-01-10.md"
     }
   ],
   "omittedPaths": [],
