@@ -1,12 +1,16 @@
 ---
 tags:
   - 솔루션
+  - OS
+  - Thread
+  - Process
+  - Synchronization
 aliases:
 ---
 작성 날짜: 2024-01-17
 작성 시간: 01:33
 
-## 주제: #미완 #솔루션
+## 주제: #완성 #솔루션 #Synchronization #Thread 
 
 ----
 

@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 스레드 상태",
+      "path": "연습노트/Java 스레드 상태.md"
+    },
+    {
       "basename": "Java와 함께하는 Semaphore 사용 예제",
-      "path": "연습노트/Java와 함께하는 Semaphore 사용 예제.md"
+      "path": "영구노트/Java와 함께하는 Semaphore 사용 예제.md"
     },
     {
       "basename": "CPU 스케줄링 알고리즘",
@@ -95,10 +99,6 @@
     {
       "basename": "운영 체제(OS)",
       "path": "영구노트/운영 체제(OS).md"
-    },
-    {
-      "basename": "Obsidian 콜아웃 종류",
-      "path": "영구노트/Obsidian 콜아웃 종류.md"
     }
   ],
   "omittedPaths": [],
