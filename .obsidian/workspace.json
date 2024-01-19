@@ -19,6 +19,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3193c361055212f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/MLFQ 동작 방식(draw).md"
+              }
+            }
           }
         ]
       }
@@ -263,8 +273,12 @@
   },
   "active": "8e569302120b6119",
   "lastOpenFiles": [
-    "Excalidraw/RR 스케줄링(draw).md",
+    "attachments/screenshot/Pasted image 20240119210248.png",
+    "attachments/screenshot/Pasted image 20240119210239.png",
+    "attachments/screenshot/Pasted image 20240119210233.png",
+    "Excalidraw/MLFQ 동작 방식(draw).md",
     "연습노트/CPU 스케줄링 알고리즘.md",
+    "Excalidraw/RR 스케줄링(draw).md",
     "Excalidraw/프로세스의 버스트 과정(draw).md",
     "영구노트/IO Bound와 CPU Bound.md",
     "영구노트/CPU 스케줄러.md",
@@ -288,18 +302,14 @@
     "Excalidraw/세마포어 signal 대기 좌석 있는 경우 예시(draw).md",
     "세마포어 signal 대기 좌석 없는 경우 예시(draw).md",
     "Excalidraw/세마포어 wait 호출 전 예시(draw).md",
-    "영구노트/뮤텍스(Mutex).md",
     "attachments/screenshot/Pasted image 20240116214428.png",
     "attachments/screenshot/Pasted image 20240116213900.png",
     "attachments/screenshot/Pasted image 20240116213307.png",
-    "templates/솔루션 템플릿.md",
     "attachments/screenshot/Pasted image 20240110175922.png",
     "attachments/screenshot/Pasted image 20240110163734.png",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
     "attachments/screenshot/Pasted Image 20240104143602_878.png",
-    "attachments/screenshot/Pasted Image 20240104143550_816.png",
-    "attachments/screenshot/Pasted Image 20240104143432_787.png",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
