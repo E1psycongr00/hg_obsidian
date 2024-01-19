@@ -10,7 +10,7 @@ aliases:
 작성 날짜: 2024-01-17
 작성 시간: 01:33
 
-## 주제: #완성 #솔루션 #Synchronization #Thread 
+## 주제: #완성 #솔루션 #Synchronization #Thread #OS 
 
 ----
 
@@ -155,3 +155,4 @@ semaphore 때문에 thread가 계속해서 대기 상태에 머무르는 게 부
 
 
 ## 연결 노트
+- [[Java 스레드 상태]]

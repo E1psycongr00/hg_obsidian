@@ -8,7 +8,7 @@ aliases:
 작성 날짜: 2024-01-19
 작성 시간: 11:51
 
-## 주제: #미완 #JAVA #Thread 
+## 주제: #완성 #JAVA #Thread 
 
 ----
 ## 내용(Content)
@@ -46,17 +46,20 @@ public enum State {
 >Object.wait나 Thread.join시 해당 상태가 된다. wait의 경우 notify에 의해 깨어나길 희망하고 있으며, join의 경우 쓰레드가 종료되기를 기다린다.
 
 
+### Java Thread 상태 전이도
+![[쓰레드 상태 전이도(draw)|700]]
+
 
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
+- https://jongwoon.tistory.com/14
+- https://m.blog.naver.com/qbxlvnf11/220921178603
 
 ## 연결 노트
-
-
+- [[JVM 구조]]
 
 
 

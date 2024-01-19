@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c7d96b6452c899",
+        "id": "a3ff1505c2ea42d0",
         "type": "tabs",
         "children": [
           {
-            "id": "e996a38c4219f1ab",
+            "id": "8e569302120b6119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Java와 함께하는 Semaphore 사용 예제.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e2a33ace37196f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Java 스레드 상태.md",
+                "file": "연습노트/CPU 스케줄링 알고리즘.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Java 스레드 상태.md",
+                "file": "연습노트/CPU 스케줄링 알고리즘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Java 스레드 상태.md",
+                "file": "연습노트/CPU 스케줄링 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Java 스레드 상태.md",
+                "file": "연습노트/CPU 스케줄링 알고리즘.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Java 스레드 상태.md"
+                "file": "연습노트/CPU 스케줄링 알고리즘.md"
               }
             }
           },
@@ -239,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Java 스레드 상태.md"
+                "file": "연습노트/CPU 스케줄링 알고리즘.md"
               }
             }
           },
@@ -275,15 +261,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "82e2a33ace37196f",
+  "active": "8e569302120b6119",
   "lastOpenFiles": [
-    "영구노트/Java와 함께하는 Semaphore 사용 예제.md",
-    "연습노트/Java 스레드 상태.md",
+    "영구노트/CPU 스케줄러.md",
     "연습노트/CPU 스케줄링 알고리즘.md",
+    "영구노트/Java 스레드 상태.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "연습노트/동기화를 위한 전략.md",
     "연습노트/선점 & 비선점 스케줄링.md",
+    "영구노트/Java와 함께하는 Semaphore 사용 예제.md",
+    "영구노트/프로세스 & 스레드 정의.md",
+    "Excalidraw/쓰레드 상태 전이도(draw).md",
+    "연습노트/동기화를 위한 전략.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/Java와 함께하는 Mutex 사용 예제.md",
@@ -297,7 +286,6 @@
     "세마포어 signal 대기 좌석 없는 경우 예시(draw).md",
     "Excalidraw/세마포어 wait 호출 전 예시(draw).md",
     "영구노트/뮤텍스(Mutex).md",
-    "영구노트/CPU 스케줄러.md",
     "attachments/screenshot/Pasted image 20240116214428.png",
     "attachments/screenshot/Pasted image 20240116213900.png",
     "attachments/screenshot/Pasted image 20240116213307.png",
@@ -305,8 +293,6 @@
     "영구노트/프로세스 상태 전이.md",
     "연습노트/비동기에 관하여.md",
     "영구노트/Spin Lock (스핀 락).md",
-    "데일리/2024-01-10.md",
-    "영구노트/race condition.md",
     "attachments/screenshot/Pasted image 20240110175922.png",
     "attachments/screenshot/Pasted image 20240110163734.png",
     "Resources/명언/명언 모음.canvas",
