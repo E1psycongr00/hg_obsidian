@@ -20,11 +20,12 @@ OS마다 다를 적용하는게 다를 순 있지만 CPU가 프로세스를 스�
 - SJF(Shortest Job First)
 - SRTF(Shortest Remaining Time First)
 - priority
-- round robin
-- multi level queue
+- round robin(RR)
+- MLFQ(Multi Level Feedback Queue)
 
 
 ### FCFS(First Come First Served)
+먼저 들어온 프로세스를 먼저 처리하는 방식이다. 굉장히 직관적이고 비선점형 방식이다. 큐에 들어온 대로 그냥 처리한다고 보면 된다.
 
 ### SJF(Sortest Job First)
 프로세스의 다음 CPU Burst가 가장 짧은 프로세스부터 실행하는 알고리즘이다.
@@ -46,15 +47,44 @@ CPU 버스트가 남은 것중 가장 짧은 프로세스를 실행하는 알고
 
 
 ### Priority
+우선순위 스케줄링 기법은 말 그대로 우선순위가 높은 프로세스를 먼저 실행하는 기법이다. 
+선점형으로 만약 실행되고 있는 프로세스보다 우선순위가 더 높다면 기존 프로세스는 중단하고 새로 들어온 프로세스를 실행한다. 실행하면서 매번 우선순위가 높은 프로세스를 선택하는 것이다.
+
+장점은 각 프로세스들의 상대적 중요성을 알기 쉽고 직관적이다. 하지만 단점은 우선 순위가 낮은 프로세스는 매번 밀려 계속해서 실행되지 못하는 단점이 있다.
+
+우선 순위는 내부적, 외부적 2가지로 정의 가능하다.
+
+내부적
+- 제한 시간
+- 기억장소 요청량
+- 사용 파일 수
+- 평균 프로세서 버스트
+
+외부적
+- 프로세스의 중요성
+- 정책적 요인
 
 
+### Round Robin(RR)
+time slice로 나누어진 CPU time을 번갈아가면서 실행하는 알고리즘이다.
+
+![[RR 스케줄링(draw)|600]]
+
+위 그림을 보면 P1,P2,P3의 총 실행 시간이 있고, 이를 3ms씩 나눈다. 그리고 번갈아 가면서 실행한다. 이런 스케줄링의 장점은 priority처럼 우선순위가 밀려서 실행되지 않는 프로세스가 없다는 점이다. 그리고 번갈아가면서 실행되기에 빠른 응답성을 제공한다.
+
+그러나 프로세스의 많은 전환은 많은 Context Switching 발생시키게 되고 이는 성능 저하로 이어진다.
+
+선점형으로 빠른 응답성을 제공하기 때문에 실시간 시스템에 사용하면 좋다.
+
+### MLFQ(Multi Level Feedback Queue)
+여러 개의 큐로 구성되어 있고, 각 큐마다 다른 우선순위가 배정된다. 
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
-
+- https://wonit.tistory.com/108
+- https://jwprogramming.tistory.com/17
 ## 연결 노트
 - [[CPU 스케줄러|CPU Scheduler]]
 
