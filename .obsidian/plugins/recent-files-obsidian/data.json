@@ -5,6 +5,10 @@
       "path": "연습노트/Monitor.md"
     },
     {
+      "basename": "Spin Lock (스핀 락)",
+      "path": "영구노트/Spin Lock (스핀 락).md"
+    },
+    {
       "basename": "세마포어",
       "path": "영구노트/세마포어.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "세마포어 wait 호출 전 예시(draw)",
       "path": "Excalidraw/세마포어 wait 호출 전 예시(draw).md"
-    },
-    {
-      "basename": "뮤텍스(Mutex)",
-      "path": "영구노트/뮤텍스(Mutex).md"
     }
   ],
   "omittedPaths": [],
