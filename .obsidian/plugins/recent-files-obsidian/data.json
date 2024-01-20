@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Spurious Wake up",
+      "path": "연습노트/Spurious Wake up.md"
+    },
+    {
       "basename": "Monitor 동기화 메커니즘",
       "path": "연습노트/Monitor 동기화 메커니즘.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "세마포어 signal 대기 좌석 있는 경우 예시(draw)",
       "path": "Excalidraw/세마포어 signal 대기 좌석 있는 경우 예시(draw).md"
-    },
-    {
-      "basename": "세마포어 wait 호출 전 예시(draw)",
-      "path": "Excalidraw/세마포어 wait 호출 전 예시(draw).md"
     }
   ],
   "omittedPaths": [],
