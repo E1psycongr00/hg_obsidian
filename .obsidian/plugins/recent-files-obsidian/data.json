@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Monitor",
-      "path": "연습노트/Monitor.md"
+      "basename": "Monitor 동기화 메커니즘",
+      "path": "연습노트/Monitor 동기화 메커니즘.md"
     },
     {
       "basename": "Spin Lock (스핀 락)",

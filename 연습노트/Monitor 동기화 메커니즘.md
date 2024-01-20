@@ -4,6 +4,8 @@ tags:
   - CS
   - Synchronization
 aliases:
+  - Monitor
+  - 모니터
 ---
 작성 날짜: 2024-01-20
 작성 시간: 15:31
@@ -28,6 +30,25 @@ aliases:
 - mutex
 - condition variable
 
+>[!info] Condition Variable(조건 변수)
+>조건이 충족되길 기다리는 쓰레드들이 대기 상태로 머무는 곳이다. 조건이 충족되면 쓰레드를 깨우고 그렇지 않으면 대기 상태로 만들어 보관한다.
+>![[Pasted image 20240120162424.png]]
+>이는 자바의 모니터의 한 예로 위 그림을 보면 조건 변수의 의미를 이해 가능하다
+
+### 모니터의 구현
+```text
+acquire(m);      // 모니터 락 취득
+while(!p) {      // 조건 확인
+	wait(m, cv); // 조건이 충족되지 않으면 wait
+}
+
+// ~~~ other code
+
+signal(cv2);     // 또는 broadcast(cv2) cv1 == cv2 일 수 있다
+release(m);      // 모니터 락 반환
+```
+
+
 ## 질문 & 확장
 
 (없음)
@@ -37,6 +58,7 @@ aliases:
 - https://hyunah-home.tistory.com/entry/Monitor%EB%9E%80
 - https://www.youtube.com/watch?v=Dms1oBmRAlo&t=83s
 - https://coding-start.tistory.com/201
+- https://www.youtube.com/watch?v=yWprp019_n4
 ## 연결 노트
 - [[세마포어]]
 
