@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Monitor 동기화 메커니즘.md",
+                "file": "영구노트/Monitor 동기화 메커니즘.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9940a1f7313db2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Java Monitor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Monitor 동기화 메커니즘.md",
+                "file": "연습노트/Java Monitor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Monitor 동기화 메커니즘.md",
+                "file": "연습노트/Java Monitor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Monitor 동기화 메커니즘.md",
+                "file": "연습노트/Java Monitor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Monitor 동기화 메커니즘.md"
+                "file": "연습노트/Java Monitor.md"
               }
             }
           },
@@ -225,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Monitor 동기화 메커니즘.md"
+                "file": "연습노트/Java Monitor.md"
               }
             }
           },
@@ -261,12 +275,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c031dfe7e1bcd72d",
+  "active": "d9940a1f7313db2c",
   "lastOpenFiles": [
+    "영구노트/Monitor 동기화 메커니즘.md",
+    "연습노트/Java Monitor.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/Obsidian 콜아웃 종류.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
-    "연습노트/Monitor 동기화 메커니즘.md",
     "영구노트/Spurious Wake up.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/Spring에서 예외 처리 과정.md",
@@ -294,7 +309,6 @@
     "영구노트/Java와 함께하는 Mutex 사용 예제.md",
     "영구노트/Mutex와 binary semaphore 같지 않다.md",
     "attachments/screenshot/Pasted image 20240117013137.png",
-    "Excalidraw/세마포어 wait 호출 후 예시(draw).md",
     "attachments/screenshot/Pasted image 20240116214428.png",
     "attachments/screenshot/Pasted image 20240116213900.png",
     "attachments/screenshot/Pasted image 20240116213307.png",

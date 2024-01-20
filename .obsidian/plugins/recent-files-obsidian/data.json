@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Java Monitor",
+      "path": "연습노트/Java Monitor.md"
+    },
+    {
       "basename": "Monitor 동기화 메커니즘",
-      "path": "연습노트/Monitor 동기화 메커니즘.md"
+      "path": "영구노트/Monitor 동기화 메커니즘.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
@@ -95,10 +99,6 @@
     {
       "basename": "Mutex와 binary semaphore 같지 않다",
       "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
-    },
-    {
-      "basename": "세마포어 wait 호출 후 예시(draw)",
-      "path": "Excalidraw/세마포어 wait 호출 후 예시(draw).md"
     }
   ],
   "omittedPaths": [],

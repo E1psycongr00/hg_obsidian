@@ -10,7 +10,7 @@ aliases:
 작성 날짜: 2024-01-20
 작성 시간: 15:31
 
-## 주제: #미완 #CS #OS #Synchronization 
+## 주제: #완성 #CS #OS #Synchronization 
 
 ----
 ## 내용(Content)
@@ -48,12 +48,14 @@ signal(cv2);     // 또는 broadcast(cv2) cv1 == cv2 일 수 있다
 release(m);      // 모니터 락 반환
 ```
 
->[!tip] code 설명
->hello asdfajsdl;;asdf
+>[!tip]- code 설명
+>1. acquire를 통해 락을 취득한다는 것은 monitor의 상호배제 특성을 위해서 그렇다. release 역시 마찬가지다
+>2. if 문 대신에 while문을 이용 조건을 확인하는 이유는 [[Spurious Wake up]] 문제가 발생할 수 있기 때문이다. 조건에 맞지 않게 깨어난 쓰레드를 계속해서 조건을 확인시켜줄 필요가 있기 떄문에 while문 사용한다.
+>3. signal은 쓰레드 동작이 끝나고 이제 남은 대기 큐에 있는 쓰레드를 깨우기 위해 사용된다.
+>4. 1번 설명과 같다
 
 
 
->
 ## 질문 & 확장
 
 (없음)
