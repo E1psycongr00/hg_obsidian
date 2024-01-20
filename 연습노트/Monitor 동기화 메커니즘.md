@@ -48,7 +48,12 @@ signal(cv2);     // 또는 broadcast(cv2) cv1 == cv2 일 수 있다
 release(m);      // 모니터 락 반환
 ```
 
+>[!tip] code 설명
+>hello asdfajsdl;;asdf
 
+
+
+>
 ## 질문 & 확장
 
 (없음)
