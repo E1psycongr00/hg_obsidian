@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a3ff1505c2ea42d0",
+        "id": "0dc82e6a44174e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "8e569302120b6119",
+            "id": "d529aac131c595c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/CPU 스케줄링 알고리즘.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3193c361055212f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MLFQ 동작 방식(draw).md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cpu bound",
+                "query": "cpu 버스트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/CPU 스케줄링 알고리즘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/CPU 스케줄링 알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +118,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/CPU 스케줄링 알고리즘.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "연습노트/CPU 스케줄링 알고리즘.md"
-              }
+              "state": {}
             }
           },
           {
@@ -234,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/CPU 스케줄링 알고리즘.md"
-              }
+              "state": {}
             }
           },
           {
@@ -271,16 +249,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8e569302120b6119",
+  "active": "d529aac131c595c9",
   "lastOpenFiles": [
+    "영구노트/IO Bound와 CPU Bound.md",
+    "Excalidraw/MLFQ 동작 방식(draw).md",
+    "Excalidraw/프로세스의 버스트 과정(draw).md",
+    "연습노트/CPU 스케줄링 알고리즘.md",
     "attachments/screenshot/Pasted image 20240119210248.png",
     "attachments/screenshot/Pasted image 20240119210239.png",
     "attachments/screenshot/Pasted image 20240119210233.png",
-    "Excalidraw/MLFQ 동작 방식(draw).md",
-    "연습노트/CPU 스케줄링 알고리즘.md",
     "Excalidraw/RR 스케줄링(draw).md",
-    "Excalidraw/프로세스의 버스트 과정(draw).md",
-    "영구노트/IO Bound와 CPU Bound.md",
     "영구노트/CPU 스케줄러.md",
     "영구노트/Java 스레드 상태.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
@@ -309,7 +287,6 @@
     "attachments/screenshot/Pasted image 20240110163734.png",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted Image 20240104144030_530.png",
-    "attachments/screenshot/Pasted Image 20240104143602_878.png",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
