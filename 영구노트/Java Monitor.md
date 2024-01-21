@@ -8,7 +8,7 @@ aliases:
 작성 날짜: 2024-01-20
 작성 시간: 19:17
 
-## 주제: #미완 #CS #JAVA #Synchronization 
+## 주제: #완성 #CS #JAVA #Synchronization 
 
 ----
 ## 내용(Content)
@@ -80,6 +80,7 @@ public BoundedBuffer2() {
 }
 ```
 
+우선 모니터의 구현을 위해 lock과 두개의 Condition variable을 준비한다.
 ```java
 public void produce(int item) throws InterruptedException {  
     lock.lock();  
@@ -95,6 +96,7 @@ public void produce(int item) throws InterruptedException {
     }  
 }
 ```
+
 
 ```java
 public int consume() throws InterruptedException {  
@@ -112,7 +114,11 @@ public int consume() throws InterruptedException {
 }
 ```
 
- java.util.concurrent.ArrayBlockingQueue 가 위의 코드대로 구현된다
+ notFull Condition에서는 produce task의 쓰레드를, notEmpty에서는 consume task를 보관한다. 여기서 signalAll() 이 아닌 signal()을 호출한 이유는 produce의 경우 signal로 consume task를 보관하고 있는 대기 큐의 쓰레드를 요청하고, consume은 반대로 요청한다. 이렇게 특정해서 쓰레드를 깨울 수 있기 때문에 불필요한 컨텍스트 스위칭이나 동기화 문제를 고려하지 않아도 된다.
+
+>[!tip] java.util.concurrent.ArrayBlockingQueue 
+>위 코드는 사실 ArrayBlockingQueue를 구현한 것이다. 
+
 ## 질문 & 확장
 
 (없음)
