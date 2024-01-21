@@ -1,7 +1,14 @@
+---
+tags:
+  - CS
+  - OS
+  - Thread
+aliases:
+---
 작성 날짜: 2023-12-17
 작성 시간: 20:43
 
-## 주제: #완성 #CS #Thread 
+## 주제: #완성 #CS #Thread #OS 
 
 ----
 ## 내용(Content)
@@ -85,7 +92,7 @@ ex) 응용 프로그램은 4개의 코어 시스템보다 8개의 코어 시스�
 - https://velog.io/@khsb2012/go-goroutine#%EA%B3%A0%EB%A3%A8%ED%8B%B4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%EB%90%A0%EA%B9%8C
 - https://howudong.tistory.com/268
 ## 연결 노트
-
+- [[CPU 쓰레드(Thread)|하드웨어 쓰레드]]
 
 
 
