@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58743c6be11cb045",
+        "id": "85944ae095d2d436",
         "type": "tabs",
         "children": [
           {
-            "id": "b2dcb0183057327e",
+            "id": "941d59b211802935",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "many to one",
+                "query": "콜아웃",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -143,12 +143,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868316,
+                  "scale": 0.7514342322277585,
                   "close": true
                 }
               }
@@ -237,8 +237,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -261,11 +260,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "941d59b211802935",
   "lastOpenFiles": [
-    "연습노트/쓰레드 종류별 특징.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "영구노트/Obsidian 콜아웃 종류.md",
+    "Resources/Obsidian/Obsidian 관련 내용.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
+    "영구노트/OS 쓰레드.md",
     "영구노트/CPU 쓰레드(Thread).md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "커널 쓰레드.md",
+    "영구노트/유저 쓰레드.md",
+    "연습노트/쓰레드 종류별 특징.md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
     "영구노트/프로세스 & 스레드 정의.md",
     "영구노트/프로세스의 한계 및 쓰레드 등장.md",
@@ -274,22 +281,14 @@
     "영구노트/프로세스 & 스레드 메모리 구조.md",
     "Resources/IT/프로세스.md",
     "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "무제 파일.md",
     "연습노트/선점 & 비선점 스케줄링.md",
     "영구노트/@Valid와 @Validated 차이.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/Monitor 동기화 메커니즘.md",
     "영구노트/race condition.md",
-    "Excalidraw/Dead Lock 예시(draw).md",
-    "영구노트/Java Monitor.md",
-    "연습노트/동기화 종류.md",
     "attachments/screenshot/Pasted image 20240121105830.png",
-    "연습노트/동기화를 위한 전략.md",
-    "영구노트/Obsidian 콜아웃 종류.md",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
     "attachments/screenshot/Pasted image 20240119210248.png",
