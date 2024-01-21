@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85944ae095d2d436",
+        "id": "425a7b3e62fd3b28",
         "type": "tabs",
         "children": [
           {
-            "id": "941d59b211802935",
+            "id": "530a97854de40e14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
-                "mode": "source",
+                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md"
+                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "350459afc1252945",
@@ -225,12 +225,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md"
+                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
               }
             }
           },
           {
-            "id": "00e8ffbb2361afb6",
+            "id": "b21c95d4d4caf868",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -260,13 +260,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "941d59b211802935",
+  "active": "530a97854de40e14",
   "lastOpenFiles": [
+    "Excalidraw/many-to-many thread model(draw).md",
+    "영구노트/Class Loader.md",
+    "영구노트/Kernel Level Thread vs User Level Thread.md",
+    "영구노트/k6 소개.md",
+    "영구노트/GoRoutine 고루틴 소개.md",
+    "영구노트/CPU 코어.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "영구노트/Obsidian 콜아웃 종류.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
-    "영구노트/Kernel Level Thread vs User Level Thread.md",
     "영구노트/OS 쓰레드.md",
     "영구노트/CPU 쓰레드(Thread).md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
@@ -283,11 +288,6 @@
     "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
     "무제 파일.md",
     "연습노트/선점 & 비선점 스케줄링.md",
-    "영구노트/@Valid와 @Validated 차이.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "영구노트/Monitor 동기화 메커니즘.md",
-    "영구노트/race condition.md",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",

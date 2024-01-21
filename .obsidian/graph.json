@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#JAVA  ",
@@ -41,11 +41,11 @@
   "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 0.940145833333333,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1846232622585889,
-  "close": true
+  "scale": 0.3628873693012271,
+  "close": false
 }

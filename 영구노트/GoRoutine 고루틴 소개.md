@@ -1,3 +1,12 @@
+---
+tags:
+  - OS
+  - Go
+  - Thread
+aliases:
+  - 고루틴
+  - GoRoutine
+---
 작성 날짜: 2023-12-17
 작성 시간: 20:03
 
