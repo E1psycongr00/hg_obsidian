@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "425a7b3e62fd3b28",
+        "id": "b68ce3085aae2ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "530a97854de40e14",
+            "id": "d45d1bb805e500a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/DeadLock.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           },
           {
-            "id": "9d3f872a5fcb1ac1",
+            "id": "b244b4cd6d1b0cb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/OS가 데드락 문제 해결하기.md",
+                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "race condition",
+                "query": "tag:#Java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/OS가 데드락 문제 해결하기.md",
+                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/OS가 데드락 문제 해결하기.md",
+                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/OS가 데드락 문제 해결하기.md",
+                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/OS가 데드락 문제 해결하기.md"
+                "file": "연습노트/프로그래밍으로 데드락 해결하기.md"
               }
             }
           },
@@ -239,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/OS가 데드락 문제 해결하기.md"
+                "file": "연습노트/프로그래밍으로 데드락 해결하기.md"
               }
             }
           },
@@ -251,8 +246,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,14 +269,21 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9d3f872a5fcb1ac1",
+  "active": "b244b4cd6d1b0cb4",
   "lastOpenFiles": [
-    "영구노트/DeadLock.md",
-    "연습노트/OS가 데드락 문제 해결하기.md",
-    "영구노트/race condition.md",
-    "Excalidraw/Dead Lock 예시2(draw).md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/프로그래밍으로 데드락 해결하기.md",
+    "영구노트/운영 체제(OS).md",
+    "영구노트/프로세스 & 스레드 정의.md",
+    "Resources/IT/프로세스.md",
+    "attachments/screenshot/Pasted image 20240110163734.png",
+    "영구노트/CPU 코어.md",
     "영구노트/뮤텍스(Mutex).md",
+    "영구노트/OS에서 데드락 문제 해결하기.md",
+    "영구노트/DeadLock.md",
+    "영구노트/Race Condition.md",
+    "영구노트/CPU 스케줄링 알고리즘.md",
+    "Excalidraw/Dead Lock 예시2(draw).md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/선점 & 비선점 스케줄링.md",
     "연습노트/Spring에서 예외 처리 과정.md",
@@ -293,16 +294,10 @@
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "영구노트/k6 소개.md",
     "영구노트/GoRoutine 고루틴 소개.md",
-    "영구노트/CPU 코어.md",
     "영구노트/Obsidian 콜아웃 종류.md",
     "Resources/Obsidian/Obsidian 관련 내용.md",
     "영구노트/OS 쓰레드.md",
     "영구노트/CPU 쓰레드(Thread).md",
-    "커널 쓰레드.md",
-    "영구노트/유저 쓰레드.md",
-    "연습노트/쓰레드 종류별 특징.md",
-    "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
-    "영구노트/프로세스 & 스레드 정의.md",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
@@ -312,7 +307,6 @@
     "attachments/screenshot/Pasted image 20240117013137.png",
     "attachments/screenshot/Pasted image 20240116214428.png",
     "attachments/screenshot/Pasted image 20240116213900.png",
-    "attachments/screenshot/Pasted image 20240116213307.png",
     "Resources/명언/명언 모음.canvas",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "나의 마일스톤/2024년",

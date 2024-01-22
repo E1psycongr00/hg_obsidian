@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "OS가 데드락 문제 해결하기",
-      "path": "연습노트/OS가 데드락 문제 해결하기.md"
-    },
-    {
-      "basename": "DeadLock",
-      "path": "영구노트/DeadLock.md"
-    },
-    {
-      "basename": "race condition",
-      "path": "영구노트/race condition.md"
-    },
-    {
-      "basename": "Dead Lock 예시2(draw)",
-      "path": "Excalidraw/Dead Lock 예시2(draw).md"
+      "basename": "프로그래밍으로 데드락 해결하기",
+      "path": "연습노트/프로그래밍으로 데드락 해결하기.md"
     },
     {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
+      "basename": "운영 체제(OS)",
+      "path": "영구노트/운영 체제(OS).md"
+    },
+    {
+      "basename": "프로세스 & 스레드 정의",
+      "path": "영구노트/프로세스 & 스레드 정의.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "Resources/IT/프로세스.md"
+    },
+    {
+      "basename": "Pasted image 20240110163734",
+      "path": "attachments/screenshot/Pasted image 20240110163734.png"
+    },
+    {
+      "basename": "CPU 코어",
+      "path": "영구노트/CPU 코어.md"
+    },
+    {
       "basename": "뮤텍스(Mutex)",
       "path": "영구노트/뮤텍스(Mutex).md"
+    },
+    {
+      "basename": "OS에서 데드락 문제 해결하기",
+      "path": "영구노트/OS에서 데드락 문제 해결하기.md"
+    },
+    {
+      "basename": "DeadLock",
+      "path": "영구노트/DeadLock.md"
+    },
+    {
+      "basename": "Race Condition",
+      "path": "영구노트/Race Condition.md"
+    },
+    {
+      "basename": "CPU 스케줄링 알고리즘",
+      "path": "영구노트/CPU 스케줄링 알고리즘.md"
+    },
+    {
+      "basename": "Dead Lock 예시2(draw)",
+      "path": "Excalidraw/Dead Lock 예시2(draw).md"
     },
     {
       "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
@@ -53,10 +81,6 @@
       "path": "영구노트/Class Loader.md"
     },
     {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
-    },
-    {
       "basename": "OS 쓰레드",
       "path": "영구노트/OS 쓰레드.md"
     },
@@ -73,32 +97,8 @@
       "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
     },
     {
-      "basename": "프로세스 & 스레드 정의",
-      "path": "영구노트/프로세스 & 스레드 정의.md"
-    },
-    {
       "basename": "프로세스의 한계 및 쓰레드 등장",
       "path": "영구노트/프로세스의 한계 및 쓰레드 등장.md"
-    },
-    {
-      "basename": "세마포어",
-      "path": "영구노트/세마포어.md"
-    },
-    {
-      "basename": "2024-01-09",
-      "path": "데일리/2024-01-09.md"
-    },
-    {
-      "basename": "프로세스 & 스레드 메모리 구조",
-      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
-    },
-    {
-      "basename": "프로세스",
-      "path": "Resources/IT/프로세스.md"
-    },
-    {
-      "basename": "OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍)",
-      "path": "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md"
     }
   ],
   "omittedPaths": [],

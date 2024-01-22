@@ -49,7 +49,7 @@ aliases:
 
 >[!info] Race Condition(경쟁 조건)
 >여러 프로세스가 공통된 공유 자원을 활용할 때
->[[race condition]]
+>[[Race Condition]]
 
 >[!info] Critical Section(임계 영역)
 >여러 스레드 또는 프로세스가 공유 자원에 접근할 수 있는 코드 영역

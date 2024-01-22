@@ -28,6 +28,10 @@
       {
         "query": "tag:#데일리",
         "color": "#9294c3"
+      },
+      {
+        "query": "tag:#OS",
+        "color": "#42bda4"
       }
     ]
   },
