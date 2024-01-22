@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/DeadLock.md",
+                "file": "영구노트/DeadLock.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "0f44e77256943f29",
+            "id": "9d3f872a5fcb1ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/race condition.md",
+                "file": "연습노트/OS가 데드락 문제 해결하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/DeadLock.md",
+                "file": "연습노트/OS가 데드락 문제 해결하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/DeadLock.md",
+                "file": "연습노트/OS가 데드락 문제 해결하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/DeadLock.md",
+                "file": "연습노트/OS가 데드락 문제 해결하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/DeadLock.md"
+                "file": "연습노트/OS가 데드락 문제 해결하기.md"
               }
             }
           },
@@ -238,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/DeadLock.md"
+                "file": "연습노트/OS가 데드락 문제 해결하기.md"
               }
             }
           },
@@ -274,10 +275,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "530a97854de40e14",
+  "active": "9d3f872a5fcb1ac1",
   "lastOpenFiles": [
+    "영구노트/DeadLock.md",
+    "연습노트/OS가 데드락 문제 해결하기.md",
     "영구노트/race condition.md",
-    "연습노트/DeadLock.md",
     "Excalidraw/Dead Lock 예시2(draw).md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "영구노트/뮤텍스(Mutex).md",
@@ -301,7 +303,6 @@
     "연습노트/쓰레드 종류별 특징.md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
     "영구노트/프로세스 & 스레드 정의.md",
-    "영구노트/프로세스의 한계 및 쓰레드 등장.md",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
