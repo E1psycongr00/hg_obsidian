@@ -5,12 +5,12 @@
       "path": "연습노트/DeadLock.md"
     },
     {
-      "basename": "Dead Lock 예시2(draw)",
-      "path": "Excalidraw/Dead Lock 예시2(draw).md"
-    },
-    {
       "basename": "race condition",
       "path": "영구노트/race condition.md"
+    },
+    {
+      "basename": "Dead Lock 예시2(draw)",
+      "path": "Excalidraw/Dead Lock 예시2(draw).md"
     },
     {
       "basename": "JacksonModule & Std(De)Serializer",

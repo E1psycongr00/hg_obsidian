@@ -47,7 +47,7 @@ race condition은 3가지 문제에 직면한다.
 - https://ko.wikipedia.org/wiki/%EA%B5%90%EC%B0%A9_%EC%83%81%ED%83%9C
 - https://velog.io/@woga1999/Starvation-%EA%B8%B0%EC%95%84-%EC%83%81%ED%83%9C-%EB%9E%80
 ## 연결 노트
-
+- [[DeadLock]]
 
 
 
