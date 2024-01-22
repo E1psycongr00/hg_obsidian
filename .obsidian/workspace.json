@@ -4,42 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b68ce3085aae2ef7",
+        "id": "3784e675598a223c",
         "type": "tabs",
         "children": [
           {
-            "id": "d45d1bb805e500a4",
+            "id": "4011fb0039cc7968",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "b244b4cd6d1b0cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1df04c090ad6355",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/VisualVm DeadLock 설명.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/VisualVm DeadLock 설명.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/VisualVm DeadLock 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +118,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/VisualVm DeadLock 설명.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/VisualVm DeadLock 설명.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,9 +214,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/VisualVm DeadLock 설명.md"
-              }
+              "state": {}
             }
           },
           {
@@ -279,10 +248,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a1df04c090ad6355",
+  "active": "4011fb0039cc7968",
   "lastOpenFiles": [
-    "연습노트/프로그래밍으로 데드락 해결하기.md",
-    "Excalidraw/VisualVm DeadLock 설명.md",
+    "영구노트/프로그래밍으로 데드락 해결하기.md",
+    "영구노트/DeadLock.md",
+    "Excalidraw/VisualVM DeadLock 설명(draw).md",
     "attachments/screenshot/Pasted image 20240122172234.png",
     "attachments/screenshot/Pasted image 20240122171946.png",
     "attachments/screenshot/Pasted image 20240122171914.png",
@@ -296,7 +266,6 @@
     "영구노트/CPU 코어.md",
     "영구노트/뮤텍스(Mutex).md",
     "영구노트/OS에서 데드락 문제 해결하기.md",
-    "영구노트/DeadLock.md",
     "영구노트/Race Condition.md",
     "영구노트/CPU 스케줄링 알고리즘.md",
     "Excalidraw/Dead Lock 예시2(draw).md",
