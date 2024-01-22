@@ -27,9 +27,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1df04c090ad6355",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/VisualVm DeadLock 설명.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
+                "file": "Excalidraw/VisualVm DeadLock 설명.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
+                "file": "Excalidraw/VisualVm DeadLock 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/프로그래밍으로 데드락 해결하기.md",
+                "file": "Excalidraw/VisualVm DeadLock 설명.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +206,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/프로그래밍으로 데드락 해결하기.md"
+                "file": "Excalidraw/VisualVm DeadLock 설명.md"
               }
             }
           },
@@ -234,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/프로그래밍으로 데드락 해결하기.md"
+                "file": "Excalidraw/VisualVm DeadLock 설명.md"
               }
             }
           },
@@ -269,12 +279,16 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "b244b4cd6d1b0cb4",
+  "active": "a1df04c090ad6355",
   "lastOpenFiles": [
+    "연습노트/프로그래밍으로 데드락 해결하기.md",
+    "Excalidraw/VisualVm DeadLock 설명.md",
+    "attachments/screenshot/Pasted image 20240122172234.png",
+    "attachments/screenshot/Pasted image 20240122171946.png",
+    "attachments/screenshot/Pasted image 20240122171914.png",
     "attachments/screenshot/Pasted image 20240122155931.png",
     "attachments/screenshot/Pasted image 20240122155837.png",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/프로그래밍으로 데드락 해결하기.md",
     "영구노트/운영 체제(OS).md",
     "영구노트/프로세스 & 스레드 정의.md",
     "Resources/IT/프로세스.md",
@@ -303,10 +317,6 @@
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
     "attachments/screenshot/Pasted image 20240119210248.png",
-    "attachments/screenshot/Pasted image 20240119210239.png",
-    "attachments/screenshot/Pasted image 20240119210233.png",
-    "attachments/screenshot/Pasted image 20240117013137.png",
-    "attachments/screenshot/Pasted image 20240116214428.png",
     "Resources/명언/명언 모음.canvas",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "나의 마일스톤/2024년",
