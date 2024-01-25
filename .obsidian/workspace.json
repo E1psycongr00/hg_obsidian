@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3784e675598a223c",
+        "id": "2f90c1e95b079e47",
         "type": "tabs",
         "children": [
           {
-            "id": "a834a9ce2e0eb30b",
+            "id": "5994aae0fdaf9988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/시스템 콜.md",
+                "file": "연습노트/인터럽트와 시스템 콜 동작 과정.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/시스템 콜.md",
+                "file": "연습노트/인터럽트와 시스템 콜 동작 과정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/시스템 콜.md",
+                "file": "연습노트/인터럽트와 시스템 콜 동작 과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/시스템 콜.md",
+                "file": "연습노트/인터럽트와 시스템 콜 동작 과정.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/시스템 콜.md"
+                "file": "연습노트/인터럽트와 시스템 콜 동작 과정.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/시스템 콜.md"
+                "file": "연습노트/인터럽트와 시스템 콜 동작 과정.md"
               }
             }
           },
@@ -261,17 +261,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a834a9ce2e0eb30b",
+  "active": "5994aae0fdaf9988",
   "lastOpenFiles": [
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/인터럽트와 시스템 콜 동작 과정.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "영구노트/시스템 콜.md",
+    "연습노트/선점 & 비선점 스케줄링.md",
+    "영구노트/Kernel.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/인터럽트.md",
-    "연습노트/Kernel.md",
-    "연습노트/시스템 콜.md",
     "영구노트/시스템 콜 레퍼런스.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "Excalidraw/user mode kernel mode interface(draw).md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/선점 & 비선점 스케줄링.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "영구노트/Java17 Switch 문법.md",
     "영구노트/원형큐 구현하기.md",
@@ -294,7 +295,6 @@
     "attachments/screenshot/Pasted image 20240110163734.png",
     "영구노트/CPU 코어.md",
     "영구노트/뮤텍스(Mutex).md",
-    "영구노트/OS에서 데드락 문제 해결하기.md",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
