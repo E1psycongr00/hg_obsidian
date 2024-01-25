@@ -55,7 +55,7 @@ aliases:
 - https://www.youtube.com/watch?v=v30ilCpITnY&t=37s
 ## 연결 노트
 - [[인터럽트]]
-
+- [[시스템 콜]]
 
 
 
