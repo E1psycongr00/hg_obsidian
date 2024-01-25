@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "user mode kernel mode interface(draw)",
-      "path": "Excalidraw/user mode kernel mode interface(draw).md"
+      "basename": "인터럽트",
+      "path": "연습노트/인터럽트.md"
     },
     {
       "basename": "Kernel",
       "path": "연습노트/Kernel.md"
+    },
+    {
+      "basename": "user mode kernel mode interface(draw)",
+      "path": "Excalidraw/user mode kernel mode interface(draw).md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
@@ -95,10 +99,6 @@
     {
       "basename": "뮤텍스(Mutex)",
       "path": "영구노트/뮤텍스(Mutex).md"
-    },
-    {
-      "basename": "OS에서 데드락 문제 해결하기",
-      "path": "영구노트/OS에서 데드락 문제 해결하기.md"
     }
   ],
   "omittedPaths": [],

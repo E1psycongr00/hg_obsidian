@@ -34,12 +34,15 @@
             }
           },
           {
-            "id": "055b5757de5c9c3f",
+            "id": "e8ee96a3f539afc6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/user mode kernel mode interface(draw).md"
+                "file": "연습노트/인터럽트.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -120,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/user mode kernel mode interface(draw).md",
+                "file": "연습노트/인터럽트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/user mode kernel mode interface(draw).md",
+                "file": "연습노트/인터럽트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/user mode kernel mode interface(draw).md",
+                "file": "연습노트/인터럽트.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/user mode kernel mode interface(draw).md"
+                "file": "연습노트/인터럽트.md"
               }
             }
           },
@@ -249,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/user mode kernel mode interface(draw).md"
+                "file": "연습노트/인터럽트.md"
               }
             }
           },
@@ -285,9 +288,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "055b5757de5c9c3f",
+  "active": "9d534a5df67b7cbf",
   "lastOpenFiles": [
     "연습노트/Kernel.md",
+    "연습노트/인터럽트.md",
     "Excalidraw/user mode kernel mode interface(draw).md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
@@ -318,7 +322,6 @@
     "영구노트/OS에서 데드락 문제 해결하기.md",
     "영구노트/Race Condition.md",
     "영구노트/CPU 스케줄링 알고리즘.md",
-    "Excalidraw/Dead Lock 예시2(draw).md",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
