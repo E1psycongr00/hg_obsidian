@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/인터럽트.md",
+                "file": "연습노트/Kernel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/인터럽트.md",
+                "file": "연습노트/Kernel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/인터럽트.md",
+                "file": "연습노트/Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/인터럽트.md",
+                "file": "연습노트/Kernel.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/인터럽트.md"
+                "file": "연습노트/Kernel.md"
               }
             }
           },
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/인터럽트.md"
+                "file": "연습노트/Kernel.md"
               }
             }
           },
@@ -288,10 +288,10 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9d534a5df67b7cbf",
+  "active": "e8ee96a3f539afc6",
   "lastOpenFiles": [
+    "영구노트/인터럽트.md",
     "연습노트/Kernel.md",
-    "연습노트/인터럽트.md",
     "Excalidraw/user mode kernel mode interface(draw).md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",

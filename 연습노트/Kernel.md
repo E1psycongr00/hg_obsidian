@@ -39,7 +39,7 @@ aliases:
 >1. 유저 모드에서 application을 실행한다
 >2. 프로그램 실행 중에 인터럽트가 발생하거나 시스템 콜을 호출하면 user -> kernel
 >3. 커널 모드에서 프로그램의 현재 CPU 상태를 저장함
->4. 커널이 인터럽트나 시스템 콜을 직접 처리 ==> CPU에서 커널 코드가 실행됨
+>4. 커널이 [[인터럽트]]나 시스템 콜을 직접 처리 ==> CPU에서 커널 코드가 실행됨
 >5. 커널은 처리가 완료되면 중단됬던 프로그램의 CPU 상태 복원
 >6. 통제권을 다시 프로그램에게 반환 ==> kernel -> user
 
@@ -54,7 +54,7 @@ aliases:
 - https://minkwon4.tistory.com/295
 - https://www.youtube.com/watch?v=v30ilCpITnY&t=37s
 ## 연결 노트
-
+- [[인터럽트]]
 
 
 
