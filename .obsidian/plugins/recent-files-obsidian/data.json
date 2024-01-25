@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
       "basename": "인터럽트와 시스템 콜 동작 과정",
       "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "프로세스 & 스레드 정의",
       "path": "영구노트/프로세스 & 스레드 정의.md"
-    },
-    {
-      "basename": "프로세스",
-      "path": "Resources/IT/프로세스.md"
     }
   ],
   "omittedPaths": [],

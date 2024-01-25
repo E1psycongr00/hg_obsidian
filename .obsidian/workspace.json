@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c34c4bf624b29149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -225,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -261,10 +275,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5994aae0fdaf9988",
+  "active": "c34c4bf624b29149",
   "lastOpenFiles": [
-    "영구노트/OS 쓰레드.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+    "무제 파일.md",
+    "영구노트/OS 쓰레드.md",
     "영구노트/시스템 콜.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
@@ -294,7 +309,6 @@
     "영구노트/프로세스 & 스레드 정의.md",
     "Resources/IT/프로세스.md",
     "attachments/screenshot/Pasted image 20240110163734.png",
-    "영구노트/CPU 코어.md",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
