@@ -19,8 +19,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44c1335da175034c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Kernel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "055b5757de5c9c3f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/user mode kernel mode interface(draw).md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "Excalidraw/user mode kernel mode interface(draw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "Excalidraw/user mode kernel mode interface(draw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "Excalidraw/user mode kernel mode interface(draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+                "file": "Excalidraw/user mode kernel mode interface(draw).md"
               }
             }
           },
@@ -225,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+                "file": "Excalidraw/user mode kernel mode interface(draw).md"
               }
             }
           },
@@ -261,8 +285,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "4011fb0039cc7968",
+  "active": "055b5757de5c9c3f",
   "lastOpenFiles": [
+    "연습노트/Kernel.md",
+    "Excalidraw/user mode kernel mode interface(draw).md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/선점 & 비선점 스케줄링.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
@@ -292,9 +319,6 @@
     "영구노트/Race Condition.md",
     "영구노트/CPU 스케줄링 알고리즘.md",
     "Excalidraw/Dead Lock 예시2(draw).md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "Excalidraw/many-to-many thread model(draw).md",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
     "attachments/screenshot/Pasted image 20240120162420.png",
