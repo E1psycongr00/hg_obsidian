@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Socket",
-      "path": "연습노트/Socket.md"
-    },
-    {
       "basename": "Block IO",
       "path": "연습노트/Block IO.md"
+    },
+    {
+      "basename": "백엔드 서버 소켓(draw)",
+      "path": "Excalidraw/백엔드 서버 소켓(draw).md"
+    },
+    {
+      "basename": "네트워크 소켓 통신(draw)",
+      "path": "Excalidraw/네트워크 소켓 통신(draw).md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Socket",
+      "path": "연습노트/Socket.md"
     },
     {
       "basename": "2024-01-23",
@@ -23,10 +35,6 @@
     {
       "basename": "시스템 콜",
       "path": "영구노트/시스템 콜.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
       "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
@@ -91,14 +99,6 @@
     {
       "basename": "VisualVM DeadLock 설명(draw)",
       "path": "Excalidraw/VisualVM DeadLock 설명(draw).md"
-    },
-    {
-      "basename": "Pasted image 20240122171914",
-      "path": "attachments/screenshot/Pasted image 20240122171914.png"
-    },
-    {
-      "basename": "운영 체제(OS)",
-      "path": "영구노트/운영 체제(OS).md"
     }
   ],
   "omittedPaths": [],
