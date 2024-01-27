@@ -11,7 +11,13 @@ aliases:
 ## 내용(Content)
 ### I/O
 >[!summary] I/O
->INPUT/OUTPUT, 데이터의 입출력의 
+>INPUT/OUTPUT, 데이터의 입출력의 의미를 가진다
+
+**IO의 종류**
+- 네트워크(socket)
+- file
+- pipe
+- device
 
 ## 질문 & 확장
 
