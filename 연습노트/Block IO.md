@@ -9,14 +9,16 @@ aliases:
 
 ----
 ## 내용(Content)
-
+### I/O
+>[!summary] I/O
+>INPUT/OUTPUT, 데이터의 입출력의 
 
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
-
+- https://www.youtube.com/watch?v=mb-QHxVfmcs
 
 ## 연결 노트
 

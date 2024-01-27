@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Block IO vs Non Block IO.md",
+                "file": "연습노트/Block IO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Block IO vs Non Block IO.md",
+                "file": "연습노트/Block IO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Block IO vs Non Block IO.md",
+                "file": "연습노트/Block IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Block IO vs Non Block IO.md",
+                "file": "연습노트/Block IO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Block IO vs Non Block IO.md"
+                "file": "연습노트/Block IO.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Block IO vs Non Block IO.md"
+                "file": "연습노트/Block IO.md"
               }
             }
           },
@@ -278,7 +278,7 @@
   "active": "c34c4bf624b29149",
   "lastOpenFiles": [
     "데일리/2024-01-23.md",
-    "연습노트/Block IO vs Non Block IO.md",
+    "연습노트/Block IO.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "영구노트/OS 쓰레드.md",
     "영구노트/시스템 콜.md",
