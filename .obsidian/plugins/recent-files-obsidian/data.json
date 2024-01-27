@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Socket",
+      "path": "연습노트/Socket.md"
+    },
+    {
       "basename": "Block IO",
       "path": "연습노트/Block IO.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "운영 체제(OS)",
       "path": "영구노트/운영 체제(OS).md"
-    },
-    {
-      "basename": "프로세스 & 스레드 정의",
-      "path": "영구노트/프로세스 & 스레드 정의.md"
     }
   ],
   "omittedPaths": [],

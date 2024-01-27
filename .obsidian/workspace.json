@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b898380cdb8672b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Socket.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Block IO.md",
+                "file": "연습노트/Socket.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Block IO.md",
+                "file": "연습노트/Socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Block IO.md",
+                "file": "연습노트/Socket.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +214,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Block IO.md"
+                "file": "연습노트/Socket.md"
               }
             }
           },
@@ -239,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Block IO.md"
+                "file": "연습노트/Socket.md"
               }
             }
           },
@@ -275,10 +288,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c34c4bf624b29149",
+  "active": "2b898380cdb8672b",
   "lastOpenFiles": [
-    "데일리/2024-01-23.md",
     "연습노트/Block IO.md",
+    "연습노트/Socket.md",
+    "데일리/2024-01-23.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "영구노트/OS 쓰레드.md",
     "영구노트/시스템 콜.md",
@@ -307,7 +321,6 @@
     "attachments/screenshot/Pasted image 20240122155837.png",
     "영구노트/운영 체제(OS).md",
     "영구노트/프로세스 & 스레드 정의.md",
-    "Resources/IT/프로세스.md",
     "attachments/screenshot/Pasted image 20240110163734.png",
     "attachments/screenshot/Pasted image 20240121105830.png",
     "attachments/screenshot/Pasted image 20240120162424.png",
