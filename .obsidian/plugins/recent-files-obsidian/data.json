@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "IO Multiplexing",
-      "path": "연습노트/IO Multiplexing.md"
+      "basename": "Block IO",
+      "path": "영구노트/Block IO.md"
+    },
+    {
+      "basename": "Synchronous Blocking IO 과정(draw)",
+      "path": "Excalidraw/Synchronous Blocking IO 과정(draw).md"
     },
     {
       "basename": "Non-Block IO",
       "path": "연습노트/Non-Block IO.md"
     },
     {
+      "basename": "IO Multiplexing",
+      "path": "연습노트/IO Multiplexing.md"
+    },
+    {
       "basename": "파일 디스크립터",
       "path": "영구노트/파일 디스크립터.md"
-    },
-    {
-      "basename": "Block IO",
-      "path": "영구노트/Block IO.md"
-    },
-    {
-      "basename": "OS 관점 Block IO 과정(draw)",
-      "path": "Excalidraw/OS 관점 Block IO 과정(draw).md"
     },
     {
       "basename": "시스템 콜",

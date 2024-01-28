@@ -23,7 +23,7 @@ Blocked IO는 [[Kernel]]에서 read 동작시 [[시스템 콜]]을 요청한 Thr
 
 1. 폴링(완료되었는지 지속적인 요청으로 확인)
 2. IO multiplexing
-	- Non Blocking이라 하기에는 애매한 부분이 있다. 주로 Blocking해서 사용하기 때문
+	- Non Blocking이라 하기에는 애매한 부분이 있다.  Blocking해서 사용하기도 하기 때문에
 3. callback & signal
 
 ## 질문 & 확장
@@ -32,11 +32,13 @@ Blocked IO는 [[Kernel]]에서 read 동작시 [[시스템 콜]]을 요청한 Thr
 
 ## 출처(링크)
 - https://www.youtube.com/watch?v=mb-QHxVfmcs
+- https://blog.naver.com/n_cloudplatform/222189669084
 ## 연결 노트
 - [[시스템 콜]]
 - [[인터럽트와 시스템 콜 동작 과정]]
 - [[Kernel|커널]]
 - [[IO Multiplexing]]
+- [[Block IO]]
 
 
 
