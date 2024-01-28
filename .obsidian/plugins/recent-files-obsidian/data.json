@@ -5,6 +5,10 @@
       "path": "연습노트/IO Multiplexing.md"
     },
     {
+      "basename": "파일 디스크립터",
+      "path": "영구노트/파일 디스크립터.md"
+    },
+    {
       "basename": "non-blocking Io(draw)",
       "path": "Excalidraw/non-blocking Io(draw).md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Blocking IO",
       "path": "영구노트/Blocking IO.md"
-    },
-    {
-      "basename": "파일 디스크립터",
-      "path": "영구노트/파일 디스크립터.md"
     },
     {
       "basename": "시스템 콜",
