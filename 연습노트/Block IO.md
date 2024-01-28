@@ -51,7 +51,7 @@ aliases:
 - https://www.youtube.com/watch?v=mb-QHxVfmcs
 
 ## 연결 노트
-
+- [[Non-Block IO]]
 
 
 
