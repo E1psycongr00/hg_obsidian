@@ -11,7 +11,9 @@ aliases:
 
 ----
 ## 내용(Content)
-
+### 멀티플렉싱
+>[!summary] IO multiplexing
+>관심있는 여러 IO 작업을 동시에 모니터링하고 한번에 처리하는 메커니즘
 
 ## 질문 & 확장
 

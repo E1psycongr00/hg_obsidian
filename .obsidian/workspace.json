@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "2ccac92be195b4e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/파일 디스크립터.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c9141cc1e526f76",
             "type": "leaf",
             "state": {
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/파일 디스크립터.md",
+                "file": "연습노트/IO Multiplexing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/파일 디스크립터.md",
+                "file": "연습노트/IO Multiplexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/파일 디스크립터.md",
+                "file": "연습노트/IO Multiplexing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/파일 디스크립터.md"
+                "file": "연습노트/IO Multiplexing.md"
               }
             }
           },
@@ -252,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/파일 디스크립터.md"
+                "file": "연습노트/IO Multiplexing.md"
               }
             }
           },
@@ -288,11 +275,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9d534a5df67b7cbf",
+  "active": "4c9141cc1e526f76",
   "lastOpenFiles": [
     "연습노트/Non-Block IO.md",
-    "연습노트/파일 디스크립터.md",
     "연습노트/IO Multiplexing.md",
+    "영구노트/파일 디스크립터.md",
     "영구노트/Block IO.md",
     "Excalidraw/OS 관점 Block IO 과정(draw).md",
     "영구노트/시스템 콜.md",
