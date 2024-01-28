@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f1289bca6c579dc1",
+        "id": "449fc00832709bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a72136e8a4d85c3",
+            "id": "ba84f1777487e240",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/파일 디스크립터.md",
-                "mode": "source",
+                "file": "무제 파일.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/파일 디스크립터.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/파일 디스크립터.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/파일 디스크립터.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277585,
+                  "scale": 0.5359795996225944,
                   "close": true
                 }
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/파일 디스크립터.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "350459afc1252945",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/파일 디스크립터.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -261,8 +261,22 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8a72136e8a4d85c3",
+  "active": "ba84f1777487e240",
   "lastOpenFiles": [
+    "Resources/IT/운영체제/프로세스.md",
+    "영구노트/프로세스 스케줄링.md",
+    "영구노트/CPU 스케줄러.md",
+    "영구노트/CPU 스케줄링 알고리즘.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+    "영구노트/Spurious Wake up.md",
+    "영구노트/Monitor 동기화 메커니즘.md",
+    "영구노트/Java Monitor.md",
+    "영구노트/Mutex와 binary semaphore 같지 않다.md",
+    "영구노트/뮤텍스(Mutex).md",
+    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
+    "영구노트/파일 디스크립터.md",
     "무제 파일.md",
     "데일리/2024-01-28.md",
     "데일리/2024-01-27.md",
@@ -270,8 +284,6 @@
     "데일리/2024-01-25.md",
     "데일리/2024-01-24.md",
     "영구노트/서비스 수준 용어.md",
-    "Resources/IT/운영체제/프로세스.md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
     "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md",
     "Resources/IT/운영체제",
     "영구노트/IO Multiplexing.md",
@@ -279,18 +291,6 @@
     "Excalidraw/level triggered(draw).md",
     "Excalidraw/Edge Triggered(draw).md",
     "attachments/screenshot/Pasted image 20240128165823.png",
-    "영구노트/파일 디스크립터.md",
-    "Excalidraw/non-blocking Io(draw).md",
-    "Excalidraw/IO multiplexing(draw).md",
-    "Excalidraw/Synchronous Blocking IO 과정(draw).md",
-    "영구노트/Blocking IO.md",
-    "영구노트/시스템 콜.md",
-    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
-    "연습노트/Socket.md",
-    "Excalidraw/백엔드 서버 소켓(draw).md",
-    "Excalidraw/네트워크 소켓 통신(draw).md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "데일리/2024-01-23.md",
     "attachments/screenshot/Pasted image 20240122172234.png",
     "attachments/screenshot/Pasted image 20240122171946.png",
     "attachments/screenshot/Pasted image 20240122171914.png",

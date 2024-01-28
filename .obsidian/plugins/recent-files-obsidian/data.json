@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "파일 디스크립터",
-      "path": "영구노트/파일 디스크립터.md"
-    },
-    {
       "basename": "무제 파일",
       "path": "무제 파일.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "프로세스 스케줄링",
+      "path": "영구노트/프로세스 스케줄링.md"
+    },
+    {
+      "basename": "CPU 스케줄러",
+      "path": "영구노트/CPU 스케줄러.md"
+    },
+    {
+      "basename": "CPU 스케줄링 알고리즘",
+      "path": "영구노트/CPU 스케줄링 알고리즘.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "네트워크 IO Models",
+      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+    },
+    {
+      "basename": "인터럽트와 시스템 콜 동작 과정",
+      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+    },
+    {
+      "basename": "Spurious Wake up",
+      "path": "영구노트/Spurious Wake up.md"
+    },
+    {
+      "basename": "Monitor 동기화 메커니즘",
+      "path": "영구노트/Monitor 동기화 메커니즘.md"
+    },
+    {
+      "basename": "Java Monitor",
+      "path": "영구노트/Java Monitor.md"
+    },
+    {
+      "basename": "Mutex와 binary semaphore 같지 않다",
+      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
+    },
+    {
+      "basename": "뮤텍스(Mutex)",
+      "path": "영구노트/뮤텍스(Mutex).md"
+    },
+    {
+      "basename": "Java와 함께하는 Mutex 사용 예제",
+      "path": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
+    },
+    {
+      "basename": "파일 디스크립터",
+      "path": "영구노트/파일 디스크립터.md"
     },
     {
       "basename": "2024-01-28",
@@ -33,14 +85,6 @@
       "path": "영구노트/서비스 수준 용어.md"
     },
     {
-      "basename": "프로세스",
-      "path": "Resources/IT/운영체제/프로세스.md"
-    },
-    {
-      "basename": "네트워크 IO Models",
-      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
-    },
-    {
       "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
       "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
     },
@@ -55,50 +99,6 @@
     {
       "basename": "level triggered(draw)",
       "path": "Excalidraw/level triggered(draw).md"
-    },
-    {
-      "basename": "Edge Triggered(draw)",
-      "path": "Excalidraw/Edge Triggered(draw).md"
-    },
-    {
-      "basename": "non-blocking Io(draw)",
-      "path": "Excalidraw/non-blocking Io(draw).md"
-    },
-    {
-      "basename": "IO multiplexing(draw)",
-      "path": "Excalidraw/IO multiplexing(draw).md"
-    },
-    {
-      "basename": "Synchronous Blocking IO 과정(draw)",
-      "path": "Excalidraw/Synchronous Blocking IO 과정(draw).md"
-    },
-    {
-      "basename": "Blocking IO",
-      "path": "영구노트/Blocking IO.md"
-    },
-    {
-      "basename": "시스템 콜",
-      "path": "영구노트/시스템 콜.md"
-    },
-    {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
-    },
-    {
-      "basename": "백엔드 서버 소켓(draw)",
-      "path": "Excalidraw/백엔드 서버 소켓(draw).md"
-    },
-    {
-      "basename": "네트워크 소켓 통신(draw)",
-      "path": "Excalidraw/네트워크 소켓 통신(draw).md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "2024-01-23",
-      "path": "데일리/2024-01-23.md"
     }
   ],
   "omittedPaths": [],
