@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "IO Multiplexing",
+      "path": "연습노트/IO Multiplexing.md"
+    },
+    {
       "basename": "Non-Block IO",
       "path": "연습노트/Non-Block IO.md"
     },
     {
       "basename": "Block IO",
-      "path": "연습노트/Block IO.md"
+      "path": "영구노트/Block IO.md"
     },
     {
       "basename": "OS 관점 Block IO 과정(draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "2024-01-22",
       "path": "데일리/2024-01-22.md"
-    },
-    {
-      "basename": "프로그래밍으로 데드락 해결하기",
-      "path": "영구노트/프로그래밍으로 데드락 해결하기.md"
     }
   ],
   "omittedPaths": [],

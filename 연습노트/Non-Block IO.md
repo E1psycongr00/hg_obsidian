@@ -21,7 +21,7 @@ Blocked IO는 [[Kernel]]에서 read 동작시 [[시스템 콜]]을 요청한 Thr
 
 커널이 IO 작업이 끝났는지 확인하는 작업 종류에 따라 **Non-Blocking** 방식이 달라진다.
 
-1. 완료되었는지 지속적인 요청으로 확인
+1. 폴링(완료되었는지 지속적인 요청으로 확인)
 2. IO multiplexing
 3. callback & signal
 
@@ -35,6 +35,7 @@ Blocked IO는 [[Kernel]]에서 read 동작시 [[시스템 콜]]을 요청한 Thr
 - [[시스템 콜]]
 - [[인터럽트와 시스템 콜 동작 과정]]
 - [[Kernel|커널]]
+- [[IO Multiplexing]]
 
 
 

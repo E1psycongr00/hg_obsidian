@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c9141cc1e526f76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/IO Multiplexing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Non-Block IO.md",
+                "file": "연습노트/IO Multiplexing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Non-Block IO.md",
+                "file": "연습노트/IO Multiplexing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Non-Block IO.md",
+                "file": "연습노트/IO Multiplexing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Non-Block IO.md"
+                "file": "연습노트/IO Multiplexing.md"
               }
             }
           },
@@ -225,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Non-Block IO.md"
+                "file": "연습노트/IO Multiplexing.md"
               }
             }
           },
@@ -261,10 +275,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d5309b6d12b7f36b",
+  "active": "4c9141cc1e526f76",
   "lastOpenFiles": [
-    "연습노트/Block IO.md",
     "연습노트/Non-Block IO.md",
+    "연습노트/IO Multiplexing.md",
+    "영구노트/Block IO.md",
     "Excalidraw/OS 관점 Block IO 과정(draw).md",
     "영구노트/시스템 콜.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
@@ -288,7 +303,6 @@
     "Resources/IT/java/Java 공부.md",
     "영구노트/Java Record 사용법.md",
     "영구노트/instanceof 패턴 매칭.md",
-    "데일리/2024-01-22.md",
     "attachments/screenshot/Pasted image 20240122172234.png",
     "attachments/screenshot/Pasted image 20240122171946.png",
     "attachments/screenshot/Pasted image 20240122171914.png",
