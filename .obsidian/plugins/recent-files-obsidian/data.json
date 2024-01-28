@@ -5,6 +5,14 @@
       "path": "연습노트/IO Multiplexing.md"
     },
     {
+      "basename": "level triggered(draw)",
+      "path": "Excalidraw/level triggered(draw).md"
+    },
+    {
+      "basename": "Edge Triggered(draw)",
+      "path": "Excalidraw/Edge Triggered(draw).md"
+    },
+    {
       "basename": "파일 디스크립터",
       "path": "영구노트/파일 디스크립터.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "원형큐 구현하기",
       "path": "영구노트/원형큐 구현하기.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "Java Record 사용법",
-      "path": "영구노트/Java Record 사용법.md"
     }
   ],
   "omittedPaths": [],
