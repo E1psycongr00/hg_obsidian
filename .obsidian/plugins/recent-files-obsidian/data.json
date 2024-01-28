@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "파일 디스크립터",
+      "path": "연습노트/파일 디스크립터.md"
+    },
+    {
       "basename": "Non-Block IO",
       "path": "연습노트/Non-Block IO.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "instanceof 패턴 매칭",
       "path": "영구노트/instanceof 패턴 매칭.md"
-    },
-    {
-      "basename": "2024-01-22",
-      "path": "데일리/2024-01-22.md"
     }
   ],
   "omittedPaths": [],
