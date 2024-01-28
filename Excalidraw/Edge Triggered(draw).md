@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Edge Triggered ^8Cij027o
+
 %%
 # Drawing
 ```json
@@ -255,6 +257,43 @@ tags: [excalidraw]
 					1.060547267973185
 				]
 			]
+		},
+		{
+			"id": "8Cij027o",
+			"type": "text",
+			"x": -265.25,
+			"y": -64.2421875,
+			"width": 146.7798614501953,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 334998807,
+			"version": 19,
+			"versionNonce": 665279383,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706431369215,
+			"link": null,
+			"locked": false,
+			"text": "Edge Triggered",
+			"rawText": "Edge Triggered",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Edge Triggered",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {

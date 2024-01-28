@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+Level Triggered ^fVYhJwds
+
 %%
 # Drawing
 ```json
@@ -258,6 +260,43 @@ tags: [excalidraw]
 					1.060547267973185
 				]
 			]
+		},
+		{
+			"id": "fVYhJwds",
+			"type": "text",
+			"x": -70.25,
+			"y": -133.2421875,
+			"width": 150.53985595703125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1360940153,
+			"version": 41,
+			"versionNonce": 244352537,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706431360012,
+			"link": null,
+			"locked": false,
+			"text": "Level Triggered",
+			"rawText": "Level Triggered",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "Level Triggered",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
