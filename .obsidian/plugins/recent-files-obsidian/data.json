@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Block IO",
-      "path": "영구노트/Block IO.md"
+      "basename": "IO Multiplexing",
+      "path": "연습노트/IO Multiplexing.md"
+    },
+    {
+      "basename": "Non-Blocking IO",
+      "path": "연습노트/Non-Blocking IO.md"
+    },
+    {
+      "basename": "Blocking IO",
+      "path": "영구노트/Blocking IO.md"
+    },
+    {
+      "basename": "non-blocking Io(draw)",
+      "path": "Excalidraw/non-blocking Io(draw).md"
     },
     {
       "basename": "Synchronous Blocking IO 과정(draw)",
       "path": "Excalidraw/Synchronous Blocking IO 과정(draw).md"
-    },
-    {
-      "basename": "Non-Block IO",
-      "path": "연습노트/Non-Block IO.md"
-    },
-    {
-      "basename": "IO Multiplexing",
-      "path": "연습노트/IO Multiplexing.md"
     },
     {
       "basename": "파일 디스크립터",
@@ -27,10 +31,6 @@
     {
       "basename": "인터럽트와 시스템 콜 동작 과정",
       "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
-    },
-    {
-      "basename": "non-block Io(draw)",
-      "path": "Excalidraw/non-block Io(draw).md"
     },
     {
       "basename": "백엔드 서버 소켓(draw)",
