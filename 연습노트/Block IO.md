@@ -37,8 +37,9 @@ aliases:
 >
 >![[OS 관점 Block IO 과정(draw)|600]]
 
+위의 그림과 같인 **Read**라는 시스템 콜을 호출하면 응답 전까지 Block되고 쓰레드는 아무런 역할을 하지 않고 Block 된다.
 
-
+소켓 입장에서는 buffer의 상태에 따라 read 또는 write라는 시스템 콜을 요청한 쓰레드가 Blocked 될 수 있다. 소켓에는 sendBuffer와 receiveBuffer가 있는데 받는 소켓의 경우에는 recv 버퍼가 비어있다면 계속 대기하고, 소켓에 쓰는 요청을 보냈을 경우 writeBuffer가 가득 차있다면 대기한다.
 
 
 

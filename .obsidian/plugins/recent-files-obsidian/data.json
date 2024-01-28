@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Non-Block IO",
+      "path": "연습노트/Non-Block IO.md"
+    },
+    {
+      "basename": "non-block Io(draw)",
+      "path": "Excalidraw/non-block Io(draw).md"
+    },
+    {
       "basename": "Block IO",
       "path": "연습노트/Block IO.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Socket",
-      "path": "연습노트/Socket.md"
     },
     {
       "basename": "2024-01-23",
@@ -95,10 +99,6 @@
     {
       "basename": "프로그래밍으로 데드락 해결하기",
       "path": "영구노트/프로그래밍으로 데드락 해결하기.md"
-    },
-    {
-      "basename": "DeadLock",
-      "path": "영구노트/DeadLock.md"
     }
   ],
   "omittedPaths": [],

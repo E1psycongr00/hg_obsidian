@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "d5309b6d12b7f36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Non-Block IO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc823a3920bf2703",
             "type": "leaf",
             "state": {
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Block IO.md",
+                "file": "연습노트/Non-Block IO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Block IO.md",
+                "file": "연습노트/Non-Block IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Block IO.md",
+                "file": "연습노트/Non-Block IO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Block IO.md"
+                "file": "연습노트/Non-Block IO.md"
               }
             }
           },
@@ -235,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Block IO.md"
+                "file": "연습노트/Non-Block IO.md"
               }
             }
           },
@@ -271,15 +285,17 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2b898380cdb8672b",
+  "active": "d5309b6d12b7f36b",
   "lastOpenFiles": [
-    "Excalidraw/OS 관점 Block IO 과정(draw).md",
+    "Excalidraw/non-block Io(draw).md",
     "연습노트/Block IO.md",
+    "Excalidraw/OS 관점 Block IO 과정(draw).md",
+    "연습노트/Non-Block IO.md",
+    "연습노트/Socket.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "Excalidraw/백엔드 서버 소켓(draw).md",
     "Excalidraw/네트워크 소켓 통신(draw).md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Socket.md",
     "데일리/2024-01-23.md",
     "영구노트/OS 쓰레드.md",
     "영구노트/시스템 콜.md",
@@ -297,8 +313,6 @@
     "영구노트/Java Record 사용법.md",
     "영구노트/instanceof 패턴 매칭.md",
     "데일리/2024-01-22.md",
-    "영구노트/프로그래밍으로 데드락 해결하기.md",
-    "영구노트/DeadLock.md",
     "attachments/screenshot/Pasted image 20240122172234.png",
     "attachments/screenshot/Pasted image 20240122171946.png",
     "attachments/screenshot/Pasted image 20240122171914.png",
