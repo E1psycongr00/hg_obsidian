@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/2707. Extra Characters in a String.md",
+                "file": "영구노트/어노테이션 @Target.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#솔루션",
+                "query": "annotation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/2707. Extra Characters in a String.md",
+                "file": "영구노트/어노테이션 @Target.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/2707. Extra Characters in a String.md",
+                "file": "영구노트/어노테이션 @Target.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/2707. Extra Characters in a String.md",
+                "file": "영구노트/어노테이션 @Target.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/2707. Extra Characters in a String.md"
+                "file": "영구노트/어노테이션 @Target.md"
               }
             }
           },
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/2707. Extra Characters in a String.md"
+                "file": "영구노트/어노테이션 @Target.md"
               }
             }
           },
@@ -263,8 +262,8 @@
   },
   "active": "64d2b61583ff509e",
   "lastOpenFiles": [
-    "Excalidraw/2707 extra characters in a string(draw).md",
     "영구노트/2707. Extra Characters in a String.md",
+    "Excalidraw/2707 extra characters in a string(draw).md",
     "연습노트/Java의 데몬 쓰레드.md",
     "영구노트/Thread.join().md",
     "영구노트/Java 쓰레드 상태.md",
