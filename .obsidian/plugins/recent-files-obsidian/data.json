@@ -5,6 +5,18 @@
       "path": "연습노트/Trie.md"
     },
     {
+      "basename": "Trie car step 3(draw)",
+      "path": "Excalidraw/Trie car step 3(draw).md"
+    },
+    {
+      "basename": "Trie korean step 2(draw)",
+      "path": "Excalidraw/Trie korean step 2(draw).md"
+    },
+    {
+      "basename": "Trie kor step 1(draw)",
+      "path": "Excalidraw/Trie kor step 1(draw).md"
+    },
+    {
       "basename": "2707. Extra Characters in a String",
       "path": "영구노트/2707. Extra Characters in a String.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "뮤텍스(Mutex)",
       "path": "영구노트/뮤텍스(Mutex).md"
-    },
-    {
-      "basename": "Java와 함께하는 Mutex 사용 예제",
-      "path": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
-    },
-    {
-      "basename": "파일 디스크립터",
-      "path": "영구노트/파일 디스크립터.md"
-    },
-    {
-      "basename": "2024-01-28",
-      "path": "데일리/2024-01-28.md"
     }
   ],
   "omittedPaths": [],
