@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "Thread.join()",
+      "path": "영구노트/Thread.join().md"
+    },
+    {
+      "basename": "Java 쓰레드 상태",
+      "path": "영구노트/Java 쓰레드 상태.md"
+    },
+    {
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
+    },
+    {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "세마포어",
+      "path": "영구노트/세마포어.md"
+    },
+    {
+      "basename": "시스템 콜 레퍼런스",
+      "path": "영구노트/시스템 콜 레퍼런스.md"
     },
     {
       "basename": "프로세스",
@@ -79,26 +99,6 @@
     {
       "basename": "2024-01-24",
       "path": "데일리/2024-01-24.md"
-    },
-    {
-      "basename": "서비스 수준 용어",
-      "path": "영구노트/서비스 수준 용어.md"
-    },
-    {
-      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
-      "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
-    },
-    {
-      "basename": "IO Multiplexing",
-      "path": "영구노트/IO Multiplexing.md"
-    },
-    {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
-    },
-    {
-      "basename": "level triggered(draw)",
-      "path": "Excalidraw/level triggered(draw).md"
     }
   ],
   "omittedPaths": [],
