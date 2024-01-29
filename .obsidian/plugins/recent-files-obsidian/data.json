@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Java의 데몬 쓰레드",
+      "path": "연습노트/Java의 데몬 쓰레드.md"
+    },
+    {
       "basename": "Thread.join()",
       "path": "영구노트/Thread.join().md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "2024-01-25",
       "path": "데일리/2024-01-25.md"
-    },
-    {
-      "basename": "2024-01-24",
-      "path": "데일리/2024-01-24.md"
     }
   ],
   "omittedPaths": [],
