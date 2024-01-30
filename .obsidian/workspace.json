@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "28daed29ac2c26f4",
+        "id": "9392f08c688d902d",
         "type": "tabs",
         "children": [
           {
-            "id": "64d2b61583ff509e",
+            "id": "0f22bb15e4934f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/2707. Extra Characters in a String.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a9c1303bdfebd89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Trie.md",
+                "file": "연습노트/DBMS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Trie.md",
+                "file": "연습노트/DBMS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Trie.md",
+                "file": "연습노트/DBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Trie.md",
+                "file": "연습노트/DBMS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Trie.md"
+                "file": "연습노트/DBMS.md"
               }
             }
           },
@@ -239,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Trie.md"
+                "file": "연습노트/DBMS.md"
               }
             }
           },
@@ -275,13 +261,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "0a9c1303bdfebd89",
+  "active": "0f22bb15e4934f3f",
   "lastOpenFiles": [
+    "영구노트/2707. Extra Characters in a String.md",
+    "영구노트/Trie.md",
+    "연습노트/DBMS.md",
     "Excalidraw/Trie car step 3(draw).md",
-    "연습노트/Trie.md",
     "Excalidraw/Trie korean step 2(draw).md",
     "Excalidraw/Trie kor step 1(draw).md",
-    "영구노트/2707. Extra Characters in a String.md",
     "영구노트/어노테이션 @Target.md",
     "Excalidraw/2707 extra characters in a string(draw).md",
     "연습노트/Java의 데몬 쓰레드.md",
@@ -305,7 +292,6 @@
     "영구노트/Monitor 동기화 메커니즘.md",
     "영구노트/Java Monitor.md",
     "영구노트/Mutex와 binary semaphore 같지 않다.md",
-    "영구노트/뮤텍스(Mutex).md",
     "Resources/IT/운영체제",
     "attachments/screenshot/Pasted image 20240128165823.png",
     "attachments/screenshot/Pasted image 20240122172234.png",
