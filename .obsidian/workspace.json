@@ -11,14 +11,12 @@
             "id": "21c0e15ab81c0a2d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 140,
-                  "y": -100,
-                  "zoom": 0
-                }
+                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "Resources/IT/운영체제/네트워크 IO Models.md"
               }
             }
           },
@@ -217,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "Resources/IT/운영체제/네트워크 IO Models.md"
               }
             }
           },
@@ -256,10 +254,11 @@
   },
   "active": "21c0e15ab81c0a2d",
   "lastOpenFiles": [
-    "Excalidraw/네트워크 소켓 통신(draw).md",
-    "무제 파일.canvas",
-    "Excalidraw/2707 extra characters in a string(draw).md",
     "Resources/IT/운영체제/동기화 모음.md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "무제 파일.canvas",
+    "Excalidraw/네트워크 소켓 통신(draw).md",
+    "Excalidraw/2707 extra characters in a string(draw).md",
     "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
     "영구노트/승자가 되기 위해서는... by donald trump.md",
     "영구노트/본능의 목소리에 귀울여라... by donald trump.md",
@@ -268,7 +267,6 @@
     "Excalidraw/2d array constant value query (draw).md",
     "영구노트/IO Multiplexing.md",
     "영구노트/파일 디스크립터.md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
     "영구노트/단속 카메라 문제.md",
     "영구노트/니콜라스 루만.md",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
