@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DeadLock",
-      "path": "영구노트/DeadLock.md"
+      "basename": "광고 삽입",
+      "path": "영구노트/광고 삽입.md"
+    },
+    {
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
     {
       "basename": "네트워크 IO Models",
       "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+    },
+    {
+      "basename": "프로그래밍으로 데드락 해결하기",
+      "path": "영구노트/프로그래밍으로 데드락 해결하기.md"
+    },
+    {
+      "basename": "DeadLock",
+      "path": "영구노트/DeadLock.md"
+    },
+    {
+      "basename": "Dead Lock 예시2(draw)",
+      "path": "Excalidraw/Dead Lock 예시2(draw).md"
     },
     {
       "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
@@ -27,10 +43,6 @@
     {
       "basename": "@Valid와 @Validated 차이",
       "path": "영구노트/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
     {
       "basename": "1D array constant time query update",
@@ -55,10 +67,6 @@
     {
       "basename": "구간합 문제 모음",
       "path": "영구노트/구간합 문제 모음.md"
-    },
-    {
-      "basename": "광고 삽입",
-      "path": "영구노트/광고 삽입.md"
     },
     {
       "basename": "공부가 아니라 배움이다  by 타일러",
@@ -91,14 +99,6 @@
     {
       "basename": "IO Multiplexing",
       "path": "영구노트/IO Multiplexing.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Java 시간 관련 라이브러리 다루기",
-      "path": "영구노트/Java 시간 관련 라이브러리 다루기.md"
     }
   ],
   "omittedPaths": [],
