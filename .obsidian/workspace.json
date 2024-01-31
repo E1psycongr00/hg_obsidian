@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9392f08c688d902d",
+        "id": "ae753dc021ab85c4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f22bb15e4934f3f",
+            "id": "8b8ed319c05d641e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/725. Split LinkedList in Parts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/725. Split LinkedList in Parts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/725. Split LinkedList in Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/725. Split LinkedList in Parts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/DBMS.md"
+                "file": "연습노트/725. Split LinkedList in Parts.md"
               }
             }
           },
@@ -217,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/DBMS.md"
+                "file": "연습노트/725. Split LinkedList in Parts.md"
               }
             }
           },
@@ -253,11 +261,13 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "8b8ed319c05d641e",
   "lastOpenFiles": [
+    "README.md",
     "영구노트/2707. Extra Characters in a String.md",
-    "영구노트/Trie.md",
+    "연습노트/725. Split LinkedList in Parts.md",
     "연습노트/DBMS.md",
+    "영구노트/Trie.md",
     "Excalidraw/Trie car step 3(draw).md",
     "Excalidraw/Trie korean step 2(draw).md",
     "Excalidraw/Trie kor step 1(draw).md",
@@ -282,8 +292,6 @@
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "영구노트/Spurious Wake up.md",
     "영구노트/Monitor 동기화 메커니즘.md",
-    "영구노트/Java Monitor.md",
-    "영구노트/Mutex와 binary semaphore 같지 않다.md",
     "Resources/IT/운영체제",
     "attachments/screenshot/Pasted image 20240128165823.png",
     "attachments/screenshot/Pasted image 20240122172234.png",
