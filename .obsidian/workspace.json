@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/725. Split LinkedList in Parts.md",
+                "file": "영구노트/725. Split LinkedList in Parts.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "484673c80c66bbce",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +123,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
-              }
+              "state": {}
             }
           },
           {
@@ -269,41 +251,86 @@
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "484673c80c66bbce",
+  "floating": {
+    "id": "0eb48178e19f68b4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a0a52c906a074756",
+        "type": "window",
+        "children": [
+          {
+            "id": "2f8820be3d03fce4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c30acfefe8419a0c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Mapping mapper(draw).md"
+                  }
+                }
+              },
+              {
+                "id": "44ee6f2f4e93a77b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 704,
+        "y": 335,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "44ee6f2f4e93a77b",
   "lastOpenFiles": [
-    "연습노트/725. Split LinkedList in Parts.md",
-    "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "영구노트/725. Split LinkedList in Parts.md",
+    "영구노트/미로 탈출 명령어.md",
+    "영구노트/뮤텍스(Mutex).md",
+    "영구노트/무료와 독점 JDK 모음.md",
+    "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md",
+    "영구노트/메서드 return에 java bean validation 적용 및 테스트.md",
+    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+    "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
+    "영구노트/단속 카메라 문제.md",
+    "영구노트/니콜라스 루만.md",
+    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
+    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/나만의 노트 확장 방법.md",
+    "영구노트/나만의 노트 분리하기.md",
+    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+    "영구노트/구간합 문제 모음.md",
+    "영구노트/광고 삽입.md",
+    "영구노트/공부가 아니라 배움이다  by 타일러.md",
+    "영구노트/2D array constant time query update.md",
+    "영구노트/2차원 구간합, 부분합.md",
     "영구노트/2707. Extra Characters in a String.md",
-    "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md",
+    "영구노트/2022년 프로그래밍 별 통계.md",
+    "영구노트/1D array constant time query update.md",
+    "영구노트/@Valid와 @Validated 차이.md",
+    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "attachments/screenshot/Pasted image 20240131142121.png",
-    "README.md",
-    "연습노트/DBMS.md",
-    "영구노트/Trie.md",
-    "Excalidraw/Trie car step 3(draw).md",
-    "Excalidraw/Trie korean step 2(draw).md",
-    "Excalidraw/Trie kor step 1(draw).md",
-    "영구노트/어노테이션 @Target.md",
-    "Excalidraw/2707 extra characters in a string(draw).md",
-    "연습노트/Java의 데몬 쓰레드.md",
-    "영구노트/Thread.join().md",
-    "영구노트/Java 쓰레드 상태.md",
-    "영구노트/Kernel Level Thread vs User Level Thread.md",
     "attachments/screenshot/Pasted image 20240129124911.png",
     "attachments/screenshot/Pasted image 20240129124652.png",
     "attachments/screenshot/Pasted image 20240129123850.png",
-    "templates/참조 노트 템플릿.md",
-    "영구노트/세마포어.md",
-    "영구노트/시스템 콜 레퍼런스.md",
-    "Resources/IT/운영체제/프로세스.md",
-    "영구노트/프로세스 스케줄링.md",
-    "영구노트/CPU 스케줄러.md",
-    "영구노트/CPU 스케줄링 알고리즘.md",
-    "Resources/IT/운영체제/동기화 모음.md",
-    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "Resources/IT/운영체제",
     "attachments/screenshot/Pasted image 20240128165823.png",
     "attachments/screenshot/Pasted image 20240122172234.png",
