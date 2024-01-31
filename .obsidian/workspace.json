@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ae753dc021ab85c4",
+        "id": "dee25c4f9cc58a7d",
         "type": "tabs",
         "children": [
           {
-            "id": "8b8ed319c05d641e",
+            "id": "24da6081751cfa9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/725. Split LinkedList in Parts.md",
-                "mode": "source",
+                "file": "영구노트/DeadLock.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "annotation",
+                "query": "뮤텍스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -88,7 +88,6 @@
       {
         "id": "1838285c49809bd3",
         "type": "tabs",
-        "dimension": 55.769230769230774,
         "children": [
           {
             "id": "fbb43720530e7e29",
@@ -96,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구노트/DeadLock.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구노트/DeadLock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "57b6e74ab5c2820d",
+            "id": "25671b33c51bb992",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "영구노트/DeadLock.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,12 +142,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5359795996225944,
+                  "scale": 0.7132754626224422,
                   "close": true
                 }
               }
@@ -156,14 +158,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1ba31598b52f486f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
@@ -183,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "영구노트/DeadLock.md"
+              }
             }
           },
           {
@@ -199,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
-        "id": "350459afc1252945",
+        "id": "ade53ac82dc849c4",
         "type": "tabs",
-        "dimension": 44.230769230769226,
         "children": [
           {
             "id": "6c5936d8ec472ac8",
@@ -219,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "영구노트/DeadLock.md"
+              }
             }
           },
           {
@@ -230,8 +227,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,78 +251,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "0eb48178e19f68b4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a0a52c906a074756",
-        "type": "window",
-        "children": [
-          {
-            "id": "2f8820be3d03fce4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c30acfefe8419a0c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Mapping mapper(draw).md"
-                  }
-                }
-              },
-              {
-                "id": "44ee6f2f4e93a77b",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 704,
-        "y": 335,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "44ee6f2f4e93a77b",
+  "active": "24da6081751cfa9b",
   "lastOpenFiles": [
-    "영구노트/725. Split LinkedList in Parts.md",
-    "영구노트/미로 탈출 명령어.md",
+    "영구노트/Race Condition.md",
     "영구노트/뮤텍스(Mutex).md",
-    "영구노트/무료와 독점 JDK 모음.md",
-    "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md",
-    "영구노트/메서드 return에 java bean validation 적용 및 테스트.md",
-    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
-    "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
-    "영구노트/단속 카메라 문제.md",
-    "영구노트/니콜라스 루만.md",
-    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
-    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/Mutex와 binary semaphore 같지 않다.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "뮤텍스.md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "영구노트/IO Multiplexing.md",
     "영구노트/나만의 노트 확장 방법.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "영구노트/Java 시간 관련 라이브러리 다루기.md",
+    "Resources/Obsidian/Obsidian 관련 내용.md",
+    "Resources/Obsidian/Obsidian.md",
+    "Resources/Obsidian/제텔카스텐.md",
+    "Resources/IT/Gradle 공부.md",
+    "Resources/IT/Github.md",
+    "Resources/IT/알고리즘.md",
+    "Resources/IT/부하 테스트.md",
+    "Resources/IT/java/Spring JDBC.md",
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "Resources/IT/java/Java Annotation.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/표준 Java Error.md",
+    "Resources/IT/운영체제/프로세스.md",
+    "Resources/명언/명언 모음.canvas",
+    "Resources/명언/명언 모음.md",
     "영구노트/나만의 노트 분리하기.md",
-    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "영구노트/구간합 문제 모음.md",
-    "영구노트/광고 삽입.md",
-    "영구노트/공부가 아니라 배움이다  by 타일러.md",
-    "영구노트/2D array constant time query update.md",
-    "영구노트/2차원 구간합, 부분합.md",
-    "영구노트/2707. Extra Characters in a String.md",
-    "영구노트/2022년 프로그래밍 별 통계.md",
-    "영구노트/1D array constant time query update.md",
-    "영구노트/@Valid와 @Validated 차이.md",
-    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "attachments/screenshot/Pasted image 20240131142121.png",
     "attachments/screenshot/Pasted image 20240129124911.png",
     "attachments/screenshot/Pasted image 20240129124652.png",
@@ -338,7 +291,6 @@
     "attachments/screenshot/Pasted image 20240122171914.png",
     "attachments/screenshot/Pasted image 20240122155931.png",
     "attachments/screenshot/Pasted image 20240122155837.png",
-    "Resources/명언/명언 모음.canvas",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "나의 마일스톤/2024년",
     "나의 마일스톤",
