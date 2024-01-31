@@ -11,13 +11,8 @@
             "id": "21c0e15ab81c0a2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/운영체제/네트워크 IO Models.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Resources/IT/운영체제/네트워크 IO Models.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "ade53ac82dc849c4",
@@ -214,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/IT/운영체제/네트워크 IO Models.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,8 +242,8 @@
   },
   "active": "21c0e15ab81c0a2d",
   "lastOpenFiles": [
-    "Resources/IT/운영체제/동기화 모음.md",
     "Resources/IT/운영체제/네트워크 IO Models.md",
+    "Resources/IT/운영체제/동기화 모음.md",
     "무제 파일.canvas",
     "Excalidraw/네트워크 소켓 통신(draw).md",
     "Excalidraw/2707 extra characters in a string(draw).md",
