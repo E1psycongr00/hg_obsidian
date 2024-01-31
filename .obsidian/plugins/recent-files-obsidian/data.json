@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "링크드 리스트 노드 쪼개기(draw)",
+      "path": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
+    },
+    {
       "basename": "725. Split LinkedList in Parts",
       "path": "연습노트/725. Split LinkedList in Parts.md"
     },
     {
-      "basename": "최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw)",
-      "path": "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "네트워크 IO Models",
+      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
     },
     {
       "basename": "2707. Extra Characters in a String",
       "path": "영구노트/2707. Extra Characters in a String.md"
+    },
+    {
+      "basename": "최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw)",
+      "path": "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md"
     },
     {
       "basename": "Trie",
@@ -83,10 +87,6 @@
     {
       "basename": "동기화 모음",
       "path": "Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "네트워크 IO Models",
-      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
     },
     {
       "basename": "인터럽트와 시스템 콜 동작 과정",

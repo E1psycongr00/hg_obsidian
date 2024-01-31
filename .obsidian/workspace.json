@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "484673c80c66bbce",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/725. Split LinkedList in Parts.md",
+                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/725. Split LinkedList in Parts.md",
+                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/725. Split LinkedList in Parts.md",
+                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/725. Split LinkedList in Parts.md"
+                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
               }
             }
           },
@@ -225,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/725. Split LinkedList in Parts.md"
+                "file": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
               }
             }
           },
@@ -261,13 +272,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "8b8ed319c05d641e",
+  "active": "484673c80c66bbce",
   "lastOpenFiles": [
-    "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md",
     "연습노트/725. Split LinkedList in Parts.md",
+    "Excalidraw/링크드 리스트 노드 쪼개기(draw).md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "영구노트/2707. Extra Characters in a String.md",
+    "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md",
     "attachments/screenshot/Pasted image 20240131142121.png",
     "README.md",
-    "영구노트/2707. Extra Characters in a String.md",
     "연습노트/DBMS.md",
     "영구노트/Trie.md",
     "Excalidraw/Trie car step 3(draw).md",
@@ -290,9 +303,7 @@
     "영구노트/CPU 스케줄러.md",
     "영구노트/CPU 스케줄링 알고리즘.md",
     "Resources/IT/운영체제/동기화 모음.md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
-    "영구노트/Spurious Wake up.md",
     "Resources/IT/운영체제",
     "attachments/screenshot/Pasted image 20240128165823.png",
     "attachments/screenshot/Pasted image 20240122172234.png",
