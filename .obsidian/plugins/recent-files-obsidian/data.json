@@ -5,6 +5,10 @@
       "path": "연습노트/725. Split LinkedList in Parts.md"
     },
     {
+      "basename": "최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw)",
+      "path": "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Monitor 동기화 메커니즘",
       "path": "영구노트/Monitor 동기화 메커니즘.md"
-    },
-    {
-      "basename": "Java Monitor",
-      "path": "영구노트/Java Monitor.md"
     }
   ],
   "omittedPaths": [],
