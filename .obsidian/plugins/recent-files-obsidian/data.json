@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "Mutex와 binary semaphore 같지 않다",
+      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
+    },
+    {
+      "basename": "뮤텍스(Mutex)",
+      "path": "영구노트/뮤텍스(Mutex).md"
+    },
+    {
+      "basename": "Non-Blocking IO",
+      "path": "영구노트/Non-Blocking IO.md"
+    },
+    {
+      "basename": "네트워크 IO Models",
+      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.canvas"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
-      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
     },
     {
-      "basename": "때로는 승부에서 패배해봐야 .... by donald trump",
-      "path": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "단속 카메라 예제1(draw)",
+      "path": "Excalidraw/단속 카메라 예제1(draw).md"
     },
     {
       "basename": "단속 카메라 문제",
       "path": "영구노트/단속 카메라 문제.md"
+    },
+    {
+      "basename": "메서드 return에 java bean validation 적용 및 테스트",
+      "path": "영구노트/메서드 return에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "범용 EnumConverter 만들기",
+      "path": "영구노트/범용 EnumConverter 만들기.md"
+    },
+    {
+      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
+      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
     },
     {
       "basename": "니콜라스 루만",
@@ -29,76 +73,32 @@
       "path": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md"
     },
     {
-      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
-      "path": "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md"
-    },
-    {
       "basename": "나만의 제텔카스텐 기법+ 옵시디언",
       "path": "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md"
-    },
-    {
-      "basename": "나만의 노트 확장 방법",
-      "path": "영구노트/나만의 노트 확장 방법.md"
     },
     {
       "basename": "나만의 노트 분리하기",
       "path": "영구노트/나만의 노트 분리하기.md"
     },
     {
-      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
-      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
-    },
-    {
-      "basename": "구간합 문제 모음",
-      "path": "영구노트/구간합 문제 모음.md"
-    },
-    {
-      "basename": "광고 삽입",
-      "path": "영구노트/광고 삽입.md"
-    },
-    {
-      "basename": "공부가 아니라 배움이다  by 타일러",
-      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
-    },
-    {
-      "basename": "725. Split LinkedList in Parts",
-      "path": "영구노트/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "2D array constant time query update",
-      "path": "영구노트/2D array constant time query update.md"
-    },
-    {
-      "basename": "2차원 구간합, 부분합",
-      "path": "영구노트/2차원 구간합, 부분합.md"
-    },
-    {
-      "basename": "2707. Extra Characters in a String",
-      "path": "영구노트/2707. Extra Characters in a String.md"
-    },
-    {
-      "basename": "2022년 프로그래밍 별 통계",
-      "path": "영구노트/2022년 프로그래밍 별 통계.md"
-    },
-    {
-      "basename": "1D array constant time query update",
-      "path": "영구노트/1D array constant time query update.md"
-    },
-    {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "영구노트/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+      "basename": "미로 탈출 명령어",
+      "path": "영구노트/미로 탈출 명령어.md"
     },
     {
       "basename": "무료와 독점 JDK 모음",
       "path": "영구노트/무료와 독점 JDK 모음.md"
+    },
+    {
+      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
+      "path": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
+    },
+    {
+      "basename": "때로는 승부에서 패배해봐야 .... by donald trump",
+      "path": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
+      "path": "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md"
     }
   ],
   "omittedPaths": [],
