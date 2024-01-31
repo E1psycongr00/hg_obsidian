@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-09
 작성 시간: 11:21
 
-## 주제: #완성  #IT #JAVA #Lombok
+#완성 #IT #JAVA #Lombok
 
 ----
 ## 내용(Content)

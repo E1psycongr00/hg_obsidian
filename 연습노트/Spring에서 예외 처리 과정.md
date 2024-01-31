@@ -1,7 +1,7 @@
 작성 날짜: 2024-01-02
 작성 시간: 22:27
 
-## 주제: #미완 #Spring #Validation 
+#미완 #Spring #Validation 
 
 ----
 ## 내용(Content)

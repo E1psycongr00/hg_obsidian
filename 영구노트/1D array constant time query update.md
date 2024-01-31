@@ -7,7 +7,7 @@ tags:
 작성 날짜: 2023-11-03
 작성 시간: 11:43
 
-## 주제: #완성  #IT #알고리즘 #PrefixSum 
+#완성  #IT #알고리즘 #PrefixSum 
 
 ----
 ## 내용(Content)

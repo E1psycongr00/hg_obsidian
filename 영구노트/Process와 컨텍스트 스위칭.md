@@ -10,7 +10,7 @@ aliases:
 작성 날짜: 2024-01-05
 작성 시간: 20:08
 
-## 주제: #완성 #OS #Process #Thread 
+#완성 #OS #Process #Thread 
 
 ----
 ## 내용(Content)
@@ -38,7 +38,7 @@ aliases:
 >
 
 >[!info] PCB
->[[PCB(Process Controll Block|PCB]]는 프로세스에 대한 정보를 가지고 있는 임시 저장소이다. 프로세스 생성시 생성되며 수명을 함께 한다. 
+>[[PCB(Process Controll Block)|PCB]]는 프로세스에 대한 정보를 가지고 있는 임시 저장소이다. 프로세스 생성시 생성되며 수명을 함께 한다. 
 
 
 ### OverHead
@@ -58,7 +58,7 @@ aliases:
 
 
 ## 연결 노트
-- [[PCB(Process Controll Block]]
+- [[PCB(Process Controll Block)]]
 - [[CPU의 작업 처리 방식 (병렬성과 동시성)]]
 
 

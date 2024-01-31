@@ -10,7 +10,7 @@ aliases:
 작성 날짜: 2024-01-21
 작성 시간: 23:30
 
-## 주제: #완성 #OS #Thread 
+#완성 #OS #Thread 
 
 ----
 ## 내용(Content)

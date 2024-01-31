@@ -10,7 +10,7 @@ aliases:
 작성 날짜: 2023-12-17
 작성 시간: 20:03
 
-## 주제: #완성 #Go #Thread
+#완성 #Go #Thread
 
 ----
 ## 내용(Content)

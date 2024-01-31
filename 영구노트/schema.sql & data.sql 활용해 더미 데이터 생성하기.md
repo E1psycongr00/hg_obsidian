@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-13
 작성 시간: 16:23
 
-## 주제: #완성 #JAVA #Spring #SQL
+#완성 #JAVA #Spring #SQL
 
 ----
 ## 내용(Content)

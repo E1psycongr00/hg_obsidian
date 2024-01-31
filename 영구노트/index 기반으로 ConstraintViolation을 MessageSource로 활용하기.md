@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-08
 작성 시간: 20:37
 
-## 주제: #완성 #Spring #Validation
+#완성 #Spring #Validation
 
 ----
 ## 내용(Content)

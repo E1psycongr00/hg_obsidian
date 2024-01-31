@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-18
 작성 시간: 12:19
 
-## 주제: #완성 #Docker #Grafana #인프라 
+#완성 #Docker #Grafana #인프라 
 ----
 ## 내용(Content)
 ### influxdb와 grafana를 연결하는 이유

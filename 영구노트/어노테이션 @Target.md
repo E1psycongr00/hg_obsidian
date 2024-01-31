@@ -1,7 +1,7 @@
 작성 날짜: 2023-11-10
 작성 시간: 14:57
 
-## 주제: #완성  #IT #JAVA #Annotation
+#완성  #IT #JAVA #Annotation
 
 ----
 ## 내용(Content)

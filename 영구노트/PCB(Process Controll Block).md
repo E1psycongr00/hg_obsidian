@@ -11,7 +11,7 @@ aliases:
 작성 날짜: 2024-01-05
 작성 시간: 20:09
 
-## 주제: #완성 #OS #Process #PCB 
+#완성 #OS #Process #PCB 
 
 ----
 ## 내용(Content)

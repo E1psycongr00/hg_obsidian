@@ -9,7 +9,7 @@ aliases:
 작성 날짜: 2024-01-16
 작성 시간: 20:28
 
-## 주제: #완성 #솔루션 #JAVA #OS #Process #Synchronization 
+#완성 #솔루션 #JAVA #OS #Process #Synchronization 
 
 ----
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/운영체제/동기화 모음.md",
-                "mode": "preview",
+                "file": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/운영체제/동기화 모음.md",
+                "file": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/운영체제/동기화 모음.md",
+                "file": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/운영체제/동기화 모음.md",
+                "file": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/IT/운영체제/동기화 모음.md"
+                "file": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/운영체제/동기화 모음.md"
+                "file": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
               }
             }
           },
@@ -254,33 +254,33 @@
   },
   "active": "e2438a56ff7c1bd9",
   "lastOpenFiles": [
-    "영구노트/Mutex와 binary semaphore 같지 않다.md",
-    "영구노트/뮤텍스(Mutex).md",
+    "영구노트/Spring bean validation 예외 분석.md",
+    "영구노트/Spring Bean Validation 소개.md",
+    "영구노트/Spin Lock (스핀 락).md",
+    "영구노트/SOLID란 무엇인가.md",
+    "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md",
+    "영구노트/ResultSetExtractor와 RowMapper 차이.md",
+    "영구노트/Race Condition.md",
+    "영구노트/Querydsl 소개.md",
+    "영구노트/Process와 컨텍스트 스위칭.md",
+    "영구노트/Polling(폴링).md",
+    "영구노트/PCB(Process Controll Block).md",
+    "영구노트/parameter에 java bean validation 적용 및 테스트.md",
+    "영구노트/OS에서 데드락 문제 해결하기.md",
+    "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
+    "영구노트/OS 쓰레드.md",
+    "영구노트/Obsidian tasks 쿼리 문법.md",
+    "영구노트/Obsidian Media Extend plugin 사용법.md",
+    "영구노트/Obsidian 콜아웃 종류.md",
     "영구노트/Non-Blocking IO.md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "index.md",
+    "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md",
+    "영구노트/network (network name) declared as external, but could not be found.md",
+    "영구노트/Mutex와 binary semaphore 같지 않다.md",
+    "영구노트/Monitor 동기화 메커니즘.md",
+    "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md",
+    "영구노트/Minor GC(Young) vs Major GC(Old).md",
+    "영구노트/MethodArgumentNotValidException이란.md",
     "무제 파일.canvas",
-    "README.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
-    "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
-    "영구노트/단속 카메라 문제.md",
-    "영구노트/니콜라스 루만.md",
-    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
-    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
-    "영구노트/나만의 노트 확장 방법.md",
-    "영구노트/나만의 노트 분리하기.md",
-    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "영구노트/구간합 문제 모음.md",
-    "영구노트/광고 삽입.md",
-    "영구노트/공부가 아니라 배움이다  by 타일러.md",
-    "영구노트/725. Split LinkedList in Parts.md",
-    "영구노트/2D array constant time query update.md",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted image 20240131142121.png",
     "attachments/screenshot/Pasted image 20240129124911.png",

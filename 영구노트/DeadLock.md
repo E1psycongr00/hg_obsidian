@@ -11,7 +11,7 @@ aliases:
 작성 날짜: 2024-01-22
 작성 시간: 14:15
 
-## 주제: #완성 #OS #Process #CPU #Synchronization 
+#완성 #OS #Process #CPU #Synchronization 
 
 ----
 ## 내용(Content)

@@ -10,7 +10,7 @@ aliases:
 작성 날짜: 2024-01-10
 작성 시간: 19:45
 
-## 주제: #완성 #OS #Process #Thread #Synchronization
+#완성 #OS #Process #Thread #Synchronization
 
 
 ----

@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "동기화 모음",
-      "path": "Resources/IT/운영체제/동기화 모음.md"
+      "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
+      "path": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
     },
     {
-      "basename": "Mutex와 binary semaphore 같지 않다",
-      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
+      "basename": "Spring bean validation 예외 분석",
+      "path": "영구노트/Spring bean validation 예외 분석.md"
     },
     {
-      "basename": "뮤텍스(Mutex)",
-      "path": "영구노트/뮤텍스(Mutex).md"
+      "basename": "Spring Bean Validation 소개",
+      "path": "영구노트/Spring Bean Validation 소개.md"
+    },
+    {
+      "basename": "Spin Lock (스핀 락)",
+      "path": "영구노트/Spin Lock (스핀 락).md"
+    },
+    {
+      "basename": "SOLID란 무엇인가",
+      "path": "영구노트/SOLID란 무엇인가.md"
+    },
+    {
+      "basename": "schema.sql & data.sql 활용해 더미 데이터 생성하기",
+      "path": "영구노트/schema.sql & data.sql 활용해 더미 데이터 생성하기.md"
+    },
+    {
+      "basename": "ResultSetExtractor와 RowMapper 차이",
+      "path": "영구노트/ResultSetExtractor와 RowMapper 차이.md"
+    },
+    {
+      "basename": "Race Condition",
+      "path": "영구노트/Race Condition.md"
+    },
+    {
+      "basename": "Querydsl 소개",
+      "path": "영구노트/Querydsl 소개.md"
+    },
+    {
+      "basename": "Process와 컨텍스트 스위칭",
+      "path": "영구노트/Process와 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "Polling(폴링)",
+      "path": "영구노트/Polling(폴링).md"
+    },
+    {
+      "basename": "PCB(Process Controll Block)",
+      "path": "영구노트/PCB(Process Controll Block).md"
+    },
+    {
+      "basename": "parameter에 java bean validation 적용 및 테스트",
+      "path": "영구노트/parameter에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "OS에서 데드락 문제 해결하기",
+      "path": "영구노트/OS에서 데드락 문제 해결하기.md"
+    },
+    {
+      "basename": "OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍)",
+      "path": "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md"
+    },
+    {
+      "basename": "OS 쓰레드",
+      "path": "영구노트/OS 쓰레드.md"
+    },
+    {
+      "basename": "Obsidian tasks 쿼리 문법",
+      "path": "영구노트/Obsidian tasks 쿼리 문법.md"
+    },
+    {
+      "basename": "Obsidian Media Extend plugin 사용법",
+      "path": "영구노트/Obsidian Media Extend plugin 사용법.md"
+    },
+    {
+      "basename": "Obsidian 콜아웃 종류",
+      "path": "영구노트/Obsidian 콜아웃 종류.md"
     },
     {
       "basename": "Non-Blocking IO",
       "path": "영구노트/Non-Blocking IO.md"
     },
     {
-      "basename": "네트워크 IO Models",
-      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+      "basename": "No - Op GC (Epsilon 가비지 컬렉터)",
+      "path": "영구노트/No - Op GC (Epsilon 가비지 컬렉터).md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+      "basename": "network (network name) declared as external, but could not be found",
+      "path": "영구노트/network (network name) declared as external, but could not be found.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Mutex와 binary semaphore 같지 않다",
+      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.canvas"
+      "basename": "Monitor 동기화 메커니즘",
+      "path": "영구노트/Monitor 동기화 메커니즘.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "단속 카메라 예제1(draw)",
-      "path": "Excalidraw/단속 카메라 예제1(draw).md"
-    },
-    {
-      "basename": "단속 카메라 문제",
-      "path": "영구노트/단속 카메라 문제.md"
-    },
-    {
-      "basename": "메서드 return에 java bean validation 적용 및 테스트",
-      "path": "영구노트/메서드 return에 java bean validation 적용 및 테스트.md"
-    },
-    {
-      "basename": "범용 EnumConverter 만들기",
-      "path": "영구노트/범용 EnumConverter 만들기.md"
-    },
-    {
-      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
-      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
-    },
-    {
-      "basename": "니콜라스 루만",
-      "path": "영구노트/니콜라스 루만.md"
-    },
-    {
-      "basename": "네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein",
-      "path": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 기법+ 옵시디언",
-      "path": "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md"
-    },
-    {
-      "basename": "나만의 노트 분리하기",
-      "path": "영구노트/나만의 노트 분리하기.md"
-    },
-    {
-      "basename": "미로 탈출 명령어",
-      "path": "영구노트/미로 탈출 명령어.md"
-    },
-    {
-      "basename": "무료와 독점 JDK 모음",
-      "path": "영구노트/무료와 독점 JDK 모음.md"
-    },
-    {
-      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
-      "path": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
-    },
-    {
-      "basename": "때로는 승부에서 패배해봐야 .... by donald trump",
-      "path": "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
-      "path": "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md"
+      "basename": "MockMvc 영어 출력을 한글 출력으로 바꾸기",
+      "path": "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md"
     }
   ],
   "omittedPaths": [],

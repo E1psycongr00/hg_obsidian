@@ -9,7 +9,7 @@ aliases:
 작성 날짜: 2024-01-17
 작성 시간: 01:31
 
-## 주제: #완성 #Synchronization #OS #CPU 
+#완성 #Synchronization #OS #CPU 
 
 ----
 ## 내용(Content)

@@ -1,7 +1,7 @@
 작성 날짜: 2023-12-02
 작성 시간: 16:01
 
-## 주제: #완성 #솔루션 #Python #OAuth #Flask
+#완성 #솔루션 #Python #OAuth #Flask
 
 ----
 

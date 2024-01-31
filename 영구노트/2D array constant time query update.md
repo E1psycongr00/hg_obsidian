@@ -7,7 +7,7 @@ aliases:
 작성 날짜: 2023-11-04
 작성 시간: 13:45
 
-## 주제: #완성 #알고리즘 #PrefixSum 
+#완성 #알고리즘 #PrefixSum 
 
 ----
 ## 내용(Content)

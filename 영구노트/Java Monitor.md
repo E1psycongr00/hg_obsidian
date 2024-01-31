@@ -8,7 +8,7 @@ aliases:
 작성 날짜: 2024-01-20
 작성 시간: 19:17
 
-## 주제: #완성 #CS #JAVA #Synchronization 
+#완성 #CS #JAVA #Synchronization 
 
 ----
 ## 내용(Content)

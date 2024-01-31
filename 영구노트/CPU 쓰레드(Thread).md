@@ -11,7 +11,7 @@ aliases:
 작성 날짜: 2024-01-03
 작성 시간: 17:20
 
-## 주제: #완성 #CS #CPU #Thread
+#완성 #CS #CPU #Thread
 
 ----
 ## 내용(Content)
