@@ -11,9 +11,14 @@
             "id": "21c0e15ab81c0a2d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/2707 extra characters in a string(draw).md"
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 140,
+                  "y": -100,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -92,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/2707 extra characters in a string(draw).md",
+                "file": "무제 파일.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/2707 extra characters in a string(draw).md",
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/2707 extra characters in a string(draw).md",
+                "file": "무제 파일.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/2707 extra characters in a string(draw).md"
+                "file": "무제 파일.canvas"
               }
             }
           },
@@ -212,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/2707 extra characters in a string(draw).md"
+                "file": "무제 파일.canvas"
               }
             }
           },
@@ -251,6 +256,9 @@
   },
   "active": "21c0e15ab81c0a2d",
   "lastOpenFiles": [
+    "Excalidraw/네트워크 소켓 통신(draw).md",
+    "무제 파일.canvas",
+    "Excalidraw/2707 extra characters in a string(draw).md",
     "Resources/IT/운영체제/동기화 모음.md",
     "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
     "영구노트/승자가 되기 위해서는... by donald trump.md",
@@ -258,7 +266,6 @@
     "영구노트/때로는 승부에서 패배해봐야 .... by donald trump.md",
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md",
     "Excalidraw/2d array constant value query (draw).md",
-    "Excalidraw/2707 extra characters in a string(draw).md",
     "영구노트/IO Multiplexing.md",
     "영구노트/파일 디스크립터.md",
     "Resources/IT/운영체제/네트워크 IO Models.md",
@@ -275,9 +282,6 @@
     "영구노트/725. Split LinkedList in Parts.md",
     "영구노트/2D array constant time query update.md",
     "영구노트/2차원 구간합, 부분합.md",
-    "영구노트/2707. Extra Characters in a String.md",
-    "영구노트/2022년 프로그래밍 별 통계.md",
-    "무제 파일.canvas",
     "Resources/명언/명언 모음.canvas",
     "attachments/screenshot/Pasted image 20240131142121.png",
     "attachments/screenshot/Pasted image 20240129124911.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.canvas"
+    },
+    {
+      "basename": "네트워크 소켓 통신(draw)",
+      "path": "Excalidraw/네트워크 소켓 통신(draw).md"
+    },
+    {
       "basename": "2707 extra characters in a string(draw)",
       "path": "Excalidraw/2707 extra characters in a string(draw).md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "2D array constant time query update",
       "path": "영구노트/2D array constant time query update.md"
-    },
-    {
-      "basename": "2차원 구간합, 부분합",
-      "path": "영구노트/2차원 구간합, 부분합.md"
-    },
-    {
-      "basename": "2707. Extra Characters in a String",
-      "path": "영구노트/2707. Extra Characters in a String.md"
     }
   ],
   "omittedPaths": [],
