@@ -7,7 +7,7 @@ aliases:
 작성 날짜: 2024-01-29
 작성 시간: 12:37
 
-## 주제: #완성 #JAVA #Thread 
+#완성 #JAVA #Thread 
 
 ----
 ## 내용(Content)
