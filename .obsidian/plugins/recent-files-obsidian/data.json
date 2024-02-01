@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Process와 컨텍스트 스위칭",
-      "path": "영구노트/Process와 컨텍스트 스위칭.md"
+      "basename": "무제 파일",
+      "path": "무제 파일.canvas"
     },
     {
-      "basename": "Spin Lock (스핀 락)",
-      "path": "영구노트/Spin Lock (스핀 락).md"
+      "basename": "Blocking IO",
+      "path": "영구노트/Blocking IO.md"
     },
     {
-      "basename": "동기화 모음",
-      "path": "Resources/IT/운영체제/동기화 모음.md"
+      "basename": "네트워크 IO Models",
+      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+    },
+    {
+      "basename": "지식보다 중요한 것은 상상력이다 by Einstein",
+      "path": "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md"
     },
     {
       "basename": "명언 모음",
@@ -21,84 +25,80 @@
       "path": "Resources/명언/명언 모음.canvas"
     },
     {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
+      "basename": "네 자신의 무지를 절대 과소평가하지 마라 by Einstein",
+      "path": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md"
     },
     {
-      "basename": "네트워크 IO Models",
-      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+      "basename": "Java 파일 읽기",
+      "path": "영구노트/Java 파일 읽기.md"
     },
     {
-      "basename": "Spurious Wake up",
-      "path": "영구노트/Spurious Wake up.md"
+      "basename": "Java 파일 쓰기",
+      "path": "영구노트/Java 파일 쓰기.md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+      "basename": "Java 파일 다루기",
+      "path": "영구노트/Java 파일 다루기.md"
     },
     {
-      "basename": "세마포어",
-      "path": "영구노트/세마포어.md"
+      "basename": "java.nio.file.Path 사용하기",
+      "path": "영구노트/java.nio.file.Path 사용하기.md"
     },
     {
-      "basename": "Monitor 동기화 메커니즘",
-      "path": "영구노트/Monitor 동기화 메커니즘.md"
+      "basename": "java.nio.file.Files 사용하기",
+      "path": "영구노트/java.nio.file.Files 사용하기.md"
     },
     {
-      "basename": "Java Monitor",
-      "path": "영구노트/Java Monitor.md"
+      "basename": "Java 공부",
+      "path": "Resources/IT/java/Java 공부.md"
     },
     {
-      "basename": "Blocking IO",
-      "path": "영구노트/Blocking IO.md"
+      "basename": "프로세스가 메모리에 저장되는 과정(draw)",
+      "path": "Excalidraw/프로세스가 메모리에 저장되는 과정(draw).md"
     },
     {
-      "basename": "Race Condition",
-      "path": "영구노트/Race Condition.md"
+      "basename": "CPU 스케줄러",
+      "path": "영구노트/CPU 스케줄러.md"
     },
     {
-      "basename": "DeadLock",
-      "path": "영구노트/DeadLock.md"
-    },
-    {
-      "basename": "프로그래밍으로 데드락 해결하기",
-      "path": "영구노트/프로그래밍으로 데드락 해결하기.md"
+      "basename": "CPU 스케줄링 알고리즘",
+      "path": "영구노트/CPU 스케줄링 알고리즘.md"
     },
     {
       "basename": "OS에서 데드락 문제 해결하기",
       "path": "영구노트/OS에서 데드락 문제 해결하기.md"
     },
     {
-      "basename": "IO Multiplexing",
-      "path": "영구노트/IO Multiplexing.md"
+      "basename": "Race Condition",
+      "path": "영구노트/Race Condition.md"
     },
     {
-      "basename": "승자가 되기 위해서는 by donald trump",
-      "path": "영구노트/승자가 되기 위해서는 by donald trump.md"
+      "basename": "뮤텍스(Mutex)",
+      "path": "영구노트/뮤텍스(Mutex).md"
     },
     {
-      "basename": "본능의 목소리에 귀울여라 by donald trump",
-      "path": "영구노트/본능의 목소리에 귀울여라 by donald trump.md"
+      "basename": "Mutex와 binary semaphore 같지 않다",
+      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
     },
     {
-      "basename": "때로는 승부에서 패배해봐야  by donald trump",
-      "path": "영구노트/때로는 승부에서 패배해봐야  by donald trump.md"
+      "basename": "Java와 함께하는 Mutex 사용 예제",
+      "path": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "세마포어",
+      "path": "영구노트/세마포어.md"
     },
     {
-      "basename": "Obsidian 관련 내용",
-      "path": "Resources/Obsidian/Obsidian 관련 내용.md"
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
     },
     {
-      "basename": "Obsidian",
-      "path": "Resources/Obsidian/Obsidian.md"
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
-      "basename": "제텔카스텐",
-      "path": "Resources/Obsidian/제텔카스텐.md"
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     }
   ],
   "omittedPaths": [],

@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f3aac199aeead4",
+        "id": "bf709bbc2723c8f8",
         "type": "tabs",
         "children": [
           {
-            "id": "debfd14640942b01",
+            "id": "93b9f203937ca347",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": -820,
+                  "y": 480.29640606563026,
+                  "zoom": -1.9999999999999998
+                }
+              }
             }
           }
         ]
@@ -34,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "os 데드락 문제",
+                "query": "tag:#OS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제 파일.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "무제 파일.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "무제 파일.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,12 +144,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224421,
+                  "scale": 0.7132754626224431,
                   "close": true
                 }
               }
@@ -169,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "무제 파일.canvas"
+              }
             }
           },
           {
@@ -204,7 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제 파일.canvas"
+              }
             }
           },
           {
@@ -240,37 +254,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "debfd14640942b01",
+  "active": "93b9f203937ca347",
   "lastOpenFiles": [
-    "영구노트/Process와 컨텍스트 스위칭.md",
-    "영구노트/Spin Lock (스핀 락).md",
-    "Resources/IT/운영체제/동기화 모음.md",
+    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
+    "무제 파일.canvas",
+    "영구노트/Blocking IO.md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
     "Resources/명언/명언 모음.md",
     "Resources/명언/명언 모음.canvas",
-    "영구노트/Non-Blocking IO.md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
-    "영구노트/Spurious Wake up.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "영구노트/세마포어.md",
-    "영구노트/Monitor 동기화 메커니즘.md",
-    "영구노트/Java Monitor.md",
-    "영구노트/Blocking IO.md",
-    "영구노트/Race Condition.md",
-    "영구노트/DeadLock.md",
-    "영구노트/프로그래밍으로 데드락 해결하기.md",
+    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
+    "영구노트/Java 파일 읽기.md",
+    "영구노트/Java 파일 쓰기.md",
+    "영구노트/Java 파일 다루기.md",
+    "영구노트/java.nio.file.Path 사용하기.md",
+    "영구노트/java.nio.file.Files 사용하기.md",
+    "Resources/IT/java/Java 공부.md",
+    "Excalidraw/프로세스가 메모리에 저장되는 과정(draw).md",
+    "영구노트/CPU 스케줄러.md",
+    "영구노트/CPU 스케줄링 알고리즘.md",
     "영구노트/OS에서 데드락 문제 해결하기.md",
-    "영구노트/IO Multiplexing.md",
-    "영구노트/승자가 되기 위해서는 by donald trump.md",
-    "영구노트/본능의 목소리에 귀울여라 by donald trump.md",
-    "영구노트/때로는 승부에서 패배해봐야  by donald trump.md",
-    "index.md",
-    "Resources/Obsidian/Obsidian 관련 내용.md",
-    "Resources/Obsidian/Obsidian.md",
-    "Resources/Obsidian/제텔카스텐.md",
-    "Resources/IT/Gradle 공부.md",
-    "Resources/IT/Github.md",
+    "영구노트/Race Condition.md",
+    "영구노트/뮤텍스(Mutex).md",
+    "영구노트/Mutex와 binary semaphore 같지 않다.md",
+    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
+    "영구노트/세마포어.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "영구노트/Process와 컨텍스트 스위칭.md",
+    "영구노트/Spin Lock (스핀 락).md",
     "Excalidraw/2d array constant value query (draw).svg",
-    "무제 파일.canvas",
     "Excalidraw/user mode kernel mode interface(draw).svg",
     "Excalidraw/VisualVM DeadLock 설명(draw).svg",
     "Excalidraw/UnionFind예제2(draw).svg",
