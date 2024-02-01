@@ -24,7 +24,7 @@ Kernel ^qBgLRqMC
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "line",
@@ -305,8 +305,8 @@ Kernel ^qBgLRqMC
 		},
 		{
 			"type": "ellipse",
-			"version": 448,
-			"versionNonce": 647536185,
+			"version": 449,
+			"versionNonce": 907633371,
 			"isDeleted": false,
 			"id": "yTqoJrPv94ROePJ2K4eNk",
 			"fillStyle": "hachure",
@@ -316,7 +316,7 @@ Kernel ^qBgLRqMC
 			"opacity": 100,
 			"angle": 0,
 			"x": -293.2027703480942,
-			"y": 78.25781249999999,
+			"y": 78.2578125,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 117,
@@ -333,7 +333,7 @@ Kernel ^qBgLRqMC
 					"id": "rASKRZ3G"
 				}
 			],
-			"updated": 1702820561514,
+			"updated": 1706754966050,
 			"link": null,
 			"locked": false
 		},
@@ -552,8 +552,8 @@ Kernel ^qBgLRqMC
 		},
 		{
 			"type": "ellipse",
-			"version": 565,
-			"versionNonce": 1568718073,
+			"version": 566,
+			"versionNonce": 4083579,
 			"isDeleted": false,
 			"id": "lXpgESsEwx9CVu0Q4HXqV",
 			"fillStyle": "hachure",
@@ -563,7 +563,7 @@ Kernel ^qBgLRqMC
 			"opacity": 100,
 			"angle": 0,
 			"x": -123.75,
-			"y": 75.60360689252337,
+			"y": 75.60360689252336,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 117,
@@ -580,14 +580,14 @@ Kernel ^qBgLRqMC
 					"id": "gdeWU87P"
 				}
 			],
-			"updated": 1702820571860,
+			"updated": 1706754966050,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 962,
-			"versionNonce": 2083567065,
+			"version": 963,
+			"versionNonce": 1549576219,
 			"isDeleted": false,
 			"id": "gdeWU87P",
 			"fillStyle": "hachure",
@@ -596,7 +596,7 @@ Kernel ^qBgLRqMC
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -92.65326043232318,
+			"x": -92.6532604323232,
 			"y": 129.97314616357573,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -607,7 +607,7 @@ Kernel ^qBgLRqMC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702820571860,
+			"updated": 1706754966050,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.210526315789473,
@@ -623,8 +623,8 @@ Kernel ^qBgLRqMC
 		},
 		{
 			"type": "ellipse",
-			"version": 582,
-			"versionNonce": 1873724151,
+			"version": 583,
+			"versionNonce": 543616187,
 			"isDeleted": false,
 			"id": "CBFuMG9-Bfgvbg5Vk4uLP",
 			"fillStyle": "hachure",
@@ -634,7 +634,7 @@ Kernel ^qBgLRqMC
 			"opacity": 100,
 			"angle": 0,
 			"x": 38.25,
-			"y": 73.60360689252336,
+			"y": 73.60360689252337,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 117,
@@ -651,14 +651,14 @@ Kernel ^qBgLRqMC
 					"id": "gIopRBxh"
 				}
 			],
-			"updated": 1702820566677,
+			"updated": 1706754966050,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 981,
-			"versionNonce": 1357466647,
+			"version": 982,
+			"versionNonce": 1073716571,
 			"isDeleted": false,
 			"id": "gIopRBxh",
 			"fillStyle": "hachure",
@@ -668,7 +668,7 @@ Kernel ^qBgLRqMC
 			"opacity": 100,
 			"angle": 0,
 			"x": 69.3467395676768,
-			"y": 127.97314616357573,
+			"y": 127.97314616357572,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 55.07502746582031,
@@ -678,7 +678,7 @@ Kernel ^qBgLRqMC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702820566677,
+			"updated": 1706754966050,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.210526315789473,
@@ -694,8 +694,8 @@ Kernel ^qBgLRqMC
 		},
 		{
 			"type": "ellipse",
-			"version": 562,
-			"versionNonce": 2016784695,
+			"version": 563,
+			"versionNonce": 377043451,
 			"isDeleted": false,
 			"id": "iZ2Xqz6FIvTPAD9f-YiVG",
 			"fillStyle": "hachure",
@@ -705,7 +705,7 @@ Kernel ^qBgLRqMC
 			"opacity": 100,
 			"angle": 0,
 			"x": 218.25,
-			"y": 73.60360689252337,
+			"y": 73.60360689252336,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 117,
@@ -722,14 +722,14 @@ Kernel ^qBgLRqMC
 					"id": "qBgLRqMC"
 				}
 			],
-			"updated": 1702820566677,
+			"updated": 1706754966050,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 962,
-			"versionNonce": 2130211415,
+			"version": 963,
+			"versionNonce": 1893089947,
 			"isDeleted": false,
 			"id": "qBgLRqMC",
 			"fillStyle": "hachure",
@@ -739,7 +739,7 @@ Kernel ^qBgLRqMC
 			"opacity": 100,
 			"angle": 0,
 			"x": 249.34673956767682,
-			"y": 127.97314616357573,
+			"y": 127.97314616357572,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 55.07502746582031,
@@ -749,7 +749,7 @@ Kernel ^qBgLRqMC
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702820566677,
+			"updated": 1706754966050,
 			"link": null,
 			"locked": false,
 			"fontSize": 19.210526315789473,
@@ -779,10 +779,10 @@ Kernel ^qBgLRqMC
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 515.75,
-		"scrollY": 474.7578125,
+		"scrollX": 322.68973991716734,
+		"scrollY": 402.5931902258567,
 		"zoom": {
-			"value": 1
+			"value": 1.5
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

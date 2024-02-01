@@ -34,7 +34,7 @@ aliases:
 
 ### 유저 모드와 커널 모드의 관계
 
-![[user mode kernel mode interface(draw)|600]]
+![[user mode kernel mode interface(draw).svg|600]]
 
 >[!note] 동작 과정
 >1. 유저 모드에서 application을 실행한다

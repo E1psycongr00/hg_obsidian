@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "프로세스의 한계 및 쓰레드 등장",
-      "path": "영구노트/프로세스의 한계 및 쓰레드 등장.md"
+      "basename": "프로세스",
+      "path": "Resources/IT/운영체제/프로세스.md"
     },
     {
-      "basename": "Chrome 을 이용해 동시 멀티 작업(draw)",
-      "path": "Excalidraw/Chrome 을 이용해 동시 멀티 작업(draw).md"
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
     },
     {
-      "basename": "프로세스 스케줄링",
-      "path": "영구노트/프로세스 스케줄링.md"
+      "basename": "공부가 아니라 배움이다  by 타일러",
+      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
     },
     {
-      "basename": "프로세스 상태 전이",
-      "path": "영구노트/프로세스 상태 전이.md"
+      "basename": "구간합 문제 모음",
+      "path": "영구노트/구간합 문제 모음.md"
     },
     {
-      "basename": "프로세스 & 스레드 정의",
-      "path": "영구노트/프로세스 & 스레드 정의.md"
+      "basename": "index",
+      "path": "index.md"
     },
     {
-      "basename": "프로세스 & 스레드 메모리 구조",
-      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
+      "basename": "네트워크 소켓 통신(draw)",
+      "path": "Excalidraw/네트워크 소켓 통신(draw).md"
     },
     {
-      "basename": "Process와 Thread 메모리 관계(draw)",
-      "path": "Excalidraw/Process와 Thread 메모리 관계(draw).md"
-    },
-    {
-      "basename": "프로세스가 메모리에 저장되는 과정(draw)",
-      "path": "Excalidraw/프로세스가 메모리에 저장되는 과정(draw).md"
-    },
-    {
-      "basename": "Process 메모리 구조(draw)",
-      "path": "Excalidraw/Process 메모리 구조(draw).md"
-    },
-    {
-      "basename": "프로그래밍으로 데드락 해결하기",
-      "path": "영구노트/프로그래밍으로 데드락 해결하기.md"
+      "basename": "user mode kernel mode interface(draw)",
+      "path": "Excalidraw/user mode kernel mode interface(draw).svg"
     },
     {
       "basename": "VisualVM DeadLock 설명(draw)",
       "path": "Excalidraw/VisualVM DeadLock 설명(draw).md"
     },
     {
-      "basename": "파일 디스크립터",
-      "path": "영구노트/파일 디스크립터.md"
+      "basename": "VisualVM DeadLock 설명(draw)",
+      "path": "Excalidraw/VisualVM DeadLock 설명(draw).svg"
     },
     {
-      "basename": "클래스의 테스트 커버리지가 채워지지 않는 경우 해결법",
-      "path": "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md"
+      "basename": "UnionFind merge 최적화",
+      "path": "영구노트/UnionFind merge 최적화.md"
     },
     {
-      "basename": "컴파일(compile)과 빌드(build) 개념",
-      "path": "영구노트/컴파일(compile)과 빌드(build) 개념.md"
+      "basename": "UnionFind예제2(draw)",
+      "path": "Excalidraw/UnionFind예제2(draw).md"
     },
     {
-      "basename": "java의 build 과정 순서도(draw)",
-      "path": "Excalidraw/java의 build 과정 순서도(draw).md"
+      "basename": "JVM 구조",
+      "path": "영구노트/JVM 구조.md"
     },
     {
-      "basename": "linux C의 build 과정 순서도(draw)",
-      "path": "Excalidraw/linux C의 build 과정 순서도(draw).md"
+      "basename": "Runtime Data Area 구성(draw)",
+      "path": "Excalidraw/Runtime Data Area 구성(draw).md"
     },
     {
-      "basename": "지식보다 중요한 것은 상상력이다... by Einstein",
-      "path": "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md"
+      "basename": "Java List 유틸 메서드 by Collections",
+      "path": "영구노트/Java List 유틸 메서드 by Collections.md"
     },
     {
-      "basename": "제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다",
-      "path": "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md"
+      "basename": "rotate array(draw)",
+      "path": "Excalidraw/rotate array(draw).md"
     },
     {
-      "basename": "제텔 카스텐 기법이 생산성이 높은 이유",
-      "path": "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md"
+      "basename": "Process와 컨텍스트 스위칭",
+      "path": "영구노트/Process와 컨텍스트 스위칭.md"
     },
     {
-      "basename": "제텔 카스텐 기법",
-      "path": "영구노트/제텔 카스텐 기법.md"
+      "basename": "Dynamic IP and Static IP(draw)",
+      "path": "Excalidraw/Dynamic IP and Static IP(draw).md"
     },
     {
-      "basename": "제텔 +카스텐 의미",
-      "path": "영구노트/제텔 +카스텐 의미.md"
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
     },
     {
-      "basename": "자바 9 ~ 11 이전까지 과정",
-      "path": "영구노트/자바 9 ~ 11 이전까지 과정.md"
+      "basename": "PCS 오버헤드(draw)",
+      "path": "Excalidraw/PCS 오버헤드(draw).md"
     },
     {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+      "basename": "PCB(Process Controll Block)",
+      "path": "영구노트/PCB(Process Controll Block).md"
     },
     {
-      "basename": "프로세스 상태 전이도(draw)",
-      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
+      "basename": "PCB 구조(draw)",
+      "path": "Excalidraw/PCB 구조(draw).md"
     },
     {
-      "basename": "인터럽트",
-      "path": "영구노트/인터럽트.md"
+      "basename": "Mapping mapper(draw)",
+      "path": "Excalidraw/Mapping mapper(draw).md"
+    },
+    {
+      "basename": "MessageCodesResolver code 우선순위(draw)",
+      "path": "Excalidraw/MessageCodesResolver code 우선순위(draw).md"
+    },
+    {
+      "basename": "IP(인터넷 프로토콜)",
+      "path": "영구노트/IP(인터넷 프로토콜).md"
+    },
+    {
+      "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
+      "path": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
     }
   ],
   "omittedPaths": [],

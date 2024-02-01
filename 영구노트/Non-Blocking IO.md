@@ -16,7 +16,7 @@ aliases:
 >[!summary] Non-Block IO == Synchronous non-blocking IO
 >프로세스/스레드를 Block 시키지 않고 요청에 대한 현재 상태를 즉시 리턴해서 User Process가 이어서 다른 일을 수행할 수 있는 메커니즘
 >
->![[non-blocking Io(draw)|600]]
+>![[non-blocking Io(draw).svg|600]]
 
 Blocked IO는 [[Kernel]]에서 read 동작시 [[시스템 콜]]을 요청한 Thread가 Block되지만 Non-Blocked IO의 경우 Block되지 않고 즉시 현재 상태를 리턴 후 Thread는 계속해서 동작한다. 차이점은 어떤 방법에 의해서 response을 응답 받은 사실을 알아내고 그 이후 다시 [[시스템 콜]]을 요청해 커널로부터 데이터를 받아온다.
 

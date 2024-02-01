@@ -12,7 +12,7 @@
 
 MessageCodesResolver는 단계적으로 코드를 생성하며, 세부적인 내용에서 범용적인 내용 순으로 우선 순위를 가지고 관리한다. 이 때문에 코드를 이용하여 평소에는 범용적으로 사용하다가 필요할 때 세부적인 예외를 작성할 수 있게 된다.
 
-![[MessageCodesResolver code 우선순위(draw)|700]]
+![[MessageCodesResolver code 우선순위(draw).svg]]
 
 ### MessageCodesResolver 구성
 Spring에서는 오류 메시지를 관리하기 위해서 `MessageCodesResolver` 를 사용한다. 기본 구현체는 DefaultMessageCodesResolver이다.

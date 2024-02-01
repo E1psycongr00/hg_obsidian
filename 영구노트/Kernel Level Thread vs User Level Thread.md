@@ -16,7 +16,7 @@ aliases:
 ## 내용(Content)
 ### 스레드 모델
 #### many-to-one
-![[many-to-one-thread model(draw)|300]]
+![[many-to-one-thread model(draw).svg|300]]
 
 **특징**
 많은 [[유저 쓰레드]]가 하나의 [[OS 쓰레드|커널 쓰레드]]를 활용함
@@ -36,7 +36,7 @@ aliases:
 
 
 #### one-to-one
-![[one-to-one thread model(draw)]]
+![[one-to-one thread model(draw).svg|300]]
 
 **특징**
 각 사용자 스레드와 커널 스레드가 1:1로 연결됨. 쓰레드 관리를 [[유저 쓰레드]] -> [[OS 쓰레드|커널 쓰레드]]로 위임하는 역할을 한다
@@ -52,7 +52,7 @@ aliases:
 >[!tip] race condition의 가능성
 >하나의 쓰레드가 Block 되더라도 여전히 다른 쓰레드의 동작이 문제가 없기 때문에 임계 영역에 여러 다른 쓰레드가 모두 접근하는 동기화 문제가 발생할 수 있다.
 #### many-to-many
-![[many-to-many thread model(draw)]]
+![[many-to-many thread model(draw).svg|300]]
 
 **특징**
 여러 개의 사용자 스레드를 그보다 적은 수 또는 같은 수의 Kernel Thread와 함께 다양한 작업을 효과적으로 관리하고 분배한다. 

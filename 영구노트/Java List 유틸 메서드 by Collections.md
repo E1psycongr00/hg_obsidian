@@ -88,7 +88,7 @@ Collections.rotate(list, -1);
 System.out.println(list);
 ```
 
-![[rotate array(draw)|700]]
+![[rotate array(draw).svg|700]]
 
 
 

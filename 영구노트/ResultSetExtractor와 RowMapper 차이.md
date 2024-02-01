@@ -20,7 +20,7 @@ public class Member {
 }
 ```
 
-![[RowMapper(draw)]]
+![[RowMapper(draw).svg|500]]
 
 
 만약 Member가 다른 외래키와의 관계가 조금 더 복잡하다면 다른 방법을 사용해야 한다.

@@ -26,17 +26,17 @@ aliases:
 >[!summary]- 소켓
 >네트워크 통신은 두 컴퓨터 간의 소켓을 통해 이루어진다. 양측 모두 소켓을 열어야 통신이 가능하다.
 >
->![[네트워크 소켓 통신(draw)]]
+>![[네트워크 소켓 통신(draw).svg|400]]
 
 >[!summary]- 백엔드 서버의 소켓
 >백엔드 서버에서는 네트워크 통신을 위해 여러 소켓이 존재하고 소켓을 열어야 다른 서버의 소켓을 통해 통신이 가능하다
->![[백엔드 서버 소켓(draw)]]
+>![[백엔드 서버 소켓(draw).svg|400]]
 
 ### Blocking IO 
 >[!summar] Blocking IO == Synchronous Blocking IO
 >I/O 작업을 요청한 프로세스/스레드가 요청 완료 전까지 Block됨
 >
->![[Synchronous Blocking IO 과정(draw)|600]]
+>![[Synchronous Blocking IO 과정(draw).svg|600]]
 
 위의 그림과 같인 **Read**라는 시스템 콜을 호출하면 응답 전까지 Block되고 쓰레드는 아무런 역할을 하지 않고 Block 된다.
 

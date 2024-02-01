@@ -47,7 +47,7 @@ public enum State {
 
 
 ### Java Thread 상태 전이도
-![[쓰레드 상태 전이도(draw)|700]]
+![[쓰레드 상태 전이도(draw).svg|700]]
 
 
 ## 질문 & 확장

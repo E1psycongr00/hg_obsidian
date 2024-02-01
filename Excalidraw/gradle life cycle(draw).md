@@ -22,7 +22,7 @@ build grade life cycle ^DSetJL3i
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -255,8 +255,8 @@ build grade life cycle ^DSetJL3i
 		},
 		{
 			"type": "arrow",
-			"version": 44,
-			"versionNonce": 521803704,
+			"version": 48,
+			"versionNonce": 19658165,
 			"isDeleted": false,
 			"id": "VUXtKLrMqc08iRLoqcazA",
 			"fillStyle": "hachure",
@@ -278,7 +278,7 @@ build grade life cycle ^DSetJL3i
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697541920756,
+			"updated": 1706754807303,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -307,8 +307,8 @@ build grade life cycle ^DSetJL3i
 		},
 		{
 			"type": "arrow",
-			"version": 34,
-			"versionNonce": 1246857656,
+			"version": 38,
+			"versionNonce": 163040373,
 			"isDeleted": false,
 			"id": "GOILy77p_ncnk5ezRrZzb",
 			"fillStyle": "hachure",
@@ -330,7 +330,7 @@ build grade life cycle ^DSetJL3i
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1697541920762,
+			"updated": 1706754807303,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -410,10 +410,10 @@ build grade life cycle ^DSetJL3i
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 897.8823529411764,
-		"scrollY": 500.28079044117646,
+		"scrollX": 934.7272727272726,
+		"scrollY": 735.5264455213903,
 		"zoom": {
-			"value": 0.8500000000000001
+			"value": 0.55
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

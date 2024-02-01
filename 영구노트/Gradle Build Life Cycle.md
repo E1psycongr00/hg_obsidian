@@ -12,7 +12,7 @@ Gradle은  종속성 순서대로 작업을 수행하고 단 한번만 작업이
 
 이 때 빌드 스크립트는 종속성 그래프를 구현하게 된다. 
 
-![[gradle life cycle(draw)|800]]
+![[gradle life cycle(draw).svg]]
 
 > **Initialization**
 > Gradle은 멀티 프로젝트를 빌드를 지원한다. 초기화 단계에서 Gradle은 참여할 프로젝트를 결정하고 이러한 각 프로젝트들에 대한 Project 인스턴스를 생성한다.

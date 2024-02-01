@@ -26,7 +26,7 @@ a ^4u47pL2G
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -342,8 +342,8 @@ a ^4u47pL2G
 		},
 		{
 			"type": "arrow",
-			"version": 265,
-			"versionNonce": 981372523,
+			"version": 267,
+			"versionNonce": 1965733883,
 			"isDeleted": false,
 			"id": "oaqCCCMm5a9UuOYlwMqqT",
 			"fillStyle": "hachure",
@@ -365,7 +365,7 @@ a ^4u47pL2G
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706571774752,
+			"updated": 1706755248801,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -398,8 +398,8 @@ a ^4u47pL2G
 		},
 		{
 			"type": "arrow",
-			"version": 167,
-			"versionNonce": 1375219627,
+			"version": 171,
+			"versionNonce": 2058564923,
 			"isDeleted": false,
 			"id": "PLYSYoaXZ4u3OtFgcVbRo",
 			"fillStyle": "hachure",
@@ -421,7 +421,7 @@ a ^4u47pL2G
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706571774752,
+			"updated": 1706755248802,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -450,8 +450,8 @@ a ^4u47pL2G
 		},
 		{
 			"type": "arrow",
-			"version": 153,
-			"versionNonce": 434798827,
+			"version": 157,
+			"versionNonce": 665674363,
 			"isDeleted": false,
 			"id": "Riydx0HJO-IVjaK1Z1z7S",
 			"fillStyle": "hachure",
@@ -473,7 +473,7 @@ a ^4u47pL2G
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706571774758,
+			"updated": 1706755248804,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -656,8 +656,8 @@ a ^4u47pL2G
 		},
 		{
 			"type": "arrow",
-			"version": 226,
-			"versionNonce": 1658516549,
+			"version": 230,
+			"versionNonce": 4639995,
 			"isDeleted": false,
 			"id": "0yXRbvrF_PWL4Jk7BxfUC",
 			"fillStyle": "hachure",
@@ -679,7 +679,7 @@ a ^4u47pL2G
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706571791237,
+			"updated": 1706755248808,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -708,8 +708,8 @@ a ^4u47pL2G
 		},
 		{
 			"type": "arrow",
-			"version": 260,
-			"versionNonce": 1783232747,
+			"version": 264,
+			"versionNonce": 1570174843,
 			"isDeleted": false,
 			"id": "xCHsS5QXpknFtMiD18atx",
 			"fillStyle": "hachure",
@@ -731,7 +731,7 @@ a ^4u47pL2G
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706571792180,
+			"updated": 1706755248813,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -774,10 +774,10 @@ a ^4u47pL2G
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 515.75,
-		"scrollY": 474.7578125,
+		"scrollX": 574.2307692307693,
+		"scrollY": 372.0655048076923,
 		"zoom": {
-			"value": 1
+			"value": 1.3
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

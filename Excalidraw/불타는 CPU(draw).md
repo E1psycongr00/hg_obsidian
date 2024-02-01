@@ -14,7 +14,7 @@ tags: [excalidraw]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -394,33 +394,38 @@ tags: [excalidraw]
 			"locked": false
 		},
 		{
-			"id": "0mFp3LoJCP33LhWZNn1dV",
 			"type": "line",
-			"x": 5.750000000000014,
-			"y": 191.7578125,
-			"width": 337,
-			"height": 313,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#e03131",
+			"version": 481,
+			"versionNonce": 948890704,
+			"isDeleted": false,
+			"id": "0mFp3LoJCP33LhWZNn1dV",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5.750000000000014,
+			"y": 191.7578125,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#e03131",
+			"width": 337,
+			"height": 313,
+			"seed": 2076333136,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 2076333136,
-			"version": 481,
-			"versionNonce": 948890704,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1704272132480,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
@@ -466,15 +471,7 @@ tags: [excalidraw]
 					0,
 					0
 				]
-			],
-			"lastCommittedPoint": [
-				0,
-				-4
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
+			]
 		},
 		{
 			"type": "line",
@@ -488,8 +485,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 67.28870195525855,
-			"y": 295.6149271596837,
+			"x": 9.279142989357183,
+			"y": 193.61598097385286,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#ffd43b",
 			"width": 210.87599115155638,
@@ -511,48 +508,48 @@ tags: [excalidraw]
 			"endArrowhead": null,
 			"points": [
 				[
-					-58.00955896590136,
-					-101.99894618583085
+					0,
+					0
 				],
 				[
-					-155,
-					-242.2168988802308
+					-96.99044103409864,
+					-140.21795269439994
 				],
 				[
-					-109.94637577770902,
-					-240.1945245625231
+					-51.93681681180766,
+					-138.19557837669225
 				],
 				[
-					-115.5780788054954,
-					-284.6867595520923
+					-57.56851983959403,
+					-182.68781336626148
 				],
 				[
-					-61.13828287022712,
-					-253.6770200139077
+					-3.12872390432576,
+					-151.67807382807686
 				],
 				[
-					-58.00955896590136,
-					-313
+					0,
+					-211.00105381416915
 				],
 				[
-					-22.342106456587672,
-					-256.37351910418465
+					35.66745250931369,
+					-154.3745729183538
 				],
 				[
-					15.202580395321476,
-					-294.1245063680616
+					73.21213936122284,
+					-192.12556018223074
 				],
 				[
-					15.828325176186638,
-					-244.91339797050773
+					73.837884142088,
+					-142.91445178467688
 				],
 				[
-					55.87599115155639,
-					-248.28402183335388
+					113.88555011745775,
+					-146.28507564752303
 				],
 				[
-					-58.00955896590136,
-					-101.99894618583085
+					0,
+					0
 				]
 			]
 		}
@@ -572,10 +569,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 515.75,
-		"scrollY": 474.7578125,
+		"scrollX": 351.48954191522364,
+		"scrollY": 298.1608720745902,
 		"zoom": {
-			"value": 1
+			"value": 1.85
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

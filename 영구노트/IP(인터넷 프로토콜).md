@@ -50,7 +50,7 @@ IP에는 Ipv4와 Ipv6방식이 있다.
 
 ### 동적 IP 할당 원리
 
-![[Dynamic IP and Static IP(draw)|800]]
+![[Dynamic IP and Static IP(draw).svg]]
 
 우리는 인터넷 통신을 위해 인터넷 모뎀을 사용한다. 모뎀은 IP를 할당 받아 사용하는 데 이 때 받는 유동 IP는 ISP(인터넷 회사) 에서 받아온다.
 

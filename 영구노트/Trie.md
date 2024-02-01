@@ -22,15 +22,15 @@ aliases:
 트라이는 트리 형태로 문자열들을 저장한다. 예를 들어 kor, korea, car 3개의 단어를 가지는 트라이 구조의 트리 생성 과정을 알아보자
 
 **우선 첫번쨰로 kor를 넣어보자**
-![[Trie kor step 1(draw)]]
+![[Trie kor step 1(draw).svg|400]]
 
 head에서 부터 k, o, r 차례로 만들고 최종적으로 r 노드에서 단어가 만들어졌다고 표시한다.
 
 **두번째로 korea를 넣어보자**
-![[Trie korean step 2(draw)]]
+![[Trie korean step 2(draw).svg|400]]
 
 세 번째로 car를 넣어보자
-![[Trie car step 3(draw)]]
+![[Trie car step 3(draw).svg|400]]
 
 보면 동일한 prefix면 노드를 공유하게 된다. 만약 여기서 kos 라는 단어를 쓴다면 ko 까지는 같고 s만 추가되는 식일 것이다. 이러한 특징 때문에 접두어 트리라고도 하며, 해당 자료 구조에서 prefix나 단어 존재 여부를 찾을 때 효과적으로 찾을 수 있다.
 

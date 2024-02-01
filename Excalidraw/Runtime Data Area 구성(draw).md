@@ -40,7 +40,7 @@ frame ^XpcX8IOo
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -834,8 +834,8 @@ frame ^XpcX8IOo
 		},
 		{
 			"type": "text",
-			"version": 222,
-			"versionNonce": 764600868,
+			"version": 224,
+			"versionNonce": 1070685147,
 			"isDeleted": false,
 			"id": "dlJ34tBm",
 			"fillStyle": "solid",
@@ -844,11 +844,11 @@ frame ^XpcX8IOo
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -153.51481674656716,
+			"x": -149.51481674656716,
 			"y": -5.7223011363636545,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffffff",
-			"width": 122.5599365234375,
+			"width": 114.5599365234375,
 			"height": 40,
 			"seed": 645211548,
 			"groupIds": [
@@ -857,12 +857,12 @@ frame ^XpcX8IOo
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696758858020,
+			"updated": 1706755795202,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "Native Method \nStack",
+			"text": "Native Method\nStack",
 			"rawText": "Native Method Stack",
 			"textAlign": "center",
 			"verticalAlign": "middle",
@@ -1112,10 +1112,10 @@ frame ^XpcX8IOo
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 508.34595959595964,
-		"scrollY": 402.4752472643097,
+		"scrollX": 500.71310935441375,
+		"scrollY": 463.6356739953886,
 		"zoom": {
-			"value": 1.35
+			"value": 1.1500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
