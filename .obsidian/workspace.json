@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "영구노트/2차원 구간합, 부분합.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "영구노트/2차원 구간합, 부분합.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "영구노트/2차원 구간합, 부분합.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "영구노트/2차원 구간합, 부분합.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224432,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md"
+                "file": "영구노트/2차원 구간합, 부분합.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "ade53ac82dc849c4",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md"
+                "file": "영구노트/2차원 구간합, 부분합.md"
               }
             }
           },
@@ -254,15 +254,21 @@
   },
   "active": "db5903d3aa3622df",
   "lastOpenFiles": [
-    "index.md",
     "영구노트/2D array constant time query update.md",
+    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
+    "영구노트/프로세스 & 스레드 메모리 구조.md",
+    "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
+    "영구노트/단속 카메라 문제.md",
+    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
+    "영구노트/공부가 아니라 배움이다  by 타일러.md",
+    "영구노트/Non-Blocking IO.md",
+    "index.md",
     "영구노트/2차원 구간합, 부분합.md",
     "영구노트/2707. Extra Characters in a String.md",
     "영구노트/2022년 프로그래밍 별 통계.md",
     "영구노트/1D array constant time query update.md",
     "영구노트/@Valid와 @Validated 차이.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
-    "영구노트/Non-Blocking IO.md",
     "Resources/IT/운영체제/네트워크 IO Models.md",
     "영구노트/Java와 함께하는 Mutex 사용 예제.md",
     "영구노트/뮤텍스(Mutex).md",
@@ -275,16 +281,10 @@
     "영구노트/시스템 콜.md",
     "Resources/IT/운영체제/프로세스.md",
     "Resources/IT/운영체제/동기화 모음.md",
-    "영구노트/공부가 아니라 배움이다  by 타일러.md",
-    "영구노트/구간합 문제 모음.md",
     "무제 파일.canvas",
     "Excalidraw/user mode kernel mode interface(draw).svg",
-    "Excalidraw/VisualVM DeadLock 설명(draw).md",
     "Excalidraw/VisualVM DeadLock 설명(draw).svg",
-    "영구노트/UnionFind merge 최적화.md",
-    "Excalidraw/UnionFind예제2(draw).md",
     "Excalidraw/UnionFind예제2(draw).svg",
-    "영구노트/JVM 구조.md",
     "Excalidraw/Runtime Data Area 구성(draw).svg",
     "Excalidraw/rotate array(draw).svg",
     "Excalidraw/PCS 오버헤드(draw).svg",

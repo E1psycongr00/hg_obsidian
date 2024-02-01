@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "2차원 구간합, 부분합",
+      "path": "영구노트/2차원 구간합, 부분합.md"
     },
     {
       "basename": "2D array constant time query update",
       "path": "영구노트/2D array constant time query update.md"
     },
     {
-      "basename": "2차원 구간합, 부분합",
-      "path": "영구노트/2차원 구간합, 부분합.md"
+      "basename": "컴파일(compile)과 빌드(build) 개념",
+      "path": "영구노트/컴파일(compile)과 빌드(build) 개념.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 메모리 구조",
+      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
+    },
+    {
+      "basename": "지식보다 중요한 것은 상상력이다... by Einstein",
+      "path": "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md"
+    },
+    {
+      "basename": "단속 카메라 문제",
+      "path": "영구노트/단속 카메라 문제.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
+      "path": "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md"
+    },
+    {
+      "basename": "공부가 아니라 배움이다  by 타일러",
+      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
+    },
+    {
+      "basename": "Non-Blocking IO",
+      "path": "영구노트/Non-Blocking IO.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "2707. Extra Characters in a String",
@@ -57,20 +81,12 @@
       "path": "영구노트/IO Multiplexing.md"
     },
     {
-      "basename": "단속 카메라 문제",
-      "path": "영구노트/단속 카메라 문제.md"
-    },
-    {
       "basename": "니콜라스 루만",
       "path": "영구노트/니콜라스 루만.md"
     },
     {
       "basename": "네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein",
       "path": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 ... by Einstein.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
-      "path": "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md"
     },
     {
       "basename": "나만의 제텔카스텐 기법+ 옵시디언",
@@ -83,22 +99,6 @@
     {
       "basename": "나만의 노트 분리하기",
       "path": "영구노트/나만의 노트 분리하기.md"
-    },
-    {
-      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
-      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
-    },
-    {
-      "basename": "구간합 문제 모음",
-      "path": "영구노트/구간합 문제 모음.md"
-    },
-    {
-      "basename": "광고 삽입",
-      "path": "영구노트/광고 삽입.md"
-    },
-    {
-      "basename": "공부가 아니라 배움이다  by 타일러",
-      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
     }
   ],
   "omittedPaths": [],
