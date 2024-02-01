@@ -11,8 +11,13 @@
             "id": "db5903d3aa3622df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/Java와 함께하는 Mutex 사용 예제.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/1D array constant time query update.md",
+                "file": "영구노트/Java와 함께하는 Mutex 사용 예제.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/1D array constant time query update.md",
+                "file": "영구노트/Java와 함께하는 Mutex 사용 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/1D array constant time query update.md",
+                "file": "영구노트/Java와 함께하는 Mutex 사용 예제.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/1D array constant time query update.md"
+                "file": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
               }
             }
           },
@@ -190,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "ade53ac82dc849c4",
@@ -210,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/1D array constant time query update.md"
+                "file": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
               }
             }
           },
@@ -247,60 +252,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "620df7eacad1ab71",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c780a30f15cc8688",
-        "type": "window",
-        "children": [
-          {
-            "id": "246b9c5d50284e92",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9dca020bb18743f6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "영구노트/1D array constant time query update.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9dca020bb18743f6",
+  "active": "db5903d3aa3622df",
   "lastOpenFiles": [
+    "영구노트/뮤텍스(Mutex).md",
+    "영구노트/Non-Blocking IO.md",
+    "영구노트/Kernel.md",
+    "영구노트/IO Multiplexing.md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "영구노트/1D array constant time query update.md",
     "영구노트/2D array constant time query update.md",
     "Excalidraw/non-blocking Io(draw).md",
     "Excalidraw/2d array constant value query (draw).md",
     "Excalidraw/2d array constant value query (draw).svg",
-    "영구노트/뮤텍스(Mutex).md",
     "영구노트/2차원 구간합, 부분합.md",
     "영구노트/2707. Extra Characters in a String.md",
-    "영구노트/1D array constant time query update.md",
     "영구노트/광고 삽입.md",
     "영구노트/2022년 프로그래밍 별 통계.md",
-    "영구노트/Non-Blocking IO.md",
     "영구노트/시스템 콜.md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
-    "영구노트/IO Multiplexing.md",
     "Resources/IT/운영체제/프로세스.md",
     "Resources/IT/운영체제/동기화 모음.md",
     "영구노트/공부가 아니라 배움이다  by 타일러.md",
