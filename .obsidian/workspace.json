@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2fb327fdd7bbca",
+        "id": "06be43d6fbd2d6e2",
         "type": "tabs",
         "children": [
           {
-            "id": "1e1a22dee3ff8ad7",
+            "id": "db5903d3aa3622df",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구노트/1D array constant time query update.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구노트/1D array constant time query update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "영구노트/1D array constant time query update.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +142,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224431,
+                  "scale": 0.7132754626224432,
                   "close": true
                 }
               }
@@ -169,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "영구노트/1D array constant time query update.md"
+              }
             }
           },
           {
@@ -185,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "ade53ac82dc849c4",
@@ -204,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "영구노트/1D array constant time query update.md"
+              }
             }
           },
           {
@@ -240,8 +247,60 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1e1a22dee3ff8ad7",
+  "floating": {
+    "id": "620df7eacad1ab71",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c780a30f15cc8688",
+        "type": "window",
+        "children": [
+          {
+            "id": "246b9c5d50284e92",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9dca020bb18743f6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "영구노트/1D array constant time query update.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9dca020bb18743f6",
   "lastOpenFiles": [
+    "영구노트/2D array constant time query update.md",
+    "Excalidraw/non-blocking Io(draw).md",
+    "Excalidraw/2d array constant value query (draw).md",
+    "Excalidraw/2d array constant value query (draw).svg",
+    "영구노트/뮤텍스(Mutex).md",
+    "영구노트/2차원 구간합, 부분합.md",
+    "영구노트/2707. Extra Characters in a String.md",
+    "영구노트/1D array constant time query update.md",
+    "영구노트/광고 삽입.md",
+    "영구노트/2022년 프로그래밍 별 통계.md",
+    "영구노트/Non-Blocking IO.md",
+    "영구노트/시스템 콜.md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "영구노트/IO Multiplexing.md",
     "Resources/IT/운영체제/프로세스.md",
     "Resources/IT/운영체제/동기화 모음.md",
     "영구노트/공부가 아니라 배움이다  by 타일러.md",
@@ -260,25 +319,10 @@
     "영구노트/Java List 유틸 메서드 by Collections.md",
     "Excalidraw/rotate array(draw).md",
     "Excalidraw/rotate array(draw).svg",
-    "영구노트/Process와 컨텍스트 스위칭.md",
-    "Excalidraw/Dynamic IP and Static IP(draw).md",
-    "영구노트/Kernel.md",
-    "Excalidraw/PCS 오버헤드(draw).md",
     "Excalidraw/PCS 오버헤드(draw).svg",
-    "영구노트/PCB(Process Controll Block).md",
-    "Excalidraw/PCB 구조(draw).md",
     "Excalidraw/PCB 구조(draw).svg",
-    "Excalidraw/Mapping mapper(draw).md",
-    "Excalidraw/MessageCodesResolver code 우선순위(draw).md",
     "Excalidraw/Mapping mapper(draw).svg",
-    "영구노트/IP(인터넷 프로토콜).md",
     "Excalidraw/Dynamic IP and Static IP(draw).svg",
-    "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md",
-    "Excalidraw/Custom Message 해결 전략(draw).md",
-    "Excalidraw/Custom Message 해결 전략(draw).svg",
-    "영구노트/IO Bound와 CPU Bound.md",
-    "Excalidraw/프로세스의 버스트 과정(draw).md",
-    "영구노트/CPU 코어.md",
     "Resources/명언/명언 모음.canvas",
     "Resources/IT/운영체제",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
