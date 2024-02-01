@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "IO Multiplexing",
+      "path": "영구노트/IO Multiplexing.md"
+    },
+    {
+      "basename": "네트워크 IO Models",
+      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.canvas"
+    },
+    {
+      "basename": "승자가 되기 위해서는 by donald trump",
+      "path": "영구노트/승자가 되기 위해서는 by donald trump.md"
+    },
+    {
+      "basename": "본능의 목소리에 귀울여라 by donald trump",
+      "path": "영구노트/본능의 목소리에 귀울여라 by donald trump.md"
+    },
+    {
+      "basename": "때로는 승부에서 패배해봐야  by donald trump",
+      "path": "영구노트/때로는 승부에서 패배해봐야  by donald trump.md"
+    },
+    {
       "basename": "Blocking IO",
       "path": "영구노트/Blocking IO.md"
     },
@@ -69,36 +97,8 @@
       "path": "Resources/IT/운영체제/동기화 모음.md"
     },
     {
-      "basename": "네트워크 IO Models",
-      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "Resources/명언/명언 모음.canvas"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "Resources/명언/명언 모음.md"
-    },
-    {
       "basename": "Young Generation 과 Old Generation 특징",
       "path": "영구노트/Young Generation 과 Old Generation 특징.md"
-    },
-    {
-      "basename": "Windows  cmd 명령어",
-      "path": "영구노트/Windows  cmd 명령어.md"
-    },
-    {
-      "basename": "Why Gradle by Kotlin DSL",
-      "path": "영구노트/Why Gradle by Kotlin DSL.md"
-    },
-    {
-      "basename": "Why Gradle",
-      "path": "영구노트/Why Gradle.md"
-    },
-    {
-      "basename": "Web Socket이란",
-      "path": "영구노트/Web Socket이란.md"
     }
   ],
   "omittedPaths": [],
