@@ -71,7 +71,7 @@ upd[i][j] = upd[i-1][j] +upd[i][j] ^SbeRUAAC
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -3057,8 +3057,8 @@ upd[i][j] = upd[i-1][j] +upd[i][j] ^SbeRUAAC
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 726.6789559018114,
-		"scrollY": 435.21423876059094,
+		"scrollX": 326.2319953908161,
+		"scrollY": 540.4773966553278,
 		"zoom": {
 			"value": 0.9500000000000001
 		},

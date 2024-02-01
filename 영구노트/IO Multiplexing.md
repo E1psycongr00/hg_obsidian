@@ -16,7 +16,7 @@ aliases:
 ### IO 멀티플렉싱
 >[!summary] IO multiplexing == Asynchronous Blocking IO
 >하나의 프로세스가 관심있는 여러 IO 작업을 동시에 모니터링하고 한번에 처리하는 메커니즘
->![[IO multiplexing(draw)|600]]
+>![[IO multiplexing(draw).svg|600]]
 
 멀티 플렉싱 방식은 동기적으로 동작한다. select() 함수 호출 시에 block되어 대기하고 kenel에서 결과 값이 완료되었다는 callback 신호가 오면 유저 프로세스는 자신의 Buffer로 해당 데이터를 복사해온다. 사실 내부적으로 select는 loop를 돌리며 대기하는 방식을 취한다. select()와 같은 함수를 이용해 여러 IO를 한번에 관리하기 때문에 Asynchronous한 방식으로 보지만 실제 I/O 동작은 Synchronous하기 때문에 개발자와 학자 사이에서도 이 주제에 대해 여러 토론을 한다.
 
@@ -55,12 +55,12 @@ Linux kernel 2.5.44에서 처음 도입되었다. poll()과 같이 FD의 수는 
 
 epoll은 2가지 방식이 존재한다.
 - Level Triggered
-	- ![[level triggered(draw)]]
+	- ![[level triggered(draw).svg]]
 	- 특정 준위 상태가 유지되는 동안 감지
 	- 입력 buffer에 데이터가 남아있는 동안 계속해서 이벤트에 등록된다.
 	- select, poll은 Level-Trigger만 지원
 - Edge Triggered
-	- ![[Edge Triggered(draw)]]
+	- ![[Edge Triggered(draw).svg]]
 	- 특정 준위가 변화하는 시점에 감지
 	- 입력 buffer가 데이터에 수신된 상황에만 한 번 이벤트를 등록한다. 이후 추가적인 설정은 하지 않는다.
 

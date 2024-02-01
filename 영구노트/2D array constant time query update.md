@@ -30,7 +30,7 @@ $$ S(x2, y2) = S(x2, y1-1) + S(x1-1, y2) - S(x1-1, y1-1) + a(x1-1, y1-1) $$
 
 다음 그림은 (1,1) (2, 2) 구간 사각형을 모두 1로 업데이트하는 쿼리를 만드는 과정이다.
 
-![[2d array constant value query (draw) | 700]]
+![[2d array constant value query (draw).svg| 700]]
 
 ### Code
 ```java

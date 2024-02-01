@@ -51,7 +51,7 @@ Gate ^NAbccSqk
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -4551,10 +4551,10 @@ Gate ^NAbccSqk
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 515.75,
-		"scrollY": 1074.7578125,
+		"scrollX": 478.23562529252234,
+		"scrollY": 889.676192312595,
 		"zoom": {
-			"value": 1
+			"value": 1.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

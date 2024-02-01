@@ -35,7 +35,7 @@ waiting Lock0 ^tpf42ELV
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
 	"elements": [
 		{
 			"type": "text",
@@ -510,8 +510,8 @@ waiting Lock0 ^tpf42ELV
 		},
 		{
 			"type": "arrow",
-			"version": 105,
-			"versionNonce": 337851979,
+			"version": 109,
+			"versionNonce": 1036434005,
 			"isDeleted": false,
 			"id": "P063JeexnZ1jmR4i3K01z",
 			"fillStyle": "hachure",
@@ -524,8 +524,8 @@ waiting Lock0 ^tpf42ELV
 			"y": 25.4610238707438,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 207.99999999999997,
-			"height": 0.3023904515066178,
+			"width": 208,
+			"height": 0.3023904515066249,
 			"seed": 47804933,
 			"groupIds": [],
 			"frameId": null,
@@ -538,18 +538,18 @@ waiting Lock0 ^tpf42ELV
 					"id": "4UGxmKC5"
 				}
 			],
-			"updated": 1705912689401,
+			"updated": 1706754476027,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "oW3le4Amg5SG_XFJcxyAk",
-				"focus": -0.5055064679531969,
-				"gap": 10
+				"gap": 10,
+				"focus": -0.5055064679531969
 			},
 			"endBinding": {
 				"elementId": "do933xRl_BjvMGtUlUzFq",
-				"focus": 0.47603291767989825,
-				"gap": 6.500000000000028
+				"gap": 6.500000000000028,
+				"focus": 0.47603291767989825
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -560,8 +560,8 @@ waiting Lock0 ^tpf42ELV
 					0
 				],
 				[
-					207.99999999999997,
-					0.3023904515066178
+					208,
+					0.3023904515066249
 				]
 			]
 		},
@@ -604,8 +604,8 @@ waiting Lock0 ^tpf42ELV
 		},
 		{
 			"type": "arrow",
-			"version": 49,
-			"versionNonce": 2108938437,
+			"version": 53,
+			"versionNonce": 1319233813,
 			"isDeleted": false,
 			"id": "JUEJN3bA_38JSgbrUgNNV",
 			"fillStyle": "hachure",
@@ -632,7 +632,7 @@ waiting Lock0 ^tpf42ELV
 					"id": "tpf42ELV"
 				}
 			],
-			"updated": 1705912692600,
+			"updated": 1706754476027,
 			"link": null,
 			"locked": false,
 			"startBinding": {
