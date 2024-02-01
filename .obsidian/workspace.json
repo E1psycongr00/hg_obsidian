@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c084fc0deca4106d",
+        "id": "f0f3aac199aeead4",
         "type": "tabs",
         "children": [
           {
-            "id": "6d56370727bd6166",
+            "id": "debfd14640942b01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Spin Lock (스핀 락).md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Spin Lock (스핀 락).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Spin Lock (스핀 락).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Spin Lock (스핀 락).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/Spin Lock (스핀 락).md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/Spin Lock (스핀 락).md"
-              }
+              "state": {}
             }
           },
           {
@@ -252,8 +240,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6d56370727bd6166",
+  "active": "debfd14640942b01",
   "lastOpenFiles": [
+    "영구노트/Process와 컨텍스트 스위칭.md",
+    "영구노트/Spin Lock (스핀 락).md",
     "Resources/IT/운영체제/동기화 모음.md",
     "Resources/명언/명언 모음.md",
     "Resources/명언/명언 모음.canvas",
@@ -279,7 +269,6 @@
     "Resources/Obsidian/제텔카스텐.md",
     "Resources/IT/Gradle 공부.md",
     "Resources/IT/Github.md",
-    "Resources/IT/알고리즘.md",
     "Excalidraw/2d array constant value query (draw).svg",
     "무제 파일.canvas",
     "Excalidraw/user mode kernel mode interface(draw).svg",

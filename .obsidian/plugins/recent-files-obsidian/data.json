@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Process와 컨텍스트 스위칭",
+      "path": "영구노트/Process와 컨텍스트 스위칭.md"
+    },
+    {
       "basename": "Spin Lock (스핀 락)",
       "path": "영구노트/Spin Lock (스핀 락).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "제텔카스텐",
       "path": "Resources/Obsidian/제텔카스텐.md"
-    },
-    {
-      "basename": "Gradle 공부",
-      "path": "Resources/IT/Gradle 공부.md"
     }
   ],
   "omittedPaths": [],
