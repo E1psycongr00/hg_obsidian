@@ -1,40 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "index.canvas"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "Resources/IT/java/Java Annotation.md"
-    },
-    {
       "basename": "프로세스",
       "path": "Resources/IT/운영체제/프로세스.md"
     },
     {
-      "basename": "Spring JDBC",
-      "path": "Resources/IT/java/Spring JDBC.md"
+      "basename": "IO Models",
+      "path": "Resources/IT/운영체제/IO Models.md"
     },
     {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+      "basename": "Process와 컨텍스트 스위칭",
+      "path": "영구노트/Process와 컨텍스트 스위칭.md"
     },
     {
-      "basename": "표준 Java Error",
-      "path": "Resources/IT/java/표준 Java Error.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "네트워크 IO Models",
-      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+      "basename": "Spin Lock (스핀 락)",
+      "path": "영구노트/Spin Lock (스핀 락).md"
     },
     {
       "basename": "동기화 모음",
@@ -45,36 +25,12 @@
       "path": "영구노트/Monitor 동기화 메커니즘.md"
     },
     {
+      "basename": "Java Monitor",
+      "path": "영구노트/Java Monitor.md"
+    },
+    {
       "basename": "세마포어",
       "path": "영구노트/세마포어.md"
-    },
-    {
-      "basename": "운영 체제(OS)",
-      "path": "영구노트/운영 체제(OS).md"
-    },
-    {
-      "basename": "IO Multiplexing",
-      "path": "영구노트/IO Multiplexing.md"
-    },
-    {
-      "basename": "Blocking IO",
-      "path": "영구노트/Blocking IO.md"
-    },
-    {
-      "basename": "네트워크 소켓 통신(draw)",
-      "path": "Excalidraw/네트워크 소켓 통신(draw).svg"
-    },
-    {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
-    },
-    {
-      "basename": "non-blocking Io(draw)",
-      "path": "Excalidraw/non-blocking Io(draw).svg"
-    },
-    {
-      "basename": "Java와 함께하는 Semaphore 사용 예제",
-      "path": "영구노트/Java와 함께하는 Semaphore 사용 예제.md"
     },
     {
       "basename": "Java와 함께하는 Mutex 사용 예제",
@@ -85,20 +41,64 @@
       "path": "영구노트/뮤텍스(Mutex).md"
     },
     {
-      "basename": "Pasted image 20240117013137",
-      "path": "attachments/screenshot/Pasted image 20240117013137.png"
+      "basename": "Race Condition",
+      "path": "영구노트/Race Condition.md"
     },
     {
-      "basename": "파일 디스크립터",
-      "path": "영구노트/파일 디스크립터.md"
+      "basename": "DeadLock",
+      "path": "영구노트/DeadLock.md"
     },
     {
-      "basename": "IO multiplexing(draw)",
-      "path": "Excalidraw/IO multiplexing(draw).svg"
+      "basename": "OS 기본",
+      "path": "Resources/IT/운영체제/OS 기본.md"
     },
     {
-      "basename": "Synchronous Blocking IO 과정(draw)",
-      "path": "Excalidraw/Synchronous Blocking IO 과정(draw).svg"
+      "basename": "Github",
+      "path": "Resources/IT/Github.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.canvas"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "Resources/IT/java/Java Annotation.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "Resources/IT/알고리즘.md"
+    },
+    {
+      "basename": "hg_garden(DRAW)",
+      "path": "Excalidraw/hg_garden(DRAW).svg"
+    },
+    {
+      "basename": "Spring Bean Validation 총정리",
+      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "Spring JDBC",
+      "path": "Resources/IT/java/Spring JDBC.md"
+    },
+    {
+      "basename": "Java 공부",
+      "path": "Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "hg_garden(DRAW)",
+      "path": "Excalidraw/hg_garden(DRAW).md"
+    },
+    {
+      "basename": "java 배열 사용법",
+      "path": "Resources/IT/java/java 배열 사용법.md"
+    },
+    {
+      "basename": "표준 Java Error",
+      "path": "Resources/IT/java/표준 Java Error.md"
     }
   ],
   "omittedPaths": [],

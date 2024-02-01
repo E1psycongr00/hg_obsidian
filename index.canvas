@@ -1,19 +1,22 @@
 {
 	"nodes":[
-		{"id":"c5b731c0b6867bf9","x":760,"y":-840,"width":1200,"height":1660,"color":"1","type":"group","label":"JAVA"},
-		{"id":"1ad44caf8f4e65cf","x":-143,"y":79,"width":400,"height":400,"type":"file","file":"Resources/IT/운영체제/프로세스.md"},
-		{"id":"9263c5c207d10be6","type":"file","file":"Resources/IT/운영체제/동기화 모음.md","x":-296,"y":-531,"width":416,"height":411},
-		{"id":"653e2e8b6cdbbe8a","type":"file","file":"Resources/IT/운영체제/네트워크 IO Models.md","x":140,"y":-525,"width":400,"height":400},
-		{"id":"94eab9460efcc0d0","type":"file","file":"Resources/IT/java/Java Annotation.md","x":780,"y":-263,"width":552,"height":506},
-		{"id":"55d6a21190a2d48c","type":"file","file":"Resources/IT/java/Spring Bean Validation 총정리.md","x":1388,"y":-263,"width":552,"height":506},
-		{"id":"5695414b1fd486ee","type":"file","file":"Resources/IT/java/표준 Java Error.md","x":780,"y":294,"width":552,"height":506},
-		{"id":"f5df9541b9e6131d","type":"file","file":"Resources/IT/java/java 배열 사용법.md","x":1388,"y":294,"width":552,"height":506},
-		{"id":"f892c0174f2c14bf","type":"file","file":"Resources/IT/java/Java 공부.md","x":780,"y":-820,"width":552,"height":506},
-		{"id":"bb6c077688143b63","type":"file","file":"Resources/IT/java/Spring JDBC.md","x":1388,"y":-820,"width":552,"height":506},
-		{"id":"8e25c08f4b2e7e1d","type":"text","text":"HG_GARDEN","x":140,"y":-1560,"width":240,"height":60}
+		{"id":"1ef7776cbd842f90","type":"group","x":-1100,"y":-860,"width":3780,"height":2340,"color":"#6b79e6","label":"IT"},
+		{"id":"c5b731c0b6867bf9","type":"group","x":860,"y":-660,"width":1620,"height":2020,"color":"1","label":"JAVA"},
+		{"id":"178735adc2f1fc28","type":"group","x":-960,"y":-660,"width":1560,"height":1305,"color":"#56f5db","label":"OS"},
+		{"id":"f892c0174f2c14bf","type":"file","file":"Resources/IT/java/Java 공부.md","x":887,"y":-636,"width":736,"height":610},
+		{"id":"94eab9460efcc0d0","type":"file","file":"Resources/IT/java/Java Annotation.md","x":887,"y":35,"width":736,"height":610},
+		{"id":"bb6c077688143b63","type":"file","file":"Resources/IT/java/Spring JDBC.md","x":1697,"y":-636,"width":736,"height":610},
+		{"id":"9263c5c207d10be6","type":"file","file":"Resources/IT/운영체제/동기화 모음.md","x":-940,"y":-640,"width":734,"height":579},
+		{"id":"653e2e8b6cdbbe8a","type":"file","file":"Resources/IT/운영체제/IO Models.md","x":-166,"y":-640,"width":706,"height":564},
+		{"id":"1ad44caf8f4e65cf","type":"file","file":"Resources/IT/운영체제/프로세스.md","x":-940,"y":-21,"width":738,"height":572},
+		{"id":"89385a219536329f","type":"file","file":"Excalidraw/hg_garden(DRAW).svg","x":240,"y":-1840,"width":1110,"height":240},
+		{"id":"5695414b1fd486ee","type":"file","file":"Resources/IT/java/표준 Java Error.md","x":887,"y":706,"width":736,"height":610},
+		{"id":"55d6a21190a2d48c","type":"file","file":"Resources/IT/java/Spring Bean Validation 총정리.md","x":1697,"y":35,"width":736,"height":610},
+		{"id":"f5df9541b9e6131d","type":"file","file":"Resources/IT/java/java 배열 사용법.md","x":1697,"y":706,"width":736,"height":610},
+		{"id":"44e9dfad6e6dd010","x":-940,"y":706,"width":714,"height":654,"type":"file","file":"Resources/IT/알고리즘.md"},
+		{"id":"09146af3117eb12e","x":-120,"y":706,"width":720,"height":654,"type":"file","file":"Resources/IT/부하 테스트.md"}
 	],
 	"edges":[
-		{"id":"d8722acad2a944af","fromNode":"8e25c08f4b2e7e1d","fromSide":"bottom","toNode":"9263c5c207d10be6","toSide":"top"},
-		{"id":"3a3491b15cbf28bb","fromNode":"8e25c08f4b2e7e1d","fromSide":"bottom","toNode":"653e2e8b6cdbbe8a","toSide":"top"}
+		{"id":"701ded8fcbdb638c","fromNode":"89385a219536329f","fromSide":"bottom","toNode":"1ef7776cbd842f90","toSide":"top"}
 	]
 }

@@ -59,6 +59,7 @@ After를 보면 모든 차량이 이미 1,2,3,4위에 올라와 있다. 그리�
 - https://www.youtube.com/watch?v=ESXCSNGFVto&list=PLcXyemr8ZeoQOtSUjwaer0VMJSMfa-9G-&index=7&t=2s
 
 ## 연결 노트
+- [[Race Condition]]
 - [[OS에서 데드락 문제 해결하기|OS에서 DeadLock 문제 해결하기]]
 - [[프로그래밍으로 데드락 해결하기|Programming으로 DeadLock 해결하기]]
 

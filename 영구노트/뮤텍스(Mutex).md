@@ -36,6 +36,7 @@ Mutex는 Mutual(상호간의) + Exclusion(제외, 배제)의 합성어이다. �
 ## 연결 노트
 - [[Spin Lock (스핀 락)|Spin Lock]]
 - [[Java와 함께하는 Mutex 사용 예제]]
+- [[Mutex와 binary semaphore 같지 않다]]
 
 
 

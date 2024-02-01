@@ -68,6 +68,7 @@ release(m);      // 모니터 락 반환
 - https://www.youtube.com/watch?v=yWprp019_n4
 ## 연결 노트
 - [[세마포어]]
+- [[Java Monitor]]
 
 
 
