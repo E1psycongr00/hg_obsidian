@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md",
+                "file": "영구노트/Blocking IO.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md",
+                "file": "영구노트/Blocking IO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +112,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md",
+                "file": "영구노트/Blocking IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "25671b33c51bb992",
+            "id": "bc93ad949722d401",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md",
+                "file": "영구노트/Blocking IO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224432,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md"
+                "file": "영구노트/Blocking IO.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/2차원 구간합, 부분합.md"
+                "file": "영구노트/Blocking IO.md"
               }
             }
           },
@@ -254,33 +254,34 @@
   },
   "active": "db5903d3aa3622df",
   "lastOpenFiles": [
-    "영구노트/2D array constant time query update.md",
-    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
-    "영구노트/프로세스 & 스레드 메모리 구조.md",
-    "영구노트/지식보다 중요한 것은 상상력이다... by Einstein.md",
-    "영구노트/단속 카메라 문제.md",
-    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "영구노트/공부가 아니라 배움이다  by 타일러.md",
-    "영구노트/Non-Blocking IO.md",
     "index.md",
-    "영구노트/2차원 구간합, 부분합.md",
-    "영구노트/2707. Extra Characters in a String.md",
-    "영구노트/2022년 프로그래밍 별 통계.md",
-    "영구노트/1D array constant time query update.md",
-    "영구노트/@Valid와 @Validated 차이.md",
-    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
-    "Resources/IT/운영체제/네트워크 IO Models.md",
-    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
-    "영구노트/뮤텍스(Mutex).md",
-    "영구노트/Kernel.md",
-    "영구노트/IO Multiplexing.md",
-    "Excalidraw/non-blocking Io(draw).md",
-    "Excalidraw/2d array constant value query (draw).md",
-    "Excalidraw/2d array constant value query (draw).svg",
-    "영구노트/광고 삽입.md",
-    "영구노트/시스템 콜.md",
+    "Resources/Obsidian/Obsidian 관련 내용.md",
+    "Resources/Obsidian/Obsidian.md",
+    "Resources/Obsidian/제텔카스텐.md",
+    "Resources/IT/Gradle 공부.md",
+    "Resources/IT/Github.md",
+    "Resources/IT/알고리즘.md",
+    "Resources/IT/부하 테스트.md",
+    "Resources/IT/java/Spring JDBC.md",
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "Resources/IT/java/Java Annotation.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/표준 Java Error.md",
     "Resources/IT/운영체제/프로세스.md",
     "Resources/IT/운영체제/동기화 모음.md",
+    "Resources/IT/운영체제/네트워크 IO Models.md",
+    "Resources/명언/명언 모음.canvas",
+    "Resources/명언/명언 모음.md",
+    "영구노트/Young Generation 과 Old Generation 특징.md",
+    "영구노트/Windows  cmd 명령어.md",
+    "영구노트/Why Gradle by Kotlin DSL.md",
+    "영구노트/Why Gradle.md",
+    "영구노트/Web Socket이란.md",
+    "영구노트/UTC(세계 협정시).md",
+    "영구노트/Unix Time.md",
+    "영구노트/UnionFind merge 최적화.md",
+    "Excalidraw/2d array constant value query (draw).svg",
     "무제 파일.canvas",
     "Excalidraw/user mode kernel mode interface(draw).svg",
     "Excalidraw/VisualVM DeadLock 설명(draw).svg",
@@ -291,7 +292,6 @@
     "Excalidraw/PCB 구조(draw).svg",
     "Excalidraw/Mapping mapper(draw).svg",
     "Excalidraw/Dynamic IP and Static IP(draw).svg",
-    "Resources/명언/명언 모음.canvas",
     "Resources/IT/운영체제",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
     "나의 마일스톤/2024년",
