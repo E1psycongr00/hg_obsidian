@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bf709bbc2723c8f8",
+        "id": "7b1b562a33b78f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "93b9f203937ca347",
+            "id": "49403897ada4e753",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "index.canvas",
                 "viewState": {
-                  "x": -820,
-                  "y": 480.29640606563026,
-                  "zoom": -1.9999999999999998
+                  "x": 737.9216734712505,
+                  "y": -303.15973257756866,
+                  "zoom": -1.3333333333333333
                 }
               }
             }
@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Resources/IT/운영체제/프로세스.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Resources/IT/운영체제/프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "Resources/IT/운영체제/프로세스.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "Resources/IT/운영체제/프로세스.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "Resources/IT/운영체제/프로세스.md"
               }
             }
           },
@@ -254,14 +254,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "93b9f203937ca347",
+  "active": "49403897ada4e753",
   "lastOpenFiles": [
-    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
-    "무제 파일.canvas",
-    "영구노트/Blocking IO.md",
+    "명언 모음.canvas",
+    "index.canvas",
+    "index.md",
+    "Resources/IT/운영체제/네트워크 IO Models.canvas",
+    "Resources/IT/운영체제/동기화 모음.canvas",
+    "영구노트/운영 체제(OS).md",
+    "Resources/IT/운영체제/동기화 모음.md",
     "Resources/IT/운영체제/네트워크 IO Models.md",
     "Resources/명언/명언 모음.md",
     "Resources/명언/명언 모음.canvas",
+    "Resources/IT/운영체제/프로세스.md",
+    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
+    "영구노트/Blocking IO.md",
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
     "영구노트/Java 파일 읽기.md",
     "영구노트/Java 파일 쓰기.md",
@@ -278,11 +285,7 @@
     "영구노트/Mutex와 binary semaphore 같지 않다.md",
     "영구노트/Java와 함께하는 Mutex 사용 예제.md",
     "영구노트/세마포어.md",
-    "Resources/IT/운영체제/동기화 모음.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "영구노트/Process와 컨텍스트 스위칭.md",
-    "영구노트/Spin Lock (스핀 락).md",
     "Excalidraw/2d array constant value query (draw).svg",
     "Excalidraw/user mode kernel mode interface(draw).svg",
     "Excalidraw/VisualVM DeadLock 설명(draw).svg",
