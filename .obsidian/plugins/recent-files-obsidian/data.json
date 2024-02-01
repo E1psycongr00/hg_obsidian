@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Spin Lock (스핀 락)",
+      "path": "영구노트/Spin Lock (스핀 락).md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "Resources/명언/명언 모음.canvas"
+    },
+    {
+      "basename": "Non-Blocking IO",
+      "path": "영구노트/Non-Blocking IO.md"
+    },
+    {
+      "basename": "네트워크 IO Models",
+      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
+    },
+    {
+      "basename": "Spurious Wake up",
+      "path": "영구노트/Spurious Wake up.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "세마포어",
+      "path": "영구노트/세마포어.md"
+    },
+    {
+      "basename": "Monitor 동기화 메커니즘",
+      "path": "영구노트/Monitor 동기화 메커니즘.md"
+    },
+    {
+      "basename": "Java Monitor",
+      "path": "영구노트/Java Monitor.md"
+    },
+    {
+      "basename": "Blocking IO",
+      "path": "영구노트/Blocking IO.md"
+    },
+    {
       "basename": "Race Condition",
       "path": "영구노트/Race Condition.md"
     },
@@ -21,18 +69,6 @@
       "path": "영구노트/IO Multiplexing.md"
     },
     {
-      "basename": "네트워크 IO Models",
-      "path": "Resources/IT/운영체제/네트워크 IO Models.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "Resources/명언/명언 모음.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "Resources/명언/명언 모음.canvas"
-    },
-    {
       "basename": "승자가 되기 위해서는 by donald trump",
       "path": "영구노트/승자가 되기 위해서는 by donald trump.md"
     },
@@ -43,10 +79,6 @@
     {
       "basename": "때로는 승부에서 패배해봐야  by donald trump",
       "path": "영구노트/때로는 승부에서 패배해봐야  by donald trump.md"
-    },
-    {
-      "basename": "Blocking IO",
-      "path": "영구노트/Blocking IO.md"
     },
     {
       "basename": "index",
@@ -67,38 +99,6 @@
     {
       "basename": "Gradle 공부",
       "path": "Resources/IT/Gradle 공부.md"
-    },
-    {
-      "basename": "Github",
-      "path": "Resources/IT/Github.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "Resources/IT/알고리즘.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "Resources/IT/부하 테스트.md"
-    },
-    {
-      "basename": "Spring JDBC",
-      "path": "Resources/IT/java/Spring JDBC.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "Resources/IT/java/Java 공부.md"
     }
   ],
   "omittedPaths": [],
