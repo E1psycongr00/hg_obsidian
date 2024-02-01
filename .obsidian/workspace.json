@@ -11,13 +11,8 @@
             "id": "1e1a22dee3ff8ad7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Resources/IT/운영체제/프로세스.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/IT/운영체제/프로세스.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,6 +242,7 @@
   },
   "active": "1e1a22dee3ff8ad7",
   "lastOpenFiles": [
+    "Resources/IT/운영체제/프로세스.md",
     "Resources/IT/운영체제/동기화 모음.md",
     "영구노트/공부가 아니라 배움이다  by 타일러.md",
     "영구노트/구간합 문제 모음.md",
@@ -290,7 +279,6 @@
     "영구노트/IO Bound와 CPU Bound.md",
     "Excalidraw/프로세스의 버스트 과정(draw).md",
     "영구노트/CPU 코어.md",
-    "Excalidraw/불타는 CPU(draw).md",
     "Resources/명언/명언 모음.canvas",
     "Resources/IT/운영체제",
     "Excalidraw/libraries/computer-parts.excalidrawlib",
