@@ -11,7 +11,7 @@ aliases:
 작성 날짜: 2024-01-11
 작성 시간: 20:01
 
-#완성 #OS #Synchronization 
+#완성 #OS #Synchronization #Process #Thread 
 
 ----
 ## 내용(Content)

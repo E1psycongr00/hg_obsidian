@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
+                "file": "영구노트/CPU 코어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hg_gar",
+                "query": "tag:#링크드리스트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
+                "file": "영구노트/CPU 코어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
+                "file": "영구노트/CPU 코어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md",
+                "file": "영구노트/CPU 코어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md"
+                "file": "영구노트/CPU 코어.md"
               }
             }
           },
@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "ade53ac82dc849c4",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/운영체제/프로세스.md"
+                "file": "영구노트/CPU 코어.md"
               }
             }
           },
@@ -240,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500
+    "width": 500,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,38 +263,37 @@
   },
   "active": "b6f48665f1223c1e",
   "lastOpenFiles": [
-    "Resources/IT/운영체제/IO Models.md",
-    "영구노트/Process와 컨텍스트 스위칭.md",
-    "영구노트/Spin Lock (스핀 락).md",
-    "Resources/IT/운영체제/동기화 모음.md",
-    "영구노트/Monitor 동기화 메커니즘.md",
-    "영구노트/Java Monitor.md",
-    "영구노트/세마포어.md",
-    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
-    "영구노트/뮤텍스(Mutex).md",
-    "영구노트/Race Condition.md",
-    "영구노트/DeadLock.md",
+    "영구노트/프로세스 & 스레드 정의.md",
     "Resources/IT/운영체제/프로세스.md",
-    "Resources/IT/운영체제/OS 기본.md",
-    "Resources/IT/Github.md",
     "index.canvas",
-    "Resources/IT/부하 테스트.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "Resources/IT/java/Spring JDBC.md",
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "Resources/IT/java/Java Annotation.md",
+    "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/표준 Java Error.md",
+    "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/알고리즘.md",
+    "Resources/IT/부하 테스트.md",
+    "영구노트/725. Split LinkedList in Parts.md",
+    "영구노트/2707. Extra Characters in a String.md",
+    "영구노트/프로세스 & 스레드 메모리 구조.md",
+    "영구노트/프로세스의 한계 및 쓰레드 등장.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "Resources/IT/운영체제/IO Models.md",
+    "Resources/IT/운영체제/OS 기본.md",
+    "영구노트/Kernel.md",
+    "영구노트/OS 쓰레드.md",
+    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "Excalidraw/hg_garden(DRAW).svg",
-    "Excalidraw/hg_garden(DRAW).md",
     "명언 모음.canvas",
-    "index.md",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",
-    "영구노트/운영 체제(OS).md",
-    "Resources/명언/명언 모음.md",
     "Resources/명언/명언 모음.canvas",
-    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
-    "영구노트/Blocking IO.md",
-    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
-    "영구노트/Java 파일 읽기.md",
-    "영구노트/Java 파일 쓰기.md",
-    "영구노트/Java 파일 다루기.md",
     "Excalidraw/2d array constant value query (draw).svg",
     "Excalidraw/user mode kernel mode interface(draw).svg",
     "Excalidraw/VisualVM DeadLock 설명(draw).svg",

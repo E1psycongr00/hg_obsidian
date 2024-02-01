@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "CPU 코어",
+      "path": "영구노트/CPU 코어.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 정의",
+      "path": "영구노트/프로세스 & 스레드 정의.md"
+    },
+    {
       "basename": "프로세스",
       "path": "Resources/IT/운영체제/프로세스.md"
-    },
-    {
-      "basename": "IO Models",
-      "path": "Resources/IT/운영체제/IO Models.md"
-    },
-    {
-      "basename": "Process와 컨텍스트 스위칭",
-      "path": "영구노트/Process와 컨텍스트 스위칭.md"
-    },
-    {
-      "basename": "Spin Lock (스핀 락)",
-      "path": "영구노트/Spin Lock (스핀 락).md"
-    },
-    {
-      "basename": "동기화 모음",
-      "path": "Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "Monitor 동기화 메커니즘",
-      "path": "영구노트/Monitor 동기화 메커니즘.md"
-    },
-    {
-      "basename": "Java Monitor",
-      "path": "영구노트/Java Monitor.md"
-    },
-    {
-      "basename": "세마포어",
-      "path": "영구노트/세마포어.md"
-    },
-    {
-      "basename": "Java와 함께하는 Mutex 사용 예제",
-      "path": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
-    },
-    {
-      "basename": "뮤텍스(Mutex)",
-      "path": "영구노트/뮤텍스(Mutex).md"
-    },
-    {
-      "basename": "Race Condition",
-      "path": "영구노트/Race Condition.md"
-    },
-    {
-      "basename": "DeadLock",
-      "path": "영구노트/DeadLock.md"
-    },
-    {
-      "basename": "OS 기본",
-      "path": "Resources/IT/운영체제/OS 기본.md"
-    },
-    {
-      "basename": "Github",
-      "path": "Resources/IT/Github.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.canvas"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "Resources/IT/부하 테스트.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "Resources/IT/알고리즘.md"
     },
     {
       "basename": "hg_garden(DRAW)",
       "path": "Excalidraw/hg_garden(DRAW).svg"
     },
     {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+      "basename": "index",
+      "path": "index.canvas"
+    },
+    {
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
       "basename": "Spring JDBC",
       "path": "Resources/IT/java/Spring JDBC.md"
     },
     {
+      "basename": "Spring Bean Validation 총정리",
+      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "Resources/IT/java/Java Annotation.md"
+    },
+    {
       "basename": "Java 공부",
       "path": "Resources/IT/java/Java 공부.md"
     },
     {
-      "basename": "hg_garden(DRAW)",
-      "path": "Excalidraw/hg_garden(DRAW).md"
+      "basename": "표준 Java Error",
+      "path": "Resources/IT/java/표준 Java Error.md"
     },
     {
       "basename": "java 배열 사용법",
       "path": "Resources/IT/java/java 배열 사용법.md"
     },
     {
-      "basename": "표준 Java Error",
-      "path": "Resources/IT/java/표준 Java Error.md"
+      "basename": "알고리즘",
+      "path": "Resources/IT/알고리즘.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "725. Split LinkedList in Parts",
+      "path": "영구노트/725. Split LinkedList in Parts.md"
+    },
+    {
+      "basename": "2707. Extra Characters in a String",
+      "path": "영구노트/2707. Extra Characters in a String.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 메모리 구조",
+      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
+    },
+    {
+      "basename": "프로세스의 한계 및 쓰레드 등장",
+      "path": "영구노트/프로세스의 한계 및 쓰레드 등장.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "IO Models",
+      "path": "Resources/IT/운영체제/IO Models.md"
+    },
+    {
+      "basename": "OS 기본",
+      "path": "Resources/IT/운영체제/OS 기본.md"
     }
   ],
   "omittedPaths": [],

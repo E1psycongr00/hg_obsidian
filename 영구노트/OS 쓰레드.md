@@ -39,6 +39,8 @@ aliases:
 
 ## 연결 노트
 - [[유저 쓰레드|User Level Thread]]
+- [[인터럽트와 시스템 콜 동작 과정]]
+- [[Process와 컨텍스트 스위칭|Process Context Switching]]
 
 
 
