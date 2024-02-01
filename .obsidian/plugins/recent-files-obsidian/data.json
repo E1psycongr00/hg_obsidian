@@ -29,6 +29,10 @@
       "path": "영구노트/1D array constant time query update.md"
     },
     {
+      "basename": "@Valid와 @Validated 차이",
+      "path": "영구노트/@Valid와 @Validated 차이.md"
+    },
+    {
       "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
       "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Java와 함께하는 Mutex 사용 예제",
       "path": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
-    },
-    {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "영구노트/@Valid와 @Validated 차이.md"
     },
     {
       "basename": "뮤텍스(Mutex)",
