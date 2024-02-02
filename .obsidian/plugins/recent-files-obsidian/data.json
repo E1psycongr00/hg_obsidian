@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "정전계",
+      "path": "연습노트/정전계.md"
+    },
+    {
       "basename": "CPU 코어",
       "path": "영구노트/CPU 코어.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "IO Models",
       "path": "Resources/IT/운영체제/IO Models.md"
-    },
-    {
-      "basename": "OS 기본",
-      "path": "Resources/IT/운영체제/OS 기본.md"
     }
   ],
   "omittedPaths": [],
