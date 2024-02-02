@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/전속.md",
+                "file": "연습노트/정전계.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/전속.md",
+                "file": "연습노트/정전계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/전속.md",
+                "file": "연습노트/정전계.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/전속.md"
+                "file": "연습노트/정전계.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/전속.md"
+                "file": "연습노트/정전계.md"
               }
             }
           },
@@ -279,10 +279,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d344527d6ce53e7d",
+  "active": "eb875000bbd5e75c",
   "lastOpenFiles": [
-    "연습노트/정전계.md",
     "연습노트/전속.md",
+    "연습노트/정전계.md",
     "attachments/screenshot/Pasted image 20240202134721.png",
     "영구노트/CPU 코어.md",
     "영구노트/프로세스 & 스레드 정의.md",
