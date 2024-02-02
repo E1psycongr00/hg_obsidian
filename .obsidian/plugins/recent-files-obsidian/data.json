@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "커패시터 스위치 off 회로(draw)",
+      "path": "Excalidraw/커패시터 스위치 off 회로(draw).md"
+    },
+    {
+      "basename": "유전체",
+      "path": "연습노트/유전체.md"
+    },
+    {
       "basename": "도체계의 정전용량",
       "path": "연습노트/도체계의 정전용량.md"
+    },
+    {
+      "basename": "전속",
+      "path": "연습노트/전속.md"
     },
     {
       "basename": "정전계",
@@ -11,10 +23,6 @@
     {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "전속",
-      "path": "연습노트/전속.md"
     },
     {
       "basename": "전하(Elecric Charge)",
@@ -91,14 +99,6 @@
     {
       "basename": "Java 공부",
       "path": "Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "표준 Java Error",
-      "path": "Resources/IT/java/표준 Java Error.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "Resources/IT/java/java 배열 사용법.md"
     }
   ],
   "omittedPaths": [],
