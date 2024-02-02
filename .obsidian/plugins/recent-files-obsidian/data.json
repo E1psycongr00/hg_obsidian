@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
       "basename": "정전계",
       "path": "연습노트/정전계.md"
+    },
+    {
+      "basename": "전속",
+      "path": "연습노트/전속.md"
+    },
+    {
+      "basename": "전하(Elecric Charge)",
+      "path": "연습노트/전하(Elecric Charge).md"
+    },
+    {
+      "basename": "동축 원통 외부 전계(draw)",
+      "path": "Excalidraw/동축 원통 외부 전계(draw).md"
+    },
+    {
+      "basename": "CPU 코어",
+      "path": "영구노트/CPU 코어.md"
     },
     {
       "basename": "균일하게 대전된 구 내부 전계(draw)",
@@ -15,18 +35,6 @@
     {
       "basename": "균일 대전된 구 전하 전계(draw)",
       "path": "Excalidraw/균일 대전된 구 전하 전계(draw).svg"
-    },
-    {
-      "basename": "전속",
-      "path": "연습노트/전속.md"
-    },
-    {
-      "basename": "전하(Elecric Charge)",
-      "path": "연습노트/전하(Elecric Charge).md"
-    },
-    {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
     },
     {
       "basename": "프로세스 & 스레드 정의",
@@ -91,14 +99,6 @@
     {
       "basename": "알고리즘",
       "path": "Resources/IT/알고리즘.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "Resources/IT/부하 테스트.md"
-    },
-    {
-      "basename": "725. Split LinkedList in Parts",
-      "path": "영구노트/725. Split LinkedList in Parts.md"
     }
   ],
   "omittedPaths": [],
