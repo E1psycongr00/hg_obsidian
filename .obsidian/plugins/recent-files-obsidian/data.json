@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전속",
+      "path": "연습노트/전속.md"
+    },
+    {
       "basename": "정전계",
       "path": "연습노트/정전계.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동기화 모음",
       "path": "Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "IO Models",
-      "path": "Resources/IT/운영체제/IO Models.md"
     }
   ],
   "omittedPaths": [],
