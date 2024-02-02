@@ -5,8 +5,28 @@
       "path": "연습노트/유전체.md"
     },
     {
+      "basename": "도체계의 정전용량",
+      "path": "연습노트/도체계의 정전용량.md"
+    },
+    {
+      "basename": "전하 축적(draw)",
+      "path": "Excalidraw/전하 축적(draw).svg"
+    },
+    {
       "basename": "표면이 대전된 유전체(draw)",
       "path": "Excalidraw/표면이 대전된 유전체(draw).md"
+    },
+    {
+      "basename": "커패시터 스위치 on 직후 유전체(draw)",
+      "path": "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md"
+    },
+    {
+      "basename": "전하 축적(draw)",
+      "path": "Excalidraw/전하 축적(draw).md"
+    },
+    {
+      "basename": "표면이 대전된 유전체(draw)",
+      "path": "Excalidraw/표면이 대전된 유전체(draw).svg"
     },
     {
       "basename": "분극된 전기 쌍극자 형태의 원자(draw)",
@@ -17,20 +37,16 @@
       "path": "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).svg"
     },
     {
+      "basename": "커패시터 스위치 on 직후 유전체(draw)",
+      "path": "Excalidraw/커패시터 스위치 on 직후 유전체(draw).svg"
+    },
+    {
       "basename": "커패시터 스위치 off 회로의 유전체(draw)",
       "path": "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).md"
     },
     {
-      "basename": "커패시터 스위치 on 직후 유전체(draw)",
-      "path": "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md"
-    },
-    {
       "basename": "커패시터 스위치 off 회로의 유전체(draw)",
       "path": "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).svg"
-    },
-    {
-      "basename": "도체계의 정전용량",
-      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "전속",
@@ -83,22 +99,6 @@
     {
       "basename": "index",
       "path": "index.canvas"
-    },
-    {
-      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
-      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     }
   ],
   "omittedPaths": [],
