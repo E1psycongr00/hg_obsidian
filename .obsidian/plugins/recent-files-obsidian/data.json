@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
+      "basename": "도체계의 정전용량",
+      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "정전계",
       "path": "연습노트/정전계.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
     },
     {
       "basename": "전속",
@@ -95,10 +99,6 @@
     {
       "basename": "java 배열 사용법",
       "path": "Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "Resources/IT/알고리즘.md"
     }
   ],
   "omittedPaths": [],
