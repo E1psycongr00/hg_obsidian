@@ -5,6 +5,18 @@
       "path": "연습노트/정전계.md"
     },
     {
+      "basename": "균일하게 대전된 구 내부 전계(draw)",
+      "path": "Excalidraw/균일하게 대전된 구 내부 전계(draw).md"
+    },
+    {
+      "basename": "균일 대전된 구 전하 전계(draw)",
+      "path": "Excalidraw/균일 대전된 구 전하 전계(draw).md"
+    },
+    {
+      "basename": "균일 대전된 구 전하 전계(draw)",
+      "path": "Excalidraw/균일 대전된 구 전하 전계(draw).svg"
+    },
+    {
       "basename": "전속",
       "path": "연습노트/전속.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "725. Split LinkedList in Parts",
       "path": "영구노트/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "2707. Extra Characters in a String",
-      "path": "영구노트/2707. Extra Characters in a String.md"
-    },
-    {
-      "basename": "프로세스 & 스레드 메모리 구조",
-      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
-    },
-    {
-      "basename": "프로세스의 한계 및 쓰레드 등장",
-      "path": "영구노트/프로세스의 한계 및 쓰레드 등장.md"
     }
   ],
   "omittedPaths": [],
