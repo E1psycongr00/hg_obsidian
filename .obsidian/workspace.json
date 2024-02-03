@@ -42,26 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "846c416a287dbc6e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
-              }
-            }
-          },
-          {
-            "id": "e51b1f59c3a2832f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/병렬로 연결한 유전체 전속(draw).md"
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -299,9 +279,13 @@
   "active": "d92e68570dc1ed86",
   "lastOpenFiles": [
     "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
+    "연습노트/유전체 경계 조건.md",
+    "attachments/screenshot/Pasted image 20240203212812.png",
+    "attachments/screenshot/Pasted image 20240203212810.png",
+    "attachments/screenshot/Pasted image 20240203212708.png",
+    "attachments/screenshot/Pasted image 20240203212700.png",
     "Excalidraw/병렬로 연결한 유전체 전속(draw).md",
     "Excalidraw/직렬로 연결한 유전체 전계(draw).svg",
-    "연습노트/유전체 경계 조건.md",
     "Excalidraw/병렬로 연결한 유전체 전속(draw).svg",
     "Excalidraw/병렬로 연결한 유전체 전계(draw).md",
     "연습노트/도체계의 정전용량.md",
@@ -314,13 +298,9 @@
     "Excalidraw/웹소켓 동작 과정(draw).svg",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).svg",
-    "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).svg",
     "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md",
-    "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).svg",
     "Excalidraw/균일 대전된 구 전하 전계(draw).md",
-    "Excalidraw/균일하게 대전된 구 내부 전계(draw).svg",
     "Excalidraw/균일하게 대전된 구 내부 전계(draw).md",
-    "Excalidraw/전하 축적(draw).svg",
     "Excalidraw/전하 축적(draw).md",
     "Excalidraw/백엔드 서버 소켓(draw).md",
     "Excalidraw/단속 카메라 원리1(draw).md",
