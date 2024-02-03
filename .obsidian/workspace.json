@@ -26,8 +26,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/유전체.md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d30c4cbce6a9fc38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/유전체.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/유전체.md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/유전체.md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/유전체.md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/유전체.md"
+                "file": "연습노트/유전체 경계 조건.md"
               }
             }
           },
@@ -229,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/유전체.md"
+                "file": "연습노트/유전체 경계 조건.md"
               }
             }
           },
@@ -268,17 +281,18 @@
   },
   "active": "445b418c659000ca",
   "lastOpenFiles": [
+    "연습노트/유전체.md",
+    "연습노트/유전체 경계 조건.md",
+    "연습노트/도체계의 정전용량.md",
     "Excalidraw/분극으로 인한 전계 감소(draw).md",
     "Excalidraw/전하 축적(draw).md",
     "Excalidraw/전하 축적(draw).svg",
-    "연습노트/유전체.md",
     "Excalidraw/분극으로 인한 전계 감소(draw).svg",
     "연습노트/정전계.md",
     "연습노트/전속.md",
     "전계.md",
     "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).md",
     "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).svg",
-    "연습노트/도체계의 정전용량.md",
     "Excalidraw/표면이 대전된 유전체(draw).md",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md",
     "Excalidraw/표면이 대전된 유전체(draw).svg",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "유전체 경계 조건",
+      "path": "연습노트/유전체 경계 조건.md"
+    },
+    {
       "basename": "유전체",
       "path": "연습노트/유전체.md"
+    },
+    {
+      "basename": "도체계의 정전용량",
+      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "분극으로 인한 전계 감소(draw)",
@@ -23,10 +31,6 @@
     {
       "basename": "전속",
       "path": "연습노트/전속.md"
-    },
-    {
-      "basename": "도체계의 정전용량",
-      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "표면이 대전된 유전체(draw)",
