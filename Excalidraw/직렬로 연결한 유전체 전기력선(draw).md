@@ -709,7 +709,7 @@ $$
 			"y": 107.08130600453984,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 26.522957321351782,
+			"width": 26.537490844726562,
 			"height": 53.0752964854681,
 			"seed": 979529405,
 			"groupIds": [],
@@ -728,7 +728,7 @@ $$
 			"containerId": null,
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 35
+			"baseline": 37
 		},
 		{
 			"type": "text",
@@ -746,7 +746,7 @@ $$
 			"y": -30.914464857677245,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 17.451127681398983,
+			"width": 17.4510498046875,
 			"height": 53.0752964854681,
 			"seed": 1761578781,
 			"groupIds": [],
@@ -1953,8 +1953,8 @@ $$
 		},
 		{
 			"type": "arrow",
-			"version": 201,
-			"versionNonce": 178661395,
+			"version": 237,
+			"versionNonce": 1695901597,
 			"isDeleted": false,
 			"id": "PikMY2yA4BBymTpDS8wxS",
 			"fillStyle": "hachure",
@@ -1976,7 +1976,7 @@ $$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706957406733,
+			"updated": 1706959120517,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2150,7 +2150,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 9.994464120841496,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 1205648253,
 			"groupIds": [],
 			"frameId": null,
@@ -2168,7 +2168,7 @@ $$
 			"containerId": "aN6UU5V9tewmk40tbS-AO",
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "ellipse",
@@ -2221,7 +2221,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 9.994464120841496,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 314282845,
 			"groupIds": [],
 			"frameId": null,
@@ -2239,7 +2239,7 @@ $$
 			"containerId": "EIdZEKZmFjYImIrRQiRZr",
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "ellipse",
@@ -2292,7 +2292,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 9.994464120841496,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 1424275837,
 			"groupIds": [],
 			"frameId": null,
@@ -2310,7 +2310,7 @@ $$
 			"containerId": "2NU5Ga_CWdGS9RK3JAYu7",
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "ellipse",
@@ -2363,7 +2363,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 9.994464120841496,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 2006391741,
 			"groupIds": [],
 			"frameId": null,
@@ -2381,7 +2381,7 @@ $$
 			"containerId": "DEJT5fHzBzIvdX81vwK2z",
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "ellipse",
@@ -2434,7 +2434,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 9.994464120841496,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 996976893,
 			"groupIds": [],
 			"frameId": null,
@@ -2452,7 +2452,7 @@ $$
 			"containerId": "Ieflj8Px55Y9hCOiN4KPV",
 			"originalText": "+",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "ellipse",
@@ -2505,7 +2505,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 6.57598876953125,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 1882017565,
 			"groupIds": [],
 			"frameId": null,
@@ -2576,7 +2576,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 6.57598876953125,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 1156039869,
 			"groupIds": [],
 			"frameId": null,
@@ -2651,7 +2651,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 6.57598876953125,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 2117199261,
 			"groupIds": [],
 			"frameId": null,
@@ -2722,7 +2722,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 6.57598876953125,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 1079644765,
 			"groupIds": [],
 			"frameId": null,
@@ -2793,7 +2793,7 @@ $$
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 6.57598876953125,
-			"height": 20,
+			"height": 20.000000000000004,
 			"seed": 1328309501,
 			"groupIds": [],
 			"frameId": null,

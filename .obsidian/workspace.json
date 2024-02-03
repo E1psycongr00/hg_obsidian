@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md"
+                "file": "연습노트/유전체 경계 조건.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md"
+                "file": "연습노트/유전체 경계 조건.md"
               }
             }
           },
@@ -275,12 +275,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a374fff7b082e96d",
+  "active": "d92e68570dc1ed86",
   "lastOpenFiles": [
+    "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md",
     "연습노트/유전체 경계 조건.md",
     "연습노트/도체계의 정전용량.md",
     "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).md",
-    "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md",
     "Excalidraw/분극으로 인한 전계 감소(draw).md",
     "연습노트/유전체.md",
     "Excalidraw/웹소켓 동작 과정(draw).svg",
