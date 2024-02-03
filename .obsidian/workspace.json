@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "a374fff7b082e96d",
+            "id": "eaac7c62144a723a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md"
+                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
               }
             }
           },
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/유전체 경계 조건.md",
+                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/유전체 경계 조건.md",
+                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/유전체 경계 조건.md",
+                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/유전체 경계 조건.md"
+                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/유전체 경계 조건.md"
+                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
               }
             }
           },
@@ -275,16 +275,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d92e68570dc1ed86",
+  "active": "eaac7c62144a723a",
   "lastOpenFiles": [
-    "Excalidraw/직렬로 연결한 유전체 전기력선(draw).md",
     "연습노트/유전체 경계 조건.md",
+    "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
     "연습노트/도체계의 정전용량.md",
+    "Excalidraw/직렬로 연결한 유전체 전속(draw).md",
+    "Excalidraw/직렬로 연결한 유전체 전계(draw).svg",
+    "Excalidraw/직렬로 연결한 유전체 전속(draw).svg",
     "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).md",
     "Excalidraw/분극으로 인한 전계 감소(draw).md",
     "연습노트/유전체.md",
     "Excalidraw/웹소켓 동작 과정(draw).svg",
-    "Excalidraw/직렬로 연결한 유전체 전기력선(draw).svg",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).svg",
     "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).svg",
@@ -299,7 +301,6 @@
     "Excalidraw/동축 원통 외부 전계(draw).svg",
     "Excalidraw/단속 카메라 원리1(draw).md",
     "Excalidraw/단속 카메라 예제1(draw).svg",
-    "Excalidraw/네트워크 소켓 통신(draw).svg",
     "Excalidraw/네트워크 소켓 통신(draw).md",
     "연습노트/정전계.md",
     "연습노트/전속.md",
@@ -311,7 +312,6 @@
     "Excalidraw/동축 원통 외부 전계(draw).md",
     "영구노트/CPU 코어.md",
     "영구노트/프로세스 & 스레드 정의.md",
-    "Resources/IT/운영체제/프로세스.md",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
