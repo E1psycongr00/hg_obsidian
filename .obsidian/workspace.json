@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ce2e55c450707165",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md",
+                "file": "연습노트/유전체.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md",
+                "file": "연습노트/유전체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md",
+                "file": "연습노트/유전체.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md"
+                "file": "연습노트/유전체.md"
               }
             }
           },
@@ -239,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md"
+                "file": "연습노트/유전체.md"
               }
             }
           },
@@ -276,14 +266,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ce2e55c450707165",
+  "active": "445b418c659000ca",
   "lastOpenFiles": [
-    "Excalidraw/분극으로 인한 전계 감소(draw).svg",
+    "Excalidraw/분극으로 인한 전계 감소(draw).md",
+    "Excalidraw/전하 축적(draw).md",
+    "Excalidraw/전하 축적(draw).svg",
     "연습노트/유전체.md",
+    "Excalidraw/분극으로 인한 전계 감소(draw).svg",
     "연습노트/정전계.md",
     "연습노트/전속.md",
     "전계.md",
-    "Excalidraw/분극으로 인한 전계 감소(draw).md",
     "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).md",
     "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).svg",
     "연습노트/도체계의 정전용량.md",
@@ -303,7 +295,6 @@
     "Excalidraw/균일하게 대전된 구 내부 전계(draw).md",
     "Excalidraw/균일 대전된 구 전하 전계(draw).md",
     "Excalidraw/균일하게 대전된 구 내부 전계(draw).svg",
-    "Excalidraw/균일 대전된 구 전하 전계(draw).svg",
     "영구노트/프로세스 & 스레드 정의.md",
     "Resources/IT/운영체제/프로세스.md",
     "index.canvas",
@@ -313,7 +304,6 @@
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "Resources/IT/java/Spring JDBC.md",
-    "Resources/IT/java/Spring Bean Validation 총정리.md",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",
