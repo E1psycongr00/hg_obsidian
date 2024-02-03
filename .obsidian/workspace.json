@@ -37,14 +37,14 @@
             "id": "ce2e55c450707165",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/전하 축적(draw).svg"
+                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/유전체.md",
+                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/유전체.md",
+                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/유전체.md",
+                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/유전체.md"
+                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/유전체.md"
+                "file": "Excalidraw/분극으로 인한 전계 감소(draw).md"
               }
             }
           },
@@ -276,23 +276,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "445b418c659000ca",
+  "active": "ce2e55c450707165",
   "lastOpenFiles": [
-    "연습노트/도체계의 정전용량.md",
-    "Excalidraw/전하 축적(draw).svg",
+    "Excalidraw/분극으로 인한 전계 감소(draw).svg",
     "연습노트/유전체.md",
-    "Excalidraw/표면이 대전된 유전체(draw).md",
-    "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md",
-    "Excalidraw/전하 축적(draw).md",
-    "Excalidraw/표면이 대전된 유전체(draw).svg",
+    "연습노트/정전계.md",
+    "연습노트/전속.md",
+    "전계.md",
+    "Excalidraw/분극으로 인한 전계 감소(draw).md",
     "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).md",
     "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).svg",
+    "연습노트/도체계의 정전용량.md",
+    "Excalidraw/표면이 대전된 유전체(draw).md",
+    "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md",
+    "Excalidraw/표면이 대전된 유전체(draw).svg",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).svg",
     "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).md",
     "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).svg",
     "attachments/screenshot/Pasted image 20240202233926.png",
-    "연습노트/전속.md",
-    "연습노트/정전계.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/전하(Elecric Charge).md",
     "Excalidraw/동축 원통 외부 전계(draw).md",
@@ -313,7 +314,6 @@
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "Resources/IT/java/Spring JDBC.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "Resources/IT/java/Java Annotation.md",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",

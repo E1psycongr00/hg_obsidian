@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "분극으로 인한 전계 감소(draw)",
+      "path": "Excalidraw/분극으로 인한 전계 감소(draw).md"
+    },
+    {
+      "basename": "분극으로 인한 전계 감소(draw)",
+      "path": "Excalidraw/분극으로 인한 전계 감소(draw).svg"
+    },
+    {
       "basename": "유전체",
       "path": "연습노트/유전체.md"
     },
     {
-      "basename": "도체계의 정전용량",
-      "path": "연습노트/도체계의 정전용량.md"
+      "basename": "정전계",
+      "path": "연습노트/정전계.md"
     },
     {
-      "basename": "전하 축적(draw)",
-      "path": "Excalidraw/전하 축적(draw).svg"
+      "basename": "전속",
+      "path": "연습노트/전속.md"
+    },
+    {
+      "basename": "도체계의 정전용량",
+      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "표면이 대전된 유전체(draw)",
@@ -21,20 +33,8 @@
       "path": "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md"
     },
     {
-      "basename": "전하 축적(draw)",
-      "path": "Excalidraw/전하 축적(draw).md"
-    },
-    {
       "basename": "표면이 대전된 유전체(draw)",
       "path": "Excalidraw/표면이 대전된 유전체(draw).svg"
-    },
-    {
-      "basename": "분극된 전기 쌍극자 형태의 원자(draw)",
-      "path": "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).md"
-    },
-    {
-      "basename": "분극된 전기 쌍극자 형태의 원자(draw)",
-      "path": "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).svg"
     },
     {
       "basename": "커패시터 스위치 on 직후 유전체(draw)",
@@ -47,14 +47,6 @@
     {
       "basename": "커패시터 스위치 off 회로의 유전체(draw)",
       "path": "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).svg"
-    },
-    {
-      "basename": "전속",
-      "path": "연습노트/전속.md"
-    },
-    {
-      "basename": "정전계",
-      "path": "연습노트/정전계.md"
     },
     {
       "basename": "전기 쌍극자",
