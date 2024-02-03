@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "eaac7c62144a723a",
+            "id": "30e3c1c4c6889c4d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
+                "file": "Excalidraw/병렬로 연결한 유전체 전계(draw).md"
               }
             }
           },
@@ -42,9 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "846c416a287dbc6e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
+              }
+            }
+          },
+          {
+            "id": "e51b1f59c3a2832f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/병렬로 연결한 유전체 전속(draw).md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
+                "file": "연습노트/유전체 경계 조건.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,7 +222,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
+                "file": "연습노트/유전체 경계 조건.md"
               }
             }
           },
@@ -238,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
+                "file": "연습노트/유전체 경계 조건.md"
               }
             }
           },
@@ -275,13 +296,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "eaac7c62144a723a",
+  "active": "d92e68570dc1ed86",
   "lastOpenFiles": [
-    "연습노트/유전체 경계 조건.md",
     "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
-    "연습노트/도체계의 정전용량.md",
-    "Excalidraw/직렬로 연결한 유전체 전속(draw).md",
+    "Excalidraw/병렬로 연결한 유전체 전속(draw).md",
     "Excalidraw/직렬로 연결한 유전체 전계(draw).svg",
+    "연습노트/유전체 경계 조건.md",
+    "Excalidraw/병렬로 연결한 유전체 전속(draw).svg",
+    "Excalidraw/병렬로 연결한 유전체 전계(draw).md",
+    "연습노트/도체계의 정전용량.md",
+    "Excalidraw/병렬로 연결한 유전체 전계(draw).svg",
+    "Excalidraw/직렬로 연결한 유전체 전속(draw).md",
     "Excalidraw/직렬로 연결한 유전체 전속(draw).svg",
     "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).md",
     "Excalidraw/분극으로 인한 전계 감소(draw).md",
@@ -298,9 +323,7 @@
     "Excalidraw/전하 축적(draw).svg",
     "Excalidraw/전하 축적(draw).md",
     "Excalidraw/백엔드 서버 소켓(draw).md",
-    "Excalidraw/동축 원통 외부 전계(draw).svg",
     "Excalidraw/단속 카메라 원리1(draw).md",
-    "Excalidraw/단속 카메라 예제1(draw).svg",
     "Excalidraw/네트워크 소켓 통신(draw).md",
     "연습노트/정전계.md",
     "연습노트/전속.md",
@@ -310,8 +333,6 @@
     "연습노트/전기 쌍극자.md",
     "연습노트/전하(Elecric Charge).md",
     "Excalidraw/동축 원통 외부 전계(draw).md",
-    "영구노트/CPU 코어.md",
-    "영구노트/프로세스 & 스레드 정의.md",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",

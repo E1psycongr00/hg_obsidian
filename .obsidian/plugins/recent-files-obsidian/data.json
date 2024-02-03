@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "유전체 경계 조건",
+      "path": "연습노트/유전체 경계 조건.md"
+    },
+    {
       "basename": "직렬로 연결한 유전체 전계(draw)",
       "path": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
     },
     {
-      "basename": "유전체 경계 조건",
-      "path": "연습노트/유전체 경계 조건.md"
+      "basename": "병렬로 연결한 유전체 전속(draw)",
+      "path": "Excalidraw/병렬로 연결한 유전체 전속(draw).md"
+    },
+    {
+      "basename": "직렬로 연결한 유전체 전계(draw)",
+      "path": "Excalidraw/직렬로 연결한 유전체 전계(draw).svg"
+    },
+    {
+      "basename": "병렬로 연결한 유전체 전계(draw)",
+      "path": "Excalidraw/병렬로 연결한 유전체 전계(draw).md"
     },
     {
       "basename": "도체계의 정전용량",
@@ -87,18 +99,6 @@
     {
       "basename": "단속 카메라 원리1(draw)",
       "path": "Excalidraw/단속 카메라 원리1(draw).md"
-    },
-    {
-      "basename": "단속 카메라 예제1(draw)",
-      "path": "Excalidraw/단속 카메라 예제1(draw).svg"
-    },
-    {
-      "basename": "네트워크 소켓 통신(draw)",
-      "path": "Excalidraw/네트워크 소켓 통신(draw).svg"
-    },
-    {
-      "basename": "네트워크 소켓 통신(draw)",
-      "path": "Excalidraw/네트워크 소켓 통신(draw).md"
     }
   ],
   "omittedPaths": [],
