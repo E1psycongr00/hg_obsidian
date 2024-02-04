@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "ab54baec82e5c938",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/전하의 위치 에너지(draw).md"
-              }
-            }
-          },
-          {
             "id": "4eba9117a160cca7",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/전하의 위치 에너지(draw).md",
+                "file": "연습노트/전위.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/전하의 위치 에너지(draw).md",
+                "file": "연습노트/전위.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/전하의 위치 에너지(draw).md",
+                "file": "연습노트/전위.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/전하의 위치 에너지(draw).md"
+                "file": "연습노트/전위.md"
               }
             }
           },
@@ -249,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/전하의 위치 에너지(draw).md"
+                "file": "연습노트/전위.md"
               }
             }
           },
@@ -286,11 +276,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ab54baec82e5c938",
+  "active": "ae49a1d562e06717",
   "lastOpenFiles": [
+    "Excalidraw/전하의 위치 에너지(draw).md",
     "Excalidraw/전하의 위치 에너지(draw).svg",
     "연습노트/전위.md",
-    "Excalidraw/전하의 위치 에너지(draw).md",
     "Excalidraw/중력의 위치 에너지(draw).md",
     "연습노트/도체계의 정전용량.md",
     "영구노트/전속.md",
@@ -313,7 +303,6 @@
     "Excalidraw/직렬로 연결한 유전체 전속(draw).svg",
     "Excalidraw/커패시터 스위치 off 회로의 유전체(draw).md",
     "Excalidraw/분극으로 인한 전계 감소(draw).md",
-    "Excalidraw/웹소켓 동작 과정(draw).svg",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md",
     "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md",
     "Excalidraw/균일 대전된 구 전하 전계(draw).md",
