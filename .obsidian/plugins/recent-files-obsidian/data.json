@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "유전체",
+      "path": "연습노트/유전체.md"
+    },
+    {
       "basename": "유전체 경계 조건",
       "path": "연습노트/유전체 경계 조건.md"
+    },
+    {
+      "basename": "도체계의 정전용량",
+      "path": "연습노트/도체계의 정전용량.md"
+    },
+    {
+      "basename": "병렬로 연결한 유전체 전계(draw)",
+      "path": "Excalidraw/병렬로 연결한 유전체 전계(draw).md"
     },
     {
       "basename": "직렬로 연결한 유전체 전계(draw)",
@@ -15,14 +27,6 @@
     {
       "basename": "직렬로 연결한 유전체 전계(draw)",
       "path": "Excalidraw/직렬로 연결한 유전체 전계(draw).svg"
-    },
-    {
-      "basename": "병렬로 연결한 유전체 전계(draw)",
-      "path": "Excalidraw/병렬로 연결한 유전체 전계(draw).md"
-    },
-    {
-      "basename": "도체계의 정전용량",
-      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "직렬로 연결한 유전체 전속(draw)",
@@ -39,10 +43,6 @@
     {
       "basename": "분극으로 인한 전계 감소(draw)",
       "path": "Excalidraw/분극으로 인한 전계 감소(draw).md"
-    },
-    {
-      "basename": "유전체",
-      "path": "연습노트/유전체.md"
     },
     {
       "basename": "웹소켓 동작 과정(draw)",
