@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "전하의 위치 에너지(draw)",
+      "path": "Excalidraw/전하의 위치 에너지(draw).md"
+    },
+    {
+      "basename": "전위",
+      "path": "연습노트/전위.md"
+    },
+    {
+      "basename": "중력의 위치 에너지(draw)",
+      "path": "Excalidraw/중력의 위치 에너지(draw).md"
+    },
+    {
+      "basename": "도체계의 정전용량",
+      "path": "연습노트/도체계의 정전용량.md"
+    },
+    {
+      "basename": "전속",
+      "path": "영구노트/전속.md"
+    },
+    {
+      "basename": "중력의 위치 에너지(draw)",
+      "path": "Excalidraw/중력의 위치 에너지(draw).svg"
+    },
+    {
+      "basename": "정전계",
+      "path": "연습노트/정전계.md"
+    },
+    {
+      "basename": "전하(Elecric Charge)",
+      "path": "연습노트/전하(Elecric Charge).md"
+    },
+    {
       "basename": "유전체",
       "path": "연습노트/유전체.md"
     },
     {
       "basename": "유전체 경계 조건",
       "path": "연습노트/유전체 경계 조건.md"
-    },
-    {
-      "basename": "도체계의 정전용량",
-      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "병렬로 연결한 유전체 전계(draw)",
@@ -71,34 +99,6 @@
     {
       "basename": "균일 대전된 구 전하 전계(draw)",
       "path": "Excalidraw/균일 대전된 구 전하 전계(draw).md"
-    },
-    {
-      "basename": "균일하게 대전된 구 내부 전계(draw)",
-      "path": "Excalidraw/균일하게 대전된 구 내부 전계(draw).svg"
-    },
-    {
-      "basename": "균일하게 대전된 구 내부 전계(draw)",
-      "path": "Excalidraw/균일하게 대전된 구 내부 전계(draw).md"
-    },
-    {
-      "basename": "전하 축적(draw)",
-      "path": "Excalidraw/전하 축적(draw).svg"
-    },
-    {
-      "basename": "전하 축적(draw)",
-      "path": "Excalidraw/전하 축적(draw).md"
-    },
-    {
-      "basename": "백엔드 서버 소켓(draw)",
-      "path": "Excalidraw/백엔드 서버 소켓(draw).md"
-    },
-    {
-      "basename": "동축 원통 외부 전계(draw)",
-      "path": "Excalidraw/동축 원통 외부 전계(draw).svg"
-    },
-    {
-      "basename": "단속 카메라 원리1(draw)",
-      "path": "Excalidraw/단속 카메라 원리1(draw).md"
     }
   ],
   "omittedPaths": [],
