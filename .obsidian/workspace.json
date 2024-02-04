@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/전위.md",
+                "file": "연습노트/정전계.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fd54e74dd5fdf6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전도 전류.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/전위.md",
+                "file": "전도 전류.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/전위.md",
+                "file": "전도 전류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/전위.md",
+                "file": "전도 전류.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/전위.md"
+                "file": "전도 전류.md"
               }
             }
           },
@@ -195,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "ade53ac82dc849c4",
@@ -215,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/전위.md"
+                "file": "전도 전류.md"
               }
             }
           },
@@ -252,20 +266,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "13c3f04362e0ef2b",
+  "active": "6fd54e74dd5fdf6e",
   "lastOpenFiles": [
+    "연습노트/정전계.md",
+    "전도 전류.md",
+    "영구노트/전기장 에너지 밀도.md",
+    "연습노트/전위.md",
     "연습노트/전기 쌍극자.md",
+    "연습노트/유전체 경계 조건.md",
     "연습노트/유전체.md",
     "연습노트/도체계의 정전용량.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "Excalidraw/중력의 위치 에너지(draw).md",
-    "연습노트/전위.md",
     "Excalidraw/전하의 위치 에너지(draw).md",
     "Excalidraw/전하의 위치 에너지(draw).svg",
     "영구노트/전속.md",
     "Excalidraw/중력의 위치 에너지(draw).svg",
-    "연습노트/정전계.md",
     "연습노트/전하(Elecric Charge).md",
-    "연습노트/유전체 경계 조건.md",
     "Excalidraw/병렬로 연결한 유전체 전계(draw).md",
     "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
     "attachments/screenshot/Pasted image 20240203212812.png",
@@ -287,9 +304,6 @@
     "Excalidraw/전하 축적(draw).md",
     "Excalidraw/백엔드 서버 소켓(draw).md",
     "Excalidraw/단속 카메라 원리1(draw).md",
-    "Excalidraw/네트워크 소켓 통신(draw).md",
-    "전계.md",
-    "Excalidraw/분극된 전기 쌍극자 형태의 원자(draw).md",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
