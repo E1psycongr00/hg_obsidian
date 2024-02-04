@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/도체계의 정전용량.md",
+                "file": "연습노트/전위.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4eba9117a160cca7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/중력의 위치 에너지(draw).md"
               }
             }
           }
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/도체계의 정전용량.md",
+                "file": "연습노트/전위.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/도체계의 정전용량.md",
+                "file": "연습노트/전위.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/도체계의 정전용량.md",
+                "file": "연습노트/전위.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/도체계의 정전용량.md"
+                "file": "연습노트/전위.md"
               }
             }
           },
@@ -225,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/도체계의 정전용량.md"
+                "file": "연습노트/전위.md"
               }
             }
           },
@@ -264,16 +254,17 @@
   },
   "active": "13c3f04362e0ef2b",
   "lastOpenFiles": [
+    "연습노트/전기 쌍극자.md",
+    "연습노트/유전체.md",
+    "연습노트/도체계의 정전용량.md",
+    "Excalidraw/중력의 위치 에너지(draw).md",
     "연습노트/전위.md",
     "Excalidraw/전하의 위치 에너지(draw).md",
     "Excalidraw/전하의 위치 에너지(draw).svg",
-    "Excalidraw/중력의 위치 에너지(draw).md",
-    "연습노트/도체계의 정전용량.md",
     "영구노트/전속.md",
     "Excalidraw/중력의 위치 에너지(draw).svg",
     "연습노트/정전계.md",
     "연습노트/전하(Elecric Charge).md",
-    "연습노트/유전체.md",
     "연습노트/유전체 경계 조건.md",
     "Excalidraw/병렬로 연결한 유전체 전계(draw).md",
     "Excalidraw/직렬로 연결한 유전체 전계(draw).md",
