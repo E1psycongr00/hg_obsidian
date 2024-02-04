@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "대류 전류",
-      "path": "연습노트/대류 전류.md"
+      "basename": "전도 전류",
+      "path": "연습노트/전도 전류.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "연습노트/무제 파일.md"
     },
     {
       "basename": "유전체",
       "path": "연습노트/유전체.md"
+    },
+    {
+      "basename": "대류 전류",
+      "path": "연습노트/대류 전류.md"
     },
     {
       "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
@@ -19,10 +27,6 @@
     {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "전도 전류",
-      "path": "연습노트/전도 전류.md"
     },
     {
       "basename": "전위",
@@ -95,10 +99,6 @@
     {
       "basename": "웹소켓 동작 과정(draw)",
       "path": "Excalidraw/웹소켓 동작 과정(draw).svg"
-    },
-    {
-      "basename": "커패시터 스위치 on 직후 유전체(draw)",
-      "path": "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md"
     }
   ],
   "omittedPaths": [],
