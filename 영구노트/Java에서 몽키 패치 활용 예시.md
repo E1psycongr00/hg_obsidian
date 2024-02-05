@@ -6,7 +6,7 @@ aliases:
 작성 날짜: 2024-02-05
 작성 시간: 11:52
 
-#미완 #JAVA 
+#완성  #JAVA 
 
 ----
 ## 내용(Content)
@@ -20,7 +20,7 @@ aliases:
 - https://www.baeldung.com/java-monkey-patching
 
 ## 연결 노트
-
+- [[몽키 패치]]
 
 
 
