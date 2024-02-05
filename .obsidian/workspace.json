@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Java에서 몽키 패치 활용 예시.md",
+                "file": "연습노트/몽키 패치.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/var 대신 const, let 사용하기.md",
+                "file": "연습노트/몽키 패치.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/var 대신 const, let 사용하기.md",
+                "file": "연습노트/몽키 패치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/var 대신 const, let 사용하기.md",
+                "file": "연습노트/몽키 패치.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/var 대신 const, let 사용하기.md"
+                "file": "연습노트/몽키 패치.md"
               }
             }
           },
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/var 대신 const, let 사용하기.md"
+                "file": "연습노트/몽키 패치.md"
               }
             }
           },
@@ -266,7 +265,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a53c4b422bf36f4",
+  "active": "3c558453cefd642c",
   "lastOpenFiles": [
     "영구노트/Java에서 몽키 패치 활용 예시.md",
     "연습노트/var 대신 const, let 사용하기.md",
