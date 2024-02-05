@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "대류 전류",
-      "path": "영구노트/대류 전류.md"
+      "basename": "몽키 패치",
+      "path": "연습노트/몽키 패치.md"
     },
     {
-      "basename": "전자기학",
-      "path": "Resources/전기기사/전자기학/전자기학.md"
+      "basename": "JS 역사",
+      "path": "연습노트/JS 역사.md"
     },
     {
-      "basename": "index",
-      "path": "index.canvas"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "전기장 에너지 밀도",
-      "path": "영구노트/전기장 에너지 밀도.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "도체계의 정전용량",
-      "path": "연습노트/도체계의 정전용량.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "연습노트/무제 파일.md"
-    },
-    {
-      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
-      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
-    },
-    {
-      "basename": "정전계",
-      "path": "영구노트/정전계.md"
-    },
-    {
-      "basename": "전하(Elecric Charge)",
-      "path": "영구노트/전하(Elecric Charge).md"
-    },
-    {
-      "basename": "전도 전류",
-      "path": "영구노트/전도 전류.md"
-    },
-    {
-      "basename": "유전체",
-      "path": "영구노트/유전체.md"
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
     {
       "basename": "유전체 경계 조건",
       "path": "영구노트/유전체 경계 조건.md"
     },
     {
-      "basename": "전위",
-      "path": "영구노트/전위.md"
+      "basename": "1D array constant time query update",
+      "path": "영구노트/1D array constant time query update.md"
     },
     {
-      "basename": "프로세스",
-      "path": "Resources/IT/운영체제/프로세스.md"
+      "basename": "2D array constant time query update",
+      "path": "영구노트/2D array constant time query update.md"
     },
     {
-      "basename": "중력의 위치 에너지(draw)",
-      "path": "Excalidraw/중력의 위치 에너지(draw).md"
+      "basename": "725. Split LinkedList in Parts",
+      "path": "영구노트/725. Split LinkedList in Parts.md"
     },
     {
-      "basename": "전하의 위치 에너지(draw)",
-      "path": "Excalidraw/전하의 위치 에너지(draw).md"
+      "basename": "2차원 구간합, 부분합",
+      "path": "영구노트/2차원 구간합, 부분합.md"
     },
     {
-      "basename": "전속",
-      "path": "영구노트/전속.md"
+      "basename": "본능의 목소리에 귀울여라 by donald trump",
+      "path": "영구노트/본능의 목소리에 귀울여라 by donald trump.md"
     },
     {
-      "basename": "중력의 위치 에너지(draw)",
-      "path": "Excalidraw/중력의 위치 에너지(draw).svg"
+      "basename": "무거운 짐을 함부러 버리지마라 by 이경규",
+      "path": "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md"
     },
     {
-      "basename": "병렬로 연결한 유전체 전계(draw)",
-      "path": "Excalidraw/병렬로 연결한 유전체 전계(draw).md"
+      "basename": "때로는 승부에서 패배해봐야  by donald trump",
+      "path": "영구노트/때로는 승부에서 패배해봐야  by donald trump.md"
     },
     {
-      "basename": "직렬로 연결한 유전체 전계(draw)",
-      "path": "Excalidraw/직렬로 연결한 유전체 전계(draw).md"
+      "basename": "Constant Pool vs Runtime Constant Pool",
+      "path": "영구노트/Constant Pool vs Runtime Constant Pool.md"
     },
     {
-      "basename": "병렬로 연결한 유전체 전속(draw)",
-      "path": "Excalidraw/병렬로 연결한 유전체 전속(draw).md"
+      "basename": "ConstraintViolationException",
+      "path": "영구노트/ConstraintViolationException.md"
     },
     {
-      "basename": "직렬로 연결한 유전체 전계(draw)",
-      "path": "Excalidraw/직렬로 연결한 유전체 전계(draw).svg"
+      "basename": "CPU 스케줄링 알고리즘",
+      "path": "영구노트/CPU 스케줄링 알고리즘.md"
     },
     {
-      "basename": "직렬로 연결한 유전체 전속(draw)",
-      "path": "Excalidraw/직렬로 연결한 유전체 전속(draw).md"
+      "basename": "CPU 쓰레드(Thread)",
+      "path": "영구노트/CPU 쓰레드(Thread).md"
     },
     {
-      "basename": "직렬로 연결한 유전체 전속(draw)",
-      "path": "Excalidraw/직렬로 연결한 유전체 전속(draw).svg"
+      "basename": "CPU 클럭 속도",
+      "path": "영구노트/CPU 클럭 속도.md"
+    },
+    {
+      "basename": "data jpa repository 응답 타입 유연하게 쓰기",
+      "path": "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md"
+    },
+    {
+      "basename": "히오스 제라툴 딜계산",
+      "path": "영구노트/히오스 제라툴 딜계산.md"
+    },
+    {
+      "basename": "Adamic Adars",
+      "path": "영구노트/Adamic Adars.md"
+    },
+    {
+      "basename": "Blocking IO",
+      "path": "영구노트/Blocking IO.md"
+    },
+    {
+      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
+      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
+    },
+    {
+      "basename": "나만의 노트 분리하기",
+      "path": "영구노트/나만의 노트 분리하기.md"
+    },
+    {
+      "basename": "나만의 노트 확장 방법",
+      "path": "영구노트/나만의 노트 확장 방법.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 기법+ 옵시디언",
+      "path": "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md"
     }
   ],
   "omittedPaths": [],
