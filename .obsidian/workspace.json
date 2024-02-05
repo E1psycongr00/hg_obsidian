@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/유전체.md",
-                "mode": "source",
+                "file": "영구노트/대류 전류.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/전도 전류.md",
+                "file": "영구노트/유전체 경계 조건.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "분극",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/전도 전류.md",
+                "file": "영구노트/대류 전류.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/전도 전류.md",
+                "file": "영구노트/대류 전류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/전도 전류.md",
+                "file": "영구노트/대류 전류.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/전도 전류.md"
+                "file": "영구노트/대류 전류.md"
               }
             }
           },
@@ -209,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "ade53ac82dc849c4",
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/전도 전류.md"
+                "file": "영구노트/대류 전류.md"
               }
             }
           },
@@ -261,25 +260,30 @@
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-day-planner:Timeline": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph:3D Graph": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "436571275f8c64af",
+  "active": "13c3f04362e0ef2b",
   "lastOpenFiles": [
-    "연습노트/무제 파일.md",
-    "연습노트/유전체.md",
-    "연습노트/대류 전류.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "연습노트/유전체 경계 조건.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/전도 전류.md",
-    "연습노트/전위.md",
-    "연습노트/전하(Elecric Charge).md",
-    "연습노트/정전계.md",
+    "Resources/전기기사/전자기학/전자기학.md",
+    "index.canvas",
     "영구노트/전기장 에너지 밀도.md",
+    "연습노트/전기 쌍극자.md",
     "연습노트/도체계의 정전용량.md",
+    "연습노트/무제 파일.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "영구노트/정전계.md",
+    "영구노트/전하(Elecric Charge).md",
+    "영구노트/전도 전류.md",
+    "영구노트/유전체.md",
+    "영구노트/유전체 경계 조건.md",
+    "영구노트/대류 전류.md",
+    "영구노트/전위.md",
+    "Resources/IT/운영체제/프로세스.md",
+    "Resources/전기기사/전자기학",
+    "Resources/전기기사",
     "Excalidraw/중력의 위치 에너지(draw).md",
     "Excalidraw/전하의 위치 에너지(draw).md",
     "Excalidraw/전하의 위치 에너지(draw).svg",
@@ -301,10 +305,6 @@
     "Excalidraw/분극으로 인한 전계 감소(draw).md",
     "Excalidraw/커패시터 스위치 on 직후 유전체(draw).md",
     "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).md",
-    "Excalidraw/균일 대전된 구 전하 전계(draw).md",
-    "Excalidraw/균일하게 대전된 구 내부 전계(draw).md",
-    "Excalidraw/전하 축적(draw).md",
-    "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",
@@ -318,8 +318,6 @@
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "Java 공부.canvas",
     "Resources/명언",
-    "Resources/IT/java",
-    "Resources/IT/Gradle",
     "Java 에 대하여.canvas"
   ]
 }
