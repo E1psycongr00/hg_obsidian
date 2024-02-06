@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-02-06 22.25.25.excalidraw",
+      "path": "Excalidraw/Drawing 2024-02-06 22.25.25.excalidraw.md"
+    },
+    {
       "basename": "도체계의 정전용량",
       "path": "연습노트/도체계의 정전용량.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
       "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "1D array constant time query update",
-      "path": "영구노트/1D array constant time query update.md"
     }
   ],
   "omittedPaths": [],
