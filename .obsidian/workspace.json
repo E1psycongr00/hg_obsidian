@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/몽키 패치.md",
+                "file": "영구노트/Java에서 몽키 패치 활용 예시.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -281,10 +281,10 @@
   },
   "active": "44c025abaa87fb2a",
   "lastOpenFiles": [
-    "README.md",
-    "연습노트/임시 변수 지양하기.md",
-    "연습노트/몽키 패치.md",
     "영구노트/Java에서 몽키 패치 활용 예시.md",
+    "연습노트/몽키 패치.md",
+    "연습노트/임시 변수 지양하기.md",
+    "README.md",
     "연습노트/var 대신 const, let 사용하기.md",
     "연습노트/JS 역사.md",
     "attachments/screenshot/Pasted image 20240205113144.png",
