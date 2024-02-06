@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/전위 계수.md",
+                "file": "연습노트/도체계의 정전용량.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/전위 계수.md",
+                "file": "연습노트/도체계의 정전용량.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/전위 계수.md",
+                "file": "연습노트/도체계의 정전용량.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/전위 계수.md"
+                "file": "연습노트/도체계의 정전용량.md"
               }
             }
           },
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/전위 계수.md"
+                "file": "연습노트/도체계의 정전용량.md"
               }
             }
           },
@@ -266,10 +265,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc42595feb3e4a29",
+  "active": "eb243758dd1cece5",
   "lastOpenFiles": [
-    "연습노트/도체계의 정전용량.md",
+    "attachments/screenshot/Pasted image 20240206210702.png",
+    "attachments/screenshot/Pasted image 20240206205315.png",
+    "attachments/screenshot/Pasted image 20240206205244.png",
     "연습노트/전위 계수.md",
+    "attachments/screenshot/Pasted image 20240206204849.png",
+    "연습노트/도체계의 정전용량.md",
     "영구노트/유전체.md",
     "영구노트/유전체 경계 조건.md",
     "영구노트/전위.md",
@@ -299,14 +302,10 @@
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "영구노트/1D array constant time query update.md",
     "영구노트/2D array constant time query update.md",
-    "영구노트/725. Split LinkedList in Parts.md",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
     "Excalidraw/전하의 위치 에너지(draw).svg",
-    "Excalidraw/중력의 위치 에너지(draw).svg",
-    "attachments/screenshot/Pasted image 20240203212812.png",
-    "attachments/screenshot/Pasted image 20240203212810.png",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",
