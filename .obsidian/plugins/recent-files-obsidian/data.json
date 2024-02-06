@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "유전체 경계 조건",
+      "path": "영구노트/유전체 경계 조건.md"
+    },
+    {
+      "basename": "직렬로 연결한 유전체 전계(draw)",
+      "path": "Excalidraw/직렬로 연결한 유전체 전계(draw).svg"
+    },
+    {
       "basename": "유전체",
       "path": "영구노트/유전체.md"
     },
     {
-      "basename": "유전체 경계 조건",
-      "path": "영구노트/유전체 경계 조건.md"
+      "basename": "유전체에 의해 생성된 전속선과 전계 분극 관계(draw)",
+      "path": "Excalidraw/유전체에 의해 생성된 전속선과 전계 분극 관계(draw).md"
     },
     {
       "basename": "전기 쌍극자",
@@ -91,14 +99,6 @@
     {
       "basename": "725. Split LinkedList in Parts",
       "path": "영구노트/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "2차원 구간합, 부분합",
-      "path": "영구노트/2차원 구간합, 부분합.md"
-    },
-    {
-      "basename": "본능의 목소리에 귀울여라 by donald trump",
-      "path": "영구노트/본능의 목소리에 귀울여라 by donald trump.md"
     }
   ],
   "omittedPaths": [],
