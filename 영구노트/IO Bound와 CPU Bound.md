@@ -23,6 +23,7 @@ aliases:
 
 >[!info] 버스트
 >어떤 현상이 짧은 시간 안에 집중적으로 일어나는 일
+>![[Pasted image 20240206135123.png]]
 
 >[!info] CPU 버스트
 >프로세스가 CPU에서 한번에 연속적으로 실행되는 시간
@@ -65,7 +66,7 @@ IO 바운드 프로세스의 경우 대부분은 다양한 부분에서 병목�
 
 ## 출처(링크)
 - https://www.youtube.com/watch?v=qnVKEwjG_gM&t=13s
-
+- https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/burst
 ## 연결 노트
 - [[CPU의 작업 처리 방식 (병렬성과 동시성)]]
 - [[CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트]]

@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c558453cefd642c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java에서 몽키 패치 활용 예시.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44c025abaa87fb2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/임시 변수 지양하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a53c4b422bf36f4",
             "type": "leaf",
             "state": {
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "file:bound",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/임시 변수 지양하기.md",
+                "file": "연습노트/var 대신 const, let 사용하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/임시 변수 지양하기.md",
+                "file": "연습노트/var 대신 const, let 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/임시 변수 지양하기.md",
+                "file": "연습노트/var 대신 const, let 사용하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/임시 변수 지양하기.md"
+                "file": "연습노트/var 대신 const, let 사용하기.md"
               }
             }
           },
@@ -242,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/임시 변수 지양하기.md"
+                "file": "연습노트/var 대신 const, let 사용하기.md"
               }
             }
           },
@@ -279,11 +251,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44c025abaa87fb2a",
+  "active": "3a53c4b422bf36f4",
   "lastOpenFiles": [
+    "영구노트/IO Bound와 CPU Bound.md",
+    "attachments/screenshot/Pasted image 20240206135123.png",
     "영구노트/Java에서 몽키 패치 활용 예시.md",
-    "연습노트/몽키 패치.md",
+    "Excalidraw/동축 원통 외부 전계(draw).md",
+    "데일리/2024-01-09.md",
     "연습노트/임시 변수 지양하기.md",
+    "연습노트/몽키 패치.md",
     "README.md",
     "연습노트/var 대신 const, let 사용하기.md",
     "연습노트/JS 역사.md",
@@ -306,10 +282,6 @@
     "영구노트/CPU 클럭 속도.md",
     "영구노트/data jpa repository 응답 타입 유연하게 쓰기.md",
     "영구노트/히오스 제라툴 딜계산.md",
-    "영구노트/Adamic Adars.md",
-    "영구노트/Blocking IO.md",
-    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "영구노트/나만의 노트 분리하기.md",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
@@ -319,7 +291,6 @@
     "attachments/screenshot/Pasted image 20240203212810.png",
     "attachments/screenshot/Pasted image 20240203212708.png",
     "attachments/screenshot/Pasted image 20240203212700.png",
-    "Excalidraw/직렬로 연결한 유전체 전계(draw).svg",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",
