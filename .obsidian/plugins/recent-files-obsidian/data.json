@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-02-06 22.25.25.excalidraw",
-      "path": "Excalidraw/Drawing 2024-02-06 22.25.25.excalidraw.md"
+      "basename": "경계 다루기",
+      "path": "연습노트/경계 다루기.md"
+    },
+    {
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+    },
+    {
+      "basename": "임시 변수 지양하기",
+      "path": "연습노트/임시 변수 지양하기.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "JS 역사",
+      "path": "연습노트/JS 역사.md"
+    },
+    {
+      "basename": "전위 계수",
+      "path": "영구노트/전위 계수.md"
+    },
+    {
+      "basename": "몽키 패치",
+      "path": "영구노트/몽키 패치.md"
     },
     {
       "basename": "도체계의 정전용량",
       "path": "연습노트/도체계의 정전용량.md"
     },
     {
-      "basename": "전위 계수",
-      "path": "연습노트/전위 계수.md"
+      "basename": "고립 구체구 정전 용량(draw)",
+      "path": "Excalidraw/고립 구체구 정전 용량(draw).md"
     },
     {
       "basename": "유전체",
@@ -31,22 +55,6 @@
     {
       "basename": "유전체에 의해 생성된 전속선과 전계 분극 관계(draw)",
       "path": "Excalidraw/유전체에 의해 생성된 전속선과 전계 분극 관계(draw).md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "임시 변수 지양하기",
-      "path": "연습노트/임시 변수 지양하기.md"
-    },
-    {
-      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
-      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "연습노트/무제 파일.md"
     },
     {
       "basename": "정전계",
@@ -85,16 +93,8 @@
       "path": "데일리/2024-01-09.md"
     },
     {
-      "basename": "몽키 패치",
-      "path": "연습노트/몽키 패치.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "JS 역사",
-      "path": "연습노트/JS 역사.md"
     },
     {
       "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",

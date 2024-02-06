@@ -15,8 +15,8 @@ Q[C] ^Dp12Cwdg
 
 # Embedded files
 52ef40665673da79fc52305cd416f41e0415e8be: $$\color{blue}$$
-791ad65aaff2ee695774ec7f2e42b1bbafd96a27: $$Q = ma
-$$
+791ad65aaff2ee695774ec7f2e42b1bbafd96a27: $$V = \frac{Q}{4\pi\epsilon_{0}a}$$
+a3f0aa9aaec6e4ac951368165ed7d250c3789495: $$C = \frac{Q}{V} = 4\pi\epsilon_{0}a$$
 
 %%
 # Drawing
@@ -208,8 +208,8 @@ $$
 		},
 		{
 			"type": "image",
-			"version": 15,
-			"versionNonce": 1623885724,
+			"version": 79,
+			"versionNonce": 654966940,
 			"isDeleted": false,
 			"id": "4t2HpR2q",
 			"fillStyle": "hachure",
@@ -218,18 +218,18 @@ $$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 88.75,
-			"y": -157.7421875,
+			"x": 70.66186268081384,
+			"y": -221.42277043572426,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 66,
-			"height": 17,
+			"width": 137.88359171154306,
+			"height": 61.448122393187674,
 			"seed": 99696,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707225981424,
+			"updated": 1707226059363,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -240,41 +240,37 @@ $$
 			]
 		},
 		{
-			"id": "kFlVDikN",
-			"type": "text",
-			"x": 127.75,
-			"y": -156.2421875,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
+			"type": "image",
+			"version": 126,
+			"versionNonce": 1228277412,
+			"isDeleted": false,
+			"id": "BMxFfWrz2gqxOt-ID9VXX",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 69.49784230939024,
+			"y": -99.15759772677106,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 212.65816153506572,
+			"height": 62.830820453542145,
+			"seed": 41866660,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1421231644,
-			"version": 2,
-			"versionNonce": 103736612,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1707226049938,
+			"boundElements": [],
+			"updated": 1707226126578,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"status": "pending",
+			"fileId": "a3f0aa9aaec6e4ac951368165ed7d250c3789495",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
