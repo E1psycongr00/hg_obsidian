@@ -5,6 +5,10 @@
       "path": "영구노트/유전체.md"
     },
     {
+      "basename": "유전체 경계 조건",
+      "path": "영구노트/유전체 경계 조건.md"
+    },
+    {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
       "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "유전체 경계 조건",
-      "path": "영구노트/유전체 경계 조건.md"
     },
     {
       "basename": "1D array constant time query update",
