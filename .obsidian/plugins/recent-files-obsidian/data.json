@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "전위 계수",
+      "path": "연습노트/전위 계수.md"
+    },
+    {
+      "basename": "도체계의 정전용량",
+      "path": "연습노트/도체계의 정전용량.md"
+    },
+    {
+      "basename": "유전체",
+      "path": "영구노트/유전체.md"
+    },
+    {
       "basename": "유전체 경계 조건",
       "path": "영구노트/유전체 경계 조건.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "직렬로 연결한 유전체 전계(draw)",
       "path": "Excalidraw/직렬로 연결한 유전체 전계(draw).svg"
-    },
-    {
-      "basename": "유전체",
-      "path": "영구노트/유전체.md"
     },
     {
       "basename": "유전체에 의해 생성된 전속선과 전계 분극 관계(draw)",
@@ -35,10 +43,6 @@
     {
       "basename": "무제 파일",
       "path": "연습노트/무제 파일.md"
-    },
-    {
-      "basename": "도체계의 정전용량",
-      "path": "연습노트/도체계의 정전용량.md"
     },
     {
       "basename": "정전계",
@@ -95,10 +99,6 @@
     {
       "basename": "1D array constant time query update",
       "path": "영구노트/1D array constant time query update.md"
-    },
-    {
-      "basename": "2D array constant time query update",
-      "path": "영구노트/2D array constant time query update.md"
     }
   ],
   "omittedPaths": [],
