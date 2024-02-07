@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "b1ea397cafd72cf5",
+            "id": "aef80ab631190b4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/단축 평가 계산.md",
+                "file": "연습노트/nullish 병합 연산자.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/단축 평가 계산.md",
+                "file": "연습노트/nullish 병합 연산자.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/단축 평가 계산.md",
+                "file": "연습노트/nullish 병합 연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/단축 평가 계산.md",
+                "file": "연습노트/nullish 병합 연산자.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/단축 평가 계산.md"
+                "file": "연습노트/nullish 병합 연산자.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/단축 평가 계산.md"
+                "file": "연습노트/nullish 병합 연산자.md"
               }
             }
           },
@@ -266,9 +266,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1ea397cafd72cf5",
+  "active": "9d534a5df67b7cbf",
   "lastOpenFiles": [
     "연습노트/Truthy or Falsy.md",
+    "연습노트/nullish 병합 연산자.md",
     "연습노트/단축 평가 계산.md",
     "영구노트/경계 다루기.md",
     "연습노트/도체계의 정전용량.md",
@@ -303,7 +304,6 @@
     "데일리/2024-01-09.md",
     "README.md",
     "attachments/screenshot/Pasted image 20240205113144.png",
-    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",

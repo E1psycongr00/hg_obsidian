@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "단축 평가 계산",
-      "path": "연습노트/단축 평가 계산.md"
+      "basename": "nullish 병합 연산자",
+      "path": "연습노트/nullish 병합 연산자.md"
     },
     {
       "basename": "Truthy or Falsy",
       "path": "연습노트/Truthy or Falsy.md"
+    },
+    {
+      "basename": "단축 평가 계산",
+      "path": "연습노트/단축 평가 계산.md"
     },
     {
       "basename": "경계 다루기",
@@ -95,10 +99,6 @@
     {
       "basename": "동축 원통 외부 전계(draw)",
       "path": "Excalidraw/동축 원통 외부 전계(draw).md"
-    },
-    {
-      "basename": "2024-01-09",
-      "path": "데일리/2024-01-09.md"
     }
   ],
   "omittedPaths": [],

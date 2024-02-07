@@ -84,6 +84,7 @@ null, undefined 같은 실체가 없거나 0이거나 문자열이 빈경우 또
 - https://developer.mozilla.org/en-US/docs/Glossary/Truthy
 
 ## 연결 노트
+- [[단축 평가 계산]]
 
 
 
