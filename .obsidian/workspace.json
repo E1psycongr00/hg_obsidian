@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2cbf6e68b465d810",
+        "id": "660436bc7dab96f7",
         "type": "tabs",
         "children": [
           {
-            "id": "ca95944b829ef1ca",
+            "id": "34f06c48410210fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/경계 다루기.md",
+                "file": "연습노트/Truthy or Falsy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1ea397cafd72cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/단축 평가 계산.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/경계 다루기.md",
+                "file": "연습노트/단축 평가 계산.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/경계 다루기.md",
+                "file": "연습노트/단축 평가 계산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/경계 다루기.md",
+                "file": "연습노트/단축 평가 계산.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/경계 다루기.md"
+                "file": "연습노트/단축 평가 계산.md"
               }
             }
           },
@@ -215,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/경계 다루기.md"
+                "file": "연습노트/단축 평가 계산.md"
               }
             }
           },
@@ -252,10 +266,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca95944b829ef1ca",
+  "active": "b1ea397cafd72cf5",
   "lastOpenFiles": [
-    "연습노트/도체계의 정전용량.md",
+    "연습노트/Truthy or Falsy.md",
+    "연습노트/단축 평가 계산.md",
     "영구노트/경계 다루기.md",
+    "연습노트/도체계의 정전용량.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/임시 변수 지양하기.md",
     "연습노트/전기 쌍극자.md",
@@ -288,7 +304,6 @@
     "README.md",
     "attachments/screenshot/Pasted image 20240205113144.png",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
-    "영구노트/1D array constant time query update.md",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
