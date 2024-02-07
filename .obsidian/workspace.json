@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37059e270e835640",
+        "id": "2cbf6e68b465d810",
         "type": "tabs",
         "children": [
           {
-            "id": "eb243758dd1cece5",
+            "id": "ca95944b829ef1ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/경계 다루기.md",
+                "file": "영구노트/경계 다루기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/경계 다루기.md",
+                "file": "영구노트/경계 다루기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/경계 다루기.md",
+                "file": "영구노트/경계 다루기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/경계 다루기.md",
+                "file": "영구노트/경계 다루기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/경계 다루기.md"
+                "file": "영구노트/경계 다루기.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/경계 다루기.md"
+                "file": "영구노트/경계 다루기.md"
               }
             }
           },
@@ -252,15 +252,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb243758dd1cece5",
+  "active": "ca95944b829ef1ca",
   "lastOpenFiles": [
+    "연습노트/도체계의 정전용량.md",
+    "영구노트/경계 다루기.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/임시 변수 지양하기.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/JS 역사.md",
     "영구노트/전위 계수.md",
     "영구노트/몽키 패치.md",
-    "연습노트/도체계의 정전용량.md",
     "Excalidraw/고립 구체구 정전 용량(draw).md",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
     "attachments/screenshot/Pasted image 20240206212008.png",
@@ -274,7 +275,6 @@
     "Excalidraw/직렬로 연결한 유전체 전계(draw).svg",
     "Excalidraw/유전체에 의해 생성된 전속선과 전계 분극 관계(draw).md",
     "Excalidraw/유전체에 의해 생성된 전속선과 전계 분극 관계(draw).svg",
-    "연습노트/경계 다루기.md",
     "영구노트/정전계.md",
     "영구노트/전속.md",
     "영구노트/전하(Elecric Charge).md",
