@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "var 대신 const, let 사용하기",
+      "path": "연습노트/var 대신 const, let 사용하기.md"
+    },
+    {
+      "basename": "단축 평가 계산",
+      "path": "영구노트/단축 평가 계산.md"
+    },
+    {
       "basename": "nullish 병합 연산자",
       "path": "연습노트/nullish 병합 연산자.md"
     },
@@ -9,8 +17,8 @@
       "path": "연습노트/Truthy or Falsy.md"
     },
     {
-      "basename": "단축 평가 계산",
-      "path": "연습노트/단축 평가 계산.md"
+      "basename": "Trie",
+      "path": "영구노트/Trie.md"
     },
     {
       "basename": "경계 다루기",
@@ -85,20 +93,12 @@
       "path": "Excalidraw/분극으로 인한 전계 감소(draw).md"
     },
     {
-      "basename": "var 대신 const, let 사용하기",
-      "path": "연습노트/var 대신 const, let 사용하기.md"
-    },
-    {
       "basename": "IO Bound와 CPU Bound",
       "path": "영구노트/IO Bound와 CPU Bound.md"
     },
     {
       "basename": "Java에서 몽키 패치 활용 예시",
       "path": "영구노트/Java에서 몽키 패치 활용 예시.md"
-    },
-    {
-      "basename": "동축 원통 외부 전계(draw)",
-      "path": "Excalidraw/동축 원통 외부 전계(draw).md"
     }
   ],
   "omittedPaths": [],
