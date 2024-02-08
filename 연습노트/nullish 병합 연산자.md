@@ -3,11 +3,13 @@ tags:
   - 클린코드
   - JS
 aliases:
+  - nullish
+  - nullish coalescing operator
 ---
 작성 날짜: 2024-02-07
 작성 시간: 22:27
 
-#미완
+#미완 #클린코드 #JS 
 
 ----
 ## 내용(Content)

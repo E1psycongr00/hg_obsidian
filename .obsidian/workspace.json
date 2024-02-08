@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-                "mode": "preview",
+                "file": "연습노트/nullish 병합 연산자.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/nullish 병합 연산자.md",
+                "file": "연습노트/Truthy or Falsy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,22 +265,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9ae6adb4200d235",
+  "active": "78c60daff4e6e971",
   "lastOpenFiles": [
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JS 역사.md",
+    "연습노트/전기 쌍극자.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/유사 배열 객체.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "연습노트/Truthy or Falsy.md",
     "연습노트/nullish 병합 연산자.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Truthy or Falsy.md",
     "연습노트/var 대신 const, let 사용하기.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/유사 배열 객체.md",
     "영구노트/임시 변수 지양하기.md",
     "영구노트/배열 불변성 복사.md",
     "attachments/screenshot/Pasted image 20240208102207.png",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/단축 평가 계산.md",
     "영구노트/Trie.md",
     "영구노트/경계 다루기.md",
