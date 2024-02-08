@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Lookup Table.md",
+                "file": "연습노트/도체계의 정전용량.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "55f222125d15ef7f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Lookup Table.md",
+                "file": "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Lookup Table.md",
+                "file": "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Lookup Table.md",
+                "file": "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +189,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Lookup Table.md"
+                "file": "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.md"
               }
             }
           },
@@ -215,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Lookup Table.md"
+                "file": "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.md"
               }
             }
           },
@@ -252,12 +263,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5be6f32f492c6e3c",
+  "active": "55f222125d15ef7f",
   "lastOpenFiles": [
+    "연습노트/도체계의 정전용량.md",
+    "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-08 21.15.49.excalidraw.svg",
+    "연습노트/Lookup Table.md",
     "영구노트/Computed property name.md",
     "attachments/screenshot/Pasted image 20240208210809.png",
     "attachments/screenshot/Pasted image 20240208210753.png",
-    "연습노트/Lookup Table.md",
     "연습노트/shorthand property names.md",
     "영구노트/배열은 객체다(JS).md",
     "연습노트/var 대신 const, let 사용하기.md",
@@ -268,7 +282,6 @@
     "연습노트/JS 역사.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/도체계의 정전용량.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/전기 쌍극자.md",
     "영구노트/Truthy or Falsy.md",
@@ -281,14 +294,12 @@
     "영구노트/경계 다루기.md",
     "영구노트/전위 계수.md",
     "영구노트/몽키 패치.md",
-    "Excalidraw/고립 구체구 정전 용량(draw).md",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
     "attachments/screenshot/Pasted image 20240206212008.png",
     "attachments/screenshot/Pasted image 20240206210702.png",
     "attachments/screenshot/Pasted image 20240206205315.png",
     "attachments/screenshot/Pasted image 20240206205244.png",
     "attachments/screenshot/Pasted image 20240206204849.png",
-    "Excalidraw/직렬로 연결한 유전체 전계(draw).svg",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
