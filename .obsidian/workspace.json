@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38a8e25d30d60dde",
+            "id": "5be6f32f492c6e3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/배열은 객체다(JS).md",
+                "file": "연습노트/Lookup Table.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/배열은 객체다(JS).md",
+                "file": "연습노트/Lookup Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/배열은 객체다(JS).md",
+                "file": "연습노트/Lookup Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/배열은 객체다(JS).md",
+                "file": "연습노트/Lookup Table.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/배열은 객체다(JS).md"
+                "file": "연습노트/Lookup Table.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/배열은 객체다(JS).md"
+                "file": "연습노트/Lookup Table.md"
               }
             }
           },
@@ -252,11 +252,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38a8e25d30d60dde",
+  "active": "5be6f32f492c6e3c",
   "lastOpenFiles": [
+    "영구노트/Computed property name.md",
+    "attachments/screenshot/Pasted image 20240208210809.png",
+    "attachments/screenshot/Pasted image 20240208210753.png",
+    "연습노트/Lookup Table.md",
+    "연습노트/shorthand property names.md",
+    "영구노트/배열은 객체다(JS).md",
     "연습노트/var 대신 const, let 사용하기.md",
     "연습노트/유사 배열 객체.md",
-    "영구노트/배열은 객체다(JS).md",
     "영구노트/배열 불변성 복사(JS).md",
     "연습노트/배열 불변 복사(JS).md",
     "연습노트/Spring에서 예외 처리 과정.md",
@@ -283,13 +288,7 @@
     "attachments/screenshot/Pasted image 20240206205315.png",
     "attachments/screenshot/Pasted image 20240206205244.png",
     "attachments/screenshot/Pasted image 20240206204849.png",
-    "영구노트/유전체.md",
-    "영구노트/유전체 경계 조건.md",
-    "영구노트/전위.md",
     "Excalidraw/직렬로 연결한 유전체 전계(draw).svg",
-    "Excalidraw/유전체에 의해 생성된 전속선과 전계 분극 관계(draw).md",
-    "Excalidraw/유전체에 의해 생성된 전속선과 전계 분극 관계(draw).svg",
-    "attachments/screenshot/Pasted image 20240206135123.png",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",

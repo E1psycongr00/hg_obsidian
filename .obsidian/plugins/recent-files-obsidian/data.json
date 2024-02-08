@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Lookup Table",
+      "path": "연습노트/Lookup Table.md"
+    },
+    {
+      "basename": "Computed property name",
+      "path": "영구노트/Computed property name.md"
+    },
+    {
+      "basename": "shorthand property names",
+      "path": "연습노트/shorthand property names.md"
+    },
+    {
       "basename": "배열은 객체다(JS)",
       "path": "영구노트/배열은 객체다(JS).md"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "유전체 경계 조건",
       "path": "영구노트/유전체 경계 조건.md"
-    },
-    {
-      "basename": "전위",
-      "path": "영구노트/전위.md"
     }
   ],
   "omittedPaths": [],
