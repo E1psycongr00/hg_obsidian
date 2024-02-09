@@ -19,9 +19,7 @@ c ^u4Lpylz6
 dbeac98def5b54d66ec003f4f7165f0ac4965f6c: $$
 V = \frac{Q}{4\pi\epsilon_{0}a} + \frac{-Q}{4\pi\epsilon_{0}b} + \frac{Q}{4\pi\epsilon_{0}c} = \frac{Q}{4\pi\epsilon_{0}}\left(   \frac{1}{a} - \frac{1}{b} +\frac{1}{c} \right)
 $$
-338598004b8e747b79c682be14934d5af9774f97: $$
-V = \frac{Q}{4\pi\epsilon_{0}a} + \frac{-Q}{4\pi\epsilon_{0}b} + \frac{Q}{4\pi\epsilon_{0}c} = \frac{Q}{4\pi\epsilon_{0}}\left(   \frac{1}{a} - \frac{1}{b} +\frac{1}{c} \right)
-$$
+338598004b8e747b79c682be14934d5af9774f97: $$C = \frac{Q}{V} = \frac{4\pi\epsilon_{0}}{\frac{1}{a} - \frac{1}{b}}$$
 
 %%
 # Drawing
@@ -396,8 +394,8 @@ $$
 		},
 		{
 			"type": "image",
-			"version": 272,
-			"versionNonce": 664926661,
+			"version": 381,
+			"versionNonce": 901234277,
 			"isDeleted": false,
 			"id": "yhFepifv3N68vnuevOJjH",
 			"fillStyle": "hachure",
@@ -406,18 +404,18 @@ $$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -542.7448720657021,
-			"y": 296.94799814837563,
+			"x": -380.6447692660054,
+			"y": 265.0125461360391,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 788.9897441314041,
-			"height": 81.61962870324871,
+			"width": 285.78953853201074,
+			"height": 91.37488646941839,
 			"seed": 843063371,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1707395790243,
+			"updated": 1707395875447,
 			"link": null,
 			"locked": false,
 			"status": "pending",
