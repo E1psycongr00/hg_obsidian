@@ -5,12 +5,16 @@
       "path": "연습노트/함수와 this.md"
     },
     {
-      "basename": "일급 객체",
-      "path": "영구노트/일급 객체.md"
+      "basename": "동심구(draw)",
+      "path": "Excalidraw/동심구(draw).md"
     },
     {
       "basename": "Lookup Table",
       "path": "연습노트/Lookup Table.md"
+    },
+    {
+      "basename": "일급 객체",
+      "path": "영구노트/일급 객체.md"
     },
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
@@ -27,10 +31,6 @@
     {
       "basename": "도체계의 정전용량",
       "path": "영구노트/도체계의 정전용량.md"
-    },
-    {
-      "basename": "동심구(draw)",
-      "path": "Excalidraw/동심구(draw).md"
     },
     {
       "basename": "Computed property name",

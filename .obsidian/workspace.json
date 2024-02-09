@@ -32,16 +32,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "55f222125d15ef7f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/동심구(draw).md"
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -278,6 +268,12 @@
   },
   "active": "f14e6e69392d13c6",
   "lastOpenFiles": [
+    "Excalidraw/동심구(draw).md",
+    "연습노트/함수와 this.md",
+    "연습노트/Lookup Table.md",
+    "attachments/screenshot/Pasted image 20240209153737.png",
+    "attachments/screenshot/Pasted image 20240209152924.png",
+    "attachments/screenshot/Pasted image 20240209152724.png",
     "attachments/screenshot/Pasted image 20240209145334.png",
     "attachments/screenshot/Pasted image 20240209145333.png",
     "attachments/screenshot/Pasted image 20240209145317.png",
@@ -285,18 +281,11 @@
     "attachments/screenshot/Pasted image 20240209145255.png",
     "attachments/screenshot/Pasted image 20240209144443.png",
     "attachments/screenshot/Pasted image 20240209144438.png",
-    "attachments/screenshot/Pasted image 20240209144427.png",
-    "attachments/screenshot/Pasted image 20240209144206.png",
-    "attachments/screenshot/Pasted image 20240209144055.png",
-    "attachments/screenshot/Pasted image 20240209142100.png",
     "영구노트/일급 객체.md",
-    "연습노트/함수와 this.md",
-    "연습노트/Lookup Table.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JS 역사.md",
     "연습노트/전기 쌍극자.md",
     "영구노트/도체계의 정전용량.md",
-    "Excalidraw/동심구(draw).md",
     "영구노트/Computed property name.md",
     "연습노트/shorthand property names.md",
     "영구노트/배열은 객체다(JS).md",

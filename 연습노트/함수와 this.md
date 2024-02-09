@@ -74,9 +74,60 @@ obj.hello("world");
 
 ### Bind 메소드
 >[!summary] Function.prototype.bind(obj)
->바인드 메소드는 함수와 같이 body, scope를 가지고 첫번째 파라미터를 this로 고정해서 새로운 함수를 만든다. (어디서 사용됬는지 상관 없음)
+>콜백 함수와 같이 가져와서 함수를 결합하는 경우 this가 소멸되는데 this를 온전히 가져오고 싶을 때 사용하는 함수
 
+**소멸되는 this**
+```js
+const person = {
+    name: "Jack",
+    hello(thing) {
+        console.log(`${this.name} says hello ${thing}`);
+    },
+};
 
+const boundedHello = person.hello;
+boundedHello("world");
+```
+![[Pasted image 20240209152724.png]]
+
+boundedHello를 person.Hello 메서드로 할당했다. 그러나 이렇게 할당하면 완전히 결속되지 못하고 this는 undefined가 된다.
+
+이를 해결하기 위해 function의 this 정보를 가져오기 위해서  bind를 사용한다.
+
+```js
+const person = {
+    name: "Jack",
+    hello(thing) {
+        console.log(`${this.name} says hello ${thing}`);
+    },
+};
+
+const boundedHello = person.hello.bind(person);
+boundedHello("world");
+```
+
+![[Pasted image 20240209152924.png]]
+
+### 생성자 함수
+>[!summary] 생성자 함수
+>생성자 함수에서는 new 키워드를 이용해 함수를 호출하면 인스턴스가 생성되고 생성된 인스턴스가 this를 가르킨다.
+
+```js
+function Person(name, age) {
+    this.name = name;
+    this.age = age;
+    this.hello = function () {
+        console.log(
+            `Hello, my name is ${this.name} and I am ${this.age} years old.`
+        );
+    };
+}
+  
+const person1 = new Person("John", 20);
+person1.hello();
+```
+
+![[Pasted image 20240209153737.png]]
 ## 질문 & 확장
 
 (없음)
