@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/함수 v 메서드 vs 생성자.md",
+                "file": "연습노트/함수와 this.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/함수 v 메서드 vs 생성자.md",
+                "file": "연습노트/함수와 this.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/함수 v 메서드 vs 생성자.md",
+                "file": "연습노트/함수와 this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/함수 v 메서드 vs 생성자.md",
+                "file": "연습노트/함수와 this.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/함수 v 메서드 vs 생성자.md"
+                "file": "연습노트/함수와 this.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/함수 v 메서드 vs 생성자.md"
+                "file": "연습노트/함수와 this.md"
               }
             }
           },
@@ -278,20 +278,26 @@
   },
   "active": "f14e6e69392d13c6",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240209145334.png",
+    "attachments/screenshot/Pasted image 20240209145333.png",
+    "attachments/screenshot/Pasted image 20240209145317.png",
+    "attachments/screenshot/Pasted image 20240209145305.png",
+    "attachments/screenshot/Pasted image 20240209145255.png",
+    "attachments/screenshot/Pasted image 20240209144443.png",
+    "attachments/screenshot/Pasted image 20240209144438.png",
+    "attachments/screenshot/Pasted image 20240209144427.png",
+    "attachments/screenshot/Pasted image 20240209144206.png",
+    "attachments/screenshot/Pasted image 20240209144055.png",
     "attachments/screenshot/Pasted image 20240209142100.png",
     "영구노트/일급 객체.md",
-    "연습노트/함수 v 메서드 vs 생성자.md",
+    "연습노트/함수와 this.md",
     "연습노트/Lookup Table.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JS 역사.md",
     "연습노트/전기 쌍극자.md",
     "영구노트/도체계의 정전용량.md",
-    "attachments/screenshot/Pasted image 20240208214355.png",
     "Excalidraw/동심구(draw).md",
-    "Excalidraw/동심구(draw).svg",
     "영구노트/Computed property name.md",
-    "attachments/screenshot/Pasted image 20240208210809.png",
-    "attachments/screenshot/Pasted image 20240208210753.png",
     "연습노트/shorthand property names.md",
     "영구노트/배열은 객체다(JS).md",
     "연습노트/var 대신 const, let 사용하기.md",
@@ -306,14 +312,8 @@
     "영구노트/nullish 병합 연산자.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/임시 변수 지양하기.md",
-    "attachments/screenshot/Pasted image 20240208102207.png",
     "영구노트/Trie.md",
     "영구노트/경계 다루기.md",
-    "Excalidraw/고립 구체구 정전 용량(draw).svg",
-    "attachments/screenshot/Pasted image 20240206212008.png",
-    "attachments/screenshot/Pasted image 20240206210702.png",
-    "attachments/screenshot/Pasted image 20240206205315.png",
-    "attachments/screenshot/Pasted image 20240206205244.png",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
