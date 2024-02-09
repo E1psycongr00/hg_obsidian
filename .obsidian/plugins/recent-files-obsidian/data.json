@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "함수 v 메서드 vs 생성자",
+      "path": "연습노트/함수 v 메서드 vs 생성자.md"
+    },
+    {
+      "basename": "일급 객체",
+      "path": "영구노트/일급 객체.md"
+    },
+    {
       "basename": "Lookup Table",
       "path": "연습노트/Lookup Table.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "몽키 패치",
       "path": "영구노트/몽키 패치.md"
-    },
-    {
-      "basename": "고립 구체구 정전 용량(draw)",
-      "path": "Excalidraw/고립 구체구 정전 용량(draw).md"
-    },
-    {
-      "basename": "유전체",
-      "path": "영구노트/유전체.md"
     }
   ],
   "omittedPaths": [],

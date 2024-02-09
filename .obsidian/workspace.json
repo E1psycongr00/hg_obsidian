@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "f14e6e69392d13c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/함수 v 메서드 vs 생성자.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55f222125d15ef7f",
             "type": "leaf",
             "state": {
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Lookup Table.md",
+                "file": "연습노트/함수 v 메서드 vs 생성자.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Lookup Table.md",
+                "file": "연습노트/함수 v 메서드 vs 생성자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Lookup Table.md",
+                "file": "연습노트/함수 v 메서드 vs 생성자.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Lookup Table.md"
+                "file": "연습노트/함수 v 메서드 vs 생성자.md"
               }
             }
           },
@@ -225,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Lookup Table.md"
+                "file": "연습노트/함수 v 메서드 vs 생성자.md"
               }
             }
           },
@@ -262,8 +276,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5be6f32f492c6e3c",
+  "active": "f14e6e69392d13c6",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240209142100.png",
+    "영구노트/일급 객체.md",
+    "연습노트/함수 v 메서드 vs 생성자.md",
+    "연습노트/Lookup Table.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JS 역사.md",
     "연습노트/전기 쌍극자.md",
@@ -271,7 +289,6 @@
     "attachments/screenshot/Pasted image 20240208214355.png",
     "Excalidraw/동심구(draw).md",
     "Excalidraw/동심구(draw).svg",
-    "연습노트/Lookup Table.md",
     "영구노트/Computed property name.md",
     "attachments/screenshot/Pasted image 20240208210809.png",
     "attachments/screenshot/Pasted image 20240208210753.png",
@@ -292,8 +309,6 @@
     "attachments/screenshot/Pasted image 20240208102207.png",
     "영구노트/Trie.md",
     "영구노트/경계 다루기.md",
-    "영구노트/전위 계수.md",
-    "영구노트/몽키 패치.md",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
     "attachments/screenshot/Pasted image 20240206212008.png",
     "attachments/screenshot/Pasted image 20240206210702.png",
