@@ -74,7 +74,7 @@ obj.hello("world");
 
 ### Bind 메소드
 >[!summary] Function.prototype.bind(obj)
->바인드 메소드는 함수와 같이 body, scope를 가지고 첫번째 파라미터를 this로 고정해서 새로운 함수를 만든다.(어디서 사용됬는지 상관 없음)
+>바인드 메소드는 함수와 같이 body, scope를 가지고 첫번째 파라미터를 this로 고정해서 새로운 함수를 만든다. (어디서 사용됬는지 상관 없음)
 
 
 ## 질문 & 확장
@@ -85,6 +85,7 @@ obj.hello("world");
 - https://ko.wikipedia.org/wiki/%EC%9D%BC%EA%B8%89_%EA%B0%9D%EC%B2%B4
 - https://velog.io/@reveloper-1311/%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4First-Class-Object%EB%9E%80
 - https://velog.io/@imacoolgirlyo/JS-JavaScript-Function-Invocation%EC%99%80-this#-functionprototypecallthis-arglist%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%95%A8%EC%88%98-%ED%98%B8%EC%B6%9C
+- https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/
 ## 연결 노트
 
 
