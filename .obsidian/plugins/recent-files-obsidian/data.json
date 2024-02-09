@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "함수와 this",
-      "path": "연습노트/함수와 this.md"
-    },
-    {
-      "basename": "동심구(draw)",
-      "path": "Excalidraw/동심구(draw).md"
+      "basename": "함수 바인딩",
+      "path": "연습노트/함수 바인딩.md"
     },
     {
       "basename": "Lookup Table",
       "path": "연습노트/Lookup Table.md"
+    },
+    {
+      "basename": "함수와 this",
+      "path": "영구노트/함수와 this.md"
+    },
+    {
+      "basename": "생성자 함수",
+      "path": "영구노트/생성자 함수.md"
+    },
+    {
+      "basename": "동심구(draw)",
+      "path": "Excalidraw/동심구(draw).md"
     },
     {
       "basename": "일급 객체",
@@ -91,14 +99,6 @@
     {
       "basename": "경계 다루기",
       "path": "영구노트/경계 다루기.md"
-    },
-    {
-      "basename": "전위 계수",
-      "path": "영구노트/전위 계수.md"
-    },
-    {
-      "basename": "몽키 패치",
-      "path": "영구노트/몽키 패치.md"
     }
   ],
   "omittedPaths": [],
