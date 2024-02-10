@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "연습노트/전기 쌍극자.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "연습노트/전기 쌍극자.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "연습노트/전기 쌍극자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "연습노트/전기 쌍극자.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/default value.md"
+                "file": "연습노트/전기 쌍극자.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/default value.md"
+                "file": "연습노트/전기 쌍극자.md"
               }
             }
           },
@@ -254,6 +254,7 @@
   },
   "active": "0b3c3c4d46c71db9",
   "lastOpenFiles": [
+    "연습노트/default value.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/JS 역사.md",
@@ -264,7 +265,6 @@
     "영구노트/Lookup Table.md",
     "영구노트/객체 분해 할당.md",
     "영구노트/배열은 객체다(JS).md",
-    "연습노트/default value.md",
     "영구노트/Computed property name.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "영구노트/함수 바인딩.md",
