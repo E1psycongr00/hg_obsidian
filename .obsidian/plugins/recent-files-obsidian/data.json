@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "cherry pick up",
+      "path": "연습노트/cherry pick up.md"
+    },
+    {
       "basename": "default value",
       "path": "연습노트/default value.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Truthy or Falsy",
       "path": "영구노트/Truthy or Falsy.md"
-    },
-    {
-      "basename": "단축 평가 계산",
-      "path": "영구노트/단축 평가 계산.md"
     }
   ],
   "omittedPaths": [],
