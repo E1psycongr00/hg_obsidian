@@ -7,6 +7,12 @@
 
 ----
 ## 내용(Content)
+### Java17 Switch Expression
+>[!summary] java17의 switch 문 특징
+>- switch문을 통해 결과 값을 반환 가능하다.
+>- break없이 사용 가능한 -> 를 활용한 문법이 존재한다.
+
+**기존 코드**
 ```java
 String x = "MON";  
 switch (x) {  
@@ -52,6 +58,30 @@ String value = switch (x) {
 };  
 System.out.println(value);
 ```
+
+스위치를 그룹핑해서 처리 할 수도 있다.
+
+```java
+String day = "MON";  
+String result = switch (day) {  
+    case "MON", "TUES", "WED", "TURS", "FRI" -> "workday";  
+    case "SAT", "SUN" -> "holiday";  
+    default -> throw new IllegalArgumentException("exception");  
+};
+```
+
+만약 여러가지 처리를 해야해서 block문으로 작성하는 경우 yield로 리턴값을 줄 수 있다.
+
+```java
+String result = switch (food) {  
+    case "pizza" -> {  
+       System.out.println("pizza is trash");  
+       yield "pizza is trash";  
+    }  
+    default -> throw new IllegalArgumentException("exception");  
+};
+```
+
 
 ## 질문 & 확장
 
