@@ -7,7 +7,7 @@ aliases:
 작성 날짜: 2024-02-11
 작성 시간: 22:47
 
-#미완 #솔루션 #알고리즘 #DP 
+#완성 #솔루션 #알고리즘 #DP 
 
 ----
 
@@ -81,3 +81,4 @@ class Solution:
 
 ## 연결 노트
 - [[Dungeon Game]]
+- [[Paths in matrix whose sum is divisible by K]]

@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "edf5f8b520070d6d",
+        "id": "7a50d3410b764d64",
         "type": "tabs",
         "children": [
           {
-            "id": "5a09b5426ce6e46f",
+            "id": "3a7c8beb501699f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Paths in matrix whose sum is divisible by K.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e63ce6ff7652c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Paths in matrix whose sum is divisible by K.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Paths in matrix whose sum is divisible by K.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Paths in matrix whose sum is divisible by K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Paths in matrix whose sum is divisible by K.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "연습노트/Paths in matrix whose sum is divisible by K.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/Paths in matrix whose sum is divisible by K.md"
-              }
+              "state": {}
             }
           },
           {
@@ -266,44 +240,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e63ce6ff7652c4c",
+  "active": "3a7c8beb501699f3",
   "lastOpenFiles": [
+    "영구노트/Paths in matrix whose sum is divisible by K.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/var 대신 const, let 사용하기.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/JS 역사.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/default value.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "영구노트/shorthand property names.md",
+    "영구노트/Dungeon Game.md",
+    "영구노트/cherry pick up.md",
     "attachments/screenshot/Pasted image 20240213174626.png",
     "무제 파일.md",
-    "연습노트/Paths in matrix whose sum is divisible by K.md",
-    "연습노트/Dungeon Game.md",
-    "연습노트/cherry pick up.md",
     "영구노트/Find First Palindromic String in the array.md",
     "attachments/screenshot/Pasted image 20240213124019.png",
-    "연습노트/default value.md",
     "attachments/screenshot/Pasted image 20240213103947.png",
-    "연습노트/전기 쌍극자.md",
     "templates/솔루션 템플릿.md",
     "attachments/screenshot/Pasted image 20240212171223.png",
     "영구노트/객체 분해 할당.md",
     "영구노트/Java17 Switch 문법.md",
     "영구노트/생성자 함수.md",
-    "연습노트/JS 역사.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
     "영구노트/원형큐 구현하기.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "연습노트/shorthand property names.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/Object Freeze.md",
     "영구노트/Lookup Table.md",
     "영구노트/배열은 객체다(JS).md",
     "영구노트/Computed property name.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "영구노트/함수 바인딩.md",
     "영구노트/함수와 this.md",
-    "Excalidraw/동심구(draw).md",
     "attachments/screenshot/Pasted image 20240209153737.png",
     "attachments/screenshot/Pasted image 20240209152924.png",
     "attachments/screenshot/Pasted image 20240209152724.png",
     "attachments/screenshot/Pasted image 20240209145334.png",
     "attachments/screenshot/Pasted image 20240209145333.png",
     "attachments/screenshot/Pasted image 20240209145317.png",
-    "attachments/screenshot/Pasted image 20240209145305.png",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
