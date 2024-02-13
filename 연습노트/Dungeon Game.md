@@ -57,6 +57,38 @@ function go(step) {
 
 
 #### code
+```js
+/**
+ * @param {number[][]} dungeon
+ * @return {number}
+ */
+var calculateMinimumHP = function (dungeon) {
+    const m = dungeon.length;
+    const n = dungeon[0].length;
+    const memo = Array.from(Array(m), () => Array(n).fill(0));
+  
+    function dp(i, j) {
+        if (i == m - 1 && j == n - 1) {
+            return Math.max(1, 1 - dungeon[i][j]);
+        }
+        if (i >= m || j >= n) {
+            return Infinity;
+        }
+        if (memo[i][j]) {
+            return memo[i][j];
+        }
+
+        const right = dp(i, j + 1);
+        const down = dp(i + 1, j);
+        const next = Math.min(right, down);
+        memo[i][j] = Math.max(1, next - dungeon[i][j]);
+        return memo[i][j];
+    }
+
+    return dp(0, 0);
+};
+```
+
 
 ```java
 public class Solution {
