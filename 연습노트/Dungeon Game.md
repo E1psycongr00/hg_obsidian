@@ -19,12 +19,76 @@ aliases:
 ## 해결 방안
 ### Top-down DP
 #### 해결 전략
-재귀를 이용해서 시작점부터 목표지점까지 간다. 이 때 모든 지점마다 HP 1 이상 필요하고 - 발판을 밟으면 HP가 깎이는데 이는 생각을 전환하면 깎이는 발판만큼 +하면 된다. 
+재귀를 이용해서 시작 => 목표 지점까지 가고 재귀가 동작하면서 연산을 통해 기사가 갈 수 있는 최소한의 HP를 얻을 수 있도록 해보자. 그리고 문제를 단순화하기 위해서 1차원 배열을 정의하고 각 배열 별로 필요한 HP를 생각해보자
+
 
 |  | 0 | 1 | 2 | 3 | 4 | 5 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 발판 | -2 | -3 | 4 | 1 | -5 | -3 |
-| 필요한 HP | 2 | 5 | 1 |  |  |  |
+| 발판 | -2 | -3 | 4 | 1 | -2 | 3 |
+| 필요한 HP | 6 | 4 | 1 | 2 | 3 | 1 |
+
+기사에게 다음과 같은 발판이 주어졌을 때 필요한 HP를 어떻게 기록할 수 있을까?
+
+쉬운 이해를 돕기 위해 코드로 작성해보겠다.
+
+```js
+plate = [-2, -3, 4, 1, -2, 3];
+memo = [0 ,0, 0, 0, 0, 0]
+
+function go(step) {
+	if (step === plate.length - 1) {
+		return Math.max(1, 1 - plate[step]); // 필요한 HP는 1 이상
+	}
+	if (memo[step]) {
+		return memo[step]; // memo가 이미 존재하면 출력(memoization)
+	}
+	let myHp = go(step + 1) - plate[step]; // 필요한 HP
+	memo[step] = Math.max(1, myHp); // 필요한 HP는 1 이상 + 기록
+	return memo[step];
+}
+```
+
+이 경우를 확장해서 2차원으로 확장하는 경우 문제 조건에 따라 고려해야 할 것은 다음과 같다.
+- 오른쪽, 아래 2갈래로 이동한다면 주어진 배열 경계를 초과하는 경우에 대한 방어 코드
+- 두 갈래 길이 있고 선택해야 한다면 필요한 HP는 최소가 되어야 함
+- 선택한 갈래길이 최소가 되더라도 hp가 0이라면 그 길을 선택하되 필요한 hp는 1이다.
+
+위 3개를 구현하면 답이다.
+
+
+#### code
+
+```java
+public class Solution {
+    public int calculateMinimumHP(int[][] dungeon) {
+        int n = dungeon.length;
+        int m = dungeon[0].length;
+        int memo[][] = new int[n][m];
+        return dp(0, 0, memo, dungeon, n, m);
+    }
+  
+    private int dp(int i, int j, int[][] memo, int[][] dungeon, int n, int m) {
+
+        if (i == n - 1 && j == m - 1) {
+            return Math.max(1, 1 - dungeon[i][j]);
+        }
+        if (i >= n || j >= m) {
+            return Integer.MAX_VALUE;
+        }
+        if (memo[i][j] != 0) {
+            return memo[i][j];
+        }
+
+        int right = dp(i, j + 1, memo, dungeon, n, m);
+        int down = dp(i + 1, j, memo, dungeon, n, m);
+        int min = Math.min(right, down) - dungeon[i][j];
+        memo[i][j] = Math.max(1, min);
+        return memo[i][j];
+    }
+}
+```
+
+
 
 ## 질문 & 확장
 
