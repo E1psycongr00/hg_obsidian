@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a50d3410b764d64",
+        "id": "305a15bd1542121c",
         "type": "tabs",
         "children": [
           {
-            "id": "3a7c8beb501699f3",
+            "id": "fed4da33cec5fec0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -240,8 +240,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a7c8beb501699f3",
+  "active": "fed4da33cec5fec0",
   "lastOpenFiles": [
+    "영구노트/InfluxDB 소개.md",
     "영구노트/Paths in matrix whose sum is divisible by K.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/var 대신 const, let 사용하기.md",
@@ -271,7 +272,6 @@
     "영구노트/배열은 객체다(JS).md",
     "영구노트/Computed property name.md",
     "영구노트/함수 바인딩.md",
-    "영구노트/함수와 this.md",
     "attachments/screenshot/Pasted image 20240209153737.png",
     "attachments/screenshot/Pasted image 20240209152924.png",
     "attachments/screenshot/Pasted image 20240209152724.png",
