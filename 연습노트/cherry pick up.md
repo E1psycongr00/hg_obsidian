@@ -12,7 +12,7 @@ aliases:
 ----
 
 ## 문제 & 원인
-cherry pickup 문제는 격자형 grid 판에 체리가 갈 수 없는 가시 덤불이 있고, 시작(0, 0)부터 목표 지점(n-1, n-1)까지 갔다가 다시 원점으로 돌아올 때 최대한 많이 체리를 가져 오면 몇개를 가져올 수 있는지 묻는 문제이다.
+cherry pickup 문제는 격자형 grid 판에 체리가 갈 수 없는 가시 덤불이 있고, 시작(0, 0)부터 목표 지점(n-1, n-1)까지 갔다가 다시 원점으로 돌아올 때 최대한 많이 체리를 가져 오면 몇 개를 가져올 수 있는지 묻는 문제이다.
 
 ![[Pasted image 20240212171223.png]]
 
@@ -76,7 +76,7 @@ class Solution:
 (없음)
 
 ## 출처(링크)
-- https://leetcode.com/problems/cherry-pickup/submissions/1172320912/
-- https://leetcode.com/problems/cherry-pickup-ii/
+- [cherry pickup 문제 사이트](https://leetcode.com/problems/cherry-pickup/submissions/1172320912/)
+- [cherry pickup 2 문제 사이트](https://leetcode.com/problems/cherry-pickup-ii/)
 
 ## 연결 노트
