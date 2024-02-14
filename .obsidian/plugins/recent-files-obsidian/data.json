@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "default value",
+      "path": "연습노트/default value.md"
+    },
+    {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "JS 역사",
+      "path": "연습노트/JS 역사.md"
     },
     {
       "basename": "InfluxDB 소개",
@@ -17,28 +37,8 @@
       "path": "연습노트/Spring에서 예외 처리 과정.md"
     },
     {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "JS 역사",
-      "path": "연습노트/JS 역사.md"
-    },
-    {
-      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
-      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
-    },
-    {
-      "basename": "default value",
-      "path": "연습노트/default value.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
       "basename": "shorthand property names",
