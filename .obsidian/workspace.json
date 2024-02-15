@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Find Polygon With Lagest Perimeter.md",
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "이분탐색",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md"
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
               }
             }
           },
@@ -229,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md"
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
               }
             }
           },
@@ -266,9 +264,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f76e875ea7c06933",
+  "active": "fed4da33cec5fec0",
   "lastOpenFiles": [
     "연습노트/Find Polygon With Lagest Perimeter.md",
+    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+    "영구노트/이분 탐색.md",
+    "Resources/IT/알고리즘.md",
     "연습노트/Valid Triangle Number.md",
     "Excalidraw/선분들의 다각형 생성 조건.md",
     "Excalidraw/선분들의 다각형 생성 조건.svg",
@@ -297,9 +298,6 @@
     "영구노트/Java17 Switch 문법.md",
     "영구노트/생성자 함수.md",
     "영구노트/원형큐 구현하기.md",
-    "영구노트/Object Freeze.md",
-    "영구노트/Lookup Table.md",
-    "영구노트/배열은 객체다(JS).md",
     "attachments/screenshot/Pasted image 20240209153737.png",
     "attachments/screenshot/Pasted image 20240209152924.png",
     "attachments/screenshot/Pasted image 20240209152724.png",

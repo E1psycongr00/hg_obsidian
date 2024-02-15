@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Valid Triangle Number",
-      "path": "연습노트/Valid Triangle Number.md"
+      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
+      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
     },
     {
       "basename": "Find Polygon With Lagest Perimeter",
       "path": "연습노트/Find Polygon With Lagest Perimeter.md"
+    },
+    {
+      "basename": "이분 탐색",
+      "path": "영구노트/이분 탐색.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "Resources/IT/알고리즘.md"
+    },
+    {
+      "basename": "Valid Triangle Number",
+      "path": "연습노트/Valid Triangle Number.md"
     },
     {
       "basename": "선분들의 다각형 생성 조건",
@@ -87,18 +99,6 @@
     {
       "basename": "원형큐 구현하기",
       "path": "영구노트/원형큐 구현하기.md"
-    },
-    {
-      "basename": "Object Freeze",
-      "path": "영구노트/Object Freeze.md"
-    },
-    {
-      "basename": "Lookup Table",
-      "path": "영구노트/Lookup Table.md"
-    },
-    {
-      "basename": "배열은 객체다(JS)",
-      "path": "영구노트/배열은 객체다(JS).md"
     }
   ],
   "omittedPaths": [],
