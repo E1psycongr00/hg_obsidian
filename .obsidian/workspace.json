@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "305a15bd1542121c",
+        "id": "086c5efa2c3a6708",
         "type": "tabs",
         "children": [
           {
-            "id": "fed4da33cec5fec0",
+            "id": "1ea4e3c1601bcde8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f76e875ea7c06933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+                "file": "연습노트/Valid Triangle Number.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+                "file": "연습노트/Valid Triangle Number.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+                "file": "연습노트/Valid Triangle Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+                "file": "연습노트/Valid Triangle Number.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
+                "file": "연습노트/Valid Triangle Number.md"
               }
             }
           },
@@ -227,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
+                "file": "연습노트/Valid Triangle Number.md"
               }
             }
           },
@@ -264,13 +252,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fed4da33cec5fec0",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
-    "연습노트/Find Polygon With Lagest Perimeter.md",
+    "연습노트/Valid Number.md",
+    "연습노트/Valid Triangle Number.md",
     "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+    "연습노트/Find Polygon With Lagest Perimeter.md",
     "영구노트/이분 탐색.md",
     "Resources/IT/알고리즘.md",
-    "연습노트/Valid Triangle Number.md",
     "Excalidraw/선분들의 다각형 생성 조건.md",
     "Excalidraw/선분들의 다각형 생성 조건.svg",
     "attachments/screenshot/Pasted image 20240215225125.png",
@@ -297,7 +286,6 @@
     "영구노트/객체 분해 할당.md",
     "영구노트/Java17 Switch 문법.md",
     "영구노트/생성자 함수.md",
-    "영구노트/원형큐 구현하기.md",
     "attachments/screenshot/Pasted image 20240209153737.png",
     "attachments/screenshot/Pasted image 20240209152924.png",
     "attachments/screenshot/Pasted image 20240209152724.png",

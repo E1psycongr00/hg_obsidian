@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Valid Triangle Number",
+      "path": "연습노트/Valid Triangle Number.md"
+    },
+    {
       "basename": "매개변수 탐색 최소 & 최대 해 구하기",
       "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "알고리즘",
       "path": "Resources/IT/알고리즘.md"
-    },
-    {
-      "basename": "Valid Triangle Number",
-      "path": "연습노트/Valid Triangle Number.md"
     },
     {
       "basename": "선분들의 다각형 생성 조건",
@@ -95,10 +95,6 @@
     {
       "basename": "생성자 함수",
       "path": "영구노트/생성자 함수.md"
-    },
-    {
-      "basename": "원형큐 구현하기",
-      "path": "영구노트/원형큐 구현하기.md"
     }
   ],
   "omittedPaths": [],

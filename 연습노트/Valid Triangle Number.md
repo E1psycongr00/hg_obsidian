@@ -21,6 +21,6 @@ aliases:
 (없음)
 
 ## 출처(링크)
-
+- https://leetcode.com/problems/valid-triangle-number/description/
 
 ## 연결 노트
