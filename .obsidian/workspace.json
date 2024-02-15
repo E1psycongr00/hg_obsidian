@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/Find Polygon With Lagest Perimeter.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f76e875ea7c06933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Valid Triangle Number.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/Valid Triangle Number.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/Valid Triangle Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/Valid Triangle Number.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일.md"
+                "file": "연습노트/Valid Triangle Number.md"
               }
             }
           },
@@ -215,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "연습노트/Valid Triangle Number.md"
               }
             }
           },
@@ -252,8 +266,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fed4da33cec5fec0",
+  "active": "f76e875ea7c06933",
   "lastOpenFiles": [
+    "연습노트/Find Polygon With Lagest Perimeter.md",
+    "연습노트/Valid Triangle Number.md",
+    "Excalidraw/선분들의 다각형 생성 조건.md",
+    "Excalidraw/선분들의 다각형 생성 조건.svg",
+    "attachments/screenshot/Pasted image 20240215225125.png",
     "연습노트/default value.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
@@ -269,7 +288,6 @@
     "영구노트/Dungeon Game.md",
     "영구노트/cherry pick up.md",
     "attachments/screenshot/Pasted image 20240213174626.png",
-    "무제 파일.md",
     "영구노트/Find First Palindromic String in the array.md",
     "attachments/screenshot/Pasted image 20240213124019.png",
     "attachments/screenshot/Pasted image 20240213103947.png",
@@ -282,14 +300,10 @@
     "영구노트/Object Freeze.md",
     "영구노트/Lookup Table.md",
     "영구노트/배열은 객체다(JS).md",
-    "영구노트/Computed property name.md",
-    "영구노트/함수 바인딩.md",
     "attachments/screenshot/Pasted image 20240209153737.png",
     "attachments/screenshot/Pasted image 20240209152924.png",
     "attachments/screenshot/Pasted image 20240209152724.png",
     "attachments/screenshot/Pasted image 20240209145334.png",
-    "attachments/screenshot/Pasted image 20240209145333.png",
-    "attachments/screenshot/Pasted image 20240209145317.png",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",

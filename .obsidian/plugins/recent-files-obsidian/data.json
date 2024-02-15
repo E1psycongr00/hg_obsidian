@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "Valid Triangle Number",
+      "path": "연습노트/Valid Triangle Number.md"
+    },
+    {
+      "basename": "Find Polygon With Lagest Perimeter",
+      "path": "연습노트/Find Polygon With Lagest Perimeter.md"
+    },
+    {
+      "basename": "선분들의 다각형 생성 조건",
+      "path": "Excalidraw/선분들의 다각형 생성 조건.md"
     },
     {
       "basename": "default value",
@@ -91,14 +99,6 @@
     {
       "basename": "배열은 객체다(JS)",
       "path": "영구노트/배열은 객체다(JS).md"
-    },
-    {
-      "basename": "Computed property name",
-      "path": "영구노트/Computed property name.md"
-    },
-    {
-      "basename": "함수 바인딩",
-      "path": "영구노트/함수 바인딩.md"
     }
   ],
   "omittedPaths": [],
