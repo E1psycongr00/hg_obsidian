@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
       "basename": "default value",
       "path": "연습노트/default value.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "cherry pick up",
       "path": "영구노트/cherry pick up.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
     },
     {
       "basename": "Find First Palindromic String in the array",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/default value.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/default value.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/default value.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -254,9 +254,9 @@
   },
   "active": "fed4da33cec5fec0",
   "lastOpenFiles": [
+    "연습노트/default value.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "연습노트/default value.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/JS 역사.md",
