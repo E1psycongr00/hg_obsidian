@@ -1,48 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "upper bound",
-      "path": "연습노트/upper bound.md"
-    },
-    {
-      "basename": "lower bound",
-      "path": "연습노트/lower bound.md"
-    },
-    {
       "basename": "Valid Triangle Number",
       "path": "연습노트/Valid Triangle Number.md"
     },
     {
-      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
-      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
-    },
-    {
-      "basename": "Lower Bound 동작 과정",
-      "path": "Excalidraw/Lower Bound 동작 과정.svg"
-    },
-    {
-      "basename": "Lower Bound 동작 과정",
-      "path": "Excalidraw/Lower Bound 동작 과정.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "Resources/IT/알고리즘.md"
-    },
-    {
-      "basename": "이분 탐색",
-      "path": "영구노트/이분 탐색.md"
+      "basename": "default value",
+      "path": "연습노트/default value.md"
     },
     {
       "basename": "Find Polygon With Lagest Perimeter",
       "path": "연습노트/Find Polygon With Lagest Perimeter.md"
     },
     {
-      "basename": "선분들의 다각형 생성 조건",
-      "path": "Excalidraw/선분들의 다각형 생성 조건.md"
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
-      "basename": "default value",
-      "path": "연습노트/default value.md"
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "upper bound",
+      "path": "영구노트/upper bound.md"
+    },
+    {
+      "basename": "lower bound",
+      "path": "영구노트/lower bound.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "Resources/IT/알고리즘.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "이분 탐색",
+      "path": "영구노트/이분 탐색.md"
+    },
+    {
+      "basename": "Lower Bound 동작 과정",
+      "path": "Excalidraw/Lower Bound 동작 과정.md"
+    },
+    {
+      "basename": "Upper Bound 동작 과정",
+      "path": "Excalidraw/Upper Bound 동작 과정.md"
+    },
+    {
+      "basename": "Lower Bound 동작 과정",
+      "path": "Excalidraw/Lower Bound 동작 과정.svg"
+    },
+    {
+      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
+      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
+    },
+    {
+      "basename": "선분들의 다각형 생성 조건",
+      "path": "Excalidraw/선분들의 다각형 생성 조건.md"
     },
     {
       "basename": "전기 쌍극자",
@@ -73,14 +89,6 @@
       "path": "영구노트/Paths in matrix whose sum is divisible by K.md"
     },
     {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
       "basename": "shorthand property names",
       "path": "영구노트/shorthand property names.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "cherry pick up",
       "path": "영구노트/cherry pick up.md"
-    },
-    {
-      "basename": "Find First Palindromic String in the array",
-      "path": "영구노트/Find First Palindromic String in the array.md"
-    },
-    {
-      "basename": "솔루션 템플릿",
-      "path": "templates/솔루션 템플릿.md"
     }
   ],
   "omittedPaths": [],

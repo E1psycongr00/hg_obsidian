@@ -8,7 +8,7 @@ aliases:
 작성 날짜: 2024-02-16
 작성 시간: 09:08
 
-#미완 #알고리즘 #이분탐색 #스니펫 
+#완성 #알고리즘 #이분탐색 #스니펫 
 
 ----
 ## 내용(Content)
@@ -101,6 +101,20 @@ class UtilsTest {
 ![[Pasted image 20240216104913.png]]
 
 
+#### JS
+```js
+function lowerbound(nums, lo, hi, target) {
+	while (lo < hi) {
+		let mid = Math.floor(lo + (hi - lo) / 2);
+		if (nums[mid] < target) {
+			lo = mid + 1;
+		} else {
+			hi = mid;
+		}
+	}
+	return lo;
+}
+```
 ## 질문 & 확장
 
 (없음)
@@ -109,7 +123,8 @@ class UtilsTest {
 
 
 ## 연결 노트
-
+- [[이분 탐색]]
+- [[upper bound]]
 
 
 
