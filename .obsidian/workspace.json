@@ -4,18 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "598a49f449dd4c7b",
+        "id": "6de14d1ca2df200e",
         "type": "tabs",
         "children": [
           {
-            "id": "a7cee2ca7bff46b3",
+            "id": "5a5e20fa70ce6104",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Parametric Search 조건을 만족하는 최대값.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aeda71b7e483a16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +188,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md"
+              }
             }
           },
           {
@@ -204,7 +225,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md"
+              }
             }
           },
           {
@@ -240,16 +263,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7cee2ca7bff46b3",
+  "active": "6aeda71b7e483a16",
   "lastOpenFiles": [
+    "연습노트/Parametric Search 조건을 만족하는 최대값.md",
+    "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.svg",
+    "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md",
+    "영구노트/upper bound.md",
+    "영구노트/lower bound.md",
     "영구노트/Valid Triangle Number.md",
     "attachments/screenshot/Pasted image 20240216150439.png",
-    "영구노트/upper bound.md",
     "연습노트/default value.md",
     "연습노트/Find Polygon With Lagest Perimeter.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "영구노트/lower bound.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/부하 테스트.md",
     "영구노트/이분 탐색.md",
@@ -272,11 +298,8 @@
     "영구노트/InfluxDB 소개.md",
     "영구노트/Paths in matrix whose sum is divisible by K.md",
     "연습노트/var 대신 const, let 사용하기.md",
-    "영구노트/shorthand property names.md",
-    "영구노트/Dungeon Game.md",
     "attachments/screenshot/Pasted image 20240213174626.png",
     "attachments/screenshot/Pasted image 20240213124019.png",
-    "attachments/screenshot/Pasted image 20240213103947.png",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
