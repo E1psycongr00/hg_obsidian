@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/lower bound.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/lower bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
+                "file": "연습노트/lower bound.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/IT/알고리즘.md"
+                "file": "연습노트/lower bound.md"
               }
             }
           },
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/알고리즘.md"
+                "file": "연습노트/lower bound.md"
               }
             }
           },
@@ -279,15 +279,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3715322d0fb47332",
+  "active": "32077a5ec1f640af",
   "lastOpenFiles": [
-    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+    "Excalidraw/Lower Bound 동작 과정.svg",
+    "Excalidraw/Lower Bound 동작 과정.md",
     "연습노트/lower bound.md",
     "연습노트/Valid Triangle Number.md",
+    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+    "Resources/IT/알고리즘.md",
+    "영구노트/이분 탐색.md",
     "연습노트/Valid Number.md",
     "연습노트/Find Polygon With Lagest Perimeter.md",
-    "영구노트/이분 탐색.md",
-    "Resources/IT/알고리즘.md",
     "Excalidraw/선분들의 다각형 생성 조건.md",
     "Excalidraw/선분들의 다각형 생성 조건.svg",
     "attachments/screenshot/Pasted image 20240215225125.png",
@@ -311,12 +313,9 @@
     "attachments/screenshot/Pasted image 20240213103947.png",
     "templates/솔루션 템플릿.md",
     "attachments/screenshot/Pasted image 20240212171223.png",
-    "영구노트/객체 분해 할당.md",
-    "영구노트/Java17 Switch 문법.md",
     "attachments/screenshot/Pasted image 20240209153737.png",
     "attachments/screenshot/Pasted image 20240209152924.png",
     "attachments/screenshot/Pasted image 20240209152724.png",
-    "attachments/screenshot/Pasted image 20240209145334.png",
     "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",

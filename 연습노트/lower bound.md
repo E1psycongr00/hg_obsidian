@@ -13,7 +13,16 @@ aliases:
 ## 내용(Content)
 ### lower bound
 >[!summary] lower bound
->- 
+>특정 값의 시작 위치를 이분 탐색을 통해 찾는다.
+
+
+![[Lower Bound 동작 과정.svg|600]]
+
+- target 값을 이분탐색을 통해 찾는다.
+- 값이 중복되는 영역이 있을 경우 최초 target의 인덱스를 반환한다.
+- 모든 요소보다 target이 큰 경우  최초 입력의 high만큼 반환한다.
+- 모든 요소가 target 보다 작은 경우 0을 반환한다.
+- target이 존재하지 않고 특정 숫자 사이에 끼어 있다면 작은 값을 반환한다.
 
 ## 질문 & 확장
 
