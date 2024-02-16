@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-02-16 21.28.31.excalidraw",
-      "path": "Excalidraw/Drawing 2024-02-16 21.28.31.excalidraw.md"
+      "basename": "lower_bound와 Parametric Search 예제(draw)",
+      "path": "Excalidraw/lower_bound와 Parametric Search 예제(draw).md"
+    },
+    {
+      "basename": "Parametric Search 조건을 만족하는 최소값",
+      "path": "연습노트/Parametric Search 조건을 만족하는 최소값.md"
+    },
+    {
+      "basename": "lower_bound와 Parametric Search 예제(draw)",
+      "path": "Excalidraw/lower_bound와 Parametric Search 예제(draw).svg"
     },
     {
       "basename": "Parametric Search 조건을 만족하는 최대값",
@@ -91,14 +99,6 @@
     {
       "basename": "InfluxDB 소개",
       "path": "영구노트/InfluxDB 소개.md"
-    },
-    {
-      "basename": "Paths in matrix whose sum is divisible by K",
-      "path": "영구노트/Paths in matrix whose sum is divisible by K.md"
-    },
-    {
-      "basename": "shorthand property names",
-      "path": "영구노트/shorthand property names.md"
     }
   ],
   "omittedPaths": [],
