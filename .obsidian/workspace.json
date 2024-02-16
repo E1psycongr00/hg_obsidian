@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/upper bound.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/upper bound.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/upper bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md",
+                "file": "영구노트/upper bound.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md"
+                "file": "영구노트/upper bound.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Valid Triangle Number.md"
+                "file": "영구노트/upper bound.md"
               }
             }
           },
@@ -254,11 +254,11 @@
   },
   "active": "59f17866e8ea2a43",
   "lastOpenFiles": [
+    "연습노트/Valid Triangle Number.md",
     "연습노트/default value.md",
     "연습노트/Find Polygon With Lagest Perimeter.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Valid Triangle Number.md",
     "영구노트/upper bound.md",
     "영구노트/lower bound.md",
     "Resources/IT/알고리즘.md",

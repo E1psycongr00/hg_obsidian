@@ -18,6 +18,9 @@ aliases:
 
 ![[Upper Bound 동작 과정.svg|600]]
 
+>[!caution] lower bound와 upper bound 관계
+>code 상으로는 low가 움직일 조건이  <, <= 차이 밖에 없다. lower_bound의 여러가지 특징을 이해하려면 이렇게 이해나는 것도 괜찮다
+>target보다 작지만 target에 가장 가까운 값 + 1 == (target이 존재한다면) target (존재하지 않으면 target보다 큰 값)
 ### Code
 
 #### java
