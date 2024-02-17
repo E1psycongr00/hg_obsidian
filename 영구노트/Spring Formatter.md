@@ -1,3 +1,9 @@
+---
+tags:
+  - Spring
+  - databinding
+  - "#JAVA"
+---
 작성 날짜: 2023-11-24
 작성 시간: 16:00
 
