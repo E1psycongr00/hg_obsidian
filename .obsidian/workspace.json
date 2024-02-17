@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "baf9681ac9ce5c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -232,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -261,10 +274,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59f4ff12a4e96a5b",
+  "active": "baf9681ac9ce5c40",
   "lastOpenFiles": [
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "무제 파일.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/전기 쌍극자.md",
     "영구노트/2707. Extra Characters in a String.md",
     "Excalidraw/Upper Bound 동작 과정(draw).md",
@@ -294,7 +308,6 @@
     "Excalidraw/Lower Bound 동작 과정.svg",
     "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "attachments/screenshot/Pasted image 20240216104913.png",
-    "연습노트/Valid Number.md",
     "Excalidraw/선분들의 다각형 생성 조건.svg",
     "attachments/screenshot/Pasted image 20240215225125.png",
     "attachments/screenshot/Pasted image 20240213174626.png",
