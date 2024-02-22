@@ -43,7 +43,7 @@ commit-msg는 내가 생성한 거고 husky init 명령어를 입력하면 husky
 - https://typicode.github.io/husky/
 
 ## 연결 노트
-
+- [[Husky를 활용해 Commit Convention 강제하기]]
 
 
 
