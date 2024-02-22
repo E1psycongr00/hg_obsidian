@@ -67,7 +67,6 @@ ready에서 프로세스가 running 상태로 바뀌는 것을 Dispatch라고 �
 - https://www.youtube.com/watch?v=LgEY4ghpTJI
 
 ## 연결 노트
-- [[선점 & 비선점 스케줄링]]
 - [[CPU 스케줄링 알고리즘]]
 
 

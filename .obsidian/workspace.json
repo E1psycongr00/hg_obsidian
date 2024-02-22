@@ -4,37 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "224cf1048d7feb12",
+        "id": "88011de10acecf57",
         "type": "tabs",
         "children": [
           {
-            "id": "afdee46d9cba351f",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "59f4ff12a4e96a5b",
+            "id": "45154e52aeeb7407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-                "mode": "preview",
+                "file": "연습노트/React-markdown parse 에러.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "baf9681ac9ce5c40",
+            "id": "d6a11bc9554f3de4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "연습노트/Next JS란.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90f264fb230f7849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/nextjs 테마 만들기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cab71286dd50087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "정적 블로그 사이트 프로젝트.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "482ea143686cc3a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/솔루션 템플릿.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "정적 블로그 사이트 프로젝트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "정적 블로그 사이트 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.md",
+                "file": "정적 블로그 사이트 프로젝트.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일.md"
+                "file": "정적 블로그 사이트 프로젝트.md"
               }
             }
           },
@@ -225,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       },
       {
         "id": "ade53ac82dc849c4",
@@ -245,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "정적 블로그 사이트 프로젝트.md"
               }
             }
           }
@@ -271,48 +302,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "3d-graph:3D Graph": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "baf9681ac9ce5c40",
+  "active": "4cab71286dd50087",
   "lastOpenFiles": [
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "무제 파일.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/전기 쌍극자.md",
-    "영구노트/2707. Extra Characters in a String.md",
-    "Excalidraw/Upper Bound 동작 과정(draw).md",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
-    "영구노트/Spring Formatter.md",
-    "연습노트/default value.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/nextjs 테마 만들기.md",
+    "정적 블로그 사이트 프로젝트.md",
+    "연습노트/Next JS란.md",
     "연습노트/JS 역사.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "영구노트/Parametric Search 조건을 만족하는 최대값.md",
-    "영구노트/Parametric Search 조건을 만족하는 최소값.md",
-    "Resources/IT/알고리즘.md",
-    "영구노트/Find Polygon With Lagest Perimeter.md",
-    "영구노트/일반적인 ParametricSearch 만들기(통합).md",
-    "Excalidraw/lower_bound와 Parametric Search 예제(draw).md",
+    "영구노트/NextJS란 무엇인가.md",
+    "templates/솔루션 템플릿.md",
+    "연습노트/React-markdown parse 에러.md",
+    "영구노트/Array.from.md",
+    "영구노트/배열은 객체다(JS).md",
+    "영구노트/함수 바인딩.md",
+    "영구노트/함수와 this.md",
+    "Resources/IT/javascript/js tutorial.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "영구노트/단축 평가 계산.md",
+    "Resources/IT/javascript",
+    "Resources/IT/무제 파일.md",
+    "영구노트/객체 분해 할당.md",
+    "영구노트/CPU 스케줄러.md",
+    "index.canvas",
+    "영구노트/CPU 스케줄링 알고리즘.md",
+    "영구노트/프로세스 & 스레드 메모리 구조.md",
+    "연습노트/무제 파일.md",
+    "영구노트/프로세스 스케줄링.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "Resources/IT/운영체제/프로세스.md",
+    "영구노트/프로세스 & 스레드 정의.md",
+    "영구노트/CPU 쓰레드(Thread).md",
+    "영구노트/유저 쓰레드.md",
     "Excalidraw/lower_bound와 Parametric Search 예제(draw).svg",
-    "영구노트/upper bound.md",
-    "영구노트/lower bound.md",
-    "영구노트/Valid Triangle Number.md",
     "attachments/screenshot/Pasted image 20240216150439.png",
-    "Resources/IT/부하 테스트.md",
-    "영구노트/이분 탐색.md",
     "attachments/screenshot/Pasted image 20240216114147.png",
-    "Excalidraw/Lower Bound 동작 과정.md",
     "Excalidraw/Upper Bound 동작 과정(draw).svg",
     "Excalidraw/Lower Bound 동작 과정.svg",
-    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "attachments/screenshot/Pasted image 20240216104913.png",
     "Excalidraw/선분들의 다각형 생성 조건.svg",
     "attachments/screenshot/Pasted image 20240215225125.png",
     "attachments/screenshot/Pasted image 20240213174626.png",
     "attachments/screenshot/Pasted image 20240213124019.png",
-    "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
     "명언 모음.canvas",
@@ -327,7 +360,6 @@
     "데일리",
     "Excalidraw/ttf/나눔손글씨 힘내라는 말보단.ttf",
     "Java 공부.canvas",
-    "Resources/명언",
     "Java 에 대하여.canvas"
   ]
 }
