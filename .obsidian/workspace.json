@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1dbe47839eed2466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/무제 파일2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
+                "file": "연습노트/무제 파일2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
+                "file": "연습노트/무제 파일2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
+                "file": "연습노트/무제 파일2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
+                "file": "연습노트/무제 파일2.md"
               }
             }
           },
@@ -223,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
+                "file": "연습노트/무제 파일2.md"
               }
             }
           }
@@ -253,10 +267,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "372aaca9707164e1",
+  "active": "1dbe47839eed2466",
   "lastOpenFiles": [
-    "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md",
+    "연습노트/무제 파일.md",
+    "연습노트/무제 파일2.md",
     "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
+    "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md",
     "영구노트/Husky.md",
     "attachments/screenshot/Pasted image 20240222130941.png",
     "attachments/screenshot/Pasted image 20240222130303.png",
@@ -265,7 +281,6 @@
     "templates/솔루션 템플릿.md",
     "연습노트/nextjs 테마 만들기.md",
     "Resources/IT/프로젝트",
-    "연습노트/무제 파일.md",
     "연습노트/JS 역사.md",
     "영구노트/NextJS란 무엇인가.md",
     "영구노트/Array.from.md",
@@ -285,7 +300,6 @@
     "영구노트/프로세스 스케줄링.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "Resources/IT/운영체제/프로세스.md",
-    "영구노트/프로세스 & 스레드 정의.md",
     "Excalidraw/lower_bound와 Parametric Search 예제(draw).svg",
     "attachments/screenshot/Pasted image 20240216150439.png",
     "attachments/screenshot/Pasted image 20240216114147.png",
