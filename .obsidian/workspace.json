@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/무제 파일2.md",
+                "file": "영구노트/Object Freeze.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/무제 파일2.md",
+                "file": "영구노트/Object Freeze.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/무제 파일2.md",
+                "file": "영구노트/Object Freeze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/무제 파일2.md",
+                "file": "영구노트/Object Freeze.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/무제 파일2.md"
+                "file": "영구노트/Object Freeze.md"
               }
             }
           },
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/무제 파일2.md"
+                "file": "영구노트/Object Freeze.md"
               }
             }
           }
@@ -269,8 +269,9 @@
   },
   "active": "1dbe47839eed2466",
   "lastOpenFiles": [
-    "연습노트/무제 파일.md",
+    "Resources/IT/javascript/js tutorial.md",
     "연습노트/무제 파일2.md",
+    "연습노트/무제 파일.md",
     "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
     "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md",
     "영구노트/Husky.md",
@@ -287,7 +288,6 @@
     "영구노트/배열은 객체다(JS).md",
     "영구노트/함수 바인딩.md",
     "영구노트/함수와 this.md",
-    "Resources/IT/javascript/js tutorial.md",
     "Resources/IT/운영체제/동기화 모음.md",
     "영구노트/단축 평가 계산.md",
     "Resources/IT/javascript",

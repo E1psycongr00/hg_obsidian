@@ -1,12 +1,13 @@
 ---
 tags:
   - JS
+  - Object
 aliases:
 ---
 작성 날짜: 2024-02-10
 작성 시간: 13:09
 
-#완성 #JS 
+#완성 #JS #Object 
 
 ----
 ## 내용(Content)
