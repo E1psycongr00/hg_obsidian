@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1dbe47839eed2466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/부하 테스트.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/부하 테스트.md",
+                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/IT/부하 테스트.md"
+                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
               }
             }
           },
@@ -237,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/부하 테스트.md"
+                "file": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
               }
             }
           }
@@ -267,11 +253,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "1dbe47839eed2466",
+  "active": "372aaca9707164e1",
   "lastOpenFiles": [
+    "Resources/IT/부하 테스트.md",
     "영구노트/Locust 소개.md",
     "영구노트/Locust 튜토리얼.md",
-    "Resources/IT/부하 테스트.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/default value.md",
