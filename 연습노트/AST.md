@@ -31,7 +31,7 @@ aliases:
 (없음)
 
 ## 출처(링크)
-
+https://ko.wikipedia.org/wiki/%EC%B6%94%EC%83%81_%EA%B5%AC%EB%AC%B8_%ED%8A%B8%EB%A6%AC
 
 ## 연결 노트
 
