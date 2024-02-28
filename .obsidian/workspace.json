@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "연습노트/markdown에 커스텀 문법 적용하기.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "085309355c57fc49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/remark & rehype & transformer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d35dfb2344b21a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/unist.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/remark & rehype & transformer.md",
+                "file": "연습노트/markdown에 커스텀 문법 적용하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/remark & rehype & transformer.md",
+                "file": "연습노트/markdown에 커스텀 문법 적용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/remark & rehype & transformer.md",
+                "file": "연습노트/markdown에 커스텀 문법 적용하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +147,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09392927902846991,
+                  "scale": 0.7132754626224441,
                   "close": true
                 }
               }
@@ -205,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/remark & rehype & transformer.md"
+                "file": "연습노트/markdown에 커스텀 문법 적용하기.md"
               }
             }
           },
@@ -230,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "ade53ac82dc849c4",
@@ -250,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/remark & rehype & transformer.md"
+                "file": "연습노트/markdown에 커스텀 문법 적용하기.md"
               }
             }
           }
@@ -259,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500
+    "width": 473
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,15 +252,27 @@
       "media-extended:Open media": false
     }
   },
-  "active": "085309355c57fc49",
+  "active": "372aaca9707164e1",
   "lastOpenFiles": [
+    "영구노트/unified & remark & rehype 동작 과정.md",
+    "연습노트/markdown에 커스텀 문법 적용하기.md",
+    "Excalidraw/unified 동작 과정(draw).md",
+    "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).md",
+    "Excalidraw/unified 동작 과정(draw).svg",
+    "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
     "영구노트/unist.md",
+    "attachments/screenshot/Pasted image 20240228154758.png",
+    "attachments/screenshot/Pasted image 20240228154608.png",
+    "attachments/screenshot/Pasted image 20240228154426.png",
+    "attachments/screenshot/Pasted image 20240228153825.png",
+    "attachments/screenshot/Pasted image 20240228153619.png",
+    "attachments/screenshot/Pasted image 20240228153606.png",
     "영구노트/AST.md",
-    "연습노트/remark & rehype & transformer.md",
+    "코어(draw.md",
+    "attachments/screenshot/Pasted image 20240228152400.png",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/Error Failed to resolve import.md",
     "attachments/screenshot/Pasted image 20240227161525.png",
-    "attachments/screenshot/Pasted image 20240227161245.png",
     "연습노트/전기 쌍극자.md",
     "연습노트/default value.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
@@ -295,9 +280,6 @@
     "연습노트/Next JS란.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/무제 파일.md",
-    "attachments/screenshot/Pasted image 20240227001612.png",
-    "attachments/screenshot/Pasted image 20240227001602.png",
-    "attachments/screenshot/Pasted image 20240226234041.png",
     "연습노트/nextjs 테마 만들기.md",
     "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
@@ -308,18 +290,9 @@
     "영구노트/Locust 튜토리얼.md",
     "영구노트/Husky.md",
     "Resources/IT/javascript/js tutorial.md",
-    "attachments/screenshot/Pasted image 20240222130941.png",
-    "attachments/screenshot/Pasted image 20240222130303.png",
-    "templates/솔루션 템플릿.md",
     "Resources/IT/프로젝트",
-    "연습노트/JS 역사.md",
-    "영구노트/NextJS란 무엇인가.md",
-    "영구노트/Array.from.md",
     "Resources/IT/javascript",
     "index.canvas",
-    "Excalidraw/lower_bound와 Parametric Search 예제(draw).svg",
-    "attachments/screenshot/Pasted image 20240216150439.png",
-    "attachments/screenshot/Pasted image 20240216114147.png",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
     "명언 모음.canvas",

@@ -16,6 +16,8 @@ aliases:
 >[!summary] unist
 >javascript를 활용해 구문 분석과 Syntax Tree를 만들고 다룰 수 있게 해주는 라이브러리이다.
 
+unist는  Syntax Tree의 General한 형식을 위해 만들어졌다고 한다. 즉,  [Web IDL](https://webidl.spec.whatwg.org/) 에서 제공하는 문법과 유사하게 ast의 기본적인 명세를 정의한 것이라고 보아도 좋다.
+
 unist는 2가지 Syntax Tree 모두 지원한다.
 
 - **concrete syntax tree**
@@ -127,9 +129,7 @@ visit에 "leaf"는 생략이 가능하다.  위 함수는 "leaf" type의 노드�
 - https://github.com/syntax-tree/unist?tab=readme-ov-file#tree-traversal
 
 ## 연결 노트
-- [[AST]]
-
-
+- [AST](AST.md)
 
 
 
