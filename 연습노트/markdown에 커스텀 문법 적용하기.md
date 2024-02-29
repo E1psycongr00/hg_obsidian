@@ -131,7 +131,8 @@ mdast를 분석하면 blockquote 타입으로 생성되고 내부에 paragraph �
 
 Github Alert로 만들기 위해서는 
 - blockquote => 클래스 네임이 들어간 div 태그로 바꿔야 하며
-- 
+- class => github-alert github-alert-${alertType} 로 바뀌어야 한다.
+- 내부의 p 태그는 2개의 p 태그가 존재해야 하며 첫 p 태그는 github-alert-title로 정의된다
 ## 질문 & 확장
 
 (없음)
