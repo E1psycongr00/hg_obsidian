@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "02ad5d3ff8c10920",
+        "id": "6352b5d4db0a9eba",
         "type": "tabs",
         "children": [
           {
-            "id": "372aaca9707164e1",
+            "id": "f02c16b1f67862b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/markdown에 커스텀 문법 적용하기.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/markdown에 커스텀 문법 적용하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/markdown에 커스텀 문법 적용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/markdown에 커스텀 문법 적용하기.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/markdown에 커스텀 문법 적용하기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/markdown에 커스텀 문법 적용하기.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -252,29 +240,29 @@
       "media-extended:Open media": false
     }
   },
-  "active": "372aaca9707164e1",
+  "active": "d4d5b1da2fa85337",
   "lastOpenFiles": [
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "영구노트/markdown에 커스텀 문법 적용하기.md",
-    "연습노트/JS 역사.md",
+    "영구노트/AST.md",
+    "연습노트/nextjs 테마 만들기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/JS 역사.md",
     "연습노트/무제 파일.md",
+    "영구노트/markdown에 커스텀 문법 적용하기.md",
+    "영구노트/unified & remark & rehype 동작 과정.md",
+    "영구노트/unist.md",
+    "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/default value.md",
-    "연습노트/nextjs 테마 만들기.md",
-    "영구노트/unified & remark & rehype 동작 과정.md",
     "Excalidraw/unified 동작 과정(draw).md",
-    "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).md",
     "Excalidraw/unified 동작 과정(draw).svg",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
-    "영구노트/unist.md",
     "attachments/screenshot/Pasted image 20240228154758.png",
     "attachments/screenshot/Pasted image 20240228154608.png",
     "attachments/screenshot/Pasted image 20240228154426.png",
     "attachments/screenshot/Pasted image 20240228153825.png",
     "attachments/screenshot/Pasted image 20240228153619.png",
     "attachments/screenshot/Pasted image 20240228153606.png",
-    "영구노트/AST.md",
     "코어(draw.md",
     "attachments/screenshot/Pasted image 20240228152400.png",
     "영구노트/Error Failed to resolve import.md",

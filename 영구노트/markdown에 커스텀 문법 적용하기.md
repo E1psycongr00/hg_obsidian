@@ -236,7 +236,7 @@ mdast를 hast로 변경시 알고리즘에 대한 자세한 내용은 https://gi
 - https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 - [Markdown이 약간 부족할 때 - sorto.me](https://sorto.me/posts/2022-02-20--markdown)
 ## 연결 노트
-- [unist](unist.md)
+- [[unist]]
 
 
 

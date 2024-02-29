@@ -129,7 +129,7 @@ visit에 "leaf"는 생략이 가능하다.  위 함수는 "leaf" type의 노드�
 - https://github.com/syntax-tree/unist?tab=readme-ov-file#tree-traversal
 
 ## 연결 노트
-- [AST](AST.md)
+- [[AST]]
 
 
 
