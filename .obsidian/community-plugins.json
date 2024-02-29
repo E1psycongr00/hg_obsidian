@@ -19,5 +19,7 @@
   "obsidian-living-graph",
   "canvas-mindmap",
   "link-exploder",
-  "obsidian-list-callouts"
+  "obsidian-list-callouts",
+  "obsidian-vault-statistics-plugin",
+  "graph-link-types"
 ]

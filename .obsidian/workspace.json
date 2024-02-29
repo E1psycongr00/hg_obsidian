@@ -11,8 +11,13 @@
             "id": "f02c16b1f67862b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -70,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,8 +124,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -139,18 +147,10 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224441,
+                  "scale": 0.7132754626224447,
                   "close": true
                 }
               }
-            }
-          },
-          {
-            "id": "f4abdd0460214afe",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -169,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "영구노트/Kernel Level Thread vs User Level Thread.md"
+              }
             }
           },
           {
@@ -185,33 +187,35 @@
             }
           },
           {
-            "id": "5165993287aa97d9",
+            "id": "9f876dd85cdf6076",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "ade53ac82dc849c4",
         "type": "tabs",
         "children": [
           {
-            "id": "6c5936d8ec472ac8",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
-            }
-          },
-          {
             "id": "4be71bc475c585a0",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "영구노트/Kernel Level Thread vs User Level Thread.md"
+              }
+            }
+          },
+          {
+            "id": "a4c01f3d4238bb51",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
               "state": {}
             }
           }
@@ -232,29 +236,42 @@
       "command-palette:명령어 팔레트 열기": false,
       "random-note:랜덤 노트 열기": false,
       "zk-prefixer:새로운 유니크 노트 생성": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-day-planner:Timeline": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
       "3d-graph:3D Graph": false,
+      "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "media-extended:Open media": false
     }
   },
-  "active": "d4d5b1da2fa85337",
+  "active": "bc93ad949722d401",
   "lastOpenFiles": [
+    "영구노트/CPU 쓰레드(Thread).md",
+    "영구노트/Kernel Level Thread vs User Level Thread.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "연습노트/JS 역사.md",
+    "연습노트/default value.md",
+    "영구노트/Blocking IO.md",
+    "영구노트/IO Multiplexing.md",
+    "영구노트/운영 체제(OS).md",
+    "Resources/IT/운영체제/프로세스.md",
+    "연습노트/전기 쌍극자.md",
+    "templates/참조 노트 템플릿.md",
+    "templates/솔루션 템플릿.md",
+    "연습노트/무엇이 문제인가.md",
+    "templates/일정 템플릿.md",
+    "연습노트/무제 파일.md",
+    "코어(draw.md",
+    "templates/인물 소개 템플릿.md",
+    "templates/영상 참조 템플릿.md",
+    "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
     "영구노트/AST.md",
     "연습노트/nextjs 테마 만들기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/JS 역사.md",
-    "연습노트/무제 파일.md",
     "영구노트/markdown에 커스텀 문법 적용하기.md",
     "영구노트/unified & remark & rehype 동작 과정.md",
     "영구노트/unist.md",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/default value.md",
-    "Excalidraw/unified 동작 과정(draw).md",
     "Excalidraw/unified 동작 과정(draw).svg",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
     "attachments/screenshot/Pasted image 20240228154758.png",
@@ -263,21 +280,8 @@
     "attachments/screenshot/Pasted image 20240228153825.png",
     "attachments/screenshot/Pasted image 20240228153619.png",
     "attachments/screenshot/Pasted image 20240228153606.png",
-    "코어(draw.md",
     "attachments/screenshot/Pasted image 20240228152400.png",
-    "영구노트/Error Failed to resolve import.md",
     "attachments/screenshot/Pasted image 20240227161525.png",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/Next JS란.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/React-markdown parse 에러.md",
-    "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
-    "Resources/IT/부하 테스트.md",
-    "영구노트/Locust 소개.md",
-    "영구노트/Locust 튜토리얼.md",
-    "영구노트/Husky.md",
     "Resources/IT/프로젝트",
     "Resources/IT/javascript",
     "index.canvas",

@@ -6,6 +6,8 @@ tags:
 aliases:
   - Thread Model
   - 쓰레드 모델
+related:
+  - "[[CPU 쓰레드(Thread)]]"
 ---
 작성 날짜: 2023-12-17
 작성 시간: 20:43
