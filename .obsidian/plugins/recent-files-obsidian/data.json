@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "markdown에 커스텀 문법 적용하기",
-      "path": "연습노트/markdown에 커스텀 문법 적용하기.md"
+      "path": "영구노트/markdown에 커스텀 문법 적용하기.md"
+    },
+    {
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
     },
     {
       "basename": "JS 역사",
@@ -15,10 +19,6 @@
     {
       "basename": "무제 파일",
       "path": "연습노트/무제 파일.md"
-    },
-    {
-      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
-      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
     },
     {
       "basename": "전기 쌍극자",
