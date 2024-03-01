@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Graph 자료구조 라이브러리",
+      "path": "Resources/IT/javascript/Graph 자료구조 라이브러리.md"
+    },
+    {
+      "basename": "js tutorial",
+      "path": "Resources/IT/javascript/js tutorial.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md"
+    },
+    {
       "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
       "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "Task create vs register",
       "path": "영구노트/Task create vs register.md"
-    },
-    {
-      "basename": "String Constant Pool",
-      "path": "영구노트/String Constant Pool.md"
-    },
-    {
-      "basename": "Stack overflow 개발자 설문 조사",
-      "path": "영구노트/Stack overflow 개발자 설문 조사.md"
-    },
-    {
-      "basename": "Spurious Wake up",
-      "path": "영구노트/Spurious Wake up.md"
-    },
-    {
-      "basename": "Spring JdbcTemplate 활용법",
-      "path": "영구노트/Spring JdbcTemplate 활용법.md"
     }
   ],
   "omittedPaths": [],
