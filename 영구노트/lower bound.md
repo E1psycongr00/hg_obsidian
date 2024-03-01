@@ -4,6 +4,8 @@ tags:
   - 이분탐색
   - 스니펫
 aliases:
+title: lower bound
+date: 2024-02-16
 ---
 작성 날짜: 2024-02-16
 작성 시간: 09:08

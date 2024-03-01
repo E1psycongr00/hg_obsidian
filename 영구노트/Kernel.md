@@ -3,6 +3,8 @@ tags:
   - OS
 aliases:
   - 커널
+title: Kernel
+date: 2024-01-25
 ---
 작성 날짜: 2024-01-25
 작성 시간: 12:25

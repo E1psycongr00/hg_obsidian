@@ -77,7 +77,7 @@ RDB의 테이블과 매칭되는 키워드이다.  RDB에서 여러 테이블을
 - https://mangkyu.tistory.com/190
 - https://squareyun.tistory.com/90
 ## 연결 노트
-- [[TSDB란]]
+- [[TSDB]]
 - [[Unix Time]]
 
 

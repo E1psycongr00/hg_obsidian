@@ -1,7 +1,15 @@
+---
+tags:
+  - JAVA
+  - GC
+aliases: 
+title: No - Op GC (Epsilon 가비지 컬렉터)
+date: 2023-10-04
+---
 작성 날짜: 2023-10-04
 작성 시간: 13:22
 
-#완성 #IT #JAVA #GC 
+#완성 #JAVA #GC 
 
 ----
 ## 내용(Content)

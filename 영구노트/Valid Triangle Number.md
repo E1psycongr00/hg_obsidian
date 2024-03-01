@@ -5,7 +5,9 @@ tags:
   - "#LineSweep"
   - 둘레
   - "#수학"
-aliases:
+aliases: 
+title: Valid Triangle Number
+date: 2024-02-15
 ---
 작성 날짜: 2024-02-15
 작성 시간: 22:59

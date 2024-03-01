@@ -1,7 +1,16 @@
+---
+tags:
+  - JAVA
+  - Spring
+  - Validation
+aliases: 
+title: Spring Bean Validation 소개
+date: 2023-11-10
+---
 작성 날짜: 2023-11-10
 작성 시간: 16:36
 
-#완성 #IT #JAVA #Spring #Validation 
+#완성 #JAVA #Spring #Validation 
 
 ----
 ## 내용(Content)

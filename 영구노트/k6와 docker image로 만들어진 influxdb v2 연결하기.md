@@ -1,3 +1,11 @@
+---
+tags:
+  - Docker
+  - DataBase
+aliases: 
+title: k6와 docker image로 만들어진 influxdb v2 연결하기
+date: 2023-12-21
+---
 작성 날짜: 2023-12-21
 작성 시간: 17:37
 

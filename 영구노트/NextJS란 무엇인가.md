@@ -4,6 +4,8 @@ tags:
   - NextJS
 aliases:
   - NextJS
+title: NextJS란 무엇인가
+date: 2024-02-21
 ---
 작성 날짜: 2024-02-21
 작성 시간: 18:38

@@ -2,7 +2,9 @@
 tags:
   - 알고리즘
   - DP
-aliases:
+aliases: 
+title: Paths in matrix whose sum is divisible by K
+date: 2024-02-13
 ---
 작성 날짜: 2024-02-13
 작성 시간: 17:43

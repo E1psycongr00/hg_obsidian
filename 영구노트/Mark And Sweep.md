@@ -1,3 +1,11 @@
+---
+tags:
+  - JAVA
+  - GC
+aliases: 
+title: Mark And Sweep
+date: 2023-10-16
+---
 작성 날짜: 2023-10-16
 작성 시간: 14:27
 

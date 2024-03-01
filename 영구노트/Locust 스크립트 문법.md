@@ -1,3 +1,11 @@
+---
+tags:
+  - Locust
+  - 부하테스트
+aliases: 
+title: Locust 스크립트 문법
+date: 2023-12-01
+---
 작성 날짜: 2023-12-01
 작성 시간: 14:46
 
@@ -12,7 +20,7 @@ Locust는 GUI로 테스트를 하는 것이 아니라 스크립트를 짜고 스
 
 ### 알아야 할 것
 
-- [[Locust User Class에 관하여#User class|User class]]
+- [[Locust User Class#User class|User class]]
 - [[Locust Task에 관하여|Task class]]
 ## 질문 & 확장
 
@@ -24,7 +32,7 @@ Locust는 GUI로 테스트를 하는 것이 아니라 스크립트를 짜고 스
 - https://bcho.tistory.com/1369
 
 ## 연결 노트
-- [[Locust User Class에 관하여]]
+- [[Locust User Class]]
 - [[Locust Task에 관하여]]
 
 

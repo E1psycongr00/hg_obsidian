@@ -1,7 +1,16 @@
+---
+tags:
+  - JAVA
+  - Lombok
+aliases:
+title: Lombok 테스트 파일에서도 가능하도록 설정하기
+date: 2023-11-09
+
+---
 작성 날짜: 2023-11-09
 작성 시간: 11:21
 
-#완성 #IT #JAVA #Lombok
+#완성 #JAVA #Lombok
 
 ----
 ## 내용(Content)

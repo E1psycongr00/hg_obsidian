@@ -1,3 +1,11 @@
+---
+tags:
+  - 알고리즘
+  - UnionFind
+aliases: 
+title: UnionFind 그룹별 갯수 구하기
+date: 2023-12-12
+---
 작성 날짜: 2023-12-12
 작성 시간: 16:18
 

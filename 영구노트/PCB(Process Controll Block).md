@@ -7,6 +7,8 @@ aliases:
   - Process Control Block
   - PCB 정의
   - PCB
+title: PCB(Process Controll Block)
+date: 2024-01-05
 ---
 작성 날짜: 2024-01-05
 작성 시간: 20:09

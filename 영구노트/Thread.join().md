@@ -2,7 +2,9 @@
 tags:
   - JAVA
   - Thread
-aliases:
+aliases: 
+title: Thread.join()
+date: 2024-01-29
 ---
 작성 날짜: 2024-01-29
 작성 시간: 12:37

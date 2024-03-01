@@ -1,3 +1,9 @@
+---
+tags: 
+aliases: 
+title: Java Bean Validation 소개
+date: 2023-11-10
+---
 작성 날짜: 2023-11-10
 작성 시간: 09:42
 

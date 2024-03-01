@@ -1,3 +1,10 @@
+---
+tags:
+  - Obsidian
+aliases: 
+title: Obsidian tasks 쿼리 문법
+date: 2023-12-04
+---
 작성 날짜: 2023-12-04
 작성 시간: 14:11
 

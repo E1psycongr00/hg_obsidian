@@ -2,7 +2,9 @@
 tags:
   - 알고리즘
   - 이분탐색
-aliases:
+aliases: 
+title: Parametric Search 조건을 만족하는 최대값
+date: 2024-02-16
 ---
 작성 날짜: 2024-02-16
 작성 시간: 21:19

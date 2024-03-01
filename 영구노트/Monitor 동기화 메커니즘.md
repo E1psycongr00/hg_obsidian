@@ -6,6 +6,8 @@ tags:
 aliases:
   - Monitor
   - 모니터
+title: Monitor 동기화 메커니즘
+date: 2024-01-20
 ---
 작성 날짜: 2024-01-20
 작성 시간: 15:31

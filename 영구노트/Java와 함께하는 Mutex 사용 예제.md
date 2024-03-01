@@ -4,7 +4,9 @@ tags:
   - OS
   - Process
   - Synchronization
-aliases:
+aliases: 
+title: Java와 함께하는 Mutex 사용 예제
+date: 2024-01-16
 ---
 작성 날짜: 2024-01-16
 작성 시간: 20:28

@@ -1,3 +1,10 @@
+---
+tags:
+  - DataBase
+aliases: 
+title: TSDB
+date: 2023-12-15
+---
 작성 날짜: 2023-12-15
 작성 시간: 13:01
 

@@ -1,7 +1,15 @@
+---
+tags:
+  - JAVA
+  - GC
+aliases: 
+title: Young Generation 과 Old Generation 특징
+date: 2023-10-11
+---
 작성 날짜: 2023-10-11
 작성 시간: 17:26
 
-#완성 #IT #JAVA #GC 
+#완성 #JAVA #GC 
 
 ----
 ## 내용(Content)

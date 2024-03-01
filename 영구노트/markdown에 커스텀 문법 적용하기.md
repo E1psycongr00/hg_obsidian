@@ -2,7 +2,9 @@
 tags:
   - ast
   - SyntaxTree
-aliases:
+aliases: 
+title: markdown에 커스텀 문법 적용하기
+date: 2024-02-28
 ---
 작성 날짜: 2024-02-28
 작성 시간: 15:04

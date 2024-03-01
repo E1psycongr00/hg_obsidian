@@ -4,6 +4,8 @@ tags:
   - Thread
 aliases:
   - Java Thread State
+title: Java 쓰레드 상태
+date: 2024-01-19
 ---
 작성 날짜: 2024-01-19
 작성 시간: 11:51

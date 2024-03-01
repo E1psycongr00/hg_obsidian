@@ -1,8 +1,16 @@
+---
+tags:
+  - Gradle
+  - Kotlin
+aliases: 
+title: Why Gradle by Kotlin DSL
+date: 2023-10-05
+---
 
 작성 날짜: 2023-10-05
 작성 시간: 18:08
 
-#완성 #IT #Gradle #Kotlin
+#완성 #Gradle #Kotlin
 
 ----
 ## 내용(Content)

@@ -6,6 +6,8 @@ tags:
 aliases:
   - Process Context Switching
   - PCS
+title: Process와 컨텍스트 스위칭
+date: 2024-01-05
 ---
 작성 날짜: 2024-01-05
 작성 시간: 20:08

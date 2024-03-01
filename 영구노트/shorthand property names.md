@@ -2,6 +2,8 @@
 tags:
   - JS
 aliases:
+title: shorthand property names
+date: 2024-02-08
 ---
 작성 날짜: 2024-02-08
 작성 시간: 20:49

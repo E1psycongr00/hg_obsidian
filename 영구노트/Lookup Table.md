@@ -1,7 +1,9 @@
 ---
 tags:
   - JS
-aliases:
+aliases: 
+title: Lookup Table
+date: 2024-02-08
 ---
 작성 날짜: 2024-02-08
 작성 시간: 21:03

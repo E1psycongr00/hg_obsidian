@@ -5,6 +5,8 @@ tags:
 aliases:
   - nullish
   - nullish coalescing operator
+title: nullish 병합 연산자
+date: 2024-02-07
 ---
 작성 날짜: 2024-02-07
 작성 시간: 22:27

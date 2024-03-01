@@ -4,6 +4,8 @@ tags:
   - 네트워크
 aliases:
   - web socket
+title: Web Socket이란
+date: 2023-10-07
 ---
 작성 날짜: 2023-10-07
 작성 시간: 17:21

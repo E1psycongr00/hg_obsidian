@@ -1,7 +1,13 @@
+---
+tags: 
+aliases: 
+title: Java List 유틸 메서드 by Collections
+date: JAVA
+---
 작성 날짜: 2023-10-23
 작성 시간: 14:39
 
-#완성 #IT #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)

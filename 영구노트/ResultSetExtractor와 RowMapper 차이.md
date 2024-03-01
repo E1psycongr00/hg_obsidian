@@ -1,3 +1,11 @@
+---
+tags:
+  - JAVA
+  - SQL
+aliases: 
+title: ResultSetExtractor와 RowMapper 차이
+date: 2023-11-15
+---
 작성 날짜: 2023-11-15
 작성 시간: 19:58
 

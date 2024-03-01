@@ -6,6 +6,8 @@ tags:
 aliases:
   - 트라이
   - radix
+title: Trie
+date: 2024-01-29
 ---
 작성 날짜: 2024-01-29
 작성 시간: 23:42

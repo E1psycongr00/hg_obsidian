@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Java 배포판(distribution) (Oracle JDK vs Open JDK)",
-      "path": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md"
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
     {
-      "basename": "Java 배열 정의",
-      "path": "영구노트/Java 배열 정의.md"
+      "basename": "알고리즘",
+      "path": "Resources/IT/알고리즘.md"
     },
     {
-      "basename": "Java 동작 원리",
-      "path": "영구노트/Java 동작 원리.md"
+      "basename": "UnionFind merge 최적화",
+      "path": "영구노트/UnionFind merge 최적화.md"
     },
     {
-      "basename": "Java 12 ~ 17까지 과정",
-      "path": "영구노트/Java 12 ~ 17까지 과정.md"
+      "basename": "unist",
+      "path": "영구노트/unist.md"
     },
     {
-      "basename": "java 11 특징",
-      "path": "영구노트/java 11 특징.md"
+      "basename": "Unix Time",
+      "path": "영구노트/Unix Time.md"
     },
     {
-      "basename": "Java 8 특징",
-      "path": "영구노트/Java 8 특징.md"
+      "basename": "upper bound",
+      "path": "영구노트/upper bound.md"
     },
     {
-      "basename": "Java 8 이전 버전 별 특징",
-      "path": "영구노트/Java 8 이전 버전 별 특징.md"
+      "basename": "UTC(세계 협정시)",
+      "path": "영구노트/UTC(세계 협정시).md"
     },
     {
-      "basename": "IP(인터넷 프로토콜)",
-      "path": "영구노트/IP(인터넷 프로토콜).md"
+      "basename": "UnionFind 그룹별 갯수 구하기",
+      "path": "영구노트/UnionFind 그룹별 갯수 구하기.md"
     },
     {
-      "basename": "IO Multiplexing",
-      "path": "영구노트/IO Multiplexing.md"
+      "basename": "Valid Triangle Number",
+      "path": "영구노트/Valid Triangle Number.md"
     },
     {
-      "basename": "IO Bound와 CPU Bound",
-      "path": "영구노트/IO Bound와 CPU Bound.md"
+      "basename": "Young Generation 과 Old Generation 특징",
+      "path": "영구노트/Young Generation 과 Old Generation 특징.md"
     },
     {
-      "basename": "Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기",
-      "path": "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md"
+      "basename": "Windows  cmd 명령어",
+      "path": "영구노트/Windows  cmd 명령어.md"
     },
     {
-      "basename": "instanceof 패턴 매칭",
-      "path": "영구노트/instanceof 패턴 매칭.md"
+      "basename": "Why Gradle by Kotlin DSL",
+      "path": "영구노트/Why Gradle by Kotlin DSL.md"
     },
     {
-      "basename": "InfluxDB 소개",
-      "path": "영구노트/InfluxDB 소개.md"
+      "basename": "Why Gradle",
+      "path": "영구노트/Why Gradle.md"
     },
     {
-      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
-      "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
+      "basename": "Web Socket이란",
+      "path": "영구노트/Web Socket이란.md"
     },
     {
-      "basename": "Husky를 활용해 Commit Convention 강제하기",
-      "path": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
+      "basename": "UnionFind",
+      "path": "영구노트/UnionFind.md"
     },
     {
-      "basename": "Husky",
-      "path": "영구노트/Husky.md"
+      "basename": "unified & remark & rehype 동작 과정",
+      "path": "영구노트/unified & remark & rehype 동작 과정.md"
     },
     {
-      "basename": "HttpServer",
-      "path": "영구노트/HttpServer.md"
+      "basename": "TSDB",
+      "path": "영구노트/TSDB.md"
     },
     {
-      "basename": "HttpHandler",
-      "path": "영구노트/HttpHandler.md"
+      "basename": "Truthy or Falsy",
+      "path": "영구노트/Truthy or Falsy.md"
     },
     {
-      "basename": "Gradle의 doLast()를 언제 써야 할까",
-      "path": "영구노트/Gradle의 doLast()를 언제 써야 할까.md"
+      "basename": "Trie",
+      "path": "영구노트/Trie.md"
     },
     {
-      "basename": "Gradle Wrapper",
-      "path": "영구노트/Gradle Wrapper.md"
+      "basename": "Thread.join()",
+      "path": "영구노트/Thread.join().md"
     },
     {
-      "basename": "Gradle Plugin 사용하기",
-      "path": "영구노트/Gradle Plugin 사용하기.md"
+      "basename": "Task create vs register",
+      "path": "영구노트/Task create vs register.md"
     },
     {
-      "basename": "Gradle Init Script",
-      "path": "영구노트/Gradle Init Script.md"
+      "basename": "String Constant Pool",
+      "path": "영구노트/String Constant Pool.md"
     },
     {
-      "basename": "Gradle Build Life Cycle",
-      "path": "영구노트/Gradle Build Life Cycle.md"
+      "basename": "Stack overflow 개발자 설문 조사",
+      "path": "영구노트/Stack overflow 개발자 설문 조사.md"
     },
     {
-      "basename": "Gradle 지원 버전",
-      "path": "영구노트/Gradle 지원 버전.md"
+      "basename": "Spurious Wake up",
+      "path": "영구노트/Spurious Wake up.md"
     },
     {
-      "basename": "GoRoutine 고루틴 소개",
-      "path": "영구노트/GoRoutine 고루틴 소개.md"
+      "basename": "Spring JdbcTemplate 활용법",
+      "path": "영구노트/Spring JdbcTemplate 활용법.md"
     }
   ],
   "omittedPaths": [],

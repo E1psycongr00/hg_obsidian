@@ -4,6 +4,8 @@ tags:
   - SyntaxTree
 aliases:
   - Universal Syntax Tree
+title: unist
+date: 2024-02-26
 ---
 작성 날짜: 2024-02-26
 작성 시간: 23:47

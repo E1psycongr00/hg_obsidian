@@ -6,8 +6,8 @@ tags:
 aliases:
   - Thread Model
   - 쓰레드 모델
-연관:
-  - "[[CPU 쓰레드(Thread)]]"
+title: Kernel Level Thread vs User Level Thread
+date: 2023-12-17
 ---
 작성 날짜: 2023-12-17
 작성 시간: 20:43

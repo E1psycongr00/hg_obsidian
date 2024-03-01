@@ -1,3 +1,11 @@
+---
+tags:
+  - Windows
+  - OS
+aliases: 
+title: Windows cmd 명령어
+date: 2023-12-22
+---
 작성 날짜: 2023-12-22
 작성 시간: 16:48
 

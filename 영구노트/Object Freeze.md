@@ -2,7 +2,9 @@
 tags:
   - JS
   - Object
-aliases:
+aliases: 
+title: Object Freeze
+date: 2024-02-10
 ---
 작성 날짜: 2024-02-10
 작성 시간: 13:09

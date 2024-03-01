@@ -6,6 +6,8 @@ aliases:
   - 커널 쓰레드
   - 커널 레벨 쓰레드
   - Kernel Level Thread
+title: OS 쓰레드
+date: 2024-01-21
 ---
 작성 날짜: 2024-01-21
 작성 시간: 23:30

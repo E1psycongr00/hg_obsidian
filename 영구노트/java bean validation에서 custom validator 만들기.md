@@ -1,7 +1,15 @@
+---
+tags:
+  - JAVA
+  - Validation
+aliases: 
+title: java bean validation에서 custom validator 만들기
+date: 2023-11-10
+---
 작성 날짜: 2023-11-10
 작성 시간: 13:39
 
-#완성 #IT #JAVA #Validation 
+#완성 #JAVA #Validation 
 
 ----
 ## 내용(Content)

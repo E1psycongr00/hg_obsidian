@@ -1,7 +1,13 @@
+---
+tags: JAVA
+aliases: 
+title: Java 파일 읽기
+date: 2023-11-07
+---
 작성 날짜: 2023-11-07
 작성 시간: 12:41
 
-#완성 #IT #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)

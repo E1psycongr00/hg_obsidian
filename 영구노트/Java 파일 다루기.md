@@ -1,7 +1,14 @@
+---
+tags:
+  - JAVA
+aliases: 
+title: Java 파일 다루기
+date: 2023-11-07
+---
 작성 날짜: 2023-11-07
 작성 시간: 10:47
 
-#완성  #IT #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)

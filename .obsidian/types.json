@@ -25,6 +25,7 @@
     "excalidraw-iframe-theme": "text",
     "related": "multitext",
     "ref": "multitext",
-    "date": "date"
+    "date": "date",
+    "title": "text"
   }
 }

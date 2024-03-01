@@ -1,3 +1,11 @@
+---
+tags:
+  - 부하테스트
+  - Locust
+aliases: 
+title: Locust User Class
+date: 2023-12-07
+---
 작성 날짜: 2023-12-07
 작성 시간: 12:41
 

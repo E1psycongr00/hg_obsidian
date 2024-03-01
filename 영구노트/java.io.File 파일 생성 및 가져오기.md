@@ -1,7 +1,14 @@
+---
+tags:
+  - JAVA
+aliases: 
+title: java.io.File 파일 생성 및 가져오기
+date: 2023-11-07
+---
 작성 날짜: 2023-11-07
 작성 시간: 12:03
 
-#완성 #IT #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)

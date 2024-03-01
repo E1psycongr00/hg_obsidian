@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
-                "mode": "source",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,6 +165,16 @@
             }
           },
           {
+            "id": "9d534a5df67b7cbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+              }
+            }
+          },
+          {
             "id": "3551a9565ceec96d",
             "type": "leaf",
             "state": {
@@ -197,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md"
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
               }
             }
           },
@@ -208,19 +218,9 @@
               "type": "graph-analysis",
               "state": {}
             }
-          },
-          {
-            "id": "9d534a5df67b7cbf",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,32 +246,32 @@
   },
   "active": "b32b12135a074135",
   "lastOpenFiles": [
-    "영구노트/Java 배열 정의.md",
-    "영구노트/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
-    "영구노트/Java 동작 원리.md",
-    "영구노트/Java 12 ~ 17까지 과정.md",
-    "영구노트/java 11 특징.md",
-    "영구노트/Java 8 특징.md",
-    "영구노트/Java 8 이전 버전 별 특징.md",
-    "영구노트/IP(인터넷 프로토콜).md",
-    "영구노트/IO Multiplexing.md",
-    "영구노트/IO Bound와 CPU Bound.md",
-    "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
-    "영구노트/instanceof 패턴 매칭.md",
-    "영구노트/InfluxDB 소개.md",
-    "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md",
-    "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
-    "영구노트/Husky.md",
-    "영구노트/HttpServer.md",
-    "영구노트/HttpHandler.md",
-    "영구노트/Gradle의 doLast()를 언제 써야 할까.md",
-    "영구노트/Gradle Wrapper.md",
-    "영구노트/Gradle Plugin 사용하기.md",
-    "영구노트/Gradle Init Script.md",
-    "영구노트/Gradle Build Life Cycle.md",
-    "영구노트/Gradle 지원 버전.md",
-    "영구노트/GoRoutine 고루틴 소개.md",
-    "영구노트/getter에 java bean validation 적용 및 테스트.md",
+    "Resources/IT/알고리즘.md",
+    "영구노트/UnionFind merge 최적화.md",
+    "영구노트/unist.md",
+    "영구노트/Unix Time.md",
+    "영구노트/upper bound.md",
+    "영구노트/UTC(세계 협정시).md",
+    "영구노트/UnionFind 그룹별 갯수 구하기.md",
+    "영구노트/Valid Triangle Number.md",
+    "영구노트/Young Generation 과 Old Generation 특징.md",
+    "영구노트/Windows  cmd 명령어.md",
+    "영구노트/Why Gradle by Kotlin DSL.md",
+    "영구노트/Why Gradle.md",
+    "영구노트/Web Socket이란.md",
+    "영구노트/UnionFind.md",
+    "영구노트/unified & remark & rehype 동작 과정.md",
+    "영구노트/TSDB.md",
+    "영구노트/Truthy or Falsy.md",
+    "영구노트/Trie.md",
+    "영구노트/Thread.join().md",
+    "영구노트/Task create vs register.md",
+    "영구노트/String Constant Pool.md",
+    "영구노트/Stack overflow 개발자 설문 조사.md",
+    "영구노트/Spurious Wake up.md",
+    "영구노트/Spring JdbcTemplate 활용법.md",
+    "영구노트/Spring Formatter.md",
+    "영구노트/Spring ConverterFactory.md",
     "Excalidraw/unified 동작 과정(draw).svg",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
     "attachments/screenshot/Pasted image 20240228154758.png",

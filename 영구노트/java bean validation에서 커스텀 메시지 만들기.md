@@ -1,3 +1,11 @@
+---
+tags:
+  - JAVA
+  - Validation
+aliases: 
+title: java bean validation에서 커스텀 메시지 만들기
+date: 2023-11-10
+---
 작성 날짜: 2023-11-10
 작성 시간: 12:31
 
