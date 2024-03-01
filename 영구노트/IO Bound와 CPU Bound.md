@@ -8,6 +8,8 @@ aliases:
   - IO bound
   - cpu bound
   - CPU 바운드
+title: IO Bound와 CPU Bound
+date: 2024-01-09
 ---
 작성 날짜: 2024-01-09
 작성 시간: 10:17

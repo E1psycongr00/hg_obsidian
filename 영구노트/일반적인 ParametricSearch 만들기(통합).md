@@ -2,7 +2,9 @@
 tags:
   - 알고리즘
   - 이분탐색
-aliases:
+aliases: 
+title: 일반적인 ParametricSearch 만들기(통합)
+date: 2024-02-16
 ---
 작성 날짜: 2024-02-16
 작성 시간: 22:38

@@ -2,6 +2,8 @@
 tags:
   - JS
 aliases:
+title: Computed property name
+date: 2024-02-08
 ---
 작성 날짜: 2024-02-08
 작성 시간: 21:01

@@ -5,6 +5,8 @@ tags:
   - CPU
 aliases:
   - CPU Scheduler
+title: CPU 스케줄러
+date: 2024-01-16
 ---
 작성 날짜: 2024-01-16
 작성 시간: 19:45

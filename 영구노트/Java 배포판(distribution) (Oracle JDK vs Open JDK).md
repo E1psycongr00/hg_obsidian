@@ -1,7 +1,13 @@
+---
+tags: JAVA
+aliases: 
+title: Java 배포판(distribution) (Oracle JDK vs Open JDK)
+date: 2023-10-04
+---
 작성 날짜: 2023-10-04
 작성 시간: 14:33
 
-#완성 #IT #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)

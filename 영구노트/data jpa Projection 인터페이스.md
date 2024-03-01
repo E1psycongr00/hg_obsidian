@@ -1,3 +1,9 @@
+---
+tags: 
+aliases: 
+title: data jpa Projection 인터페이스
+date: 2023-10-26
+---
 작성 날짜: 2023-10-26
 작성 시간: 17:07
 

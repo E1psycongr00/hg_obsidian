@@ -1,9 +1,15 @@
+---
+tags: JAVA
+aliases: 
+title: Java 동작 원리
+date: 2023-10-06
+---
 
 
 작성 날짜: 2023-10-06
 작성 시간: 19:14
 
-#완성 #IT #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)

@@ -4,6 +4,8 @@ tags:
   - 전자기학
 aliases:
   - 전하
+title: 전하(Elecric Charge)
+date: 2024-02-02
 ---
 작성 날짜: 2024-02-02
 작성 시간: 18:28

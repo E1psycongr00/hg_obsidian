@@ -3,6 +3,8 @@ tags:
   - "#알고리즘"
   - "#DP"
 aliases:
+title: cherry pick up
+date: 2024-02-11
 ---
 작성 날짜: 2024-02-11
 작성 시간: 22:47

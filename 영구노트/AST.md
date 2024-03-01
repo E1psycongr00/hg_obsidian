@@ -4,6 +4,8 @@ tags:
   - SyntaxTree
 aliases:
   - Abstract Syntax Tree
+title: AST
+date: 2024-02-23
 ---
 작성 날짜: 2024-02-23
 작성 시간: 11:54

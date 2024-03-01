@@ -4,7 +4,9 @@ tags:
   - 투포인터
   - String
   - 알고리즘
-aliases:
+aliases: 
+title: ind First Palindromic String in the array
+date: 2024-02-13
 ---
 작성 날짜: 2024-02-13
 작성 시간: 10:37

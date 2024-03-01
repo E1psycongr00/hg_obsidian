@@ -4,6 +4,8 @@ tags:
   - 네트워크
 aliases:
   - Synchronous Blocking IO
+title: Blocking IO
+date: 224-01-26
 ---
 작성 날짜: 2024-01-26
 작성 시간: 17:12

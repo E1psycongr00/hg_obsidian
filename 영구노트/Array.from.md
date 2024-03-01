@@ -1,7 +1,9 @@
 ---
 tags:
   - JS
-aliases:
+aliases: 
+title: Array.from
+date: 2024-02-20
 ---
 
 

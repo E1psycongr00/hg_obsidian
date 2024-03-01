@@ -5,6 +5,8 @@ tags:
 aliases:
   - Asynchronous Blocking IO
   - IO 멀티플렉싱
+title: IO Multiplexing
+date: 2024-01-28
 ---
 작성 날짜: 2024-01-28
 작성 시간: 10:17

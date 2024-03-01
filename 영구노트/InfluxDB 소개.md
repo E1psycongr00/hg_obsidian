@@ -1,3 +1,10 @@
+---
+tags:
+  - DataBase
+aliases: 
+title: InfluxDB 소개
+date: 2023-12-15
+---
 작성 날짜: 2023-12-15
 작성 시간: 12:54
 

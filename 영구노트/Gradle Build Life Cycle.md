@@ -1,7 +1,14 @@
+---
+tags:
+  - Gradle
+aliases: 
+title: Gradle Build Life Cycle
+date: 2023-10-17
+---
 작성 날짜: 2023-10-17
 작성 시간: 20:22
 
-#완성 #IT #Gradle 
+#완성 #Gradle 
 
 ----
 ## 내용(Content)

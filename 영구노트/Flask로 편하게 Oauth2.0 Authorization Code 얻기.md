@@ -1,3 +1,12 @@
+---
+tags:
+  - Python
+  - OAuth
+  - Flask
+aliases: 
+title: Flask로 편하게 Oauth2.0 Authorization Code 얻기
+date: 2023-12-02
+---
 작성 날짜: 2023-12-02
 작성 시간: 16:01
 

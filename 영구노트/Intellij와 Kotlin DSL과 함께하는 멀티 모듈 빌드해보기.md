@@ -1,3 +1,9 @@
+---
+tags: 
+aliases: 
+title: Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기
+date: 2023-10-16
+---
 작성 날짜: 2023-10-16
 작성 시간: 23:43
 

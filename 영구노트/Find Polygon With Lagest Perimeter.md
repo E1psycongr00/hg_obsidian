@@ -6,6 +6,8 @@ tags:
   - 둘레
   - "#Greedy"
 aliases:
+title: Find Polygon With Lagest Perimeter
+date: 2024-02-15
 ---
 작성 날짜: 2024-02-15
 작성 시간: 22:50

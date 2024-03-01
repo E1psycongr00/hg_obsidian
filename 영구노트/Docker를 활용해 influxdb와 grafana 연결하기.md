@@ -1,7 +1,19 @@
+---
+tags:
+  - Docker
+  - Grafana
+  - 인프라
+aliases: 
+title: Docker를 활용해 influxdb와 grafana 연결하기
+date: 2023-12-18
+---
 작성 날짜: 2023-12-18
 작성 시간: 12:19
 
+
+
 #완성 #Docker #Grafana #인프라 
+
 ----
 ## 내용(Content)
 ### influxdb와 grafana를 연결하는 이유

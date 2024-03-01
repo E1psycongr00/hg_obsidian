@@ -1,7 +1,15 @@
+---
+tags:
+  - JAVA
+  - GC
+aliases: 
+title: Garbage Collection(가비지 컬렉션) 소개
+date: 2023-10-11
+---
 작성 날짜: 2023-10-11
 작성 시간: 09:59
 
- #완성 #IT #JAVA #GC
+ #완성 #JAVA #GC
 
 ----
 ## 내용(Content)

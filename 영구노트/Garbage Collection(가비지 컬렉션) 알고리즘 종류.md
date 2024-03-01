@@ -1,3 +1,11 @@
+---
+tags:
+  - GC
+  - JAVA
+aliases: 
+title: Garbage Collection(가비지 컬렉션) 알고리즘 종류
+date: 2023-10-11
+---
 
 작성 날짜: 2023-10-11
 작성 시간: 18:12

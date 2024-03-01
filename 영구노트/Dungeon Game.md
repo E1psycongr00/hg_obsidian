@@ -2,7 +2,9 @@
 tags:
   - 알고리즘
   - DP
-aliases:
+aliases: 
+title: Dungeon Game
+date: 2024-02-13
 ---
 작성 날짜: 2024-02-13
 작성 시간: 12:38

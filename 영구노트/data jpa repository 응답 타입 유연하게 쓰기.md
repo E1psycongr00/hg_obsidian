@@ -1,7 +1,15 @@
+---
+tags:
+  - JAVA
+  - JPA
+aliases: 
+title: data jpa repository 응답 타입 유연하게 쓰기
+date: 2023-10-26
+---
 작성 날짜: 2023-10-26
 작성 시간: 19:21
 
-#완성  #솔루션 #IT #JAVA #JPA 
+#완성  #솔루션 #JAVA #JPA 
 
 ----
 

@@ -6,6 +6,8 @@ tags:
 aliases:
   - 고루틴
   - GoRoutine
+title: GoRoutine 고루틴 소개
+date: 2023-12-17
 ---
 작성 날짜: 2023-12-17
 작성 시간: 20:03

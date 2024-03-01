@@ -1,7 +1,9 @@
 ---
 tags:
   - JS
-aliases:
+aliases: 
+title: 함수와 this
+date: 2024-02-09
 ---
 작성 날짜: 2024-02-09
 작성 시간: 14:07
