@@ -2,7 +2,9 @@
 tags:
   - 알고리즘
   - PrefixSum
-aliases:
+aliases: 
+title: 2D array constant time query update
+date: 2023-11-04
 ---
 작성 날짜: 2023-11-04
 작성 시간: 13:45

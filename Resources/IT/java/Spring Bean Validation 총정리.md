@@ -1,3 +1,7 @@
+---
+ref:
+  - "[[@Valid와 @Validated 차이]]"
+---
 
 ## #JAVA #Spring #Validation
 

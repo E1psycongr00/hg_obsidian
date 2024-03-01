@@ -1,7 +1,15 @@
+---
+tags:
+  - JAVA
+  - Validation
+aliases: 
+title: 메서드 return에 java bean validation 적용 및 테스트
+date: 2023-11-10
+---
 작성 날짜: 2023-11-10
 작성 시간: 12:04
 
-#완성 #IT #JAVA #Validation 
+#완성 #JAVA #Validation 
 
 ----
 ## 내용(Content)

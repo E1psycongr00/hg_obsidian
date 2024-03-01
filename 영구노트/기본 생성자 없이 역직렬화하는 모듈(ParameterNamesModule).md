@@ -3,7 +3,9 @@ tags:
   - IT
   - JAVA
   - Jackson
-aliases:
+aliases: 
+title: 기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)
+date: 2023-11-06
 ---
 작성 날짜: 2023-11-06
 작성 시간: 18:08

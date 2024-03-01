@@ -1,3 +1,11 @@
+---
+tags:
+  - Spring
+  - databinding
+aliases: 
+title: 범용 EnumConverter 만들기
+date: 2023-11-24
+---
 작성 날짜: 2023-11-24
 작성 시간: 14:31
 

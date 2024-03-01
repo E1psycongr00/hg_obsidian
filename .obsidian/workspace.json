@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0b443eb45751e5db",
+        "id": "9060f6d6539bc970",
         "type": "tabs",
         "children": [
           {
-            "id": "e64b17eb75d15c18",
+            "id": "b32b12135a074135",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
-                "mode": "preview",
+                "file": "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +124,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md",
+                "file": "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -147,7 +147,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224436,
                   "close": true
                 }
               }
@@ -161,16 +161,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "9d534a5df67b7cbf",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md"
               }
             }
           },
@@ -207,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Kernel Level Thread vs User Level Thread.md"
+                "file": "영구노트/부하 테스트의 가용성과 확장성의 정의.md"
               }
             }
           },
@@ -218,8 +208,19 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "9d534a5df67b7cbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "영구노트/부하 테스트의 가용성과 확장성의 정의.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -243,34 +244,34 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e64b17eb75d15c18",
+  "active": "b32b12135a074135",
   "lastOpenFiles": [
-    "영구노트/Kernel Level Thread vs User Level Thread.md",
-    "영구노트/CPU 쓰레드(Thread).md",
-    "영구노트/GoRoutine 고루틴 소개.md",
-    "Resources/IT/운영체제/동기화 모음.md",
-    "연습노트/JS 역사.md",
-    "연습노트/default value.md",
-    "영구노트/Blocking IO.md",
-    "영구노트/IO Multiplexing.md",
-    "영구노트/운영 체제(OS).md",
-    "Resources/IT/운영체제/프로세스.md",
-    "연습노트/전기 쌍극자.md",
-    "templates/참조 노트 템플릿.md",
-    "templates/솔루션 템플릿.md",
-    "연습노트/무엇이 문제인가.md",
-    "templates/일정 템플릿.md",
-    "연습노트/무제 파일.md",
-    "코어(draw.md",
-    "templates/인물 소개 템플릿.md",
-    "templates/영상 참조 템플릿.md",
-    "영구노트/Husky를 활용해 Commit Convention 강제하기.md",
-    "영구노트/AST.md",
-    "연습노트/nextjs 테마 만들기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "영구노트/markdown에 커스텀 문법 적용하기.md",
-    "영구노트/unified & remark & rehype 동작 과정.md",
-    "영구노트/unist.md",
+    "영구노트/빌드 관리 도구 필요성.md",
+    "영구노트/부하 테스트의 가용성과 확장성의 정의.md",
+    "영구노트/부하 테스트 개념.md",
+    "영구노트/부분합, 누적합.md",
+    "영구노트/본능의 목소리에 귀울여라 by donald trump.md",
+    "영구노트/범용 EnumConverter 만들기.md",
+    "영구노트/배열은 객체다(JS).md",
+    "영구노트/배열 초기화.md",
+    "영구노트/배열 불변성 복사(JS).md",
+    "영구노트/미로 탈출 명령어.md",
+    "영구노트/뮤텍스(Mutex).md",
+    "영구노트/무료와 독점 JDK 모음.md",
+    "영구노트/무거운 짐을 함부러 버리지마라 by 이경규.md",
+    "영구노트/몽키 패치.md",
+    "영구노트/메서드 return에 java bean validation 적용 및 테스트.md",
+    "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
+    "영구노트/때로는 승부에서 패배해봐야  by donald trump.md",
+    "영구노트/도체계의 정전용량.md",
+    "영구노트/대류 전류.md",
+    "영구노트/단축 평가 계산.md",
+    "영구노트/단속 카메라 문제.md",
+    "데일리/2023-12-12.md",
+    "영구노트/니콜라스 루만.md",
+    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/나만의 노트 확장 방법.md",
     "Excalidraw/unified 동작 과정(draw).svg",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
     "attachments/screenshot/Pasted image 20240228154758.png",

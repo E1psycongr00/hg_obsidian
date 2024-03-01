@@ -3,6 +3,9 @@ tags:
   - 솔루션
   - 에러
   - JAVA
+aliases: 
+title: "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949"
+date: 2023-10-30
 ---
 작성 날짜: 2023-10-30
 작성 시간: 20:44

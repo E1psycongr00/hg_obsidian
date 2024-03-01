@@ -3,6 +3,9 @@ tags:
   - IT
   - 알고리즘
   - PrefixSum
+aliases: 
+title: "1D array constant time query update"
+date: 2023-11-03
 ---
 작성 날짜: 2023-11-03
 작성 시간: 11:43
@@ -36,6 +39,7 @@ a[a]++;
 - https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
+- [[부분합, 누적합]]
 - [[2D array constant time query update]]
 
 

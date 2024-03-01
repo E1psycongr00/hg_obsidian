@@ -5,6 +5,8 @@ tags:
 aliases:
   - 뮤텍스
   - Mutex
+title: 뮤텍스(Mutex)
+date: 2024-01-11
 ---
 작성 날짜: 2024-01-11
 작성 시간: 21:47

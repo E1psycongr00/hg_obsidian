@@ -6,7 +6,7 @@ tags:
 aliases:
   - Thread Model
   - 쓰레드 모델
-result:
+연관:
   - "[[CPU 쓰레드(Thread)]]"
 ---
 작성 날짜: 2023-12-17

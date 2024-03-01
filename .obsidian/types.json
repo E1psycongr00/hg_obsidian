@@ -23,6 +23,8 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "checkbox",
     "excalidraw-iframe-theme": "text",
-    "related": "multitext"
+    "related": "multitext",
+    "ref": "multitext",
+    "date": "date"
   }
 }

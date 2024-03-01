@@ -1,3 +1,6 @@
+---
+ref: "[[java bean validation에서 custom validator 만들기]]"
+---
 ## #JAVA
 
 
