@@ -7,6 +7,7 @@ tags:
 aliases:
   - 하드웨어 쓰레드
   - HW Thread
+cause: "[[Kernel Level Thread vs User Level Thread]]"
 ---
 작성 날짜: 2024-01-03
 작성 시간: 17:20
