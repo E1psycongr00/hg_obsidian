@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/javascript/Graph 자료구조 라이브러리.md",
+                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85629b99de16f036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/참조 노트 템플릿.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/javascript/Graph 자료구조 라이브러리.md",
+                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/javascript/Graph 자료구조 라이브러리.md",
+                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/javascript/Graph 자료구조 라이브러리.md",
+                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/IT/javascript/Graph 자료구조 라이브러리.md"
+                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md"
               }
             }
           },
@@ -195,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "ade53ac82dc849c4",
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/javascript/Graph 자료구조 라이브러리.md"
+                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md"
               }
             }
           },
@@ -219,8 +232,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,8 +258,15 @@
   },
   "active": "b32b12135a074135",
   "lastOpenFiles": [
-    "Resources/IT/javascript/js tutorial.md",
+    "attachments/screenshot/Pasted image 20240302211420.png",
+    "attachments/screenshot/Pasted image 20240302203517.png",
+    "templates/인물 소개 템플릿.md",
+    "templates/영상 참조 템플릿.md",
+    "연습노트/무제 파일.md",
+    "templates/참조 노트 템플릿.md",
+    "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
     "Resources/IT/javascript/Graph 자료구조 라이브러리.md",
+    "Resources/IT/javascript/js tutorial.md",
     "Resources/IT/부하 테스트.md",
     "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
@@ -266,12 +285,6 @@
     "영구노트/Web Socket이란.md",
     "영구노트/UnionFind.md",
     "영구노트/unified & remark & rehype 동작 과정.md",
-    "영구노트/TSDB.md",
-    "영구노트/Truthy or Falsy.md",
-    "영구노트/Trie.md",
-    "영구노트/Thread.join().md",
-    "영구노트/Task create vs register.md",
-    "영구노트/String Constant Pool.md",
     "Excalidraw/unified 동작 과정(draw).svg",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
     "attachments/screenshot/Pasted image 20240228154758.png",
@@ -281,7 +294,6 @@
     "attachments/screenshot/Pasted image 20240228153619.png",
     "attachments/screenshot/Pasted image 20240228153606.png",
     "attachments/screenshot/Pasted image 20240228152400.png",
-    "attachments/screenshot/Pasted image 20240227161525.png",
     "Resources/IT/프로젝트",
     "Resources/IT/javascript",
     "index.canvas",
