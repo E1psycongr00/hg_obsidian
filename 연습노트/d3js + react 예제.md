@@ -155,7 +155,7 @@ export default function LinePlot({
 
 ## 출처(링크)
 - https://d3js.org/d3-scale
-
+- https://developer.mozilla.org/en-US/docs/Web/API/SVGSVGElement
 ## 연결 노트
 - [[typescript question mark parameter]]
 
