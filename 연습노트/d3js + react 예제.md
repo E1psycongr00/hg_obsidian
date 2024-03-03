@@ -53,6 +53,15 @@ React 컴포넌트의 입력을 위해 Props 타입을 정의한다.
 	const gx = useRef<SVGSVGElement | null>(null);
 	const gy = useRef<SVGSVGElement | null>(null);
 
+```
+
+![[Pasted image 20240303144131.png]]
+
+기본적으로 D3js는 DOM을 직접 조작한다. React에서는 직접 DOM 조작을 추천하지 않는다. 그래서 useRef를 사용한다.
+
+>[!info] useRef
+### d3-scale
+```ts
 	const x = d3
 		 .scaleLinear()
 		.domain([0, data.length - 1])
@@ -68,9 +77,6 @@ React 컴포넌트의 입력을 위해 Props 타입을 정의한다.
 		.x((d, i) => x(i) as number)
 		.y(d => y(d) as number);
 ```
-
-
-
 ### 전체 코드
 
 ```ts
