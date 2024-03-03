@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md"
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md"
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
               }
             }
           },
@@ -264,7 +264,7 @@
     "templates/영상 참조 템플릿.md",
     "연습노트/무제 파일.md",
     "templates/참조 노트 템플릿.md",
-    "연습노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
     "Resources/IT/javascript/Graph 자료구조 라이브러리.md",
     "Resources/IT/javascript/js tutorial.md",
     "Resources/IT/부하 테스트.md",
