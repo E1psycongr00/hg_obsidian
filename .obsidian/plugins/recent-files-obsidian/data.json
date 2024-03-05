@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "유전체",
+      "path": "영구노트/유전체.md"
+    },
+    {
+      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
+      "path": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
+    },
+    {
       "basename": "d3js + react 예제",
       "path": "영구노트/d3js + react 예제.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "typescript question mark parameter",
       "path": "영구노트/typescript question mark parameter.md"
-    },
-    {
-      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
-      "path": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
     },
     {
       "basename": "인물 소개 템플릿",
@@ -95,10 +99,6 @@
     {
       "basename": "Young Generation 과 Old Generation 특징",
       "path": "영구노트/Young Generation 과 Old Generation 특징.md"
-    },
-    {
-      "basename": "Windows  cmd 명령어",
-      "path": "영구노트/Windows  cmd 명령어.md"
     }
   ],
   "omittedPaths": [],
