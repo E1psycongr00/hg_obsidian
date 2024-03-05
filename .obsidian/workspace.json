@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9060f6d6539bc970",
+        "id": "225cbb69a143542c",
         "type": "tabs",
         "children": [
           {
-            "id": "b32b12135a074135",
+            "id": "730260ff378ba25f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/유전체.md",
-                "mode": "source",
+                "file": "연습노트/무제 파일.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전속",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/유전체.md",
+                "file": "연습노트/무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/유전체.md",
+                "file": "연습노트/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/유전체.md",
+                "file": "연습노트/무제 파일.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/유전체.md"
+                "file": "연습노트/무제 파일.md"
               }
             }
           },
@@ -194,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "ade53ac82dc849c4",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/유전체.md"
+                "file": "연습노트/무제 파일.md"
               }
             }
           },
@@ -242,10 +243,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b32b12135a074135",
+  "active": "730260ff378ba25f",
   "lastOpenFiles": [
-    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+    "연습노트/전기 쌍극자.md",
     "영구노트/유전체.md",
+    "영구노트/nextjs의 getStaticProps가 매 번 실행되는 문제.md",
+    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
     "영구노트/d3js + react 예제.md",
     "attachments/screenshot/Pasted image 20240303190436.png",
     "attachments/screenshot/Pasted image 20240303190420.png",
@@ -275,8 +278,6 @@
     "영구노트/UTC(세계 협정시).md",
     "영구노트/UnionFind 그룹별 갯수 구하기.md",
     "영구노트/Valid Triangle Number.md",
-    "영구노트/Young Generation 과 Old Generation 특징.md",
-    "영구노트/Windows  cmd 명령어.md",
     "Excalidraw/unified 동작 과정(draw).svg",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
     "attachments/screenshot/Pasted image 20240228154758.png",
