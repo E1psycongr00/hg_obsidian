@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "730260ff378ba25f",
+            "id": "f5fe01dc32dc78ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/무제 파일.md",
-                "mode": "preview",
+                "file": "연습노트/Redux & Typescript.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c031fdf0ad4a4866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Redux.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "연습노트/Redux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "연습노트/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/무제 파일.md",
+                "file": "연습노트/Redux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/무제 파일.md"
+                "file": "연습노트/Redux.md"
               }
             }
           },
@@ -195,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "ade53ac82dc849c4",
@@ -207,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/무제 파일.md"
+                "file": "연습노트/Redux.md"
               }
             }
           },
@@ -243,8 +257,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "730260ff378ba25f",
+  "active": "c031fdf0ad4a4866",
   "lastOpenFiles": [
+    "연습노트/Redux & Typescript.md",
+    "연습노트/Redux.md",
+    "연습노트/무제 파일.md",
     "연습노트/전기 쌍극자.md",
     "영구노트/유전체.md",
     "영구노트/nextjs의 getStaticProps가 매 번 실행되는 문제.md",
@@ -264,7 +281,6 @@
     "attachments/screenshot/Pasted image 20240302203517.png",
     "templates/인물 소개 템플릿.md",
     "templates/영상 참조 템플릿.md",
-    "연습노트/무제 파일.md",
     "Resources/IT/javascript/Graph 자료구조 라이브러리.md",
     "Resources/IT/javascript/js tutorial.md",
     "Resources/IT/부하 테스트.md",
@@ -276,8 +292,6 @@
     "영구노트/Unix Time.md",
     "영구노트/upper bound.md",
     "영구노트/UTC(세계 협정시).md",
-    "영구노트/UnionFind 그룹별 갯수 구하기.md",
-    "영구노트/Valid Triangle Number.md",
     "Excalidraw/unified 동작 과정(draw).svg",
     "Excalidraw/ast를 활용해 새로운 문법 생성 과정(draw).svg",
     "attachments/screenshot/Pasted image 20240228154758.png",

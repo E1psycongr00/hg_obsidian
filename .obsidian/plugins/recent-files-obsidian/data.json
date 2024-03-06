@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "연습노트/무제 파일.md"
+      "basename": "Redux",
+      "path": "연습노트/Redux.md"
+    },
+    {
+      "basename": "Redux & Typescript",
+      "path": "연습노트/Redux & Typescript.md"
     },
     {
       "basename": "전기 쌍극자",
@@ -95,10 +99,6 @@
     {
       "basename": "UTC(세계 협정시)",
       "path": "영구노트/UTC(세계 협정시).md"
-    },
-    {
-      "basename": "UnionFind 그룹별 갯수 구하기",
-      "path": "영구노트/UnionFind 그룹별 갯수 구하기.md"
     }
   ],
   "omittedPaths": [],
