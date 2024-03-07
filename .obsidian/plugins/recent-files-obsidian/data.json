@@ -9,6 +9,14 @@
       "path": "Excalidraw/TaskContainer 구조(draw).md"
     },
     {
+      "basename": "default value",
+      "path": "연습노트/default value.md"
+    },
+    {
+      "basename": "TaskContainer 구조(draw)",
+      "path": "Excalidraw/TaskContainer 구조(draw).svg"
+    },
+    {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "JS 역사",
       "path": "연습노트/JS 역사.md"
-    },
-    {
-      "basename": "default value",
-      "path": "연습노트/default value.md"
-    },
-    {
-      "basename": "Blocking IO",
-      "path": "영구노트/Blocking IO.md"
     }
   ],
   "omittedPaths": [],

@@ -52,7 +52,10 @@ export default function TaskContainer() {
 ![[TaskContainer 구조(draw).svg]]
 
 ## 해결 방안
+### 복잡한 컨테이너 어떻게 해야 할까
+이 컴포넌트도 복잡해 보이지만 실제로는 이것보다 더 복잡한 컴포넌트들도 많다. state가 많고 이런 state를 관리하기 위한 핸들러가 많다면 이를 컨트롤하는 부모 컴포넌트의 코드량은 많아지고 이해하기 힘들어진다. React에서는 이를 reducer를 활용해서 분리할 수 있다.
 
+### useReducer로 로직 분리하기
 
 ## 질문 & 확장
 

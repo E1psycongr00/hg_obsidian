@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "taskcontainer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,6 +261,7 @@
   "lastOpenFiles": [
     "Excalidraw/TaskContainer 구조(draw).md",
     "연습노트/State 로직을  Reducer로 분리하기.md",
+    "연습노트/default value.md",
     "Excalidraw/TaskContainer 구조(draw).svg",
     "연습노트/전기 쌍극자.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
