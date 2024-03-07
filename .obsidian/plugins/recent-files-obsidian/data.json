@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "React State 관리하는 방법",
+      "path": "연습노트/React State 관리하는 방법.md"
+    },
+    {
       "basename": "Redux & Typescript",
       "path": "연습노트/Redux & Typescript.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "js tutorial",
       "path": "Resources/IT/javascript/js tutorial.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "Resources/IT/부하 테스트.md"
     }
   ],
   "omittedPaths": [],
