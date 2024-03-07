@@ -2,7 +2,7 @@
 #React #Redux 
 
 ### 상태 관리 솔루션
-- [[React Props 컴포넌트간 상태 공유하기]]
+- [[React Props 컴포넌트간 상태 공유하기(상태 동기화)]]
 - [[State 로직을  Reducer로 분리하기]]
 - [[React Context API로 상태 관리하기]]
 - 
