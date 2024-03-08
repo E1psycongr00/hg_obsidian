@@ -79,7 +79,7 @@ export default function Home() {
 
 #### Slice.ts 구성하기
 ```ts
-interface TaskState {
+export interface TaskState {
 	id: number;
 	text: string;
 }
@@ -187,7 +187,7 @@ export default AddTask;
 import React, { useState } from "react";
 import { useAppDispatch } from "@/module/hook";
 import { deleteTask, editTask } from "@/module/task/TaskSlice";
-import { TaskState } from "../context-reducer/reducer/tasksReducer";
+import { TaskState } from "@/module/task/TaskSlice";
 
 
 interface TaskProps {
