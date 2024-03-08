@@ -36,7 +36,6 @@ Context와 Reducer를 함께 사용하면 직접 필요한 상태를 바로 필�
 import { createContext } from "react";
 
 export const TasksContext = createContext<TaskState[]>([]);
-
 export const TasksDispatchContext = createContext<React.Dispatch<TaskAction>>(null!);
 ```
 

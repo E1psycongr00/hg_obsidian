@@ -5,6 +5,26 @@
       "path": "영구노트/React Context API와 Reducer로 상태 관리하기.md"
     },
     {
+      "basename": "State 로직을  Reducer로 분리하기",
+      "path": "영구노트/State 로직을  Reducer로 분리하기.md"
+    },
+    {
+      "basename": "Redux & Typescript",
+      "path": "연습노트/Redux & Typescript.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "default value",
+      "path": "연습노트/default value.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
       "basename": "TaskContainer 구조(draw)",
       "path": "Excalidraw/TaskContainer 구조(draw).md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "대류 전류",
       "path": "영구노트/대류 전류.md"
-    },
-    {
-      "basename": "State 로직을  Reducer로 분리하기",
-      "path": "영구노트/State 로직을  Reducer로 분리하기.md"
     },
     {
       "basename": "전자기학",
@@ -61,24 +77,12 @@
       "path": "Excalidraw/useReducer 훅을 이용한 주입(draw).md"
     },
     {
-      "basename": "default value",
-      "path": "연습노트/default value.md"
-    },
-    {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
     },
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Redux & Typescript",
-      "path": "연습노트/Redux & Typescript.md"
     },
     {
       "basename": "Prompting Github Copilot",
@@ -95,10 +99,6 @@
     {
       "basename": "프로세스",
       "path": "Resources/IT/운영체제/프로세스.md"
-    },
-    {
-      "basename": "동기화 모음",
-      "path": "Resources/IT/운영체제/동기화 모음.md"
     }
   ],
   "omittedPaths": [],
