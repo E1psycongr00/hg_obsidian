@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "React Context API와 Reducer로 상태 관리하기",
+      "path": "영구노트/React Context API와 Reducer로 상태 관리하기.md"
+    },
+    {
+      "basename": "State 로직을  Reducer로 분리하기",
+      "path": "영구노트/State 로직을  Reducer로 분리하기.md"
+    },
+    {
       "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
       "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
     },
@@ -45,10 +53,6 @@
       "path": "영구노트/Redux를 활용해 React 상태 관리하기.md"
     },
     {
-      "basename": "React Context API와 Reducer로 상태 관리하기",
-      "path": "영구노트/React Context API와 Reducer로 상태 관리하기.md"
-    },
-    {
       "basename": "Redux 동작 원리(draw)",
       "path": "Excalidraw/Redux 동작 원리(draw).md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Redux 동작 원리(draw)",
       "path": "Excalidraw/Redux 동작 원리(draw).svg"
-    },
-    {
-      "basename": "State 로직을  Reducer로 분리하기",
-      "path": "영구노트/State 로직을  Reducer로 분리하기.md"
     },
     {
       "basename": "TaskContainer 구조(draw)",
