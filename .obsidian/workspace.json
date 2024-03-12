@@ -11,8 +11,13 @@
             "id": "620fbf7b02d530dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/State 로직을  Reducer로 분리하기.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구노트/State 로직을  Reducer로 분리하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구노트/State 로직을  Reducer로 분리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "영구노트/State 로직을  Reducer로 분리하기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "영구노트/State 로직을  Reducer로 분리하기.md"
+              }
             }
           },
           {
@@ -196,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "영구노트/State 로직을  Reducer로 분리하기.md"
+              }
             }
           },
           {
@@ -233,9 +245,9 @@
   },
   "active": "620fbf7b02d530dc",
   "lastOpenFiles": [
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/React Context API와 Reducer로 상태 관리하기.md",
     "영구노트/State 로직을  Reducer로 분리하기.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/default value.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
