@@ -39,8 +39,8 @@ a[a]++;
 - https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
-- [[부분합, 누적합]]
-- [[2D array constant time query update]]
+- [부분합, 누적합](%EB%B6%80%EB%B6%84%ED%95%A9,%20%EB%88%84%EC%A0%81%ED%95%A9.md)
+- [2D array constant time query update](2D%20array%20constant%20time%20query%20update.md)
 
 
 

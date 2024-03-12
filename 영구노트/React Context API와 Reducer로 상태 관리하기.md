@@ -19,7 +19,8 @@ title: React Context API와 Reducer로 상태 관리하기
 
 ![[TaskContainer 구조(draw).svg]]
 
-[[State 로직을  Reducer로 분리하기]] 편을 보면 분리하더라도 예제만으로 보면 왜 분리하는 지 쓸모 없어보인다. 여전히 [[Props Driling]] 때문에 구현이 복잡하다.
+[[State 로직을  Reducer로 분리하기]] 편을 보면 분리하더라도 예제만으로 보면 왜 분리하는 지 쓸모 없어 보인다. 여전히 [[Props Driling]] 때문에 구현이 복잡하다.
+
 ## 해결 방안
 ### Context API
 ![[Context Reducer(draw)|700]]
