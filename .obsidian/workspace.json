@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/1D array constant time query update.md",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/1D array constant time query update.md",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/1D array constant time query update.md",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/1D array constant time query update.md",
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/1D array constant time query update.md"
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/1D array constant time query update.md"
+                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
               }
             }
           },
@@ -245,11 +245,15 @@
   },
   "active": "692d8a7711b8dbbb",
   "lastOpenFiles": [
+    "Resources/IT/java/표준 Java Error.md",
+    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "영구노트/1D array constant time query update.md",
+    "영구노트/부분합, 누적합.md",
+    "영구노트/2차원 구간합, 부분합.md",
     "영구노트/@Valid와 @Validated 차이.md",
     "영구노트/나만의 노트 분리하기.md",
     "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "영구노트/경계 다루기.md",
-    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "attachments/screenshot/Pasted image 20240313121423.png",
     "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
@@ -263,11 +267,8 @@
     "영구노트/725. Split LinkedList in Parts.md",
     "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
     "영구노트/2D array constant time query update.md",
-    "영구노트/2차원 구간합, 부분합.md",
-    "영구노트/1D array constant time query update.md",
     "attachments/screenshot/Pasted image 20240313115913.png",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "영구노트/부분합, 누적합.md",
     "영구노트/React Context API와 Reducer로 상태 관리하기.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/State 로직을  Reducer로 분리하기.md",

@@ -39,7 +39,7 @@ a[a]++;
 - https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
-- [[영구노트/부분합, 누적합|부분합, 누적합]]
+- [[부분합, 누적합]]
 - [[영구노트/2D array constant time query update|2D array constant time query update]]
 
 
