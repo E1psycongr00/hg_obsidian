@@ -7,7 +7,7 @@ aliases:
 title: "@Valid와 @Validated 차이"
 date: 2023-11-12
 ---
-작성 날짜: 2023-11-12
+D작성 날짜: 2023-11-12
 작성 시간: 13:21
 
 #완성 #JAVA #Spring #Validation 

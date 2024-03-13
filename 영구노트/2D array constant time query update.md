@@ -32,7 +32,7 @@ $$ S(x2, y2) = S(x2, y1-1) + S(x1-1, y2) - S(x1-1, y1-1) + a(x1-1, y1-1) $$
 
 다음 그림은 (1,1) (2, 2) 구간 사각형을 모두 1로 업데이트하는 쿼리를 만드는 과정이다.
 
-![[2d array constant value query (draw).svg| 700]]
+![[Excalidraw/2d array constant value query (draw).svg| 700]]
 
 ### Code
 ```java
@@ -72,7 +72,7 @@ for (int j = 0; j < cols; j++) {
 - https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
-- [[1D array constant time query update]]
+- [[영구노트/1D array constant time query update|1D array constant time query update]]
 
 
 

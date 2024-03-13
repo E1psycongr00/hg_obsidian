@@ -40,7 +40,7 @@ a[a]++;
 
 ## 연결 노트
 - [[영구노트/부분합, 누적합|부분합, 누적합]]
-- [2D array constant time query update](2D%20array%20constant%20time%20query%20update.md)
+- [[영구노트/2D array constant time query update|2D array constant time query update]]
 
 
 

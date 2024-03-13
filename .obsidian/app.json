@@ -14,5 +14,5 @@
   "propertiesInDocument": "visible",
   "livePreview": true,
   "useMarkdownLinks": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "relative"
 }
