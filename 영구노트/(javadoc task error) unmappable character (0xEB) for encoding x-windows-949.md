@@ -34,8 +34,7 @@ register<Javadoc>("jsonDoclet") {
 }
 ```
 
-
-![Pasted image 20231030204409.png|700](Pasted%20image%2020231030204409.png%7C700.md)
+![[Pasted image 20231030204409.png]]
 ![[../attachments/screenshot/Pasted image 20231030204435.png]]
 ## 해결 방안
 ```kotlin

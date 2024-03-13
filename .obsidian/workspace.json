@@ -19,6 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "244f9a41a38354a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8efc3d8a33ff8cdf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -223,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473
+    "width": 493
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,8 +261,10 @@
   },
   "active": "692d8a7711b8dbbb",
   "lastOpenFiles": [
-    "Resources/IT/java/표준 Java Error.md",
+    "attachments/screenshot/Pasted image 20231001204409.png",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "attachments/screenshot/Pasted image 20240314070359.png",
+    "Resources/IT/java/표준 Java Error.md",
     "영구노트/1D array constant time query update.md",
     "영구노트/부분합, 누적합.md",
     "영구노트/2차원 구간합, 부분합.md",
@@ -272,7 +290,6 @@
     "영구노트/React Context API와 Reducer로 상태 관리하기.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/State 로직을  Reducer로 분리하기.md",
-    "연습노트/전기 쌍극자.md",
     "Excalidraw/Redux 동작 원리(draw).svg",
     "Excalidraw/TaskContainer 구조(draw).svg",
     "Excalidraw/Context Reducer(draw).svg",
@@ -282,7 +299,6 @@
     "Resources/IT/javascript/React",
     "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif",
     "attachments/gif",
-    "attachments/screenshot/Pasted image 20240306195710.png",
     "Resources/IT/프로젝트",
     "Resources/IT/javascript",
     "index.canvas",
