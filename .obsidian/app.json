@@ -13,5 +13,6 @@
   },
   "propertiesInDocument": "visible",
   "livePreview": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute"
 }
