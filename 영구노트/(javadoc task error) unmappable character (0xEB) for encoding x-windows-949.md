@@ -20,7 +20,7 @@ date: 2023-10-30
 javadoc을 기반으로 docs에서 json을 추출하는 빌드 스크립트를 작성 중 발생한 오류이다.
 위 문제는 x-windows-949에서 한글 인코딩이 불가능해서 발생한 오류이다.
 
-Task를 짠 build script는 다음과 같다
+Task를 짠 build script는 다음과 같다.
 
 ```kotlin
 register<Javadoc>("jsonDoclet") {  
