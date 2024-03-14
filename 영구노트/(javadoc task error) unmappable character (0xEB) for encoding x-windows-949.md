@@ -35,7 +35,7 @@ register<Javadoc>("jsonDoclet") {
 ```
 
 ![[Pasted image 20231030204409.png]]
-![[../attachments/screenshot/Pasted image 20231030204435.png]]
+![[Pasted image 20231030204435.png]]
 ## 해결 방안
 ```kotlin
 options.encoding = "UTF-8"  

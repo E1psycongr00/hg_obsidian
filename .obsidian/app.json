@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "attachments/screenshot",
-  "showUnsupportedFiles": false,
+  "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
@@ -13,6 +13,6 @@
   },
   "propertiesInDocument": "visible",
   "livePreview": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "newLinkFormat": "shortest"
 }
