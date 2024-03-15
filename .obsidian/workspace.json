@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "ec96b9270fcc772f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Semantic Versioning 체계.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "244f9a41a38354a0",
             "type": "leaf",
             "state": {
@@ -36,7 +49,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+                "file": "연습노트/Semantic Versioning 체계.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+                "file": "연습노트/Semantic Versioning 체계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+                "file": "연습노트/Semantic Versioning 체계.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+                "file": "연습노트/Semantic Versioning 체계.md"
               }
             }
           },
@@ -223,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+                "file": "연습노트/Semantic Versioning 체계.md"
               }
             }
           },
@@ -259,10 +273,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "692d8a7711b8dbbb",
+  "active": "ec96b9270fcc772f",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20231001204409.png",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "연습노트/Semantic Versioning 체계.md",
+    "attachments/screenshot/Pasted image 20231001204409.png",
     "attachments/screenshot/Pasted image 20240314070359.png",
     "Resources/IT/java/표준 Java Error.md",
     "영구노트/1D array constant time query update.md",
@@ -297,7 +312,6 @@
     "attachments/screenshot/Pasted image 20240307163856.png",
     "Excalidraw/컴포넌트 동기화(draw).svg",
     "Resources/IT/javascript/React",
-    "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif",
     "attachments/gif",
     "Resources/IT/프로젝트",
     "Resources/IT/javascript",
