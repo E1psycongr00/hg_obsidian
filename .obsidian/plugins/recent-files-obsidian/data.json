@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
+      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+    },
+    {
+      "basename": "IO Multiplexing",
+      "path": "영구노트/IO Multiplexing.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "Blocking IO",
+      "path": "영구노트/Blocking IO.md"
+    },
+    {
       "basename": "Semantic Versioning 체계",
       "path": "영구노트/Semantic Versioning 체계.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "Redux를 활용해 React 상태 관리하기",
+      "path": "영구노트/Redux를 활용해 React 상태 관리하기.md"
+    },
+    {
+      "basename": "IO Bound와 CPU Bound",
+      "path": "영구노트/IO Bound와 CPU Bound.md"
+    },
+    {
+      "basename": "GoRoutine 고루틴 소개",
+      "path": "영구노트/GoRoutine 고루틴 소개.md"
+    },
+    {
+      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
+      "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
     },
     {
       "basename": "npm과 버저닝",
@@ -59,46 +99,6 @@
     {
       "basename": "경계 다루기",
       "path": "영구노트/경계 다루기.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
-      "path": "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 기법+ 옵시디언",
-      "path": "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md"
-    },
-    {
-      "basename": "나만의 노트 확장 방법",
-      "path": "영구노트/나만의 노트 확장 방법.md"
-    },
-    {
-      "basename": "구간합 문제 모음",
-      "path": "영구노트/구간합 문제 모음.md"
-    },
-    {
-      "basename": "광고 삽입",
-      "path": "영구노트/광고 삽입.md"
-    },
-    {
-      "basename": "공부가 아니라 배움이다  by 타일러",
-      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
-    },
-    {
-      "basename": "객체 분해 할당",
-      "path": "영구노트/객체 분해 할당.md"
-    },
-    {
-      "basename": "2707. Extra Characters in a String",
-      "path": "영구노트/2707. Extra Characters in a String.md"
-    },
-    {
-      "basename": "2022년 프로그래밍 별 통계",
-      "path": "영구노트/2022년 프로그래밍 별 통계.md"
-    },
-    {
-      "basename": "725. Split LinkedList in Parts",
-      "path": "영구노트/725. Split LinkedList in Parts.md"
     }
   ],
   "omittedPaths": [],
