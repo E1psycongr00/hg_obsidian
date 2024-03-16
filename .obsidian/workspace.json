@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/npm과 버저닝.md",
+                "file": "영구노트/Semantic Versioning 체계.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/npm과 버저닝.md",
+                "file": "영구노트/Semantic Versioning 체계.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/npm과 버저닝.md",
+                "file": "영구노트/Semantic Versioning 체계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/npm과 버저닝.md",
+                "file": "영구노트/Semantic Versioning 체계.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/npm과 버저닝.md"
+                "file": "영구노트/Semantic Versioning 체계.md"
               }
             }
           },
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/npm과 버저닝.md"
+                "file": "영구노트/Semantic Versioning 체계.md"
               }
             }
           },
@@ -258,8 +258,8 @@
   },
   "active": "8b17009356500b16",
   "lastOpenFiles": [
-    "영구노트/Semantic Versioning 체계.md",
     "영구노트/npm과 버저닝.md",
+    "영구노트/Semantic Versioning 체계.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "Excalidraw/SemVer(주,부,수)(draw).md",
     "Excalidraw/Drawing 2024-03-15 21.21.15.excalidraw.md",

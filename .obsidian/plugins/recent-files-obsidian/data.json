@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "npm과 버저닝",
-      "path": "영구노트/npm과 버저닝.md"
-    },
-    {
       "basename": "Semantic Versioning 체계",
       "path": "영구노트/Semantic Versioning 체계.md"
+    },
+    {
+      "basename": "npm과 버저닝",
+      "path": "영구노트/npm과 버저닝.md"
     },
     {
       "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
