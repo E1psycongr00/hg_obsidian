@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b17009356500b16",
+            "id": "b9787f0a1644b3fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+                "file": "연습노트/knex와 외래키 설정.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "58a23af0e213feb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/knexjs.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+                "file": "연습노트/knexjs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+                "file": "연습노트/knexjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+                "file": "연습노트/knexjs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+                "file": "연습노트/knexjs.md"
               }
             }
           },
@@ -206,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+                "file": "연습노트/knexjs.md"
               }
             }
           },
@@ -242,8 +257,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8b17009356500b16",
+  "active": "58a23af0e213feb8",
   "lastOpenFiles": [
+    "연습노트/knex와 외래키 설정.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "index.canvas",
+    "연습노트/knexjs.md",
+    "연습노트/React-markdown parse 에러.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/JS 역사.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/default value.md",
+    "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
     "영구노트/IO Multiplexing.md",
     "Resources/IT/운영체제/동기 IO Models.md",
     "영구노트/Blocking IO.md",
@@ -257,23 +285,10 @@
     "영구노트/npm과 버저닝.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "Excalidraw/SemVer(주,부,수)(draw).md",
-    "Excalidraw/Drawing 2024-03-15 21.21.15.excalidraw.md",
     "Excalidraw/SemVer(주,부,수)(draw).svg",
     "attachments/screenshot/Pasted image 20231001204409.png",
     "attachments/screenshot/Pasted image 20240314070359.png",
-    "Resources/IT/java/표준 Java Error.md",
-    "영구노트/1D array constant time query update.md",
-    "영구노트/부분합, 누적합.md",
-    "영구노트/2차원 구간합, 부분합.md",
-    "영구노트/@Valid와 @Validated 차이.md",
-    "영구노트/나만의 노트 분리하기.md",
-    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "영구노트/경계 다루기.md",
     "attachments/screenshot/Pasted image 20240313121423.png",
-    "영구노트/나만의 제텔카스텐 단위 메모 작성 이유.md",
-    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
-    "영구노트/나만의 노트 확장 방법.md",
-    "영구노트/구간합 문제 모음.md",
     "attachments/screenshot/Pasted image 20240313115913.png",
     "Excalidraw/Redux 동작 원리(draw).svg",
     "Excalidraw/TaskContainer 구조(draw).svg",
@@ -284,7 +299,6 @@
     "attachments/gif",
     "Resources/IT/프로젝트",
     "Resources/IT/javascript",
-    "index.canvas",
     "Resources/전기기사/전자기학",
     "Resources/전기기사",
     "명언 모음.canvas",
