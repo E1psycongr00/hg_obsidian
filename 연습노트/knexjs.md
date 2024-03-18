@@ -20,7 +20,7 @@ title: knexjs
 
 ### Knex
 >[!summary]
->PostgreSQL, MSSQL, MySQL, OracleDB, SQLite3, MariaDB 등
+>
 
 ## 질문 & 확장
 
