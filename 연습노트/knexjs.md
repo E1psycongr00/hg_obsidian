@@ -16,7 +16,11 @@ title: knexjs
 
 ----
 ## 내용(Content)
+![[Pasted image 20240319000336.png]]
 
+### Knex
+>[!summary]
+>PostgreSQL, MSSQL, MySQL, OracleDB, SQLite3, MariaDB 등
 
 ## 질문 & 확장
 

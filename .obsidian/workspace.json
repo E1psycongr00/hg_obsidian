@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "연습노트/knexjs.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -259,6 +259,7 @@
   },
   "active": "58a23af0e213feb8",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240319000336.png",
     "연습노트/knex와 외래키 설정.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "index.canvas",
