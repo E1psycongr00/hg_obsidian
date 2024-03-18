@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "58a23af0e213feb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/knexjs.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동시성 병렬성",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/knexjs.md",
+                "file": "연습노트/knex와 외래키 설정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/knexjs.md",
+                "file": "연습노트/knex와 외래키 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/knexjs.md",
+                "file": "연습노트/knex와 외래키 설정.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/knexjs.md"
+                "file": "연습노트/knex와 외래키 설정.md"
               }
             }
           },
@@ -221,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/knexjs.md"
+                "file": "연습노트/knex와 외래키 설정.md"
               }
             }
           },
@@ -257,13 +242,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "58a23af0e213feb8",
+  "active": "b9787f0a1644b3fd",
   "lastOpenFiles": [
+    "영구노트/knexjs.md",
     "attachments/screenshot/Pasted image 20240319000336.png",
     "연습노트/knex와 외래키 설정.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "index.canvas",
-    "연습노트/knexjs.md",
     "연습노트/React-markdown parse 에러.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
@@ -295,7 +280,6 @@
     "Excalidraw/TaskContainer 구조(draw).svg",
     "Excalidraw/Context Reducer(draw).svg",
     "Excalidraw/useReducer 훅을 이용한 주입(draw).svg",
-    "attachments/screenshot/Pasted image 20240307163856.png",
     "Resources/IT/javascript/React",
     "attachments/gif",
     "Resources/IT/프로젝트",
