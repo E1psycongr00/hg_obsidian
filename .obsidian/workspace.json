@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0dcea1fddc9e035e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md",
+                "file": "연습노트/참조 무결성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md",
+                "file": "연습노트/참조 무결성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md",
+                "file": "연습노트/참조 무결성.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md"
+                "file": "연습노트/참조 무결성.md"
               }
             }
           },
@@ -231,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md"
+                "file": "연습노트/참조 무결성.md"
               }
             }
           },
@@ -267,11 +257,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0dcea1fddc9e035e",
+  "active": "314bbbf8cf8dc70b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.svg",
+    "Excalidraw/참조 무결성(draw).md",
+    "Excalidraw/참조 무결성(draw).svg",
     "연습노트/참조 무결성.md",
-    "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md",
     "연습노트/knex와 외래키 설정.md",
     "영구노트/knexjs.md",
     "attachments/screenshot/Pasted image 20240319000336.png",
@@ -305,7 +295,6 @@
     "Excalidraw/Redux 동작 원리(draw).svg",
     "Excalidraw/TaskContainer 구조(draw).svg",
     "Excalidraw/Context Reducer(draw).svg",
-    "Excalidraw/useReducer 훅을 이용한 주입(draw).svg",
     "Resources/IT/javascript/React",
     "attachments/gif",
     "Resources/IT/프로젝트",
