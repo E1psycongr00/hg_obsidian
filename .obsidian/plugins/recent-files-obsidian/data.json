@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-03-19 22.57.09.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-19 22.57.09.excalidraw.md"
+    },
+    {
+      "basename": "참조 무결성",
+      "path": "연습노트/참조 무결성.md"
+    },
+    {
       "basename": "knex와 외래키 설정",
       "path": "연습노트/knex와 외래키 설정.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "npm과 버저닝",
       "path": "영구노트/npm과 버저닝.md"
-    },
-    {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "SemVer(주,부,수)(draw)",
-      "path": "Excalidraw/SemVer(주,부,수)(draw).md"
     }
   ],
   "omittedPaths": [],
