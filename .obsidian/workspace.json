@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/참조 무결성.md",
+                "file": "영구노트/npm과 버저닝.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "npm 라이브러리",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/참조 무결성.md",
+                "file": "영구노트/npm과 버저닝.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/참조 무결성.md",
+                "file": "영구노트/npm과 버저닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/참조 무결성.md",
+                "file": "영구노트/npm과 버저닝.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/참조 무결성.md"
+                "file": "영구노트/npm과 버저닝.md"
               }
             }
           },
@@ -221,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/참조 무결성.md"
+                "file": "영구노트/npm과 버저닝.md"
               }
             }
           },
@@ -257,11 +256,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "314bbbf8cf8dc70b",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
+    "연습노트/참조 무결성.md",
     "Excalidraw/참조 무결성(draw).md",
     "Excalidraw/참조 무결성(draw).svg",
-    "연습노트/참조 무결성.md",
     "연습노트/knex와 외래키 설정.md",
     "영구노트/knexjs.md",
     "attachments/screenshot/Pasted image 20240319000336.png",

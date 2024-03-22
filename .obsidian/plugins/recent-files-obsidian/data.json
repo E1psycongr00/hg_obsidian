@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "npm과 버저닝",
+      "path": "영구노트/npm과 버저닝.md"
+    },
+    {
       "basename": "참조 무결성",
       "path": "연습노트/참조 무결성.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
       "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
-    },
-    {
-      "basename": "npm과 버저닝",
-      "path": "영구노트/npm과 버저닝.md"
     }
   ],
   "omittedPaths": [],
