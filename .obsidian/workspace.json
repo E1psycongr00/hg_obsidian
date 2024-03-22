@@ -11,8 +11,13 @@
             "id": "ea373d87fe3a9924",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -116,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "연습노트/A namespace-style import cannot be called or constructed.md"
+              }
             }
           },
           {
@@ -195,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/A namespace-style import cannot be called or constructed.md"
+              }
             }
           },
           {
@@ -232,6 +245,8 @@
   },
   "active": "ea373d87fe3a9924",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240322220626.png",
+    "연습노트/A namespace-style import cannot be called or constructed.md",
     "연습노트/knex와 외래키 설정.md",
     "영구노트/npm과 버저닝.md",
     "연습노트/참조 무결성.md",
@@ -259,7 +274,6 @@
     "영구노트/Redux를 활용해 React 상태 관리하기.md",
     "영구노트/IO Bound와 CPU Bound.md",
     "영구노트/GoRoutine 고루틴 소개.md",
-    "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md",
     "Excalidraw/SemVer(주,부,수)(draw).svg",
     "attachments/screenshot/Pasted image 20231001204409.png",
     "attachments/screenshot/Pasted image 20240314070359.png",
