@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "A namespace-style import cannot be called or constructed",
-      "path": "연습노트/A namespace-style import cannot be called or constructed.md"
+      "path": "영구노트/A namespace-style import cannot be called or constructed.md"
+    },
+    {
+      "basename": "[typescript",
+      "path": "[typescript.md"
     },
     {
       "basename": "knex와 외래키 설정",
@@ -95,10 +99,6 @@
     {
       "basename": "IO Bound와 CPU Bound",
       "path": "영구노트/IO Bound와 CPU Bound.md"
-    },
-    {
-      "basename": "GoRoutine 고루틴 소개",
-      "path": "영구노트/GoRoutine 고루틴 소개.md"
     }
   ],
   "omittedPaths": [],

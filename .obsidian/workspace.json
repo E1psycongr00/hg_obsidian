@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
+                "file": "영구노트/A namespace-style import cannot be called or constructed.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npm 라이브러리",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
+                "file": "영구노트/A namespace-style import cannot be called or constructed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
+                "file": "영구노트/A namespace-style import cannot be called or constructed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/A namespace-style import cannot be called or constructed.md",
+                "file": "영구노트/A namespace-style import cannot be called or constructed.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/A namespace-style import cannot be called or constructed.md"
+                "file": "영구노트/A namespace-style import cannot be called or constructed.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/A namespace-style import cannot be called or constructed.md"
+                "file": "영구노트/A namespace-style import cannot be called or constructed.md"
               }
             }
           },
@@ -245,8 +244,10 @@
   },
   "active": "ea373d87fe3a9924",
   "lastOpenFiles": [
+    "[typescript.md",
+    "영구노트/A namespace-style import cannot be called or constructed.md",
+    "attachments/screenshot/Pasted image 20240322221751.png",
     "attachments/screenshot/Pasted image 20240322220626.png",
-    "연습노트/A namespace-style import cannot be called or constructed.md",
     "연습노트/knex와 외래키 설정.md",
     "영구노트/npm과 버저닝.md",
     "연습노트/참조 무결성.md",
@@ -280,8 +281,6 @@
     "attachments/screenshot/Pasted image 20240313121423.png",
     "attachments/screenshot/Pasted image 20240313115913.png",
     "Excalidraw/Redux 동작 원리(draw).svg",
-    "Excalidraw/TaskContainer 구조(draw).svg",
-    "Excalidraw/Context Reducer(draw).svg",
     "Resources/IT/javascript/React",
     "attachments/gif",
     "Resources/IT/프로젝트",
