@@ -48,5 +48,5 @@ import * as matter 를 이용해 import 하는 방식은 옛날 방식이기 때
 
 ## 출처(링크)
 - [typescript - A namespace-style import cannot be called or constructed, and will cause a failure at runtime - Stack Overflow](https://stackoverflow.com/questions/49256040/a-namespace-style-import-cannot-be-called-or-constructed-and-will-cause-a-failu)
-
+- [{ tsconfig.json } 제대로 알고 사용하기 (velog.io)](https://velog.io/@sooran/tsconfig.json-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 ## 연결 노트
