@@ -5,6 +5,14 @@
       "path": "연습노트/java 커링.md"
     },
     {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "참조 무결성",
+      "path": "연습노트/참조 무결성.md"
+    },
+    {
       "basename": "함수 바인딩",
       "path": "영구노트/함수 바인딩.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "npm과 버저닝",
       "path": "영구노트/npm과 버저닝.md"
-    },
-    {
-      "basename": "참조 무결성",
-      "path": "연습노트/참조 무결성.md"
     },
     {
       "basename": "참조 무결성(draw)",
@@ -59,10 +63,6 @@
     {
       "basename": "JS 역사",
       "path": "연습노트/JS 역사.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
       "basename": "전기 쌍극자",
