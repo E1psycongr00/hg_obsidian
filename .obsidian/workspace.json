@@ -11,8 +11,13 @@
             "id": "eddfacc6b980834c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/725. Split LinkedList in Parts.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구노트/725. Split LinkedList in Parts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구노트/725. Split LinkedList in Parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "영구노트/725. Split LinkedList in Parts.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "영구노트/725. Split LinkedList in Parts.md"
+              }
             }
           },
           {
@@ -196,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "영구노트/725. Split LinkedList in Parts.md"
+              }
             }
           },
           {
@@ -233,12 +245,21 @@
   },
   "active": "eddfacc6b980834c",
   "lastOpenFiles": [
+    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+    "영구노트/2D array constant time query update.md",
+    "영구노트/2차원 구간합, 부분합.md",
+    "영구노트/1D array constant time query update.md",
+    "영구노트/@Valid와 @Validated 차이.md",
+    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/JS 역사.md",
+    "JS.md",
+    "연습노트/knex와 외래키 설정.md",
+    "연습노트/참조 무결성.md",
     "영구노트/java 커링.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/참조 무결성.md",
     "영구노트/함수 바인딩.md",
     "영구노트/A namespace-style import cannot be called or constructed.md",
-    "연습노트/knex와 외래키 설정.md",
     "attachments/screenshot/Pasted image 20240322221751.png",
     "attachments/screenshot/Pasted image 20240322220626.png",
     "영구노트/npm과 버저닝.md",
@@ -246,24 +267,15 @@
     "Excalidraw/참조 무결성(draw).svg",
     "영구노트/knexjs.md",
     "attachments/screenshot/Pasted image 20240319000336.png",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "index.canvas",
     "연습노트/React-markdown parse 에러.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Prompting Github Copilot.md",
-    "연습노트/JS 역사.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/default value.md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
     "영구노트/IO Multiplexing.md",
-    "Resources/IT/운영체제/동기 IO Models.md",
-    "영구노트/Blocking IO.md",
-    "영구노트/Semantic Versioning 체계.md",
-    "Resources/IT/운영체제/프로세스.md",
-    "Resources/IT/운영체제/동기화 모음.md",
-    "영구노트/Redux를 활용해 React 상태 관리하기.md",
-    "영구노트/IO Bound와 CPU Bound.md",
     "Excalidraw/SemVer(주,부,수)(draw).svg",
     "attachments/screenshot/Pasted image 20231001204409.png",
     "attachments/screenshot/Pasted image 20240314070359.png",
