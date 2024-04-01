@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/725. Split LinkedList in Parts.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/725. Split LinkedList in Parts.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/725. Split LinkedList in Parts.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/725. Split LinkedList in Parts.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/725. Split LinkedList in Parts.md"
+                "file": "영구노트/단축 평가 계산.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/725. Split LinkedList in Parts.md"
+                "file": "영구노트/단축 평가 계산.md"
               }
             }
           },
@@ -245,12 +245,21 @@
   },
   "active": "eddfacc6b980834c",
   "lastOpenFiles": [
-    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
-    "영구노트/2D array constant time query update.md",
+    "영구노트/2022년 프로그래밍 별 통계.md",
     "영구노트/2차원 구간합, 부분합.md",
     "영구노트/1D array constant time query update.md",
     "영구노트/@Valid와 @Validated 차이.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "영구노트/일반적인 ParametricSearch 만들기(통합).md",
+    "영구노트/프로그래밍으로 데드락 해결하기.md",
+    "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
+    "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
+    "영구노트/니콜라스 루만.md",
+    "영구노트/나만의 노트 분리하기.md",
+    "영구노트/725. Split LinkedList in Parts.md",
+    "attachments/screenshot/Pasted image 20240401223100.png",
+    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+    "영구노트/2D array constant time query update.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JS 역사.md",
     "JS.md",
@@ -268,20 +277,11 @@
     "영구노트/knexjs.md",
     "attachments/screenshot/Pasted image 20240319000336.png",
     "index.canvas",
-    "연습노트/React-markdown parse 에러.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Prompting Github Copilot.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/default value.md",
-    "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
-    "영구노트/IO Multiplexing.md",
     "Excalidraw/SemVer(주,부,수)(draw).svg",
     "attachments/screenshot/Pasted image 20231001204409.png",
     "attachments/screenshot/Pasted image 20240314070359.png",
     "attachments/screenshot/Pasted image 20240313121423.png",
     "attachments/screenshot/Pasted image 20240313115913.png",
-    "Excalidraw/Redux 동작 원리(draw).svg",
     "Resources/IT/javascript/React",
     "attachments/gif",
     "Resources/IT/프로젝트",
