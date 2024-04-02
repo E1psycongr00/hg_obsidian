@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "typescript의 record 타입",
+      "path": "연습노트/typescript의 record 타입.md"
+    },
+    {
       "basename": "단축 평가 계산",
       "path": "영구노트/단축 평가 계산.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "npm과 버저닝",
       "path": "영구노트/npm과 버저닝.md"
-    },
-    {
-      "basename": "참조 무결성(draw)",
-      "path": "Excalidraw/참조 무결성(draw).md"
     }
   ],
   "omittedPaths": [],
