@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -11,55 +11,62 @@
       "query": "tag:#JAVA  ",
       "color": {
         "a": 1,
-        "rgb": 15277084
-      }
-    },
-    {
-      "query": "tag:#Gradle  ",
-      "color": {
-        "a": 1,
-        "rgb": 6021202
-      }
-    },
-    {
-      "query": "file:(draw)",
-      "color": {
-        "a": 1,
-        "rgb": 14570208
-      }
-    },
-    {
-      "query": "tag:#명언 ",
-      "color": {
-        "a": 1,
-        "rgb": 8750060
-      }
-    },
-    {
-      "query": "tag:#OS",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#알고리즘",
       "color": {
         "a": 1,
-        "rgb": 16096804
+        "rgb": 170743
+      }
+    },
+    {
+      "query": "tag:#Gradle",
+      "color": {
+        "a": 1,
+        "rgb": 3669760
+      }
+    },
+    {
+      "query": "tag:#명언",
+      "color": {
+        "a": 1,
+        "rgb": 16011962
+      }
+    },
+    {
+      "query": "tag:#OS",
+      "color": {
+        "a": 1,
+        "rgb": 4373924
+      }
+    },
+    {
+      "query": "tag:#JS",
+      "color": {
+        "a": 1,
+        "rgb": 14856814
+      }
+    },
+    {
+      "query": "file:(draw)",
+      "color": {
+        "a": 1,
+        "rgb": 13134442
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 0.916666666666667,
-  "lineSizeMultiplier": 0.940145833333333,
-  "collapse-forces": true,
-  "centerStrength": 0.23840678107103,
-  "repelStrength": 6.20331744436533,
-  "linkStrength": 0.945898311664806,
-  "linkDistance": 434,
-  "scale": 0.13168724279836258,
-  "close": true
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 292,
+  "scale": 0.04778763710962838,
+  "close": false
 }

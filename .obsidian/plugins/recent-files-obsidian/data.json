@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "typescript의 record 타입",
+      "path": "연습노트/typescript의 record 타입.md"
+    },
+    {
+      "basename": "몽키 패치",
+      "path": "영구노트/몽키 패치.md"
+    },
+    {
+      "basename": "참조 무결성",
+      "path": "연습노트/참조 무결성.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+    },
+    {
       "basename": "node 복잡한 인자 처리하기",
       "path": "영구노트/node 복잡한 인자 처리하기.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "node 인자 처리하기",
       "path": "영구노트/node 인자 처리하기.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "typescript의 record 타입",
-      "path": "연습노트/typescript의 record 타입.md"
     },
     {
       "basename": "단축 평가 계산",
@@ -87,14 +99,6 @@
     {
       "basename": "JS 역사",
       "path": "연습노트/JS 역사.md"
-    },
-    {
-      "basename": "knex와 외래키 설정",
-      "path": "연습노트/knex와 외래키 설정.md"
-    },
-    {
-      "basename": "참조 무결성",
-      "path": "연습노트/참조 무결성.md"
     }
   ],
   "omittedPaths": [],
