@@ -46,7 +46,8 @@ nextjs 를 사용하다 보면 빌드 이전에 꼭 해야 할 스크립트를 �
 - https://velog.io/@nyoung113/package.json-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%8B%A4%ED%96%89-%EC%9D%B4%EC%A0%84%EC%97%90-%EB%8B%A4%EB%A5%B8-%EB%AA%85%EB%A0%B9%EC%96%B4-%EA%B0%99%EC%9D%B4-%EC%8B%A4%ED%96%89%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%9D%84-%EB%95%8C-pre-%EC%A0%91%EB%91%90%EC%82%AC
 
 ## 연결 노트
-
+- [[node args 처리하기|node 인자 처리하기]]
+- [[node 복잡한 인자 처리하기]]
 
 
 
