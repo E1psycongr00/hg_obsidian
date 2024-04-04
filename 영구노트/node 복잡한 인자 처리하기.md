@@ -15,7 +15,7 @@ title: node 복잡한 인자 처리하기
 ----
 
 ## 문제 & 원인
-이전에 [[node args 처리하기]]에서 인자를 처리할 수 있지만 복잡한 인자처리는 문제가 있다.
+이전에 [[node 인자 처리하기]]에서 인자를 처리할 수 있지만 복잡한 인자처리는 문제가 있다.
 
 예를 들면 linux command shell에서 docker 같은 것을 사용해보면 이런 식으로 인자를 받고 싶을 수도 있다.
 
@@ -78,4 +78,4 @@ alias 옵션을 활용하면 같은 인자가 되도록 만들 수 있다.
 - [미니미스트 - npm (npmjs.com)](https://www.npmjs.com/package/minimist)
 
 ## 연결 노트
-- [[node args 처리하기|node 인자 처리하기]]
+- [[node 인자 처리하기]]

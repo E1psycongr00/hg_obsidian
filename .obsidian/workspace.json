@@ -24,13 +24,8 @@
             "id": "c493188dee28a6c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -53,10 +48,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -109,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +131,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/nextjs build 이전에 스크립트 실행 방법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,9 +210,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/nextjs build 이전에 스크립트 실행 방법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,14 +242,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "c493188dee28a6c8",
   "lastOpenFiles": [
-    "영구노트/node args 처리하기.md",
-    "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
     "영구노트/node 복잡한 인자 처리하기.md",
+    "Home.md",
+    "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
+    "영구노트/node 인자 처리하기.md",
+    "연습노트/전기 쌍극자.md",
     "연습노트/typescript의 record 타입.md",
     "attachments/screenshot/Pasted image 20240404134708.png",
     "attachments/screenshot/Pasted image 20240404132755.png",
@@ -288,7 +279,6 @@
     "JS.md",
     "연습노트/knex와 외래키 설정.md",
     "연습노트/참조 무결성.md",
-    "영구노트/java 커링.md",
     "attachments/screenshot/Pasted image 20240322221751.png",
     "attachments/screenshot/Pasted image 20240322220626.png",
     "Excalidraw/참조 무결성(draw).svg",

@@ -4,10 +4,10 @@ tags:
   - "#NodeJS"
   - "#JS"
 aliases:
-  - node 인자 처리하기
+  - node args 처리하기
   - 콘솔에서 node 인자 처리
 date: 2024-04-04
-title: node args 처리하기
+title: node 인자 처리하기
 ---
 작성 날짜: 2024-04-04
 작성 시간: 13:12

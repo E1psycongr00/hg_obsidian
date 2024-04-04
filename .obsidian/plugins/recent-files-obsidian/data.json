@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "node 복잡한 인자 처리하기",
+      "path": "영구노트/node 복잡한 인자 처리하기.md"
+    },
+    {
       "basename": "nextjs build 이전에 스크립트 실행 방법",
       "path": "영구노트/nextjs build 이전에 스크립트 실행 방법.md"
     },
     {
-      "basename": "node args 처리하기",
-      "path": "영구노트/node args 처리하기.md"
+      "basename": "node 인자 처리하기",
+      "path": "영구노트/node 인자 처리하기.md"
     },
     {
-      "basename": "node 복잡한 인자 처리하기",
-      "path": "영구노트/node 복잡한 인자 처리하기.md"
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
     },
     {
       "basename": "typescript의 record 타입",
@@ -91,14 +95,6 @@
     {
       "basename": "참조 무결성",
       "path": "연습노트/참조 무결성.md"
-    },
-    {
-      "basename": "java 커링",
-      "path": "영구노트/java 커링.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     }
   ],
   "omittedPaths": [],
