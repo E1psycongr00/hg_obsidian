@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/esbuild 사용해보기.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bundler",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/esbuild 사용해보기.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/esbuild 사용해보기.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/esbuild 사용해보기.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/esbuild 사용해보기.md"
+                "file": "영구노트/esbuild 사용해보기.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/esbuild 사용해보기.md"
+                "file": "영구노트/esbuild 사용해보기.md"
               }
             }
           },
@@ -245,7 +244,7 @@
   },
   "active": "b634228aa0672dc8",
   "lastOpenFiles": [
-    "연습노트/esbuild 사용해보기.md",
+    "영구노트/esbuild 사용해보기.md",
     "attachments/screenshot/Pasted image 20240405160206.png",
     "templates/참조 노트 템플릿.md",
     "index.canvas",
