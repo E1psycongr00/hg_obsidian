@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe5a90e17dd6f51",
+        "id": "47bb556b85fb4d56",
         "type": "tabs",
         "children": [
           {
-            "id": "944c92d77e678cbf",
+            "id": "f88b44db04bf8fc4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/esbuild 사용하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/esbuild 사용하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/esbuild 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/esbuild 사용하기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "연습노트/esbuild 사용하기.md"
+              }
             }
           },
           {
@@ -196,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/esbuild 사용하기.md"
+              }
             }
           },
           {
@@ -231,8 +243,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "944c92d77e678cbf",
+  "active": "f88b44db04bf8fc4",
   "lastOpenFiles": [
+    "연습노트/esbuild 사용하기.md",
+    "연습노트/esbuild 사용하기.md",
+    "templates/참조 노트 템플릿.md",
+    "index.canvas",
     "연습노트/typescript의 record 타입.md",
     "영구노트/몽키 패치.md",
     "연습노트/참조 무결성.md",
@@ -261,14 +277,10 @@
     "영구노트/725. Split LinkedList in Parts.md",
     "attachments/screenshot/Pasted image 20240401223100.png",
     "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
-    "영구노트/2D array constant time query update.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/JS 역사.md",
     "attachments/screenshot/Pasted image 20240322221751.png",
     "attachments/screenshot/Pasted image 20240322220626.png",
     "Excalidraw/참조 무결성(draw).svg",
     "attachments/screenshot/Pasted image 20240319000336.png",
-    "index.canvas",
     "Excalidraw/SemVer(주,부,수)(draw).svg",
     "Resources/IT/javascript/React",
     "attachments/gif",

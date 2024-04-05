@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "esbuild 사용하기",
+      "path": "연습노트/esbuild 사용하기.md"
+    },
+    {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.canvas"
+    },
+    {
       "basename": "typescript의 record 타입",
       "path": "연습노트/typescript의 record 타입.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "725. Split LinkedList in Parts",
       "path": "영구노트/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
-      "path": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
-    },
-    {
-      "basename": "2D array constant time query update",
-      "path": "영구노트/2D array constant time query update.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "JS 역사",
-      "path": "연습노트/JS 역사.md"
     }
   ],
   "omittedPaths": [],
