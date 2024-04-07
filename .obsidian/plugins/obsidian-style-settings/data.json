@@ -48,5 +48,10 @@
   "anuppuccin-theme-settings@@h4-line-height": 1.7,
   "anuppuccin-theme-settings@@h3-line-height": 3,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-nord-dark",
-  "anuppuccin-theme-settings@@callout-title-opacity": 0.1
+  "anuppuccin-theme-settings@@callout-title-opacity": 0.1,
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
+  "Blue-Topaz-Codebox-Highlight@@remove-language-type": false,
+  "Blue-Topaz-Codebox-Highlight@@code-line-number": true,
+  "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-custom"
 }

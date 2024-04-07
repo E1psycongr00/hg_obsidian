@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 17,
-  "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
     "color-extend"
   ]

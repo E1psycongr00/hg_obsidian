@@ -11,10 +11,10 @@
 		{"id":"94eab9460efcc0d0","type":"file","file":"Resources/IT/java/Java Annotation.md","x":887,"y":35,"width":736,"height":610},
 		{"id":"89385a219536329f","type":"file","file":"Excalidraw/hg_garden(DRAW).svg","x":240,"y":-1600,"width":1110,"height":240},
 		{"id":"f892c0174f2c14bf","type":"file","file":"Resources/IT/java/Java 공부.md","x":887,"y":-636,"width":736,"height":610},
-		{"id":"bb6c077688143b63","type":"file","file":"Resources/IT/java/Spring JDBC.md","x":1697,"y":-636,"width":736,"height":610},
 		{"id":"5695414b1fd486ee","type":"file","file":"Resources/IT/java/표준 Java Error.md","x":887,"y":706,"width":736,"height":610},
 		{"id":"55d6a21190a2d48c","type":"file","file":"Resources/IT/java/Spring Bean Validation 총정리.md","x":1697,"y":35,"width":736,"height":610},
-		{"id":"f5df9541b9e6131d","type":"file","file":"Resources/IT/java/java 배열 사용법.md","x":1697,"y":706,"width":736,"height":610}
+		{"id":"f5df9541b9e6131d","type":"file","file":"Resources/IT/java/java 배열 사용법.md","x":1697,"y":706,"width":736,"height":610},
+		{"id":"bb6c077688143b63","type":"file","file":"Resources/IT/java/Spring JDBC.md","x":1697,"y":-655,"width":736,"height":610}
 	],
 	"edges":[
 		{"id":"701ded8fcbdb638c","fromNode":"89385a219536329f","fromSide":"bottom","toNode":"1ef7776cbd842f90","toSide":"top"}
