@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
+      "basename": "typescript의 record 타입",
+      "path": "영구노트/typescript의 record 타입.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "React-markdown parse 에러",
+      "path": "연습노트/React-markdown parse 에러.md"
+    },
+    {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "knex와 외래키 설정",
+      "path": "연습노트/knex와 외래키 설정.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "JS 역사",
+      "path": "연습노트/JS 역사.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "참조 무결성",
+      "path": "연습노트/참조 무결성.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "서비스 수준 용어",
+      "path": "영구노트/서비스 수준 용어.md"
     },
     {
       "basename": "index",
@@ -59,46 +99,6 @@
     {
       "basename": "IO Bound와 CPU Bound",
       "path": "영구노트/IO Bound와 CPU Bound.md"
-    },
-    {
-      "basename": "Java 파일 다루기",
-      "path": "영구노트/Java 파일 다루기.md"
-    },
-    {
-      "basename": "java 커링",
-      "path": "영구노트/java 커링.md"
-    },
-    {
-      "basename": "Gradle Build Life Cycle",
-      "path": "영구노트/Gradle Build Life Cycle.md"
-    },
-    {
-      "basename": "Gradle Init Script",
-      "path": "영구노트/Gradle Init Script.md"
-    },
-    {
-      "basename": "프로그래밍으로 데드락 해결하기",
-      "path": "영구노트/프로그래밍으로 데드락 해결하기.md"
-    },
-    {
-      "basename": "DeadLock",
-      "path": "영구노트/DeadLock.md"
-    },
-    {
-      "basename": "자바 9 ~ 11 이전까지 과정",
-      "path": "영구노트/자바 9 ~ 11 이전까지 과정.md"
-    },
-    {
-      "basename": "typescript의 record 타입",
-      "path": "연습노트/typescript의 record 타입.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "React-markdown parse 에러",
-      "path": "연습노트/React-markdown parse 에러.md"
     }
   ],
   "omittedPaths": [],
