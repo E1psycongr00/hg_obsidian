@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "React-markdown parse 에러",
       "path": "연습노트/React-markdown parse 에러.md"
-    },
-    {
-      "basename": "knex와 외래키 설정",
-      "path": "연습노트/knex와 외래키 설정.md"
     }
   ],
   "omittedPaths": [],

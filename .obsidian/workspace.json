@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "연습노트/Prompting Github Copilot.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "copilot",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "연습노트/Prompting Github Copilot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "연습노트/Prompting Github Copilot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
+                "file": "연습노트/Prompting Github Copilot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+                "file": "연습노트/Prompting Github Copilot.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+                "file": "연습노트/Prompting Github Copilot.md"
               }
             }
           },
@@ -245,6 +244,8 @@
   },
   "active": "612d48f8f37226c6",
   "lastOpenFiles": [
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "index.canvas",
     "영구노트/IO Bound와 CPU Bound.md",
     "영구노트/Java 파일 다루기.md",
@@ -256,10 +257,8 @@
     "영구노트/자바 9 ~ 11 이전까지 과정.md",
     "연습노트/typescript의 record 타입.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/React-markdown parse 에러.md",
     "연습노트/knex와 외래키 설정.md",
-    "연습노트/Prompting Github Copilot.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JS 역사.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
