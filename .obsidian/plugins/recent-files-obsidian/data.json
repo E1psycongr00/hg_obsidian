@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "knex와 외래키 설정",
+      "path": "연습노트/knex와 외래키 설정.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "참조 무결성",
+      "path": "연습노트/참조 무결성.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "React-markdown parse 에러",
+      "path": "연습노트/React-markdown parse 에러.md"
+    },
+    {
+      "basename": "운영 체제(OS)",
+      "path": "영구노트/운영 체제(OS).md"
+    },
+    {
+      "basename": "@Valid와 @Validated 차이",
+      "path": "영구노트/@Valid와 @Validated 차이.md"
+    },
+    {
       "basename": "무제 파일",
       "path": "무제 파일.md"
     },
@@ -21,40 +65,8 @@
       "path": "연습노트/Spring에서 예외 처리 과정.md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "React-markdown parse 에러",
-      "path": "연습노트/React-markdown parse 에러.md"
-    },
-    {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
-    },
-    {
-      "basename": "knex와 외래키 설정",
-      "path": "연습노트/knex와 외래키 설정.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
       "basename": "JS 역사",
       "path": "연습노트/JS 역사.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "참조 무결성",
-      "path": "연습노트/참조 무결성.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
     },
     {
       "basename": "서비스 수준 용어",
@@ -87,18 +99,6 @@
     {
       "basename": "java 배열 사용법",
       "path": "Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Spring JDBC",
-      "path": "Resources/IT/java/Spring JDBC.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "Resources/IT/java/Java Annotation.md"
     }
   ],
   "omittedPaths": [],
