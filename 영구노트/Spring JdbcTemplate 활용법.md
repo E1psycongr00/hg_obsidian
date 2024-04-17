@@ -74,8 +74,8 @@ public Optional<Member> findById(Long id) {
 >[!info] try ... catch를 한 이유
 >만약 데이터를 찾지 못한 경우 **EmptyResultDataAccessException이** 발생한다.  예외를 null로 처리하고 Optional로 묶기 위해서 처리해주었다.
 
-MemberQuery.FIND_BY_ID 는 "SELECT * FROM members WHERE id = ?" 형태의 동적 쿼리이다.
-동적 쿼리를 입력하는 경우 new Object[] {...args}를 인자로 넣어주면 된다. 
+MemberQuery.FIND_BY_ID 는 `SELECT * FROM members WHERE id = ?` 형태의 동적 쿼리이다.
+동적 쿼리를 입력하는 경우 `new Object[] {...args}`를 인자로 넣어주면 된다. 
 
 #### 여러 객체(query)
 ```java

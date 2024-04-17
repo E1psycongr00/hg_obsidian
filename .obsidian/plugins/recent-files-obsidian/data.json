@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "객체 분해 할당",
+      "path": "영구노트/객체 분해 할당.md"
+    },
+    {
+      "basename": "Spring JdbcTemplate 활용법",
+      "path": "영구노트/Spring JdbcTemplate 활용법.md"
+    },
+    {
       "basename": "Array.from",
       "path": "영구노트/Array.from.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "알고리즘",
       "path": "Resources/IT/알고리즘.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "Resources/IT/부하 테스트.md"
-    },
-    {
-      "basename": "표준 Java Error",
-      "path": "Resources/IT/java/표준 Java Error.md"
     }
   ],
   "omittedPaths": [],
