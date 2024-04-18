@@ -79,7 +79,9 @@ void test() {
 ```
 
 
-> ConstraintViolationImpl{interpolatedMessage='Invalid phone number', propertyPath=phoneNumber, rootBeanClass=class backjoon.Man, messageTemplate='Invalid phone number'}
+```text
+ ConstraintViolationImpl{interpolatedMessage='Invalid phone number', propertyPath=phoneNumber, rootBeanClass=class backjoon.Man, messageTemplate='Invalid phone number'}
+```
 
 
 ## 질문 & 확장

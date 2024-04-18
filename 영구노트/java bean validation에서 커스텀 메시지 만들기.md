@@ -29,7 +29,11 @@ private final int productNo;
 ### MessageTemplate 활용하기
 
 ContraitViolation 객체 속성을 살펴보면
+
+```text
 ConstraintViolationImpl{interpolatedMessage='과거 또는 현재의 날짜여야 합니다', propertyPath=salStartAt, rootBeanClass=class backjoon.Product, messageTemplate='{javax.validation.constraints.PastOrPresent.message}
+```
+
 
 이렇게 messageTemplate이 있음을 알 수 있다. 이 때 참조하는 template을 직접 수정해도 되고, 내가 지정한 template을 등록해줘도 된다.
 

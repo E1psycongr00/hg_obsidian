@@ -152,7 +152,8 @@ compileTestJava {
 ```
 
 
-> **<<** 의미:
+>[!tip]
+> `<<` 의미:
 >  **options.compilerArgs라는 리스트에 '-parameters' 인자를 추가시키라는 의미이다.**
 
 SpringBoot의 경우에는 해당 인자가 자동으로 설정되어 있기 때문에 따로 설정할 필요가 없다고 한다.

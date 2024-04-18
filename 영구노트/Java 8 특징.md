@@ -59,7 +59,7 @@ list.stream()
 - https://www.oracle.com/java/technologies/javase/8-whats-new.html
 ## 연결 노트
 - [[JRE 와 JDK 의 차이]]
-- [[Java 8 이전 버전 별 특징]]
+- [[Java8 이전 버전 별 특징]]
 
 
 

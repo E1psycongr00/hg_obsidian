@@ -35,14 +35,14 @@ ts는 readOnly로 java와 같은 언어에서는 final로 변수를 고정할 �
 >Object.freeze는 중첩 Object에 대해서 동결을 수행하지 못한다. 그래서 따로 코드를 구현해야 한다. 제공하는 라이브러리도 있긴 하다.
 >```js
 >function deepFreeze(obj) {
-    Object.keys(obj).forEach((key) => {
-        let value = obj[key];
-        if (typeof value === "object" && value !== null && !Object.isFrozen(value)) {
-            deepFreeze(value);
-        }
-    });
-    return Object.freeze(obj);
-}
+ >   Object.keys(obj).forEach((key) => {
+ >      let value = obj[key];
+ >      if (typeof value === "object" && value !== null && !Object.isFrozen(value)) {
+>            deepFreeze(value);
+ >       }
+ >   });
+ >   return Object.freeze(obj);
+>}
 >```
 ## 질문 & 확장
 

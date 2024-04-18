@@ -15,13 +15,14 @@ date: 2024-02-16
 ----
 ## 내용(Content)
 ### upper bound
+
 >[!summary] upper bound
 >특정 값보다 바로 큰 값의 위치를 이분 탐색을 통해 찾는 알고리즘(target index + 1, 값이 중복된 경우 중복된 값의 마지막 index + 1)
 
 ![[Upper Bound 동작 과정(draw).svg|600]]
 
 >[!caution] lower bound와 upper bound 관계
->code 상으로는 low가 움직일 조건이  <, <= 차이 밖에 없다. lower_bound의 여러가지 특징을 이해하려면 이렇게 이해나는 것도 괜찮다
+>code 상으로는 low가 움직일 조건이  `<, <=` 차이 밖에 없다. lower_bound의 여러가지 특징을 이해하려면 이렇게 이해하는 것도 괜찮다
 >target보다 작지만 target에 가장 가까운 값 + 1 == (target이 존재한다면) target (존재하지 않으면 target보다 큰 값)
 ### Code
 

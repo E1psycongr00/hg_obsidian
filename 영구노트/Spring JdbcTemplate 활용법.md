@@ -107,7 +107,7 @@ public boolean update(Member member) {
 
 update문은 jdbcTemplate.update를 호출하며 역시 동적으로 사용가능하다. argument를 넣어주면 된다.
 
-위 코드의 update 쿼리는 UPDATE members SET name = ?, age = ? WHERE id = ? 이다.
+위 코드의 update 쿼리는 `UPDATE members SET name = ?, age = ? WHERE id = ?` 이다.
 
 ### insert 문
 
@@ -125,7 +125,7 @@ public boolean save(Member member) {
 
 jdbcTemplate.update 문으로 작성한다.
 
-insert문: INSERT INTO members (name, age) VALUES (?, ?)
+insert문: `INSERT INTO members (name, age) VALUES (?, ?)`
 
 
 ### delete 문

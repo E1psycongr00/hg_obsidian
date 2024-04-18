@@ -87,9 +87,11 @@ Bean Validation은 Validator 객체를 활용해서 인스턴스의 내부 속�
 
 그 이후 valdate 메서드를 통해 ConstraintViolation 을 가져온다. 테스트를 실행하면 다음과 같은 결과를 얻을 수 있다.
 
+```text
+ ConstraintViolationImpl{interpolatedMessage='과거 또는 현재의 날짜여야 합니다', propertyPath=salStartAt, rootBeanClass=class backjoon.Product, messageTemplate='{javax.validation.constraints.PastOrPresent.message}'}
+ ConstraintViolationImpl{interpolatedMessage='0보다 커야 합니다', propertyPath=productNo, rootBeanClass=class backjoon.Product, messageTemplate='{javax.validation.constraints.Positive.message}'}
+```
 
-> **ConstraintViolationImpl{interpolatedMessage='과거 또는 현재의 날짜여야 합니다',** propertyPath=salStartAt, rootBeanClass=class backjoon.Product, messageTemplate='{javax.validation.constraints.PastOrPresent.message}'}
-> **ConstraintViolationImpl{interpolatedMessage='0보다 커야 합니다'**, propertyPath=productNo, rootBeanClass=class backjoon.Product, messageTemplate='{javax.validation.constraints.Positive.message}'}
 
 
 ### Nested Field 유효성 정의하기
@@ -159,8 +161,12 @@ void test() {
 
 결과는 다음과 같다.
 
-> **ConstraintViolationImpl{interpolatedMessage='1에서 100 사이여야 합니다'**, propertyPath=age, rootBeanClass=class backjoon.Person, messageTemplate='{org.hibernate.validator.constraints.Range.message}'}
-> **ConstraintViolationImpl{interpolatedMessage='1에서 1000 사이여야 합니다'**, propertyPath=address.rodeNumber, rootBeanClass=class backjoon.Person, messageTemplate='{org.hibernate.validator.constraints.Range.message}'}
+```text
+ ConstraintViolationImpl{interpolatedMessage='1에서 100 사이여야 합니다', propertyPath=age, rootBeanClass=class backjoon.Person, messageTemplate='{org.hibernate.validator.constraints.Range.message}'}
+ ConstraintViolationImpl{interpolatedMessage='1에서 1000 사이여야 합니다', propertyPath=address.rodeNumber, rootBeanClass=class backjoon.Person, messageTemplate='{org.hibernate.validator.constraints.Range.message}'}
+```
+
+
 
 
 ## 질문 & 확장

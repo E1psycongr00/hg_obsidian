@@ -2,7 +2,7 @@
 tags:
   - JAVA
 aliases: 
-title: Java 8 이전 버전 별 특징
+title: Java8 이전 버전 별 특징
 date: 2023-10-03
 ---
 작성 날짜: 2023-10-03
@@ -97,7 +97,7 @@ date: 2023-10-03
 - Dynamic Language
 - Switch에서 String 사용
 - try 자동 자원 관리
-- Diamond Operatior <>
+- Diamond Operatior \<>
 - 이진수 리터럴
 - 숫자 리터럴에 _ 지원
 
