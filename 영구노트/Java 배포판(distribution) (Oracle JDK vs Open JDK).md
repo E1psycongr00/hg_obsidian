@@ -1,5 +1,6 @@
 ---
-tags: JAVA
+tags:
+  - JAVA
 aliases: 
 title: Java 배포판(distribution) (Oracle JDK vs Open JDK)
 date: 2023-10-04

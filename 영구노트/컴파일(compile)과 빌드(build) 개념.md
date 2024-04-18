@@ -1,6 +1,7 @@
 ---
-tags: 빌드
-aliases:
+tags:
+  - 빌드
+aliases: 
 title: 컴파일(compile)과 빌드(build) 개념
 date: 2023-10-06
 ---

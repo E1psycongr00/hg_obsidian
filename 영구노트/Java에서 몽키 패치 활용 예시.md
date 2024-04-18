@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#JAVA"
+  - JAVA
 aliases: 
 title: Java에서 몽키 패치 활용 예시
 date:  2024-02-05

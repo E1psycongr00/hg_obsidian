@@ -1,5 +1,6 @@
 ---
-tags: JAVA
+tags:
+  - JAVA
 aliases: 
 title: java.nio.file.Files 사용하기
 date: 2023-11-07

@@ -1,5 +1,6 @@
 ---
-tags: CS
+tags:
+  - CS
 aliases: 
 title: IP(인터넷 프로토콜)
 date: 2023-11-30

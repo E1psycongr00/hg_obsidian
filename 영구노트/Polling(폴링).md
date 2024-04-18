@@ -1,5 +1,6 @@
 ---
-tags: CS
+tags:
+  - CS
 aliases: 
 title: Polling(폴링)
 date: 2023-10-06

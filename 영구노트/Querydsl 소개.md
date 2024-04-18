@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - JAVA
+  - QueryDSL
 aliases: 
 title: Querydsl 소개
 date: 2023-10-05

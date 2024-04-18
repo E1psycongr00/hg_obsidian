@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - JAVA
+  - Validation
 aliases: 
 title: Java Bean Validation 소개
 date: 2023-11-10

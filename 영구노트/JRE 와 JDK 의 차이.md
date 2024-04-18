@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - IT
+  - JAVA
 aliases: 
 title: JRE 와 JDK 의 차이
 date: 2023-10-03

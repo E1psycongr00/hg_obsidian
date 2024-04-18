@@ -1,7 +1,7 @@
 ---
 tags:
   - 솔루션
-  - "#React"
+  - React
   - Typescript
 aliases: 
 date: 2024-03-07

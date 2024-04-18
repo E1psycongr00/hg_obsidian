@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - JAVA
 aliases: 
 title: Java17 Switch 문법
 date: 2023-10-21

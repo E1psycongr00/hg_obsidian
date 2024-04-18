@@ -1,8 +1,8 @@
 ---
 tags:
   - 솔루션
-  - "#React"
-  - "#Typescript"
+  - React
+  - Typescript
 aliases: 
 date: 2024-03-07
 title: State 로직을  Reducer로 분리하기

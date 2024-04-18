@@ -2,7 +2,7 @@
 tags:
   - Spring
   - databinding
-  - "#JAVA"
+  - JAVA
 aliases: 
 title: Spring Formatter
 date: 2023-11-24

@@ -1,5 +1,6 @@
 ---
-tags: graph
+tags:
+  - graph
 aliases: 
 title: Adamic Adars
 date: 2023-10-16

@@ -1,8 +1,9 @@
 ---
-tags: 
+tags:
+  - JAVA
 aliases: 
 title: Java List 유틸 메서드 by Collections
-date: JAVA
+date: 2023-10-23
 ---
 작성 날짜: 2023-10-23
 작성 시간: 14:39

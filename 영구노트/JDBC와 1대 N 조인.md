@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - JAVA
+  - SQL
 aliases: 
 title: JDBC와 1대 N 조인
 date: 2023-11-15

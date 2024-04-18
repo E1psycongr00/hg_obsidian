@@ -1,7 +1,7 @@
 ---
 tags:
   - Husky
-  - "#JS"
+  - JS
 aliases: 
 title: Husky를 활용해 Commit Convention 강제하기
 date: 2024-02-22

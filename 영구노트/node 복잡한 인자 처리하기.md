@@ -2,7 +2,7 @@
 tags:
   - 솔루션
   - NodeJS
-  - "#JS"
+  - JS
 aliases: 
 date: 2024-04-04
 title: node 복잡한 인자 처리하기

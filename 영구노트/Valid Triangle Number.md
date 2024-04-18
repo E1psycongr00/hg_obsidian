@@ -1,10 +1,10 @@
 ---
 tags:
-  - "#알고리즘"
-  - "#이분탐색"
-  - "#LineSweep"
+  - 알고리즘
+  - 이분탐색
+  - LineSweep
   - 둘레
-  - "#수학"
+  - 수학
 aliases: 
 title: Valid Triangle Number
 date: 2024-02-15

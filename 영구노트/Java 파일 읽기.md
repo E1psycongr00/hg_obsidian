@@ -1,5 +1,6 @@
 ---
-tags: JAVA
+tags:
+  - JAVA
 aliases: 
 title: Java 파일 읽기
 date: 2023-11-07

@@ -3,7 +3,7 @@ tags:
   - OS
   - Process
   - Thread
-  - "#Synchronization"
+  - Synchronization
 aliases:
   - 경쟁 조건
 title: Race Condition

@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "093db43d14b2546f",
+        "id": "4cfcba1edf8ae01f",
         "type": "tabs",
         "children": [
           {
-            "id": "d4e1ba9c0f698032",
+            "id": "dcbae099657e0621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/정전계.md",
-                "mode": "source",
+                "file": "무제 파일.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "husky",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/정전계.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/정전계.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/정전계.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/정전계.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -194,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "ade53ac82dc849c4",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/정전계.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -222,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493,
-    "collapsed": true
+    "width": 493
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,34 +243,34 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d4e1ba9c0f698032",
+  "active": "dcbae099657e0621",
   "lastOpenFiles": [
-    "영구노트/전도 전류.md",
-    "영구노트/대류 전류.md",
-    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "영구노트/객체 분해 할당.md",
+    "영구노트/Young Generation 과 Old Generation 특징.md",
+    "영구노트/Windows  cmd 명령어.md",
+    "영구노트/Why Gradle by Kotlin DSL.md",
+    "영구노트/Why Gradle.md",
+    "영구노트/Web Socket이란.md",
+    "영구노트/Valid Triangle Number.md",
+    "영구노트/UTC(세계 협정시).md",
     "영구노트/upper bound.md",
-    "영구노트/java bean validation에서 커스텀 메시지 만들기.md",
-    "영구노트/java bean validation에서 custom validator 만들기.md",
-    "영구노트/field에 java bean validation 적용 및 테스트.md",
-    "영구노트/Spring Bean Validation 소개.md",
-    "영구노트/Java Bean Validation 소개.md",
-    "영구노트/getter에 java bean validation 적용 및 테스트.md",
-    "영구노트/메서드 return에 java bean validation 적용 및 테스트.md",
-    "영구노트/Spring JdbcTemplate 활용법.md",
-    "영구노트/Object Freeze.md",
-    "영구노트/Java8 이전 버전 별 특징.md",
-    "영구노트/lower bound.md",
-    "영구노트/Java 8 특징.md",
-    "영구노트/Array.from.md",
-    "연습노트/Prompting Github Copilot.md",
-    "연습노트/knex와 외래키 설정.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/참조 무결성.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "영구노트/Unix Time.md",
+    "영구노트/unist.md",
+    "영구노트/UnionFind merge 최적화.md",
+    "영구노트/UnionFind 그룹별 갯수 구하기.md",
+    "영구노트/UnionFind.md",
+    "영구노트/unified & remark & rehype 동작 과정.md",
+    "영구노트/typescript의 record 타입.md",
+    "영구노트/typescript question mark parameter.md",
+    "영구노트/TSDB.md",
+    "영구노트/Truthy or Falsy.md",
+    "영구노트/Trie.md",
+    "영구노트/Thread.join().md",
+    "영구노트/Task create vs register.md",
+    "영구노트/String Constant Pool.md",
+    "영구노트/State 로직을  Reducer로 분리하기.md",
+    "영구노트/Stack overflow 개발자 설문 조사.md",
+    "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
+    "영구노트/Spurious Wake up.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",

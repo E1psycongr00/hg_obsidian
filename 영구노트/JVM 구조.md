@@ -1,5 +1,7 @@
 ---
-tags: JAVA
+tags:
+  - JAVA
+  - IT
 aliases: 
 title: JVM 구조
 date: 2023-10-08

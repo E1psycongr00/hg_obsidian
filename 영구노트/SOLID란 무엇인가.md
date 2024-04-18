@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - 객체지향
 aliases: 
 title: SOLID란 무엇인가
 date: 2023-10-03

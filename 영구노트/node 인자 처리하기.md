@@ -1,8 +1,8 @@
 ---
 tags:
   - 솔루션
-  - "#NodeJS"
-  - "#JS"
+  - NodeJS
+  - JS
 aliases:
   - node args 처리하기
   - 콘솔에서 node 인자 처리

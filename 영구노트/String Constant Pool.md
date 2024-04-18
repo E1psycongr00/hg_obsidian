@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - JAVA
 aliases: 
 title: String Constant Pool
 date: 2023-10-08

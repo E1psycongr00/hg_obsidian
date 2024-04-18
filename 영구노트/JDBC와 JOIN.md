@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - JAVA
+  - SQL
 aliases: 
 title: JDBC와 JOIN
 date: 2023-11-15
@@ -7,7 +9,7 @@ date: 2023-11-15
 작성 날짜: 2023-11-15
 작성 시간: 15:10
 
-#완성 #JAVA #JAVA #SQL 
+#완성 #JAVA #SQL 
 
 ----
 ## 내용(Content)

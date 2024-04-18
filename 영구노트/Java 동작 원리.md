@@ -1,5 +1,6 @@
 ---
-tags: JAVA
+tags:
+  - JAVA
 aliases: 
 title: Java 동작 원리
 date: 2023-10-06

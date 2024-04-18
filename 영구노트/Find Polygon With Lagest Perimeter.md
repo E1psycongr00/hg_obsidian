@@ -4,7 +4,7 @@ tags:
   - 수학
   - 다각형
   - 둘레
-  - "#Greedy"
+  - Greedy
 aliases:
 title: Find Polygon With Lagest Perimeter
 date: 2024-02-15

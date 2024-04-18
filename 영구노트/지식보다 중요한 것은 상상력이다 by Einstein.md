@@ -1,5 +1,6 @@
 ---
-tags: 명언
+tags:
+  - 명언
 aliases: 
 title: 지식보다 중요한 것은 상상력이다 by Einstein
 date: 2023-10-24

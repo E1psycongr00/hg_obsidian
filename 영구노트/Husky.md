@@ -1,8 +1,8 @@
 ---
 tags:
   - Husky
-  - "#Git"
-  - "#GitHook"
+  - Git
+  - GitHook
 aliases: 
 title: Husky
 date: 2024-02-22

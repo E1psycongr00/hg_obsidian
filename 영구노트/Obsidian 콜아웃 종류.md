@@ -1,5 +1,6 @@
 ---
-tags: Obsidian
+tags:
+  - Obsidian
 aliases: 
 title: Obsidian 콜아웃 종류
 date: 2023-11-12
