@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "광고 삽입",
+      "path": "영구노트/광고 삽입.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 기법+ 옵시디언",
+      "path": "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md"
+    },
+    {
+      "basename": "2D array constant time query update",
+      "path": "영구노트/2D array constant time query update.md"
+    },
+    {
+      "basename": "2022년 프로그래밍 별 통계",
+      "path": "영구노트/2022년 프로그래밍 별 통계.md"
+    },
+    {
+      "basename": "2707. Extra Characters in a String",
+      "path": "영구노트/2707. Extra Characters in a String.md"
+    },
+    {
+      "basename": "공부가 아니라 배움이다  by 타일러",
+      "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
+    },
+    {
+      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
+      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
+    },
+    {
+      "basename": "네 자신의 무지를 절대 과소평가하지 마라 by Einstein",
+      "path": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md"
+    },
+    {
+      "basename": "725. Split LinkedList in Parts",
+      "path": "영구노트/725. Split LinkedList in Parts.md"
+    },
+    {
+      "basename": "@Valid와 @Validated 차이",
+      "path": "영구노트/@Valid와 @Validated 차이.md"
+    },
+    {
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+    },
+    {
+      "basename": "객체 분해 할당",
+      "path": "영구노트/객체 분해 할당.md"
+    },
+    {
       "basename": "무제 파일",
       "path": "무제 파일.md"
     },
@@ -51,54 +99,6 @@
     {
       "basename": "UnionFind 그룹별 갯수 구하기",
       "path": "영구노트/UnionFind 그룹별 갯수 구하기.md"
-    },
-    {
-      "basename": "UnionFind",
-      "path": "영구노트/UnionFind.md"
-    },
-    {
-      "basename": "unified & remark & rehype 동작 과정",
-      "path": "영구노트/unified & remark & rehype 동작 과정.md"
-    },
-    {
-      "basename": "typescript의 record 타입",
-      "path": "영구노트/typescript의 record 타입.md"
-    },
-    {
-      "basename": "typescript question mark parameter",
-      "path": "영구노트/typescript question mark parameter.md"
-    },
-    {
-      "basename": "TSDB",
-      "path": "영구노트/TSDB.md"
-    },
-    {
-      "basename": "Truthy or Falsy",
-      "path": "영구노트/Truthy or Falsy.md"
-    },
-    {
-      "basename": "Trie",
-      "path": "영구노트/Trie.md"
-    },
-    {
-      "basename": "Thread.join()",
-      "path": "영구노트/Thread.join().md"
-    },
-    {
-      "basename": "Task create vs register",
-      "path": "영구노트/Task create vs register.md"
-    },
-    {
-      "basename": "String Constant Pool",
-      "path": "영구노트/String Constant Pool.md"
-    },
-    {
-      "basename": "State 로직을  Reducer로 분리하기",
-      "path": "영구노트/State 로직을  Reducer로 분리하기.md"
-    },
-    {
-      "basename": "Stack overflow 개발자 설문 조사",
-      "path": "영구노트/Stack overflow 개발자 설문 조사.md"
     }
   ],
   "omittedPaths": [],

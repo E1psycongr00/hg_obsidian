@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "영구노트/광고 삽입.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "영구노트/광고 삽입.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "영구노트/광고 삽입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.md",
+                "file": "영구노트/광고 삽입.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일.md"
+                "file": "영구노트/광고 삽입.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "영구노트/광고 삽입.md"
               }
             }
           },
@@ -245,6 +245,19 @@
   },
   "active": "dcbae099657e0621",
   "lastOpenFiles": [
+    "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
+    "영구노트/2D array constant time query update.md",
+    "영구노트/2022년 프로그래밍 별 통계.md",
+    "영구노트/2707. Extra Characters in a String.md",
+    "영구노트/공부가 아니라 배움이다  by 타일러.md",
+    "영구노트/광고 삽입.md",
+    "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
+    "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
+    "영구노트/725. Split LinkedList in Parts.md",
+    "영구노트/@Valid와 @Validated 차이.md",
+    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
+    "영구노트/객체 분해 할당.md",
+    "무제 파일.md",
     "영구노트/Young Generation 과 Old Generation 특징.md",
     "영구노트/Windows  cmd 명령어.md",
     "영구노트/Why Gradle by Kotlin DSL.md",
@@ -258,19 +271,6 @@
     "영구노트/UnionFind merge 최적화.md",
     "영구노트/UnionFind 그룹별 갯수 구하기.md",
     "영구노트/UnionFind.md",
-    "영구노트/unified & remark & rehype 동작 과정.md",
-    "영구노트/typescript의 record 타입.md",
-    "영구노트/typescript question mark parameter.md",
-    "영구노트/TSDB.md",
-    "영구노트/Truthy or Falsy.md",
-    "영구노트/Trie.md",
-    "영구노트/Thread.join().md",
-    "영구노트/Task create vs register.md",
-    "영구노트/String Constant Pool.md",
-    "영구노트/State 로직을  Reducer로 분리하기.md",
-    "영구노트/Stack overflow 개발자 설문 조사.md",
-    "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
-    "영구노트/Spurious Wake up.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
