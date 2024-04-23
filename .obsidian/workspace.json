@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/광고 삽입.md",
+                "file": "영구노트/Non-Blocking IO.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "husky",
+                "query": "Non blocking IO",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/광고 삽입.md",
+                "file": "영구노트/Non-Blocking IO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/광고 삽입.md",
+                "file": "영구노트/Non-Blocking IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/광고 삽입.md",
+                "file": "영구노트/Non-Blocking IO.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/광고 삽입.md"
+                "file": "영구노트/Non-Blocking IO.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/광고 삽입.md"
+                "file": "영구노트/Non-Blocking IO.md"
               }
             }
           },
@@ -245,12 +244,14 @@
   },
   "active": "dcbae099657e0621",
   "lastOpenFiles": [
+    "영구노트/시스템 콜.md",
+    "영구노트/Kernel.md",
+    "영구노트/광고 삽입.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
     "영구노트/2D array constant time query update.md",
     "영구노트/2022년 프로그래밍 별 통계.md",
     "영구노트/2707. Extra Characters in a String.md",
     "영구노트/공부가 아니라 배움이다  by 타일러.md",
-    "영구노트/광고 삽입.md",
     "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
     "영구노트/725. Split LinkedList in Parts.md",
@@ -269,8 +270,6 @@
     "영구노트/Unix Time.md",
     "영구노트/unist.md",
     "영구노트/UnionFind merge 최적화.md",
-    "영구노트/UnionFind 그룹별 갯수 구하기.md",
-    "영구노트/UnionFind.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",

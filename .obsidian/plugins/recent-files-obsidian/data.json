@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Non-Blocking IO",
+      "path": "영구노트/Non-Blocking IO.md"
+    },
+    {
+      "basename": "시스템 콜",
+      "path": "영구노트/시스템 콜.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
+    },
+    {
       "basename": "광고 삽입",
       "path": "영구노트/광고 삽입.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "Unix Time",
       "path": "영구노트/Unix Time.md"
-    },
-    {
-      "basename": "unist",
-      "path": "영구노트/unist.md"
-    },
-    {
-      "basename": "UnionFind merge 최적화",
-      "path": "영구노트/UnionFind merge 최적화.md"
-    },
-    {
-      "basename": "UnionFind 그룹별 갯수 구하기",
-      "path": "영구노트/UnionFind 그룹별 갯수 구하기.md"
     }
   ],
   "omittedPaths": [],
