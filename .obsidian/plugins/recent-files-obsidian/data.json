@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ExecutorService",
+      "path": "연습노트/ExecutorService.md"
+    },
+    {
       "basename": "Java Thread Pool",
-      "path": "연습노트/Java Thread Pool.md"
+      "path": "영구노트/Java Thread Pool.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
+    },
+    {
+      "basename": "유저 쓰레드",
+      "path": "영구노트/유저 쓰레드.md"
     },
     {
       "basename": "ThreadPool 동작원리(draw)",
@@ -49,10 +61,6 @@
       "path": "영구노트/Non-Blocking IO.md"
     },
     {
-      "basename": "Kernel",
-      "path": "영구노트/Kernel.md"
-    },
-    {
       "basename": "광고 삽입",
       "path": "영구노트/광고 삽입.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "@Valid와 @Validated 차이",
       "path": "영구노트/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "객체 분해 할당",
-      "path": "영구노트/객체 분해 할당.md"
     }
   ],
   "omittedPaths": [],

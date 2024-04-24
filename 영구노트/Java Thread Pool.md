@@ -10,7 +10,7 @@ title: Java Thread Pool
 작성 날짜: 2024-04-24
 작성 시간: 16:21
 
-#미완 #JAVA #OS #Thread 
+#완성 #JAVA #OS #Thread 
 
 ----
 ## 내용(Content)
@@ -25,7 +25,7 @@ Thread 생성이 Process에 비해 가볍기는 하지만 매 번 여러 요청�
 이러한 퍼포먼스 문제 때문에 ThreadPool이 등장했다. 단어 의미 그대로 Thread Pool로 Thread를 미리 생성해서 Pool 안에서 재활용한다는 의미이다. System Call과 Context Switching은 여전히 발생하지만, 생성 및 수거 비용을 줄일 수 있다.
 
 >[!info]
->자바에서 더욱더 효율적으로 동시성 처리를 위해 JDK21에서 Virtual Thread를 만들었다. CPU 버스트에는 효과적이지 않지만 IO 버스트가 많은 작업의 경우 효율적이다. 
+>자바에서 더욱더 효율적으로 쓰레드를 처리하기 위해 JDK21에서 Virtual Thread를 만들었다. CPU 버스트가 많은 작업은 효과적이지 않지만 IO 버스트가 많은 작업의 경우 효율적이다. 
 
 ### Thread Pool 원리
 
@@ -36,7 +36,9 @@ Thread 생성이 Process에 비해 가볍기는 하지만 매 번 여러 요청�
 
 Application에서 Task 요청이 발생하면 Task Queue에 Task를 저장한다. 그리고 이를 Pool에서 비어있는 적절한 쓰레드에 Task를 할당한다.(이 과정에서 Context Switching 발생) 그리고 Task 작업이 완료되면 작업을 요청한 주체에게 결과를 알려준다.
 
+### Java Thread Pool 사용법
 
+java에서는 Thread Pool을 손쉽게 사용하기 위해 [[ExecutorService]]를 제공한다. 또는 필요 용도에 따라 **ForkJoinPool**을 사용하기도 한다. 
 
 ## 질문 & 확장
 
@@ -48,7 +50,9 @@ Application에서 Task 요청이 발생하면 Task Queue에 Task를 저장한다
 - [[Java] Thread Pool 개념과 동작원리 (velog.io)](https://velog.io/@haero_kim/Java-Thread-Pool-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
 ## 연결 노트
 
-
+- [[OS 쓰레드|Kernel Level Thread]]
+- [[유저 쓰레드|User Level Thread]]
+- [[Kernel|커널]]
 
 
 
