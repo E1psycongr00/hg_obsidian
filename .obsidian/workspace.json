@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "decb94de740c6cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/AutoCloseable.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "31f190ad9d8397c3",
             "type": "leaf",
             "state": {
@@ -57,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/ExecutorService.md",
+                "file": "연습노트/AutoCloseable.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/ExecutorService.md",
+                "file": "연습노트/AutoCloseable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/ExecutorService.md",
+                "file": "연습노트/AutoCloseable.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +220,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/ExecutorService.md"
+                "file": "연습노트/AutoCloseable.md"
               }
             }
           },
@@ -252,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/ExecutorService.md"
+                "file": "연습노트/AutoCloseable.md"
               }
             }
           },
@@ -288,10 +301,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d8cbe7f32f25fa90",
+  "active": "decb94de740c6cf7",
   "lastOpenFiles": [
-    "영구노트/Java Thread Pool.md",
     "연습노트/ExecutorService.md",
+    "연습노트/AutoCloseable.md",
+    "영구노트/Java Thread Pool.md",
     "영구노트/Kernel.md",
     "영구노트/유저 쓰레드.md",
     "Excalidraw/ThreadPool 동작원리(draw).md",
@@ -316,7 +330,6 @@
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
     "영구노트/725. Split LinkedList in Parts.md",
     "영구노트/@Valid와 @Validated 차이.md",
-    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",

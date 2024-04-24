@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AutoCloseable",
+      "path": "연습노트/AutoCloseable.md"
+    },
+    {
       "basename": "ExecutorService",
       "path": "연습노트/ExecutorService.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "725. Split LinkedList in Parts",
       "path": "영구노트/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "영구노트/@Valid와 @Validated 차이.md"
     }
   ],
   "omittedPaths": [],
