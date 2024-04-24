@@ -6,6 +6,7 @@ aliases:
   - 커널 쓰레드
   - 커널 레벨 쓰레드
   - Kernel Level Thread
+  - KLT
 title: OS 쓰레드
 date: 2024-01-21
 ---
@@ -38,6 +39,7 @@ date: 2024-01-21
 - https://kspsd.tistory.com/50
 - https://www.youtube.com/watch?v=vorIqiLM7jc&t=326s
 - https://velog.io/@khsb2012/go-goroutine#%EA%B3%A0%EB%A3%A8%ED%8B%B4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%EB%90%A0%EA%B9%8C
+- [[ Linux Kernel ] 12. Kernel Thread(커널 스레드) (tistory.com)](https://coder-in-war.tistory.com/entry/Embedded-19-Linux-Kernel-Kernel-Thread%EC%BB%A4%EB%84%90-%EC%8A%A4%EB%A0%88%EB%93%9C)
 
 ## 연결 노트
 - [[유저 쓰레드|User Level Thread]]

@@ -21,11 +21,13 @@
     "excalidraw-font-color": "text",
     "excalidraw-border-color": "text",
     "excalidraw-css": "text",
-    "excalidraw-autoexport": "checkbox",
+    "excalidraw-autoexport": "text",
     "excalidraw-iframe-theme": "text",
     "related": "multitext",
     "ref": "multitext",
     "date": "date",
-    "title": "text"
+    "title": "text",
+    "excalidraw-export-embed-scene": "checkbox",
+    "excalidraw-open-md": "checkbox"
   }
 }

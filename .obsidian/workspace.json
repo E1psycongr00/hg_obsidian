@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4cfcba1edf8ae01f",
+        "id": "39565aabd1d6fb77",
         "type": "tabs",
         "children": [
           {
-            "id": "dcbae099657e0621",
+            "id": "287a6120e349d591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "templates/참조 노트 템플릿.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9d55a5bee62272d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Java Thread Pool.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31f190ad9d8397c3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ThreadPool 동작원리(draw).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Non blocking IO",
+                "query": "tag:JAVA",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "연습노트/Java Thread Pool.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "연습노트/Java Thread Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md",
+                "file": "연습노트/Java Thread Pool.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md"
+                "file": "연습노트/Java Thread Pool.md"
               }
             }
           },
@@ -192,6 +217,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6e68cd594ada9a23",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -206,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Non-Blocking IO.md"
+                "file": "연습노트/Java Thread Pool.md"
               }
             }
           },
@@ -236,15 +269,27 @@
       "zk-prefixer:새로운 유니크 노트 생성": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "dcbae099657e0621",
+  "active": "f9d55a5bee62272d",
   "lastOpenFiles": [
+    "Excalidraw/ThreadPool 동작원리(draw).md",
+    "연습노트/Java Thread Pool.md",
+    "Excalidraw/ThreadPool 동작원리(draw).svg",
     "영구노트/시스템 콜.md",
+    "영구노트/시스템 콜 레퍼런스.md",
+    "templates/참조 노트 템플릿.md",
+    "영구노트/OS 쓰레드.md",
+    "영구노트/Kernel Level Thread vs User Level Thread.md",
+    "영구노트/GoRoutine 고루틴 소개.md",
+    "영구노트/JVM 구조.md",
+    "Excalidraw/Runtime Data Area 구성(draw).md",
+    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
+    "영구노트/Non-Blocking IO.md",
     "영구노트/Kernel.md",
     "영구노트/광고 삽입.md",
     "영구노트/나만의 제텔카스텐 기법+ 옵시디언.md",
@@ -258,18 +303,6 @@
     "영구노트/@Valid와 @Validated 차이.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "영구노트/객체 분해 할당.md",
-    "무제 파일.md",
-    "영구노트/Young Generation 과 Old Generation 특징.md",
-    "영구노트/Windows  cmd 명령어.md",
-    "영구노트/Why Gradle by Kotlin DSL.md",
-    "영구노트/Why Gradle.md",
-    "영구노트/Web Socket이란.md",
-    "영구노트/Valid Triangle Number.md",
-    "영구노트/UTC(세계 협정시).md",
-    "영구노트/upper bound.md",
-    "영구노트/Unix Time.md",
-    "영구노트/unist.md",
-    "영구노트/UnionFind merge 최적화.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
@@ -280,7 +313,6 @@
     "attachments/screenshot/Pasted image 20240404132430.png",
     "attachments/screenshot/Pasted image 20240401223100.png",
     "attachments/screenshot/Pasted image 20240322221751.png",
-    "attachments/screenshot/Pasted image 20240322220626.png",
     "Resources/IT/javascript/React",
     "attachments/gif",
     "Resources/IT/프로젝트",

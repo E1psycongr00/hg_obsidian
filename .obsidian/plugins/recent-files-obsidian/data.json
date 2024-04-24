@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
+      "basename": "Java Thread Pool",
+      "path": "연습노트/Java Thread Pool.md"
+    },
+    {
+      "basename": "ThreadPool 동작원리(draw)",
+      "path": "Excalidraw/ThreadPool 동작원리(draw).md"
     },
     {
       "basename": "시스템 콜",
       "path": "영구노트/시스템 콜.md"
+    },
+    {
+      "basename": "시스템 콜 레퍼런스",
+      "path": "영구노트/시스템 콜 레퍼런스.md"
+    },
+    {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "OS 쓰레드",
+      "path": "영구노트/OS 쓰레드.md"
+    },
+    {
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
+    },
+    {
+      "basename": "GoRoutine 고루틴 소개",
+      "path": "영구노트/GoRoutine 고루틴 소개.md"
+    },
+    {
+      "basename": "JVM 구조",
+      "path": "영구노트/JVM 구조.md"
+    },
+    {
+      "basename": "Runtime Data Area 구성(draw)",
+      "path": "Excalidraw/Runtime Data Area 구성(draw).md"
+    },
+    {
+      "basename": "Java와 함께하는 Mutex 사용 예제",
+      "path": "영구노트/Java와 함께하는 Mutex 사용 예제.md"
+    },
+    {
+      "basename": "Non-Blocking IO",
+      "path": "영구노트/Non-Blocking IO.md"
     },
     {
       "basename": "Kernel",
@@ -59,46 +99,6 @@
     {
       "basename": "객체 분해 할당",
       "path": "영구노트/객체 분해 할당.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
-    },
-    {
-      "basename": "Young Generation 과 Old Generation 특징",
-      "path": "영구노트/Young Generation 과 Old Generation 특징.md"
-    },
-    {
-      "basename": "Windows  cmd 명령어",
-      "path": "영구노트/Windows  cmd 명령어.md"
-    },
-    {
-      "basename": "Why Gradle by Kotlin DSL",
-      "path": "영구노트/Why Gradle by Kotlin DSL.md"
-    },
-    {
-      "basename": "Why Gradle",
-      "path": "영구노트/Why Gradle.md"
-    },
-    {
-      "basename": "Web Socket이란",
-      "path": "영구노트/Web Socket이란.md"
-    },
-    {
-      "basename": "Valid Triangle Number",
-      "path": "영구노트/Valid Triangle Number.md"
-    },
-    {
-      "basename": "UTC(세계 협정시)",
-      "path": "영구노트/UTC(세계 협정시).md"
-    },
-    {
-      "basename": "upper bound",
-      "path": "영구노트/upper bound.md"
-    },
-    {
-      "basename": "Unix Time",
-      "path": "영구노트/Unix Time.md"
     }
   ],
   "omittedPaths": [],
