@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
       "basename": "Java Thread Pool",
       "path": "영구노트/Java Thread Pool.md"
+    },
+    {
+      "basename": "ThreadPool 동작원리(draw)",
+      "path": "Excalidraw/ThreadPool 동작원리(draw).md"
     },
     {
       "basename": "ExecutorService",
@@ -21,20 +29,12 @@
       "path": "영구노트/유저 쓰레드.md"
     },
     {
-      "basename": "ThreadPool 동작원리(draw)",
-      "path": "Excalidraw/ThreadPool 동작원리(draw).md"
-    },
-    {
       "basename": "시스템 콜",
       "path": "영구노트/시스템 콜.md"
     },
     {
       "basename": "시스템 콜 레퍼런스",
       "path": "영구노트/시스템 콜 레퍼런스.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
     },
     {
       "basename": "OS 쓰레드",

@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "39565aabd1d6fb77",
+        "id": "444b8a24f5286303",
         "type": "tabs",
         "children": [
           {
-            "id": "287a6120e349d591",
+            "id": "ea357ac6b898a2ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/참조 노트 템플릿.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9d55a5bee62272d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java Thread Pool.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31f190ad9d8397c3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ThreadPool 동작원리(draw).md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Java Thread Pool.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Java Thread Pool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Java Thread Pool.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/Java Thread Pool.md"
-              }
+              "state": {}
             }
           },
           {
@@ -238,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/Java Thread Pool.md"
-              }
+              "state": {}
             }
           },
           {
@@ -275,18 +239,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f9d55a5bee62272d",
+  "active": "ea357ac6b898a2ca",
   "lastOpenFiles": [
-    "연습노트/ExecutorService.md",
+    "templates/참조 노트 템플릿.md",
     "영구노트/Java Thread Pool.md",
+    "Excalidraw/ThreadPool 동작원리(draw).md",
+    "연습노트/ExecutorService.md",
     "영구노트/AutoCloseable.md",
     "영구노트/Kernel.md",
     "영구노트/유저 쓰레드.md",
-    "Excalidraw/ThreadPool 동작원리(draw).md",
     "Excalidraw/ThreadPool 동작원리(draw).svg",
     "영구노트/시스템 콜.md",
     "영구노트/시스템 콜 레퍼런스.md",
-    "templates/참조 노트 템플릿.md",
     "영구노트/OS 쓰레드.md",
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "영구노트/GoRoutine 고루틴 소개.md",
