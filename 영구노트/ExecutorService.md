@@ -9,7 +9,7 @@ title: ExecutorService
 작성 날짜: 2024-04-24
 작성 시간: 17:50
 
-#미완 #JAVA #Thread 
+#완성 #JAVA #Thread 
 
 ----
 ## 내용(Content)
@@ -98,12 +98,6 @@ void test2() {
 
 ## 연결 노트
 
-
-
-
-
-
-
-
+- [[Java Thread Pool]]
 
 
