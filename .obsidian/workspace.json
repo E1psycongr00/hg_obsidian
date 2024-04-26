@@ -11,8 +11,13 @@
             "id": "ea357ac6b898a2ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/참조 무결성.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/참조 무결성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/참조 무결성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/참조 무결성.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "연습노트/참조 무결성.md"
+              }
             }
           },
           {
@@ -204,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/참조 무결성.md"
+              }
             }
           },
           {
@@ -241,6 +253,8 @@
   },
   "active": "ea357ac6b898a2ca",
   "lastOpenFiles": [
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/React-markdown parse 에러.md",
     "templates/참조 노트 템플릿.md",
     "영구노트/Java Thread Pool.md",
     "Excalidraw/ThreadPool 동작원리(draw).md",
@@ -266,8 +280,6 @@
     "영구노트/공부가 아니라 배움이다  by 타일러.md",
     "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
     "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md",
-    "영구노트/725. Split LinkedList in Parts.md",
-    "영구노트/@Valid와 @Validated 차이.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",

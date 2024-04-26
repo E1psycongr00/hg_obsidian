@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "참조 무결성",
+      "path": "연습노트/참조 무결성.md"
+    },
+    {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "React-markdown parse 에러",
+      "path": "연습노트/React-markdown parse 에러.md"
+    },
+    {
       "basename": "참조 노트 템플릿",
       "path": "templates/참조 노트 템플릿.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "공부가 아니라 배움이다  by 타일러",
       "path": "영구노트/공부가 아니라 배움이다  by 타일러.md"
-    },
-    {
-      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
-      "path": "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
-    },
-    {
-      "basename": "네 자신의 무지를 절대 과소평가하지 마라 by Einstein",
-      "path": "영구노트/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md"
-    },
-    {
-      "basename": "725. Split LinkedList in Parts",
-      "path": "영구노트/725. Split LinkedList in Parts.md"
     }
   ],
   "omittedPaths": [],
