@@ -15,7 +15,12 @@ title: group by
 ----
 ## 내용(Content)
 
+### Group by
 
+>[!summary]
+>SQL를 이용해 데이터를 그룹화해야 하는 상황이 발생할 수 있다. 이럴 때 Group by를 사용한다.
+
+group by는 
 
 ## 질문 & 확장
 
