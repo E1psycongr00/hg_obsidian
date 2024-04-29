@@ -28,6 +28,7 @@ group by는
 
 ## 출처(링크)
 
+- https://kimsyoung.tistory.com/entry/SQL-GROUP-BY-%E4%B8%8A-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%8B%A4%EC%A0%9C-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95
 
 ## 연결 노트
 
