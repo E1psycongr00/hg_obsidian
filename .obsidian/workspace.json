@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/윈도우 함수.md",
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "union",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/윈도우 함수.md",
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/윈도우 함수.md",
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/윈도우 함수.md",
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/윈도우 함수.md"
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/윈도우 함수.md"
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md"
               }
             }
           },
@@ -266,8 +266,10 @@
   },
   "active": "9a201ad5a30309b6",
   "lastOpenFiles": [
-    "연습노트/Prompting Github Copilot.md",
+    "attachments/screenshot/Pasted image 20240429175553.png",
+    "Excalidraw/union & unionAll(draw).md",
     "연습노트/윈도우 함수.md",
+    "연습노트/Prompting Github Copilot.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/React-markdown parse 에러.md",
@@ -291,8 +293,6 @@
     "영구노트/Kernel Level Thread vs User Level Thread.md",
     "영구노트/GoRoutine 고루틴 소개.md",
     "영구노트/JVM 구조.md",
-    "Excalidraw/Runtime Data Area 구성(draw).md",
-    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
