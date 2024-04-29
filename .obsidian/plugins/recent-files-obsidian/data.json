@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "SQL 결과 수직 결합 Union과 UnionAll",
-      "path": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md"
+      "basename": "group by",
+      "path": "연습노트/group by.md"
+    },
+    {
+      "basename": "윈도우 함수",
+      "path": "연습노트/윈도우 함수.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "JS 역사",
+      "path": "연습노트/JS 역사.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
       "basename": "SQL With (Common Table Expressions)",
       "path": "영구노트/SQL With (Common Table Expressions).md"
+    },
+    {
+      "basename": "SQL 결과 수직 결합 Union과 UnionAll",
+      "path": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md"
     },
     {
       "basename": "Prompting Github Copilot",
@@ -17,16 +45,8 @@
       "path": "Excalidraw/union & unionAll(draw).md"
     },
     {
-      "basename": "윈도우 함수",
-      "path": "연습노트/윈도우 함수.md"
-    },
-    {
       "basename": "Spring에서 예외 처리 과정",
       "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
       "basename": "React-markdown parse 에러",
@@ -35,22 +55,6 @@
     {
       "basename": "knex와 외래키 설정",
       "path": "연습노트/knex와 외래키 설정.md"
-    },
-    {
-      "basename": "JS 역사",
-      "path": "연습노트/JS 역사.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
-      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
     },
     {
       "basename": "참조 무결성",
@@ -95,10 +99,6 @@
     {
       "basename": "OS 쓰레드",
       "path": "영구노트/OS 쓰레드.md"
-    },
-    {
-      "basename": "Kernel Level Thread vs User Level Thread",
-      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
     }
   ],
   "omittedPaths": [],

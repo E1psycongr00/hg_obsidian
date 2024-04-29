@@ -51,24 +51,40 @@ Join의 경우에는 워낙 유명하고 많이 사용하니 수평 결합이 �
 
 위와 같은 테이블 정보를 담고 있다. 
 
-우선 월 데이터를 생성해보자.
+
 
 ```sql
 with months as (
-SELECT 1 as month
-union all select 2
-union all select 3
-union all select 4
-union all select 5
-union all select 6
-union all select 7
-union all select 8
-union all select 9
-union all select 10
-union all select 11
-union all select 12
+    select 1 as month
+    union all select 2
+    union all select 3
+    union all select 4
+    union all select 5
+    union all select 6
+    union all select 7
+    union all select 8
+    union all select 9
+    union all select 10
+    union all select 11
+    union all select 12
 )
+
+select count(month(f.time)), m.month as month
+from fish_info f
+right join months m
+on (month(f.time) = m.month)
+group by m.month
+order by month;
 ```
+
+위와 같이 짜면 모든 month를 1월부터 12월까지 출력하고 count 할 수 있다.
+
+with문을 이용해 1월부터 12월까지의 month라는 컬럼으로 가지고 있는 데이터를 만든다. 그리고 이를 right join을 이용해서 테이블을 합치고 count해주면 된다.
+
+여기서 count를 month(f.time)으로 한 이유는 월별로 물고기를 count해야하기 때문이다.
+나오는 결과는 다음과 같다.
+
+![[Pasted image 20240429202418.png]]
 ## 질문 & 확장
 
 (없음)
