@@ -50,6 +50,25 @@ Join의 경우에는 워낙 유명하고 많이 사용하니 수평 결합이 �
 ![[Pasted image 20240429175553.png]]
 
 위와 같은 테이블 정보를 담고 있다. 
+
+우선 월 데이터를 생성해보자.
+
+```sql
+with months as (
+SELECT 1 as month
+union all select 2
+union all select 3
+union all select 4
+union all select 5
+union all select 6
+union all select 7
+union all select 8
+union all select 9
+union all select 10
+union all select 11
+union all select 12
+)
+```
 ## 질문 & 확장
 
 (없음)
@@ -60,7 +79,7 @@ Join의 경우에는 워낙 유명하고 많이 사용하니 수평 결합이 �
 
 ## 연결 노트
 
-
+- [[SQL With (Common Table Expressions)]]
 
 
 
