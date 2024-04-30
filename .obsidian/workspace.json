@@ -4,9 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1468cbfaf0864fd7",
+        "id": "69173bfe319eeb56",
         "type": "tabs",
         "children": [
+          {
+            "id": "61fbcb827abed789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
           {
             "id": "148cb3dd9bf966d6",
             "type": "leaf",
@@ -19,22 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f264495cfff6c456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/group by.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "group by",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/group by.md",
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/group by.md",
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/group by.md",
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/group by.md"
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md"
               }
             }
           },
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/group by.md"
+                "file": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md"
               }
             }
           },
@@ -265,45 +264,45 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f264495cfff6c456",
+  "active": "61fbcb827abed789",
   "lastOpenFiles": [
+    "연습노트/윈도우 함수.md",
+    "영구노트/유저 쓰레드.md",
+    "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
+    "연습노트/JS 역사.md",
+    "영구노트/시스템 콜 레퍼런스.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "영구노트/참조 무결성.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/React-markdown parse 에러.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "영구노트/group by.md",
     "attachments/screenshot/Pasted image 20240430165440.png",
     "attachments/screenshot/Pasted image 20240430164109.png",
     "attachments/screenshot/Pasted image 20240430164016.png",
-    "연습노트/윈도우 함수.md",
-    "연습노트/group by.md",
-    "연습노트/전기 쌍극자.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/JS 역사.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/SQL With (Common Table Expressions).md",
-    "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
     "attachments/screenshot/Pasted image 20240429202418.png",
-    "연습노트/Prompting Github Copilot.md",
     "attachments/screenshot/Pasted image 20240429175553.png",
     "Excalidraw/union & unionAll(draw).md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/React-markdown parse 에러.md",
     "연습노트/knex와 외래키 설정.md",
-    "연습노트/참조 무결성.md",
     "영구노트/ExecutorService.md",
     "templates/참조 노트 템플릿.md",
     "영구노트/Java Thread Pool.md",
     "Excalidraw/ThreadPool 동작원리(draw).md",
     "영구노트/AutoCloseable.md",
     "영구노트/Kernel.md",
-    "영구노트/유저 쓰레드.md",
     "Excalidraw/ThreadPool 동작원리(draw).svg",
     "영구노트/시스템 콜.md",
-    "영구노트/시스템 콜 레퍼런스.md",
     "영구노트/OS 쓰레드.md",
     "Excalidraw/union & unionAll(draw).svg",
     "index.canvas",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
     "attachments/screenshot/Pasted image 20240405160206.png",
     "attachments/screenshot/Pasted image 20240404134708.png",
-    "attachments/screenshot/Pasted image 20240404132755.png",
     "Resources/IT/javascript/React",
     "attachments/gif",
     "Resources/IT/프로젝트",

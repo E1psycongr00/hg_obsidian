@@ -10,7 +10,7 @@ title: group by
 작성 날짜: 2024-04-29
 작성 시간: 20:26
 
-#미완 #SQL 
+#완성 #SQL 
 
 ----
 ## 내용(Content)
@@ -93,12 +93,28 @@ Having sum(Quantity) >= 500
 
 ![[Pasted image 20240430165440.png]]
 
-#### SQL + having + where
+#### Group by + where + having
+
+>[!summary]
+>where 절은 집계 이전에 필터링되고 having 절은 집계 이후 필터링된다.
+
+where절은 집계 이전에 필터링되기 때문에 집계 함수를 이용한 필터링을 수행할 수 없다. 예를 들어서 재고가 5 이상인 경우만 Sum으로 집계하고 싶다면 이럴땐 Having이 아닌 where 절을 사용하면 된다.
+
+```SQL
+# 재고가 5 이상인 Quntity 중에 ProductId별로 총합을 가져오고
+# 이 때 총합이 500 이상인 것만 가져와주세요.
+SELECT sum(Quantity), ProductID
+FROM OrderDetails
+WHERE Quantity >= 5
+GROUP BY 2
+Having sum(Quantity) >= 500
+```
+
 
 
 ## 질문 & 확장
 
-(없음)
+[SQL 실습 사이트](https://www.w3schools.com/mysql/trymysql.asp?filename=trysql_select_all)
 
 ## 출처(링크)
 
