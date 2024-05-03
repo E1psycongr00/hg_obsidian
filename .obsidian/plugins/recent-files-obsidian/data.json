@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "도체계의 정전용량",
+      "path": "영구노트/도체계의 정전용량.md"
+    },
+    {
+      "basename": "전자기학",
+      "path": "Resources/전기기사/전자기학/전자기학.md"
+    },
+    {
+      "basename": "2차원 배열 점화식(draw)",
+      "path": "Excalidraw/2차원 배열 점화식(draw).svg"
+    },
+    {
+      "basename": "2차원 배열 점화식(draw)",
+      "path": "Excalidraw/2차원 배열 점화식(draw).md"
+    },
+    {
       "basename": "윈도우 함수",
       "path": "영구노트/윈도우 함수.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "참조 노트 템플릿",
       "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "Java Thread Pool",
-      "path": "영구노트/Java Thread Pool.md"
-    },
-    {
-      "basename": "ThreadPool 동작원리(draw)",
-      "path": "Excalidraw/ThreadPool 동작원리(draw).md"
-    },
-    {
-      "basename": "AutoCloseable",
-      "path": "영구노트/AutoCloseable.md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "영구노트/Kernel.md"
     }
   ],
   "omittedPaths": [],
