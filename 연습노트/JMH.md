@@ -59,7 +59,9 @@ jmh {
 
 version이나 설정의 자세한 정보는 https://github.com/melix/jmh-gradle-plugin 를 참고하자.
 
-### 
+### JMH 디렉토리 구성하기
+
+JMH는 src/main이 아닌 src/jmh/java, src/jmh/resources로 구성한다. 
 
 ## 질문 & 확장
 
