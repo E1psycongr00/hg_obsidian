@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca0f9d60178788c",
+        "id": "805ccb02b1bcf803",
         "type": "tabs",
         "children": [
           {
-            "id": "3e4f4057da7e79e7",
+            "id": "1752e67223d0bcba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/MySQL 비트 연산.md",
+                "file": "연습노트/JAVA Set.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/MySQL 비트 연산.md",
+                "file": "연습노트/JAVA Set.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/MySQL 비트 연산.md",
+                "file": "연습노트/JAVA Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/MySQL 비트 연산.md",
+                "file": "연습노트/JAVA Set.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/MySQL 비트 연산.md"
+                "file": "연습노트/JAVA Set.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/MySQL 비트 연산.md"
+                "file": "연습노트/JAVA Set.md"
               }
             }
           },
@@ -251,10 +251,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3e4f4057da7e79e7",
+  "active": "1752e67223d0bcba",
   "lastOpenFiles": [
-    "연습노트/JMH.md",
     "연습노트/MySQL 비트 연산.md",
+    "연습노트/JAVA Set.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "영구노트/윈도우 함수 구문 종류.md",
+    "연습노트/knex와 외래키 설정.md",
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/React-markdown parse 에러.md",
+    "연습노트/JS 역사.md",
+    "영구노트/JMH.md",
     "attachments/screenshot/Pasted image 20240503213856.png",
     "attachments/screenshot/Pasted image 20240503213817.png",
     "attachments/screenshot/Pasted image 20240503212106.png",
@@ -263,32 +275,20 @@
     "Excalidraw/2차원 배열 점화식(draw).svg",
     "Excalidraw/2차원 배열 점화식(draw).md",
     "영구노트/윈도우 함수.md",
-    "연습노트/윈도우 함수 구문 종류.md",
     "attachments/screenshot/Pasted image 20240502173942.png",
     "attachments/screenshot/Pasted image 20240502145033.png",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/전기 쌍극자.md",
     "attachments/screenshot/Pasted image 20240430195040.png",
     "attachments/screenshot/Pasted image 20240430193738.png",
     "attachments/screenshot/Pasted image 20240430193516.png",
     "attachments/screenshot/Pasted image 20240430193429.png",
     "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
     "영구노트/유저 쓰레드.md",
-    "연습노트/JS 역사.md",
     "영구노트/시스템 콜 레퍼런스.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
     "영구노트/참조 무결성.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/Prompting Github Copilot.md",
-    "연습노트/React-markdown parse 에러.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/group by.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/SQL With (Common Table Expressions).md",
     "Excalidraw/union & unionAll(draw).md",
-    "연습노트/knex와 외래키 설정.md",
     "영구노트/ExecutorService.md",
-    "templates/참조 노트 템플릿.md",
     "index.canvas",
     "Resources/IT/javascript/React",
     "attachments/gif",
