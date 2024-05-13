@@ -53,7 +53,158 @@ HashSet은 기본적으로 Hash Code를 활용한다. 왠만한 Collection의 �
 
 TreeSet과 HashSet, 그리고 LinkedHashSet를 [[JMH|Java MicroBenchmark Harness]] 를 이용해서 성능 비교를 해보자.
 
+```java
+@State(Scope.Benchmark)  
+@BenchmarkMode(Mode.AverageTime)  
+@OutputTimeUnit(TimeUnit.MICROSECONDS)  
+public class HashSetBenchmark {  
+  
+    @Param({"1000", "10000"})  
+    private static int NUMBERS;  
+  
+    private static final Set<Integer> hashSet = new HashSet<>();  
+  
+    @Setup  
+    public void init() {  
+       for (int i  = 0; i < NUMBERS; i++) {  
+          hashSet.add(i);  
+       }  
+    }  
+  
+    @Benchmark  
+    public void putElements(Blackhole bh) {  
+       Set<Integer> set = new HashSet<>();  
+       for (int i = 0; i < NUMBERS; i++) {  
+          set.add(i);  
+       }  
+       bh.consume(set);  
+    }  
+  
+    @Benchmark  
+    public void containsElements(Blackhole bh) {  
+       for (int i = 0; i < NUMBERS; i++) {  
+          bh.consume(hashSet.contains(i));  
+       }  
+    }  
+}
+```
 
+```java
+@State(Scope.Benchmark)  
+@BenchmarkMode(Mode.AverageTime)  
+@OutputTimeUnit(TimeUnit.MICROSECONDS)  
+public class LinkedHashSetBenchmark {  
+  
+    @Param({"1000", "10000"})  
+    private static int NUMBERS;  
+  
+    private static final Set<Integer> linkedHashSet = new LinkedHashSet<>();  
+  
+    @Setup  
+    public void init() {  
+       for (int i = 0; i < NUMBERS; i++) {  
+          linkedHashSet.add(i);  
+       }  
+    }  
+  
+    @Benchmark  
+    public void putElements(Blackhole bh) {  
+       Set<Integer> set = new LinkedHashSet<>();  
+       for (int i = 0; i < NUMBERS; i++) {  
+          set.add(i);  
+       }  
+       bh.consume(set);  
+    }  
+  
+    @Benchmark  
+    public void containsElements(Blackhole bh) {  
+       for (int i = 0; i < NUMBERS; i++) {  
+          bh.consume(linkedHashSet.contains(i));  
+       }  
+    }  
+}
+```
+
+```java
+@State(Scope.Benchmark)  
+@BenchmarkMode(Mode.AverageTime)  
+@OutputTimeUnit(TimeUnit.MICROSECONDS)  
+public class TreeSetBenchmark {  
+  
+    @Param({"1000", "10000"})  
+    private static int NUMBERS;  
+  
+    private static final Set<Integer> treeSet = new TreeSet<>();  
+  
+    @Setup  
+    public void init() {  
+       for (int i = 0; i < NUMBERS; i++) {  
+          treeSet.add(i);  
+       }  
+    }  
+  
+    @Benchmark  
+    public void putElements(Blackhole bh) {  
+       Set<Integer> set = new TreeSet<>();  
+       for (int i = 0; i < NUMBERS; i++) {  
+          set.add(i);  
+       }  
+       bh.consume(set);  
+    }  
+  
+    @Benchmark  
+    public void containsElements(Blackhole bh) {  
+       for (int i = 0; i < NUMBERS; i++) {  
+          bh.consume(treeSet.contains(i));  
+       }  
+    }  
+  
+}
+```
+
+이렇게 3개의 자료구조에 대한 JMH 코드를 작성했다. 간략하게 설명하자면 내부적으로 자료구조를 선언하고 `@Param`을 이용해 NUMBERS가 1000, 10000 변수를 가지도록 설정한다. 그리고 benchmark에서 측정 이전에 `@Setup`을 이용해 미리 set 변수들을 초기화해두고 `@Benchmark` 테스트를 통해 benchmark 테스트 코드를 작성해준다. 위의 벤치마크의 경우
+Fork=1, warnup=2, iterations=2로 설정해두었다.
+
+그 결과를 python으로 시각화한 코드다.
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from pprint import pprint
+
+
+data = pd.read_csv('results.txt', sep="\s+")
+
+
+pprint(data)
+
+
+data['BenchmarkGroup'] = data['Benchmark'].str.split('.').str[0]
+data['BenchmarkType'] = data['Benchmark'].str.split('.').str[1]
+
+pprint(data)
+
+
+g = sns.catplot(x='(NUMBERS)', y='Score', hue='BenchmarkGroup', col='BenchmarkType', data=data, kind='bar')
+
+
+	# 각 서브플롯에 대해 반복
+	for ax in g.axes.flat:
+	# 막대에 수치 추가
+	for bar in ax.patches:
+		ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height(), f'{bar.get_height():.2f}',
+				ha='center', va='bottom')
+	# y축 레이블 변경
+	ax.set(ylabel="Score (ns/op)")
+
+
+plt.show()
+```
+
+결과는 다음과 같다.
+
+![[Pasted image 20240513203005.png]]
 
 ## 질문 & 확장
 
