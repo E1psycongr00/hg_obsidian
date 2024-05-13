@@ -6,19 +6,31 @@
     },
     {
       "basename": "JMH fork, warmup, measurement 상관관계",
-      "path": "연습노트/JMH fork, warmup, measurement 상관관계.md"
+      "path": "영구노트/JMH fork, warmup, measurement 상관관계.md"
+    },
+    {
+      "basename": "node 복잡한 인자 처리하기",
+      "path": "영구노트/node 복잡한 인자 처리하기.md"
+    },
+    {
+      "basename": "node 인자 처리하기",
+      "path": "영구노트/node 인자 처리하기.md"
     },
     {
       "basename": "JMH",
       "path": "영구노트/JMH.md"
     },
     {
-      "basename": "MySQL 비트 연산",
-      "path": "연습노트/MySQL 비트 연산.md"
+      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
+      "path": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
     },
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "MySQL 비트 연산",
+      "path": "연습노트/MySQL 비트 연산.md"
     },
     {
       "basename": "JacksonModule & Std(De)Serializer",
@@ -87,18 +99,6 @@
     {
       "basename": "참조 무결성",
       "path": "영구노트/참조 무결성.md"
-    },
-    {
-      "basename": "group by",
-      "path": "영구노트/group by.md"
-    },
-    {
-      "basename": "SQL With (Common Table Expressions)",
-      "path": "영구노트/SQL With (Common Table Expressions).md"
-    },
-    {
-      "basename": "union & unionAll(draw)",
-      "path": "Excalidraw/union & unionAll(draw).md"
     }
   ],
   "omittedPaths": [],
