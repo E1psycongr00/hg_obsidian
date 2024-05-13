@@ -75,7 +75,7 @@ public class HashSetBenchmark {
     public void putElements(Blackhole bh) {  
        Set<Integer> set = new HashSet<>();  
        for (int i = 0; i < NUMBERS; i++) {  
-          set.add(i);  
+          bh.consume(set.add(i));  
        }  
        bh.consume(set);  
     }  
@@ -111,7 +111,7 @@ public class LinkedHashSetBenchmark {
     public void putElements(Blackhole bh) {  
        Set<Integer> set = new LinkedHashSet<>();  
        for (int i = 0; i < NUMBERS; i++) {  
-          set.add(i);  
+          bh.consume(set.add(i));  
        }  
        bh.consume(set);  
     }  
@@ -147,7 +147,7 @@ public class TreeSetBenchmark {
     public void putElements(Blackhole bh) {  
        Set<Integer> set = new TreeSet<>();  
        for (int i = 0; i < NUMBERS; i++) {  
-          set.add(i);  
+          bh.consume(set.add(i));  
        }  
        bh.consume(set);  
     }  
@@ -196,7 +196,7 @@ g = sns.catplot(x='(NUMBERS)', y='Score', hue='BenchmarkGroup', col='BenchmarkTy
 		ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height(), f'{bar.get_height():.2f}',
 				ha='center', va='bottom')
 	# y축 레이블 변경
-	ax.set(ylabel="Score (ns/op)")
+	ax.set(ylabel="Score (us/op)")
 
 
 plt.show()
@@ -204,7 +204,7 @@ plt.show()
 
 결과는 다음과 같다.
 
-![[Pasted image 20240513203005.png]]
+
 
 ## 질문 & 확장
 
