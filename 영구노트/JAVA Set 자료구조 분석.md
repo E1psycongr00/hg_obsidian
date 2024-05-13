@@ -6,12 +6,12 @@ aliases:
   - Set
   - set
 date: 2024-05-13
-title: JAVA Set
+title: JAVA Set 자료구조 분석
 ---
 작성 날짜: 2024-05-13
 작성 시간: 12:55
 
-#미완 #JAVA #자료구조 
+#완성 #JAVA #자료구조
 
 ----
 ## 내용(Content)
@@ -174,11 +174,23 @@ import matplotlib.pyplot as plt
 from pprint import pprint
 
 
-data = pd.read_csv('results.txt', sep="\s+")
 
+# 파일 읽기
+
+with open('results.txt', 'r', encoding="utf-8") as f:
+	lines = f.readlines()
+
+# '±' 기호 제거
+lines = [line.replace('±', '') for line in lines]
+
+
+# 새로운 파일에 쓰기
+with open('new_results.txt', 'w', encoding="utf-8") as f:
+	f.writelines(lines)
+
+data = pd.read_csv('new_results.txt', sep="\s+")
 
 pprint(data)
-
 
 data['BenchmarkGroup'] = data['Benchmark'].str.split('.').str[0]
 data['BenchmarkType'] = data['Benchmark'].str.split('.').str[1]
@@ -186,25 +198,30 @@ data['BenchmarkType'] = data['Benchmark'].str.split('.').str[1]
 pprint(data)
 
 
-g = sns.catplot(x='(NUMBERS)', y='Score', hue='BenchmarkGroup', col='BenchmarkType', data=data, kind='bar')
+# 오차 막대 추가
+g = sns.catplot(x='(NUMBERS)', y='Score', hue='BenchmarkGroup', col='BenchmarkType', data=data, kind='bar', ci="sd")
 
 
-	# 각 서브플롯에 대해 반복
-	for ax in g.axes.flat:
+# 각 서브플롯에 대해 반복
+for i, ax in enumerate(g.axes.flat):
 	# 막대에 수치 추가
 	for bar in ax.patches:
 		ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height(), f'{bar.get_height():.2f}',
+
 				ha='center', va='bottom')
 	# y축 레이블 변경
 	ax.set(ylabel="Score (us/op)")
-
 
 plt.show()
 ```
 
 결과는 다음과 같다.
 
+![[Pasted image 20240513210702.png]]
 
+생각보다 LinkedHashSet과 HashSet 성능 차이는 크지 않다. TreeSet은 내부적으로 정렬을 수행하기 떄문에 시간복잡도가 크고, 더 느리다. TreeSet이 일반적으로 HashSet보다 데이터가 적으면 빠르다는데, 1000개면 크지 않다고 생각하는데 성능차이가 나는걸 보면, 이진 트리의 이점을 챙기는 것이 아니라면 HashSet을 사용하는 것이 낫다고 생각한다. contains의 경우 20배나 차이가 나고 입력 역시 4배 가까이 차이나기 때문이다.
+
+Bruce Eckel이란 분이 테스트한 자료도 있으니 https://www.artima.com/weblogs/viewpost.jsp?thread=122295 를 참고해보자
 
 ## 질문 & 확장
 
@@ -212,10 +229,11 @@ plt.show()
 
 ## 출처(링크)
 
-
+- https://www.artima.com/weblogs/viewpost.jsp?thread=122295
+- https://ysjee141.github.io/blog/quality/java-benchmark/
 ## 연결 노트
 
-
+- [[JMH]]
 
 
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/JAVA Set.md",
-                "mode": "source",
+                "file": "영구노트/JAVA Set 자료구조 분석.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JAVA Set.md",
+                "file": "영구노트/JAVA Set 자료구조 분석.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JAVA Set.md",
+                "file": "영구노트/JAVA Set 자료구조 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/JAVA Set.md",
+                "file": "영구노트/JAVA Set 자료구조 분석.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/JAVA Set.md"
+                "file": "영구노트/JAVA Set 자료구조 분석.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JAVA Set.md"
+                "file": "영구노트/JAVA Set 자료구조 분석.md"
               }
             }
           },
@@ -253,9 +253,10 @@
   },
   "active": "bb00c9369e2c64a5",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240513210702.png",
     "attachments/screenshot/Pasted image 20240513203005.png",
     "영구노트/JMH fork, warmup, measurement 상관관계.md",
-    "연습노트/JAVA Set.md",
+    "영구노트/JAVA Set 자료구조 분석.md",
     "영구노트/node 복잡한 인자 처리하기.md",
     "영구노트/node 인자 처리하기.md",
     "영구노트/JMH.md",
@@ -285,7 +286,6 @@
     "attachments/screenshot/Pasted image 20240430195040.png",
     "attachments/screenshot/Pasted image 20240430193738.png",
     "attachments/screenshot/Pasted image 20240430193516.png",
-    "attachments/screenshot/Pasted image 20240430193429.png",
     "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
     "영구노트/유저 쓰레드.md",
     "영구노트/시스템 콜 레퍼런스.md",
