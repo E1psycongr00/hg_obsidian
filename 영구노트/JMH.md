@@ -3,6 +3,7 @@ tags:
   - JAVA
   - 테스트
   - BenchMark
+  - JMH
 aliases:
   - Java MicroBenchmark Harness
   - Java Micro Benchmark
@@ -12,7 +13,7 @@ title: JMH
 작성 날짜: 2024-05-03
 작성 시간: 19:33
 
-#완성 #JAVA #테스트 #BenchMark
+#완성 #JAVA #테스트 #BenchMark #JMH
 
 ----
 ## 내용(Content)
@@ -153,6 +154,7 @@ Default 벤치마크 모드가 Throughput(처리량)이기 때문에 Score에 �
 
 ## 연결 노트
 
+- [[JMH fork, warmup, measurement 상관관계]]
 
 
 
