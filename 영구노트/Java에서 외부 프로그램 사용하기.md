@@ -10,7 +10,7 @@ title: Java에서 외부 프로그램 사용하기
 작성 날짜: 2024-05-16
 작성 시간: 16:18
 
-#미완 #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)
@@ -94,13 +94,6 @@ Future<ProcessResult> helloPython = new ProcessExecutor()
 - https://ch4njun.tistory.com/214
 - https://github.com/zeroturnaround/zt-exec
 ## 연결 노트
-
-
-
-
-
-
-
 
 
 
