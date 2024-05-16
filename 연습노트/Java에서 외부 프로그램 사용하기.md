@@ -56,9 +56,19 @@ Future<ProcessResult> helloJs = new ProcessExecutor()
     .start()  
     .getFuture();
 
+helloJs.get().outputUTF8();
 ```
 
+해당 코드는 비동기 코드로 동기 코드를 짤 수도 있다.
 
+```java
+String helloJs = new ProcessExecutor()  
+    .command("node", "src/scripts/js/hello.js")  
+    .redirectOutput(Slf4jStream.ofCaller().asInfo())  
+    .readOutput(true)  
+    .execute() 
+    .outputUTF8();
+```
 ## 질문 & 확장
 
 (없음)
