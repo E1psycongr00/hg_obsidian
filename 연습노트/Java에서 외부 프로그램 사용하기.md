@@ -69,6 +69,22 @@ String helloJs = new ProcessExecutor()
     .execute() 
     .outputUTF8();
 ```
+
+
+#### python 스크립트 실행하기
+
+python 스크립트의 경우 miniconda로 가상환경을 구성하고 환경변수를 등록해두었다. 여기서 문제는 conda로 가상 환경을 관리하는 경우 터미널에서 실행시 `activate [환경 변수]`를 선행해주어야 한다. 어떻게 하면 python 스크립트를 실행 가능한지 코드 예시를 보자
+
+```java
+Future<ProcessResult> helloPython = new ProcessExecutor()  
+    .command("conda.bat", "activate", "pythonProject", "&&", "python", "src/scripts/python/hello.py")  
+    .redirectOutput(Slf4jStream.ofCaller().asInfo())  
+    .readOutput(true)  
+    .start()  
+    .getFuture();
+```
+
+`&&`으로 명령어를 연결해서 command에 넣어주면 된다.
 ## 질문 & 확장
 
 (없음)
