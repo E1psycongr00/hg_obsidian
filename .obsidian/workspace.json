@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e9714ed26f34b15",
+        "id": "981ea0a993c1e961",
         "type": "tabs",
         "children": [
           {
-            "id": "bb00c9369e2c64a5",
+            "id": "7bea6e8f6f3e2e54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/JAVA Set 자료구조 분석.md",
+                "file": "연습노트/MySQL 비트 연산.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "js argv",
+                "query": "Future",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/JAVA Set 자료구조 분석.md",
+                "file": "연습노트/MySQL 비트 연산.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/JAVA Set 자료구조 분석.md",
+                "file": "연습노트/MySQL 비트 연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/JAVA Set 자료구조 분석.md",
+                "file": "연습노트/MySQL 비트 연산.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/JAVA Set 자료구조 분석.md"
+                "file": "연습노트/MySQL 비트 연산.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/JAVA Set 자료구조 분석.md"
+                "file": "연습노트/MySQL 비트 연산.md"
               }
             }
           },
@@ -251,26 +251,29 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bb00c9369e2c64a5",
+  "active": "7bea6e8f6f3e2e54",
   "lastOpenFiles": [
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/MySQL 비트 연산.md",
+    "연습노트/knex와 외래키 설정.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
+    "영구노트/Java Thread Pool.md",
+    "영구노트/ExecutorService.md",
+    "영구노트/JAVA Set 자료구조 분석.md",
+    "영구노트/JMH.md",
     "attachments/screenshot/Pasted image 20240513210702.png",
     "attachments/screenshot/Pasted image 20240513203005.png",
     "영구노트/JMH fork, warmup, measurement 상관관계.md",
-    "영구노트/JAVA Set 자료구조 분석.md",
     "영구노트/node 복잡한 인자 처리하기.md",
     "영구노트/node 인자 처리하기.md",
-    "영구노트/JMH.md",
     "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/MySQL 비트 연산.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/윈도우 함수 구문 종류.md",
-    "연습노트/knex와 외래키 설정.md",
-    "연습노트/Prompting Github Copilot.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/React-markdown parse 에러.md",
     "연습노트/JS 역사.md",
     "attachments/screenshot/Pasted image 20240503213856.png",
@@ -285,10 +288,7 @@
     "attachments/screenshot/Pasted image 20240502145033.png",
     "attachments/screenshot/Pasted image 20240430195040.png",
     "attachments/screenshot/Pasted image 20240430193738.png",
-    "attachments/screenshot/Pasted image 20240430193516.png",
     "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md",
-    "영구노트/유저 쓰레드.md",
-    "영구노트/시스템 콜 레퍼런스.md",
     "index.canvas",
     "Resources/IT/javascript/React",
     "attachments/gif",
