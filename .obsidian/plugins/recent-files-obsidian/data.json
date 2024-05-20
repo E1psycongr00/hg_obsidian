@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Web Socket이란",
+      "path": "영구노트/Web Socket이란.md"
+    },
+    {
+      "basename": "Polling(폴링)",
+      "path": "영구노트/Polling(폴링).md"
+    },
+    {
       "basename": "MySQL 비트 연산",
       "path": "연습노트/MySQL 비트 연산.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "2차원 배열 점화식(draw)",
       "path": "Excalidraw/2차원 배열 점화식(draw).md"
-    },
-    {
-      "basename": "윈도우 함수",
-      "path": "영구노트/윈도우 함수.md"
-    },
-    {
-      "basename": "SQL 결과 수직 결합 Union과 UnionAll",
-      "path": "영구노트/SQL 결과 수직 결합 Union과 UnionAll.md"
     }
   ],
   "omittedPaths": [],

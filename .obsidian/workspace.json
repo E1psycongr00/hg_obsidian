@@ -11,8 +11,13 @@
             "id": "7bea6e8f6f3e2e54",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/Web Socket이란.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -42,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "웹소켓",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "영구노트/Web Socket이란.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "영구노트/Web Socket이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,6 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "영구노트/Web Socket이란.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -168,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "영구노트/Web Socket이란.md"
+              }
             }
           },
           {
@@ -211,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "영구노트/Web Socket이란.md"
+              }
             }
           },
           {
@@ -246,8 +258,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "7bea6e8f6f3e2e54",
   "lastOpenFiles": [
+    "영구노트/Polling(폴링).md",
+    "영구노트/Web Socket이란.md",
     "연습노트/MySQL 비트 연산.md",
     "영구노트/Java에서 외부 프로그램 사용하기.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
@@ -278,8 +292,6 @@
     "Resources/전기기사/전자기학/전자기학.md",
     "영구노트/도체계의 정전용량.md",
     "Excalidraw/2차원 배열 점화식(draw).svg",
-    "Excalidraw/2차원 배열 점화식(draw).md",
-    "영구노트/윈도우 함수.md",
     "attachments/screenshot/Pasted image 20240502173942.png",
     "attachments/screenshot/Pasted image 20240502145033.png",
     "attachments/screenshot/Pasted image 20240430195040.png",
