@@ -6,6 +6,7 @@ tags:
 aliases:
   - node args 처리하기
   - 콘솔에서 node 인자 처리
+  - js args 처리하기
 date: 2024-04-04
 title: node 인자 처리하기
 ---

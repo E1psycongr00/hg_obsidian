@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c501795c09ea0aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/Python 인자 처리하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "웹소켓",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Selenium으로 ChatGPT와 상호작용하기.md",
+                "file": "영구노트/Python 인자 처리하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Selenium으로 ChatGPT와 상호작용하기.md",
+                "file": "영구노트/Python 인자 처리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Selenium으로 ChatGPT와 상호작용하기.md",
+                "file": "영구노트/Python 인자 처리하기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Selenium으로 ChatGPT와 상호작용하기.md"
+                "file": "영구노트/Python 인자 처리하기.md"
               }
             }
           },
@@ -215,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Selenium으로 ChatGPT와 상호작용하기.md"
+                "file": "영구노트/Python 인자 처리하기.md"
               }
             }
           },
@@ -251,9 +264,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1848dcb5f4feefb3",
+  "active": "c501795c09ea0aff",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240527162229.png",
     "연습노트/Selenium으로 ChatGPT와 상호작용하기.md",
+    "영구노트/Python 인자 처리하기.md",
+    "영구노트/node 인자 처리하기.md",
+    "영구노트/node 복잡한 인자 처리하기.md",
     "연습노트/MySQL 비트 연산.md",
     "영구노트/Colab으로 Whisper 이용해 STT 수행하기.md",
     "영구노트/Whisper.md",
@@ -279,11 +296,7 @@
     "attachments/screenshot/Pasted image 20240513210702.png",
     "attachments/screenshot/Pasted image 20240513203005.png",
     "영구노트/JMH fork, warmup, measurement 상관관계.md",
-    "영구노트/node 복잡한 인자 처리하기.md",
-    "영구노트/node 인자 처리하기.md",
     "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md",
-    "영구노트/윈도우 함수 구문 종류.md",
-    "연습노트/React-markdown parse 에러.md",
     "attachments/screenshot/Pasted image 20240503213856.png",
     "attachments/screenshot/Pasted image 20240503213817.png",
     "attachments/screenshot/Pasted image 20240503212106.png",
