@@ -54,7 +54,7 @@ options.add_argument("--disable-popup-blocking")
 driver = uc.Chrome(options=options, user_data_dir="path/to/profile")
 ```
 
-### g
+### gasd
 
 ## 질문 & 확장
 
