@@ -155,7 +155,7 @@ print(f"Directory '{OUTPUT_DIR}' compressed to '{OUTPUT_DIR}.zip'")
 
 ## 출처(링크)
 
-
+- https://sesang06.tistory.com/216
 ## 연결 노트
 
 
