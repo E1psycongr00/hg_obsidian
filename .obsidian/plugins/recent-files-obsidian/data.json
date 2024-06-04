@@ -5,6 +5,10 @@
       "path": "연습노트/Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기.md"
     },
     {
+      "basename": "Wa",
+      "path": "Wa.md"
+    },
+    {
       "basename": "Python 인자 처리하기",
       "path": "영구노트/Python 인자 처리하기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "JMH fork, warmup, measurement 상관관계",
       "path": "영구노트/JMH fork, warmup, measurement 상관관계.md"
-    },
-    {
-      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
-      "path": "영구노트/Docker를 활용해 influxdb와 grafana 연결하기.md"
     }
   ],
   "omittedPaths": [],
