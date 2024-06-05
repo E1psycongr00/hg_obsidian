@@ -11,7 +11,7 @@ title: Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하�
 작성 날짜: 2024-06-03
 작성 시간: 20:58
 
-#미완 #OpenAI #AI #Python #데이터전처리 
+#완성 #OpenAI #AI #Python #데이터전처리
 
 ----
 ## 내용(Content)
@@ -49,6 +49,8 @@ pip install -U openai-whisper
 필요한 모든 준비는 끝났다. 다음은 Sentence를 쉽게 분리하기 위해 config.json과 python 코드이다.
 
 ```python
+# split_setence.py
+
 import whisper
 import os
 from pydub import AudioSegment
@@ -133,7 +135,10 @@ shutil.make_archive(OUTPUT_DIR, 'zip', OUTPUT_DIR)
 print(f"Directory '{OUTPUT_DIR}' compressed to '{OUTPUT_DIR}.zip'")
 ```
 
+
 ```json
+// json
+
 {
 	"model": "large",
 	"training_data": {
@@ -148,6 +153,16 @@ print(f"Directory '{OUTPUT_DIR}' compressed to '{OUTPUT_DIR}.zip'")
 }
 ```
 
+### 결과
+
+위와 같은 작업을 하면 아래와 같이 setence 별로 분리된 음원과 분리된 음원의 csv를 metadata.csv에 결과를 저장해서 얻을 수 있다.
+
+![[Pasted image 20240605155801.png]]
+
+생성된 setence 정보와 skip된 setence 정보
+![[Pasted image 20240605160323.png]]
+
+
 
 ## 질문 & 확장
 
@@ -156,6 +171,7 @@ print(f"Directory '{OUTPUT_DIR}' compressed to '{OUTPUT_DIR}.zip'")
 ## 출처(링크)
 
 - https://sesang06.tistory.com/216
+- https://colab.research.google.com/drive/1Wa-lgzLp8sNTA7qCt6jmkH5oZArIbj8x?usp=sharing
 ## 연결 노트
 
 
