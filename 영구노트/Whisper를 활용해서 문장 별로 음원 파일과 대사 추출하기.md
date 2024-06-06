@@ -51,6 +51,11 @@ pip install -U openai-whisper
 ```python
 # split_setence.py
 
+# LijSpeech 데이터 셋을 만들기 위한 스크립트
+# 하나의 오디오 파일을 문장 단위로 분리하고, CSV 파일을 생성하는 스크립트
+# Caution: 싱글 Audio 파일만 적용 가능
+
+
 import whisper
 import os
 from pydub import AudioSegment
@@ -58,9 +63,9 @@ import csv
 import json
 import shutil
 
+
 # JSON 파일 경로
 CONFIG_FILE_PATH = "config.json"
-
 
 # JSON 파일 읽기
 with open(CONFIG_FILE_PATH, "r") as file:
@@ -73,26 +78,33 @@ AUDIO_FILE_PATH = TRAINING_DATA["audio_file_path"]
 EXTENSION = TRAINING_DATA["extension"]
 OUTPUT_DIR = TRAINING_DATA["output_dir"]
 
+
 CSV = config["csv"]
 CSV_FILE_NAME = CSV["file_name"]
 DELIMITER = CSV["delimiter"]
 
+
 # Step 1: Load Whisper Model
 model = whisper.load_model(MODEL)
 
+
 # Step 2: Load Transcribe the audio file
 result = model.transcribe(AUDIO_FILE_PATH)
+
 
 # Step 3: Extract the segments
 segments = result["segments"]
 audio = AudioSegment.from_file(AUDIO_FILE_PATH, format=EXTENSION)
 
-# Step 4: Make the output directory
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+# Step 4: Make the output directory and wavs subdirectory
+os.makedirs(os.path.join(OUTPUT_DIR, "wavs"), exist_ok=True)
+
 
 # Step 5: Prepare CSV file
 csv_file = os.path.join(OUTPUT_DIR, CSV_FILE_NAME)
 csv_data = []
+
 
 # Step 6: Split the audio based on segments and save to the directory
 file_counter = 1
@@ -101,34 +113,37 @@ for i, segment in enumerate(segments):
 	end_time = segment["end"] * 1000  # type: ignore # Convert to milliseconds
 	text = segment["text"] # type: ignore
 	duration =  end_time - start_time # type: ignore
-	
+
 	# Check Condition
 	if len(text) <= 2 or duration < 1000:
 		print(f"Skipped sentence {i+1}: {text} (Duration: {duration} ms)")
 		continue
 
+
 	# Save File if Condition satisfied
 	sentence_audio = audio[start_time:end_time]
 	file_name = f"sentence_{file_counter+1}.wav"
-	sentence_audio.export(os.path.join(OUTPUT_DIR, file_name), format="wav")
+	sentence_audio.export(os.path.join(OUTPUT_DIR, "wavs", file_name), format="wav")
 	print(f"Exported sentence {file_counter+1}: {segment['text']}") # type: ignore
-
-	# Add data to CSV list
-	csv_data.append([file_name, segment['text']]) # type: ignore
 	
-	# 파일 번호 증가
+	# Add data to CSV list
+	csv_data.append([f"sentence_{file_counter+1}", segment['text'], segment['text']]) # type: ignore
+
+
+	# Increase the File Number
 	file_counter += 1
 
 
 # Step 7: Write the CSV file
 with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
 	writer = csv.writer(file, delimiter=DELIMITER)
-	writer.writerow(["File Name", "Sentence"])
+	writer.writerow(["File Name", "Sentence", "Sentence"])
 	writer.writerows(csv_data)
 
 
 print("Audio files split and saved in directory:", OUTPUT_DIR)
 print("CSV file saved in directory:", csv_file)
+
 
 # Step 8: Compress the output directory
 shutil.make_archive(OUTPUT_DIR, 'zip', OUTPUT_DIR)
@@ -172,14 +187,6 @@ print(f"Directory '{OUTPUT_DIR}' compressed to '{OUTPUT_DIR}.zip'")
 
 - https://sesang06.tistory.com/216
 - https://colab.research.google.com/drive/1Wa-lgzLp8sNTA7qCt6jmkH5oZArIbj8x?usp=sharing
+
+
 ## 연결 노트
-
-
-
-
-
-
-
-
-
-
