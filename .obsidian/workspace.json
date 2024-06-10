@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -251,7 +251,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6a31ea7d68850746",
+  "active": "d4d5b1da2fa85337",
   "lastOpenFiles": [
     "연습노트/Prompting Github Copilot.md",
     "연습노트/MySQL 비트 연산.md",
