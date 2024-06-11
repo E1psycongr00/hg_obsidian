@@ -9,7 +9,7 @@ title: MySQL 비트 연산
 작성 날짜: 2024-05-10
 작성 시간: 20:55
 
-#미완 #SQL #MySQL 
+#완성 #SQL #MySQL 
 
 ----
 ## 내용(Content)
@@ -43,6 +43,44 @@ MySQL 8.0 기준으로 사용되는 비트 연산자 종류는 다음과 같다.
 
 MySQL에서 제공하는 비트 함수는 다음과 같다.
 
+- BIT_COUNT(): 비트 수를 반환
+- BIT_AND(), BIT_OR(), BIT_XOR() => 집계 함수
+
+예를 들어 BIT_AND()를 쓰면 여러 rows들간의 집계 결과를 알려준다. COUNT(), AVG()와 비슷한 결과를 보여준다.
+
+#### example
+
+```sql
+CREATE TABLE user_permissions (
+    user_id INT PRIMARY KEY,
+    permission_mask INT
+);
+```
+
+```sql
+INSERT INTO user_permissions (user_id, permission_mask)
+VALUES
+    (1, 7),   -- Binary: 0111
+    (2, 3),   -- Binary: 0011
+    (3, 5);   -- Binary: 0101
+```
+
+이런 식으로  `7, 3, 5` 3개의 permission_mask가 주어졌을 때
+
+```sql
+SELECT BIT_AND(permission_mask) AS common_permissions
+FROM user_permissions;
+```
+
+user_permissions 테이블의 permission_mask 컬럼의 모든 데이터에 대한 비트 AND 연산을 수행한다.
+
+$0111_{(2)}$
+$0011_{(2)}$
+$0101_{(2)}$
+
+이렇게 3개의 row 데이터에 대해서 AND 연산을 취하기 때문에 결과는 $1_{(2)}$가 나온다.  그래서 쿼리의 최종 결과는 
+
+![[Pasted image 20240611001156.png]]
 
 
 
@@ -55,13 +93,3 @@ MySQL에서 제공하는 비트 함수는 다음과 같다.
 - [MySQL :: MySQL 8.0 Reference Manual :: 14.12 Bit Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/bit-functions.html)
 
 ## 연결 노트
-
-
-
-
-
-
-
-
-
-
