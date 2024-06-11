@@ -12,7 +12,7 @@ title: Selenium으로 ChatGPT와 상호작용하기
 작성 날짜: 2024-05-22
 작성 시간: 21:33
 
-#미완 #솔루션 #AI #OpenAI #크롤링 #Selenium
+#완성 #솔루션 #AI #OpenAI #크롤링 #Selenium
 
 ----
 
