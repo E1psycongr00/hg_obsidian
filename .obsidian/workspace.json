@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afb060dd9caf2745",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,7 +262,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d1afd9c2f626112d",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
     "연습노트/Prompting Github Copilot.md",
     "연습노트/Selenium으로 ChatGPT와 상호작용하기.md",
