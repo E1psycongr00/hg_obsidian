@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b22607828bf3437",
+        "id": "187efac30516748a",
         "type": "tabs",
         "children": [
           {
-            "id": "d1afd9c2f626112d",
+            "id": "c824f3a5c8add101",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "afb060dd9caf2745",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -262,10 +251,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "c824f3a5c8add101",
   "lastOpenFiles": [
-    "연습노트/Prompting Github Copilot.md",
+    "attachments/screenshot/Pasted image 20240611103643.png",
+    "attachments/screenshot/Pasted image 20240611103614.png",
+    "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
+    "영구노트/임시 변수 지양하기.md",
+    "영구노트/JVM 구조.md",
+    "영구노트/프로세스 & 스레드 메모리 구조.md",
+    "영구노트/obsidian에 코드 삽입시 u+00a0가 생기는 문제 해결하기.md",
+    "영구노트/제텔 & 카스텐 의미.md",
+    "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md",
+    "영구노트/d3js & react 예제.md",
+    "영구노트/markdown에 커스텀 문법 적용하기.md",
+    "영구노트/unified & remark & rehype 동작 과정.md",
+    "영구노트/unist.md",
     "연습노트/Selenium으로 ChatGPT와 상호작용하기.md",
+    "연습노트/Prompting Github Copilot.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "templates/참조 노트 템플릿.md",
@@ -280,26 +282,13 @@
     "연습노트/WAV와 MP3.md",
     "영구노트/Colab으로 Whisper 이용해 STT 수행하기.md",
     "영구노트/Whisper.md",
-    "영구노트/Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
     "attachments/screenshot/Pasted image 20240605160323.png",
     "attachments/screenshot/Pasted image 20240605155801.png",
-    "영구노트/Python 인자 처리하기.md",
     "attachments/screenshot/Pasted image 20240527162229.png",
-    "영구노트/node 인자 처리하기.md",
-    "영구노트/node 복잡한 인자 처리하기.md",
     "attachments/screenshot/Pasted image 20240521170107.png",
     "attachments/screenshot/Pasted image 20240521165914.png",
     "attachments/screenshot/Pasted image 20240521165825.png",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "영구노트/Web Socket이란.md",
-    "영구노트/Polling(폴링).md",
-    "영구노트/Java에서 외부 프로그램 사용하기.md",
-    "연습노트/knex와 외래키 설정.md",
-    "영구노트/Java와 함께하는 Mutex 사용 예제.md",
-    "영구노트/Java Thread Pool.md",
     "attachments/screenshot/Pasted image 20240513210702.png",
-    "attachments/screenshot/Pasted image 20240513203005.png",
     "index.canvas",
     "Resources/IT/javascript/React",
     "attachments/gif",
