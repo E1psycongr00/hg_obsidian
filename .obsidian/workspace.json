@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "640509a7d03f2303",
+        "id": "363b3849ab817c99",
         "type": "tabs",
         "children": [
           {
-            "id": "79d74999b0af9535",
+            "id": "a13fc467df172adc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/전기 쌍극자.md",
+                "file": "연습노트/WAV와 MP3.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/전기 쌍극자.md",
+                "file": "연습노트/WAV와 MP3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/전기 쌍극자.md",
+                "file": "연습노트/WAV와 MP3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/전기 쌍극자.md",
+                "file": "연습노트/WAV와 MP3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/전기 쌍극자.md"
+                "file": "연습노트/WAV와 MP3.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/전기 쌍극자.md"
+                "file": "연습노트/WAV와 MP3.md"
               }
             }
           },
@@ -251,13 +251,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "79d74999b0af9535",
+  "active": "a13fc467df172adc",
   "lastOpenFiles": [
+    "연습노트/전기 쌍극자.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
-    "연습노트/전기 쌍극자.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/Prompting Github Copilot.md",
     "연습노트/WAV와 MP3.md",

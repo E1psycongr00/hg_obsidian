@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "WAV와 MP3",
+      "path": "연습노트/WAV와 MP3.md"
+    },
+    {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Prompting Github Copilot",
       "path": "연습노트/Prompting Github Copilot.md"
-    },
-    {
-      "basename": "WAV와 MP3",
-      "path": "연습노트/WAV와 MP3.md"
     },
     {
       "basename": "nextjs build 이전에 스크립트 실행 방법",
