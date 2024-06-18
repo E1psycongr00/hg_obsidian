@@ -279,11 +279,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "f6b08d1693a65978",
   "lastOpenFiles": [
+    "연습노트/Spring에서 예외 처리 과정.md",
     "영구노트/SQL 중간에 문자 삽입하기.md",
     "영구노트/SQL에서 글자 붙여 넣기.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Prompting Github Copilot.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",

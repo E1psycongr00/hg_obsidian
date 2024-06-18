@@ -28,7 +28,7 @@ title: SQL에서 글자 붙여넣기
 
 ### 예시
 
-물고기의 최대 길이에 "cm"를 붙여라
+물고기의 최대 길이에 "cm" 를 붙여라
 
 ```SQL
 SELECT concat(max(length), "cm") as max_length
