@@ -67,6 +67,63 @@ FSM의 경우 게임 AI 또는 AI를 위한 시뮬레이션이나 Animator등에
 
 구현 방법은 Switch, if-else 구문, State Pattern등으로 다양하다. 객체들 간의 상태가 간단하다면 Switch, if-else 구문으로 구현해도 상관없지만, 그림이 없이 상태와 전이들을 파악하는 것이 복잡하다면 State Pattern을 고려해볼만 하다. 여기선 2 방식 모두 보여주기로 한다.
 
+#### switch, if-else
+
+```java
+import java.util.Random;  
+  
+public class Monster {  
+    private static final int RECOGNITION_DISTANCE = 10;  
+    private static final int ATTACK_DISTANCE = 2;  
+    enum ActionState {  
+       IDLE, MOVE, ATTACK  
+    }  
+    private ActionState actionState;  
+    public void play() {  
+       int distance = findPlayer();  
+       switch (actionState) {  
+          case IDLE -> {  
+             System.out.println("IDLE");  
+             if (distance < RECOGNITION_DISTANCE && distance > ATTACK_DISTANCE) {  
+                actionState = ActionState.MOVE;  
+             } else {  
+                actionState = ActionState.ATTACK;  
+             }  
+          }  
+          case MOVE -> {  
+             System.out.println("MOVE");  
+             if (distance < ATTACK_DISTANCE) {  
+                actionState = ActionState.ATTACK;  
+             } else {  
+                actionState = ActionState.IDLE;  
+             }  
+          }  
+          case ATTACK -> {  
+             System.out.println("ATTACK");  
+             if (distance > RECOGNITION_DISTANCE) {  
+                actionState = ActionState.IDLE;  
+             } else {  
+                actionState = ActionState.MOVE;  
+             }  
+          }  
+       }  
+    }  
+    private int findPlayer() {  
+       Random r = new Random();  
+       return r.nextInt(10) + 1;  
+    }  
+}
+```
+
+
+switch case문과 if-else를 사용하면 장점은 쉽게 구현이 가능하다는 점이다. 단점은 한 클래스에 너무 세부적인 구현 요소가 모두 들어가 있다는 것이다.
+
+장점은 구체적인 부분을 생략하고 단점을 살펴보겠다.
+
+Monster라는 클래스는 play를 통해 상태가 변하는 클래스이고, 이를 관리한다. 위 코드에서는 Monster가 상태를 관리하는 Context처럼 사용된다. 그러나 이런 코드의 문제는 간단한 경우에는 쉬울지 몰라도 상태 간의 관계가 복잡해지면 사용하기가 힘들다. 이번 글에서 상태 패턴에 대해서 자세히 다루지는 않지만 상태 패턴을 이용하면 상태 변환과 액션을 다른 객체에 위임해서 로직을 분리해낼 수 있다. 코드를 살펴보자.
+
+
+
 ## 질문 & 확장
 
 (없음)
