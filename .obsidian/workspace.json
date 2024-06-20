@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Finite State Machine.md",
+                "file": "연습노트/WAV와 MP3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b225ce43444928a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Perplexity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "임시 변수",
+                "query": "tag:#미완",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Finite State Machine.md",
+                "file": "연습노트/Perplexity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Finite State Machine.md",
+                "file": "연습노트/Perplexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Finite State Machine.md",
+                "file": "연습노트/Perplexity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +207,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Finite State Machine.md"
+                "file": "연습노트/Perplexity.md"
               }
             }
           },
@@ -239,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Finite State Machine.md"
+                "file": "연습노트/Perplexity.md"
               }
             }
           },
@@ -276,22 +289,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "31638c5b844b8f33",
+  "active": "b225ce43444928a1",
   "lastOpenFiles": [
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/Perplexity.md",
+    "연습노트/WAV와 MP3.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/전기 쌍극자.md",
+    "영구노트/Finite State Machine.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
     "attachments/screenshot/Pasted image 20240619181910.png",
     "Excalidraw/몬스터 AI 상태 오토 마타(draw).md",
     "Excalidraw/몬스터 AI 상태 오토 마타(draw).svg",
-    "연습노트/Finite State Machine.md",
     "영구노트/임시 변수 지양하기.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
     "영구노트/SQL에서 글자 붙여 넣기.md",
     "영구노트/SQL 중간에 문자 삽입하기.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Prompting Github Copilot.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/WAV와 MP3.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/nextjs build 이전에 스크립트 실행 방법.md",
     "영구노트/Selenium으로 ChatGPT와 상호작용하기.md",
@@ -313,7 +327,6 @@
     "attachments/screenshot/Pasted image 20240605155801.png",
     "attachments/screenshot/Pasted image 20240527162229.png",
     "attachments/screenshot/Pasted image 20240521170107.png",
-    "attachments/screenshot/Pasted image 20240521165914.png",
     "index.canvas",
     "Resources/IT/javascript/React",
     "attachments/gif",

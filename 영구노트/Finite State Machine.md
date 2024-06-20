@@ -14,7 +14,7 @@ title: Finite State Machine
 작성 날짜: 2024-06-19
 작성 시간: 16:21
 
-#미완 #디자인패턴 #객체지향 #JAVA 
+#완성 #디자인패턴 #객체지향 #JAVA
 
 ----
 ## 내용(Content)
