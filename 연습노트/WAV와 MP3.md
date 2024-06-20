@@ -12,13 +12,15 @@ title: WAV와 MP3
 ----
 ## 내용(Content)
 
-### WAV
+### WAV(Waveform Audio File Format)
 
 - 무손실 압축 방식으로 원본 음질을 그대로 유지
 - 파일 크기가 크기 때문에 저장 공간 소모에 
 - 편집 및 프로그래밍에 용이하여 전문가들이 선호
 
 ### MP3
+
+- 
 
 
 
