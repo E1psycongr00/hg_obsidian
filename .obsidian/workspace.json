@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/WAV와 MP3.md",
+                "file": "연습노트/음원 파일 확장자.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/WAV와 MP3.md",
+                "file": "연습노트/음원 파일 확장자.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/WAV와 MP3.md",
+                "file": "연습노트/음원 파일 확장자.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/WAV와 MP3.md",
+                "file": "연습노트/음원 파일 확장자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/WAV와 MP3.md",
+                "file": "연습노트/음원 파일 확장자.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/WAV와 MP3.md"
+                "file": "연습노트/음원 파일 확장자.md"
               }
             }
           },
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/WAV와 MP3.md"
+                "file": "연습노트/음원 파일 확장자.md"
               }
             }
           },
@@ -283,7 +283,7 @@
   "active": "b225ce43444928a1",
   "lastOpenFiles": [
     "Excalidraw/몬스터 AI 상태 오토 마타(draw).md",
-    "연습노트/WAV와 MP3.md",
+    "연습노트/음원 파일 확장자.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Prompting Github Copilot.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
