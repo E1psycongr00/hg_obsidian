@@ -17,6 +17,7 @@ date: 2023-12-17
 ----
 ## 내용(Content)
 ### Golang
+
 Go 언어는 뛰어난 동시성을 지원하는 언어로 꼽힌다. 다른 프로그램 언어에서는 쓰레드를 활용해서 동시성을 지원하지만 GoLang에서는 고루틴을 활용하여 동시성 프로그래밍을 개발한다.  고루틴에 대해서 알아보자
 
 ### 고루틴(Goroutine)이란
@@ -70,14 +71,14 @@ PCB의 경우
 
 TCB의 경우
 
-|정보|설명|
-|---|---|
-|Thread Id|스레드의 고유 번호 (TID)|
-|Stack pointer|프로세스에서 스레드의 스택을 가르키는 포인터 (SP)|
-|Program counter|프로세스에서 다음 실행될 스레드의 포인터 (PC)|
-|Thread state|준비, 대기, 실행 등의 스레드 상태|
-|Thread register information|스레드의 레지스터 정보|
-|PCB pointer|PCB에 대한 포인터|
+| 정보                          | 설명                            |
+| --------------------------- | ----------------------------- |
+| Thread Id                   | 스레드의 고유 번호 (TID)              |
+| Stack pointer               | 프로세스에서 스레드의 스택을 가르키는 포인터 (SP) |
+| Program counter             | 프로세스에서 다음 실행될 스레드의 포인터 (PC)   |
+| Thread state                | 준비, 대기, 실행 등의 스레드 상태          |
+| Thread register information | 스레드의 레지스터 정보                  |
+| PCB pointer                 | PCB에 대한 포인터                   |
 
 고루틴의 경우
 
