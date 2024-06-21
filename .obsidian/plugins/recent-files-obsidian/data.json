@@ -5,6 +5,14 @@
       "path": "연습노트/음원 파일 확장자.md"
     },
     {
+      "basename": "PCM",
+      "path": "연습노트/PCM.md"
+    },
+    {
+      "basename": "임시 변수 지양하기",
+      "path": "영구노트/임시 변수 지양하기.md"
+    },
+    {
       "basename": "몬스터 AI 상태 오토 마타(draw)",
       "path": "Excalidraw/몬스터 AI 상태 오토 마타(draw).md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Finite State Machine",
       "path": "영구노트/Finite State Machine.md"
-    },
-    {
-      "basename": "임시 변수 지양하기",
-      "path": "영구노트/임시 변수 지양하기.md"
     },
     {
       "basename": "SQL에서 글자 붙여 넣기",
