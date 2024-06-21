@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "연습노트/Spring에서 예외 처리 과정.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "연습노트/Spring에서 예외 처리 과정.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "연습노트/Spring에서 예외 처리 과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
+                "file": "연습노트/Spring에서 예외 처리 과정.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+                "file": "연습노트/Spring에서 예외 처리 과정.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
+                "file": "연습노트/Spring에서 예외 처리 과정.md"
               }
             }
           },
@@ -251,8 +251,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "283206e193970f50",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/전기 쌍극자.md",
     "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/Java Monitor.md",
     "영구노트/Spin Lock (스핀 락).md",
@@ -263,10 +266,7 @@
     "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md",
     "영구노트/Process와 컨텍스트 스위칭.md",
     "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/Prompting Github Copilot.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "영구노트/Race Condition.md",
     "영구노트/Minor GC(Young) vs Major GC(Old).md",
