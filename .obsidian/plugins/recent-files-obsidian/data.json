@@ -1,64 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍)",
-      "path": "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md"
+      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
+      "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
     },
     {
-      "basename": "프로세스 & 스레드 정의",
-      "path": "영구노트/프로세스 & 스레드 정의.md"
+      "basename": "Java Monitor",
+      "path": "영구노트/Java Monitor.md"
     },
     {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
+      "basename": "Spin Lock (스핀 락)",
+      "path": "영구노트/Spin Lock (스핀 락).md"
     },
     {
-      "basename": "CPU 쓰레드(Thread)",
-      "path": "영구노트/CPU 쓰레드(Thread).md"
+      "basename": "PCB(Process Controll Block)",
+      "path": "영구노트/PCB(Process Controll Block).md"
     },
     {
-      "basename": "Kernel Level Thread vs User Level Thread",
-      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
+      "basename": "Mutex와 binary semaphore 같지 않다",
+      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
     },
     {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
     },
     {
-      "basename": "시스템 콜",
-      "path": "영구노트/시스템 콜.md"
+      "basename": "GoRoutine 고루틴 소개",
+      "path": "영구노트/GoRoutine 고루틴 소개.md"
     },
     {
-      "basename": "파일 디스크립터",
-      "path": "영구노트/파일 디스크립터.md"
-    },
-    {
-      "basename": "IO Multiplexing",
-      "path": "영구노트/IO Multiplexing.md"
-    },
-    {
-      "basename": "Blocking IO",
-      "path": "영구노트/Blocking IO.md"
-    },
-    {
-      "basename": "동기 IO Models",
-      "path": "Resources/IT/운영체제/동기 IO Models.md"
-    },
-    {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
+      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
+      "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
     },
     {
       "basename": "Process와 컨텍스트 스위칭",
       "path": "영구노트/Process와 컨텍스트 스위칭.md"
     },
     {
-      "basename": "인터럽트",
-      "path": "영구노트/인터럽트.md"
+      "basename": "OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍)",
+      "path": "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md"
     },
     {
-      "basename": "프로세스",
-      "path": "Resources/IT/운영체제/프로세스.md"
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "인터럽트와 시스템 콜 동작 과정",
+      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+    },
+    {
+      "basename": "Race Condition",
+      "path": "영구노트/Race Condition.md"
+    },
+    {
+      "basename": "Minor GC(Young) vs Major GC(Old)",
+      "path": "영구노트/Minor GC(Young) vs Major GC(Old).md"
+    },
+    {
+      "basename": "CPU 코어",
+      "path": "영구노트/CPU 코어.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 정의",
+      "path": "영구노트/프로세스 & 스레드 정의.md"
     },
     {
       "basename": "프로세스의 한계 및 쓰레드 등장",
@@ -69,36 +85,20 @@
       "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
     },
     {
-      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
-      "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
+      "basename": "CPU 쓰레드(Thread)",
+      "path": "영구노트/CPU 쓰레드(Thread).md"
     },
     {
-      "basename": "CPU 스케줄링 알고리즘",
-      "path": "영구노트/CPU 스케줄링 알고리즘.md"
+      "basename": "Kernel Level Thread vs User Level Thread",
+      "path": "영구노트/Kernel Level Thread vs User Level Thread.md"
     },
     {
-      "basename": "CPU 스케줄러",
-      "path": "영구노트/CPU 스케줄러.md"
+      "basename": "시스템 콜",
+      "path": "영구노트/시스템 콜.md"
     },
     {
-      "basename": "CPU 병렬성(draw)",
-      "path": "Excalidraw/CPU 병렬성(draw).md"
-    },
-    {
-      "basename": "CPU 클럭 속도",
-      "path": "영구노트/CPU 클럭 속도.md"
-    },
-    {
-      "basename": "IO Bound와 CPU Bound",
-      "path": "영구노트/IO Bound와 CPU Bound.md"
-    },
-    {
-      "basename": "Garbage Collection(가비지 컬렉션) 알고리즘 종류",
-      "path": "영구노트/Garbage Collection(가비지 컬렉션) 알고리즘 종류.md"
-    },
-    {
-      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
-      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+      "basename": "파일 디스크립터",
+      "path": "영구노트/파일 디스크립터.md"
     }
   ],
   "omittedPaths": [],
