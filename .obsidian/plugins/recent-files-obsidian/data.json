@@ -5,12 +5,16 @@
       "path": "연습노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
     },
     {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
       "basename": "Prompting Github Copilot",
       "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
@@ -23,10 +27,6 @@
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
     },
     {
       "basename": "프로세스",
