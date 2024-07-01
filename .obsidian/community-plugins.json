@@ -10,7 +10,6 @@
   "dataview",
   "3d-graph",
   "calendar",
-  "media-extended",
   "obsidian-tasks-plugin",
   "recent-files-obsidian",
   "obsidian-latex-suite",
@@ -21,7 +20,7 @@
   "obsidian-list-callouts",
   "obsidian-vault-statistics-plugin",
   "graph-link-types",
-  "easy-bake",
   "show-whitespace-cm6",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "media-notes"
 ]
