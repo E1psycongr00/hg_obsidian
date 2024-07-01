@@ -2,7 +2,8 @@
 tags:
   - CS
   - CPU
-aliases: 
+aliases:
+  - 병렬성과 동시성
 title: CPU의 작업 처리 방식 (병렬성과 동시성)
 date: 2024-01-03
 ---
