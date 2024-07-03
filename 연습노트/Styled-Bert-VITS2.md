@@ -21,7 +21,8 @@ title: Styled-Bert-VITS2
 
 - https://note.com/yuki_tech/n/nca6ecb57469a?sub_rt=share_pb
 - https://www.youtube.com/watch?v=zRirNw_AKIM
-
+- https://github.com/litagin02/Style-Bert-VITS2?tab=readme-ov-file
+- https://huggingface.co/spaces/litagin/Style-Bert-VITS2-Editor-Demo
 ## 연결 노트
 
 
