@@ -20,7 +20,7 @@ False ^neDAH4Fw
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
 	"elements": [
 		{
 			"type": "arrow",
@@ -112,8 +112,8 @@ False ^neDAH4Fw
 		},
 		{
 			"type": "text",
-			"version": 14,
-			"versionNonce": 1260065841,
+			"version": 15,
+			"versionNonce": 570015103,
 			"isDeleted": false,
 			"id": "mPTwzq6g",
 			"fillStyle": "solid",
@@ -133,7 +133,7 @@ False ^neDAH4Fw
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708090184717,
+			"updated": 1720019479746,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -144,8 +144,7 @@ False ^neDAH4Fw
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "5",
-			"lineHeight": 1.25,
-			"baseline": 18
+			"lineHeight": 1.25
 		},
 		{
 			"type": "rectangle",
@@ -215,8 +214,7 @@ False ^neDAH4Fw
 			"verticalAlign": "top",
 			"containerId": "E-acSAadW5HRH9uek1INw",
 			"originalText": "True",
-			"lineHeight": 1.25,
-			"baseline": 18
+			"lineHeight": 1.25
 		},
 		{
 			"type": "rectangle",
@@ -286,8 +284,7 @@ False ^neDAH4Fw
 			"verticalAlign": "top",
 			"containerId": "Vl7GjPHuY1RUC2t0uhuu0",
 			"originalText": "False",
-			"lineHeight": 1.25,
-			"baseline": 18
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -305,10 +302,10 @@ False ^neDAH4Fw
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 462.51669618485937,
-		"scrollY": 512.0928548930374,
+		"scrollX": 428.8722293666465,
+		"scrollY": 791.7614033385091,
 		"zoom": {
-			"value": 1.1500000000000001
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
@@ -323,7 +320,8 @@ False ^neDAH4Fw
 			"clip": true,
 			"name": true,
 			"outline": true
-		}
+		},
+		"objectsSnapModeEnabled": false
 	},
 	"files": {}
 }

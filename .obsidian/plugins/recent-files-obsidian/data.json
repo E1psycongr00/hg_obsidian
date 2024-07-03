@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Parametric Search 조건을 만족하는 최대값",
+      "path": "영구노트/Parametric Search 조건을 만족하는 최대값.md"
+    },
+    {
+      "basename": "일반적인 ParametricSearch 만들기(통합)",
+      "path": "영구노트/일반적인 ParametricSearch 만들기(통합).md"
+    },
+    {
+      "basename": "lower_bound와 Parametric Search 예제(draw)",
+      "path": "Excalidraw/lower_bound와 Parametric Search 예제(draw).md"
+    },
+    {
+      "basename": "Parametric Search 조건을 만족하는 최소값",
+      "path": "영구노트/Parametric Search 조건을 만족하는 최소값.md"
+    },
+    {
+      "basename": "이분 탐색",
+      "path": "영구노트/이분 탐색.md"
+    },
+    {
       "basename": "Styled-Bert-VITS2",
       "path": "연습노트/Styled-Bert-VITS2.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "Process와 컨텍스트 스위칭",
       "path": "영구노트/Process와 컨텍스트 스위칭.md"
-    },
-    {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
-    },
-    {
-      "basename": "Race Condition",
-      "path": "영구노트/Race Condition.md"
-    },
-    {
-      "basename": "Minor GC(Young) vs Major GC(Old)",
-      "path": "영구노트/Minor GC(Young) vs Major GC(Old).md"
-    },
-    {
-      "basename": "CPU 코어",
-      "path": "영구노트/CPU 코어.md"
-    },
-    {
-      "basename": "프로세스의 한계 및 쓰레드 등장",
-      "path": "영구노트/프로세스의 한계 및 쓰레드 등장.md"
     }
   ],
   "omittedPaths": [],
