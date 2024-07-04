@@ -25,37 +25,47 @@ date: 2024-02-16
 
 ### code
 #### java
+
 ```java
-public static int parametricSearchMax(IntPredicate condition, int lo, int hi) {  
-    while (lo < hi) {  
-       int mid = lo + (hi - lo) / 2;  
+public static long parametricSearchMax(long lo, long hi, LongPredicate condition) {  
+    long result = 0;  
+    while (lo <= hi) {  
+       long mid = lo + (hi - lo) / 2;  
        if (condition.test(mid)) {  
+          result = mid;  
           lo = mid + 1;  
        } else {  
-          hi = mid;  
+          hi = mid + 1;  
        }  
     }  
-    return lo - 1;  
+    return result;  
 }
 ```
 
-condition을 IntPredicate로 받은 이유는 Predicate로 받으면 boxing이 일어나기 때문에 매번 호출하는 알고리즘 특성상 성능에  안 좋을 수 있기 때문에 사용했다.
+>[!info]
+>condition을 IntPredicate로 받은 이유는 Predicate로 받으면 boxing이 일어나기 때문에 매번 호출하는 알고리즘 특성상 성능에  안 좋을 수 있기 때문에 사용했다.
 
-함수형 객체를 사용한 이유는 람다는 지역변수를 캡처 할 수 있고, condition과 이분 탐색 로직 분리를 통해 코드가 한 가지 작업만 할 수 있도록 하고 다양한 컨디션에 대해서 쉽게 대처할 수 있다. 기존 이분 탐색과 거의 동일한 코드기 때문에 사용하는데 큰 어려움도 없다.
-### Lower Bound와 관계
-이해를 돕기 위해 \[0, 10) 인  범위에서 target이 5일 때 범위의 정수 값을 배열로 \[0,1,2,3,4,5,6,7,8,9]로 가진다고 하자. 
+>[!info]
+>함수형 객체를 사용한 이유는 람다는 지역변수를 캡처 할 수 있고, condition과 이분 탐색 로직 분리를 통해 코드가 한 가지 작업만 할 수 있도록 하고 다양한 컨디션에 대해서 쉽게 대처할 수 있다. 기존 이분 탐색과 거의 동일한 코드기 때문에 사용하는데 큰 어려움도 없다.
+
+### 해석하기
+
 
 ![[lower_bound와 Parametric Search 예제(draw).svg|500]]
 
-조건을 만족하는 최대 x을 구하는 것도 under_bound와 코드는 동일하며 큰 차이가 없다. 다만 if 문이 condition으로 바뀐 점인데 해석해보자
 
-under_bound의 코드 중` if (nums[mid] < target) {low = mid + 1}`이 있는데 위의 예시를 대입해서 살펴보면 target (5) 이전 값에 대해서는 모두 참이며, 이후 값에서는 거짓이 된다.
+특정 경계를 기준으로 최대를 구한다는 것은 어떤 의미일까? 
+위 그림을 살펴보면 True 영역은 Condition이 True일 때 영역으로 조건에 만족하는 최대 해를 구하기 위해서는 경계에 최대한 가까워지는 것이다. 그렇기 떄문에 대부분의 조건은 다음과 같다.
 
-즉, 5 이전까지는 참이며 5를 포함한 이후로는 거짓이 된다.  low가 끝나는 시점은 True가 False 경계와 가장 가까운 True인 index + 1이며 이는 False 이다.
+`x < target` 또는 `x <= target`
 
-그래서 ParametricSearchMax에서는 결과는 lo - 1이 된다.
+>[!tip]
+>Condition을 잡는 기준은 우리가 목표로 하는 경계가 상한이 되도록 정하는 것이다. 그러면 해당 조건에 부합하는 최대 해를 구할 수 있다.
+
+
 
 ### 결과 코드 예시
+
 ```java
 System.out.println(parametricSearchMax(mid -> mid < 5, 0, 10)); // 5
 ```

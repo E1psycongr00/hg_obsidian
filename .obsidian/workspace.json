@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "57c388c64fd6bff7",
+        "id": "1091659033f2b586",
         "type": "tabs",
         "children": [
           {
-            "id": "83d7ae3adea98aba",
+            "id": "a1aa81107e05ccb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/일반적인 ParametricSearch 만들기(통합).md",
+                "file": "영구노트/35. Search Insert Position.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "de279fe0658c4453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Parametric Search 조건을 만족하는 최대값.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d915519c52467d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Parametric Search 조건을 만족하는 최소값.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Parametric Search 조건을 만족하는 최대값.md",
+                "file": "영구노트/35. Search Insert Position.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Parametric Search 조건을 만족하는 최대값.md",
+                "file": "영구노트/35. Search Insert Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Parametric Search 조건을 만족하는 최대값.md",
+                "file": "영구노트/35. Search Insert Position.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Parametric Search 조건을 만족하는 최대값.md"
+                "file": "영구노트/35. Search Insert Position.md"
               }
             }
           },
@@ -242,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Parametric Search 조건을 만족하는 최대값.md"
+                "file": "영구노트/35. Search Insert Position.md"
               }
             }
           },
@@ -278,14 +251,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "de279fe0658c4453",
+  "active": "a1aa81107e05ccb7",
   "lastOpenFiles": [
-    "영구노트/일반적인 ParametricSearch 만들기(통합).md",
-    "영구노트/lower bound.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
+    "연습노트/Prompting Github Copilot.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/Styled-Bert-VITS2.md",
     "영구노트/Parametric Search 조건을 만족하는 최대값.md",
+    "영구노트/일반적인 ParametricSearch 만들기(통합).md",
     "영구노트/Parametric Search 조건을 만족하는 최소값.md",
+    "영구노트/35. Search Insert Position.md",
+    "영구노트/lower bound.md",
     "Excalidraw/Search Insert Posigion 최대값(draw).md",
-    "연습노트/35. Search Insert Position.md",
     "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "Excalidraw/Search Insert Posigion 최대값(draw).svg",
     "attachments/images/search_insert_position_2d_graph.png",
@@ -294,15 +274,8 @@
     "attachments/images",
     "Excalidraw/lower_bound와 Parametric Search 예제(draw).md",
     "영구노트/이분 탐색.md",
-    "연습노트/Styled-Bert-VITS2.md",
     "영구노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
-    "연습노트/Prompting Github Copilot.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "Resources/IT/운영체제/프로세스.md",
     "영구노트/프로세스 & 스레드 정의.md",
     "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
