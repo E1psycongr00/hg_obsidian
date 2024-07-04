@@ -9,12 +9,40 @@
       "path": "영구노트/일반적인 ParametricSearch 만들기(통합).md"
     },
     {
-      "basename": "lower_bound와 Parametric Search 예제(draw)",
-      "path": "Excalidraw/lower_bound와 Parametric Search 예제(draw).md"
+      "basename": "lower bound",
+      "path": "영구노트/lower bound.md"
     },
     {
       "basename": "Parametric Search 조건을 만족하는 최소값",
       "path": "영구노트/Parametric Search 조건을 만족하는 최소값.md"
+    },
+    {
+      "basename": "Search Insert Posigion 최대값(draw)",
+      "path": "Excalidraw/Search Insert Posigion 최대값(draw).md"
+    },
+    {
+      "basename": "35. Search Insert Position",
+      "path": "연습노트/35. Search Insert Position.md"
+    },
+    {
+      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
+      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
+    },
+    {
+      "basename": "search_insert_position_2d_graph",
+      "path": "attachments/images/search_insert_position_2d_graph.png"
+    },
+    {
+      "basename": "Pasted image 20231001204409",
+      "path": "attachments/screenshot/Pasted image 20231001204409.png"
+    },
+    {
+      "basename": "ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26",
+      "path": "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif"
+    },
+    {
+      "basename": "lower_bound와 Parametric Search 예제(draw)",
+      "path": "Excalidraw/lower_bound와 Parametric Search 예제(draw).md"
     },
     {
       "basename": "이분 탐색",
@@ -71,34 +99,6 @@
     {
       "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
       "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
-    },
-    {
-      "basename": "PCB(Process Controll Block)",
-      "path": "영구노트/PCB(Process Controll Block).md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "영구노트/Kernel.md"
-    },
-    {
-      "basename": "Java Monitor",
-      "path": "영구노트/Java Monitor.md"
-    },
-    {
-      "basename": "Spin Lock (스핀 락)",
-      "path": "영구노트/Spin Lock (스핀 락).md"
-    },
-    {
-      "basename": "Mutex와 binary semaphore 같지 않다",
-      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
-    },
-    {
-      "basename": "GoRoutine 고루틴 소개",
-      "path": "영구노트/GoRoutine 고루틴 소개.md"
-    },
-    {
-      "basename": "Process와 컨텍스트 스위칭",
-      "path": "영구노트/Process와 컨텍스트 스위칭.md"
     }
   ],
   "omittedPaths": [],
