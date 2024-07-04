@@ -5,6 +5,10 @@
       "path": "연습노트/153. Find Minimum in Rotated Sorted Array.md"
     },
     {
+      "basename": "rotated Sorted Array",
+      "path": "attachments/images/rotated Sorted Array.png"
+    },
+    {
       "basename": "일반적인 ParametricSearch 만들기(통합)",
       "path": "영구노트/일반적인 ParametricSearch 만들기(통합).md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "이분 탐색",
       "path": "영구노트/이분 탐색.md"
-    },
-    {
-      "basename": "Rotated Sorted Array",
-      "path": "attachments/images/Rotated Sorted Array.png"
     },
     {
       "basename": "Styled-Bert-VITS2",
