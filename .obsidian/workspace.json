@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b6a69d527c0a1117",
+        "id": "fe26309ce5544ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "0da3ee4ed000730e",
+            "id": "e2449276335efecc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/153. Find Minimum in Rotated Sorted Array.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/153. Find Minimum in Rotated Sorted Array.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/153. Find Minimum in Rotated Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/153. Find Minimum in Rotated Sorted Array.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "연습노트/153. Find Minimum in Rotated Sorted Array.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/153. Find Minimum in Rotated Sorted Array.md"
-              }
+              "state": {}
             }
           },
           {
@@ -251,10 +239,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0da3ee4ed000730e",
+  "active": "e2449276335efecc",
   "lastOpenFiles": [
+    "영구노트/153. Find Minimum in Rotated Sorted Array.md",
     "attachments/images/rotated Sorted Array.png",
-    "연습노트/153. Find Minimum in Rotated Sorted Array.md",
     "영구노트/일반적인 ParametricSearch 만들기(통합).md",
     "영구노트/Parametric Search 조건을 만족하는 최대값.md",
     "영구노트/이분 탐색.md",
