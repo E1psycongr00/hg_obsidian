@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "Styled-Bert-VITS2",
+      "path": "연습노트/Styled-Bert-VITS2.md"
+    },
+    {
       "basename": "153. Find Minimum in Rotated Sorted Array",
       "path": "영구노트/153. Find Minimum in Rotated Sorted Array.md"
     },
@@ -21,36 +49,8 @@
       "path": "영구노트/이분 탐색.md"
     },
     {
-      "basename": "Styled-Bert-VITS2",
-      "path": "연습노트/Styled-Bert-VITS2.md"
-    },
-    {
       "basename": "search_insert_position_2d_graph",
       "path": "attachments/images/search_insert_position_2d_graph.png"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
     },
     {
       "basename": "35. Search Insert Position",
