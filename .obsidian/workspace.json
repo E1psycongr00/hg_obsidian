@@ -11,8 +11,13 @@
             "id": "96463634b4d441c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/노트 체계화의 중요성 PARA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "연습노트/노트 체계화의 중요성 PARA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "연습노트/노트 체계화의 중요성 PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/노트 체계화의 중요성 PARA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "연습노트/노트 체계화의 중요성 PARA.md"
+              }
             }
           },
           {
@@ -204,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "연습노트/노트 체계화의 중요성 PARA.md"
+              }
             }
           },
           {
@@ -240,10 +253,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d4d5b1da2fa85337",
+  "active": "96463634b4d441c8",
   "lastOpenFiles": [
     "Media Note - 노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARA.md",
-    "연습노트/PARA 메모.md",
+    "연습노트/노트 체계화의 중요성 PARA.md",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "attachments/screenshot/Pasted image 20240708134144.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT2.24S.webp",
