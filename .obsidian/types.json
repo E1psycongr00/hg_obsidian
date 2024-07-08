@@ -28,6 +28,7 @@
     "date": "date",
     "title": "text",
     "excalidraw-export-embed-scene": "checkbox",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "excalidraw-embeddable-theme": "text"
   }
 }

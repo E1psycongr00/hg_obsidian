@@ -2,11 +2,12 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 5
+    "patch": 7
   },
   "disablePluginStyles": false,
   "showBlockquoteMarkers": false,
   "showCodeblockWhitespace": true,
   "showAllWhitespace": false,
-  "outlineListMarkers": false
+  "outlineListMarkers": false,
+  "enabled": true
 }

@@ -5,6 +5,18 @@
       "path": "연습노트/PARA 메모.md"
     },
     {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Styled-Bert-VITS2",
+      "path": "연습노트/Styled-Bert-VITS2.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
@@ -19,18 +31,6 @@
     {
       "basename": "Prompting Github Copilot",
       "path": "연습노트/Prompting Github Copilot.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Styled-Bert-VITS2",
-      "path": "연습노트/Styled-Bert-VITS2.md"
     },
     {
       "basename": "153. Find Minimum in Rotated Sorted Array",

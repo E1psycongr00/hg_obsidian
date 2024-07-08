@@ -14,8 +14,8 @@ title: PARA 메모
 
 ### PARA란 무엇인가?
 
-https://www.youtube.com/watch?v=lkRQuMIbFYc&t=329s
 
+- [00:02](https://www.youtube.com/watch?v=lkRQuMIbFYc&t=2#t=2.24) 
 
 ## 질문 & 확장
 

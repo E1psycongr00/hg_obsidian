@@ -4,50 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe26309ce5544ad5",
+        "id": "f772f4ff898c5aee",
         "type": "tabs",
         "children": [
           {
-            "id": "e2449276335efecc",
+            "id": "96463634b4d441c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/JacksonModule & Std(De)Serializer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d984387097ef4d93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/PARA 메모.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d0a30cf0f6138c1e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4639c040647ba8cb",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=lkRQuMIbFYc"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -275,21 +240,24 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4639c040647ba8cb",
+  "active": "d4d5b1da2fa85337",
   "lastOpenFiles": [
     "Media Note - 노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARA.md",
+    "연습노트/PARA 메모.md",
+    "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
+    "attachments/screenshot/Pasted image 20240708134144.png",
+    "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT2.24S.webp",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Styled-Bert-VITS2.md",
+    "연습노트/Spring에서 예외 처리 과정.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT3M28.71S.webp",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT1M11.309S.webp",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT1M9.775S.webp",
-    "연습노트/PARA 메모.md",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT36.301S.webp",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/Prompting Github Copilot.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Styled-Bert-VITS2.md",
     "영구노트/153. Find Minimum in Rotated Sorted Array.md",
     "attachments/images/rotated Sorted Array.png",
     "영구노트/일반적인 ParametricSearch 만들기(통합).md",
@@ -302,8 +270,6 @@
     "Excalidraw/Search Insert Posigion 최대값(draw).md",
     "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
     "Excalidraw/Search Insert Posigion 최대값(draw).svg",
-    "attachments/screenshot/Pasted image 20231001204409.png",
-    "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif",
     "attachments/images",
     "Excalidraw/lower_bound와 Parametric Search 예제(draw).md",
     "영구노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
@@ -312,7 +278,6 @@
     "영구노트/프로세스 & 스레드 정의.md",
     "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
     "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md",
-    "attachments/screenshot/Pasted image 20240619181910.png",
     "index.canvas",
     "Resources/IT/javascript/React",
     "attachments/gif",
