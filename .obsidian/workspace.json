@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f772f4ff898c5aee",
+        "id": "66f6e49c6ca1a531",
         "type": "tabs",
         "children": [
           {
-            "id": "96463634b4d441c8",
+            "id": "2cccfa64e3667f01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/노트 체계화의 중요성 PARA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,12 +70,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -96,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/노트 체계화의 중요성 PARA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/노트 체계화의 중요성 PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/노트 체계화의 중요성 PARA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "연습노트/노트 체계화의 중요성 PARA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/노트 체계화의 중요성 PARA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -253,10 +240,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "96463634b4d441c8",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "Resources/IT/운영체제/프로세스.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "Resources/IT/운영체제/동기 IO Models.md",
+    "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md",
+    "영구노트/노트 체계화의 중요성 PARA.md",
+    "attachments/screenshot/Pasted image 20240708150200.png",
     "Media Note - 노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARA.md",
-    "연습노트/노트 체계화의 중요성 PARA.md",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "attachments/screenshot/Pasted image 20240708134144.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT2.24S.webp",
@@ -282,15 +274,11 @@
     "영구노트/lower bound.md",
     "Excalidraw/Search Insert Posigion 최대값(draw).md",
     "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md",
-    "Excalidraw/Search Insert Posigion 최대값(draw).svg",
     "attachments/images",
     "Excalidraw/lower_bound와 Parametric Search 예제(draw).md",
     "영구노트/쓰레드를 많이 쓰면 성능이 높아지는가.md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
-    "Resources/IT/운영체제/프로세스.md",
     "영구노트/프로세스 & 스레드 정의.md",
-    "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
-    "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md",
     "index.canvas",
     "Resources/IT/javascript/React",
     "attachments/gif",

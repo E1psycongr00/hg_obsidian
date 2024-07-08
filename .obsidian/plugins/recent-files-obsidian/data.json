@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "프로세스",
+      "path": "Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md"
+    },
+    {
       "basename": "노트 체계화의 중요성 PARA",
-      "path": "연습노트/노트 체계화의 중요성 PARA.md"
+      "path": "영구노트/노트 체계화의 중요성 PARA.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
@@ -83,18 +99,6 @@
     {
       "basename": "ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26",
       "path": "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif"
-    },
-    {
-      "basename": "lower_bound와 Parametric Search 예제(draw)",
-      "path": "Excalidraw/lower_bound와 Parametric Search 예제(draw).md"
-    },
-    {
-      "basename": "쓰레드를 많이 쓰면 성능이 높아지는가",
-      "path": "영구노트/쓰레드를 많이 쓰면 성능이 높아지는가.md"
-    },
-    {
-      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
-      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
     }
   ],
   "omittedPaths": [],
