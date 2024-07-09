@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "알고리즘",
+      "path": "Resources/IT/알고리즘.md"
+    },
+    {
+      "basename": "Gradle 공부",
+      "path": "Resources/IT/Gradle 공부.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "js tutorial",
+      "path": "Resources/IT/javascript/js tutorial.md"
+    },
+    {
+      "basename": "React 상태 관리하기",
+      "path": "Resources/IT/javascript/React/React 상태 관리하기.md"
+    },
+    {
       "basename": "프로세스",
       "path": "Resources/IT/운영체제/프로세스.md"
     },
@@ -13,28 +33,24 @@
       "path": "Resources/IT/운영체제/동기 IO Models.md"
     },
     {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md"
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
-      "basename": "노트 체계화의 중요성 PARA",
-      "path": "영구노트/노트 체계화의 중요성 PARA.md"
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
-      "basename": "Styled-Bert-VITS2",
-      "path": "연습노트/Styled-Bert-VITS2.md"
-    },
-    {
       "basename": "Spring에서 예외 처리 과정",
       "path": "연습노트/Spring에서 예외 처리 과정.md"
     },
     {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+      "basename": "Styled-Bert-VITS2",
+      "path": "연습노트/Styled-Bert-VITS2.md"
     },
     {
       "basename": "전기 쌍극자",
@@ -45,8 +61,12 @@
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     },
     {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md"
+    },
+    {
+      "basename": "노트 체계화의 중요성 PARA",
+      "path": "영구노트/노트 체계화의 중요성 PARA.md"
     },
     {
       "basename": "153. Find Minimum in Rotated Sorted Array",
@@ -79,26 +99,6 @@
     {
       "basename": "Parametric Search 조건을 만족하는 최소값",
       "path": "영구노트/Parametric Search 조건을 만족하는 최소값.md"
-    },
-    {
-      "basename": "lower bound",
-      "path": "영구노트/lower bound.md"
-    },
-    {
-      "basename": "Search Insert Posigion 최대값(draw)",
-      "path": "Excalidraw/Search Insert Posigion 최대값(draw).md"
-    },
-    {
-      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
-      "path": "영구노트/매개변수 탐색 최소 & 최대 해 구하기.md"
-    },
-    {
-      "basename": "Pasted image 20231001204409",
-      "path": "attachments/screenshot/Pasted image 20231001204409.png"
-    },
-    {
-      "basename": "ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26",
-      "path": "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif"
     }
   ],
   "omittedPaths": [],
