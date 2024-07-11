@@ -55,9 +55,12 @@ public static long parametricSearchMax(long lo, long hi, LongPredicate condition
 
 
 특정 경계를 기준으로 최대를 구한다는 것은 어떤 의미일까? 
-위 그림을 살펴보면 True 영역은 Condition이 True일 때 영역으로 조건에 만족하는 최대 해를 구하기 위해서는 경계에 최대한 가까워지는 것이다. 그렇기 떄문에 대부분의 조건은 다음과 같다.
+오름차순의 데이터의 경우 
 
 `x < target` 또는 `x <= target`
+
+일 때 우리가 원하는 경계의 최대값을 구할 수 있다.
+예를 들어 x < 5인 경우 target 5에 최대한 가까운 지점까지의 최대 인덱스(해)를 구할 수 있다.
 
 >[!tip]
 >Condition을 잡는 기준은 우리가 목표로 하는 경계가 상한이 되도록 정하는 것이다. 그러면 해당 조건에 부합하는 최대 해를 구할 수 있다.

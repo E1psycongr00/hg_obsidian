@@ -124,14 +124,6 @@ function lowerbound(nums, lo, hi, target) {
 
 
 ## 연결 노트
+
 - [[이분 탐색]]
 - [[upper bound]]
-
-
-
-
-
-
-
-
-

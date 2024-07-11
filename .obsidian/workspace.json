@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "66f6e49c6ca1a531",
+        "id": "e761011b577d9616",
         "type": "tabs",
         "children": [
           {
-            "id": "2cccfa64e3667f01",
+            "id": "15aebc51388f46a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/IT/알고리즘.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/알고리즘.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Resources/IT/알고리즘.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/IT/알고리즘.md"
-              }
+              "state": {}
             }
           },
           {
@@ -252,10 +240,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2cccfa64e3667f01",
+  "active": "15aebc51388f46a6",
   "lastOpenFiles": [
-    "Resources/IT/Gradle 공부.md",
+    "영구노트/lower bound.md",
+    "영구노트/Parametric Search 조건을 만족하는 최소값.md",
+    "영구노트/Parametric Search 조건을 만족하는 최대값.md",
     "Resources/IT/알고리즘.md",
+    "Resources/IT/Gradle 공부.md",
     "Resources/IT/부하 테스트.md",
     "Resources/IT/javascript/js tutorial.md",
     "Resources/IT/javascript/React/React 상태 관리하기.md",
@@ -283,12 +274,9 @@
     "영구노트/153. Find Minimum in Rotated Sorted Array.md",
     "attachments/images/rotated Sorted Array.png",
     "영구노트/일반적인 ParametricSearch 만들기(통합).md",
-    "영구노트/Parametric Search 조건을 만족하는 최대값.md",
     "영구노트/이분 탐색.md",
     "attachments/images/search_insert_position_2d_graph.png",
     "영구노트/35. Search Insert Position.md",
-    "영구노트/Parametric Search 조건을 만족하는 최소값.md",
-    "영구노트/lower bound.md",
     "Excalidraw/Search Insert Posigion 최대값(draw).md",
     "attachments/images",
     "index.canvas",
