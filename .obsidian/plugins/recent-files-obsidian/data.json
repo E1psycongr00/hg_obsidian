@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "Styled-Bert-VITS2",
+      "path": "연습노트/Styled-Bert-VITS2.md"
+    },
+    {
+      "basename": "upper bound",
+      "path": "영구노트/upper bound.md"
+    },
+    {
+      "basename": "일반적인 ParametricSearch 만들기(통합)",
+      "path": "영구노트/일반적인 ParametricSearch 만들기(통합).md"
+    },
+    {
       "basename": "lower bound",
       "path": "영구노트/lower bound.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "Resources/IT/운영체제/동기화 모음.md"
     },
     {
       "basename": "Parametric Search 조건을 만족하는 최소값",
@@ -37,42 +81,6 @@
       "path": "Resources/IT/운영체제/프로세스.md"
     },
     {
-      "basename": "동기화 모음",
-      "path": "Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "동기 IO Models",
-      "path": "Resources/IT/운영체제/동기 IO Models.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Styled-Bert-VITS2",
-      "path": "연습노트/Styled-Bert-VITS2.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
       "basename": "정적 블로그 사이트 프로젝트",
       "path": "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md"
     },
@@ -89,16 +97,8 @@
       "path": "attachments/images/rotated Sorted Array.png"
     },
     {
-      "basename": "일반적인 ParametricSearch 만들기(통합)",
-      "path": "영구노트/일반적인 ParametricSearch 만들기(통합).md"
-    },
-    {
       "basename": "이분 탐색",
       "path": "영구노트/이분 탐색.md"
-    },
-    {
-      "basename": "search_insert_position_2d_graph",
-      "path": "attachments/images/search_insert_position_2d_graph.png"
     }
   ],
   "omittedPaths": [],
