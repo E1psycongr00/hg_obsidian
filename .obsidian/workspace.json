@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Styled-Bert-VITS2.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Styled-Bert-VITS2.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Styled-Bert-VITS2.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Styled-Bert-VITS2.md",
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Styled-Bert-VITS2.md"
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Styled-Bert-VITS2.md"
+                "file": "연습노트/Spring Rest Docs with Kotlin DSL.md"
               }
             }
           },
@@ -254,11 +254,11 @@
   },
   "active": "2d0f700ca97327d7",
   "lastOpenFiles": [
+    "연습노트/Styled-Bert-VITS2.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/Styled-Bert-VITS2.md",
     "연습노트/Prompting Github Copilot.md",
     "연습노트/전기 쌍극자.md",
     "영구노트/upper bound.md",
