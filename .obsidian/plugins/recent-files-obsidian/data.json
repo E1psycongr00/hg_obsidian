@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 공부",
+      "path": "Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "Resources/IT/java/Java Annotation.md"
+    },
+    {
+      "basename": "Spring JDBC",
+      "path": "Resources/IT/java/Spring JDBC.md"
+    },
+    {
+      "basename": "java 배열 사용법",
+      "path": "Resources/IT/java/java 배열 사용법.md"
+    },
+    {
+      "basename": "Spring Bean Validation 총정리",
+      "path": "Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "표준 Java Error",
+      "path": "Resources/IT/java/표준 Java Error.md"
+    },
+    {
+      "basename": "경계 다루기",
+      "path": "영구노트/경계 다루기.md"
+    },
+    {
+      "basename": "객체 분해 할당",
+      "path": "영구노트/객체 분해 할당.md"
+    },
+    {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
@@ -67,38 +99,6 @@
     {
       "basename": "부하 테스트",
       "path": "Resources/IT/부하 테스트.md"
-    },
-    {
-      "basename": "js tutorial",
-      "path": "Resources/IT/javascript/js tutorial.md"
-    },
-    {
-      "basename": "React 상태 관리하기",
-      "path": "Resources/IT/javascript/React/React 상태 관리하기.md"
-    },
-    {
-      "basename": "프로세스",
-      "path": "Resources/IT/운영체제/프로세스.md"
-    },
-    {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "Resources/IT/프로젝트/정적 블로그 사이트 프로젝트.md"
-    },
-    {
-      "basename": "노트 체계화의 중요성 PARA",
-      "path": "영구노트/노트 체계화의 중요성 PARA.md"
-    },
-    {
-      "basename": "153. Find Minimum in Rotated Sorted Array",
-      "path": "영구노트/153. Find Minimum in Rotated Sorted Array.md"
-    },
-    {
-      "basename": "rotated Sorted Array",
-      "path": "attachments/images/rotated Sorted Array.png"
-    },
-    {
-      "basename": "이분 탐색",
-      "path": "영구노트/이분 탐색.md"
     }
   ],
   "omittedPaths": [],
