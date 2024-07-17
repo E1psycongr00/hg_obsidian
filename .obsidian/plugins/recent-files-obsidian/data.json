@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "겐지",
+      "path": "Resources/게임/Overwatch/겐지.md"
+    },
+    {
       "basename": "Java 공부",
       "path": "Resources/IT/java/Java 공부.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Gradle 공부",
       "path": "Resources/IT/Gradle 공부.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "Resources/IT/부하 테스트.md"
     }
   ],
   "omittedPaths": [],

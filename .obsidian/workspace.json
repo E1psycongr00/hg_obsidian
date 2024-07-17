@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/IT/java/Java 공부.md",
+                "file": "Resources/게임/Overwatch/겐지.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/java/Java 공부.md",
+                "file": "Resources/게임/Overwatch/겐지.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/java/Java 공부.md",
+                "file": "Resources/게임/Overwatch/겐지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/java/Java 공부.md",
+                "file": "Resources/게임/Overwatch/겐지.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/IT/java/Java 공부.md"
+                "file": "Resources/게임/Overwatch/겐지.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/java/Java 공부.md"
+                "file": "Resources/게임/Overwatch/겐지.md"
               }
             }
           },
@@ -252,13 +252,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2d0f700ca97327d7",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "Resources/게임/무제 폴더 1",
+    "Resources/게임/Overwatch",
+    "Resources/IT/java/Java 공부.md",
+    "Resources/게임/Overwatch/겐지.md",
+    "Resources/게임",
     "Resources/IT/java/Java Annotation.md",
     "Resources/IT/java/Spring JDBC.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "Resources/IT/java/Java 공부.md",
     "Resources/IT/java/표준 Java Error.md",
     "영구노트/경계 다루기.md",
     "영구노트/객체 분해 할당.md",
@@ -278,8 +282,6 @@
     "영구노트/Parametric Search 조건을 만족하는 최대값.md",
     "Resources/IT/알고리즘.md",
     "Resources/IT/Gradle 공부.md",
-    "Resources/IT/부하 테스트.md",
-    "Resources/IT/javascript/js tutorial.md",
     "attachments/screenshot/Pasted image 20240708150200.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "attachments/screenshot/Pasted image 20240708134144.png",
@@ -303,8 +305,6 @@
     "Resources/IT/운영체제/동기화 모음.canvas",
     "Resources/명언/명언 모음.canvas",
     "Resources/IT/운영체제",
-    "Excalidraw/libraries/computer-parts.excalidrawlib",
-    "나의 마일스톤/2024년",
     "Java 공부.canvas",
     "Java 에 대하여.canvas"
   ]
