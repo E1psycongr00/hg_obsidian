@@ -11,8 +11,13 @@
             "id": "2ba50a0072a4719c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "데드풀 감상.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "데드풀 감상.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "데드풀 감상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "데드풀 감상.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "데드풀 감상.md"
+              }
             }
           },
           {
@@ -204,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "데드풀 감상.md"
+              }
             }
           },
           {
@@ -242,6 +255,7 @@
   },
   "active": "2ba50a0072a4719c",
   "lastOpenFiles": [
+    "데드풀 감상.md",
     "Resources/게임/Overwatch/겐지.md",
     "Resources/게임/무제 폴더 1",
     "Resources/게임/Overwatch",

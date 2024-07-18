@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "데드풀 감상",
+      "path": "데드풀 감상.md"
+    },
+    {
       "basename": "겐지",
       "path": "Resources/게임/Overwatch/겐지.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "알고리즘",
       "path": "Resources/IT/알고리즘.md"
-    },
-    {
-      "basename": "Gradle 공부",
-      "path": "Resources/IT/Gradle 공부.md"
     }
   ],
   "omittedPaths": [],
