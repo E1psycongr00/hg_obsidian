@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데드풀 감상.md",
+                "file": "데드풀 감상문.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데드풀 감상.md",
+                "file": "데드풀 감상문.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데드풀 감상.md",
+                "file": "데드풀 감상문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데드풀 감상.md",
+                "file": "데드풀 감상문.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "데드풀 감상.md"
+                "file": "데드풀 감상문.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데드풀 감상.md"
+                "file": "데드풀 감상문.md"
               }
             }
           },
@@ -255,7 +255,7 @@
   },
   "active": "2ba50a0072a4719c",
   "lastOpenFiles": [
-    "데드풀 감상.md",
+    "데드풀 감상문.md",
     "Resources/게임/Overwatch/겐지.md",
     "Resources/게임/무제 폴더 1",
     "Resources/게임/Overwatch",
