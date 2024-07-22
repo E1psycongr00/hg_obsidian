@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59a19f0b2783d9f8",
+        "id": "b5b5f7fca4568fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "2ba50a0072a4719c",
+            "id": "1d6c3140bfdc4e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데드풀 감상문.md",
+                "file": "연습노트/자바 깊은 복사.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데드풀 감상문.md",
+                "file": "연습노트/자바 깊은 복사.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데드풀 감상문.md",
+                "file": "연습노트/자바 깊은 복사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "데드풀 감상문.md",
+                "file": "연습노트/자바 깊은 복사.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "데드풀 감상문.md"
+                "file": "연습노트/자바 깊은 복사.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데드풀 감상문.md"
+                "file": "연습노트/자바 깊은 복사.md"
               }
             }
           },
@@ -253,19 +252,26 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2ba50a0072a4719c",
+  "active": "1d6c3140bfdc4e5d",
   "lastOpenFiles": [
+    "연습노트/자바 깊은 복사.md",
+    "Resources/IT/java/Java 공부.md",
+    "Resources/IT/java/java 배열 사용법.md",
+    "영구노트/배열 초기화.md",
+    "영구노트/Java 배열 정의.md",
+    "Resources/IT/java/표준 Java Error.md",
+    "Resources/IT/java/Java Annotation.md",
+    "Resources/IT/java/Spring JDBC.md",
+    "Resources/IT/java/Spring Bean Validation 총정리.md",
+    "Resources/IT/운영체제/프로세스.md",
+    "Resources/IT/운영체제/동기화 모음.md",
+    "Resources/IT/운영체제/동기 IO Models.md",
+    "Resources/전기기사/전자기학/전자기학.md",
     "데드풀 감상문.md",
     "Resources/게임/Overwatch/겐지.md",
     "Resources/게임/무제 폴더 1",
     "Resources/게임/Overwatch",
-    "Resources/IT/java/Java 공부.md",
     "Resources/게임",
-    "Resources/IT/java/Java Annotation.md",
-    "Resources/IT/java/Spring JDBC.md",
-    "Resources/IT/java/java 배열 사용법.md",
-    "Resources/IT/java/Spring Bean Validation 총정리.md",
-    "Resources/IT/java/표준 Java Error.md",
     "영구노트/경계 다루기.md",
     "영구노트/객체 분해 할당.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
@@ -277,13 +283,6 @@
     "연습노트/전기 쌍극자.md",
     "영구노트/upper bound.md",
     "영구노트/일반적인 ParametricSearch 만들기(통합).md",
-    "영구노트/lower bound.md",
-    "Resources/IT/운영체제/동기 IO Models.md",
-    "Resources/IT/운영체제/동기화 모음.md",
-    "영구노트/Parametric Search 조건을 만족하는 최소값.md",
-    "영구노트/Parametric Search 조건을 만족하는 최대값.md",
-    "Resources/IT/알고리즘.md",
-    "Resources/IT/Gradle 공부.md",
     "attachments/screenshot/Pasted image 20240708150200.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "attachments/screenshot/Pasted image 20240708134144.png",
