@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "엘리멘탈 감상문",
+      "path": "엘리멘탈 감상문.md"
+    },
+    {
       "basename": "java 배열 사용법",
       "path": "Resources/IT/java/java 배열 사용법.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "upper bound",
-      "path": "영구노트/upper bound.md"
     }
   ],
   "omittedPaths": [],

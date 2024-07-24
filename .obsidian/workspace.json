@@ -14,13 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "Resources/IT/java/java 배열 사용법.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad1d8f1649a84f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "엘리멘탈 감상문.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md",
+                "file": "엘리멘탈 감상문.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md",
+                "file": "엘리멘탈 감상문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md",
+                "file": "엘리멘탈 감상문.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md"
+                "file": "엘리멘탈 감상문.md"
               }
             }
           },
@@ -215,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/IT/java/java 배열 사용법.md"
+                "file": "엘리멘탈 감상문.md"
               }
             }
           },
@@ -252,12 +266,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "1d6c3140bfdc4e5d",
+  "active": "ad1d8f1649a84f2f",
   "lastOpenFiles": [
+    "Resources/IT/java/java 배열 사용법.md",
+    "엘리멘탈 감상문.md",
     "Resources/IT/java/Spring JDBC.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
     "Resources/IT/java/Java Annotation.md",
-    "Resources/IT/java/java 배열 사용법.md",
     "연습노트/자바 깊은 복사.md",
     "Resources/IT/java/Java 공부.md",
     "영구노트/배열 초기화.md",
@@ -282,7 +297,6 @@
     "연습노트/Prompting Github Copilot.md",
     "연습노트/전기 쌍극자.md",
     "영구노트/upper bound.md",
-    "영구노트/일반적인 ParametricSearch 만들기(통합).md",
     "attachments/screenshot/Pasted image 20240708150200.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "attachments/screenshot/Pasted image 20240708134144.png",
