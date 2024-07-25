@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
       "basename": "엘리멘탈 감상문",
       "path": "엘리멘탈 감상문.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Prompting Github Copilot",
       "path": "연습노트/Prompting Github Copilot.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
     }
   ],
   "omittedPaths": [],
