@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "블랙 위도우",
+      "path": "블랙 위도우.md"
+    },
+    {
+      "basename": "데드풀 감상문",
+      "path": "데드풀 감상문.md"
+    },
+    {
       "basename": "스즈메의 문단속",
       "path": "스즈메의 문단속.md"
     },
@@ -61,10 +69,6 @@
       "path": "Resources/전기기사/전자기학/전자기학.md"
     },
     {
-      "basename": "데드풀 감상문",
-      "path": "데드풀 감상문.md"
-    },
-    {
       "basename": "겐지",
       "path": "Resources/게임/Overwatch/겐지.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Spring에서 예외 처리 과정",
       "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
     }
   ],
   "omittedPaths": [],
