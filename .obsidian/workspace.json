@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스즈메의 문단속.md",
+                "file": "블랙 위도우.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스즈메의 문단속.md",
+                "file": "블랙 위도우.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스즈메의 문단속.md",
+                "file": "블랙 위도우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "스즈메의 문단속.md",
+                "file": "블랙 위도우.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "스즈메의 문단속.md"
+                "file": "블랙 위도우.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스즈메의 문단속.md"
+                "file": "블랙 위도우.md"
               }
             }
           },
@@ -268,8 +268,8 @@
   },
   "active": "ce5ca69176edf45e",
   "lastOpenFiles": [
-    "블랙 위도우.md",
     "스즈메의 문단속.md",
+    "블랙 위도우.md",
     "엘리멘탈 감상문.md",
     "데드풀 감상문.md",
     "Resources/IT/java/java 배열 사용법.md",
