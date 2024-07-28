@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b5f7fca4568fd8",
+        "id": "8059b8b0133d4463",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d2dddca788ef61",
+            "id": "fc3d3287163aa0ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "스즈메의 문단속.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce5ca69176edf45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "블랙 위도우.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "블랙 위도우.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "블랙 위도우.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +117,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "블랙 위도우.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "블랙 위도우.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "블랙 위도우.md"
-              }
+              "state": {}
             }
           },
           {
@@ -266,7 +240,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ce5ca69176edf45e",
+  "active": "fc3d3287163aa0ee",
   "lastOpenFiles": [
     "스즈메의 문단속.md",
     "블랙 위도우.md",
