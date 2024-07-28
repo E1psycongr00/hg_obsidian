@@ -11,8 +11,13 @@
             "id": "fc3d3287163aa0ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "데드풀 감상문.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "데드풀 감상문.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "데드풀 감상문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,6 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "데드풀 감상문.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "데드풀 감상문.md"
+              }
             }
           },
           {
@@ -204,7 +214,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "데드풀 감상문.md"
+              }
             }
           },
           {
@@ -243,8 +255,8 @@
   "active": "fc3d3287163aa0ee",
   "lastOpenFiles": [
     "스즈메의 문단속.md",
-    "블랙 위도우.md",
     "엘리멘탈 감상문.md",
+    "블랙 위도우.md",
     "데드풀 감상문.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Spring JDBC.md",
