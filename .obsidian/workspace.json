@@ -13,14 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "file": "영구노트/OS 쓰레드.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b92f95c5b143f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "smart-chats/UNTITLED CHAT 2024-07-30 16 54 59.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ad6495d6190b510",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-visualizer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b40c6cac49c50958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/프로세스 & 스레드 정의.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,6 +111,22 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "e606a396f3d2eaa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be71bc475c585a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "영구노트/프로세스 & 스레드 정의.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "file": "영구노트/프로세스 & 스레드 정의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "file": "영구노트/프로세스 & 스레드 정의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "file": "영구노트/프로세스 & 스레드 정의.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -170,7 +221,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+                "file": "영구노트/프로세스 & 스레드 정의.md"
               }
             }
           },
@@ -201,38 +252,29 @@
               "type": "timeline",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ade53ac82dc849c4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4be71bc475c585a0",
+            "id": "574148386374fdb8",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
-              }
+              "type": "smart-connections-view",
+              "state": {}
             }
           },
           {
-            "id": "64cffe7713775119",
+            "id": "6697ad259bbc65d5",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 493,
-    "collapsed": true
+    "width": 493
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,17 +291,33 @@
       "3d-graph:3D Graph": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Timeline": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "de9a10d0bc9cd49b",
+  "active": "b40c6cac49c50958",
   "lastOpenFiles": [
-    "영구노트/프로세스 & 스레드 메모리 구조.md",
-    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
-    "데드풀 감상문.md",
+    "영구노트/프로세스의 한계 및 쓰레드 등장.md",
+    "smart-chats/UNTITLED CHAT 2024-07-30 16 54 59.md",
     "스즈메의 문단속.md",
-    "엘리멘탈 감상문.md",
+    "연습노트/전기 쌍극자.md",
+    "Excalidraw/2차원 배열 점화식(draw).svg",
+    "Excalidraw/2차원 배열 점화식(draw).md",
     "블랙 위도우.md",
+    "데드풀 감상문.md",
+    "엘리멘탈 감상문.md",
+    "데일리/2023-12-31.md",
+    "데일리/2024-01-01.md",
+    "데일리/2023-12-17.md",
+    "영구노트/프로세스 & 스레드 메모리 구조.md",
+    "영구노트/유저 쓰레드.md",
+    "영구노트/OS 쓰레드.md",
+    "smart-chats",
+    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+    "영구노트/Kernel.md",
+    "영구노트/Non-Blocking IO.md",
     "Resources/IT/java/java 배열 사용법.md",
     "Resources/IT/java/Spring JDBC.md",
     "Resources/IT/java/Spring Bean Validation 총정리.md",
@@ -269,20 +327,9 @@
     "영구노트/배열 초기화.md",
     "영구노트/Java 배열 정의.md",
     "Resources/IT/java/표준 Java Error.md",
-    "Resources/IT/운영체제/프로세스.md",
-    "Resources/IT/운영체제/동기화 모음.md",
-    "Resources/IT/운영체제/동기 IO Models.md",
-    "Resources/전기기사/전자기학/전자기학.md",
-    "Resources/게임/Overwatch/겐지.md",
     "Resources/게임/무제 폴더 1",
     "Resources/게임/Overwatch",
     "Resources/게임",
-    "영구노트/경계 다루기.md",
-    "영구노트/객체 분해 할당.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Styled-Bert-VITS2.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "attachments/screenshot/Pasted image 20240708150200.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "attachments/screenshot/Pasted image 20240708134144.png",
@@ -292,7 +339,6 @@
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT1M9.775S.webp",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT36.301S.webp",
     "attachments/images/rotated Sorted Array.png",
-    "attachments/images/search_insert_position_2d_graph.png",
     "attachments/images",
     "index.canvas",
     "Resources/IT/javascript/React",
@@ -300,7 +346,6 @@
     "Resources/IT/프로젝트",
     "Resources/IT/javascript",
     "Resources/전기기사/전자기학",
-    "Resources/전기기사",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",

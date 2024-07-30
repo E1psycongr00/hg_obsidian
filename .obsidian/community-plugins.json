@@ -6,7 +6,6 @@
   "obsidian-style-settings",
   "oz-clear-unused-images",
   "obsidian-excalidraw-plugin",
-  "graph-analysis",
   "dataview",
   "3d-graph",
   "calendar",
@@ -21,5 +20,7 @@
   "obsidian-vault-statistics-plugin",
   "graph-link-types",
   "show-whitespace-cm6",
-  "media-extended"
+  "media-extended",
+  "smart-connections",
+  "smart-connections-visualizer"
 ]
