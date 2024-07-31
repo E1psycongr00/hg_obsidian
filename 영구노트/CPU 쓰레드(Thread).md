@@ -74,12 +74,3 @@ date: 2024-01-13
 - https://www.intel.co.kr/content/www/kr/ko/gaming/resources/hyper-threading.html
 ## 연결 노트
 
-
-
-
-
-
-
-
-
-

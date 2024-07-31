@@ -42,15 +42,8 @@ date: 2024-01-21
 - [[ Linux Kernel ] 12. Kernel Thread(커널 스레드) (tistory.com)](https://coder-in-war.tistory.com/entry/Embedded-19-Linux-Kernel-Kernel-Thread%EC%BB%A4%EB%84%90-%EC%8A%A4%EB%A0%88%EB%93%9C)
 
 ## 연결 노트
-- [[유저 쓰레드|User Level Thread]]
+
+- [[유저 쓰레드]]
+- [[Kernel Level Thread vs User Level Thread]]
 - [[인터럽트와 시스템 콜 동작 과정]]
 - [[Process와 컨텍스트 스위칭|Process Context Switching]]
-
-
-
-
-
-
-
-
-
