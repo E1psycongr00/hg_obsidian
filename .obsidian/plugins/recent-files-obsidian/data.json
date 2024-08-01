@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "겐지",
+      "path": "Resources/게임/Overwatch/겐지.md"
+    },
+    {
       "basename": "CPU 쓰레드(Thread)",
       "path": "영구노트/CPU 쓰레드(Thread).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Non-Blocking IO",
       "path": "영구노트/Non-Blocking IO.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "Resources/IT/java/java 배열 사용법.md"
     }
   ],
   "omittedPaths": [],
