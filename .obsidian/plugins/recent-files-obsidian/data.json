@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Locust 소개",
+      "path": "영구노트/Locust 소개.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "Resources/IT/부하 테스트.md"
+    },
+    {
       "basename": "겐지",
       "path": "Resources/게임/Overwatch/겐지.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "2023-12-17",
       "path": "데일리/2023-12-17.md"
-    },
-    {
-      "basename": "프로세스 & 스레드 메모리 구조",
-      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
-    },
-    {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
     }
   ],
   "omittedPaths": [],
