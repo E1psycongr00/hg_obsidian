@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "38dd62da6d138601",
@@ -211,14 +211,6 @@
             }
           },
           {
-            "id": "6e68cd594ada9a23",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "574148386374fdb8",
             "type": "leaf",
             "state": {
@@ -233,9 +225,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "2a3d3ba1ad2f28ad",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -253,15 +253,15 @@
       "zk-prefixer:새로운 유니크 노트 생성": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "3d-graph:3D Graph": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "3d-graph:3D Graph": false,
       "obsidian-day-planner:Timeline": false,
       "media-extended:Open media": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "de9a10d0bc9cd49b",
+  "active": "d4d5b1da2fa85337",
   "lastOpenFiles": [
     "Resources/IT/부하 테스트.md",
     "Resources/게임/Overwatch/겐지.md",
