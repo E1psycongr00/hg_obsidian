@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/Projects란.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "오버워치",
+                "query": "typescript",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "38dd62da6d138601",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/Projects란.md"
+                "file": "영구노트/esbuild 사용해보기.md"
               }
             }
           }
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Projects/Projects란.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Projects/Projects란.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1.Projects/Projects란.md",
+                "file": "영구노트/esbuild 사용해보기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.Projects/Projects란.md"
+                "file": "영구노트/esbuild 사용해보기.md"
               }
             }
           },
@@ -289,10 +288,10 @@
   },
   "active": "de9a10d0bc9cd49b",
   "lastOpenFiles": [
+    "1.Projects/Projects란.md",
     "templates/프로젝트 템플릿.md",
     "templates/참조 노트 템플릿.md",
     "1.Projects/개인 프로젝트",
-    "1.Projects/Projects란.md",
     "4.Archive/Archive란.md",
     "데일리/Invalid date.md",
     "templates/인물 소개 템플릿.md",
