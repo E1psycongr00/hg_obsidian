@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/esbuild 사용해보기.md",
+                "file": "영구노트/프로세스 & 스레드 메모리 구조.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typescript",
+                "query": "inter process communication",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/esbuild 사용해보기.md"
+                "file": "영구노트/프로세스 & 스레드 메모리 구조.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/esbuild 사용해보기.md",
+                "file": "영구노트/프로세스 & 스레드 메모리 구조.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/esbuild 사용해보기.md",
+                "file": "영구노트/프로세스 & 스레드 메모리 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/esbuild 사용해보기.md",
+                "file": "영구노트/프로세스 & 스레드 메모리 구조.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/esbuild 사용해보기.md"
+                "file": "영구노트/프로세스 & 스레드 메모리 구조.md"
               }
             }
           },
@@ -288,6 +288,7 @@
   },
   "active": "de9a10d0bc9cd49b",
   "lastOpenFiles": [
+    "영구노트/esbuild 사용해보기.md",
     "1.Projects/Projects란.md",
     "templates/프로젝트 템플릿.md",
     "templates/참조 노트 템플릿.md",
