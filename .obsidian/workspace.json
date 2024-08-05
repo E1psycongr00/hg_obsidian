@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "1.Projects/Projects란.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e565833a2a7d2f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Projects/Projects란.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53857d7a8102a030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Resources/Resource란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "38dd62da6d138601",
@@ -87,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Locust 소개.md"
+                "file": "1.Projects/Projects란.md"
               }
             }
           }
@@ -111,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "1.Projects/Projects란.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "1.Projects/Projects란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Locust 소개.md",
+                "file": "1.Projects/Projects란.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +212,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Locust 소개.md"
+                "file": "1.Projects/Projects란.md"
               }
             }
           },
@@ -235,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -261,39 +287,42 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d4d5b1da2fa85337",
+  "active": "de9a10d0bc9cd49b",
   "lastOpenFiles": [
-    "Resources/IT/부하 테스트.md",
-    "Resources/게임/Overwatch/겐지.md",
-    "영구노트/CPU 쓰레드(Thread).md",
-    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
-    "영구노트/OS 쓰레드.md",
-    "영구노트/Kernel.md",
-    "영구노트/Java Thread Pool.md",
-    "영구노트/유저 쓰레드.md",
-    "smart-chats/UNTITLED CHAT 2024-07-30 16 54 59.md",
-    "영구노트/CPU 클럭 속도.md",
-    "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
-    "영구노트/CPU 코어.md",
-    "영구노트/프로세스 & 스레드 정의.md",
-    "smart-chats/UNTITLED CHAT 2024-07-30 17 09 37.md",
-    "영구노트/프로세스의 한계 및 쓰레드 등장.md",
-    "스즈메의 문단속.md",
-    "연습노트/전기 쌍극자.md",
-    "Excalidraw/2차원 배열 점화식(draw).svg",
-    "Excalidraw/2차원 배열 점화식(draw).md",
+    "templates/프로젝트 템플릿.md",
+    "templates/참조 노트 템플릿.md",
+    "1.Projects/개인 프로젝트",
+    "1.Projects/Projects란.md",
+    "4.Archive/Archive란.md",
+    "데일리/Invalid date.md",
+    "templates/인물 소개 템플릿.md",
+    "templates/일정 템플릿.md",
+    "templates/솔루션 템플릿.md",
+    "templates/영상 참조 템플릿.md",
+    "2.Area/Area란.md",
+    "3.Resources/Resource란.md",
+    "3.Resources/IT/부하 테스트.md",
+    "무제 파일.md",
     "블랙 위도우.md",
     "데드풀 감상문.md",
-    "엘리멘탈 감상문.md",
-    "데일리/2023-12-31.md",
-    "데일리/2024-01-01.md",
-    "데일리/2023-12-17.md",
-    "영구노트/프로세스 & 스레드 메모리 구조.md",
+    "README.md",
+    "4.Archive",
+    "2.Area",
+    "1.Projects",
+    "3.Resources/게임/Overwatch/겐지.md",
+    "영구노트/Kernel.md",
+    "영구노트/CPU 클럭 속도.md",
+    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+    "영구노트/유저 쓰레드.md",
+    "영구노트/Locust 소개.md",
+    "영구노트/CPU 쓰레드(Thread).md",
+    "영구노트/OS 쓰레드.md",
+    "영구노트/Java Thread Pool.md",
+    "Excalidraw/2차원 배열 점화식(draw).svg",
     "smart-chats",
-    "영구노트/Non-Blocking IO.md",
     "Resources/게임/무제 폴더 1",
-    "Resources/게임/Overwatch",
-    "Resources/게임",
+    "3.Resources/게임/Overwatch",
+    "3.Resources/게임",
     "attachments/screenshot/Pasted image 20240708150200.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "attachments/screenshot/Pasted image 20240708134144.png",
@@ -305,11 +334,7 @@
     "attachments/images/rotated Sorted Array.png",
     "attachments/images",
     "index.canvas",
-    "Resources/IT/javascript/React",
-    "attachments/gif",
-    "Resources/IT/프로젝트",
-    "Resources/IT/javascript",
-    "Resources/전기기사/전자기학",
+    "3.Resources/IT/javascript/React",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",

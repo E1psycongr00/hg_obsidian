@@ -12,6 +12,11 @@
       "folder": "연습노트",
       "tag": "#미완",
       "pattern": ""
+    },
+    {
+      "folder": "1.Projects",
+      "tag": "#project",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
