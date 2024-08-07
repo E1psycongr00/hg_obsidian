@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d90f93a670e4f8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Area/Area란.md"
+                "file": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md"
               }
             }
           }
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Area/Area란.md",
+                "file": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Area/Area란.md",
+                "file": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2.Area/Area란.md",
+                "file": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2.Area/Area란.md"
+                "file": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md"
               }
             }
           },
@@ -241,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 526.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,15 +278,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0bf13297f05b65b7",
+  "active": "d90f93a670e4f8c5",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240807175239.png",
+    "attachments/screenshot/Pasted image 20240807175226.png",
+    "attachments/screenshot/Pasted image 20240807175119.png",
+    "2.Area/Area란.md",
+    "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
     "영구노트/1D array constant time query update.md",
     "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
     "영구노트/153. Find Minimum in Rotated Sorted Array.md",
     "영구노트/725. Split LinkedList in Parts.md",
     "1.Projects/정적 블로그 사이트 프로젝트.md",
     "1.Projects/Projects란.md",
-    "2.Area/Area란.md",
     "영구노트/빌드 관리 도구 필요성.md",
     "영구노트/npm과 버저닝.md",
     "영구노트/esbuild 사용해보기.md",
@@ -291,8 +310,6 @@
     "templates/resource 템플릿.md",
     "3.Resources/Resource란.md",
     "3.Resources/IT/javascript/electron/Electron.md",
-    "3.Resources/IT/javascript/React/React 상태 관리하기.md",
-    "3.Resources/IT/javascript/js tutorial.md",
     "3.Resources/IT/javascript/electron",
     "1.Projects/개인 프로젝트",
     "4.Archive",
@@ -308,8 +325,6 @@
     "attachments/screenshot/Pasted image 20240708134144.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT2.24S.webp",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT3M28.71S.webp",
-    "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT1M11.309S.webp",
-    "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT1M9.775S.webp",
     "attachments/images",
     "index.canvas",
     "명언 모음.canvas",
