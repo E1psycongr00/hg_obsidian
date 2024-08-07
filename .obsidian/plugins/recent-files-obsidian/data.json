@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "electron react typescript template",
+      "path": "연습노트/electron react typescript template.md"
+    },
+    {
       "basename": "CRA 와 Typescript 프로젝트 생성하기",
       "path": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Resource란",
       "path": "3.Resources/Resource란.md"
-    },
-    {
-      "basename": "Electron",
-      "path": "3.Resources/IT/javascript/electron/Electron.md"
     }
   ],
   "omittedPaths": [],
