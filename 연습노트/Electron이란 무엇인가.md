@@ -65,6 +65,7 @@ ipcMain에서 데이터를 받을 때는 ipcMain.on(channel, listener) 함수를
 ipcRenderer에서도 비슷하게 데이터를 받을 때는 ipcRenderer.on(channel, listener)를 호출하며, 데이터를 보낼때는 ipcRenderer.send(channel, args)를 사용한다.
 
 remote 모듈을 이용해서 main process에서만 사용가능한 모듈을 렌더러 프로세스에서도 이용하게 만들 수 있다.
+
 ## 질문 & 확장
 
 (없음)
@@ -74,9 +75,6 @@ remote 모듈을 이용해서 main process에서만 사용가능한 모듈을 �
 - https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0_%28%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%29
 - https://cyberx.tistory.com/206
 ## 연결 노트
-
-
-
 
 
 
