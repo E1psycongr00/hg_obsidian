@@ -23,6 +23,8 @@ title: electron react typescript
 
 ## 출처(링크)
 
+- https://www.electronforge.io/guides/framework-integration/react-with-typescript#integrate-react-code
+- https://www.electronforge.io/templates/typescript-+-webpack-template
 
 ## 연결 노트
 
