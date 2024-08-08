@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd64648a14c90b1e",
+        "id": "3a9ec7b0d205125d",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf13297f05b65b7",
+            "id": "e753ec3ac2f76a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Area/Area란.md",
+                "file": "1.Projects/Projects란.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "d90f93a670e4f8c5",
+            "id": "464d14fa72989f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "650f5fee7be3d82e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/electron react typescript template.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/electron react typescript template.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -140,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/electron react typescript template.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/electron react typescript template.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/electron react typescript template.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/electron react typescript template.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -291,20 +278,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "650f5fee7be3d82e",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "4.Archive/감상문",
+    "무제 파일 1.md",
+    "무제 파일.md",
+    "1.Projects/Projects란.md",
+    "1.Projects/정적 블로그 사이트 프로젝트.md",
+    "2.Area/Area란.md",
     "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
-    "연습노트/electron react typescript template.md",
+    "영구노트/electron react typescript template.md",
+    "attachments/screenshot/Pasted image 20240808120126.png",
+    "attachments/screenshot/Pasted image 20240808115936.png",
     "attachments/screenshot/Pasted image 20240807175239.png",
     "attachments/screenshot/Pasted image 20240807175226.png",
     "attachments/screenshot/Pasted image 20240807175119.png",
-    "2.Area/Area란.md",
     "영구노트/1D array constant time query update.md",
     "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
     "영구노트/153. Find Minimum in Rotated Sorted Array.md",
     "영구노트/725. Split LinkedList in Parts.md",
-    "1.Projects/정적 블로그 사이트 프로젝트.md",
-    "1.Projects/Projects란.md",
     "영구노트/빌드 관리 도구 필요성.md",
     "영구노트/npm과 버저닝.md",
     "영구노트/esbuild 사용해보기.md",
@@ -321,9 +313,6 @@
     "Excalidraw/Electron 구조(draw).md",
     "Excalidraw/Electron 구조(draw).svg",
     "attachments/screenshot/Pasted image 20240805204340.png",
-    "templates/resource 템플릿.md",
-    "3.Resources/Resource란.md",
-    "3.Resources/IT/javascript/electron/Electron.md",
     "3.Resources/IT/javascript/electron",
     "1.Projects/개인 프로젝트",
     "4.Archive",
@@ -336,8 +325,6 @@
     "3.Resources/게임",
     "attachments/screenshot/Pasted image 20240708150200.png",
     "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
-    "attachments/screenshot/Pasted image 20240708134144.png",
-    "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT2.24S.webp",
     "attachments/images",
     "index.canvas",
     "명언 모음.canvas",

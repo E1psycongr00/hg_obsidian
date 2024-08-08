@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "electron react typescript template",
-      "path": "연습노트/electron react typescript template.md"
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "무제 파일 1.md"
+    },
+    {
+      "basename": "Projects란",
+      "path": "1.Projects/Projects란.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
+    },
+    {
+      "basename": "Area란",
+      "path": "2.Area/Area란.md"
     },
     {
       "basename": "CRA 와 Typescript 프로젝트 생성하기",
       "path": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md"
     },
     {
-      "basename": "Area란",
-      "path": "2.Area/Area란.md"
+      "basename": "electron react typescript template",
+      "path": "영구노트/electron react typescript template.md"
     },
     {
       "basename": "1D array constant time query update",
@@ -27,14 +43,6 @@
     {
       "basename": "725. Split LinkedList in Parts",
       "path": "영구노트/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
-    },
-    {
-      "basename": "Projects란",
-      "path": "1.Projects/Projects란.md"
     },
     {
       "basename": "빌드 관리 도구 필요성",
@@ -91,14 +99,6 @@
     {
       "basename": "Electron 구조(draw)",
       "path": "Excalidraw/Electron 구조(draw).md"
-    },
-    {
-      "basename": "resource 템플릿",
-      "path": "templates/resource 템플릿.md"
-    },
-    {
-      "basename": "Resource란",
-      "path": "3.Resources/Resource란.md"
     }
   ],
   "omittedPaths": [],
