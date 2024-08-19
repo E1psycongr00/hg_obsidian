@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "레미제라블 25주년 감상문.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "레미제라블 25주년 감상문.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "레미제라블 25주년 감상문.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "레미제라블 25주년 감상문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.md",
+                "file": "레미제라블 25주년 감상문.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일.md"
+                "file": "레미제라블 25주년 감상문.md"
               }
             }
           },
@@ -266,9 +266,10 @@
   },
   "active": "e753ec3ac2f76a1c",
   "lastOpenFiles": [
-    "1.Projects/Projects란.md",
-    "무제 파일.md",
+    "데드풀 감상문.md",
+    "레미제라블 25주년 감상문.md",
     "무제 파일 1.md",
+    "1.Projects/Projects란.md",
     "4.Archive/감상문",
     "1.Projects/정적 블로그 사이트 프로젝트.md",
     "2.Area/Area란.md",
