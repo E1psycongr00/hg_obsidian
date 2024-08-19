@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
       "basename": "레미제라블 25주년 감상문",
       "path": "레미제라블 25주년 감상문.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Electron이란 무엇인가",
       "path": "연습노트/Electron이란 무엇인가.md"
-    },
-    {
-      "basename": "Electron 구조(draw)",
-      "path": "Excalidraw/Electron 구조(draw).md"
     }
   ],
   "omittedPaths": [],
