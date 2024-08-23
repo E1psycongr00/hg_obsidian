@@ -42,7 +42,7 @@ SQL 위주로
 ## 출처(링크)
 
 - https://www.jooq.org/
-
+- https://zuminternet.github.io/JOOQ/
 ## 연결 노트
 
 
