@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "레미제라블 25주년 감상문.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "레미제라블 25주년 감상문.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "레미제라블 25주년 감상문.md",
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "레미제라블 25주년 감상문.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "레미제라블 25주년 감상문.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "레미제라블 25주년 감상문.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -266,14 +266,17 @@
   },
   "active": "e753ec3ac2f76a1c",
   "lastOpenFiles": [
+    "블랙 위도우.md",
+    "스즈메의 문단속.md",
     "무제 파일.md",
     "레미제라블 25주년 감상문.md",
+    "1.Projects/Projects란.md",
+    "2.Area/Area란.md",
+    "4.Archive/Archive란.md",
     "데드풀 감상문.md",
     "무제 파일 1.md",
-    "1.Projects/Projects란.md",
     "4.Archive/감상문",
     "1.Projects/정적 블로그 사이트 프로젝트.md",
-    "2.Area/Area란.md",
     "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
     "영구노트/electron react typescript template.md",
     "attachments/screenshot/Pasted image 20240808120126.png",
@@ -295,9 +298,6 @@
     "영구노트/NextJS란 무엇인가.md",
     "영구노트/React Props 컴포넌트간 상태 공유하기(상태 동기화).md",
     "영구노트/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md",
-    "영구노트/typescript의 record 타입.md",
-    "영구노트/typescript question mark parameter.md",
-    "연습노트/Electron이란 무엇인가.md",
     "Excalidraw/Electron 구조(draw).svg",
     "attachments/screenshot/Pasted image 20240805204340.png",
     "3.Resources/IT/javascript/electron",
