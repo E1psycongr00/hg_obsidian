@@ -1,9 +1,18 @@
 ---
-ref:
-  - "[[@Valid와 @Validated 차이]]"
+tags:
+  - resource
+  - JAVA
+aliases: 
+date: 2024-08-24
+title: Spring Bean Validation 총정리
 ---
 
-## #JAVA #Spring #Validation
+작성 날짜: 2024-08-24
+작성 시간: 00:43
+
+#resource #JAVA 
+
+---
 
 ### Java Bean Validation
 - [[Java Bean Validation 소개]]

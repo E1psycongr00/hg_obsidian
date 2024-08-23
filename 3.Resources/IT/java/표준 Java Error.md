@@ -1,8 +1,18 @@
 ---
-ref: "[[java bean validation에서 custom validator 만들기]]"
+tags:
+  - resource
+  - "#JAVA"
+aliases: 
+date: 2024-08-24
+title: 표준 Java Error
 ---
-## #JAVA
 
+작성 날짜: 2024-08-24
+작성 시간: 00:38
+
+#resource #JAVA 
+
+---
 
 ### Javadoc
 - [[(javadoc task error) unmappable character (0xEB) for encoding x-windows-949]]
