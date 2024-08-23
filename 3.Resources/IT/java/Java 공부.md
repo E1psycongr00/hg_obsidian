@@ -1,8 +1,5 @@
 ## #JAVA 
 
-
-
-
 ### java 문법 & 클래스 & 메서드
 
 - [[instanceof 패턴 매칭]]
@@ -30,8 +27,7 @@
 - [[Spring Converter]]
 - [[Spring Formatter]]
 
-### 자바 에러 모음
-- [[표준 Java Error]]
+
 ### 자바 tag dataview
 
 ```dataview

@@ -9,7 +9,7 @@ title: Electron이란 무엇인가
 작성 날짜: 2024-08-05
 작성 시간: 20:34
 
-#미완 #JS #Electron 
+#완성 #JS #Electron 
 
 ----
 ## 내용(Content)
@@ -75,10 +75,3 @@ remote 모듈을 이용해서 main process에서만 사용가능한 모듈을 �
 - https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0_%28%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%29
 - https://cyberx.tistory.com/206
 ## 연결 노트
-
-
-
-
-
-
-

@@ -15,6 +15,7 @@ title: Spring Bean Validation 총정리
 ---
 
 ### Java Bean Validation
+
 - [[Java Bean Validation 소개]]
 - [[field에 java bean validation 적용 및 테스트]]
 - [[getter에 java bean validation 적용 및 테스트]]
@@ -25,6 +26,7 @@ title: Spring Bean Validation 총정리
 
 
 ### Spring Bean Validation
+
 - [[Spring Bean Validation 소개]]
 - [[Spring bean validation 예외 분석]]
 - [[@Valid와 @Validated 차이]]
