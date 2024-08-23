@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/Spring JDBC.md",
+                "file": "데드풀 감상문.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/java/Spring JDBC.md"
+                "file": "데드풀 감상문.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/java/Spring JDBC.md",
+                "file": "데드풀 감상문.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/java/Spring JDBC.md",
+                "file": "데드풀 감상문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/java/Spring JDBC.md",
+                "file": "데드풀 감상문.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/java/Spring JDBC.md"
+                "file": "데드풀 감상문.md"
               }
             }
           },
@@ -280,25 +280,31 @@
   },
   "active": "add355f4cb54b223",
   "lastOpenFiles": [
-    "3.Resources/IT/java/Spring Bean Validation 총정리.md",
-    "3.Resources/IT/java/Java의 기본 구조.md",
-    "3.Resources/IT/java/Java Annotation.md",
-    "3.Resources/IT/java/Java 버전별 특징.md",
-    "3.Resources/IT/java/java 배열 사용법.md",
     "3.Resources/IT/java/Java 공부.md",
-    "3.Resources/IT/java/표준 Java Error.md",
+    "데드풀 감상문.md",
+    "3.Resources/IT/운영체제/프로세스.md",
+    "3.Resources/IT/운영체제/동기화 모음.md",
     "3.Resources/IT/운영체제/동기 IO Models.md",
+    "1.Projects/정적 블로그 사이트 프로젝트.md",
+    "1.Projects/Projects란.md",
+    "3.Resources/IT/부하 테스트.md",
+    "3.Resources/IT/알고리즘.md",
+    "3.Resources/IT/Gradle 공부.md",
+    "3.Resources/IT/java/Spring JDBC.md",
+    "3.Resources/IT/java/Spring Bean Validation 총정리.md",
+    "3.Resources/IT/java/java 배열 사용법.md",
+    "3.Resources/IT/java/표준 Java Error.md",
+    "3.Resources/IT/java/Java 버전별 특징.md",
+    "3.Resources/IT/java/Java Annotation.md",
+    "3.Resources/IT/java/Java의 기본 구조.md",
     "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
     "블랙 위도우.md",
     "스즈메의 문단속.md",
     "레미제라블 25주년 감상문.md",
-    "1.Projects/Projects란.md",
     "2.Area/Area란.md",
     "4.Archive/Archive란.md",
-    "데드풀 감상문.md",
     "무제 파일 1.md",
     "4.Archive/감상문",
-    "1.Projects/정적 블로그 사이트 프로젝트.md",
     "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
     "영구노트/electron react typescript template.md",
     "attachments/screenshot/Pasted image 20240808120126.png",
@@ -306,12 +312,6 @@
     "attachments/screenshot/Pasted image 20240807175239.png",
     "attachments/screenshot/Pasted image 20240807175226.png",
     "attachments/screenshot/Pasted image 20240807175119.png",
-    "영구노트/1D array constant time query update.md",
-    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
-    "영구노트/153. Find Minimum in Rotated Sorted Array.md",
-    "영구노트/725. Split LinkedList in Parts.md",
-    "영구노트/빌드 관리 도구 필요성.md",
-    "영구노트/npm과 버저닝.md",
     "Excalidraw/Electron 구조(draw).svg",
     "attachments/screenshot/Pasted image 20240805204340.png",
     "3.Resources/IT/javascript/electron",

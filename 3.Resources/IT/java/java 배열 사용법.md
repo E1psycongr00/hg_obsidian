@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+  - "#JAVA"
 aliases: 
 date: 2024-08-24
 title: java 배열 사용법
@@ -9,7 +10,7 @@ title: java 배열 사용법
 작성 날짜: 2024-08-24
 작성 시간: 00:36
 
-#resource 
+#resource #JAVA 
 
 ---
 

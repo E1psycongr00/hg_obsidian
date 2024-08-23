@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+  - "#JAVA"
 aliases: 
 date: 2024-08-24
 title: Java의 기본 구조

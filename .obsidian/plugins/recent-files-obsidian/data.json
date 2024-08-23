@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "데드풀 감상문",
+      "path": "데드풀 감상문.md"
+    },
+    {
+      "basename": "Java 공부",
+      "path": "3.Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "3.Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
+    },
+    {
+      "basename": "Projects란",
+      "path": "1.Projects/Projects란.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "3.Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘.md"
+    },
+    {
+      "basename": "Gradle 공부",
+      "path": "3.Resources/IT/Gradle 공부.md"
+    },
+    {
       "basename": "Spring JDBC",
       "path": "3.Resources/IT/java/Spring JDBC.md"
     },
@@ -9,32 +49,24 @@
       "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
     },
     {
-      "basename": "Java의 기본 구조",
-      "path": "3.Resources/IT/java/Java의 기본 구조.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "3.Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "Java 버전별 특징",
-      "path": "3.Resources/IT/java/Java 버전별 특징.md"
-    },
-    {
       "basename": "java 배열 사용법",
       "path": "3.Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "3.Resources/IT/java/Java 공부.md"
     },
     {
       "basename": "표준 Java Error",
       "path": "3.Resources/IT/java/표준 Java Error.md"
     },
     {
-      "basename": "동기 IO Models",
-      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
+      "basename": "Java 버전별 특징",
+      "path": "3.Resources/IT/java/Java 버전별 특징.md"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "3.Resources/IT/java/Java Annotation.md"
+    },
+    {
+      "basename": "Java의 기본 구조",
+      "path": "3.Resources/IT/java/Java의 기본 구조.md"
     },
     {
       "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
@@ -53,10 +85,6 @@
       "path": "레미제라블 25주년 감상문.md"
     },
     {
-      "basename": "Projects란",
-      "path": "1.Projects/Projects란.md"
-    },
-    {
       "basename": "Area란",
       "path": "2.Area/Area란.md"
     },
@@ -65,40 +93,12 @@
       "path": "4.Archive/Archive란.md"
     },
     {
-      "basename": "데드풀 감상문",
-      "path": "데드풀 감상문.md"
-    },
-    {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
-    },
-    {
       "basename": "CRA 와 Typescript 프로젝트 생성하기",
       "path": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md"
     },
     {
       "basename": "electron react typescript template",
       "path": "영구노트/electron react typescript template.md"
-    },
-    {
-      "basename": "1D array constant time query update",
-      "path": "영구노트/1D array constant time query update.md"
-    },
-    {
-      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
-      "path": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
-    },
-    {
-      "basename": "153. Find Minimum in Rotated Sorted Array",
-      "path": "영구노트/153. Find Minimum in Rotated Sorted Array.md"
-    },
-    {
-      "basename": "725. Split LinkedList in Parts",
-      "path": "영구노트/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "빌드 관리 도구 필요성",
-      "path": "영구노트/빌드 관리 도구 필요성.md"
     }
   ],
   "omittedPaths": [],
