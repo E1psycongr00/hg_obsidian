@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/JOOQ 소개.md",
+                "file": "3.Resources/IT/java/JOOQ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "38dd62da6d138601",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/JOOQ 소개.md"
+                "file": "3.Resources/IT/java/JOOQ.md"
               }
             }
           }
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/JOOQ 소개.md",
+                "file": "3.Resources/IT/java/JOOQ.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/JOOQ 소개.md",
+                "file": "3.Resources/IT/java/JOOQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/JOOQ 소개.md",
+                "file": "3.Resources/IT/java/JOOQ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/JOOQ 소개.md"
+                "file": "3.Resources/IT/java/JOOQ.md"
               }
             }
           },
@@ -291,9 +292,10 @@
   },
   "active": "6c61359f752bd310",
   "lastOpenFiles": [
+    "연습노트/JOOQ 소개.md",
+    "3.Resources/IT/java/JOOQ.md",
     "attachments/screenshot/Pasted image 20240826200520.png",
     "3.Resources/IT/java/Java 공부.md",
-    "연습노트/JOOQ 소개.md",
     "3.Resources/IT/java/Spring JDBC.md",
     "3.Resources/IT/java/Spring Bean Validation 총정리.md",
     "3.Resources/IT/java/Java의 기본 구조.md",
@@ -336,7 +338,6 @@
     "Resources/게임/무제 폴더 1",
     "3.Resources/게임/Overwatch",
     "attachments/screenshot/Pasted image 20240708150200.png",
-    "attachments/screenshot/노트앱을 쓰면 반드시 알아야 할 체계화 방법 PARAPT34.615S.webp",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
