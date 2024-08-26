@@ -32,9 +32,13 @@ JOOQ가 가지는 특징은 다음과 같다.
 - Procedures
 
 
-### 타입 안전 SQL
+### JOOQ는 실제로 사용하기에 안전할까?
 
-SQL 위주로 
+![[Pasted image 20240826200520.png]]
+
+공식 사이트에 따르면 JOOQ를 사용하면 고객 기업은 굉장히 많다. 로고를 보면 익숙한 기업도 많다.
+
+Disney, Apple, Intel외에도 다 어디서 본듯한 유명한 기업들이고, 이런 기업에서 상업적이로 이용하고 있다면, JOOQ는 실제 서비스하기에 사용하는 것도 신뢰할 수 있다.
 ## 질문 & 확장
 
 (없음)
@@ -44,13 +48,4 @@ SQL 위주로
 - https://www.jooq.org/
 - https://zuminternet.github.io/JOOQ/
 ## 연결 노트
-
-
-
-
-
-
-
-
-
 

@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "38dd62da6d138601",
@@ -292,6 +291,7 @@
   },
   "active": "6c61359f752bd310",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20240826200520.png",
     "3.Resources/IT/java/Java 공부.md",
     "연습노트/JOOQ 소개.md",
     "3.Resources/IT/java/Spring JDBC.md",
@@ -318,7 +318,6 @@
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Prompting Github Copilot.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "4.Archive/감상문",
     "attachments/screenshot/Pasted image 20240808120126.png",
     "attachments/screenshot/Pasted image 20240808115936.png",
