@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/JOOQ.md"
+      "basename": "JOOQ 기본 사용해보기",
+      "path": "연습노트/JOOQ 기본 사용해보기.md"
     },
     {
-      "basename": "JOOQ 소개",
-      "path": "연습노트/JOOQ 소개.md"
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/JOOQ.md"
     },
     {
       "basename": "Java 공부",
@@ -15,6 +15,10 @@
     {
       "basename": "Spring JDBC",
       "path": "3.Resources/IT/java/Spring JDBC.md"
+    },
+    {
+      "basename": "JOOQ 소개",
+      "path": "연습노트/JOOQ 소개.md"
     },
     {
       "basename": "Spring Bean Validation 총정리",
@@ -95,10 +99,6 @@
     {
       "basename": "Spring에서 예외 처리 과정",
       "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
     }
   ],
   "omittedPaths": [],

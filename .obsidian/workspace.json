@@ -13,19 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c61359f752bd310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "3.Resources/IT/java/JOOQ.md",
                 "mode": "source",
                 "backlinks": false,
@@ -34,12 +21,12 @@
             }
           },
           {
-            "id": "add355f4cb54b223",
+            "id": "ce68c9f574758dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/Spring JDBC.md",
+                "file": "연습노트/JOOQ 기본 사용해보기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/java/JOOQ.md"
+                "file": "연습노트/JOOQ 기본 사용해보기.md"
               }
             }
           }
@@ -140,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/java/JOOQ.md",
+                "file": "연습노트/JOOQ 기본 사용해보기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/java/JOOQ.md",
+                "file": "연습노트/JOOQ 기본 사용해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/java/JOOQ.md",
+                "file": "연습노트/JOOQ 기본 사용해보기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/java/JOOQ.md"
+                "file": "연습노트/JOOQ 기본 사용해보기.md"
               }
             }
           },
@@ -290,13 +277,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6c61359f752bd310",
+  "active": "ce68c9f574758dc1",
   "lastOpenFiles": [
-    "연습노트/JOOQ 소개.md",
     "3.Resources/IT/java/JOOQ.md",
-    "attachments/screenshot/Pasted image 20240826200520.png",
+    "연습노트/JOOQ 기본 사용해보기.md",
     "3.Resources/IT/java/Java 공부.md",
     "3.Resources/IT/java/Spring JDBC.md",
+    "연습노트/JOOQ 소개.md",
+    "attachments/screenshot/Pasted image 20240826200520.png",
     "3.Resources/IT/java/Spring Bean Validation 총정리.md",
     "3.Resources/IT/java/Java의 기본 구조.md",
     "3.Resources/IT/java/java 배열 사용법.md",
@@ -319,7 +307,6 @@
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/Spring에서 예외 처리 과정.md",
     "연습노트/Prompting Github Copilot.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "4.Archive/감상문",
     "attachments/screenshot/Pasted image 20240808120126.png",
     "attachments/screenshot/Pasted image 20240808115936.png",
