@@ -5,12 +5,12 @@ tags:
   - JOOQ
 aliases: 
 date: 2024-08-26
-title: JOOQ 기본 사용해보기
+title: JOOQ 기본 세팅하기
 ---
 작성 날짜: 2024-08-26
 작성 시간: 21:02
 
-#미완 #JAVA #SQL #JOOQ 
+#완성 #JAVA #SQL #JOOQ 
 
 ----
 ## 내용(Content)
@@ -147,6 +147,15 @@ spring:
 
 spring.jooq.sql-dialect=H2로 설정해두면 알아서 Spring 어플리케이션에서 Jooq에 필요한 설정을 자동으로 등록하게 된다. 그러면 이전에 설정할 때 추가한 Bean 중에 `DataSourceConnectionDriver`와 `DefaultConfiguration`을 추가할 필요가 없어진다.
 
+그래도 해당 객체는 Bean으로 꼭 등록해줘야 한다.
+
+```java
+   @Bean
+   public DefaultDSLContext dsl(org.jooq.Configuration configuration) {
+       return new DefaultDSLContext(configuration);
+   }
+```
+
 
 ## 질문 & 확장
 
@@ -158,5 +167,3 @@ spring.jooq.sql-dialect=H2로 설정해두면 알아서 Spring 어플리케이�
 ## 연결 노트
 
 - [[JOOQ 소개]]
-
-

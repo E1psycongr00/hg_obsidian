@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "JOOQ 기본 사용해보기",
-      "path": "연습노트/JOOQ 기본 사용해보기.md"
+      "basename": "JOOQ 리턴 타입",
+      "path": "연습노트/JOOQ 리턴 타입.md"
+    },
+    {
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/JOOQ.md"
     },
     {
       "basename": "JOOQ 소개",
       "path": "영구노트/JOOQ 소개.md"
     },
     {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/JOOQ.md"
+      "basename": "JOOQ 기본 세팅하기",
+      "path": "영구노트/JOOQ 기본 세팅하기.md"
     },
     {
       "basename": "Java 공부",
@@ -95,10 +99,6 @@
     {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "Spring에서 예외 처리 과정",
-      "path": "연습노트/Spring에서 예외 처리 과정.md"
     }
   ],
   "omittedPaths": [],
