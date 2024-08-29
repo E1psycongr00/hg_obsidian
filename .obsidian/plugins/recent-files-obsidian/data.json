@@ -5,6 +5,10 @@
       "path": "연습노트/지수 백 오프 알고리즘.md"
     },
     {
+      "basename": "Drawing 2024-03-15 21.21.15.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-15 21.21.15.excalidraw.md"
+    },
+    {
       "basename": "JOOQ 리턴 타입",
       "path": "연습노트/JOOQ 리턴 타입.md"
     },
@@ -91,14 +95,6 @@
     {
       "basename": "프로세스",
       "path": "3.Resources/IT/운영체제/프로세스.md"
-    },
-    {
-      "basename": "동기화 모음",
-      "path": "3.Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "Styled-Bert-VITS2",
-      "path": "연습노트/Styled-Bert-VITS2.md"
     }
   ],
   "omittedPaths": [],
