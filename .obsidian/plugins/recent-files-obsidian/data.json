@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "롯데월드야 즐거웠다",
-      "path": "롯데월드야 즐거웠다.md"
+      "basename": "JOOQ Code Generator With Gradle",
+      "path": "연습노트/JOOQ Code Generator With Gradle.md"
+    },
+    {
+      "basename": "JOOQ 리턴 타입",
+      "path": "연습노트/JOOQ 리턴 타입.md"
+    },
+    {
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/JOOQ.md"
+    },
+    {
+      "basename": "JOOQ 기본 세팅하기",
+      "path": "영구노트/JOOQ 기본 세팅하기.md"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "3.Resources/IT/java/Java Annotation.md"
+    },
+    {
+      "basename": "표준 Java Error",
+      "path": "3.Resources/IT/java/표준 Java Error.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
     },
     {
       "basename": "Projects란",
       "path": "1.Projects/Projects란.md"
+    },
+    {
+      "basename": "롯데월드야 즐거웠다",
+      "path": "롯데월드야 즐거웠다.md"
     },
     {
       "basename": "감상문 템플릿",
@@ -21,20 +49,8 @@
       "path": "블랙 위도우.md"
     },
     {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/JOOQ.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
       "basename": "Selenium으로 ChatGPT와 상호작용하기",
       "path": "영구노트/Selenium으로 ChatGPT와 상호작용하기.md"
-    },
-    {
-      "basename": "JOOQ Code Generator With Gradle",
-      "path": "연습노트/JOOQ Code Generator With Gradle.md"
     },
     {
       "basename": "지수 백 오프 알고리즘",
@@ -47,10 +63,6 @@
     {
       "basename": "JOOQ 소개",
       "path": "영구노트/JOOQ 소개.md"
-    },
-    {
-      "basename": "JOOQ 기본 세팅하기",
-      "path": "영구노트/JOOQ 기본 세팅하기.md"
     },
     {
       "basename": "Java 공부",
@@ -73,16 +85,8 @@
       "path": "3.Resources/IT/java/java 배열 사용법.md"
     },
     {
-      "basename": "표준 Java Error",
-      "path": "3.Resources/IT/java/표준 Java Error.md"
-    },
-    {
       "basename": "Java 버전별 특징",
       "path": "3.Resources/IT/java/Java 버전별 특징.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "3.Resources/IT/java/Java Annotation.md"
     },
     {
       "basename": "알고리즘",
@@ -95,10 +99,6 @@
     {
       "basename": "Resource란",
       "path": "3.Resources/Resource란.md"
-    },
-    {
-      "basename": "부하 테스트",
-      "path": "3.Resources/IT/부하 테스트.md"
     }
   ],
   "omittedPaths": [],
