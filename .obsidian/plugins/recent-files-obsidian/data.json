@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RAG",
+      "path": "연습노트/RAG.md"
+    },
+    {
       "basename": "JOOQ Code Generator With Gradle",
       "path": "연습노트/JOOQ Code Generator With Gradle.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Gradle 공부",
       "path": "3.Resources/IT/Gradle 공부.md"
-    },
-    {
-      "basename": "Resource란",
-      "path": "3.Resources/Resource란.md"
     }
   ],
   "omittedPaths": [],
