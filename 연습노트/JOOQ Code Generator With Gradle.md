@@ -23,14 +23,7 @@ title: JOOQ Code Generator With Gradle
 ## 출처(링크)
 
 
+
 ## 연결 노트
-
-
-
-
-
-
-
-
 
 
