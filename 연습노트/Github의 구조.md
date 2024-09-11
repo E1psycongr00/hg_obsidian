@@ -2,7 +2,7 @@
 tags:
   - Github
 aliases: 
-date: 
+date: 2024-09-11
 title: Github의 구조
 ---
 작성 날짜: 2024-09-11
@@ -38,7 +38,9 @@ Git은 로컬 환경에서 버전 관리를 위한 (VCS)로 개발자들의 작�
 
 ![[Github 동작 원리(draw).svg]]
 
+Git은 파일이 변경된 걸 감지하고 ignore 확인해서 추적하지 않는 파일은 변경을 감지하지 않는다. 감지된 변경된 파일은 add라는 명령어를 통해서 staging area에 올리게 되고 이렇게 staging area에 올려진 파일들은 덩어리채로 커밋이 가능하다. 그러면 local repository에 버전별로 코드를 관리할 수 있고 commit 단위로 코드를 복구하거나 이전으로 쉽게 되돌 수 있게 된다. 
 
+이런 Repository를 Web을 통해 Remote로 관리하고 싶은 경우 pull, push, clone등을 활용할 수 있다.
 
 ## 질문 & 확장
 
