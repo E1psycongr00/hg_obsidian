@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line: 전기",
+                "query": "tag:#전기기사",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
