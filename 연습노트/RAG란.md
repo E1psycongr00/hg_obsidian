@@ -3,9 +3,12 @@ tags:
   - AI
   - RAG
   - LLM
-aliases: 
+aliases:
+  - RAG
+  - Retrieval Augmented Generation
+  - RAG란 무엇인가
 date: 2024-09-10
-title: RAG
+title: RAG란
 ---
 작성 날짜: 2024-09-10
 작성 시간: 18:03
@@ -56,14 +59,20 @@ RAG를 활용하면 다음과 같은 LLM 문제들을 보완 가능하다.
 	- 외부 지식을 활용할 수 있기 때문에 배경 지식을 습득할 수 있어, 문맥을 좀 더 잘 파악가능하다.
 	- 단순한 패턴 매칭이 아닌 추론 능력을 활용한 답변을 생성한다.
 
-### RAG 사용 이점
+### RAG 동작 과정
 
-검색 증강 생성은 다음과 같은 장점을 제시한다.
+1. 사용자 질문이 주어지면 질의 인코더가 이를 이해하기 쉬운 형태로 변환한다.
+2. 지식 검색기가 인코딩된 질문을 바탕으로 외부 지식 베이스에서 관련 정보를 검색한다.
+3. 검색된 지식은 지식 증강 생성기 입력으로 전달된다.
+4. 지식 증강 생성기는 검색된 지식을 활용하여, 사용자 질문에 대한 답변을 제공한다.
 
-1. 비용 효율적인 구현
-2. 최신 정보
-3. 사용자 신뢰 강화
-4. 개발자 제어 강화
+
+### RAG 기술 적용한 서비스
+
+1. Microsoft Bing 검색 엔진
+2. Anthropic’s Constitutional AI
+3. Perplexity AI
+4. OpenAI’s WebGPT (in development)
 
 ## 질문 & 확장
 
@@ -74,13 +83,5 @@ RAG를 활용하면 다음과 같은 LLM 문제들을 보완 가능하다.
 - https://modulabs.co.kr/blog/retrieval-augmented-generation/
 - https://aws.amazon.com/ko/what-is/retrieval-augmented-generation/
 ## 연결 노트
-
-
-
-
-
-
-
-
 
 

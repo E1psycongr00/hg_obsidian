@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/RAG.md",
+                "file": "연습노트/RAG란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/RAG.md",
+                "file": "연습노트/RAG란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/RAG.md"
+                "file": "연습노트/RAG란.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/RAG.md",
+                "file": "연습노트/RAG란.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/RAG.md",
+                "file": "연습노트/RAG란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/RAG.md",
+                "file": "연습노트/RAG란.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/RAG.md"
+                "file": "연습노트/RAG란.md"
               }
             }
           },
@@ -291,10 +291,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b204ac04ca5a1771",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
     "연습노트/Github의 구조.md",
-    "연습노트/RAG.md",
+    "연습노트/RAG란.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JOOQ Code Generator With Gradle.md",
     "연습노트/JOOQ 리턴 타입.md",
