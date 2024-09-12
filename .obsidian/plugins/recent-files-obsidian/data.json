@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
+      "basename": "RAG",
+      "path": "연습노트/RAG.md"
     },
     {
       "basename": "Github의 구조",
       "path": "연습노트/Github의 구조.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "JOOQ Code Generator With Gradle",
+      "path": "연습노트/JOOQ Code Generator With Gradle.md"
+    },
+    {
+      "basename": "JOOQ 리턴 타입",
+      "path": "연습노트/JOOQ 리턴 타입.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
+    },
+    {
+      "basename": "지수 백 오프 알고리즘",
+      "path": "연습노트/지수 백 오프 알고리즘.md"
     },
     {
       "basename": "Github 동작 원리(draw)",
@@ -29,10 +53,6 @@
       "path": "Excalidraw/고립 구체구 정전 용량(draw).md"
     },
     {
-      "basename": "RAG",
-      "path": "연습노트/RAG.md"
-    },
-    {
       "basename": "Prompting Github Copilot",
       "path": "연습노트/Prompting Github Copilot.md"
     },
@@ -51,10 +71,6 @@
     {
       "basename": "Spring Bean Validation 총정리",
       "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "JOOQ Code Generator With Gradle",
-      "path": "연습노트/JOOQ Code Generator With Gradle.md"
     },
     {
       "basename": "전하(Elecric Charge)",
@@ -83,22 +99,6 @@
     {
       "basename": "유전체 경계 조건",
       "path": "영구노트/유전체 경계 조건.md"
-    },
-    {
-      "basename": "유전체",
-      "path": "영구노트/유전체.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "전도 전류",
-      "path": "영구노트/전도 전류.md"
-    },
-    {
-      "basename": "Whisper",
-      "path": "영구노트/Whisper.md"
     }
   ],
   "omittedPaths": [],
