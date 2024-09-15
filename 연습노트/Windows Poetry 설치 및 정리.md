@@ -18,7 +18,7 @@ title: Windows Poetry 설치 및 정리
 ### Poetry란
 
 >[!summary]
->Poetry는 파이썬 의존성을 관리하기 위한 이하
+>Poetry는 파이썬 의존성을 관리하기 위한 이하, 
 
 
 
@@ -32,13 +32,5 @@ title: Windows Poetry 설치 및 정리
 
 
 ## 연결 노트
-
-
-
-
-
-
-
-
 
 

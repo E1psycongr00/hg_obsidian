@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poetry",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -254,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 560.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
