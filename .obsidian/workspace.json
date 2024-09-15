@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Gpt prompt",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md"
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
               }
             }
           }
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md"
+                "file": "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md"
               }
             }
           },
@@ -280,12 +279,13 @@
   },
   "active": "c10c12bce208702a",
   "lastOpenFiles": [
+    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+    "연습노트/Windows Poetry 설치 및 정리.md",
     "연습노트/Git 핵심 명령어.md",
     "연습노트/RAG란.md",
     "연습노트/Github의 구조.md",
     "영구노트/Selenium으로 ChatGPT와 상호작용하기.md",
     "영구노트/지수 백 오프 알고리즘.md",
-    "연습노트/Windows Poetry 설치 및 정리.md",
     "연습노트/JOOQ 리턴 타입.md",
     "연습노트/JOOQ Code Generator With Gradle.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
@@ -310,7 +310,6 @@
     "영구노트/도체계의 정전용량.md",
     "영구노트/대류 전류.md",
     "영구노트/유전체 경계 조건.md",
-    "영구노트/유전체.md",
     "attachments/screenshot/KakaoTalk_20240906_123251717_01.jpg",
     "Excalidraw/Drawing 2024-08-29 21.49.09.excalidraw.svg",
     "attachments/screenshot/Pasted image 20240826200520.png",
