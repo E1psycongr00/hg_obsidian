@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "연습노트/Github의 구조.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md"
+                "file": "연습노트/Github의 구조.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "연습노트/Github의 구조.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "연습노트/Github의 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "연습노트/Github의 구조.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,7 +236,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md"
+                "file": "연습노트/Github의 구조.md"
               }
             }
           },
@@ -314,14 +314,14 @@
   "active": "2b28cb15d255f6b1",
   "lastOpenFiles": [
     "연습노트/Git 핵심 명령어.md",
-    "연습노트/Windows Poetry 설치 및 정리.md",
     "연습노트/Github의 구조.md",
+    "영구노트/지수 백 오프 알고리즘.md",
+    "연습노트/Windows Poetry 설치 및 정리.md",
     "연습노트/JOOQ 리턴 타입.md",
     "연습노트/JOOQ Code Generator With Gradle.md",
     "연습노트/RAG란.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/지수 백 오프 알고리즘.md",
     "Excalidraw/Github 동작 원리(draw).md",
     "Excalidraw/ttf/온글잎 보현체.ttf",
     "Excalidraw/ttf/온글잎 몽몽데이즈몽글동심체.ttf",
