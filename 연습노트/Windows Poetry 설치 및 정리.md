@@ -20,6 +20,8 @@ title: Windows Poetry 설치 및 정리
 >[!summary]
 >Poetry는 파이썬 의존성을 관리하기 위한 이하, 
 
+poetry를 활용하면 python dependency를 효율적으로 다룰 수 있다.
+
 
 
 
