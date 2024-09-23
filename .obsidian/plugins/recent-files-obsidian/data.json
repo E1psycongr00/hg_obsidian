@@ -5,6 +5,14 @@
       "path": "무제 파일.md"
     },
     {
+      "basename": "스즈메의 문단속",
+      "path": "스즈메의 문단속.md"
+    },
+    {
+      "basename": "롯데월드야 즐거웠다",
+      "path": "롯데월드야 즐거웠다.md"
+    },
+    {
       "basename": "RAG란",
       "path": "연습노트/RAG란.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "java 배열 사용법",
       "path": "3.Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "3.Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
     }
   ],
   "omittedPaths": [],
