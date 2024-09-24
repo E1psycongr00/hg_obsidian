@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf2dd75bc8cef842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/LCEL과 RAG.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md"
+                "file": "연습노트/LCEL과 RAG.md"
               }
             }
           }
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "연습노트/LCEL과 RAG.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "연습노트/LCEL과 RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +180,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "연습노트/LCEL과 RAG.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md"
+                "file": "연습노트/LCEL과 RAG.md"
               }
             }
           },
@@ -283,11 +297,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "711d553673971749",
+  "active": "cf2dd75bc8cef842",
   "lastOpenFiles": [
     "연습노트/Windows Poetry 설치 및 정리.md",
-    "영구노트/Prompt 정의하기.md",
+    "연습노트/LCEL과 RAG.md",
     "3.Resources/IT/python/langchain.md",
+    "영구노트/Prompt 정의하기.md",
     "영구노트/Langchain이란.md",
     "Excalidraw/Langchain 구조(draw).md",
     "Excalidraw/Langchain 구조(draw).svg",
@@ -314,7 +329,6 @@
     "스즈메의 문단속.md",
     "롯데월드야 즐거웠다.md",
     "연습노트/Prompting Github Copilot.md",
-    "연습노트/전기 쌍극자.md",
     "Excalidraw/ttf/온글잎 보현체.ttf",
     "Excalidraw/ttf/온글잎 몽몽데이즈몽글동심체.ttf",
     "Excalidraw/세마 포어 signal 대기 좌석 없는 경우 예시(draw).svg",
