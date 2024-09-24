@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "LLM 테스트 FakeLLM",
+      "path": "연습노트/LLM 테스트 FakeLLM.md"
+    },
+    {
+      "basename": "Windows Poetry 설치 및 정리",
+      "path": "연습노트/Windows Poetry 설치 및 정리.md"
+    },
+    {
+      "basename": "RAG란",
+      "path": "연습노트/RAG란.md"
+    },
+    {
+      "basename": "Styled-Bert-VITS2",
+      "path": "연습노트/Styled-Bert-VITS2.md"
+    },
+    {
+      "basename": "StrOutputParser",
+      "path": "연습노트/StrOutputParser.md"
+    },
+    {
+      "basename": "Spring에서 예외 처리 과정",
+      "path": "연습노트/Spring에서 예외 처리 과정.md"
+    },
+    {
+      "basename": "JOOQ 리턴 타입",
+      "path": "연습노트/JOOQ 리턴 타입.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "JOOQ Code Generator With Gradle",
+      "path": "연습노트/JOOQ Code Generator With Gradle.md"
     },
     {
       "basename": "스즈메의 문단속",
@@ -13,28 +45,12 @@
       "path": "롯데월드야 즐거웠다.md"
     },
     {
-      "basename": "RAG란",
-      "path": "연습노트/RAG란.md"
-    },
-    {
       "basename": "Spring Rest Docs with Kotlin DSL",
       "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
       "basename": "Prompting Github Copilot",
       "path": "연습노트/Prompting Github Copilot.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
-      "basename": "JOOQ Code Generator With Gradle",
-      "path": "연습노트/JOOQ Code Generator With Gradle.md"
     },
     {
       "basename": "자바 깊은 복사",
@@ -51,10 +67,6 @@
     {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Windows Poetry 설치 및 정리",
-      "path": "연습노트/Windows Poetry 설치 및 정리.md"
     },
     {
       "basename": "26가지 프롬프트 엔지니어링 꿀팁",
@@ -87,18 +99,6 @@
     {
       "basename": "고립 구체구 정전 용량(draw)",
       "path": "Excalidraw/고립 구체구 정전 용량(draw).svg"
-    },
-    {
-      "basename": "고립 구체구 정전 용량(draw)",
-      "path": "Excalidraw/고립 구체구 정전 용량(draw).md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "3.Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "3.Resources/IT/java/java 배열 사용법.md"
     }
   ],
   "omittedPaths": [],
