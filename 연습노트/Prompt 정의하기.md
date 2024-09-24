@@ -32,8 +32,30 @@ LLM의 생성 스타일은 2가지로 나눠지는데 `Chat` 모델과 `Completi
 
 언어 모델이 동작하기 이전에 사전에 Role을 정해서 LLM이 좀 더 나은 응답을 위해 설정하는 것이 Prompt이다. 보통 Prompt 모델은 Chat모델에서 정의하며 Langchain에서는 다음과 같이 3개의 역할을 정의함으로써 prompt를 정의한다.
 
-System:
-System은 AI 모델에 대한 전반적인 지시사항이나 컨텍스트를 제공한다. 이는 AI의 행동 방식, 대화의 목적, 또는 특정 규칙을 설정하는 데 사용된다. System 프롬프트는 대화의 전체적인 틀을 잡아주는 역할을 합니다.
+**System:**
+System은 AI 모델에 대한 전반적인 지시 사항이나 컨텍스트를 제공한다. 이는 AI의 행동 방식, 대화의 목적, 또는 특정 규칙을 설정하는 데 사용된다. System 프롬프트는 대화의 전체적인 틀을 잡아주는 역할을 한다.
+
+**Human**:  
+Human은 사용자의 입력이나 질문을 나타낸다. 이는 AI 모델이 응답해야 할 실제 쿼리나 명령을 포함한다. Human 프롬프트는 대화에서 사용자의 역할을 시뮬레이션한다. 예를 들면 "{input}" 이렇게 텍스트를 만들면 input을 의미 분석을 통해 적절한 대답을 LLM에게 제공해줄 수 있다.
+
+**AI**:  
+AI는 모델이 생성해야 할 응답의 시작을 나타낸다. 보통은 응답의 형식이나 스타일을 지정하는 데 활용된다.
+
+### PromptTemplate
+
+```python
+from langchain.prompts import PromptTemplate
+
+template = "{task}를 수행하는 로직을 {language}으로 작성해줘"
+
+prompt_template = PromptTemplate.from_template(template)
+print(prompt_template)
+prompt = prompt_template.format(task="0부터 10까지 계산", language="파이썬")
+print(prompt)
+```
+
+
+
 
 ## 질문 & 확장
 
