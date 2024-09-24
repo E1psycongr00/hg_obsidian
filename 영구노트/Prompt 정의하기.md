@@ -9,7 +9,7 @@ title: Prompt 정의하기
 작성 날짜: 2024-09-24
 작성 시간: 16:03
 
-#미완 #LLM #Langchain 
+#완성 #LLM #Langchain 
 
 ----
 ## 내용(Content)
@@ -73,6 +73,59 @@ json파일을 .load_prompt 메서드를 통해 template형식을 불러올 수�
 
 ### ChatPromptTemplate
 
+ChatPromptTemplate은 대화형으로 응답하는 LLM에 효과적으로 사용 가능하다.
+
+```python
+model = ChatOpenAI()
+prompt = ChatPromptTemplate.from_messages(
+    [
+        (
+            "system",
+            "당신은 {ability}에 능숙한 어시스턴트입니다. 20자 내외로 응답해주세요"
+        ),
+        # 대화 기록을 변수로 사용, history가 messageHistory의 key가 된다
+        MessagesPlaceholder(variable_name="history"),
+        ("human", "{input}"),
+    ]
+)
+
+chain = prompt | model
+```
+
+이 코드를 보면 system 프롬프트에 ability 변수를 주었고, human 프롬프트에 input 변수를 주었다.
+
+여기서 바로 .format_messages를 통해 prompt를 완성시켜줄 수도 있고, invoke를 통해서 요청시에 변수를 할당할 수도 있다.
+
+```python
+prompt = prompt.format_messages(ability="math", input="What is Cosine")
+```
+
+invoke를 통해 chain에 요청 시에 변수를 할당하는 방법
+
+```python
+chain.invoke({
+			  "ability": "math",
+			  "input": "What is Cosine"
+})
+```
+
+### Langchain Hub
+
+Langchain Hub를 통해서 쉽게 prompt를 정의할 수 있다.
+
+https://smith.langchain.com/hub
+
+```shell
+pip install langchainhub
+```
+
+이걸 입력 후에
+
+```python
+prompt = hub.pull("prompt name", api_url="")
+```
+
+이걸 이용하면 빠르고 쉽게 prompt를 정의할 수 있게 된다.
 
 ## 질문 & 확장
 
@@ -83,13 +136,5 @@ json파일을 .load_prompt 메서드를 통해 template형식을 불러올 수�
 - https://rudaks.tistory.com/entry/langchain-Prompt-Template-%EC%82%AC%EC%9A%A9%EB%B2%95
 - https://www.pinecone.io/learn/series/langchain/langchain-prompt-templates/
 ## 연결 노트
-
-
-
-
-
-
-
-
 
 

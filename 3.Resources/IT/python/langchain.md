@@ -18,6 +18,7 @@ title: langchain
 ## Langchain
 
 - [[Langchain이란]]
+- [[Prompt 정의하기]]
 - [[RAG란]]
 - [[LLM 테스트 FakeLLM]]
 - [[StrOutputParser]]
