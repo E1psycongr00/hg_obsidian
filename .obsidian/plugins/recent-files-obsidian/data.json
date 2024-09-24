@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Prompt 정의하기",
+      "path": "연습노트/Prompt 정의하기.md"
+    },
+    {
       "basename": "Windows Poetry 설치 및 정리",
       "path": "연습노트/Windows Poetry 설치 및 정리.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "롯데월드야 즐거웠다",
       "path": "롯데월드야 즐거웠다.md"
-    },
-    {
-      "basename": "Prompting Github Copilot",
-      "path": "연습노트/Prompting Github Copilot.md"
     }
   ],
   "omittedPaths": [],
