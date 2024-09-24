@@ -36,12 +36,15 @@ LLM의 생성 스타일은 2가지로 나눠지는데 `Chat` 모델과 `Completi
 System은 AI 모델에 대한 전반적인 지시 사항이나 컨텍스트를 제공한다. 이는 AI의 행동 방식, 대화의 목적, 또는 특정 규칙을 설정하는 데 사용된다. System 프롬프트는 대화의 전체적인 틀을 잡아주는 역할을 한다.
 
 **Human**:  
-Human은 사용자의 입력이나 질문을 나타낸다. 이는 AI 모델이 응답해야 할 실제 쿼리나 명령을 포함한다. Human 프롬프트는 대화에서 사용자의 역할을 시뮬레이션한다. 예를 들면 "{input}" 이렇게 텍스트를 만들면 input을 의미 분석을 통해 적절한 대답을 LLM에게 제공해줄 수 있다.
+Human은 사용자의 입력이나 질문을 나타낸다. 이는 AI 모델이 응답해야 할 실제 쿼리나 명령을 포함한다. Human 프롬프트는 대화에서 사용자의 역할을 시뮬레이션한다. 예를 들면 "{input}" 이렇게 텍스트를 만들면 input을 동적으로 prompt를 구성해서 적절한 대답을 LLM에게 제공해줄 수 있다.
 
 **AI**:  
 AI는 모델이 생성해야 할 응답의 시작을 나타낸다. 보통은 응답의 형식이나 스타일을 지정하는 데 활용된다.
 
 ### PromptTemplate
+
+>[!summary]
+> 변수를 넣어서 동적인 템플릿을 간단하게 생성하는 클래스로 from_template을 통해 템플릿 형식을 만들고 .format을 통해 prompt를 완성한다.
 
 ```python
 from langchain.prompts import PromptTemplate
@@ -55,6 +58,20 @@ print(prompt)
 ```
 
 
+```
+# prompt_template 출력값
+input_variables=['language', 'task'] template='{task}을 수행하는 로직을 {language}으로 작성해 줘~'
+
+# prompt 출력값
+0부터 10까지 계산을 수행하는 로직을 파이썬으로 작성해 줘~
+```
+
+위 예제에서는 task, language 2개의 변수를 지정했고, format을 통해 변수 값을 할당한다.
+
+json파일을 .load_prompt 메서드를 통해 template형식을 불러올 수도 있다.
+
+
+### ChatPromptTemplate
 
 
 ## 질문 & 확장
