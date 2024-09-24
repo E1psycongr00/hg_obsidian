@@ -22,6 +22,33 @@ title: LCEL과 RAG
 
 ### RAG와 함께 LECL 예제
 
+#### 1. 문서 임베딩과 Retrieval 질의 검색
+
+```python
+from dotenv import load_dotenv
+from langchain_core.documents import Document
+from langchain_community.vectorstores import FAISS
+from langchain_openai import OpenAIEmbeddings
+
+load_dotenv()
+
+docs = [
+    Document(page_content="the dog loves to eat pizza", metadata={"source": "animal.txt"}),
+    Document(page_content="the cat loves to eat lasagna", metadata={"source": "animal.txt"})
+]
+
+db = FAISS.from_documents(docs, OpenAIEmbeddings())
+
+retriever = db.as_retriever()
+result = retriever.invoke("What does the dog want to eat?")
+print(result)
+```
+
+그러면 invoke 결과로 "the dog loves to eat pizza" Document가 출력된다.
+
+#### 2. Prompt와 모델 설정
+
+
 
 
 ## 질문 & 확장
