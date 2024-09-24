@@ -12,7 +12,7 @@
     }
   },
   "file_exclusions": "Untitled",
-  "folder_exclusions": "smart-chats",
+  "folder_exclusions": ".git, .obsidian, .smart-env, .trash, 1.Projects, 2.Area, 3.Resources, 4.Archive, attachments, Excalidraw, smart-chats, templates, 나의 마일스톤, 데일리",
   "is_obsidian_vault": true,
   "smart_notices": {
     "muted": {}

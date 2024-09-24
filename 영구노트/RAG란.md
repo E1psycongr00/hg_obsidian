@@ -13,7 +13,7 @@ title: RAG란
 작성 날짜: 2024-09-10
 작성 시간: 18:03
 
-#미완 #AI #RAG #LLM 
+#완성 #AI #RAG #LLM 
 
 ----
 ## 내용(Content)
