@@ -18,4 +18,4 @@ title: python vscode 환경 세팅
 
 ## VSCODE 환경 셋팅
 
-- 
+- [[Ruff란]]

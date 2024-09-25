@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ruff란",
+      "path": "연습노트/Ruff란.md"
+    },
+    {
       "basename": "python vscode 환경 세팅",
       "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "JOOQ Code Generator With Gradle",
-      "path": "연습노트/JOOQ Code Generator With Gradle.md"
     }
   ],
   "omittedPaths": [],
