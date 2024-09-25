@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows Poetry 설치 및 정리",
+      "path": "연습노트/Windows Poetry 설치 및 정리.md"
+    },
+    {
       "basename": "LCEL과 RAG",
-      "path": "연습노트/LCEL과 RAG.md"
+      "path": "영구노트/LCEL과 RAG.md"
     },
     {
       "basename": "langchain",
@@ -11,10 +15,6 @@
     {
       "basename": "Prompt 정의하기",
       "path": "영구노트/Prompt 정의하기.md"
-    },
-    {
-      "basename": "Windows Poetry 설치 및 정리",
-      "path": "연습노트/Windows Poetry 설치 및 정리.md"
     },
     {
       "basename": "Langchain이란",

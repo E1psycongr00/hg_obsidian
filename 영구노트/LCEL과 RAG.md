@@ -10,7 +10,7 @@ title: LCEL과 RAG
 작성 날짜: 2024-09-24
 작성 시간: 20:03
 
-#미완 #LLM #RAG #Langchain 
+#완성 #LLM #RAG #Langchain 
 
 ----
 ## 내용(Content)
@@ -116,12 +116,6 @@ print(result)
 - https://rudaks.tistory.com/entry/langchain-LCEL%EB%A1%9C-RAG%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EA%B8%B0%EB%B3%B8-%EC%98%88%EC%A0%9C
 
 ## 연결 노트
-
-
-
-
-
-
 
 
 
