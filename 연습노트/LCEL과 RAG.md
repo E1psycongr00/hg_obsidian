@@ -113,6 +113,7 @@ print(result)
 
 ## 출처(링크)
 
+- https://rudaks.tistory.com/entry/langchain-LCEL%EB%A1%9C-RAG%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-%EA%B8%B0%EB%B3%B8-%EC%98%88%EC%A0%9C
 
 ## 연결 노트
 

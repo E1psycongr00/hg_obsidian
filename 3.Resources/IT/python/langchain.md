@@ -22,3 +22,4 @@ title: langchain
 - [[RAG란]]
 - [[LLM 테스트 FakeLLM]]
 - [[StrOutputParser]]
+- [[LCEL과 RAG]]
