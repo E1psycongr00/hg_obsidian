@@ -3,6 +3,7 @@ tags:
   - Husky
   - Git
   - GitHook
+  - "#Commit"
 aliases: 
 title: Husky
 date: 2024-02-22
@@ -10,7 +11,7 @@ date: 2024-02-22
 작성 날짜: 2024-02-22
 작성 시간: 12:53
 
-#완성 #Husky #Git #GitHook
+#완성 #Husky #Git #GitHook #Commit 
 
 ----
 ## 내용(Content)

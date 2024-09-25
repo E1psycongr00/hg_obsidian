@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Ruff란",
-      "path": "연습노트/Ruff란.md"
-    },
-    {
       "basename": "python vscode 환경 세팅",
       "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
+    },
+    {
+      "basename": "VSCode에 Ruff 환경 세팅",
+      "path": "영구노트/VSCode에 Ruff 환경 세팅.md"
+    },
+    {
+      "basename": "Ruff란",
+      "path": "영구노트/Ruff란.md"
+    },
+    {
+      "basename": "Husky",
+      "path": "영구노트/Husky.md"
+    },
+    {
+      "basename": "Husky를 활용해 Commit Convention 강제하기",
+      "path": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
     },
     {
       "basename": "langchain",
@@ -43,10 +59,6 @@
     {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
     },
     {
       "basename": "자바 깊은 복사",
@@ -87,18 +99,6 @@
     {
       "basename": "Java 공부",
       "path": "3.Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "유전체",
-      "path": "영구노트/유전체.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     }
   ],
   "omittedPaths": [],

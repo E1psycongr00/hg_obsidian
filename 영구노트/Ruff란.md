@@ -1,14 +1,15 @@
 ---
 tags:
   - Python
-aliases: 
+aliases:
+  - Ruff
 date: 2024-09-25
 title: Ruff란
 ---
 작성 날짜: 2024-09-25
 작성 시간: 13:20
 
-#미완 #Python 
+#완성 #Python 
 
 ----
 ## 내용(Content)
@@ -60,7 +61,7 @@ ruff format
 
 ## 질문 & 확장
 
-(없음)
+이것 외에도 Github Actions나 pre-commit에 응용 가능하다.
 
 ## 출처(링크)
 
