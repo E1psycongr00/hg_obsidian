@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "372b41cd2088b6d6",
+        "id": "c3b8a0bb5e3a8933",
         "type": "tabs",
         "children": [
           {
-            "id": "711d553673971749",
+            "id": "09910963f8f46376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/python/python vscode 환경 세팅.md",
+                "file": "영구노트/VSCode package index depth 설정하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "38dd62da6d138601",
@@ -88,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/python vscode 환경 세팅.md"
+                "file": "영구노트/VSCode package index depth 설정하기.md"
               }
             }
           }
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/python/python vscode 환경 세팅.md",
+                "file": "영구노트/VSCode package index depth 설정하기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/python/python vscode 환경 세팅.md",
+                "file": "영구노트/VSCode package index depth 설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,63 +144,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "bc93ad949722d401",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "3.Resources/IT/python/python vscode 환경 세팅.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.4769860980686516,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "9d534a5df67b7cbf",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "3.Resources/IT/python/python vscode 환경 세팅.md"
-              }
-            }
-          },
-          {
-            "id": "3551a9565ceec96d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
               }
             }
           },
@@ -226,20 +170,57 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "bc93ad949722d401",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "영구노트/VSCode package index depth 설정하기.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0534979423868331,
+                  "close": true
+                }
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
-        "id": "a4e161a6fbe81656",
+        "id": "b046426e10998bae",
         "type": "tabs",
         "children": [
           {
-            "id": "574148386374fdb8",
+            "id": "1aaa38f27764a613",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "영구노트/VSCode package index depth 설정하기.md"
+              }
             }
           }
         ]
@@ -268,10 +249,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "711d553673971749",
+  "active": "09910963f8f46376",
   "lastOpenFiles": [
-    "영구노트/VSCode에 Ruff 환경 세팅.md",
     "3.Resources/IT/python/python vscode 환경 세팅.md",
+    "영구노트/VSCode에 Ruff 환경 세팅.md",
+    "영구노트/VSCode package index depth 설정하기.md",
+    "attachments/screenshot/Pasted image 20240925145231.png",
     "attachments/screenshot/Pasted image 20240925140601.png",
     "영구노트/Ruff란.md",
     "영구노트/Husky.md",
@@ -299,7 +282,6 @@
     "3.Resources/IT/java/java 배열 사용법.md",
     "3.Resources/IT/java/Java 공부.md",
     "3.Resources/IT/python",
-    "영구노트/유전체.md",
     "attachments/screenshot/Pasted image 20240924113038.png",
     "attachments/screenshot/Pasted image 20240924112907.png",
     "Excalidraw/ttf/온글잎 보현체.ttf",
@@ -307,7 +289,6 @@
     "Excalidraw/세마 포어 signal 대기 좌석 없는 경우 예시(draw).svg",
     "Excalidraw/고립 구체구 정전 용량(draw).svg",
     "Excalidraw/Github 동작 원리(draw).svg",
-    "attachments/screenshot/KakaoTalk_20240906_123251717_01.jpg",
     "3.Resources/IT/알고리즘",
     "4.Archive/감상문",
     "3.Resources/IT/javascript/electron",

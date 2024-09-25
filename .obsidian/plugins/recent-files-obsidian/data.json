@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "VSCode package index depth 설정하기",
+      "path": "영구노트/VSCode package index depth 설정하기.md"
+    },
+    {
       "basename": "python vscode 환경 세팅",
       "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "java 배열 사용법",
       "path": "3.Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "3.Resources/IT/java/Java 공부.md"
     }
   ],
   "omittedPaths": [],

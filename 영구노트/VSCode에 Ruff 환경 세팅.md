@@ -14,6 +14,13 @@ title: VSCode에 Ruff 환경 세팅
 ----
 ## 내용(Content)
 
+### Ruff 설치
+
+```shell
+poetry add --group dev ruff
+```
+
+로 설치해준다.
 ###  Ruff Extension
 
 [[Ruff란|Ruff]] 를 이용하면 매우 빠르게 린터와 포맷팅을 지원받을 수 있다. 이를 정적 검사와 함께 자동으로 린터와 포맷팅이 가능하게 해 줄 수 있는데, VSCode에서는 Ruff Extension을 지원한다.
