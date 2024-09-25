@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "python vscode 환경 세팅",
+      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain.md"
+    },
+    {
       "basename": "Windows Poetry 설치 및 정리",
       "path": "연습노트/Windows Poetry 설치 및 정리.md"
     },
     {
       "basename": "LCEL과 RAG",
       "path": "영구노트/LCEL과 RAG.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain.md"
     },
     {
       "basename": "Prompt 정의하기",
@@ -95,10 +99,6 @@
     {
       "basename": "JOOQ Code Generator With Gradle",
       "path": "연습노트/JOOQ Code Generator With Gradle.md"
-    },
-    {
-      "basename": "스즈메의 문단속",
-      "path": "스즈메의 문단속.md"
     }
   ],
   "omittedPaths": [],
