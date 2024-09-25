@@ -48,7 +48,63 @@ print(result)
 
 #### 2. Prompt와 모델 설정
 
+```python
+prompt = ChatPromptTemplate.from_template(
+    """Answer the question based only on the following context:
+{context}
+Question: {question}
+"""
+)
 
+model = ChatOpenAI()
+
+```
+
+#### 3. chain 형성하기
+
+##### 질문 가공 후 검색
+
+```python
+retrieval_chain = (
+    {
+        "context": (lambda x : x["question"]) | retriever,
+        "question": itemgetter("question")
+    }
+    | prompt
+    | model
+    | StrOutputParser()
+)
+
+result = retrieval_chain.invoke({"question": "what does the dog want to eat?"})
+print(result)
+```
+
+이 코드는 invoke시 입력된 딕셔너리에서 "question" 키의 값을 추출해서 이를 retriever의 쿼리로 활용하라는 뜻이다.
+question에는 itemgetter를 사용해 딕셔너리의 "question" 키의 값을 "question"에 전달하라는 뜻이다.
+
+여기서는 단순하게 Question 키의 값을 뽑아서 그대로 전달했지만, 상황에 따라 전처리를 해서 Retriever에 넘길 수도 있다.
+
+##### 질문 그대로 검색
+
+```python
+retrieval_chain = (
+    {
+        "context": retriever,
+        "question": RunnablePassthrough()
+    }
+    | prompt
+    | model
+    | StrOutputParser()
+)
+
+result = retrieval_chain.invoke({"what does the dog want to eat?"})
+print(result)
+```
+
+"context"에 retriever만 전달되므로, 질문 자체를 그대로 retriever로 전달한다.
+질문에 변형 없이 RunnablePassthrough()를 사용하면, 질문을 가공하지 않고 그대로 전달한다.
+
+다만 위와 같이 사용한 경우에는 dictionary가 아닌 단순 문자열 형태로 질의를 해야한다.
 
 
 ## 질문 & 확장
