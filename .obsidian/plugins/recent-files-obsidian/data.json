@@ -5,6 +5,10 @@
       "path": "연습노트/Python에서 Optional한 데이터 잘 활용하기.md"
     },
     {
+      "basename": "단축 평가 계산",
+      "path": "영구노트/단축 평가 계산.md"
+    },
+    {
       "basename": "python 기본",
       "path": "3.Resources/IT/python/python 기본.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Truthy or Falsy",
       "path": "영구노트/Truthy or Falsy.md"
-    },
-    {
-      "basename": "단축 평가 계산",
-      "path": "영구노트/단축 평가 계산.md"
     },
     {
       "basename": "nullish 병합 연산자",
