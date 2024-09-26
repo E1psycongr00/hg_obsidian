@@ -4,7 +4,7 @@ tags:
   - VSCode
   - Python
 aliases: 
-date: 
+date: 2024-09-25
 title: VSCode package index depth 설정하기
 ---
 작성 날짜: 2024-09-25

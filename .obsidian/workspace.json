@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/VSCode package index depth 설정하기.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "단축",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "38dd62da6d138601",
@@ -89,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/VSCode package index depth 설정하기.md"
+                "file": "영구노트/단축 평가 계산.md"
               }
             }
           }
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/VSCode package index depth 설정하기.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/VSCode package index depth 설정하기.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/VSCode package index depth 설정하기.md",
+                "file": "영구노트/단축 평가 계산.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,6 +204,18 @@
                 }
               }
             }
+          },
+          {
+            "id": "5e306fa3df851206",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 6
@@ -219,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/VSCode package index depth 설정하기.md"
+                "file": "영구노트/단축 평가 계산.md"
               }
             }
           }
@@ -251,9 +262,9 @@
   },
   "active": "09910963f8f46376",
   "lastOpenFiles": [
+    "영구노트/VSCode package index depth 설정하기.md",
     "3.Resources/IT/python/python vscode 환경 세팅.md",
     "영구노트/VSCode에 Ruff 환경 세팅.md",
-    "영구노트/VSCode package index depth 설정하기.md",
     "attachments/screenshot/Pasted image 20240925145231.png",
     "attachments/screenshot/Pasted image 20240925140601.png",
     "영구노트/Ruff란.md",
