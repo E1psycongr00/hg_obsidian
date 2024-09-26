@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Python에서 Optional한 데이터 잘 활용하기",
-      "path": "연습노트/Python에서 Optional한 데이터 잘 활용하기.md"
-    },
-    {
-      "basename": "단축 평가 계산",
-      "path": "영구노트/단축 평가 계산.md"
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain.md"
     },
     {
       "basename": "python 기본",
       "path": "3.Resources/IT/python/python 기본.md"
+    },
+    {
+      "basename": "Python에서 Java의 Optional을 구현해서 이용해보기",
+      "path": "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md"
+    },
+    {
+      "basename": "Python에서 Optional한 데이터 잘 활용하기",
+      "path": "영구노트/Python에서 Optional한 데이터 잘 활용하기.md"
+    },
+    {
+      "basename": "단축 평가 계산",
+      "path": "영구노트/단축 평가 계산.md"
     },
     {
       "basename": "Python의 Truthy와 Falsy",
@@ -53,10 +61,6 @@
       "path": "연습노트/Git 핵심 명령어.md"
     },
     {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain.md"
-    },
-    {
       "basename": "Windows Poetry 설치 및 정리",
       "path": "연습노트/Windows Poetry 설치 및 정리.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Spring에서 예외 처리 과정",
       "path": "연습노트/Spring에서 예외 처리 과정.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     }
   ],
   "omittedPaths": [],
