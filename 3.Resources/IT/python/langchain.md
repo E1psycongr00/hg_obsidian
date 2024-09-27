@@ -30,3 +30,6 @@ title: langchain
 - [[Sparse Retriever VS Dense Retriever]]
 - [[VectorStore-backed Retriever]]
 - [[MultiQueryRetriever]]
+- [[ParentDocumentRetriever]]
+- [[SelfQueryRetriever]]
+- 

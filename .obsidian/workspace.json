@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md"
+                "file": "3.Resources/IT/python/langchain.md"
               }
             }
           }
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md",
+                "file": "3.Resources/IT/python/langchain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md",
+                "file": "3.Resources/IT/python/langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md",
+                "file": "3.Resources/IT/python/langchain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md"
+                "file": "3.Resources/IT/python/langchain.md"
               }
             }
           }
@@ -299,13 +298,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c1f6d2d29697cbf2",
+  "active": "5424e35ec9de88d7",
   "lastOpenFiles": [
+    "연습노트/MultiQueryRetriever.md",
+    "3.Resources/IT/python/langchain.md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).md",
     "연습노트/VectorStore-backed Retriever.md",
-    "연습노트/MultiQueryRetriever.md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).svg",
-    "3.Resources/IT/python/langchain.md",
     "연습노트/Retriever란 무엇인가.md",
     "3.Resources/IT/python/python 기본.md",
     "3.Resources/IT/python/python vscode 환경 세팅.md",

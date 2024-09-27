@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain.md"
+    },
+    {
       "basename": "MultiQueryRetriever",
       "path": "연습노트/MultiQueryRetriever.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "VectorStore-backed Retriever",
       "path": "연습노트/VectorStore-backed Retriever.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain.md"
     },
     {
       "basename": "Retriever란 무엇인가",
