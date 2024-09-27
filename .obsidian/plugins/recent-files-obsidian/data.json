@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MultiQueryRetriever",
+      "path": "연습노트/MultiQueryRetriever.md"
+    },
+    {
       "basename": "SelfQueryRetriever",
       "path": "연습노트/SelfQueryRetriever.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "ParentDocumentRetriever",
       "path": "연습노트/ParentDocumentRetriever.md"
-    },
-    {
-      "basename": "MultiQueryRetriever",
-      "path": "연습노트/MultiQueryRetriever.md"
     },
     {
       "basename": "ParentDocumentRetriever 동작 원리 (draw)",
