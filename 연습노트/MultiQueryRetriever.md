@@ -20,11 +20,15 @@ title: MultiQueryRetriever
 ### MultiQueryRetriever
 
 >[!summary]
->질문이 너무 추상적이거나 검색이 힘든 경우, 그와 유사한 질문을 여러 개 생성 임베딩해서 Vector Store에 쿼리하는 검색기
+>주어진 사용자 입력 쿼리에 대해 그와 유사한 질문을 여러 개 생성 임베딩해서 Vector Store에 쿼리하는 검색기
 
-MultiQueryRetriever는 LLM을 활용해 vector store 검색을 위한 쿼리를 여러 개 생성해서 검색의 질을 높인다. 하지만 LLM을 사용하므로 기존 Retriever에 비해 비용이 더 들어간다.
+![[MultiQueryRetriever 합집합 (draw).svg]]
 
-하지만 여러 쿼리를 생성해서 관련된 다양한 답변을 얻을 수 있기 때문에 질문에 관련된 풍부한 내용을 얻을 수 있다.
+MultiQueryRetriever는 LLM을 활용해 vector store 검색을 위한 쿼리를 여러 개 생성해서 검색의 질을 높인다. 그렇기 때문에 프롬프트를 어느 정도 자동화해주는 효과가 있다. 
+
+여러 쿼리를 생성해서 관련된 다양한 답변을 얻을 수 있기 때문에 거리 검색의 한계를 어느 정도 극복하고 질문에 관련된 풍부한 내용을 얻을 수 있다. 하지만 LLM을 사용하므로 기존 Retriever에 비해 비용이 더 들어간다.
+
+
 
 ### 동작 과정
 
@@ -86,8 +90,11 @@ retriever_from_llm = MultiQueryRetriever.from_llm(
 )
 ```
 
-이 코드를 해석하면 MultiQueryRetriever를 호출하는데 llm에서 정의해 놓은 MultiQueryRetriever 
+이 코드를 해석하면 MultiQueryRetriever 인스턴스를 생성하는데 from_llm을 통해 llm으로 검색 쿼리를 생성한다.
 
+```python
+retriever_from_llm.get_relevant_documents(query=question)
+```
 ## 질문 & 확장
 
 (없음)

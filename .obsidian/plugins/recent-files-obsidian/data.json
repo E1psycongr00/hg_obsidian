@@ -5,6 +5,10 @@
       "path": "연습노트/MultiQueryRetriever.md"
     },
     {
+      "basename": "MultiQueryRetriever 합집합 (draw)",
+      "path": "Excalidraw/MultiQueryRetriever 합집합 (draw).md"
+    },
+    {
       "basename": "SelfQueryRetriever",
       "path": "연습노트/SelfQueryRetriever.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Husky",
       "path": "영구노트/Husky.md"
-    },
-    {
-      "basename": "Husky를 활용해 Commit Convention 강제하기",
-      "path": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
     }
   ],
   "omittedPaths": [],
