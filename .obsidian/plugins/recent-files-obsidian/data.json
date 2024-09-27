@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ParentDocumentRetriever",
-      "path": "연습노트/ParentDocumentRetriever.md"
+      "basename": "SelfQueryRetriever",
+      "path": "연습노트/SelfQueryRetriever.md"
     },
     {
       "basename": "MultiQueryRetriever",
-      "path": "연습노트/MultiQueryRetriever.md"
+      "path": "영구노트/MultiQueryRetriever.md"
+    },
+    {
+      "basename": "ParentDocumentRetriever",
+      "path": "연습노트/ParentDocumentRetriever.md"
     },
     {
       "basename": "VectorStore-backed Retriever",
@@ -15,10 +19,6 @@
     {
       "basename": "MultiQueryRetriever 합집합 (draw)",
       "path": "Excalidraw/MultiQueryRetriever 합집합 (draw).md"
-    },
-    {
-      "basename": "SelfQueryRetriever",
-      "path": "연습노트/SelfQueryRetriever.md"
     },
     {
       "basename": "langchain",

@@ -119,16 +119,14 @@ retrieved_docs = retriever.invoke("Word2Vec")
 print(retrieved_docs[0].page_content)
 ```
 
-
-
-
 ## 질문 & 확장
 
 (없음)
 
 ## 출처(링크)
 
-
+- https://wikidocs.net/234164
+- https://www.youtube.com/watch?v=J2AsmUODBak&t=1796s
 ## 연결 노트
 
 
