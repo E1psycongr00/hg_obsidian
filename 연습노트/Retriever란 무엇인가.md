@@ -62,3 +62,4 @@ Retriever 종류로는 크게 Sparse Retriever와 Dense Retriever로 나눌 수 
 ## 연결 노트
 
 - [[RAG란|RAG]]
+- [[Sparse Retriever VS Dense Retriever]]

@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Sparse Retriever VS Dense Retriever",
-      "path": "연습노트/Sparse Retriever VS Dense Retriever.md"
+      "basename": "MultiQueryRetriever",
+      "path": "연습노트/MultiQueryRetriever.md"
+    },
+    {
+      "basename": "Multi Query Retriever 동작 원리 (draw)",
+      "path": "Excalidraw/Multi Query Retriever 동작 원리 (draw).md"
+    },
+    {
+      "basename": "VectorStore-backed Retriever",
+      "path": "연습노트/VectorStore-backed Retriever.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain.md"
     },
     {
       "basename": "Retriever란 무엇인가",
       "path": "연습노트/Retriever란 무엇인가.md"
     },
     {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain.md"
+      "basename": "python 기본",
+      "path": "3.Resources/IT/python/python 기본.md"
+    },
+    {
+      "basename": "python vscode 환경 세팅",
+      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
+    },
+    {
+      "basename": "Sparse Retriever VS Dense Retriever",
+      "path": "영구노트/Sparse Retriever VS Dense Retriever.md"
     },
     {
       "basename": "RAG란",
@@ -19,10 +39,6 @@
     {
       "basename": "Retriever 동작과정(draw)",
       "path": "Excalidraw/Retriever 동작과정(draw).md"
-    },
-    {
-      "basename": "python 기본",
-      "path": "3.Resources/IT/python/python 기본.md"
     },
     {
       "basename": "Python에서 Java의 Optional을 구현해서 이용해보기",
@@ -51,10 +67,6 @@
     {
       "basename": "VSCode package index depth 설정하기",
       "path": "영구노트/VSCode package index depth 설정하기.md"
-    },
-    {
-      "basename": "python vscode 환경 세팅",
-      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
     },
     {
       "basename": "VSCode에 Ruff 환경 세팅",
@@ -87,18 +99,6 @@
     {
       "basename": "Prompt 정의하기",
       "path": "영구노트/Prompt 정의하기.md"
-    },
-    {
-      "basename": "Langchain이란",
-      "path": "영구노트/Langchain이란.md"
-    },
-    {
-      "basename": "Langchain 구조(draw)",
-      "path": "Excalidraw/Langchain 구조(draw).md"
-    },
-    {
-      "basename": "Langchain 구조(draw)",
-      "path": "Excalidraw/Langchain 구조(draw).svg"
     }
   ],
   "omittedPaths": [],
