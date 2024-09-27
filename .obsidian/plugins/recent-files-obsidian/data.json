@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ParerntDocumentRetriever 동작 원리",
+      "path": "Excalidraw/ParerntDocumentRetriever 동작 원리.md"
+    },
+    {
       "basename": "ParentDocumentRetriever",
       "path": "연습노트/ParentDocumentRetriever.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Windows Poetry 설치 및 정리",
       "path": "연습노트/Windows Poetry 설치 및 정리.md"
-    },
-    {
-      "basename": "LCEL과 RAG",
-      "path": "영구노트/LCEL과 RAG.md"
     }
   ],
   "omittedPaths": [],

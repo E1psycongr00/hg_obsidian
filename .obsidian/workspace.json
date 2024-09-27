@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "07901d9f6296d9af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ParerntDocumentRetriever 동작 원리.md"
+              }
+            }
+          },
+          {
             "id": "c2669d49e8a9f39a",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/ParentDocumentRetriever.md"
+                "file": "Excalidraw/ParerntDocumentRetriever 동작 원리.md"
               }
             }
           }
@@ -153,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/ParentDocumentRetriever.md",
+                "file": "Excalidraw/ParerntDocumentRetriever 동작 원리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/ParentDocumentRetriever.md",
+                "file": "Excalidraw/ParerntDocumentRetriever 동작 원리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/ParentDocumentRetriever.md",
+                "file": "Excalidraw/ParerntDocumentRetriever 동작 원리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -271,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/ParentDocumentRetriever.md"
+                "file": "Excalidraw/ParerntDocumentRetriever 동작 원리.md"
               }
             }
           }
@@ -302,11 +312,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "43b325d716fbc885",
+  "active": "07901d9f6296d9af",
   "lastOpenFiles": [
+    "Excalidraw/ParerntDocumentRetriever 동작 원리.svg",
+    "연습노트/ParentDocumentRetriever.md",
+    "Excalidraw/ParerntDocumentRetriever 동작 원리.md",
     "연습노트/MultiQueryRetriever.md",
     "3.Resources/IT/python/langchain.md",
-    "연습노트/ParentDocumentRetriever.md",
     "연습노트/VectorStore-backed Retriever.md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).svg",
@@ -334,8 +346,6 @@
     "attachments/screenshot/Pasted image 20240925132155.png",
     "attachments/screenshot/Pasted image 20240925132141.png",
     "연습노트/Windows Poetry 설치 및 정리.md",
-    "영구노트/LCEL과 RAG.md",
-    "영구노트/Prompt 정의하기.md",
     "Excalidraw/Langchain 구조(draw).svg",
     "3.Resources/IT/python",
     "attachments/screenshot/Pasted image 20240924113038.png",
