@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "38dd62da6d138601",
@@ -288,7 +289,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "95053cee5244e79d",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
     "연습노트/Retriever란 무엇인가.md",
     "연습노트/Sparse Retriever VS Dense Retriever.md",
