@@ -95,6 +95,8 @@ retriever_from_llm = MultiQueryRetriever.from_llm(
 ```python
 retriever_from_llm.get_relevant_documents(query=question)
 ```
+
+
 ## 질문 & 확장
 
 (없음)

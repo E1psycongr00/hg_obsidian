@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md"
+                "file": "연습노트/ParentDocumentRetriever.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md",
+                "file": "연습노트/ParentDocumentRetriever.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md",
+                "file": "연습노트/ParentDocumentRetriever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md",
+                "file": "연습노트/ParentDocumentRetriever.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/MultiQueryRetriever.md"
+                "file": "연습노트/ParentDocumentRetriever.md"
               }
             }
           }
@@ -300,17 +300,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9db49f1bb971a273",
+  "active": "61c3f6792fa19375",
   "lastOpenFiles": [
+    "연습노트/MultiQueryRetriever.md",
+    "연습노트/ParentDocumentRetriever.md",
+    "연습노트/VectorStore-backed Retriever.md",
     "Excalidraw/MultiQueryRetriever 합집합 (draw).md",
     "Excalidraw/MultiQueryRetriever 합집합 (draw).svg",
-    "연습노트/MultiQueryRetriever.md",
     "연습노트/SelfQueryRetriever.md",
     "3.Resources/IT/python/langchain.md",
-    "연습노트/ParentDocumentRetriever.md",
     "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).md",
     "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).svg",
-    "연습노트/VectorStore-backed Retriever.md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).svg",
     "연습노트/Retriever란 무엇인가.md",
