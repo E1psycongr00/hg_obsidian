@@ -33,7 +33,93 @@ Question이 들어오면 쿼리를 만들어서 VectorStore에서 검색한다. 
 
 ### 코드
 
-##### 
+##### PDF Load
+
+```python
+from langchain_community.document_loaders import PyPDFLoader
+
+
+loaders = [
+    PyPDFLoader("./contents/diva.pdf"),
+    PyPDFLoader("./contents/doom.pdf")
+]
+docs = []
+for loader in loaders:
+    docs.extend(loader.load_and_split())
+```
+
+load_and_split은 기본적으로 RecursiveCharacterTextSplitter를 이용해서 여러 Chunk로 나눠서 Document를 생성해주는 역할을 한다.
+
+위 코드는 이렇게 chunk한 것들을 docs list 변수에 보관한다.
+##### HuggingFaceEmbedding
+
+``` python
+from langchain.embeddings import HuggingFaceEmbeddings
+
+model_name = "jhgan/ko-sbert-nli"
+encode_kwargs = {'normalize_embeddings': True}
+ko_embedding = HuggingFaceEmbeddings(
+    model_name=model_name,
+    encode_kwargs=encode_kwargs
+)
+```
+
+OpenAIEmbedding 만으로는 token이 감당이 안되기 때문에 HuggingFaceEmbeddings를 이용해서 받아서 사용한다.
+
+##### Vector Store 정의하기
+
+```python
+from langchain_chroma import Chroma
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+
+child_splitter = RecursiveCharacterTextSplitter(chunk_size=400, chunk_overlap=100)
+parent_splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=100)
+
+vector_store = Chroma(
+    embedding_function=ko_embedding,
+    collection_name="parent-document"
+)
+```
+
+##### ParentDocumentRetriever 정의하기
+
+```python
+from langchain_core.stores import InMemoryStore
+from langchain.retrievers import ParentDocumentRetriever
+
+store = InMemoryStore()
+
+retriever = ParentDocumentRetriever(
+    vectorstore=vector_store,
+    docstore=store,
+    child_splitter=child_splitter,
+)
+
+retriever.add_documents(docs)
+```
+
+vectorstore는 문서 벡터를 저장할 저장소를 지정한다. docstore 매개 변수는 문서 데이터(ParentDocument)를 저장할 장소이다. child_splitter는 하위 문서 분할기에 사용되고, Parent_splitter는 상위 문서를 분할하는데 사용한다.
+
+>[!caution]
+>`작은 청크는 vectorstore`, `큰 청크는 docstore`이다.
+
+테스트는 다음과 같이 해볼 수 있다.
+
+```python
+# 유사도 검색을 수행합니다.
+sub_docs = vectorstore.similarity_search("Word2Vec")
+# sub_docs 리스트의 첫 번째 요소의 page_content 속성을 출력합니다.
+print(sub_docs[0].page_content)
+
+
+# 문서를 검색하여 가져옵니다.
+retrieved_docs = retriever.invoke("Word2Vec")
+# 검색된 문서의 첫 번째 문서의 페이지 내용의 길이를 반환합니다.
+print(retrieved_docs[0].page_content)
+```
+
+
 
 
 ## 질문 & 확장
