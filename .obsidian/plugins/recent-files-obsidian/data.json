@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "TimeWeightedVectorStoreRetriever",
+      "path": "연습노트/TimeWeightedVectorStoreRetriever.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain.md"
+    },
+    {
+      "basename": "Retriever란 무엇인가",
+      "path": "영구노트/Retriever란 무엇인가.md"
+    },
+    {
+      "basename": "Github의 구조",
+      "path": "연습노트/Github의 구조.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
+    },
+    {
       "basename": "SelfQueryRetriever",
       "path": "연습노트/SelfQueryRetriever.md"
+    },
+    {
+      "basename": "VectorStore-backed Retriever",
+      "path": "연습노트/VectorStore-backed Retriever.md"
     },
     {
       "basename": "MultiQueryRetriever",
@@ -13,16 +37,8 @@
       "path": "연습노트/ParentDocumentRetriever.md"
     },
     {
-      "basename": "VectorStore-backed Retriever",
-      "path": "연습노트/VectorStore-backed Retriever.md"
-    },
-    {
       "basename": "MultiQueryRetriever 합집합 (draw)",
       "path": "Excalidraw/MultiQueryRetriever 합집합 (draw).md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain.md"
     },
     {
       "basename": "ParentDocumentRetriever 동작 원리 (draw)",
@@ -35,10 +51,6 @@
     {
       "basename": "Multi Query Retriever 동작 원리 (draw)",
       "path": "Excalidraw/Multi Query Retriever 동작 원리 (draw).md"
-    },
-    {
-      "basename": "Retriever란 무엇인가",
-      "path": "연습노트/Retriever란 무엇인가.md"
     },
     {
       "basename": "python 기본",
@@ -87,18 +99,6 @@
     {
       "basename": "VSCode package index depth 설정하기",
       "path": "영구노트/VSCode package index depth 설정하기.md"
-    },
-    {
-      "basename": "VSCode에 Ruff 환경 세팅",
-      "path": "영구노트/VSCode에 Ruff 환경 세팅.md"
-    },
-    {
-      "basename": "Ruff란",
-      "path": "영구노트/Ruff란.md"
-    },
-    {
-      "basename": "Husky",
-      "path": "영구노트/Husky.md"
     }
   ],
   "omittedPaths": [],

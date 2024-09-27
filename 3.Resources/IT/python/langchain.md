@@ -32,4 +32,4 @@ title: langchain
 - [[MultiQueryRetriever]]
 - [[ParentDocumentRetriever]]
 - [[SelfQueryRetriever]]
-- 
+- [[TimeWeightedVectorStoreRetriever]]
