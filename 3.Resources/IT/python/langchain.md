@@ -27,4 +27,5 @@ title: langchain
 ### Retriever
 
 - [[Retriever란 무엇인가]]
+- [[Sparse Retriever VS Dense Retriever]]
 - 

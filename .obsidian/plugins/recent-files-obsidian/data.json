@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Sparse Retriever VS Dense Retriever",
+      "path": "연습노트/Sparse Retriever VS Dense Retriever.md"
+    },
+    {
       "basename": "Retriever란 무엇인가",
       "path": "연습노트/Retriever란 무엇인가.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Langchain 구조(draw)",
       "path": "Excalidraw/Langchain 구조(draw).svg"
-    },
-    {
-      "basename": "Styled-Bert-VITS2",
-      "path": "연습노트/Styled-Bert-VITS2.md"
     }
   ],
   "omittedPaths": [],
