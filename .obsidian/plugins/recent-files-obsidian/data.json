@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "ParerntDocumentRetriever 동작 원리",
-      "path": "Excalidraw/ParerntDocumentRetriever 동작 원리.md"
+      "basename": "SelfQueryRetriever",
+      "path": "연습노트/SelfQueryRetriever.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain.md"
     },
     {
       "basename": "ParentDocumentRetriever",
@@ -13,8 +17,12 @@
       "path": "연습노트/MultiQueryRetriever.md"
     },
     {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain.md"
+      "basename": "ParentDocumentRetriever 동작 원리 (draw)",
+      "path": "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).md"
+    },
+    {
+      "basename": "ParentDocumentRetriever 동작 원리 (draw)",
+      "path": "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).svg"
     },
     {
       "basename": "VectorStore-backed Retriever",
@@ -91,14 +99,6 @@
     {
       "basename": "Husky를 활용해 Commit Convention 강제하기",
       "path": "영구노트/Husky를 활용해 Commit Convention 강제하기.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "Windows Poetry 설치 및 정리",
-      "path": "연습노트/Windows Poetry 설치 및 정리.md"
     }
   ],
   "omittedPaths": [],
