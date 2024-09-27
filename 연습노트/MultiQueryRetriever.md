@@ -24,6 +24,8 @@ title: MultiQueryRetriever
 
 MultiQueryRetriever는 LLM을 활용해 vector store 검색을 위한 쿼리를 여러 개 생성해서 검색의 질을 높인다. 하지만 LLM을 사용하므로 기존 Retriever에 비해 비용이 더 들어간다.
 
+하지만 여러 쿼리를 생성해서 관련된 다양한 답변을 얻을 수 있기 때문에 질문에 관련된 풍부한 내용을 얻을 수 있다.
+
 ### 동작 과정
 
 ![[Multi Query Retriever 동작 원리 (draw).svg]]

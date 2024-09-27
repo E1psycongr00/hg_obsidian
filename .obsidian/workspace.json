@@ -21,25 +21,28 @@
             }
           },
           {
-            "id": "c1f6d2d29697cbf2",
+            "id": "9db49f1bb971a273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "연습노트/MultiQueryRetriever.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "82293f16eb0fc60f",
+            "id": "43b325d716fbc885",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Multi Query Retriever 동작 원리 (draw).md"
+                "file": "ParentDocumentRetriever.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -302,8 +305,9 @@
   "lastOpenFiles": [
     "연습노트/MultiQueryRetriever.md",
     "3.Resources/IT/python/langchain.md",
-    "Excalidraw/Multi Query Retriever 동작 원리 (draw).md",
+    "ParentDocumentRetriever.md",
     "연습노트/VectorStore-backed Retriever.md",
+    "Excalidraw/Multi Query Retriever 동작 원리 (draw).md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).svg",
     "연습노트/Retriever란 무엇인가.md",
     "3.Resources/IT/python/python 기본.md",
