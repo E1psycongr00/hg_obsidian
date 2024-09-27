@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ParentDocumentRetriever.md",
+                "file": "연습노트/ParentDocumentRetriever.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md"
+                "file": "연습노트/ParentDocumentRetriever.md"
               }
             }
           }
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "연습노트/ParentDocumentRetriever.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "연습노트/ParentDocumentRetriever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "연습노트/ParentDocumentRetriever.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md"
+                "file": "연습노트/ParentDocumentRetriever.md"
               }
             }
           }
@@ -301,11 +302,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5424e35ec9de88d7",
+  "active": "43b325d716fbc885",
   "lastOpenFiles": [
     "연습노트/MultiQueryRetriever.md",
     "3.Resources/IT/python/langchain.md",
-    "ParentDocumentRetriever.md",
+    "연습노트/ParentDocumentRetriever.md",
     "연습노트/VectorStore-backed Retriever.md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).md",
     "Excalidraw/Multi Query Retriever 동작 원리 (draw).svg",
