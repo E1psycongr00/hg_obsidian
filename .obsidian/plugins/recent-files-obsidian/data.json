@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "TimeWeightedVectorStoreRetriever",
-      "path": "연습노트/TimeWeightedVectorStoreRetriever.md"
+      "basename": "LongContextReorder",
+      "path": "연습노트/LongContextReorder.md"
     },
     {
       "basename": "langchain",
       "path": "3.Resources/IT/python/langchain.md"
+    },
+    {
+      "basename": "ParentDocumentRetriever",
+      "path": "영구노트/ParentDocumentRetriever.md"
+    },
+    {
+      "basename": "TimeWeightedVectorStoreRetriever",
+      "path": "영구노트/TimeWeightedVectorStoreRetriever.md"
     },
     {
       "basename": "Retriever란 무엇인가",
@@ -31,10 +39,6 @@
     {
       "basename": "MultiQueryRetriever",
       "path": "영구노트/MultiQueryRetriever.md"
-    },
-    {
-      "basename": "ParentDocumentRetriever",
-      "path": "연습노트/ParentDocumentRetriever.md"
     },
     {
       "basename": "MultiQueryRetriever 합집합 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "nullish 병합 연산자",
       "path": "영구노트/nullish 병합 연산자.md"
-    },
-    {
-      "basename": "VSCode package index depth 설정하기",
-      "path": "영구노트/VSCode package index depth 설정하기.md"
     }
   ],
   "omittedPaths": [],

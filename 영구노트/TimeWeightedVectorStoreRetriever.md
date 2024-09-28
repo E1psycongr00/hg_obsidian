@@ -12,7 +12,7 @@ title: TimeWeightedVectorStoreRetriever
 작성 날짜: 2024-09-27
 작성 시간: 20:30
 
-#미완 #Python #Langchain #RAG #Retriever 
+#완성 #Python #Langchain #RAG #Retriever 
 
 ----
 ## 내용(Content)
@@ -38,6 +38,25 @@ $$
 
 ### code
 
+##### TimeWeightedVectorStoreRetrieve Retriever 설정하기
+
+```python
+from langchain.docstore import InMemoryDocstore
+from langchain.retrievers import TimeWeightedVectorStoreRetriever
+from langchain.vectorstores import FAISS
+from langchain_openai import OpenAIEmbeddings
+import faiss
+
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+
+embedding_size = 1536
+index = faiss.IndexFlatL2(embedding_size)
+vectorstore = FAISS(embeddings, index, InMemoryDocstore({}), {})
+
+retriever = TimeWeightedVectorStoreRetriever(
+    vectorstore=vectorstore, decay_rate=0.1, k=1
+)
+```
 
 ## 질문 & 확장
 
