@@ -24,13 +24,8 @@ title: langchain
 - [[StrOutputParser]]
 - [[LCEL과 RAG]]
 
+
+## 하위 Resource 문서
 ### Retriever
 
-- [[Retriever란 무엇인가]]
-- [[Sparse Retriever VS Dense Retriever]]
-- [[VectorStore-backed Retriever]]
-- [[MultiQueryRetriever]]
-- [[ParentDocumentRetriever]]
-- [[SelfQueryRetriever]]
-- [[TimeWeightedVectorStoreRetriever]]
-- [[LongContextReorder|긴 문맥 정렬기]]
+- [[Retriever]]

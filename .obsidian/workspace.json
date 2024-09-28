@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "3.Resources/IT/python/langchain/langchain.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md"
+                "file": "3.Resources/IT/python/langchain/langchain.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "3.Resources/IT/python/langchain/langchain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "3.Resources/IT/python/langchain/langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md",
+                "file": "3.Resources/IT/python/langchain/langchain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain.md"
+                "file": "3.Resources/IT/python/langchain/langchain.md"
               }
             }
           }
@@ -263,9 +263,11 @@
   },
   "active": "5424e35ec9de88d7",
   "lastOpenFiles": [
+    "3.Resources/IT/python/langchain/Retriever.md",
     "3.Resources/IT/python/python 기본.md",
     "3.Resources/IT/python/python vscode 환경 세팅.md",
-    "3.Resources/IT/python/langchain.md",
+    "3.Resources/IT/python/langchain/langchain.md",
+    "3.Resources/IT/python/langchain",
     "영구노트/Python의 Truthy와 Falsy.md",
     "영구노트/Python에서 Optional한 데이터 잘 활용하기.md",
     "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md",
@@ -307,7 +309,6 @@
     "1.Projects/개인 프로젝트",
     "4.Archive",
     "2.Area",
-    "1.Projects",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
