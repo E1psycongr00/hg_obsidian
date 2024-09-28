@@ -9,6 +9,10 @@
       "path": "3.Resources/IT/python/python 기본.md"
     },
     {
+      "basename": "python vscode 환경 세팅",
+      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
+    },
+    {
       "basename": "Python의 Truthy와 Falsy",
       "path": "영구노트/Python의 Truthy와 Falsy.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Pydandic Custom Validation 타입 만들기",
       "path": "영구노트/Pydandic Custom Validation 타입 만들기.md"
-    },
-    {
-      "basename": "python vscode 환경 세팅",
-      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
     },
     {
       "basename": "클래스 변수와 인스턴스 변수",

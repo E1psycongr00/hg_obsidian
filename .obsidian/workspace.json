@@ -200,7 +200,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.053497942386834,
+                  "scale": 0.7514342322277601,
                   "close": true
                 }
               }
@@ -264,13 +264,13 @@
   "active": "5424e35ec9de88d7",
   "lastOpenFiles": [
     "3.Resources/IT/python/python 기본.md",
+    "3.Resources/IT/python/python vscode 환경 세팅.md",
+    "3.Resources/IT/python/langchain.md",
     "영구노트/Python의 Truthy와 Falsy.md",
     "영구노트/Python에서 Optional한 데이터 잘 활용하기.md",
     "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md",
     "영구노트/Pydandic Custom Validation 타입 만들기.md",
     "attachments/screenshot/Pasted image 20240928164818.png",
-    "3.Resources/IT/python/langchain.md",
-    "3.Resources/IT/python/python vscode 환경 세팅.md",
     "연습노트/클래스 변수와 인스턴스 변수.md",
     "연습노트/LongContextReorder.md",
     "attachments/screenshot/Pasted image 20240928093447.png",
