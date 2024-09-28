@@ -9,6 +9,22 @@
       "path": "3.Resources/IT/python/python 기본.md"
     },
     {
+      "basename": "Python의 Truthy와 Falsy",
+      "path": "영구노트/Python의 Truthy와 Falsy.md"
+    },
+    {
+      "basename": "Python에서 Optional한 데이터 잘 활용하기",
+      "path": "영구노트/Python에서 Optional한 데이터 잘 활용하기.md"
+    },
+    {
+      "basename": "Python에서 Java의 Optional을 구현해서 이용해보기",
+      "path": "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md"
+    },
+    {
+      "basename": "Pydandic Custom Validation 타입 만들기",
+      "path": "영구노트/Pydandic Custom Validation 타입 만들기.md"
+    },
+    {
       "basename": "python vscode 환경 세팅",
       "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
     },
@@ -81,24 +97,8 @@
       "path": "Excalidraw/Retriever 동작과정(draw).md"
     },
     {
-      "basename": "Python에서 Java의 Optional을 구현해서 이용해보기",
-      "path": "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md"
-    },
-    {
-      "basename": "Python에서 Optional한 데이터 잘 활용하기",
-      "path": "영구노트/Python에서 Optional한 데이터 잘 활용하기.md"
-    },
-    {
       "basename": "단축 평가 계산",
       "path": "영구노트/단축 평가 계산.md"
-    },
-    {
-      "basename": "Python의 Truthy와 Falsy",
-      "path": "영구노트/Python의 Truthy와 Falsy.md"
-    },
-    {
-      "basename": "Truthy or Falsy",
-      "path": "영구노트/Truthy or Falsy.md"
     }
   ],
   "omittedPaths": [],
