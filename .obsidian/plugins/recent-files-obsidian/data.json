@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "LongContextReorder",
-      "path": "연습노트/LongContextReorder.md"
+      "basename": "클래스 변수와 인스턴스 변수",
+      "path": "연습노트/클래스 변수와 인스턴스 변수.md"
     },
     {
       "basename": "langchain",
       "path": "3.Resources/IT/python/langchain.md"
+    },
+    {
+      "basename": "python 기본",
+      "path": "3.Resources/IT/python/python 기본.md"
+    },
+    {
+      "basename": "LongContextReorder",
+      "path": "연습노트/LongContextReorder.md"
     },
     {
       "basename": "ParentDocumentRetriever",
@@ -57,10 +65,6 @@
       "path": "Excalidraw/Multi Query Retriever 동작 원리 (draw).md"
     },
     {
-      "basename": "python 기본",
-      "path": "3.Resources/IT/python/python 기본.md"
-    },
-    {
       "basename": "python vscode 환경 세팅",
       "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Truthy or Falsy",
       "path": "영구노트/Truthy or Falsy.md"
-    },
-    {
-      "basename": "nullish 병합 연산자",
-      "path": "영구노트/nullish 병합 연산자.md"
     }
   ],
   "omittedPaths": [],
