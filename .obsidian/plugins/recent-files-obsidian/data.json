@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
+      "basename": "SelfQueryRetriever",
+      "path": "연습노트/SelfQueryRetriever.md"
     },
     {
       "basename": "Retriever",
       "path": "3.Resources/IT/python/langchain/Retriever.md"
+    },
+    {
+      "basename": "ParentDocumentRetriever",
+      "path": "영구노트/ParentDocumentRetriever.md"
+    },
+    {
+      "basename": "TimeWeightedVectorStoreRetriever",
+      "path": "영구노트/TimeWeightedVectorStoreRetriever.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain/langchain.md"
     },
     {
       "basename": "python 기본",
@@ -41,14 +53,6 @@
       "path": "연습노트/LongContextReorder.md"
     },
     {
-      "basename": "ParentDocumentRetriever",
-      "path": "영구노트/ParentDocumentRetriever.md"
-    },
-    {
-      "basename": "TimeWeightedVectorStoreRetriever",
-      "path": "영구노트/TimeWeightedVectorStoreRetriever.md"
-    },
-    {
       "basename": "Retriever란 무엇인가",
       "path": "영구노트/Retriever란 무엇인가.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Git 핵심 명령어",
       "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "SelfQueryRetriever",
-      "path": "연습노트/SelfQueryRetriever.md"
     },
     {
       "basename": "VectorStore-backed Retriever",
