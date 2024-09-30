@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "RunnableLambda",
+      "path": "연습노트/RunnableLambda.md"
+    },
+    {
       "basename": "LCEL",
       "path": "3.Resources/IT/python/langchain/LCEL.md"
+    },
+    {
+      "basename": "RunnablePassThrough",
+      "path": "영구노트/RunnablePassThrough.md"
     },
     {
       "basename": "Retriever",
@@ -91,14 +99,6 @@
     {
       "basename": "ParentDocumentRetriever 동작 원리 (draw)",
       "path": "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).md"
-    },
-    {
-      "basename": "ParentDocumentRetriever 동작 원리 (draw)",
-      "path": "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).svg"
-    },
-    {
-      "basename": "Multi Query Retriever 동작 원리 (draw)",
-      "path": "Excalidraw/Multi Query Retriever 동작 원리 (draw).md"
     }
   ],
   "omittedPaths": [],
