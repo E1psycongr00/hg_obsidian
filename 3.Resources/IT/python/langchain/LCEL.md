@@ -20,3 +20,5 @@ title: LCEL
 
 - [[RunnablePassThrough]]
 - [[RunnableLambda]]
+- [[LLM chain 라우팅]]
+- [[@chain과 Runnable]]
