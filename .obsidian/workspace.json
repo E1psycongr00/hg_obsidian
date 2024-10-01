@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "연습노트/SelfQueryRetriever.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md",
+                "file": "연습노트/LLM chain 라우팅.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#미완",
+                "query": "[\"title\"]",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -102,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md"
+                "file": "연습노트/SelfQueryRetriever.md"
               }
             }
           }
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md",
+                "file": "연습노트/SelfQueryRetriever.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md",
+                "file": "연습노트/SelfQueryRetriever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md",
+                "file": "연습노트/SelfQueryRetriever.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -204,7 +203,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -244,11 +243,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md"
+                "file": "연습노트/SelfQueryRetriever.md"
               }
             }
+          },
+          {
+            "id": "d5d313e351889572",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -274,12 +282,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8625b4f19c29461c",
+  "active": "53356cfde51d5eed",
   "lastOpenFiles": [
+    "연습노트/LLM chain 라우팅.md",
+    "연습노트/SelfQueryRetriever.md",
+    "3.Resources/IT/python/langchain/LCEL.md",
     "영구노트/RunnablePassThrough.md",
     "영구노트/RunnableLambda.md",
     "attachments/screenshot/Pasted image 20240930190424.png",
-    "3.Resources/IT/python/langchain/LCEL.md",
     "attachments/screenshot/Pasted image 20240930183537.png",
     "attachments/screenshot/Pasted image 20240930183436.png",
     "attachments/screenshot/Pasted image 20240930183027.png",
@@ -294,7 +304,6 @@
     "영구노트/MultiQueryRetriever.md",
     "영구노트/Sparse Retriever VS Dense Retriever.md",
     "영구노트/Retriever란 무엇인가.md",
-    "연습노트/SelfQueryRetriever.md",
     "연습노트/LongContextReorder.md",
     "영구노트/LCEL과 RAG.md",
     "영구노트/TimeWeightedVectorStoreRetriever.md",

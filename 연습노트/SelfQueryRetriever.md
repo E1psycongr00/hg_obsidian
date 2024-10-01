@@ -12,7 +12,7 @@ title: SelfQueryRetriever
 작성 날짜: 2024-09-27
 작성 시간: 15:50
 
-#미완 #Python #Langchain #RAG #Retriever 
+#미완  #Python #Langchain #RAG #Retriever
 
 ----
 ## 내용(Content)

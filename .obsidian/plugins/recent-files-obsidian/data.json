@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SelfQueryRetriever",
+      "path": "연습노트/SelfQueryRetriever.md"
+    },
+    {
+      "basename": "LLM chain 라우팅",
+      "path": "연습노트/LLM chain 라우팅.md"
+    },
+    {
       "basename": "LCEL",
       "path": "3.Resources/IT/python/langchain/LCEL.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Retriever란 무엇인가",
       "path": "영구노트/Retriever란 무엇인가.md"
-    },
-    {
-      "basename": "SelfQueryRetriever",
-      "path": "연습노트/SelfQueryRetriever.md"
     },
     {
       "basename": "LongContextReorder",
@@ -95,10 +99,6 @@
     {
       "basename": "MultiQueryRetriever 합집합 (draw)",
       "path": "Excalidraw/MultiQueryRetriever 합집합 (draw).md"
-    },
-    {
-      "basename": "ParentDocumentRetriever 동작 원리 (draw)",
-      "path": "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).md"
     }
   ],
   "omittedPaths": [],
