@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/@chain과 Runnable.md",
+                "file": "영구노트/@chain과 Runnable.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/@chain과 Runnable.md"
+                "file": "영구노트/@chain과 Runnable.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/@chain과 Runnable.md",
+                "file": "영구노트/@chain과 Runnable.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/@chain과 Runnable.md",
+                "file": "영구노트/@chain과 Runnable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/@chain과 Runnable.md",
+                "file": "영구노트/@chain과 Runnable.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/@chain과 Runnable.md"
+                "file": "영구노트/@chain과 Runnable.md"
               }
             }
           },
@@ -301,7 +301,7 @@
   "active": "e333ab1891bc9bc9",
   "lastOpenFiles": [
     "3.Resources/IT/python/langchain/LCEL.md",
-    "연습노트/@chain과 Runnable.md",
+    "영구노트/@chain과 Runnable.md",
     "Excalidraw/LLM Chain 라우팅 Flow (draw).md",
     "연습노트/LLM chain 라우팅.md",
     "attachments/images/Rotated Sorted Array.png",
