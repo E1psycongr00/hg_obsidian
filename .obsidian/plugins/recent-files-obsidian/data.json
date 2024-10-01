@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "유튜브 댓글 분석 기반 챗봇",
+      "path": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
+    },
+    {
+      "basename": "Projects란",
+      "path": "1.Projects/Projects란.md"
+    },
+    {
+      "basename": "Archive란",
+      "path": "4.Archive/Archive란.md"
+    },
+    {
       "basename": "project 템플릿",
       "path": "templates/project 템플릿.md"
     },
@@ -45,14 +61,6 @@
       "path": "templates/솔루션 템플릿.md"
     },
     {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
-    },
-    {
-      "basename": "Projects란",
-      "path": "1.Projects/Projects란.md"
-    },
-    {
       "basename": "Obsidian 관련 내용",
       "path": "3.Resources/Obsidian/Obsidian 관련 내용.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "HuggingFace에서 받은 embedding 모델 저장하기",
       "path": "영구노트/HuggingFace에서 받은 embedding 모델 저장하기.md"
-    },
-    {
-      "basename": "@chain과 Runnable",
-      "path": "영구노트/@chain과 Runnable.md"
-    },
-    {
-      "basename": "LLM Chain 라우팅 Flow (draw)",
-      "path": "Excalidraw/LLM Chain 라우팅 Flow (draw).md"
     }
   ],
   "omittedPaths": [],

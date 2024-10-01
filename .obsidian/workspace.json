@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eb849c7db9415aaa",
+        "id": "0e945f82bd7d2755",
         "type": "tabs",
         "children": [
           {
-            "id": "3d0d75f1cbbdd3d8",
+            "id": "5626c5fc800e94f2",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
+              }
             }
           },
           {
@@ -130,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +224,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
+              }
             }
           }
         ]
@@ -243,8 +255,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3d0d75f1cbbdd3d8",
+  "active": "5626c5fc800e94f2",
   "lastOpenFiles": [
+    "1.Projects/정적 블로그 사이트 프로젝트.md",
+    "1.Projects/Projects란.md",
+    "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+    "4.Archive/Archive란.md",
     "templates/project 템플릿.md",
     "3.Resources/IT/java/Spring Bean Validation 총정리.md",
     "영구노트/Java Bean Validation 소개.md",
@@ -256,8 +272,6 @@
     "templates/인물 소개 템플릿.md",
     "templates/영상 참조 템플릿.md",
     "templates/솔루션 템플릿.md",
-    "1.Projects/정적 블로그 사이트 프로젝트.md",
-    "1.Projects/Projects란.md",
     "3.Resources/Obsidian/Obsidian 관련 내용.md",
     "연습노트/Latex Suite 사용 방법.md",
     "영구노트/Obsidian Media Extend plugin 사용법.md",
@@ -270,7 +284,6 @@
     "영구노트/HuggingFace에서 받은 embedding 모델 저장하기.md",
     "attachments/screenshot/Pasted image 20241001192419.png",
     "영구노트/@chain과 Runnable.md",
-    "Excalidraw/LLM Chain 라우팅 Flow (draw).md",
     "attachments/images/Rotated Sorted Array.png",
     "attachments/screenshot/Pasted Image 20241001115653_772.jpg",
     "Excalidraw/LLM Chain 라우팅 Flow (draw).svg",
@@ -280,7 +293,6 @@
     "attachments/screenshot/Pasted image 20241001112911.png",
     "attachments/screenshot/Pasted image 20241001112814.png",
     "attachments/screenshot/Pasted image 20241001112516.png",
-    "영구노트/한국어 검색 embedding model 벤치마크.md",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",
