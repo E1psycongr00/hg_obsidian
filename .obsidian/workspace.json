@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5157cfd13a8bd08e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/LLM chain 라우팅.md"
+                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md"
               }
             }
           }
@@ -140,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/LLM chain 라우팅.md",
+                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/LLM chain 라우팅.md",
+                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/LLM chain 라우팅.md",
+                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/LLM chain 라우팅.md"
+                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md"
               }
             }
           },
@@ -297,14 +307,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8625b4f19c29461c",
+  "active": "5157cfd13a8bd08e",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted Image 20241001115653_772.jpg",
+    "연습노트/LLM chain 라우팅.md",
+    "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.svg",
+    "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
     "attachments/images/Rotated Sorted Array.png",
     "attachments/images/search_insert_position_2d_graph.png",
     "attachments/images/chain_model.jpeg",
     "3.Resources/IT/python/langchain/LCEL.md",
     "3.Resources/IT/python/langchain/langchain.md",
-    "연습노트/LLM chain 라우팅.md",
     "attachments/screenshot/Pasted image 20241001113834.png",
     "attachments/screenshot/Pasted image 20241001112911.png",
     "attachments/screenshot/Pasted image 20241001112814.png",
@@ -315,7 +328,6 @@
     "연습노트/SelfQueryRetriever.md",
     "영구노트/RunnablePassThrough.md",
     "영구노트/RunnableLambda.md",
-    "attachments/screenshot/Pasted image 20240930190424.png",
     "3.Resources/IT/python/langchain/Retriever.md",
     "영구노트/ParentDocumentRetriever.md",
     "영구노트/MultiQueryRetriever.md",
@@ -334,7 +346,6 @@
     "연습노트/클래스 변수와 인스턴스 변수.md",
     "연습노트/Github의 구조.md",
     "연습노트/Git 핵심 명령어.md",
-    "연습노트/VectorStore-backed Retriever.md",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",
     "Excalidraw/ttf/온글잎 몽몽데이즈몽글동심체.ttf",

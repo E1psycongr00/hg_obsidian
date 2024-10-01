@@ -134,7 +134,10 @@ route를 이용해서 ChatOpenAI를 분석해보면 question에 그대로 입력
 ### Route 모델 그림
 
 ```python
+from IPython.display import display, Image
 
+image = full_chain.get_graph().draw_mermaid_png()
+display(Image(data=image))
 ```
 
 ![[chain_model.jpeg]]
