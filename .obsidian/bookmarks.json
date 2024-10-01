@@ -3,7 +3,13 @@
     {
       "type": "group",
       "ctime": 1699613717683,
-      "items": [],
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1704172908712,
+          "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
+        }
+      ],
       "title": "spring"
     },
     {
@@ -34,11 +40,6 @@
       "type": "file",
       "ctime": 1704165973719,
       "path": "나의 마일스톤/2024년 목표.md"
-    },
-    {
-      "type": "file",
-      "ctime": 1704172908712,
-      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
     }
   ]
 }

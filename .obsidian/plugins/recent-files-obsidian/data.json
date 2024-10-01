@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "@chain과 Runnable",
-      "path": "영구노트/@chain과 Runnable.md"
+      "basename": "project 템플릿",
+      "path": "templates/project 템플릿.md"
     },
     {
-      "basename": "LCEL",
-      "path": "3.Resources/IT/python/langchain/LCEL.md"
+      "basename": "Spring Bean Validation 총정리",
+      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
     },
     {
-      "basename": "LLM Chain 라우팅 Flow (draw)",
-      "path": "Excalidraw/LLM Chain 라우팅 Flow (draw).md"
+      "basename": "Java Bean Validation 소개",
+      "path": "영구노트/Java Bean Validation 소개.md"
     },
     {
-      "basename": "LLM chain 라우팅",
-      "path": "연습노트/LLM chain 라우팅.md"
+      "basename": "Spring Bean Validation 소개",
+      "path": "영구노트/Spring Bean Validation 소개.md"
     },
     {
-      "basename": "Rotated Sorted Array",
-      "path": "attachments/images/Rotated Sorted Array.png"
+      "basename": "resource 템플릿",
+      "path": "templates/resource 템플릿.md"
     },
     {
-      "basename": "search_insert_position_2d_graph",
-      "path": "attachments/images/search_insert_position_2d_graph.png"
+      "basename": "2024년 목표",
+      "path": "나의 마일스톤/2024년 목표.md"
     },
     {
-      "basename": "chain_model",
-      "path": "attachments/images/chain_model.jpeg"
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
     },
     {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
     },
     {
-      "basename": "한국어 검색 embedding model 벤치마크",
-      "path": "영구노트/한국어 검색 embedding model 벤치마크.md"
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
     },
     {
-      "basename": "SelfQueryRetriever",
-      "path": "연습노트/SelfQueryRetriever.md"
+      "basename": "영상 참조 템플릿",
+      "path": "templates/영상 참조 템플릿.md"
     },
     {
-      "basename": "RunnablePassThrough",
-      "path": "영구노트/RunnablePassThrough.md"
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
     },
     {
-      "basename": "RunnableLambda",
-      "path": "영구노트/RunnableLambda.md"
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
+    },
+    {
+      "basename": "Projects란",
+      "path": "1.Projects/Projects란.md"
+    },
+    {
+      "basename": "Obsidian 관련 내용",
+      "path": "3.Resources/Obsidian/Obsidian 관련 내용.md"
+    },
+    {
+      "basename": "Latex Suite 사용 방법",
+      "path": "연습노트/Latex Suite 사용 방법.md"
+    },
+    {
+      "basename": "Obsidian Media Extend plugin 사용법",
+      "path": "영구노트/Obsidian Media Extend plugin 사용법.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "3.Resources/Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "제텔카스텐",
+      "path": "3.Resources/Obsidian/제텔카스텐.md"
     },
     {
       "basename": "Retriever",
       "path": "3.Resources/IT/python/langchain/Retriever.md"
     },
     {
-      "basename": "ParentDocumentRetriever",
-      "path": "영구노트/ParentDocumentRetriever.md"
+      "basename": "LCEL",
+      "path": "3.Resources/IT/python/langchain/LCEL.md"
     },
     {
-      "basename": "MultiQueryRetriever",
-      "path": "영구노트/MultiQueryRetriever.md"
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain/langchain.md"
     },
     {
-      "basename": "Sparse Retriever VS Dense Retriever",
-      "path": "영구노트/Sparse Retriever VS Dense Retriever.md"
+      "basename": "LLM chain 라우팅",
+      "path": "연습노트/LLM chain 라우팅.md"
     },
     {
-      "basename": "Retriever란 무엇인가",
-      "path": "영구노트/Retriever란 무엇인가.md"
+      "basename": "HuggingFace에서 받은 embedding 모델 저장하기",
+      "path": "영구노트/HuggingFace에서 받은 embedding 모델 저장하기.md"
     },
     {
-      "basename": "LongContextReorder",
-      "path": "연습노트/LongContextReorder.md"
+      "basename": "@chain과 Runnable",
+      "path": "영구노트/@chain과 Runnable.md"
     },
     {
-      "basename": "LCEL과 RAG",
-      "path": "영구노트/LCEL과 RAG.md"
-    },
-    {
-      "basename": "TimeWeightedVectorStoreRetriever",
-      "path": "영구노트/TimeWeightedVectorStoreRetriever.md"
-    },
-    {
-      "basename": "python 기본",
-      "path": "3.Resources/IT/python/python 기본.md"
-    },
-    {
-      "basename": "python vscode 환경 세팅",
-      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
-    },
-    {
-      "basename": "Python의 Truthy와 Falsy",
-      "path": "영구노트/Python의 Truthy와 Falsy.md"
-    },
-    {
-      "basename": "Python에서 Optional한 데이터 잘 활용하기",
-      "path": "영구노트/Python에서 Optional한 데이터 잘 활용하기.md"
-    },
-    {
-      "basename": "Python에서 Java의 Optional을 구현해서 이용해보기",
-      "path": "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md"
+      "basename": "LLM Chain 라우팅 Flow (draw)",
+      "path": "Excalidraw/LLM Chain 라우팅 Flow (draw).md"
     }
   ],
   "omittedPaths": [],
