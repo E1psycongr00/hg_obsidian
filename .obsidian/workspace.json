@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "0d01cd94015051bd",
+            "id": "e333ab1891bc9bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
-                "mode": "source",
+                "file": "3.Resources/IT/python/langchain/LCEL.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/한국어 검색 embedding model 벤치마크.md"
+                "file": "연습노트/LLM chain 라우팅.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
+                "file": "연습노트/LLM chain 라우팅.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
+                "file": "연습노트/LLM chain 라우팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
+                "file": "연습노트/LLM chain 라우팅.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/한국어 검색 embedding model 벤치마크.md"
+                "file": "연습노트/LLM chain 라우팅.md"
               }
             }
           },
@@ -297,24 +297,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0d01cd94015051bd",
+  "active": "8625b4f19c29461c",
   "lastOpenFiles": [
-    "3.Resources/IT/python/langchain/langchain.md",
-    "연습노트/한국어 검색 embedding model 벤치마크.md",
-    "연습노트/SelfQueryRetriever.md",
-    "연습노트/LLM chain 라우팅.md",
+    "attachments/images/Rotated Sorted Array.png",
+    "attachments/images/search_insert_position_2d_graph.png",
+    "attachments/images/chain_model.jpeg",
     "3.Resources/IT/python/langchain/LCEL.md",
+    "3.Resources/IT/python/langchain/langchain.md",
+    "연습노트/LLM chain 라우팅.md",
+    "attachments/screenshot/Pasted image 20241001113834.png",
+    "attachments/screenshot/Pasted image 20241001112911.png",
+    "attachments/screenshot/Pasted image 20241001112814.png",
+    "attachments/screenshot/Pasted image 20241001112516.png",
+    "attachments/screenshot/Pasted image 20241001112503.png",
+    "attachments/screenshot/Pasted image 20241001112415.png",
+    "영구노트/한국어 검색 embedding model 벤치마크.md",
+    "연습노트/SelfQueryRetriever.md",
     "영구노트/RunnablePassThrough.md",
     "영구노트/RunnableLambda.md",
     "attachments/screenshot/Pasted image 20240930190424.png",
-    "attachments/screenshot/Pasted image 20240930183537.png",
-    "attachments/screenshot/Pasted image 20240930183436.png",
-    "attachments/screenshot/Pasted image 20240930183027.png",
-    "attachments/screenshot/Pasted image 20240930181611.png",
-    "attachments/screenshot/Pasted image 20240930181449.png",
-    "attachments/screenshot/Pasted image 20240930181355.png",
-    "attachments/screenshot/Pasted image 20240930181147.png",
-    "attachments/screenshot/Pasted image 20240930180234.png",
     "3.Resources/IT/python/langchain/Retriever.md",
     "영구노트/ParentDocumentRetriever.md",
     "영구노트/MultiQueryRetriever.md",
@@ -330,12 +331,10 @@
     "영구노트/Python에서 Optional한 데이터 잘 활용하기.md",
     "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md",
     "영구노트/Pydandic Custom Validation 타입 만들기.md",
-    "attachments/screenshot/Pasted image 20240928164818.png",
     "연습노트/클래스 변수와 인스턴스 변수.md",
     "연습노트/Github의 구조.md",
     "연습노트/Git 핵심 명령어.md",
     "연습노트/VectorStore-backed Retriever.md",
-    "Excalidraw/MultiQueryRetriever 합집합 (draw).md",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",
     "Excalidraw/ttf/온글잎 몽몽데이즈몽글동심체.ttf",
