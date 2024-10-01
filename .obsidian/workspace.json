@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/SelfQueryRetriever.md",
+                "file": "3.Resources/IT/python/langchain/langchain.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d01cd94015051bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "38dd62da6d138601",
@@ -101,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/SelfQueryRetriever.md"
+                "file": "연습노트/한국어 검색 embedding model 벤치마크.md"
               }
             }
           }
@@ -125,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/SelfQueryRetriever.md",
+                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/SelfQueryRetriever.md",
+                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/SelfQueryRetriever.md",
+                "file": "연습노트/한국어 검색 embedding model 벤치마크.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -243,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/SelfQueryRetriever.md"
+                "file": "연습노트/한국어 검색 embedding model 벤치마크.md"
               }
             }
           },
@@ -282,10 +297,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "53356cfde51d5eed",
+  "active": "0d01cd94015051bd",
   "lastOpenFiles": [
-    "연습노트/LLM chain 라우팅.md",
+    "3.Resources/IT/python/langchain/langchain.md",
+    "연습노트/한국어 검색 embedding model 벤치마크.md",
     "연습노트/SelfQueryRetriever.md",
+    "연습노트/LLM chain 라우팅.md",
     "3.Resources/IT/python/langchain/LCEL.md",
     "영구노트/RunnablePassThrough.md",
     "영구노트/RunnableLambda.md",
@@ -299,7 +316,6 @@
     "attachments/screenshot/Pasted image 20240930181147.png",
     "attachments/screenshot/Pasted image 20240930180234.png",
     "3.Resources/IT/python/langchain/Retriever.md",
-    "3.Resources/IT/python/langchain/langchain.md",
     "영구노트/ParentDocumentRetriever.md",
     "영구노트/MultiQueryRetriever.md",
     "영구노트/Sparse Retriever VS Dense Retriever.md",
@@ -320,7 +336,6 @@
     "연습노트/Git 핵심 명령어.md",
     "연습노트/VectorStore-backed Retriever.md",
     "Excalidraw/MultiQueryRetriever 합집합 (draw).md",
-    "Excalidraw/ParentDocumentRetriever 동작 원리 (draw).md",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",
     "Excalidraw/ttf/온글잎 몽몽데이즈몽글동심체.ttf",

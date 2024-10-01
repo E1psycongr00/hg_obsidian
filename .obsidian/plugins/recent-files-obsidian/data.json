@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "한국어 검색 embedding model 벤치마크",
+      "path": "연습노트/한국어 검색 embedding model 벤치마크.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain/langchain.md"
+    },
+    {
       "basename": "SelfQueryRetriever",
       "path": "연습노트/SelfQueryRetriever.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Retriever",
       "path": "3.Resources/IT/python/langchain/Retriever.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
     },
     {
       "basename": "ParentDocumentRetriever",
@@ -95,10 +99,6 @@
     {
       "basename": "VectorStore-backed Retriever",
       "path": "연습노트/VectorStore-backed Retriever.md"
-    },
-    {
-      "basename": "MultiQueryRetriever 합집합 (draw)",
-      "path": "Excalidraw/MultiQueryRetriever 합집합 (draw).md"
     }
   ],
   "omittedPaths": [],
