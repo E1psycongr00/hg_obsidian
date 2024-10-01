@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-10-01 11.55.09.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md"
+      "basename": "@chain과 Runnable",
+      "path": "연습노트/@chain과 Runnable.md"
+    },
+    {
+      "basename": "LCEL",
+      "path": "3.Resources/IT/python/langchain/LCEL.md"
+    },
+    {
+      "basename": "LLM Chain 라우팅 Flow (draw)",
+      "path": "Excalidraw/LLM Chain 라우팅 Flow (draw).md"
     },
     {
       "basename": "LLM chain 라우팅",
@@ -19,10 +27,6 @@
     {
       "basename": "chain_model",
       "path": "attachments/images/chain_model.jpeg"
-    },
-    {
-      "basename": "LCEL",
-      "path": "3.Resources/IT/python/langchain/LCEL.md"
     },
     {
       "basename": "langchain",
@@ -95,10 +99,6 @@
     {
       "basename": "Python에서 Java의 Optional을 구현해서 이용해보기",
       "path": "영구노트/Python에서 Java의 Optional을 구현해서 이용해보기.md"
-    },
-    {
-      "basename": "Pydandic Custom Validation 타입 만들기",
-      "path": "영구노트/Pydandic Custom Validation 타입 만들기.md"
     }
   ],
   "omittedPaths": [],

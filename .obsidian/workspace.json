@@ -26,15 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md",
-                "mode": "preview",
+                "file": "연습노트/@chain과 Runnable.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "8625b4f19c29461c",
+            "id": "aad3911a7f5bd739",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,19 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5157cfd13a8bd08e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"title\"]",
+                "query": "LLM chain 라우팅",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -126,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md"
+                "file": "연습노트/@chain과 Runnable.md"
               }
             }
           }
@@ -150,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
+                "file": "연습노트/@chain과 Runnable.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
+                "file": "연습노트/@chain과 Runnable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
+                "file": "연습노트/@chain과 Runnable.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -268,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md"
+                "file": "연습노트/@chain과 Runnable.md"
               }
             }
           },
@@ -285,7 +275,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 560.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,23 +298,23 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5157cfd13a8bd08e",
+  "active": "e333ab1891bc9bc9",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted Image 20241001115653_772.jpg",
+    "3.Resources/IT/python/langchain/LCEL.md",
+    "연습노트/@chain과 Runnable.md",
+    "Excalidraw/LLM Chain 라우팅 Flow (draw).md",
     "연습노트/LLM chain 라우팅.md",
-    "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.svg",
-    "Excalidraw/Drawing 2024-10-01 11.55.09.excalidraw.md",
     "attachments/images/Rotated Sorted Array.png",
+    "attachments/screenshot/Pasted Image 20241001115653_772.jpg",
+    "Excalidraw/LLM Chain 라우팅 Flow (draw).svg",
     "attachments/images/search_insert_position_2d_graph.png",
     "attachments/images/chain_model.jpeg",
-    "3.Resources/IT/python/langchain/LCEL.md",
     "3.Resources/IT/python/langchain/langchain.md",
     "attachments/screenshot/Pasted image 20241001113834.png",
     "attachments/screenshot/Pasted image 20241001112911.png",
     "attachments/screenshot/Pasted image 20241001112814.png",
     "attachments/screenshot/Pasted image 20241001112516.png",
     "attachments/screenshot/Pasted image 20241001112503.png",
-    "attachments/screenshot/Pasted image 20241001112415.png",
     "영구노트/한국어 검색 embedding model 벤치마크.md",
     "연습노트/SelfQueryRetriever.md",
     "영구노트/RunnablePassThrough.md",

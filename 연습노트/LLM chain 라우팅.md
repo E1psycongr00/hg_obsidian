@@ -140,7 +140,7 @@ image = full_chain.get_graph().draw_mermaid_png()
 display(Image(data=image))
 ```
 
-![[chain_model.jpeg]]
+![[LLM Chain 라우팅 Flow (draw).svg]]
 
 
 ## 질문 & 확장
