@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CSharp 기본",
+      "path": "3.Resources/IT/csharp/CSharp 기본.md"
+    },
+    {
+      "basename": "Projects란",
+      "path": "1.Projects/Projects란.md"
+    },
+    {
       "basename": "유튜브 댓글 분석 기반 챗봇",
       "path": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
     },
@@ -9,8 +17,8 @@
       "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
     },
     {
-      "basename": "Projects란",
-      "path": "1.Projects/Projects란.md"
+      "basename": "SelfQueryRetriever는 정렬 불가능 문제",
+      "path": "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md"
     },
     {
       "basename": "Archive란",
@@ -91,14 +99,6 @@
     {
       "basename": "langchain",
       "path": "3.Resources/IT/python/langchain/langchain.md"
-    },
-    {
-      "basename": "LLM chain 라우팅",
-      "path": "연습노트/LLM chain 라우팅.md"
-    },
-    {
-      "basename": "HuggingFace에서 받은 embedding 모델 저장하기",
-      "path": "영구노트/HuggingFace에서 받은 embedding 모델 저장하기.md"
     }
   ],
   "omittedPaths": [],

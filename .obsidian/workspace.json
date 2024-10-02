@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+                "file": "3.Resources/IT/csharp/CSharp 기본.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Validation",
+                "query": "tag:#Csharp",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
+                "file": "3.Resources/IT/csharp/CSharp 기본.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+                "file": "3.Resources/IT/csharp/CSharp 기본.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+                "file": "3.Resources/IT/csharp/CSharp 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+                "file": "3.Resources/IT/csharp/CSharp 기본.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
+                "file": "3.Resources/IT/csharp/CSharp 기본.md"
               }
             }
           }
@@ -250,14 +250,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph:3D Graph": false,
       "obsidian-day-planner:Timeline": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "5626c5fc800e94f2",
   "lastOpenFiles": [
-    "1.Projects/정적 블로그 사이트 프로젝트.md",
     "1.Projects/Projects란.md",
+    "3.Resources/IT/csharp/CSharp 기본.md",
+    "3.Resources/IT/csharp",
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+    "1.Projects/정적 블로그 사이트 프로젝트.md",
+    "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
     "4.Archive/Archive란.md",
     "templates/project 템플릿.md",
     "3.Resources/IT/java/Spring Bean Validation 총정리.md",
@@ -279,9 +284,7 @@
     "3.Resources/IT/python/langchain/LCEL.md",
     "3.Resources/IT/python/langchain/langchain.md",
     "연습노트/LLM chain 라우팅.md",
-    "영구노트/HuggingFace에서 받은 embedding 모델 저장하기.md",
     "attachments/screenshot/Pasted image 20241001192419.png",
-    "영구노트/@chain과 Runnable.md",
     "attachments/images/Rotated Sorted Array.png",
     "attachments/screenshot/Pasted Image 20241001115653_772.jpg",
     "Excalidraw/LLM Chain 라우팅 Flow (draw).svg",
@@ -300,7 +303,6 @@
     "3.Resources/IT/javascript/electron",
     "1.Projects/개인 프로젝트",
     "4.Archive",
-    "2.Area",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
