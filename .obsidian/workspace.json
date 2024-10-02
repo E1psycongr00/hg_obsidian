@@ -129,7 +129,7 @@
       {
         "id": "1838285c49809bd3",
         "type": "tabs",
-        "dimension": 53.07692307692308,
+        "dimension": 53.07692307692307,
         "children": [
           {
             "id": "fbb43720530e7e29",
@@ -217,7 +217,7 @@
       {
         "id": "b046426e10998bae",
         "type": "tabs",
-        "dimension": 46.92307692307692,
+        "dimension": 46.92307692307693,
         "children": [
           {
             "id": "1aaa38f27764a613",
@@ -250,9 +250,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph:3D Graph": false,
       "obsidian-day-planner:Timeline": false,
-      "media-extended:Open media": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "media-extended:Open media": false
     }
   },
   "active": "5626c5fc800e94f2",
