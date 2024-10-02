@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSharp의 Null 연산자",
+      "path": "연습노트/CSharp의 Null 연산자.md"
+    },
+    {
       "basename": "CSharp 기본",
       "path": "3.Resources/IT/csharp/CSharp 기본.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "LCEL",
       "path": "3.Resources/IT/python/langchain/LCEL.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
     }
   ],
   "omittedPaths": [],
