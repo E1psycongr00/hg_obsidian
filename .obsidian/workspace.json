@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa184c08658df6d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/CSharp의 Null 다루기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/CSharp의 Null 다루기.md"
+                "file": "3.Resources/IT/csharp/CSharp 기본.md"
               }
             }
           },
@@ -151,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/CSharp의 Null 다루기.md",
+                "file": "3.Resources/IT/csharp/CSharp 기본.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/CSharp의 Null 다루기.md",
+                "file": "3.Resources/IT/csharp/CSharp 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/CSharp의 Null 다루기.md",
+                "file": "3.Resources/IT/csharp/CSharp 기본.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/CSharp의 Null 다루기.md"
+                "file": "3.Resources/IT/csharp/CSharp 기본.md"
               }
             }
           }
@@ -269,10 +255,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "aa184c08658df6d9",
+  "active": "5626c5fc800e94f2",
   "lastOpenFiles": [
-    "3.Resources/IT/csharp/CSharp 기본.md",
     "연습노트/CSharp의 Null 다루기.md",
+    "attachments/screenshot/Pasted image 20241002202413.png",
+    "attachments/screenshot/Pasted image 20241002202320.png",
+    "attachments/screenshot/Pasted image 20241002202223.png",
+    "attachments/screenshot/Pasted image 20241002202100.png",
+    "attachments/screenshot/Pasted image 20241002201805.png",
+    "attachments/screenshot/Pasted image 20241002201558.png",
+    "attachments/screenshot/Pasted image 20241002201219.png",
+    "3.Resources/IT/csharp/CSharp 기본.md",
     "1.Projects/Projects란.md",
     "3.Resources/IT/csharp",
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
@@ -297,17 +290,9 @@
     "3.Resources/Obsidian/제텔카스텐.md",
     "3.Resources/IT/python/langchain/Retriever.md",
     "3.Resources/IT/python/langchain/LCEL.md",
-    "3.Resources/IT/python/langchain/langchain.md",
     "attachments/screenshot/Pasted image 20241001192419.png",
     "attachments/images/Rotated Sorted Array.png",
     "attachments/screenshot/Pasted Image 20241001115653_772.jpg",
-    "Excalidraw/LLM Chain 라우팅 Flow (draw).svg",
-    "attachments/images/search_insert_position_2d_graph.png",
-    "attachments/images/chain_model.jpeg",
-    "attachments/screenshot/Pasted image 20241001113834.png",
-    "attachments/screenshot/Pasted image 20241001112911.png",
-    "attachments/screenshot/Pasted image 20241001112814.png",
-    "attachments/screenshot/Pasted image 20241001112516.png",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",
