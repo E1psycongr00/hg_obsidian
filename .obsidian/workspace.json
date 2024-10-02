@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/CSharp의 Null 연산자.md",
+                "file": "연습노트/CSharp의 Null 다루기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/CSharp의 Null 연산자.md"
+                "file": "연습노트/CSharp의 Null 다루기.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/CSharp의 Null 연산자.md",
+                "file": "연습노트/CSharp의 Null 다루기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/CSharp의 Null 연산자.md",
+                "file": "연습노트/CSharp의 Null 다루기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/CSharp의 Null 연산자.md",
+                "file": "연습노트/CSharp의 Null 다루기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/CSharp의 Null 연산자.md"
+                "file": "연습노트/CSharp의 Null 다루기.md"
               }
             }
           }
@@ -272,7 +272,7 @@
   "active": "aa184c08658df6d9",
   "lastOpenFiles": [
     "3.Resources/IT/csharp/CSharp 기본.md",
-    "연습노트/CSharp의 Null 연산자.md",
+    "연습노트/CSharp의 Null 다루기.md",
     "1.Projects/Projects란.md",
     "3.Resources/IT/csharp",
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",

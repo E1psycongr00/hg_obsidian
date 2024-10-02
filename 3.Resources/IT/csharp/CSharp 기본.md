@@ -16,5 +16,5 @@ title: CSharp 기본
 
 ### CSharp
 
-- [[CSharp의 Null 연산자]]
+- [[CSharp의 Null 다루기]]
 - 
