@@ -43,7 +43,7 @@ title: Query Translation
 ### Query Translation 방법 5가지
 
 - [[다중 쿼리 기법 | Multi Query]]
-- RAG Fusion
+- [[RAG Fusion]]
 - 분해
 - Stepback Prompting(단계적 후퇴)
 - HyDE
