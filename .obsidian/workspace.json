@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "0e945f82bd7d2755",
+        "id": "e553cfe425b9394a",
         "type": "tabs",
         "children": [
           {
-            "id": "5626c5fc800e94f2",
+            "id": "91648350fa24c8c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md",
+                "file": "연습노트/Query Translation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a96eda3cbde24792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/다중 쿼리 기법.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d706d52447fcad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Resources/IT/python/langchain/LCEL.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md"
+                "file": "연습노트/다중 쿼리 기법.md"
               }
             }
           },
@@ -137,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md",
+                "file": "연습노트/다중 쿼리 기법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md",
+                "file": "연습노트/다중 쿼리 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md",
+                "file": "연습노트/다중 쿼리 기법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +232,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4769860980686562,
+                  "scale": 0.7514342322277615,
                   "close": true
                 }
               }
@@ -225,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md"
+                "file": "연습노트/다중 쿼리 기법.md"
               }
             }
           }
@@ -233,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,8 +283,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5626c5fc800e94f2",
+  "active": "a96eda3cbde24792",
   "lastOpenFiles": [
+    "연습노트/Query Translation.md",
+    "연습노트/다중 쿼리 기법.md",
+    "3.Resources/IT/python/langchain/LCEL.md",
+    "영구노트/RunnablePassThrough.md",
+    "영구노트/RunnableLambda.md",
+    "3.Resources/IT/python/langchain/langchain.md",
+    "attachments/screenshot/Pasted image 20241004160109.png",
+    "영구노트/Native RAG란.md",
+    "attachments/pdf/RAG from scratch_ Overview.pdf",
+    "3.Resources/IT/python/langchain/Retriever.md",
+    "Excalidraw/Native RAG (draw).md",
+    "attachments/pdf",
+    "Excalidraw/Native RAG (draw).svg",
+    "영구노트/RAG란.md",
+    "영구노트/ParentDocumentRetriever.md",
+    "영구노트/Retriever란 무엇인가.md",
+    "3.Resources/IT/csharp/CSharp 기본.md",
     "연습노트/CSharp의 Null 다루기.md",
     "attachments/screenshot/Pasted image 20241002202413.png",
     "attachments/screenshot/Pasted image 20241002202320.png",
@@ -265,7 +310,6 @@
     "attachments/screenshot/Pasted image 20241002201805.png",
     "attachments/screenshot/Pasted image 20241002201558.png",
     "attachments/screenshot/Pasted image 20241002201219.png",
-    "3.Resources/IT/csharp/CSharp 기본.md",
     "1.Projects/Projects란.md",
     "3.Resources/IT/csharp",
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
@@ -279,20 +323,7 @@
     "templates/resource 템플릿.md",
     "나의 마일스톤/2024년 목표.md",
     "templates/참조 노트 템플릿.md",
-    "templates/일정 템플릿.md",
-    "templates/인물 소개 템플릿.md",
-    "templates/영상 참조 템플릿.md",
-    "templates/솔루션 템플릿.md",
-    "3.Resources/Obsidian/Obsidian 관련 내용.md",
-    "연습노트/Latex Suite 사용 방법.md",
-    "영구노트/Obsidian Media Extend plugin 사용법.md",
-    "3.Resources/Obsidian/Obsidian.md",
-    "3.Resources/Obsidian/제텔카스텐.md",
-    "3.Resources/IT/python/langchain/Retriever.md",
-    "3.Resources/IT/python/langchain/LCEL.md",
     "attachments/screenshot/Pasted image 20241001192419.png",
-    "attachments/images/Rotated Sorted Array.png",
-    "attachments/screenshot/Pasted Image 20241001115653_772.jpg",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",
@@ -300,8 +331,6 @@
     "3.Resources/IT/알고리즘",
     "4.Archive/감상문",
     "3.Resources/IT/javascript/electron",
-    "1.Projects/개인 프로젝트",
-    "4.Archive",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",

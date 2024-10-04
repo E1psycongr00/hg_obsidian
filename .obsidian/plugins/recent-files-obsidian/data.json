@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "다중 쿼리 기법",
+      "path": "연습노트/다중 쿼리 기법.md"
+    },
+    {
+      "basename": "Query Translation",
+      "path": "연습노트/Query Translation.md"
+    },
+    {
+      "basename": "LCEL",
+      "path": "3.Resources/IT/python/langchain/LCEL.md"
+    },
+    {
+      "basename": "RunnablePassThrough",
+      "path": "영구노트/RunnablePassThrough.md"
+    },
+    {
+      "basename": "RunnableLambda",
+      "path": "영구노트/RunnableLambda.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain/langchain.md"
+    },
+    {
+      "basename": "Native RAG란",
+      "path": "영구노트/Native RAG란.md"
+    },
+    {
+      "basename": "RAG from scratch_ Overview",
+      "path": "attachments/pdf/RAG from scratch_ Overview.pdf"
+    },
+    {
+      "basename": "Retriever",
+      "path": "3.Resources/IT/python/langchain/Retriever.md"
+    },
+    {
+      "basename": "Native RAG (draw)",
+      "path": "Excalidraw/Native RAG (draw).md"
+    },
+    {
+      "basename": "RAG란",
+      "path": "영구노트/RAG란.md"
+    },
+    {
+      "basename": "ParentDocumentRetriever",
+      "path": "영구노트/ParentDocumentRetriever.md"
+    },
+    {
+      "basename": "Retriever란 무엇인가",
+      "path": "영구노트/Retriever란 무엇인가.md"
+    },
+    {
       "basename": "CSharp 기본",
       "path": "3.Resources/IT/csharp/CSharp 기본.md"
     },
@@ -47,58 +99,6 @@
     {
       "basename": "resource 템플릿",
       "path": "templates/resource 템플릿.md"
-    },
-    {
-      "basename": "2024년 목표",
-      "path": "나의 마일스톤/2024년 목표.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "인물 소개 템플릿",
-      "path": "templates/인물 소개 템플릿.md"
-    },
-    {
-      "basename": "영상 참조 템플릿",
-      "path": "templates/영상 참조 템플릿.md"
-    },
-    {
-      "basename": "솔루션 템플릿",
-      "path": "templates/솔루션 템플릿.md"
-    },
-    {
-      "basename": "Obsidian 관련 내용",
-      "path": "3.Resources/Obsidian/Obsidian 관련 내용.md"
-    },
-    {
-      "basename": "Latex Suite 사용 방법",
-      "path": "연습노트/Latex Suite 사용 방법.md"
-    },
-    {
-      "basename": "Obsidian Media Extend plugin 사용법",
-      "path": "영구노트/Obsidian Media Extend plugin 사용법.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "3.Resources/Obsidian/Obsidian.md"
-    },
-    {
-      "basename": "제텔카스텐",
-      "path": "3.Resources/Obsidian/제텔카스텐.md"
-    },
-    {
-      "basename": "Retriever",
-      "path": "3.Resources/IT/python/langchain/Retriever.md"
-    },
-    {
-      "basename": "LCEL",
-      "path": "3.Resources/IT/python/langchain/LCEL.md"
     }
   ],
   "omittedPaths": [],

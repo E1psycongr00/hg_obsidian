@@ -20,11 +20,13 @@ title: langchain
 - [[Langchain이란]]
 - [[Prompt 정의하기]]
 - [[RAG란]]
+- [[Native RAG란]]
 - [[LLM 테스트 FakeLLM]]
 - [[StrOutputParser]]
 - [[LCEL과 RAG]]
 - [[한국어 검색 embedding model 벤치마크]]
 - [[HuggingFace에서 받은 embedding 모델 저장하기]]
+- [[Query Translation]]
 ## 하위 Resource 문서
 
 - [[Retriever]]
