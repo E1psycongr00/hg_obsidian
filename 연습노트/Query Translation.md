@@ -55,6 +55,7 @@ title: Query Translation
 ## 출처(링크)
 
 - [[다중 쿼리 기법]]
+- https://velog.io/@euisuk-chung/RAG-From-Scratch-5-9#part-5-%EB%8B%A4%EC%A4%91-%EC%BF%BC%EB%A6%AC
 - ![[RAG from scratch_ Overview.pdf]]
 
 ## 연결 노트
