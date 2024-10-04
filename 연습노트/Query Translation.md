@@ -54,6 +54,7 @@ title: Query Translation
 
 ## 출처(링크)
 
+- [[다중 쿼리 기법]]
 - ![[RAG from scratch_ Overview.pdf]]
 
 ## 연결 노트

@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a96eda3cbde24792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/다중 쿼리 기법.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d706d52447fcad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Resources/IT/python/langchain/LCEL.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/다중 쿼리 기법.md"
+                "file": "연습노트/Query Translation.md"
               }
             }
           },
@@ -164,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/다중 쿼리 기법.md",
+                "file": "연습노트/Query Translation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/다중 쿼리 기법.md",
+                "file": "연습노트/Query Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/다중 쿼리 기법.md",
+                "file": "연습노트/Query Translation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/다중 쿼리 기법.md"
+                "file": "연습노트/Query Translation.md"
               }
             }
           }
@@ -260,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,13 +255,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a96eda3cbde24792",
+  "active": "91648350fa24c8c8",
   "lastOpenFiles": [
+    "영구노트/다중 쿼리 기법.md",
     "연습노트/Query Translation.md",
-    "연습노트/다중 쿼리 기법.md",
+    "영구노트/MultiQueryRetriever.md",
+    "연습노트/LLM chain 라우팅.md",
     "3.Resources/IT/python/langchain/LCEL.md",
-    "영구노트/RunnablePassThrough.md",
     "영구노트/RunnableLambda.md",
+    "영구노트/RunnablePassThrough.md",
     "3.Resources/IT/python/langchain/langchain.md",
     "attachments/screenshot/Pasted image 20241004160109.png",
     "영구노트/Native RAG란.md",
@@ -321,8 +295,6 @@
     "영구노트/Java Bean Validation 소개.md",
     "영구노트/Spring Bean Validation 소개.md",
     "templates/resource 템플릿.md",
-    "나의 마일스톤/2024년 목표.md",
-    "templates/참조 노트 템플릿.md",
     "attachments/screenshot/Pasted image 20241001192419.png",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",

@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "다중 쿼리 기법",
-      "path": "연습노트/다중 쿼리 기법.md"
-    },
-    {
       "basename": "Query Translation",
       "path": "연습노트/Query Translation.md"
+    },
+    {
+      "basename": "다중 쿼리 기법",
+      "path": "영구노트/다중 쿼리 기법.md"
+    },
+    {
+      "basename": "MultiQueryRetriever",
+      "path": "영구노트/MultiQueryRetriever.md"
+    },
+    {
+      "basename": "LLM chain 라우팅",
+      "path": "연습노트/LLM chain 라우팅.md"
     },
     {
       "basename": "LCEL",
       "path": "3.Resources/IT/python/langchain/LCEL.md"
     },
     {
-      "basename": "RunnablePassThrough",
-      "path": "영구노트/RunnablePassThrough.md"
-    },
-    {
       "basename": "RunnableLambda",
       "path": "영구노트/RunnableLambda.md"
+    },
+    {
+      "basename": "RunnablePassThrough",
+      "path": "영구노트/RunnablePassThrough.md"
     },
     {
       "basename": "langchain",
@@ -91,14 +99,6 @@
     {
       "basename": "Java Bean Validation 소개",
       "path": "영구노트/Java Bean Validation 소개.md"
-    },
-    {
-      "basename": "Spring Bean Validation 소개",
-      "path": "영구노트/Spring Bean Validation 소개.md"
-    },
-    {
-      "basename": "resource 템플릿",
-      "path": "templates/resource 템플릿.md"
     }
   ],
   "omittedPaths": [],
