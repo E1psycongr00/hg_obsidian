@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/SOLID란 무엇인가.md",
-                "mode": "source",
+                "file": "영구노트/Java17 Switch 문법.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#객체지향",
+                "query": "tag:#JAVA",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -102,7 +103,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/SOLID란 무엇인가.md"
+                "file": "영구노트/Java17 Switch 문법.md"
               }
             }
           },
@@ -112,7 +113,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "useHierarchy": false
               }
             }
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/SOLID란 무엇인가.md",
+                "file": "영구노트/Java17 Switch 문법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/SOLID란 무엇인가.md",
+                "file": "영구노트/Java17 Switch 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/SOLID란 무엇인가.md",
+                "file": "영구노트/Java17 Switch 문법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/SOLID란 무엇인가.md"
+                "file": "영구노트/Java17 Switch 문법.md"
               }
             }
           }
@@ -271,9 +272,16 @@
   },
   "active": "f493e9170a1f0865",
   "lastOpenFiles": [
+    "3.Resources/IT/java/Java 공부.md",
+    "3.Resources/IT/java/표준 Java Error.md",
+    "3.Resources/IT/java/Java의 기본 구조.md",
+    "3.Resources/IT/java/Java Annotation.md",
+    "3.Resources/IT/java/Java 버전별 특징.md",
+    "3.Resources/IT/java/java 배열 사용법.md",
+    "영구노트/Java 12 ~ 17까지 과정.md",
+    "영구노트/SOLID란 무엇인가.md",
     "영구노트/프록시 패턴.md",
     "영구노트/Finite State Machine.md",
-    "영구노트/SOLID란 무엇인가.md",
     "3.Resources/IT/python/langchain/langchain.md",
     "3.Resources/IT/python/langchain/LCEL.md",
     "3.Resources/IT/python/langchain/Retriever.md",
@@ -296,20 +304,13 @@
     "Excalidraw/Native RAG (draw).svg",
     "영구노트/RAG란.md",
     "영구노트/ParentDocumentRetriever.md",
-    "영구노트/Retriever란 무엇인가.md",
-    "3.Resources/IT/csharp/CSharp 기본.md",
-    "연습노트/CSharp의 Null 다루기.md",
     "attachments/screenshot/Pasted image 20241002202413.png",
     "attachments/screenshot/Pasted image 20241002202320.png",
     "attachments/screenshot/Pasted image 20241002202223.png",
     "attachments/screenshot/Pasted image 20241002202100.png",
     "attachments/screenshot/Pasted image 20241002201805.png",
     "attachments/screenshot/Pasted image 20241002201558.png",
-    "1.Projects/Projects란.md",
     "3.Resources/IT/csharp",
-    "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
-    "1.Projects/정적 블로그 사이트 프로젝트.md",
-    "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",

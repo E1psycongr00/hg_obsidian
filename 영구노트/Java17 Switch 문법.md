@@ -15,6 +15,7 @@ date: 2023-10-21
 ----
 ## 내용(Content)
 ### Java17 Switch Expression
+
 >[!summary] java17의 switch 문 특징
 >- switch문을 통해 결과 값을 반환 가능하다.
 >- break없이 사용 가능한 -> 를 활용한 문법이 존재한다.

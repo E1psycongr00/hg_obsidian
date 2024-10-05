@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Java17 Switch 문법",
+      "path": "영구노트/Java17 Switch 문법.md"
+    },
+    {
+      "basename": "Java 공부",
+      "path": "3.Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "표준 Java Error",
+      "path": "3.Resources/IT/java/표준 Java Error.md"
+    },
+    {
+      "basename": "Java의 기본 구조",
+      "path": "3.Resources/IT/java/Java의 기본 구조.md"
+    },
+    {
+      "basename": "Java Annotation",
+      "path": "3.Resources/IT/java/Java Annotation.md"
+    },
+    {
+      "basename": "Java 버전별 특징",
+      "path": "3.Resources/IT/java/Java 버전별 특징.md"
+    },
+    {
+      "basename": "java 배열 사용법",
+      "path": "3.Resources/IT/java/java 배열 사용법.md"
+    },
+    {
+      "basename": "Java 12 ~ 17까지 과정",
+      "path": "영구노트/Java 12 ~ 17까지 과정.md"
+    },
+    {
       "basename": "SOLID란 무엇인가",
       "path": "영구노트/SOLID란 무엇인가.md"
     },
@@ -67,38 +99,6 @@
     {
       "basename": "RAG from scratch_ Overview",
       "path": "attachments/pdf/RAG from scratch_ Overview.pdf"
-    },
-    {
-      "basename": "Native RAG (draw)",
-      "path": "Excalidraw/Native RAG (draw).md"
-    },
-    {
-      "basename": "RAG란",
-      "path": "영구노트/RAG란.md"
-    },
-    {
-      "basename": "ParentDocumentRetriever",
-      "path": "영구노트/ParentDocumentRetriever.md"
-    },
-    {
-      "basename": "Retriever란 무엇인가",
-      "path": "영구노트/Retriever란 무엇인가.md"
-    },
-    {
-      "basename": "CSharp 기본",
-      "path": "3.Resources/IT/csharp/CSharp 기본.md"
-    },
-    {
-      "basename": "CSharp의 Null 다루기",
-      "path": "연습노트/CSharp의 Null 다루기.md"
-    },
-    {
-      "basename": "Projects란",
-      "path": "1.Projects/Projects란.md"
-    },
-    {
-      "basename": "유튜브 댓글 분석 기반 챗봇",
-      "path": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
     }
   ],
   "omittedPaths": [],
