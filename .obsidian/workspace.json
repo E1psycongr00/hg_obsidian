@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/RAG Fusion.md",
+                "file": "영구노트/SOLID란 무엇인가.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Csharp",
+                "query": "tag:#객체지향",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -103,7 +102,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/RAG Fusion.md"
+                "file": "영구노트/SOLID란 무엇인가.md"
               }
             }
           },
@@ -130,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/RAG Fusion.md",
+                "file": "영구노트/SOLID란 무엇인가.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/RAG Fusion.md",
+                "file": "영구노트/SOLID란 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/RAG Fusion.md",
+                "file": "영구노트/SOLID란 무엇인가.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/RAG Fusion.md"
+                "file": "영구노트/SOLID란 무엇인가.md"
               }
             }
           }
@@ -271,19 +271,26 @@
   },
   "active": "f493e9170a1f0865",
   "lastOpenFiles": [
+    "영구노트/프록시 패턴.md",
+    "영구노트/Finite State Machine.md",
+    "영구노트/SOLID란 무엇인가.md",
+    "3.Resources/IT/python/langchain/langchain.md",
+    "3.Resources/IT/python/langchain/LCEL.md",
+    "3.Resources/IT/python/langchain/Retriever.md",
+    "3.Resources/IT/python/python 기본.md",
+    "3.Resources/IT/python/python vscode 환경 세팅.md",
     "연습노트/Query Translation.md",
     "연습노트/RAG Fusion.md",
+    "attachments/screenshot/Pasted image 20241004204334.png",
+    "attachments/screenshot/Pasted image 20241004203933.png",
     "영구노트/다중 쿼리 기법.md",
     "영구노트/MultiQueryRetriever.md",
     "연습노트/LLM chain 라우팅.md",
-    "3.Resources/IT/python/langchain/LCEL.md",
     "영구노트/RunnableLambda.md",
     "영구노트/RunnablePassThrough.md",
-    "3.Resources/IT/python/langchain/langchain.md",
     "attachments/screenshot/Pasted image 20241004160109.png",
     "영구노트/Native RAG란.md",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
-    "3.Resources/IT/python/langchain/Retriever.md",
     "Excalidraw/Native RAG (draw).md",
     "attachments/pdf",
     "Excalidraw/Native RAG (draw).svg",
@@ -298,18 +305,11 @@
     "attachments/screenshot/Pasted image 20241002202100.png",
     "attachments/screenshot/Pasted image 20241002201805.png",
     "attachments/screenshot/Pasted image 20241002201558.png",
-    "attachments/screenshot/Pasted image 20241002201219.png",
     "1.Projects/Projects란.md",
     "3.Resources/IT/csharp",
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
     "1.Projects/정적 블로그 사이트 프로젝트.md",
     "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
-    "4.Archive/Archive란.md",
-    "templates/project 템플릿.md",
-    "3.Resources/IT/java/Spring Bean Validation 총정리.md",
-    "영구노트/Java Bean Validation 소개.md",
-    "영구노트/Spring Bean Validation 소개.md",
-    "attachments/screenshot/Pasted image 20241001192419.png",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",
     "Excalidraw/ttf/온글잎 보현체.ttf",

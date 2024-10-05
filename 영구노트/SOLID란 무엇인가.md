@@ -20,13 +20,13 @@ SOLID원칙은 프로그래머가 소스를 읽기 쉽고 확장하기 쉽게 �
 
 SOLID는 다음 5가지 두문자를 합친 단어이다.
 
-| 두문자 | 약어 | 개념                                                  |     |
-| ------ | ---- | ----------------------------------------------------- | --- |
-| S      | SRP  | 단일 책임 원칙(Single Responsibility Principle)       |     |
-| O      | OCP  | 개방 폐쇠 원칙(Open Closed Principle)                 |     |
-| L      | LSP  | 리스코프 치환 법칙(Liskov Substitution Principle)     |     |
-| I      | ISP  | 인터페이스 분리 원칙(Interface Segregation Principle) |     |
-| D      | DIP  | 의존 관계 역전 원칙(Dependency Inversion Principle)   |     |
+| 두문자 | 약어  | 개념                                           |     |
+| --- | --- | -------------------------------------------- | --- |
+| S   | SRP | 단일 책임 원칙(Single Responsibility Principle)    |     |
+| O   | OCP | 개방 폐쇠 원칙(Open Closed Principle)              |     |
+| L   | LSP | 리스코프 치환 법칙(Liskov Substitution Principle)    |     |
+| I   | ISP | 인터페이스 분리 원칙(Interface Segregation Principle) |     |
+| D   | DIP | 의존 관계 역전 원칙(Dependency Inversion Principle)  |     |
 
 ## 질문 & 확장
 

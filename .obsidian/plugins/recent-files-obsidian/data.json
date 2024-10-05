@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "RAG Fusion",
-      "path": "연습노트/RAG Fusion.md"
+      "basename": "SOLID란 무엇인가",
+      "path": "영구노트/SOLID란 무엇인가.md"
+    },
+    {
+      "basename": "프록시 패턴",
+      "path": "영구노트/프록시 패턴.md"
+    },
+    {
+      "basename": "Finite State Machine",
+      "path": "영구노트/Finite State Machine.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain/langchain.md"
+    },
+    {
+      "basename": "LCEL",
+      "path": "3.Resources/IT/python/langchain/LCEL.md"
+    },
+    {
+      "basename": "Retriever",
+      "path": "3.Resources/IT/python/langchain/Retriever.md"
+    },
+    {
+      "basename": "python 기본",
+      "path": "3.Resources/IT/python/python 기본.md"
+    },
+    {
+      "basename": "python vscode 환경 세팅",
+      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
     },
     {
       "basename": "Query Translation",
       "path": "연습노트/Query Translation.md"
+    },
+    {
+      "basename": "RAG Fusion",
+      "path": "연습노트/RAG Fusion.md"
     },
     {
       "basename": "다중 쿼리 기법",
@@ -21,10 +53,6 @@
       "path": "연습노트/LLM chain 라우팅.md"
     },
     {
-      "basename": "LCEL",
-      "path": "3.Resources/IT/python/langchain/LCEL.md"
-    },
-    {
       "basename": "RunnableLambda",
       "path": "영구노트/RunnableLambda.md"
     },
@@ -33,20 +61,12 @@
       "path": "영구노트/RunnablePassThrough.md"
     },
     {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
-    },
-    {
       "basename": "Native RAG란",
       "path": "영구노트/Native RAG란.md"
     },
     {
       "basename": "RAG from scratch_ Overview",
       "path": "attachments/pdf/RAG from scratch_ Overview.pdf"
-    },
-    {
-      "basename": "Retriever",
-      "path": "3.Resources/IT/python/langchain/Retriever.md"
     },
     {
       "basename": "Native RAG (draw)",
@@ -79,26 +99,6 @@
     {
       "basename": "유튜브 댓글 분석 기반 챗봇",
       "path": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
-    },
-    {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
-    },
-    {
-      "basename": "SelfQueryRetriever는 정렬 불가능 문제",
-      "path": "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md"
-    },
-    {
-      "basename": "Archive란",
-      "path": "4.Archive/Archive란.md"
-    },
-    {
-      "basename": "project 템플릿",
-      "path": "templates/project 템플릿.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
     }
   ],
   "omittedPaths": [],
