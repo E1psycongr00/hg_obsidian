@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Java17 Switch 문법",
-      "path": "영구노트/Java17 Switch 문법.md"
+      "basename": "Java Record 사용법",
+      "path": "영구노트/Java Record 사용법.md"
     },
     {
       "basename": "Java 공부",
       "path": "3.Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "Java17 Switch 문법",
+      "path": "영구노트/Java17 Switch 문법.md"
     },
     {
       "basename": "표준 Java Error",
@@ -95,10 +99,6 @@
     {
       "basename": "Native RAG란",
       "path": "영구노트/Native RAG란.md"
-    },
-    {
-      "basename": "RAG from scratch_ Overview",
-      "path": "attachments/pdf/RAG from scratch_ Overview.pdf"
     }
   ],
   "omittedPaths": [],
