@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Java Annotation",
+      "path": "3.Resources/IT/java/Java Annotation.md"
+    },
+    {
       "basename": "java-vscode",
       "path": "3.Resources/IT/java/java-vscode.md"
     },
     {
-      "basename": "vscode java 패키지 import 제대로 안되는 경우 해결방법",
-      "path": "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md"
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/JOOQ.md"
     },
     {
-      "basename": "java 배열 사용법",
-      "path": "3.Resources/IT/java/java 배열 사용법.md"
+      "basename": "Java의 기본 구조",
+      "path": "3.Resources/IT/java/Java의 기본 구조.md"
+    },
+    {
+      "basename": "표준 Java Error",
+      "path": "3.Resources/IT/java/표준 Java Error.md"
     },
     {
       "basename": "Java 공부",
       "path": "3.Resources/IT/java/Java 공부.md"
     },
     {
-      "basename": "표준 Java Error",
-      "path": "3.Resources/IT/java/표준 Java Error.md"
+      "basename": "Java 버전별 특징",
+      "path": "3.Resources/IT/java/Java 버전별 특징.md"
     },
     {
       "basename": "Spring Bean Validation 총정리",
@@ -29,8 +37,48 @@
       "path": "3.Resources/IT/java/Spring JDBC.md"
     },
     {
-      "basename": "Java의 기본 구조",
-      "path": "3.Resources/IT/java/Java의 기본 구조.md"
+      "basename": "@Valid와 @Validated 차이",
+      "path": "영구노트/@Valid와 @Validated 차이.md"
+    },
+    {
+      "basename": "Spring bean validation 예외 분석",
+      "path": "영구노트/Spring bean validation 예외 분석.md"
+    },
+    {
+      "basename": "Spring Bean Validation 소개",
+      "path": "영구노트/Spring Bean Validation 소개.md"
+    },
+    {
+      "basename": "parameter에 java bean validation 적용 및 테스트",
+      "path": "영구노트/parameter에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "메서드 return에 java bean validation 적용 및 테스트",
+      "path": "영구노트/메서드 return에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "getter에 java bean validation 적용 및 테스트",
+      "path": "영구노트/getter에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "field에 java bean validation 적용 및 테스트",
+      "path": "영구노트/field에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "Java Bean Validation 소개",
+      "path": "영구노트/Java Bean Validation 소개.md"
+    },
+    {
+      "basename": "java 배열 사용법",
+      "path": "3.Resources/IT/java/java 배열 사용법.md"
+    },
+    {
+      "basename": "어노테이션 @Target",
+      "path": "영구노트/어노테이션 @Target.md"
+    },
+    {
+      "basename": "vscode java 패키지 import 제대로 안되는 경우 해결방법",
+      "path": "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md"
     },
     {
       "basename": "Java Record 사용법",
@@ -39,14 +87,6 @@
     {
       "basename": "Java17 Switch 문법",
       "path": "영구노트/Java17 Switch 문법.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "3.Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "Java 버전별 특징",
-      "path": "3.Resources/IT/java/Java 버전별 특징.md"
     },
     {
       "basename": "Java 12 ~ 17까지 과정",
@@ -59,46 +99,6 @@
     {
       "basename": "프록시 패턴",
       "path": "영구노트/프록시 패턴.md"
-    },
-    {
-      "basename": "Finite State Machine",
-      "path": "영구노트/Finite State Machine.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
-    },
-    {
-      "basename": "LCEL",
-      "path": "3.Resources/IT/python/langchain/LCEL.md"
-    },
-    {
-      "basename": "Retriever",
-      "path": "3.Resources/IT/python/langchain/Retriever.md"
-    },
-    {
-      "basename": "python 기본",
-      "path": "3.Resources/IT/python/python 기본.md"
-    },
-    {
-      "basename": "python vscode 환경 세팅",
-      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
-    },
-    {
-      "basename": "Query Translation",
-      "path": "연습노트/Query Translation.md"
-    },
-    {
-      "basename": "RAG Fusion",
-      "path": "연습노트/RAG Fusion.md"
-    },
-    {
-      "basename": "다중 쿼리 기법",
-      "path": "영구노트/다중 쿼리 기법.md"
-    },
-    {
-      "basename": "MultiQueryRetriever",
-      "path": "영구노트/MultiQueryRetriever.md"
     }
   ],
   "omittedPaths": [],

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/java-vscode.md",
+                "file": "3.Resources/IT/java/Java Annotation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/java/java-vscode.md"
+                "file": "3.Resources/IT/java/Java Annotation.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/java/java-vscode.md",
+                "file": "3.Resources/IT/java/Java Annotation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/java/java-vscode.md",
+                "file": "3.Resources/IT/java/Java Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/java/java-vscode.md",
+                "file": "3.Resources/IT/java/Java Annotation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/java/java-vscode.md"
+                "file": "3.Resources/IT/java/Java Annotation.md"
               }
             }
           }
@@ -273,34 +273,35 @@
   },
   "active": "f493e9170a1f0865",
   "lastOpenFiles": [
-    "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md",
-    "attachments/screenshot/Pasted image 20241006134229.png",
     "3.Resources/IT/java/java-vscode.md",
-    "3.Resources/IT/java/java 배열 사용법.md",
-    "3.Resources/IT/java/Java 공부.md",
+    "3.Resources/IT/java/JOOQ.md",
+    "3.Resources/IT/java/Java의 기본 구조.md",
     "3.Resources/IT/java/표준 Java Error.md",
+    "3.Resources/IT/java/Java 공부.md",
+    "3.Resources/IT/java/Java 버전별 특징.md",
     "3.Resources/IT/java/Spring Bean Validation 총정리.md",
     "3.Resources/IT/java/Spring JDBC.md",
-    "3.Resources/IT/java/Java의 기본 구조.md",
+    "영구노트/@Valid와 @Validated 차이.md",
+    "영구노트/Spring bean validation 예외 분석.md",
+    "영구노트/Spring Bean Validation 소개.md",
+    "영구노트/parameter에 java bean validation 적용 및 테스트.md",
+    "영구노트/메서드 return에 java bean validation 적용 및 테스트.md",
+    "영구노트/getter에 java bean validation 적용 및 테스트.md",
+    "영구노트/field에 java bean validation 적용 및 테스트.md",
+    "영구노트/Java Bean Validation 소개.md",
+    "3.Resources/IT/java/java 배열 사용법.md",
+    "3.Resources/IT/java/Java Annotation.md",
+    "영구노트/어노테이션 @Target.md",
+    "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md",
+    "attachments/screenshot/Pasted image 20241006134229.png",
     "영구노트/Java Record 사용법.md",
     "영구노트/Java17 Switch 문법.md",
-    "3.Resources/IT/java/Java Annotation.md",
-    "3.Resources/IT/java/Java 버전별 특징.md",
     "영구노트/Java 12 ~ 17까지 과정.md",
     "영구노트/SOLID란 무엇인가.md",
     "영구노트/프록시 패턴.md",
     "영구노트/Finite State Machine.md",
-    "3.Resources/IT/python/langchain/langchain.md",
-    "3.Resources/IT/python/langchain/LCEL.md",
-    "3.Resources/IT/python/langchain/Retriever.md",
-    "3.Resources/IT/python/python 기본.md",
-    "3.Resources/IT/python/python vscode 환경 세팅.md",
-    "연습노트/Query Translation.md",
-    "연습노트/RAG Fusion.md",
     "attachments/screenshot/Pasted image 20241004204334.png",
     "attachments/screenshot/Pasted image 20241004203933.png",
-    "영구노트/다중 쿼리 기법.md",
-    "영구노트/MultiQueryRetriever.md",
     "attachments/screenshot/Pasted image 20241004160109.png",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
     "attachments/pdf",
