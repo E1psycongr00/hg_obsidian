@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Java Record 사용법.md",
+                "file": "3.Resources/IT/java/java 배열 사용법.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#JAVA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -103,7 +103,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Java Record 사용법.md"
+                "file": "3.Resources/IT/java/java 배열 사용법.md"
               }
             }
           },
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/Java Record 사용법.md",
+                "file": "3.Resources/IT/java/java 배열 사용법.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/Java Record 사용법.md",
+                "file": "3.Resources/IT/java/java 배열 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Java Record 사용법.md",
+                "file": "3.Resources/IT/java/java 배열 사용법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -241,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Java Record 사용법.md"
+                "file": "3.Resources/IT/java/java 배열 사용법.md"
               }
             }
           }
@@ -275,9 +274,12 @@
   "active": "f493e9170a1f0865",
   "lastOpenFiles": [
     "3.Resources/IT/java/Java 공부.md",
-    "영구노트/Java17 Switch 문법.md",
     "3.Resources/IT/java/표준 Java Error.md",
+    "3.Resources/IT/java/Spring Bean Validation 총정리.md",
+    "3.Resources/IT/java/Spring JDBC.md",
     "3.Resources/IT/java/Java의 기본 구조.md",
+    "영구노트/Java Record 사용법.md",
+    "영구노트/Java17 Switch 문법.md",
     "3.Resources/IT/java/Java Annotation.md",
     "3.Resources/IT/java/Java 버전별 특징.md",
     "3.Resources/IT/java/java 배열 사용법.md",
@@ -300,12 +302,9 @@
     "영구노트/RunnableLambda.md",
     "영구노트/RunnablePassThrough.md",
     "attachments/screenshot/Pasted image 20241004160109.png",
-    "영구노트/Native RAG란.md",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
-    "Excalidraw/Native RAG (draw).md",
     "attachments/pdf",
     "Excalidraw/Native RAG (draw).svg",
-    "영구노트/RAG란.md",
     "attachments/screenshot/Pasted image 20241002202413.png",
     "attachments/screenshot/Pasted image 20241002202320.png",
     "attachments/screenshot/Pasted image 20241002202223.png",
