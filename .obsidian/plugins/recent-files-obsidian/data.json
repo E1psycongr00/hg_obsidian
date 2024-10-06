@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "java-vscode",
+      "path": "3.Resources/IT/java/java-vscode.md"
+    },
+    {
+      "basename": "vscode java 패키지 import 제대로 안되는 경우 해결방법",
+      "path": "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md"
+    },
+    {
       "basename": "java 배열 사용법",
       "path": "3.Resources/IT/java/java 배열 사용법.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "MultiQueryRetriever",
       "path": "영구노트/MultiQueryRetriever.md"
-    },
-    {
-      "basename": "LLM chain 라우팅",
-      "path": "연습노트/LLM chain 라우팅.md"
-    },
-    {
-      "basename": "RunnableLambda",
-      "path": "영구노트/RunnableLambda.md"
     }
   ],
   "omittedPaths": [],
