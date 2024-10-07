@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Patern Matching For Switch",
+      "path": "연습노트/Patern Matching For Switch.md"
+    },
+    {
       "basename": "Java 문법",
       "path": "3.Resources/IT/java/Java 문법.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "field에 java bean validation 적용 및 테스트",
       "path": "영구노트/field에 java bean validation 적용 및 테스트.md"
-    },
-    {
-      "basename": "Java Bean Validation 소개",
-      "path": "영구노트/Java Bean Validation 소개.md"
     }
   ],
   "omittedPaths": [],

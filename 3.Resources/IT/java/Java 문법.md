@@ -26,4 +26,5 @@ title: Java 문법
 ### Ver 21
 
 - [[Record Pattern]]
+- [[Patern Matching For Switch]]
 - 
