@@ -8,7 +8,7 @@ title: Record Pattern
 작성 날짜: 2024-10-07
 작성 시간: 11:56
 
-#미완 #JAVA
+#완성 #JAVA
 
 ----
 ## 내용(Content)
@@ -25,17 +25,37 @@ java 16에서 도입된 instanceof 문법은 캐스팅할 필요 없이 instance
 ### Record Pattern 이전의 코드
 
 ```java
-
+private static void print(Object obj) {
+	if (obj instanceof Point p) {
+		int x = p.x();
+		int y = p.y();
+		System.out.println(x + y);
+	}
+}
 ```
 
+위 코드는 obj가 Point 객체라면 Point 객체 p로 선언하고 이를 if 문 블록 안에서 지역 변수로써 활용 할 수 있다. 
+
+### Record Pattern 코드
+
+```java
+private static void print(Object obj) {
+	if (obj instanceof Point(int x, int y)) {
+		System.out.println(x + y);
+	}
+}
+```
+
+record처럼 객체를 선언하면 Point Record의 객체의 변수를 가져와서 if문 블록 내에서 사용가능하다. if 문 안에서 사용 가능한 객체 분해 할당과 같은 문법이다.
 
 ## 질문 & 확장
 
-(없음)
+여전히 js나 python의 객체 분해 할당과는 약간 거리가 멀지만 Java 진영에서 타입 안정성과 함께 데이터를 쉽게 처리하는 방법을 많이 고민하고 있는 것 같다.
 
 ## 출처(링크)
 
-
+- https://mangkyu.tistory.com/308
+- 
 ## 연결 노트
 
 
