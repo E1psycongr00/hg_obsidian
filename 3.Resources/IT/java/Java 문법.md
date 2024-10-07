@@ -21,7 +21,7 @@ title: Java 문법
 - [[Java Record 사용법]]
 - [[Compact 생성자에 대해 이해하기]]
 - [[JAVA Text Block]]
-
+- [[sealed class, sealed interface]]
 
 ### Ver 21
 

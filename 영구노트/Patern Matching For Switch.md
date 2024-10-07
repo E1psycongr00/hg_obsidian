@@ -8,7 +8,7 @@ title: Patern Matching For Switch
 작성 날짜: 2024-10-07
 작성 시간: 13:54
 
-#미완 #JAVA
+#완성 #JAVA
 
 ----
 ## 내용(Content)
@@ -105,6 +105,25 @@ java 21에서는 when 을 활용해 중첩 분기문을 중첩된 문처럼 보�
 
 ### enum 인터페이스와 switch 문
 
+interface를 상속받은 enum을 다음과 같이 쉽게 처리할 수 있다.
+
+```java
+
+public sealed interface Food permits Pizza {}
+
+public enum Pizza implements Food {
+    RICE_PIZZA, PEPE_PIZZA
+}
+
+public static void test(Food f) {
+	switch (f) {
+		case Pizza.RICE_PIZZA -> System.out.println("RICE!!");
+		case Pizza.PEPE_PIZZA -> System.out.println("PEPE!!");
+		default -> System.out.println("NO!!!");
+	}
+}
+```
+
 
 ## 질문 & 확장
 
@@ -115,13 +134,6 @@ java 21에서는 when 을 활용해 중첩 분기문을 중첩된 문처럼 보�
 - https://mangkyu.tistory.com/308
 - https://openjdk.org/jeps/441
 ## 연결 노트
-
-
-
-
-
-
-
 
 
 
