@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md",
+                "file": "3.Resources/IT/java/Java 문법.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "258196d313139853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/JAVA Text Block.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java 문법",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -103,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md"
+                "file": "연습노트/JAVA Text Block.md"
               }
             }
           },
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md",
+                "file": "연습노트/JAVA Text Block.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md",
+                "file": "연습노트/JAVA Text Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md",
+                "file": "연습노트/JAVA Text Block.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md"
+                "file": "연습노트/JAVA Text Block.md"
               }
             }
           }
@@ -271,23 +284,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f493e9170a1f0865",
+  "active": "258196d313139853",
   "lastOpenFiles": [
-    "연습노트/Java 문법.md",
-    "연습노트/Compact 생성자에 대해 이해하기.md",
-    "연습노트/Query Translation.md",
-    "Excalidraw/Compact 생성자 동작 원리 (draw).md",
-    "Excalidraw/Compact 생성자 동작 원리 (draw).svg",
-    "3.Resources/IT/java/Java의 기본 구조.md",
-    "영구노트/Java Record 사용법.md",
+    "attachments/screenshot/Pasted image 20241006210845.png",
+    "3.Resources/IT/java/Java 문법.md",
+    "연습노트/JAVA Text Block.md",
     "3.Resources/IT/java/Java 공부.md",
-    "3.Resources/IT/java/Spring Bean Validation 총정리.md",
-    "3.Resources/IT/java/JOOQ.md",
+    "3.Resources/IT/java/Java의 기본 구조.md",
     "3.Resources/IT/java/java-vscode.md",
     "3.Resources/IT/java/Java Annotation.md",
     "3.Resources/IT/java/Java 버전별 특징.md",
-    "3.Resources/IT/java/Spring JDBC.md",
     "3.Resources/IT/java/java 배열 사용법.md",
+    "연습노트/Query Translation.md",
+    "연습노트/Compact 생성자에 대해 이해하기.md",
+    "Excalidraw/Compact 생성자 동작 원리 (draw).md",
+    "Excalidraw/Compact 생성자 동작 원리 (draw).svg",
+    "영구노트/Java Record 사용법.md",
+    "3.Resources/IT/java/Spring Bean Validation 총정리.md",
+    "3.Resources/IT/java/JOOQ.md",
+    "3.Resources/IT/java/Spring JDBC.md",
     "3.Resources/IT/java/표준 Java Error.md",
     "영구노트/@Valid와 @Validated 차이.md",
     "영구노트/Spring bean validation 예외 분석.md",
@@ -298,9 +313,7 @@
     "영구노트/field에 java bean validation 적용 및 테스트.md",
     "영구노트/Java Bean Validation 소개.md",
     "영구노트/어노테이션 @Target.md",
-    "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md",
     "attachments/screenshot/Pasted image 20241006134229.png",
-    "영구노트/Java17 Switch 문법.md",
     "attachments/screenshot/Pasted image 20241004204334.png",
     "attachments/screenshot/Pasted image 20241004203933.png",
     "attachments/screenshot/Pasted image 20241004160109.png",

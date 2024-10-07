@@ -1,40 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "JAVA Text Block",
+      "path": "연습노트/JAVA Text Block.md"
+    },
+    {
+      "basename": "Java 문법",
+      "path": "3.Resources/IT/java/Java 문법.md"
+    },
+    {
       "basename": "Java 공부",
       "path": "3.Resources/IT/java/Java 공부.md"
     },
     {
-      "basename": "Java 문법",
-      "path": "연습노트/Java 문법.md"
-    },
-    {
-      "basename": "Compact 생성자에 대해 이해하기",
-      "path": "연습노트/Compact 생성자에 대해 이해하기.md"
-    },
-    {
-      "basename": "Query Translation",
-      "path": "연습노트/Query Translation.md"
-    },
-    {
-      "basename": "Compact 생성자 동작 원리 (draw)",
-      "path": "Excalidraw/Compact 생성자 동작 원리 (draw).md"
-    },
-    {
       "basename": "Java의 기본 구조",
       "path": "3.Resources/IT/java/Java의 기본 구조.md"
-    },
-    {
-      "basename": "Java Record 사용법",
-      "path": "영구노트/Java Record 사용법.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/JOOQ.md"
     },
     {
       "basename": "java-vscode",
@@ -49,12 +29,36 @@
       "path": "3.Resources/IT/java/Java 버전별 특징.md"
     },
     {
-      "basename": "Spring JDBC",
-      "path": "3.Resources/IT/java/Spring JDBC.md"
-    },
-    {
       "basename": "java 배열 사용법",
       "path": "3.Resources/IT/java/java 배열 사용법.md"
+    },
+    {
+      "basename": "Query Translation",
+      "path": "연습노트/Query Translation.md"
+    },
+    {
+      "basename": "Compact 생성자에 대해 이해하기",
+      "path": "연습노트/Compact 생성자에 대해 이해하기.md"
+    },
+    {
+      "basename": "Compact 생성자 동작 원리 (draw)",
+      "path": "Excalidraw/Compact 생성자 동작 원리 (draw).md"
+    },
+    {
+      "basename": "Java Record 사용법",
+      "path": "영구노트/Java Record 사용법.md"
+    },
+    {
+      "basename": "Spring Bean Validation 총정리",
+      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/JOOQ.md"
+    },
+    {
+      "basename": "Spring JDBC",
+      "path": "3.Resources/IT/java/Spring JDBC.md"
     },
     {
       "basename": "표준 Java Error",
@@ -95,10 +99,6 @@
     {
       "basename": "어노테이션 @Target",
       "path": "영구노트/어노테이션 @Target.md"
-    },
-    {
-      "basename": "vscode java 패키지 import 제대로 안되는 경우 해결방법",
-      "path": "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md"
     }
   ],
   "omittedPaths": [],
