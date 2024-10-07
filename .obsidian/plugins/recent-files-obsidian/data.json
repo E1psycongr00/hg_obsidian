@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "JAVA Text Block",
-      "path": "연습노트/JAVA Text Block.md"
+      "basename": "Record Pattern",
+      "path": "연습노트/Record Pattern.md"
     },
     {
       "basename": "Java 문법",
       "path": "3.Resources/IT/java/Java 문법.md"
+    },
+    {
+      "basename": "JAVA Text Block",
+      "path": "연습노트/JAVA Text Block.md"
     },
     {
       "basename": "Java 공부",
@@ -95,10 +99,6 @@
     {
       "basename": "Java Bean Validation 소개",
       "path": "영구노트/Java Bean Validation 소개.md"
-    },
-    {
-      "basename": "어노테이션 @Target",
-      "path": "영구노트/어노테이션 @Target.md"
     }
   ],
   "omittedPaths": [],

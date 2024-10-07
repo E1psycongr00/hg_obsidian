@@ -16,9 +16,14 @@ title: Java 문법
 
 ## 자바 문법
 
-### ver 17
+### Ver 17
 
 - [[Java Record 사용법]]
 - [[Compact 생성자에 대해 이해하기]]
 - [[JAVA Text Block]]
+
+
+### Ver 21
+
+- [[Record Pattern]]
 - 

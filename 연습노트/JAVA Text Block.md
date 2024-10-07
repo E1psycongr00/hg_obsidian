@@ -52,6 +52,10 @@ textBlock의 문제점은 의도치 않게 indent가 추가되거나 제거될 �
 
 ![[Pasted image 20241006210845.png]]
 
+
+indent를 어떻게 가져가느냐에 따라서 text Block의 indent가 달라질 수 있다. 가장 중요한 것은 닫을 때 `"""` indent 위치 기준으로 얼마나 indent을 지울지 결정한다. 위 그림을 보면 마지막에 추가적인 indent를 주기 위해서 `"""` indent를 줄여서 앞에다가 쓰고 그렇게 쓰면 기존 textblock 에 기존 textblock indent - 닫힌 `"""` indent 만큼의 남은 indent가 추가로 출력된다.
+
+
 ## 질문 & 확장
 
 (없음)
