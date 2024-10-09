@@ -1,7 +1,8 @@
 ---
 tags:
   - 객체지향
-aliases: 
+aliases:
+  - SOLID
 title: SOLID란 무엇인가
 date: 2023-10-03
 ---
