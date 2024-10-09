@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "싱글턴 패턴",
+      "path": "연습노트/싱글턴 패턴.md"
+    },
+    {
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "race condition",
+      "path": "영구노트/race condition.md"
+    },
+    {
+      "basename": "Query Translation",
+      "path": "연습노트/Query Translation.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "3.Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "Mutex와 binary semaphore 같지 않다",
+      "path": "영구노트/Mutex와 binary semaphore 같지 않다.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "IO Bound와 CPU Bound",
+      "path": "영구노트/IO Bound와 CPU Bound.md"
+    },
+    {
+      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
+      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘/알고리즘.md"
+    },
+    {
       "basename": "Finite State Machine",
       "path": "영구노트/Finite State Machine.md"
     },
@@ -53,52 +93,12 @@
       "path": "3.Resources/IT/java/java 배열 사용법.md"
     },
     {
-      "basename": "Query Translation",
-      "path": "연습노트/Query Translation.md"
-    },
-    {
       "basename": "Compact 생성자에 대해 이해하기",
       "path": "연습노트/Compact 생성자에 대해 이해하기.md"
     },
     {
       "basename": "Compact 생성자 동작 원리 (draw)",
       "path": "Excalidraw/Compact 생성자 동작 원리 (draw).md"
-    },
-    {
-      "basename": "Java Record 사용법",
-      "path": "영구노트/Java Record 사용법.md"
-    },
-    {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/JOOQ.md"
-    },
-    {
-      "basename": "Spring JDBC",
-      "path": "3.Resources/IT/java/Spring JDBC.md"
-    },
-    {
-      "basename": "표준 Java Error",
-      "path": "3.Resources/IT/java/표준 Java Error.md"
-    },
-    {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "영구노트/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "Spring bean validation 예외 분석",
-      "path": "영구노트/Spring bean validation 예외 분석.md"
-    },
-    {
-      "basename": "Spring Bean Validation 소개",
-      "path": "영구노트/Spring Bean Validation 소개.md"
-    },
-    {
-      "basename": "parameter에 java bean validation 적용 및 테스트",
-      "path": "영구노트/parameter에 java bean validation 적용 및 테스트.md"
     }
   ],
   "omittedPaths": [],
