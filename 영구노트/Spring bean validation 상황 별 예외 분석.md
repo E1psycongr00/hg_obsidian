@@ -4,7 +4,7 @@ tags:
   - Spring
   - Validation
 aliases: 
-title: Spring bean validation 예외 분석
+title: Spring bean validation 상황 별 예외 분석
 date: 2023-11-10
 ---
 작성 날짜: 2023-11-10
@@ -58,7 +58,7 @@ public ResponseEntity<ErrorResponse> handleMethodArgumentNotValidException(Metho
 
 클래스 컴포넌트(Bean)에 @Validated를 붙이면 해당 컴포넌트는 Validation 해야할 Bean으로 인식하고 유효성 검사를 실행한다. 예외 발생시 **ConstraintViolationException**이 발생한다.
 
-Spring에서는 따로 처리하고 있지 않으므로 Internal Error Exception이 발생한다.
+Spring에서는 따로 처리하고 있지 않으므로 Internal Error Exception(내부 오류)이 발생한다.
 
 #### 커스텀 예외 처리하기
 

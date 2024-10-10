@@ -28,7 +28,7 @@ title: Spring Bean Validation 총정리
 ### Spring Bean Validation
 
 - [[Spring Bean Validation 소개]]
-- [[Spring bean validation 예외 분석]]
+- [[Spring bean validation 상황 별 예외 분석]]
 - [[@Valid와 @Validated 차이]]
 - [[Spring bean validation과 MessageCodesResolver]]
 - [[MessageSource 분석하기]]
