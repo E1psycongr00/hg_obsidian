@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd729d710d32e64",
+        "id": "b903e3189addeeae",
         "type": "tabs",
         "children": [
           {
-            "id": "55c170c25048fdec",
+            "id": "e6c56f6a37c46e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
-                "mode": "source",
+                "file": "연습노트/Git 핵심 명령어.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md"
+                "file": "연습노트/Git 핵심 명령어.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "연습노트/Git 핵심 명령어.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "연습노트/Git 핵심 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md",
+                "file": "연습노트/Git 핵심 명령어.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Windows Poetry 설치 및 정리.md"
+                "file": "연습노트/Git 핵심 명령어.md"
               }
             }
           }
@@ -256,25 +256,27 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "55c170c25048fdec",
+  "active": "e6c56f6a37c46e7c",
   "lastOpenFiles": [
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/SelfQueryRetriever.md",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/JOOQ 리턴 타입.md",
     "연습노트/Query Translation.md",
     "연습노트/Prompting Github Copilot.md",
     "연습노트/Latex Suite 사용 방법.md",
+    "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "영구노트/Windows Poetry 설치 및 정리.md",
+    "attachments/screenshot/Pasted image 20241010190137.png",
+    "attachments/screenshot/Pasted image 20241010190127.png",
+    "연습노트/SelfQueryRetriever.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/JOOQ 리턴 타입.md",
     "연습노트/Git 핵심 명령어.md",
     "영구노트/클래스 변수와 인스턴스 변수.md",
     "영구노트/Compact 생성자에 대해 이해하기.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/Windows Poetry 설치 및 정리.md",
     "3.Resources/IT/python/langchain/Retriever.md",
     "연습노트/VectorStore-backed Retriever.md",
     "연습노트/Styled-Bert-VITS2.md",
     "연습노트/Spring에서 예외 처리 과정.md",
-    "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
     "영구노트/RAG Fusion.md",
     "영구노트/LongContextReorder.md",
     "영구노트/LLM chain 라우팅.md",
@@ -283,7 +285,6 @@
     "영구노트/JAVA Text Block.md",
     "3.Resources/IT/java/Java 문법.md",
     "영구노트/Github의 구조.md",
-    "영구노트/CSharp의 Null 다루기.md",
     "3.Resources/IT/java/spring",
     "attachments/screenshot/Pasted image 20241009230429.png",
     "3.Resources/IT/객체지향",
@@ -296,8 +297,6 @@
     "attachments/pdf/RAG from scratch_ Overview.pdf",
     "attachments/pdf",
     "Excalidraw/Native RAG (draw).svg",
-    "attachments/screenshot/Pasted image 20241002202413.png",
-    "attachments/screenshot/Pasted image 20241002202320.png",
     "3.Resources/IT/csharp",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",

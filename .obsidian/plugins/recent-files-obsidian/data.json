@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Windows Poetry 설치 및 정리",
-      "path": "연습노트/Windows Poetry 설치 및 정리.md"
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
     },
     {
-      "basename": "SelfQueryRetriever",
-      "path": "연습노트/SelfQueryRetriever.md"
+      "basename": "JOOQ 리턴 타입",
+      "path": "연습노트/JOOQ 리턴 타입.md"
     },
     {
       "basename": "Query Translation",
@@ -25,16 +25,24 @@
       "path": "연습노트/Latex Suite 사용 방법.md"
     },
     {
+      "basename": "SelfQueryRetriever는 정렬 불가능 문제",
+      "path": "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Windows Poetry 설치 및 정리",
+      "path": "영구노트/Windows Poetry 설치 및 정리.md"
+    },
+    {
+      "basename": "SelfQueryRetriever",
+      "path": "연습노트/SelfQueryRetriever.md"
+    },
+    {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
     },
     {
       "basename": "클래스 변수와 인스턴스 변수",
@@ -45,16 +53,8 @@
       "path": "영구노트/Compact 생성자에 대해 이해하기.md"
     },
     {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
       "basename": "Retriever",
       "path": "3.Resources/IT/python/langchain/Retriever.md"
-    },
-    {
-      "basename": "SelfQueryRetriever는 정렬 불가능 문제",
-      "path": "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md"
     },
     {
       "basename": "RAG Fusion",
