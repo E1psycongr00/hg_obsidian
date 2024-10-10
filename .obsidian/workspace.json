@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f493e9170a1f0865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/싱글턴 패턴.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc527d3c34307729",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/race condition.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/싱글턴 패턴.md"
+                "file": "연습노트/Query Translation.md"
               }
             }
           },
@@ -165,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/싱글턴 패턴.md",
+                "file": "연습노트/Query Translation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/싱글턴 패턴.md",
+                "file": "연습노트/Query Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/싱글턴 패턴.md",
+                "file": "연습노트/Query Translation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/싱글턴 패턴.md"
+                "file": "연습노트/Query Translation.md"
               }
             }
           }
@@ -283,8 +256,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f493e9170a1f0865",
+  "active": "91648350fa24c8c8",
   "lastOpenFiles": [
+    "연습노트/싱글턴 패턴.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "영구노트/race condition.md",
     "연습노트/Query Translation.md",
@@ -292,7 +266,6 @@
     "영구노트/Mutex와 binary semaphore 같지 않다.md",
     "3.Resources/IT/운영체제/동기 IO Models.md",
     "영구노트/IO Bound와 CPU Bound.md",
-    "연습노트/싱글턴 패턴.md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
     "attachments/screenshot/Pasted image 20241009230429.png",
     "3.Resources/IT/알고리즘/알고리즘.md",

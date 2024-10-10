@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Query Translation",
+      "path": "연습노트/Query Translation.md"
+    },
+    {
       "basename": "싱글턴 패턴",
       "path": "연습노트/싱글턴 패턴.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "race condition",
       "path": "영구노트/race condition.md"
-    },
-    {
-      "basename": "Query Translation",
-      "path": "연습노트/Query Translation.md"
     },
     {
       "basename": "동기화 모음",
