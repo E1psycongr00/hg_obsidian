@@ -12,7 +12,7 @@ title: LongContextReorder
 작성 날짜: 2024-09-27
 작성 시간: 21:13
 
-#미완 #Python #Langchain #RAG #Retriever 
+#완성 #Python #Langchain #RAG #Retriever 
 
 ----
 ## 내용(Content)

@@ -10,7 +10,7 @@ title: LangGraph의 Graph 구성 요소
 작성 날짜: 2024-10-10
 작성 시간: 15:57
 
-#미완 #Python #Langchain #LangGraph 
+#완성 #Python #Langchain #LangGraph 
 
 ----
 ## 내용(Content)

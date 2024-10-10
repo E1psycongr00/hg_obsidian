@@ -8,7 +8,7 @@ title: JAVA Text Block
 작성 날짜: 2024-10-06
 작성 시간: 20:48
 
-#미완 #JAVA 
+#완성 #JAVA 
 
 ----
 ## 내용(Content)

@@ -8,7 +8,7 @@ title: Github의 구조
 작성 날짜: 2024-09-11
 작성 시간: 19:56
 
-#미완 #Github 
+#완성 #Github 
 
 ----
 ## 내용(Content)

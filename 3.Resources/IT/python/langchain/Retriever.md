@@ -19,7 +19,6 @@ title: Retriever
 
 - [[Retriever란 무엇인가]]
 - [[Sparse Retriever VS Dense Retriever]]
-- [[VectorStore-backed Retriever]]
 - [[MultiQueryRetriever]]
 - [[ParentDocumentRetriever]]
 - [[SelfQueryRetriever]]

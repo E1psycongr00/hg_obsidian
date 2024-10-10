@@ -11,7 +11,7 @@ title: RAG Fusion
 작성 날짜: 2024-10-04
 작성 시간: 20:08
 
-#미완 #Python #Langchain #Retriever  #LLM 
+#완성 #Python #Langchain #Retriever  #LLM 
 
 ----
 ## 내용(Content)

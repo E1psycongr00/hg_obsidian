@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Java Annotation",
-      "path": "3.Resources/IT/java/Java Annotation.md"
+      "basename": "Windows Poetry 설치 및 정리",
+      "path": "연습노트/Windows Poetry 설치 및 정리.md"
     },
     {
-      "basename": "어노테이션 @Target",
-      "path": "영구노트/어노테이션 @Target.md"
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
     },
     {
-      "basename": "Java 버전별 특징",
-      "path": "3.Resources/IT/java/Java 버전별 특징.md"
+      "basename": "SelfQueryRetriever",
+      "path": "연습노트/SelfQueryRetriever.md"
     },
     {
-      "basename": "java 배열 사용법",
-      "path": "3.Resources/IT/java/java 배열 사용법.md"
+      "basename": "Query Translation",
+      "path": "연습노트/Query Translation.md"
+    },
+    {
+      "basename": "Prompting Github Copilot",
+      "path": "연습노트/Prompting Github Copilot.md"
+    },
+    {
+      "basename": "Latex Suite 사용 방법",
+      "path": "연습노트/Latex Suite 사용 방법.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "JOOQ 리턴 타입",
+      "path": "연습노트/JOOQ 리턴 타입.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
+    },
+    {
+      "basename": "클래스 변수와 인스턴스 변수",
+      "path": "영구노트/클래스 변수와 인스턴스 변수.md"
+    },
+    {
+      "basename": "Compact 생성자에 대해 이해하기",
+      "path": "영구노트/Compact 생성자에 대해 이해하기.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Retriever",
+      "path": "3.Resources/IT/python/langchain/Retriever.md"
+    },
+    {
+      "basename": "SelfQueryRetriever는 정렬 불가능 문제",
+      "path": "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md"
+    },
+    {
+      "basename": "RAG Fusion",
+      "path": "영구노트/RAG Fusion.md"
+    },
+    {
+      "basename": "LongContextReorder",
+      "path": "영구노트/LongContextReorder.md"
+    },
+    {
+      "basename": "LLM chain 라우팅",
+      "path": "영구노트/LLM chain 라우팅.md"
+    },
+    {
+      "basename": "LangGraph의 Graph 구성 요소",
+      "path": "영구노트/LangGraph의 Graph 구성 요소.md"
+    },
+    {
+      "basename": "JOOQ Code Generator With Gradle",
+      "path": "연습노트/JOOQ Code Generator With Gradle.md"
+    },
+    {
+      "basename": "JAVA Text Block",
+      "path": "영구노트/JAVA Text Block.md"
     },
     {
       "basename": "Java 문법",
       "path": "3.Resources/IT/java/Java 문법.md"
     },
     {
-      "basename": "Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/Spring Bean Validation 총정리.md"
+      "basename": "Github의 구조",
+      "path": "영구노트/Github의 구조.md"
     },
     {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/JOOQ.md"
+      "basename": "CSharp의 Null 다루기",
+      "path": "영구노트/CSharp의 Null 다루기.md"
     },
     {
-      "basename": "Java의 기본 구조",
-      "path": "3.Resources/IT/java/Java의 기본 구조.md"
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
     },
     {
-      "basename": "java-vscode",
-      "path": "3.Resources/IT/java/java-vscode.md"
-    },
-    {
-      "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
-      "path": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
-    },
-    {
-      "basename": "index 기반으로 ConstraintViolation을 MessageSource로 활용하기",
-      "path": "영구노트/index 기반으로 ConstraintViolation을 MessageSource로 활용하기.md"
-    },
-    {
-      "basename": "MessageSource 분석하기",
-      "path": "영구노트/MessageSource 분석하기.md"
-    },
-    {
-      "basename": "Spring bean validation과 MessageCodesResolver",
-      "path": "영구노트/Spring bean validation과 MessageCodesResolver.md"
-    },
-    {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "영구노트/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "ConstraintViolationException",
-      "path": "영구노트/ConstraintViolationException.md"
-    },
-    {
-      "basename": "Spring bean validation 상황 별 예외 분석",
-      "path": "영구노트/Spring bean validation 상황 별 예외 분석.md"
-    },
-    {
-      "basename": "MethodArgumentNotValidException이란",
-      "path": "영구노트/MethodArgumentNotValidException이란.md"
-    },
-    {
-      "basename": "MockMvc 영어 출력을 한글 출력으로 바꾸기",
-      "path": "영구노트/MockMvc 영어 출력을 한글 출력으로 바꾸기.md"
-    },
-    {
-      "basename": "Spring Bean Validation 소개",
-      "path": "영구노트/Spring Bean Validation 소개.md"
-    },
-    {
-      "basename": "langgraph",
-      "path": "3.Resources/IT/python/langchain/langgraph.md"
-    },
-    {
-      "basename": "LangGraph의 Graph 구성 요소",
-      "path": "연습노트/LangGraph의 Graph 구성 요소.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
-    },
-    {
-      "basename": "python 기본",
-      "path": "3.Resources/IT/python/python 기본.md"
-    },
-    {
-      "basename": "LangGraph의 State란",
-      "path": "영구노트/LangGraph의 State란.md"
-    },
-    {
-      "basename": "Pydandic Custom Validation 타입 만들기",
-      "path": "영구노트/Pydandic Custom Validation 타입 만들기.md"
+      "basename": "싱글턴 패턴",
+      "path": "영구노트/싱글턴 패턴.md"
     }
   ],
   "omittedPaths": [],
