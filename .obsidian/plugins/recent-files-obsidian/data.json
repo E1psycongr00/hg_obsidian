@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "LangGraph의 State란",
+      "path": "연습노트/LangGraph의 State란.md"
+    },
+    {
+      "basename": "LangGraph의 Graph 구성 요소",
+      "path": "연습노트/LangGraph의 Graph 구성 요소.md"
+    },
+    {
+      "basename": "langgraph",
+      "path": "3.Resources/IT/python/langchain/langgraph.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain/langchain.md"
+    },
+    {
+      "basename": "python 기본",
+      "path": "3.Resources/IT/python/python 기본.md"
+    },
+    {
+      "basename": "Retriever",
+      "path": "3.Resources/IT/python/langchain/Retriever.md"
+    },
+    {
+      "basename": "LCEL",
+      "path": "3.Resources/IT/python/langchain/LCEL.md"
+    },
+    {
+      "basename": "python vscode 환경 세팅",
+      "path": "3.Resources/IT/python/python vscode 환경 세팅.md"
+    },
+    {
       "basename": "Query Translation",
       "path": "연습노트/Query Translation.md"
     },
@@ -67,38 +99,6 @@
     {
       "basename": "JAVA Text Block",
       "path": "연습노트/JAVA Text Block.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "3.Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "Java의 기본 구조",
-      "path": "3.Resources/IT/java/Java의 기본 구조.md"
-    },
-    {
-      "basename": "java-vscode",
-      "path": "3.Resources/IT/java/java-vscode.md"
-    },
-    {
-      "basename": "Java Annotation",
-      "path": "3.Resources/IT/java/Java Annotation.md"
-    },
-    {
-      "basename": "Java 버전별 특징",
-      "path": "3.Resources/IT/java/Java 버전별 특징.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "3.Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Compact 생성자에 대해 이해하기",
-      "path": "연습노트/Compact 생성자에 대해 이해하기.md"
-    },
-    {
-      "basename": "Compact 생성자 동작 원리 (draw)",
-      "path": "Excalidraw/Compact 생성자 동작 원리 (draw).md"
     }
   ],
   "omittedPaths": [],
