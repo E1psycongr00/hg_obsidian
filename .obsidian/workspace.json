@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2acfe8f53c470b6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/python/langchain/langgraph.md"
+                "file": "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md"
               }
             }
           },
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/python/langchain/langgraph.md",
+                "file": "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Resources/IT/python/langchain/langgraph.md",
+                "file": "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/python/langchain/langgraph.md",
+                "file": "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/python/langchain/langgraph.md"
+                "file": "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md"
               }
             }
           }
@@ -234,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,8 +268,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e6c56f6a37c46e7c",
+  "active": "d2acfe8f53c470b6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.svg",
+    "3.Resources/IT/python/langchain/langgraph.md",
+    "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md",
     "3.Resources/IT/python/langchain/langchain.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "연습노트/Git 핵심 명령어.md",
@@ -283,9 +298,6 @@
     "영구노트/LongContextReorder.md",
     "영구노트/LLM chain 라우팅.md",
     "영구노트/LangGraph의 Graph 구성 요소.md",
-    "연습노트/JOOQ Code Generator With Gradle.md",
-    "영구노트/JAVA Text Block.md",
-    "3.Resources/IT/java/Java 문법.md",
     "3.Resources/IT/java/spring",
     "attachments/screenshot/Pasted image 20241009230429.png",
     "3.Resources/IT/객체지향",
