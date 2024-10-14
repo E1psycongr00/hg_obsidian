@@ -129,7 +129,7 @@ generation = rag_chain.invoke({"context": docs, "question": question})
 
 generate 단계에서는 단계를 거쳐서 결국 context 정보와 question 정보를 모아 사용자에게 필요한 대답을 생성하는 역할을 맡고 있는 LLM이다. 
 
-이제 해당 chain을 사용하는 generate 노드를 생성해보자
+이제 해당 chain을 사용하는 generate 노드를 생성해보자.
 
 ```python
 def generate(state):
@@ -146,6 +146,9 @@ generate 단계에서는 참고한 documents와 question을 통해 answer를 생
 아까 쿼리 분석에서 web_node로 라우터가 정해줬다면 바로 generate node를 연결 시켜서 사용자 응답을 제공한다.
 
 ### Self RAG / C RAG 단계
+
+
+
 
 ## 질문 & 확장
 
