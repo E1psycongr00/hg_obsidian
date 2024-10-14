@@ -143,7 +143,7 @@ def generate(state):
 
 generate 단계에서는 참고한 documents와 question을 통해 answer를 생성하고 생성한 answer를 generation이라는 key와 함께 상태를 업데이트 시키는 노드이다.
 
-아까 쿼리 분석에서 web_node로 라우터가 정해줬다면 바로 generate node를 연결시켜서 사용자 응답을 제공한다.
+아까 쿼리 분석에서 web_node로 라우터가 정해줬다면 바로 generate node를 연결 시켜서 사용자 응답을 제공한다.
 
 ### Self RAG / C RAG 단계
 
