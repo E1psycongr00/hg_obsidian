@@ -158,11 +158,3 @@ generate 단계에서는 참고한 documents와 question을 통해 answer를 생
 ## 연결 노트
 
 
-
-
-
-
-
-
-
-
