@@ -252,9 +252,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "3d-graph:3D Graph": false,
       "obsidian-day-planner:Timeline": false,
-      "media-extended:Open media": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "media-extended:Open media": false
     }
   },
   "active": "e6c56f6a37c46e7c",
