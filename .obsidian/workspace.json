@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0edb843333ba0339",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Conditional edge (draw).md"
-              }
-            }
           }
         ]
       }
@@ -268,6 +258,7 @@
   "lastOpenFiles": [
     "Excalidraw/Conditional edge (draw).md",
     "연습노트/Adaptive RAG.md",
+    "3.Resources/IT/알고리즘/알고리즘.md",
     "Excalidraw/Conditional edge (draw).svg",
     "attachments/screenshot/Pasted image 20241014180649.png",
     "퍼사드 패턴.md",

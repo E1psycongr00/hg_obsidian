@@ -153,6 +153,7 @@ generate 단계에서는 참고한 documents와 question을 통해 answer를 생
 
 ## 출처(링크)
 
+- https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/
 
 ## 연결 노트
 
