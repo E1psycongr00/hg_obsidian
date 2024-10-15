@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Git 핵심 명령어.md",
+                "file": "연습노트/퍼사드 패턴.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git 명령어",
+                "query": "퍼사드 패턴",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Git 핵심 명령어.md"
+                "file": "연습노트/퍼사드 패턴.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Git 핵심 명령어.md",
+                "file": "연습노트/퍼사드 패턴.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Git 핵심 명령어.md",
+                "file": "연습노트/퍼사드 패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Git 핵심 명령어.md",
+                "file": "연습노트/퍼사드 패턴.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Git 핵심 명령어.md"
+                "file": "연습노트/퍼사드 패턴.md"
               }
             }
           }
@@ -256,9 +256,9 @@
   },
   "active": "124da1a47e644485",
   "lastOpenFiles": [
+    "연습노트/Git 핵심 명령어.md",
     "3.Resources/IT/python/langchain/langchain.md",
     "영구노트/Adaptive RAG.md",
-    "연습노트/Git 핵심 명령어.md",
     "attachments/screenshot/Pasted image 20241015121345.png",
     "attachments/screenshot/Pasted image 20241015120910.png",
     "attachments/screenshot/Pasted image 20241015115156.png",
@@ -267,7 +267,7 @@
     "3.Resources/IT/알고리즘/알고리즘.md",
     "Excalidraw/Conditional edge (draw).svg",
     "attachments/screenshot/Pasted image 20241014180649.png",
-    "퍼사드 패턴.md",
+    "연습노트/퍼사드 패턴.md",
     "3.Resources/IT/Gradle 공부.md",
     "3.Resources/IT/python/langchain/langgraph.md",
     "영구노트/RAG란.md",
