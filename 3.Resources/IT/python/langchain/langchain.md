@@ -21,6 +21,7 @@ title: langchain
 - [[Prompt 정의하기]]
 - [[RAG란]]
 - [[Native RAG란]]
+- [[Adaptive RAG]]
 - [[LLM 테스트 FakeLLM]]
 - [[StrOutputParser]]
 - [[LCEL과 RAG]]

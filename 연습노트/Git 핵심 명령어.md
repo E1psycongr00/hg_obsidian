@@ -13,6 +13,14 @@ title: Git 핵심 명령어
 ----
 ## 내용(Content)
 
+커밋 되돌리기
+
+```text
+git reset --soft HEAD~2
+```
+
+커밋을 되돌리고 staging area에 commit들을 올려 놓는다. HEAD~2는 마지막에서 시작해서
+첫번째, 두번째 커밋을 staging area로 되돌리라는 뜻이다.
 
 ## 질문 & 확장
 
