@@ -156,7 +156,6 @@ generate 단계에서는 참고한 documents와 question을 통해 answer를 생
 
 자기 반성 RAG는 가벼운 평가자를 두어서 대답이 옳바른지 평가하고, 잘못된 경우 대답을 다시 쓴다.
 
-LangGraph에서는 CRAG과 Self-RAG를 통해 자기 반성 RAG를 구현한다.
 
 #### 교정 RAG (CRAG)
 
@@ -164,11 +163,14 @@ LangGraph에서는 CRAG과 Self-RAG를 통해 자기 반성 RAG를 구현한다.
 - 벡터 스토어의 검색이 모호하거나, 질의와 관련없다고 판단한 경우 컨텍스트를 보완하기 위해 웹 기반 문서 검색을 수행한다.
 - 관련 없는 스트립을 필터링한다.
 
+![[Pasted image 20241015120910.png]]
+
+논문의 CRAG에 대한 다이어그램이다. 이 다이어그램을 보면 Retriever를 통해 문서를 가져오고 그 이후 `Retrieval Evaluator` 에서 문서가 적합한지 평가하는 과정을 거친다. 평가에 따라 외부에 지식을 검색할 지, 아니면 가져온 문서의 데이터를 정제할 지만 판단하고, 경우에 따라 질문과 함께 정제된 지식 또는 외부 지식들을 전달해서 대답을 형성한다.
 #### Self RAG
 
+![[Pasted image 20241015121345.png]]
 
-
-
+Self RAG는 중간에 여럿 평가자를 두어 정보가 적합한지 평가한다. 
 
 
 ## 질문 & 확장
@@ -178,7 +180,7 @@ LangGraph에서는 CRAG과 Self-RAG를 통해 자기 반성 RAG를 구현한다.
 ## 출처(링크)
 
 - https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag/
-
+- https://blog.langchain.dev/agentic-rag-with-langgraph/
 ## 연결 노트
 
 
