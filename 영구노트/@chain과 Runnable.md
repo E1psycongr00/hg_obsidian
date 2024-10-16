@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
   - Langchain
   - LCEL
@@ -10,7 +11,6 @@ title: "@chain과 Runnable"
 작성 날짜: 2024-10-01
 작성 시간: 15:08
 
-#완성 #Python #Langchain #LCEL 
 
 ----
 ## 내용(Content)

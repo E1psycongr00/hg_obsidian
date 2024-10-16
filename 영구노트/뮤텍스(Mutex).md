@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - OS
   - Synchronization
 aliases:
@@ -11,7 +12,6 @@ date: 2024-01-11
 작성 날짜: 2024-01-11
 작성 시간: 21:47
 
-#완성 #OS #Synchronization 
 
 ----
 ## 내용(Content)

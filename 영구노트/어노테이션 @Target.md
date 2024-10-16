@@ -1,5 +1,9 @@
 ---
 tags: 
+  - 완성
+  - IT
+  - JAVA
+  - Annotation
 aliases:
 title: 어노테이션 @Target
 date: 2023-11-10
@@ -8,7 +12,6 @@ date: 2023-11-10
 작성 날짜: 2023-11-10
 작성 시간: 14:57
 
-#완성  #IT #JAVA #Annotation
 
 ----
 ## 내용(Content)

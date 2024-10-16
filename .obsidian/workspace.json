@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/퍼사드 패턴.md",
+                "file": "영구노트/참조 무결성.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "퍼사드 패턴",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/퍼사드 패턴.md"
+                "file": "영구노트/참조 무결성.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/퍼사드 패턴.md",
+                "file": "영구노트/참조 무결성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/퍼사드 패턴.md",
+                "file": "영구노트/참조 무결성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/퍼사드 패턴.md",
+                "file": "영구노트/참조 무결성.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/퍼사드 패턴.md"
+                "file": "영구노트/참조 무결성.md"
               }
             }
           }
@@ -256,42 +256,42 @@
   },
   "active": "124da1a47e644485",
   "lastOpenFiles": [
+    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
+    "영구노트/지수 백 오프 알고리즘.md",
+    "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
+    "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
+    "영구노트/제텔 카스텐 기법.md",
+    "영구노트/제텔 & 카스텐 의미.md",
+    "영구노트/정전계.md",
+    "영구노트/전하(Elecric Charge).md",
+    "영구노트/전위 계수.md",
+    "영구노트/전위.md",
+    "영구노트/전속.md",
+    "영구노트/전도 전류.md",
+    "영구노트/전기장 에너지 밀도.md",
+    "영구노트/자바 9 ~ 11 이전까지 과정.md",
+    "영구노트/임시 변수 지양하기.md",
+    "영구노트/일반적인 ParametricSearch 만들기(통합).md",
+    "영구노트/일급 객체.md",
+    "영구노트/함수와 this.md",
+    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+    "영구노트/인터럽트.md",
+    "영구노트/이분 탐색.md",
+    "영구노트/음원 파일 확장자.md",
+    "영구노트/유전체 경계 조건.md",
+    "영구노트/유전체.md",
+    "영구노트/유저 쓰레드.md",
+    "영구노트/윈도우 함수 구문 종류.md",
     "attachments/screenshot/Pasted image 20241015184930.png",
     "attachments/screenshot/Pasted image 20241015174804.png",
-    "연습노트/Git 핵심 명령어.md",
-    "3.Resources/IT/python/langchain/langchain.md",
-    "영구노트/Adaptive RAG.md",
     "attachments/screenshot/Pasted image 20241015121345.png",
     "attachments/screenshot/Pasted image 20241015120910.png",
     "attachments/screenshot/Pasted image 20241015115156.png",
     "attachments/screenshot/Pasted image 20241015114441.png",
-    "Excalidraw/Conditional edge (draw).md",
-    "3.Resources/IT/알고리즘/알고리즘.md",
     "Excalidraw/Conditional edge (draw).svg",
     "attachments/screenshot/Pasted image 20241014180649.png",
-    "연습노트/퍼사드 패턴.md",
-    "3.Resources/IT/Gradle 공부.md",
-    "3.Resources/IT/python/langchain/langgraph.md",
-    "영구노트/RAG란.md",
-    "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.md",
     "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.svg",
-    "3.Resources/IT/객체지향/객체 지향.md",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
-    "연습노트/JOOQ 리턴 타입.md",
-    "연습노트/Query Translation.md",
-    "연습노트/Prompting Github Copilot.md",
-    "연습노트/Latex Suite 사용 방법.md",
-    "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "영구노트/Windows Poetry 설치 및 정리.md",
     "attachments/screenshot/Pasted image 20241010190137.png",
-    "attachments/screenshot/Pasted image 20241010190127.png",
-    "연습노트/SelfQueryRetriever.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "영구노트/클래스 변수와 인스턴스 변수.md",
-    "영구노트/Compact 생성자에 대해 이해하기.md",
-    "3.Resources/IT/python/langchain/Retriever.md",
-    "연습노트/VectorStore-backed Retriever.md",
     "3.Resources/IT/java/spring",
     "3.Resources/IT/객체지향",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
