@@ -28,6 +28,7 @@ title: Single Responsibility Principal
 ### 단일 책임을 위배한 경우
 
 
+
 ## 질문 & 확장
 
 (없음)
