@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Single Responsibility Principal",
-      "path": "연습노트/Single Responsibility Principal.md"
+      "basename": "Domain Service Convention",
+      "path": "연습노트/Domain Service Convention.md"
+    },
+    {
+      "basename": "Domain Driven Design",
+      "path": "3.Resources/IT/java/spring/Domain Driven Design.md"
     },
     {
       "basename": "SOLID란 무엇인가",
       "path": "영구노트/SOLID란 무엇인가.md"
     },
     {
+      "basename": "Single Responsibility Principal",
+      "path": "영구노트/Single Responsibility Principal.md"
+    },
+    {
       "basename": "객체 지향",
       "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "Java 문법",
+      "path": "3.Resources/IT/java/Java 문법.md"
+    },
+    {
+      "basename": "Java 공부",
+      "path": "3.Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "대충네이밍을지은DomainService (draw)",
+      "path": "Excalidraw/대충네이밍을지은DomainService (draw).md"
     },
     {
       "basename": "나만의 제텔카스텐 기법 & 옵시디언",
@@ -79,26 +99,6 @@
     {
       "basename": "Whisper",
       "path": "영구노트/Whisper.md"
-    },
-    {
-      "basename": "Web Socket이란",
-      "path": "영구노트/Web Socket이란.md"
-    },
-    {
-      "basename": "VSCode에 Ruff 환경 세팅",
-      "path": "영구노트/VSCode에 Ruff 환경 세팅.md"
-    },
-    {
-      "basename": "VSCode package index depth 설정하기",
-      "path": "영구노트/VSCode package index depth 설정하기.md"
-    },
-    {
-      "basename": "vscode java 패키지 import 제대로 안되는 경우 해결방법",
-      "path": "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md"
-    },
-    {
-      "basename": "Valid Triangle Number",
-      "path": "영구노트/Valid Triangle Number.md"
     }
   ],
   "omittedPaths": [],
