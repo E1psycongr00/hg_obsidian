@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Single Responsibility Principal",
+      "path": "연습노트/Single Responsibility Principal.md"
+    },
+    {
+      "basename": "SOLID란 무엇인가",
+      "path": "영구노트/SOLID란 무엇인가.md"
+    },
+    {
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 기법 & 옵시디언",
+      "path": "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md"
+    },
+    {
+      "basename": "퍼사드 패턴",
+      "path": "연습노트/퍼사드 패턴.md"
+    },
+    {
       "basename": "감상문 템플릿",
       "path": "templates/감상문 템플릿.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "Valid Triangle Number",
       "path": "영구노트/Valid Triangle Number.md"
-    },
-    {
-      "basename": "UTC(세계 협정시)",
-      "path": "영구노트/UTC(세계 협정시).md"
-    },
-    {
-      "basename": "upper bound",
-      "path": "영구노트/upper bound.md"
-    },
-    {
-      "basename": "Unix Time",
-      "path": "영구노트/Unix Time.md"
-    },
-    {
-      "basename": "unist",
-      "path": "영구노트/unist.md"
-    },
-    {
-      "basename": "UnionFind merge 최적화",
-      "path": "영구노트/UnionFind merge 최적화.md"
     }
   ],
   "omittedPaths": [],

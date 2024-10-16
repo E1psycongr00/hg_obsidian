@@ -40,7 +40,7 @@ SOLID는 다음 5가지 두문자를 합친 단어이다.
 
 ## 연결 노트
 
-
+- [[Single Responsibility Principal]]
 
 
 
