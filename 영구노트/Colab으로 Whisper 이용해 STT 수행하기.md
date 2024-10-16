@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - AI
   - OpenAI
   - Whisper
@@ -11,7 +12,6 @@ title: Colab으로 Whisper 사용하기
 작성 날짜: 2024-05-21
 작성 시간: 16:45
 
-#완성 #AI #OpenAI #Whisper #STT
 
 ----
 ## 내용(Content)

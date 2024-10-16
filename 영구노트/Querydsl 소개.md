@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
   - QueryDSL
 aliases: 
@@ -9,7 +10,6 @@ date: 2023-10-05
 작성 날짜: 2023-10-05
 작성 시간: 11:46
 
-#완성 #JAVA  #QueryDSL
 
 ----
 

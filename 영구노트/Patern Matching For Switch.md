@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 date: 2024-10-07
@@ -8,7 +9,6 @@ title: Patern Matching For Switch
 작성 날짜: 2024-10-07
 작성 시간: 13:54
 
-#완성 #JAVA
 
 ----
 ## 내용(Content)

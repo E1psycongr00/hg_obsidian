@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - knex
   - JS
   - Typescript
@@ -12,7 +13,6 @@ title: knexjs
 작성 날짜: 2024-03-18
 작성 시간: 23:49
 
-#완성 #knex #JS #Typescript 
 
 ----
 ## 내용(Content)

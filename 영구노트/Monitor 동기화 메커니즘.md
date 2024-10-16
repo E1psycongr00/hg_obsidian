@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - OS
   - CS
   - Synchronization
@@ -12,7 +13,6 @@ date: 2024-01-20
 작성 날짜: 2024-01-20
 작성 시간: 15:31
 
-#완성 #CS #OS #Synchronization 
 
 ----
 ## 내용(Content)

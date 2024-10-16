@@ -1,8 +1,9 @@
 ---
 tags:
-  - "#Python"
-  - "#Langchain"
-  - "#LCEL"
+  - 완성
+  - Python
+  - Langchain
+  - LCEL
 aliases: 
 date: 2024-10-01
 title: LLM chain 라우팅

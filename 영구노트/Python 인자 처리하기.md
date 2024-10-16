@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
 aliases:
   - Python args
@@ -11,7 +12,6 @@ title: Python 인자 처리하기
 작성 날짜: 2024-05-27
 작성 시간: 16:19
 
-#완성 #Python 
 
 ----
 ## 내용(Content)

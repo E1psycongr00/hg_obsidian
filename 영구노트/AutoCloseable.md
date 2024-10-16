@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 date: 2024-04-24
@@ -8,7 +9,6 @@ title: AutoCloseable
 작성 날짜: 2024-04-24
 작성 시간: 18:47
 
-#완성 #JAVA 
 
 ----
 ## 내용(Content)

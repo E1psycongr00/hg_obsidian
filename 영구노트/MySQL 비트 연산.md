@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - SQL
   - MySQL
 aliases: 
@@ -9,7 +10,7 @@ title: MySQL 비트 연산
 작성 날짜: 2024-05-10
 작성 시간: 20:55
 
-#완성 #SQL #MySQL 
+
 
 ----
 ## 내용(Content)

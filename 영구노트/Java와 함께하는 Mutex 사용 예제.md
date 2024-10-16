@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
   - OS
   - Process
@@ -11,7 +12,6 @@ date: 2024-01-16
 작성 날짜: 2024-01-16
 작성 시간: 20:28
 
-#완성 #솔루션 #JAVA #OS #Process #Synchronization 
 
 ----
 

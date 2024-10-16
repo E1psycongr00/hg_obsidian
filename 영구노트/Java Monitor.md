@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - CS
   - JAVA
   - Synchronization
@@ -10,7 +11,6 @@ date: 2024-01-20
 작성 날짜: 2024-01-20
 작성 시간: 19:17
 
-#완성 #CS #JAVA #Synchronization 
 
 ----
 ## 내용(Content)

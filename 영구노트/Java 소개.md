@@ -1,13 +1,14 @@
 ---
 tags: 
+  - 완성
+  - IT
+  - JAVA
 aliases: 
 title: Java 소개
 date: 2023-10-03
 ---
 작성 날짜: 2023-10-03
 작성 시간: 07:41
-
-#완성 #IT #JAVA
 
 
 ----

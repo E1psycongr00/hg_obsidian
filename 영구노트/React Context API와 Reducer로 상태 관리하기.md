@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - React
   - Typescript
@@ -10,7 +11,6 @@ title: React Context API와 Reducer로 상태 관리하기
 작성 날짜: 2024-03-07
 작성 시간: 22:21
 
-#완성 #솔루션 #React #Typescript 
 
 ----
 

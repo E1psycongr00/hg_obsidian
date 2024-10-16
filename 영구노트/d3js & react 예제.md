@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - d3js
   - DataVisualization
 aliases: 
@@ -9,7 +10,6 @@ title: d3js & react 예제
 작성 날짜: 2024-03-03
 작성 시간: 11:06
 
-#완성 #d3js #DataVisualization
 
 ----
 ## 내용(Content)

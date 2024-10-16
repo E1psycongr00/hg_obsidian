@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Gradle
 aliases: 
 title: Gradle Plugin 사용하기
@@ -8,7 +9,6 @@ date: 2023-10-06
 작성 날짜: 2023-10-06
 작성 시간: 19:13
 
-#완성 #Gradle
 
 ----
 ## 내용(Content)

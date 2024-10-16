@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Error
   - JS
   - NextJS
@@ -11,7 +12,6 @@ date: 2024-02-27
 작성 날짜: 2024-02-27
 작성 시간: 16:11
 
-#완성 #솔루션 #Error #JS #NextJS #Vitest 
 
 ----
 

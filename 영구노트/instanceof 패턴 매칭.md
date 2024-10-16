@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 title: instanceof 패턴 매칭
@@ -8,7 +9,6 @@ date: 2023-10-21
 작성 날짜: 2023-10-21
 작성 시간: 00:36
 
-#완성 #JAVA 
 
 ----
 ## 내용(Content)

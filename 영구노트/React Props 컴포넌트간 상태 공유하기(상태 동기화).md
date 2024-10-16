@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - React
   - Typescript
@@ -10,7 +11,6 @@ title: React Props 컴포넌트간 상태 공유하기(상태 동기화)
 작성 날짜: 2024-03-07
 작성 시간: 15:57
 
-#완성 #솔루션 #React #Typescript
 
 ----
 

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
   - Poetry
 aliases:
@@ -10,7 +11,6 @@ title: Windows Poetry 설치 및 정리
 작성 날짜: 2024-09-13
 작성 시간: 18:14
 
-#완성 #Python #Poetry 
 
 ----
 ## 내용(Content)

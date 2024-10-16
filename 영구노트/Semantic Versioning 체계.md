@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - version
   - 라이브러리
   - 배포
@@ -13,7 +14,6 @@ title: Semantic Versioning 체계
 작성 날짜: 2024-03-15
 작성 시간: 18:07
 
-#완성 #version #라이브러리 #배포 #명세 
 
 ----
 ## 내용(Content)

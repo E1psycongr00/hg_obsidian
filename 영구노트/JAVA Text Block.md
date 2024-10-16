@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 date: 2024-10-06
@@ -8,7 +9,6 @@ title: JAVA Text Block
 작성 날짜: 2024-10-06
 작성 시간: 20:48
 
-#완성 #JAVA 
 
 ----
 ## 내용(Content)

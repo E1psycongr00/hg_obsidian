@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - JAVA
   - VSCode
@@ -10,7 +11,6 @@ title: vscode java 패키지 import 제대로 안되는 경우 해결방법
 작성 날짜: 2024-10-06
 작성 시간: 13:37
 
-#완성 #솔루션 #JAVA #VSCode 
 
 ----
 

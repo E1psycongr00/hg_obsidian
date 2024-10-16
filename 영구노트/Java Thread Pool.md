@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
   - OS
   - Thread
@@ -10,7 +11,6 @@ title: Java Thread Pool
 작성 날짜: 2024-04-24
 작성 시간: 16:21
 
-#완성 #JAVA #OS #Thread 
 
 ----
 ## 내용(Content)

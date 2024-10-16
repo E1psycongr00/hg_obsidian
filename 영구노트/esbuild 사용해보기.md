@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JS
   - Typescript
   - Bundler
@@ -11,7 +12,6 @@ title: esbuild 사용해보기
 작성 날짜: 2024-04-05
 작성 시간: 15:41
 
-#완성 #JS #Typescript #Bundler #esbuild
 
 ----
 ## 내용(Content)

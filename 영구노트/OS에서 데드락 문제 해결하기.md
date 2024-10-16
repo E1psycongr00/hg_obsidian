@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - OS
   - Process
   - Synchronization
@@ -12,7 +13,6 @@ date: 2024-01-22
 작성 날짜: 2024-01-22
 작성 시간: 15:12
 
-#완성 #OS #Synchronization #Process #Thread 
 
 ----
 ## 내용(Content)

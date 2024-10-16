@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - DataBase
 aliases: 
 title: InfluxDB 소개
@@ -8,7 +9,6 @@ date: 2023-12-15
 작성 날짜: 2023-12-15
 작성 시간: 12:54
 
-#완성 #DataBase
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - DSP
 aliases:
   - Pulse Code Modulation
@@ -9,7 +10,6 @@ title: PCM
 작성 날짜: 2024-06-21
 작성 시간: 00:54
 
-#완성 #DSP
 
 ----
 ## 내용(Content)

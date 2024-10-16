@@ -1,5 +1,7 @@
 ---
-tags: Gradle
+tags:
+  - 완성
+  - Gradle
 aliases: 
 title: Gradle 지원 버전
 date: 2023-10-16
@@ -7,7 +9,6 @@ date: 2023-10-16
 작성 날짜: 2023-10-16
 작성 시간: 20:31
 
-#완성 #Gradle
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - React
 aliases: 
 date: 2024-03-07
@@ -8,7 +9,6 @@ title: Props Driling
 작성 날짜: 2024-03-07
 작성 시간: 16:28
 
-#완성 #React 
 
 ----
 ## 내용(Content)

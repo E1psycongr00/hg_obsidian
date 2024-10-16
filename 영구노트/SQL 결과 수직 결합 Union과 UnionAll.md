@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - SQL
 aliases: 
 date: 2024-04-15
@@ -8,7 +9,6 @@ title: SQL 결과 수직 결합 Union과 UnionAll
 작성 날짜: 2024-04-15
 작성 시간: 17:20
 
-#완성 #SQL 
 
 ----
 ## 내용(Content)

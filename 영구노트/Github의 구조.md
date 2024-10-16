@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Github
 aliases: 
 date: 2024-09-11
@@ -8,7 +9,6 @@ title: Github의 구조
 작성 날짜: 2024-09-11
 작성 시간: 19:56
 
-#완성 #Github 
 
 ----
 ## 내용(Content)

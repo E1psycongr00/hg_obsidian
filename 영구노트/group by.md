@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - SQL
 aliases:
   - groupby
@@ -10,7 +11,6 @@ title: group by
 작성 날짜: 2024-04-29
 작성 시간: 20:26
 
-#완성 #SQL 
 
 ----
 ## 내용(Content)

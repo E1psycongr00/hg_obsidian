@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - AI
   - OpenAI
   - Whisper
@@ -11,7 +12,6 @@ title: Whisper
 작성 날짜: 2024-05-21
 작성 시간: 17:03
 
-#완성 #AI #OpenAI #Whisper #STT 
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Windows
   - OS
 aliases: 
@@ -9,7 +10,6 @@ date: 2023-12-22
 작성 날짜: 2023-12-22
 작성 시간: 16:48
 
-#완성 #Windows #OS
 
 ----
 ## 내용(Content)

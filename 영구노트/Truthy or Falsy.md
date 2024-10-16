@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JS
 aliases: 
 title: Truthy or Falsy
@@ -8,7 +9,6 @@ date: 2024-02-07
 작성 날짜: 2024-02-07
 작성 시간: 21:18
 
-#완성 #JS 
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - OpenAI
   - AI
   - Python
@@ -11,7 +12,6 @@ title: Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하�
 작성 날짜: 2024-06-03
 작성 시간: 20:58
 
-#완성 #OpenAI #AI #Python #데이터전처리
 
 ----
 ## 내용(Content)

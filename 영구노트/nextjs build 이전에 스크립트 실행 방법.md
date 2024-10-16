@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Typescript
   - NextJS
   - 빌드
@@ -10,7 +11,6 @@ title: nextjs build 이전에 스크립트 실행 방법
 작성 날짜: 2024-04-03
 작성 시간: 20:26
 
-#완성 #Typescript #NextJS #빌드
 
 ----
 ## 내용(Content)

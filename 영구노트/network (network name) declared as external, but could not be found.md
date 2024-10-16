@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Docker
   - Errror
 aliases: 
@@ -9,7 +10,6 @@ date: 2023-12-18
 작성 날짜: 2023-12-18
 작성 시간: 12:59
 
-#완성 #솔루션 #Error #Docker 
 
 ----
 

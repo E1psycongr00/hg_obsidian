@@ -1,8 +1,9 @@
 ---
 tags:
+  - 완성
   - Husky
   - JS
-  - "#Commit"
+  - Commit
 aliases: 
 title: Husky를 활용해 Commit Convention 강제하기
 date: 2024-02-22
@@ -10,7 +11,6 @@ date: 2024-02-22
 작성 날짜: 2024-02-22
 작성 시간: 13:10
 
-#완성 #솔루션 #Husky #JS #Commit 
 
 ----
 

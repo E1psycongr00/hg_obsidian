@@ -1,5 +1,8 @@
 ---
 tags: 
+  - 완성
+  - IT
+  - Gradle
 aliases: 
 title: Custom Task와 Plugin 개발해보기 by buildSrc
 date: 2023-10-16
@@ -7,7 +10,6 @@ date: 2023-10-16
 작성 날짜: 2023-10-16
 작성 시간: 23:48
 
- #완성  #IT #Gradle 
 
 ----
 ## 내용(Content)

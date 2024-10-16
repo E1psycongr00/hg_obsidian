@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - graph
 aliases: 
 title: Adamic Adars
@@ -8,7 +9,6 @@ date: 2023-10-16
 작성 날짜: 2023-10-16
 작성 시간: 13:22
 
-#완성  #graph
 
 ----
 ## 내용(Content)

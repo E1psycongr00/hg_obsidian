@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 date: 2024-10-06
@@ -8,7 +9,6 @@ title: Compact 생성자에 대해 이해하기
 작성 날짜: 2024-10-06
 작성 시간: 19:42
 
-#완성 #JAVA 
 
 ----
 ## 내용(Content)

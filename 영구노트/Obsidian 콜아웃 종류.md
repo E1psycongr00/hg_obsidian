@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Obsidian
 aliases: 
 title: Obsidian 콜아웃 종류
@@ -10,7 +11,6 @@ date: 2023-11-12
 작성 날짜: 2023-11-12
 작성 시간: 12:23
 
-#완성 #Obsidian
 
 ----
 ## 내용(Content)

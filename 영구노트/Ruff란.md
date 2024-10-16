@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
 aliases:
   - Ruff
@@ -9,7 +10,6 @@ title: Ruff란
 작성 날짜: 2024-09-25
 작성 시간: 13:20
 
-#완성 #Python 
 
 ----
 ## 내용(Content)

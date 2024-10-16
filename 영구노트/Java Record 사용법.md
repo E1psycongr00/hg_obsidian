@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 title: Java Record 사용법
@@ -8,7 +9,6 @@ date: 2023-10-23
 작성 날짜: 2023-10-23
 작성 시간: 12:01
 
-#완성 #JAVA 
 
 ----
 ## 내용(Content)

@@ -1,9 +1,10 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - LLM
   - Langchain
-  - "#테스트"
+  - 테스트
 aliases: 
 date: 2024-09-24
 title: LLM 테스트 FakeLLM
@@ -11,7 +12,6 @@ title: LLM 테스트 FakeLLM
 작성 날짜: 2024-09-24
 작성 시간: 11:35
 
-#완성 #솔루션 #LLM #Langchain #테스트 
 
 ----
 

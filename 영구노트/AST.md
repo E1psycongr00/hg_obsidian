@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - CS
   - SyntaxTree
 aliases:
@@ -10,7 +11,6 @@ date: 2024-02-23
 작성 날짜: 2024-02-23
 작성 시간: 11:54
 
-#완성 #CS #SyntaxTree 
 
 ----
 ## 내용(Content)

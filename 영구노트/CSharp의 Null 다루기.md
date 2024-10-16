@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - CSharp
 aliases: 
 date: 2024-10-02
@@ -8,7 +9,6 @@ title: CSharp의 Null 다루기
 작성 날짜: 2024-10-02
 작성 시간: 18:49
 
-#완성 #CSharp 
 
 ----
 ## 내용(Content)

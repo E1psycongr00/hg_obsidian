@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
   - Langchain
   - RAG
@@ -11,7 +12,6 @@ title: Native RAG란
 작성 날짜: 2024-10-04
 작성 시간: 15:37
 
-#완성 #Python #Langchain #RAG
 
 ----
 ## 내용(Content)

@@ -1,5 +1,8 @@
 ---
 tags: 
+  - 완성
+  - IT
+  - JAVA
 aliases: 
 title: Java 배열 정의
 date: 2023-10-23
@@ -8,7 +11,6 @@ date: 2023-10-23
 작성 날짜: 2023-10-23
 작성 시간: 13:00
 
-#완성 #IT #JAVA 
 
 ----
 ## 내용(Content)

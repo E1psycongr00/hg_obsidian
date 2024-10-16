@@ -2,7 +2,7 @@
 tags:
   - project
 aliases: 
-date: 
+date: {{date}}
 title: "{{title}}"
 ---
 작성 날짜: {{date}}

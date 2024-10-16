@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Typescript
 aliases:
   - ts question mark parameter
@@ -9,7 +10,6 @@ title: typescript question mark parameter
 작성 날짜: 2024-03-03
 작성 시간: 11:52
 
-#완성 #Typescript 
 
 ----
 ## 내용(Content)

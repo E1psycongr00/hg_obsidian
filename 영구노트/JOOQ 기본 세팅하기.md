@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
   - SQL
   - JOOQ
@@ -10,7 +11,6 @@ title: JOOQ 기본 세팅하기
 작성 날짜: 2024-08-26
 작성 시간: 21:02
 
-#완성 #JAVA #SQL #JOOQ 
 
 ----
 ## 내용(Content)

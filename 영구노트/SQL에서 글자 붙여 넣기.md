@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - SQL
   - MySQL
 aliases:
@@ -10,7 +11,6 @@ title: SQL에서 글자 붙여넣기
 작성 날짜: 2024-06-14
 작성 시간: 02:37
 
-#완성 #SQL #MySQL 
 
 ----
 ## 내용(Content)

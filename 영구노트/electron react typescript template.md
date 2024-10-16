@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JS
   - Electron
   - React
@@ -11,7 +12,6 @@ title: electron react typescript
 작성 날짜: 2024-08-07
 작성 시간: 18:48
 
-#완성 #JS #Electron #React #Typescript 
 
 ----
 ## 내용(Content)

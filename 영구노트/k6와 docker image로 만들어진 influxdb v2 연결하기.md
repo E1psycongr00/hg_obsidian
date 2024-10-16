@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Docker
   - DataBase
 aliases: 
@@ -9,7 +10,6 @@ date: 2023-12-21
 작성 날짜: 2023-12-21
 작성 시간: 17:37
 
-#완성 #Docker #DataBase 
 
 ----
 ## 내용(Content)

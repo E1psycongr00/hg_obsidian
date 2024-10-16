@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - JS
   - Typescript
@@ -12,7 +13,6 @@ title: A namespace-style import cannot be called or constructed
 작성 날짜: 2024-03-22
 작성 시간: 22:05
 
-#완성 #솔루션 #JS #Typescript #Error 
 
 ----
 

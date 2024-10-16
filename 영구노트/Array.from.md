@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JS
 aliases: 
 title: Array.from
@@ -10,7 +11,6 @@ date: 2024-02-20
 작성 날짜: 2024-02-20
 작성 시간: 20:50
 
-#완성 #JS 
 
 ----
 ## 내용(Content)

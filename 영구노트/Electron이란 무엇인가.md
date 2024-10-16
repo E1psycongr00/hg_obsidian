@@ -1,7 +1,8 @@
 ---
 tags:
-  - "#JS"
-  - "#Electron"
+  - 완성
+  - JS
+  - Electron
 aliases: 
 date: 2024-08-05
 title: Electron이란 무엇인가
@@ -9,7 +10,6 @@ title: Electron이란 무엇인가
 작성 날짜: 2024-08-05
 작성 시간: 20:34
 
-#완성 #JS #Electron 
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
   - Langchain
   - RAG
@@ -12,7 +13,6 @@ title: TimeWeightedVectorStoreRetriever
 작성 날짜: 2024-09-27
 작성 시간: 20:30
 
-#완성 #Python #Langchain #RAG #Retriever 
 
 ----
 ## 내용(Content)

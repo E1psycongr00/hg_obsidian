@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
   - Thread
 aliases:
@@ -10,7 +11,6 @@ date: 2024-01-19
 작성 날짜: 2024-01-19
 작성 시간: 11:51
 
-#완성 #JAVA #Thread 
 
 ----
 ## 내용(Content)

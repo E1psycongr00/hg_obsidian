@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - BenchMark
 aliases: 
 date: 2024-10-01
@@ -8,7 +9,6 @@ title: 한국어 검색 embedding model 벤치마크
 작성 날짜: 2024-10-01
 작성 시간: 10:17
 
-#완성 #BenchMark 
 
 ----
 ## 내용(Content)

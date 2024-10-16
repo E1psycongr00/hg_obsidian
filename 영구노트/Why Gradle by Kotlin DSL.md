@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Gradle
   - Kotlin
 aliases: 
@@ -10,7 +11,6 @@ date: 2023-10-05
 작성 날짜: 2023-10-05
 작성 시간: 18:08
 
-#완성 #Gradle #Kotlin
 
 ----
 ## 내용(Content)

@@ -1,14 +1,14 @@
 ---
 tags: 
-aliases:
+  - 완성
   - JAVA
+aliases:
 title: Java 파일 쓰기
 date: 2023-11-07
 ---
 작성 날짜: 2023-11-07
 작성 시간: 13:08
 
-#완성 #JAVA 
 
 ----
 ## 내용(Content)

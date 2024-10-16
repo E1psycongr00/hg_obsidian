@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - LLM
   - RAG
   - Langchain
@@ -10,7 +11,6 @@ title: LCEL과 RAG
 작성 날짜: 2024-09-24
 작성 시간: 20:03
 
-#완성 #LLM #RAG #Langchain 
 
 ----
 ## 내용(Content)

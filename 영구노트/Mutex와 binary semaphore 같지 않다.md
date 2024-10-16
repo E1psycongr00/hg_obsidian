@@ -1,9 +1,10 @@
 ---
 tags:
+  - 완성
   - OS
   - Synchronization
-  - "#Process"
-  - "#CPU"
+  - Process
+  - CPU
 aliases: 
 title: Mutex와 binary semaphore 같지 않다
 date: 2024-01-17
@@ -11,7 +12,6 @@ date: 2024-01-17
 작성 날짜: 2024-01-17
 작성 시간: 01:31
 
-#완성 #Synchronization #OS #CPU 
 
 ----
 ## 내용(Content)

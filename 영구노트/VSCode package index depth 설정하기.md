@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - VSCode
   - Python
@@ -10,7 +11,6 @@ title: VSCode package index depth 설정하기
 작성 날짜: 2024-09-25
 작성 시간: 14:52
 
-#완성 #솔루션 #VSCode #Python 
 
 ----
 

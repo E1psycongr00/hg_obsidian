@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
   - Langchain
   - LangGraph
@@ -12,7 +13,6 @@ title: LangGraph의 State란
 작성 날짜: 2024-10-10
 작성 시간: 16:09
 
-#완성 #Python #Langchain #LangGraph 
 
 ----
 ## 내용(Content)

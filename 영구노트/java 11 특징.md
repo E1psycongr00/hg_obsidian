@@ -1,5 +1,7 @@
 ---
 tags:
+  - 완성
+  - IT
   - JAVA
 aliases: 
 title: java 11 특징
@@ -9,7 +11,6 @@ date: 2023-10-04
 작성 날짜: 2023-10-04
 작성 시간: 13:06
 
-#완성 #IT #JAVA 
 
 ----
 ## 내용(Content)

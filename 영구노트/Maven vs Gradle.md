@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Gradle
 aliases: 
 title: Maven vs Gradle
@@ -8,7 +9,6 @@ date: 2023-10-05
 작성 날짜: 2023-10-05
 작성 시간: 20:01
 
-#완성 #Gradle
 
 ----
 ## 내용(Content)

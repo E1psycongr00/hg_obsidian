@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "참조 무결성",
-      "path": "영구노트/참조 무결성.md"
+      "basename": "감상문 템플릿",
+      "path": "templates/감상문 템플릿.md"
     },
     {
-      "basename": "지식보다 중요한 것은 상상력이다 by Einstein",
-      "path": "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md"
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
     },
     {
-      "basename": "지수 백 오프 알고리즘",
-      "path": "영구노트/지수 백 오프 알고리즘.md"
+      "basename": "project 템플릿",
+      "path": "templates/project 템플릿.md"
     },
     {
-      "basename": "제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다",
-      "path": "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md"
+      "basename": "resource 템플릿",
+      "path": "templates/resource 템플릿.md"
     },
     {
-      "basename": "제텔 카스텐 기법이 생산성이 높은 이유",
-      "path": "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md"
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
     },
     {
-      "basename": "제텔 카스텐 기법",
-      "path": "영구노트/제텔 카스텐 기법.md"
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
     },
     {
-      "basename": "제텔 & 카스텐 의미",
-      "path": "영구노트/제텔 & 카스텐 의미.md"
+      "basename": "영상 참조 템플릿",
+      "path": "templates/영상 참조 템플릿.md"
     },
     {
-      "basename": "정전계",
-      "path": "영구노트/정전계.md"
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
     },
     {
-      "basename": "전하(Elecric Charge)",
-      "path": "영구노트/전하(Elecric Charge).md"
+      "basename": "Young Generation 과 Old Generation 특징",
+      "path": "영구노트/Young Generation 과 Old Generation 특징.md"
     },
     {
-      "basename": "전위 계수",
-      "path": "영구노트/전위 계수.md"
+      "basename": "Windows Poetry 설치 및 정리",
+      "path": "영구노트/Windows Poetry 설치 및 정리.md"
     },
     {
-      "basename": "전위",
-      "path": "영구노트/전위.md"
+      "basename": "Windows  cmd 명령어",
+      "path": "영구노트/Windows  cmd 명령어.md"
     },
     {
-      "basename": "전속",
-      "path": "영구노트/전속.md"
+      "basename": "Why Gradle by Kotlin DSL",
+      "path": "영구노트/Why Gradle by Kotlin DSL.md"
     },
     {
-      "basename": "전도 전류",
-      "path": "영구노트/전도 전류.md"
+      "basename": "Why Gradle",
+      "path": "영구노트/Why Gradle.md"
     },
     {
-      "basename": "전기장 에너지 밀도",
-      "path": "영구노트/전기장 에너지 밀도.md"
+      "basename": "Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기",
+      "path": "영구노트/Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기.md"
     },
     {
-      "basename": "자바 9 ~ 11 이전까지 과정",
-      "path": "영구노트/자바 9 ~ 11 이전까지 과정.md"
+      "basename": "Whisper",
+      "path": "영구노트/Whisper.md"
     },
     {
-      "basename": "임시 변수 지양하기",
-      "path": "영구노트/임시 변수 지양하기.md"
+      "basename": "Web Socket이란",
+      "path": "영구노트/Web Socket이란.md"
     },
     {
-      "basename": "일반적인 ParametricSearch 만들기(통합)",
-      "path": "영구노트/일반적인 ParametricSearch 만들기(통합).md"
+      "basename": "VSCode에 Ruff 환경 세팅",
+      "path": "영구노트/VSCode에 Ruff 환경 세팅.md"
     },
     {
-      "basename": "일급 객체",
-      "path": "영구노트/일급 객체.md"
+      "basename": "VSCode package index depth 설정하기",
+      "path": "영구노트/VSCode package index depth 설정하기.md"
     },
     {
-      "basename": "함수와 this",
-      "path": "영구노트/함수와 this.md"
+      "basename": "vscode java 패키지 import 제대로 안되는 경우 해결방법",
+      "path": "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md"
     },
     {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+      "basename": "Valid Triangle Number",
+      "path": "영구노트/Valid Triangle Number.md"
     },
     {
-      "basename": "인터럽트",
-      "path": "영구노트/인터럽트.md"
+      "basename": "UTC(세계 협정시)",
+      "path": "영구노트/UTC(세계 협정시).md"
     },
     {
-      "basename": "이분 탐색",
-      "path": "영구노트/이분 탐색.md"
+      "basename": "upper bound",
+      "path": "영구노트/upper bound.md"
     },
     {
-      "basename": "음원 파일 확장자",
-      "path": "영구노트/음원 파일 확장자.md"
+      "basename": "Unix Time",
+      "path": "영구노트/Unix Time.md"
     },
     {
-      "basename": "유전체 경계 조건",
-      "path": "영구노트/유전체 경계 조건.md"
+      "basename": "unist",
+      "path": "영구노트/unist.md"
     },
     {
-      "basename": "유전체",
-      "path": "영구노트/유전체.md"
+      "basename": "UnionFind merge 최적화",
+      "path": "영구노트/UnionFind merge 최적화.md"
     }
   ],
   "omittedPaths": [],

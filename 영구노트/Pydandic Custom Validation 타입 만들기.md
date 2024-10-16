@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - Python
   - Validation
@@ -11,7 +12,6 @@ title: Pydandic Custom Validation 타입 만들기
 작성 날짜: 2024-09-28
 작성 시간: 16:40
 
-#완성 #솔루션 #Python #Validation #Pydantic 
 
 ----
 

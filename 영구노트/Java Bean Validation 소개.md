@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
   - Validation
 aliases: 
@@ -9,7 +10,6 @@ date: 2023-11-10
 작성 날짜: 2023-11-10
 작성 시간: 09:42
 
-#완성 #IT #JAVA #Validation 
 
 ----
 ## 내용(Content)

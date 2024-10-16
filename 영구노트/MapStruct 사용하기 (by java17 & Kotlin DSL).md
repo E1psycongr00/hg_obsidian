@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 title: MapStruct 사용하기 (by java17 & Kotlin DSL)
@@ -9,7 +10,6 @@ date: 2023-10-26
 작성 날짜: 2023-10-26
 작성 시간: 22:29
 
-#완성 #JAVA 
 
 ----
 ## 내용(Content)

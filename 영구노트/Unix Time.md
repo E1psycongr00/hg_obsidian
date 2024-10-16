@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - CS
 aliases: 
 title: Unix Time
@@ -8,7 +9,6 @@ date: 2023-12-15
 작성 날짜: 2023-12-15
 작성 시간: 17:25
 
-#완성 #CS 
 
 ----
 ## 내용(Content)

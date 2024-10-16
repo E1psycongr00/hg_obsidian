@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - SQL
   - MySQL
 aliases:
@@ -10,7 +11,6 @@ title: 중간에 문자 삽입하기
 작성 날짜: 2024-06-14
 작성 시간: 03:07
 
-#완성 #SQL #MySQL
 
 ----
 ## 내용(Content)

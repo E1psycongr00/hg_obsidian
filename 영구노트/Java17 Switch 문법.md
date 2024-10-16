@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JAVA
 aliases: 
 title: Java17 Switch 문법
@@ -10,7 +11,6 @@ date: 2023-10-21
 작성 날짜: 2023-10-21
 작성 시간: 00:18
 
-#완성 #IT #JAVA
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - OS
   - Process
   - Thread
@@ -11,7 +12,6 @@ date: 2024-01-05
 작성 날짜: 2024-01-05
 작성 시간: 19:39
 
-#완성 #OS #Process #Thread #동시처리
 
 
 ## 내용(Content)

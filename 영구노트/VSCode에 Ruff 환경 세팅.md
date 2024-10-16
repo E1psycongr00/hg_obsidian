@@ -1,7 +1,8 @@
 ---
 tags:
-  - "#VSCode"
-  - "#Python"
+  - 완성
+  - VSCode
+  - Python
 aliases: 
 date: 2024-09-25
 title: VSCode에 Ruff 환경 세팅
@@ -9,7 +10,6 @@ title: VSCode에 Ruff 환경 세팅
 작성 날짜: 2024-09-25
 작성 시간: 14:02
 
-#완성 #VSCode #Python 
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
   - Langchain
   - Retriever
@@ -11,7 +12,6 @@ title: RAG Fusion
 작성 날짜: 2024-10-04
 작성 시간: 20:08
 
-#완성 #Python #Langchain #Retriever  #LLM 
 
 ----
 ## 내용(Content)

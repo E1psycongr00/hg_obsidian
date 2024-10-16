@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Gradle
 aliases: 
 title: Gradle의 doLast()를 언제 써야 할까
@@ -8,7 +9,6 @@ date: 2023-10-19
 작성 날짜: 2023-10-19
 작성 시간: 12:25
 
-#완성 #솔루션 #Gradle 
 
 ----
 

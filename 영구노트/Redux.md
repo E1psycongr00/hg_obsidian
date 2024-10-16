@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Redux
 aliases: 
 date: 2024-03-06
@@ -8,7 +9,6 @@ title: Redux
 작성 날짜: 2024-03-06
 작성 시간: 19:12
 
-#완성 #Redux 
 
 ----
 ## 내용(Content)

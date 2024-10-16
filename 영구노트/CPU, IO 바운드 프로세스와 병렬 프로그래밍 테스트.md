@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - OS
   - Process
   - Async
@@ -12,7 +13,6 @@ date: 2024-01-09
 작성 날짜: 2024-01-09
 작성 시간: 11:13
 
-#완성 #OS #Process #Async #Thread 
 
 ----
 

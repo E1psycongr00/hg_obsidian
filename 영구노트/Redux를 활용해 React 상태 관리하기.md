@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - 솔루션
   - React
   - Redux
@@ -12,7 +13,6 @@ title: Redux를 활용해 React 상태 관리하기
 작성 날짜: 2024-03-08
 작성 시간: 19:08
 
-#완성 #솔루션 #Typescript #React #Redux 
 
 ----
 ## 문제 & 원인

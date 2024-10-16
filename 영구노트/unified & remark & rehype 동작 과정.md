@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - ast
   - SyntaxTree
 aliases: 
@@ -9,7 +10,6 @@ date: 2024-02-28
 작성 날짜: 2024-02-28
 작성 시간: 16:32
 
-#완성 #ast #SyntaxTree 
 
 ----
 ## 내용(Content)

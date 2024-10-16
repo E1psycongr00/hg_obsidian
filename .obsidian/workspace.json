@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "003fc464e587547a",
+        "id": "72f5971b1e0ac2a0",
         "type": "tabs",
         "children": [
           {
-            "id": "124da1a47e644485",
+            "id": "42397823d60ee2ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/참조 무결성.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/참조 무결성.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -138,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영구노트/참조 무결성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영구노트/참조 무결성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +175,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/참조 무결성.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,16 +216,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/참조 무결성.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 502.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,34 +244,34 @@
       "media-extended:Open media": false
     }
   },
-  "active": "124da1a47e644485",
+  "active": "42397823d60ee2ab",
   "lastOpenFiles": [
-    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
-    "영구노트/지수 백 오프 알고리즘.md",
-    "영구노트/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md",
-    "영구노트/제텔 카스텐 기법이 생산성이 높은 이유.md",
-    "영구노트/제텔 카스텐 기법.md",
-    "영구노트/제텔 & 카스텐 의미.md",
-    "영구노트/정전계.md",
-    "영구노트/전하(Elecric Charge).md",
-    "영구노트/전위 계수.md",
-    "영구노트/전위.md",
-    "영구노트/전속.md",
-    "영구노트/전도 전류.md",
-    "영구노트/전기장 에너지 밀도.md",
-    "영구노트/자바 9 ~ 11 이전까지 과정.md",
-    "영구노트/임시 변수 지양하기.md",
-    "영구노트/일반적인 ParametricSearch 만들기(통합).md",
-    "영구노트/일급 객체.md",
-    "영구노트/함수와 this.md",
-    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
-    "영구노트/인터럽트.md",
-    "영구노트/이분 탐색.md",
-    "영구노트/음원 파일 확장자.md",
-    "영구노트/유전체 경계 조건.md",
-    "영구노트/유전체.md",
-    "영구노트/유저 쓰레드.md",
-    "영구노트/윈도우 함수 구문 종류.md",
+    "templates/감상문 템플릿.md",
+    "templates/참조 노트 템플릿.md",
+    "templates/project 템플릿.md",
+    "templates/resource 템플릿.md",
+    "templates/인물 소개 템플릿.md",
+    "templates/일정 템플릿.md",
+    "templates/영상 참조 템플릿.md",
+    "templates/솔루션 템플릿.md",
+    "연습노트/무제 파일.md",
+    "영구노트/Young Generation 과 Old Generation 특징.md",
+    "영구노트/Windows Poetry 설치 및 정리.md",
+    "영구노트/Windows  cmd 명령어.md",
+    "영구노트/Why Gradle by Kotlin DSL.md",
+    "영구노트/Why Gradle.md",
+    "영구노트/Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기.md",
+    "영구노트/Whisper.md",
+    "영구노트/Web Socket이란.md",
+    "영구노트/VSCode에 Ruff 환경 세팅.md",
+    "영구노트/VSCode package index depth 설정하기.md",
+    "영구노트/vscode java 패키지 import 제대로 안되는 경우 해결방법.md",
+    "영구노트/Valid Triangle Number.md",
+    "영구노트/UTC(세계 협정시).md",
+    "영구노트/upper bound.md",
+    "영구노트/Unix Time.md",
+    "영구노트/unist.md",
+    "영구노트/UnionFind merge 최적화.md",
     "attachments/screenshot/Pasted image 20241015184930.png",
     "attachments/screenshot/Pasted image 20241015174804.png",
     "attachments/screenshot/Pasted image 20241015121345.png",

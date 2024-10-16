@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - LLM
   - Langchain
 aliases: 
@@ -9,7 +10,6 @@ title: Prompt 정의하기
 작성 날짜: 2024-09-24
 작성 시간: 16:03
 
-#완성 #LLM #Langchain 
 
 ----
 ## 내용(Content)

@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - Python
 aliases: 
 date: 2024-09-26
@@ -8,7 +9,6 @@ title: Python의 Truthy와 Falsy
 작성 날짜: 2024-09-26
 작성 시간: 12:22
 
-#완성 #Python 
 
 ----
 ## 내용(Content)

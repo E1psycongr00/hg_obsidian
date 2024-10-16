@@ -1,5 +1,7 @@
 ---
 tags: 
+  - 완성
+  - graph
 aliases: 
 title: Co-citations
 date: 2023-10-16
@@ -7,7 +9,6 @@ date: 2023-10-16
 작성 날짜: 2023-10-16
 작성 시간: 13:50
 
-#완성 #graph
 
 ----
 ## 내용(Content)

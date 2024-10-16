@@ -1,5 +1,6 @@
 ---
 tags:
+  - 완성
   - JS
   - React
   - Typescript
@@ -10,7 +11,6 @@ title: CRA 와 Typescript 프로젝트 생성하기
 작성 날짜: 2024-08-07
 작성 시간: 17:47
 
-#완성 #JS #React #Typescript 
 
 ----
 ## 내용(Content)
