@@ -83,6 +83,7 @@ public async Task AssignToAsync(Issue issue, IdentityUser user)
 
 - **DTO를 리턴하지 않는다.**
 	- DTO 는 Application Layer에서 책임져야할 객체이다.
+
 ### Naming Convention 예시
 
 DomainService 네이밍은 Domain 객체에서 복잡한 비즈니스 규칙을 분리함과 동시에 이해하기 편한 네이밍을 정해야 한다.
@@ -110,12 +111,47 @@ Policy는 사전 의미로는 `정책`이다. 정책은 보통 정부에서 내�
 >	- NoneDiscountPolicy
 #### Strategy
 
-"How"에 초점을 둔다. Policy는 여러 조건을 평가해서 결정하는 반면에, Strategy는 단일 작업에 대해서 여러 방법을 적용할 때 사용한다.
+Policy는 여러 조건을 평가해서 결정하는 반면에, Strategy는 단일 작업에 대해서 여러 방법을 세분화 하고자 할 떄 사용한다. 그래서 "How"에 초점을 둔다. 
+
+>[!example] Example-1
+>- WriteStrategy
+>	- CapitalWriteStrategy
+>	- CamelCaseWriteStrategy
+>	- SnakeCaseWriteStrategy
+
+
+#### Policy와 Strategy 적용 기준 이해하기
+
+예시를 보고 적용 기준에 대해서 이해해보자.
+
+- CachePolicy
+	- HttpCachePolicy
+	- DatabaseCachePolicy
+
+캐시 정책은 우선 무엇(What)을 캐싱할 지 생각해본다. 해당 예시에서 적용 대상은 Http와 DB 캐싱이다. "캐시 정책을 수행하는데 무엇을 캐싱해야 할까?" 고민해서 Http 그리고 DB를 대상으로 캐싱 정책을 정한 것이다.
+
+- DiscountPolicy
+	- PeriodDiscountPolicy(기간별 할인 정책)
+	- ItemsDiscountPolicy(제품별 할인 정책)
+	- UserLevelDiscountPolicy(유저 등급별 할인 정책)
+
+할인에 대한 전반적인 규칙 및 지침이 있고, 회사의 **장기적인 할인 전략**을 나타낼 때 사용된다.
+
+- CachingStrategy
+	- LazyCachingStrategy
+	- EagerCachingStrategy
+
+캐싱 전략의 경우, 캐싱에 대해 세부적으로 어떻게(How) 캐싱할 지 알고리즘에 대해 고민해본다. 그래서 바로 캐싱하는 방식과 Lazy 캐싱 방식 이렇게 어떤 방법에 대해서 캐싱한다면 이것은 전략이라 볼 수 있다.
+
+- PaymentDiscountStrategy
+	- CardPaymentDiscountStrategy
+	- CachePaymentDiscountStrategy
+	- SamsungPaymentDiscountStrategy
+
 
 ## 질문 & 확장
 
-(없음)
-
+네이밍 컨벤션의 경우 Policy나 Strategy는 잘못 사용하면 독이 될 수도 있다. 경우에 따라서는 DiscountPolicy보다는 DiscountService를 만들고 따로 Policy나 Strategy를 만들어 주입하는 방향도 적절할 수 있다. 그러나 이 방법은 불필요하게 객체 갯수를 늘리고 결국엔 도메인에 관련된 로직이기 때문에 DomainService에 직접 구현하는 것이 나을 수도 있다. 모든지 설계는 Trade-off이다.
 ## 출처(링크)
 
 - https://www.nexcess.net/blog/domain-naming-best-practices/
