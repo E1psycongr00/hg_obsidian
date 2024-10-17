@@ -4,50 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "72f5971b1e0ac2a0",
+        "id": "a92dd7ecb1c42a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "42397823d60ee2ab",
+            "id": "af891659001d8e18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/SOLID란 무엇인가.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20ac28a875fa800a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Resources/IT/java/spring/Domain Driven Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88edfa1f87408c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Domain Service Convention.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,13 +37,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "퍼사드 패턴",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -81,7 +53,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -91,7 +65,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -99,11 +75,12 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -115,9 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "연습노트/Domain Service Convention.md"
-              }
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -128,7 +105,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,7 +119,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -165,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연습노트/Domain Service Convention.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +153,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -182,10 +164,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Domain Service Convention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -193,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -201,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Day Planner Timeline"
             }
           },
           {
@@ -210,7 +197,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Domain Service Convention.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,7 +222,9 @@
                   "scale": 0.5359795996225961,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
         ],
@@ -252,9 +240,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/Domain Service Convention.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
         ]
@@ -281,11 +269,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "88edfa1f87408c63",
+  "active": "af891659001d8e18",
   "lastOpenFiles": [
+    "영구노트/Domain Service Convention.md",
     "3.Resources/IT/java/spring/Domain Driven Design.md",
-    "연습노트/Domain Service Convention.md",
-    "연습노트/Domain Service를 사용해야 할 상황.md",
+    "영구노트/Domain Service를 사용해야 할 상황.md",
     "영구노트/SOLID란 무엇인가.md",
     "영구노트/Single Responsibility Principal.md",
     "3.Resources/IT/객체지향/객체 지향.md",

@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 완성
   - JAVA
   - 객체지향
   - DDD
@@ -171,6 +171,10 @@ public class OrderCompletionManager {
 ```
 
 위의 경우에는 여럿 로직 flow들이 보이지만 모두 도메인에 관련된 로직이고, 여러 애그거트가 모여있어서 복잡한 로직이다. 외부와 소통이 아닌 도메인만이 관련된 로직이라면 Application Service에서 관리하는 것이 아닌 DomainService에서 관리가 가능하다. 이 경우 Application Service와 매우 유사한 구조를 지니고 있기 때문에 Domain Service의 책임을 명확히 하는 것이 좋다.
+
+다만 Repository를 Domain Service에 사용하는 것은 개발자마다 호불호가 갈리기 때문에 신중해야 한다. Application Service의 책임을 나눠 가지기 때문이다. 그렇기 때문에 Repository를 Domain에 써야 하는 패턴과 네이밍을 사용해야 한다면 엄격하게 통제해서 사용해야 한다.
+
+[도메인과 도메인 서비스 Repository 관계](https://littlemobs.com/blog/using-repository-in-domain-model/)
 #### Policy와 Strategy 적용 기준 이해하기
 
 예시를 보고 적용 기준에 대해서 이해해보자.
@@ -208,7 +212,7 @@ public class OrderCompletionManager {
 
 - https://www.nexcess.net/blog/domain-naming-best-practices/
 - https://abp.io/docs/latest/framework/architecture/best-practices/domain-services
-
+- https://littlemobs.com/blog/using-repository-in-domain-model/
 ## 연결 노트
 
 

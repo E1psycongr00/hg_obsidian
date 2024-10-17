@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 완성
   - JAVA
   - DDD
   - 객체지향
@@ -43,7 +43,8 @@ title: Domain Service를 사용해야 할 상황
 
 ## 출처(링크)
 
-
+- https://littlemobs.com/blog/using-repository-in-domain-model/
+- 
 ## 연결 노트
 
 
