@@ -107,7 +107,7 @@ DomainService 네이밍은 Domain 객체에서 복잡한 비즈니스 규칙을 
 
 #### Strategy
 
-
+"How"에 초점을 둔다. Policy는 여러 조건을 평가해서 결정하는 반면에, Strategy는 단일 작업에 대해서 여러 방법을 적용할 때 사용한다.
 ## 질문 & 확장
 
 (없음)
