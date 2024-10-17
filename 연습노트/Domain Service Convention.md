@@ -94,6 +94,7 @@ DomainService 네이밍은 Domain 객체에서 복잡한 비즈니스 규칙을 
 - Calculator(복잡한 계산 로직)
 - Policy(비즈니스 규칙 또는 의사 결정 로직)
 - Strategy(알고리즘, 또는 전략)
+- Manager(Service와 역할 동일)
 - 그 외에 domain에 특화된 네이밍
 
 #### Calculator
@@ -120,6 +121,56 @@ Policy는 여러 조건을 평가해서 결정하는 반면에, Strategy는 단�
 >	- SnakeCaseWriteStrategy
 
 
+#### Manager
+
+DomainService의 경우 Application Service와 접미사가 같고 앞에 얼마나 구체적인 도메인에 관련된 네이밍으로 구성되었냐로 Domain Service와 Application Service를 판단해야 하기 때문에 헷갈릴 수 있다. Manager로 선언하면, Service와 같은 느낌으로 사용 가능하면서, Application Service와 Domain Service를 쉽게 구분 지어 줄 수 있다. 
+
+개인적인 생각은 [[Domain Service를 사용해야 할 상황]] 의 5번의 경우에 쓸만하다고 생각한다. 
+
+```java
+public class OrderCompletionManager {
+    private final OrderRepository orderRepository;
+    private final InventoryRepository inventoryRepository;
+    private final PaymentRepository paymentRepository;
+    private final CustomerRepository customerRepository;
+
+    public void completeOrder(Long orderId) {
+        // 1. 주문 상태 변경
+        Order order = orderRepository.findById(orderId)
+            .orElseThrow(() -> new OrderNotFoundException(orderId));
+        order.markAsCompleted();
+
+        // 2. 재고 감소
+        for (OrderItem item : order.getItems()) {
+            Inventory inventory = inventoryRepository.findByProductId(item.getProductId())
+                .orElseThrow(() -> new InventoryNotFoundException(item.getProductId()));
+            inventory.decreaseStock(item.getQuantity());
+        }
+
+        // 3. 결제 처리
+        Payment payment = paymentRepository.findByOrderId(orderId)
+            .orElseThrow(() -> new PaymentNotFoundException(orderId));
+        payment.markAsProcessed();
+
+        // 4. 고객 포인트 적립
+        Customer customer = customerRepository.findById(order.getCustomerId())
+            .orElseThrow(() -> new CustomerNotFoundException(order.getCustomerId()));
+        customer.addPoints(calculatePointsForOrder(order));
+
+        // 변경된 애그리거트 저장
+        orderRepository.save(order);
+        inventoryRepository.saveAll(inventories);
+        paymentRepository.save(payment);
+        customerRepository.save(customer);
+    }
+
+    private int calculatePointsForOrder(Order order) {
+        // 포인트 계산 로직
+    }
+}
+```
+
+위의 경우에는 여럿 로직 flow들이 보이지만 모두 도메인에 관련된 로직이고, 여러 애그거트가 모여있어서 복잡한 로직이다. 외부와 소통이 아닌 도메인만이 관련된 로직이라면 Application Service에서 관리하는 것이 아닌 DomainService에서 관리가 가능하다. 이 경우 Application Service와 매우 유사한 구조를 지니고 있기 때문에 Domain Service의 책임을 명확히 하는 것이 좋다.
 #### Policy와 Strategy 적용 기준 이해하기
 
 예시를 보고 적용 기준에 대해서 이해해보자.
@@ -149,9 +200,10 @@ Policy는 여러 조건을 평가해서 결정하는 반면에, Strategy는 단�
 	- SamsungPaymentDiscountStrategy
 
 
+
 ## 질문 & 확장
 
-네이밍 컨벤션의 경우 Policy나 Strategy는 잘못 사용하면 독이 될 수도 있다. 경우에 따라서는 DiscountPolicy보다는 DiscountService를 만들고 따로 Policy나 Strategy를 만들어 주입하는 방향도 적절할 수 있다. 그러나 이 방법은 불필요하게 객체 갯수를 늘리고 결국엔 도메인에 관련된 로직이기 때문에 DomainService에 직접 구현하는 것이 나을 수도 있다. 모든지 설계는 Trade-off이다.
+네이밍 컨벤션의 경우 Policy나 Strategy는 잘못 사용하면 독이 될 수도 있다. 경우에 따라서는 DiscountPolicy보다는 DiscountService를 만들고 따로 Policy나 Strategy를 만들어 주입하는 방향도 적절할 수 있다. 그러나 이 방법은 불필요하게 객체 갯수를 늘리고 결국엔 도메인에 관련된 로직이기 때문에 DomainService에 직접 구현하는 것이 나을 수도 있다. 모든 설계는 Trade-off이다.
 ## 출처(링크)
 
 - https://www.nexcess.net/blog/domain-naming-best-practices/

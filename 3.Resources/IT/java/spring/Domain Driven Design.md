@@ -18,3 +18,4 @@ title: Domain Driven Design
 ## DDD
 
 - [[Domain Service Convention]]
+- [[Domain Service를 사용해야 할 상황]]

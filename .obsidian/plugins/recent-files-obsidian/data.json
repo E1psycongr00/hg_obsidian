@@ -9,6 +9,10 @@
       "path": "3.Resources/IT/java/spring/Domain Driven Design.md"
     },
     {
+      "basename": "Domain Service를 사용해야 할 상황",
+      "path": "연습노트/Domain Service를 사용해야 할 상황.md"
+    },
+    {
       "basename": "SOLID란 무엇인가",
       "path": "영구노트/SOLID란 무엇인가.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기",
       "path": "영구노트/Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기.md"
-    },
-    {
-      "basename": "Whisper",
-      "path": "영구노트/Whisper.md"
     }
   ],
   "omittedPaths": [],
