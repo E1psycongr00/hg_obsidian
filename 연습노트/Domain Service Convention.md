@@ -93,8 +93,6 @@ DomainService 네이밍은 Domain 객체에서 복잡한 비즈니스 규칙을 
 - Calculator(복잡한 계산 로직)
 - Policy(비즈니스 규칙 또는 의사 결정 로직)
 - Strategy(알고리즘, 또는 전략)
-- Manager(거대한 책임)
-- Engine
 - 그 외에 domain에 특화된 네이밍
 
 #### Calculator
