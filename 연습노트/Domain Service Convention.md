@@ -101,11 +101,17 @@ DomainService 네이밍은 Domain 객체에서 복잡한 비즈니스 규칙을 
 
 #### Policy
 
-비즈니스 로직이나 의사 결정 로직의 경우를 캡슐화 할 때 사용한다. "How" 보다는 "What" 에 초점을 두고 있다.
+Policy는 사전 의미로는 `정책`이다. 정책은 보통 정부에서 내놓은 공약인데 어떤 문제의 해결하기 위한 목표로 포괄적인 의미를 가지고 있다. 그래서 비즈니스 로직이나 의사 결정 로직의 경우를 캡슐화 할 때 사용한다. "How" 보다는 "What" 에 초점을 두고 있다. 거대한 시스템 및 비즈니스 로직에 사용될 수 있다.
 
+>[!example] Example-1
+>- DiscountPolicy
+>	- AmountDiscountPolicy
+>	- PeriodDiscountPolicy
+>	- NoneDiscountPolicy
 #### Strategy
 
 "How"에 초점을 둔다. Policy는 여러 조건을 평가해서 결정하는 반면에, Strategy는 단일 작업에 대해서 여러 방법을 적용할 때 사용한다.
+
 ## 질문 & 확장
 
 (없음)
