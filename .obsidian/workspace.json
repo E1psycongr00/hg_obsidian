@@ -13,21 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/전기 쌍극자.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "전기 쌍극자"
-            }
-          },
-          {
-            "id": "250972b1c10d6148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "연습노트/결합도.md",
                 "mode": "source",
                 "backlinks": false,
@@ -35,6 +20,16 @@
               },
               "icon": "lucide-file",
               "title": "결합도"
+            }
+          },
+          {
+            "id": "785d3a29014a1428",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ],
@@ -60,8 +55,8 @@
               "state": {
                 "query": "결합도",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -101,8 +96,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -223,7 +217,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/결합도.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,12 +239,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5359795996225961,
+                  "scale": 0.7514342322277616,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "결합도 그래프"
+              "title": "그래프 뷰"
             }
           }
         ],
@@ -267,11 +260,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/결합도.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "결합도 개요"
+              "title": "개요"
             }
           }
         ]
@@ -298,18 +289,28 @@
       "media-extended:Open media": false
     }
   },
-  "active": "250972b1c10d6148",
+  "active": "785d3a29014a1428",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20241017171816.png",
-    "연습노트/전기 쌍극자.md",
     "연습노트/결합도.md",
+    "영구노트/퍼사드 패턴.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/가장 중요한 것은 회복력이다 by 젠슨황.md",
+    "attachments/screenshot/Pasted image 20241017195547.png",
+    "attachments/screenshot/Pasted image 20241017195518.png",
+    "templates/인물 소개 템플릿.md",
+    "templates/일정 템플릿.md",
+    "templates/project 템플릿.md",
+    "templates/resource 템플릿.md",
+    "templates/솔루션 템플릿.md",
+    "templates/참조 노트 템플릿.md",
+    "templates/영상 참조 템플릿.md",
+    "attachments/screenshot/Pasted image 20241017171816.png",
     "연습노트/Git 핵심 명령어.md",
     "연습노트/JOOQ 리턴 타입.md",
     "연습노트/Latex Suite 사용 방법.md",
     "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "연습노트/SelfQueryRetriever.md",
-    "영구노트/퍼사드 패턴.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "3.Resources/IT/java/spring/Domain Driven Design.md",
     "3.Resources/IT/java/spring/Spring JDBC.md",
@@ -318,24 +319,13 @@
     "3.Resources/IT/java/Java 버전별 특징.md",
     "3.Resources/IT/java/Java 문법.md",
     "3.Resources/IT/java/Java 공부.md",
-    "3.Resources/IT/java/표준 Java Error.md",
-    "영구노트/Domain Service Convention.md",
-    "영구노트/Domain Service를 사용해야 할 상황.md",
-    "영구노트/SOLID란 무엇인가.md",
-    "영구노트/Single Responsibility Principal.md",
-    "Excalidraw/대충네이밍을지은DomainService (draw).md",
     "Excalidraw/대충네이밍을지은DomainService (draw).svg",
-    "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md",
-    "templates/감상문 템플릿.md",
     "attachments/screenshot/Pasted image 20241015184930.png",
     "attachments/screenshot/Pasted image 20241015174804.png",
     "attachments/screenshot/Pasted image 20241015121345.png",
     "attachments/screenshot/Pasted image 20241015120910.png",
     "attachments/screenshot/Pasted image 20241015115156.png",
     "attachments/screenshot/Pasted image 20241015114441.png",
-    "Excalidraw/Conditional edge (draw).svg",
-    "attachments/screenshot/Pasted image 20241014180649.png",
-    "Excalidraw/Drawing 2024-10-11 15.04.32.excalidraw.svg",
     "3.Resources/IT/java/spring",
     "3.Resources/IT/객체지향",
     "attachments/pdf/RAG from scratch_ Overview.pdf",

@@ -5,8 +5,44 @@
       "path": "연습노트/결합도.md"
     },
     {
+      "basename": "퍼사드 패턴",
+      "path": "영구노트/퍼사드 패턴.md"
+    },
+    {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "가장 중요한 것은 회복력이다 by 젠슨황",
+      "path": "연습노트/가장 중요한 것은 회복력이다 by 젠슨황.md"
+    },
+    {
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
+    },
+    {
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
+    },
+    {
+      "basename": "project 템플릿",
+      "path": "templates/project 템플릿.md"
+    },
+    {
+      "basename": "resource 템플릿",
+      "path": "templates/resource 템플릿.md"
+    },
+    {
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
+    },
+    {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "영상 참조 템플릿",
+      "path": "templates/영상 참조 템플릿.md"
     },
     {
       "basename": "Git 핵심 명령어",
@@ -31,10 +67,6 @@
     {
       "basename": "SelfQueryRetriever",
       "path": "연습노트/SelfQueryRetriever.md"
-    },
-    {
-      "basename": "퍼사드 패턴",
-      "path": "영구노트/퍼사드 패턴.md"
     },
     {
       "basename": "객체 지향",
@@ -67,38 +99,6 @@
     {
       "basename": "Java 공부",
       "path": "3.Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "표준 Java Error",
-      "path": "3.Resources/IT/java/표준 Java Error.md"
-    },
-    {
-      "basename": "Domain Service Convention",
-      "path": "영구노트/Domain Service Convention.md"
-    },
-    {
-      "basename": "Domain Service를 사용해야 할 상황",
-      "path": "영구노트/Domain Service를 사용해야 할 상황.md"
-    },
-    {
-      "basename": "SOLID란 무엇인가",
-      "path": "영구노트/SOLID란 무엇인가.md"
-    },
-    {
-      "basename": "Single Responsibility Principal",
-      "path": "영구노트/Single Responsibility Principal.md"
-    },
-    {
-      "basename": "대충네이밍을지은DomainService (draw)",
-      "path": "Excalidraw/대충네이밍을지은DomainService (draw).md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 기법 & 옵시디언",
-      "path": "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md"
-    },
-    {
-      "basename": "감상문 템플릿",
-      "path": "templates/감상문 템플릿.md"
     }
   ],
   "omittedPaths": [],
