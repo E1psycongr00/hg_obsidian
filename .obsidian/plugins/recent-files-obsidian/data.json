@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "python 기본",
+      "path": "3.Resources/IT/python/python 기본.md"
+    },
+    {
       "basename": "결합도",
       "path": "연습노트/결합도.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Java 문법",
       "path": "3.Resources/IT/java/Java 문법.md"
-    },
-    {
-      "basename": "Java 공부",
-      "path": "3.Resources/IT/java/Java 공부.md"
     }
   ],
   "omittedPaths": [],

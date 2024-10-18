@@ -19,6 +19,7 @@ title: python
 - [[Python에서 Optional한 데이터 잘 활용하기]]
 - [[Python에서 Java의 Optional을 구현해서 이용해보기]]
 - [[클래스 변수와 인스턴스 변수]]
+- 
 
 
 ## Pydantic
