@@ -28,6 +28,8 @@ title: langchain
 - [[한국어 검색 embedding model 벤치마크]]
 - [[HuggingFace에서 받은 embedding 모델 저장하기]]
 - [[Query Translation]]
+- [[with_structured_output과 프롬프트 관계]]
+- 
 ## 하위 Resource 문서
 
 - [[Retriever]]
