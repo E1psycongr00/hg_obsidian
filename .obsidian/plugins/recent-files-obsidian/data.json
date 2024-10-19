@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Github의 구조",
+      "path": "영구노트/Github의 구조.md"
+    },
+    {
+      "basename": "Github 동작 원리(draw)",
+      "path": "Excalidraw/Github 동작 원리(draw).md"
+    },
+    {
+      "basename": "Github 동작 원리(draw)",
+      "path": "Excalidraw/Github 동작 원리(draw).svg"
+    },
+    {
+      "basename": "Electron 구조(draw)",
+      "path": "Excalidraw/Electron 구조(draw).md"
+    },
+    {
+      "basename": "Electron 구조(draw)",
+      "path": "Excalidraw/Electron 구조(draw).svg"
+    },
+    {
+      "basename": "Edge Triggered(draw)",
+      "path": "Excalidraw/Edge Triggered(draw).md"
+    },
+    {
+      "basename": "Edge Triggered(draw)",
+      "path": "Excalidraw/Edge Triggered(draw).svg"
+    },
+    {
+      "basename": "Dead Lock 예시(draw)",
+      "path": "Excalidraw/Dead Lock 예시(draw).svg"
+    },
+    {
+      "basename": "Dead Lock 예시(draw)",
+      "path": "Excalidraw/Dead Lock 예시(draw).md"
+    },
+    {
+      "basename": "Dead Lock 예시2(draw)",
+      "path": "Excalidraw/Dead Lock 예시2(draw).md"
+    },
+    {
+      "basename": "Dead Lock 예시2(draw)",
+      "path": "Excalidraw/Dead Lock 예시2(draw).svg"
+    },
+    {
       "basename": "결합도",
       "path": "연습노트/결합도.md"
     },
@@ -55,50 +99,6 @@
     {
       "basename": "영상 참조 템플릿",
       "path": "templates/영상 참조 템플릿.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
-      "basename": "Latex Suite 사용 방법",
-      "path": "연습노트/Latex Suite 사용 방법.md"
-    },
-    {
-      "basename": "SelfQueryRetriever는 정렬 불가능 문제",
-      "path": "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "SelfQueryRetriever",
-      "path": "연습노트/SelfQueryRetriever.md"
-    },
-    {
-      "basename": "객체 지향",
-      "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "Domain Driven Design",
-      "path": "3.Resources/IT/java/spring/Domain Driven Design.md"
-    },
-    {
-      "basename": "Spring JDBC",
-      "path": "3.Resources/IT/java/spring/Spring JDBC.md"
-    },
-    {
-      "basename": "Java의 기본 구조",
-      "path": "3.Resources/IT/java/Java의 기본 구조.md"
-    },
-    {
-      "basename": "java-vscode",
-      "path": "3.Resources/IT/java/java-vscode.md"
     }
   ],
   "omittedPaths": [],
