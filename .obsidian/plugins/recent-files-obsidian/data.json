@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "전속",
+      "path": "영구노트/전속.md"
+    },
+    {
+      "basename": "정전계",
+      "path": "영구노트/정전계.md"
+    },
+    {
+      "basename": "전자기학",
+      "path": "3.Resources/전기기사/전자기학/전자기학.md"
+    },
+    {
+      "basename": "전하(Elecric Charge)",
+      "path": "영구노트/전하(Elecric Charge).md"
+    },
+    {
+      "basename": "전위 계수",
+      "path": "영구노트/전위 계수.md"
+    },
+    {
+      "basename": "유전체",
+      "path": "영구노트/유전체.md"
+    },
+    {
+      "basename": "도체계의 정전용량",
+      "path": "영구노트/도체계의 정전용량.md"
+    },
+    {
+      "basename": "Github 동작 원리(draw)",
+      "path": "Excalidraw/Github 동작 원리(draw).md"
+    },
+    {
+      "basename": "Github의 구조",
+      "path": "영구노트/Github의 구조.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 정의",
+      "path": "영구노트/프로세스 & 스레드 정의.md"
+    },
+    {
+      "basename": "프로세스의 한계 및 쓰레드 등장",
+      "path": "영구노트/프로세스의 한계 및 쓰레드 등장.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 메모리 구조",
+      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
+    },
+    {
+      "basename": "데드풀 감상문",
+      "path": "데드풀 감상문.md"
+    },
+    {
+      "basename": "몽키 패치",
+      "path": "영구노트/몽키 패치.md"
+    },
+    {
+      "basename": "Java에서 몽키 패치 활용 예시",
+      "path": "영구노트/Java에서 몽키 패치 활용 예시.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
       "basename": "객체 지향",
       "path": "3.Resources/IT/객체지향/객체 지향.md"
     },
@@ -33,72 +97,8 @@
       "path": "연습노트/Git 핵심 명령어.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
-    },
-    {
-      "basename": "Github 동작 원리(draw)",
-      "path": "Excalidraw/Github 동작 원리(draw).md"
-    },
-    {
-      "basename": "Github의 구조",
-      "path": "영구노트/Github의 구조.md"
-    },
-    {
       "basename": "Dead Lock 예시(draw)",
       "path": "Excalidraw/Dead Lock 예시(draw).svg"
-    },
-    {
-      "basename": "Electron 구조(draw)",
-      "path": "Excalidraw/Electron 구조(draw).svg"
-    },
-    {
-      "basename": "Electron 구조(draw)",
-      "path": "Excalidraw/Electron 구조(draw).md"
-    },
-    {
-      "basename": "Github 동작 원리(draw)",
-      "path": "Excalidraw/Github 동작 원리(draw).svg"
-    },
-    {
-      "basename": "Edge Triggered(draw)",
-      "path": "Excalidraw/Edge Triggered(draw).svg"
-    },
-    {
-      "basename": "Dead Lock 예시(draw)",
-      "path": "Excalidraw/Dead Lock 예시(draw).md"
-    },
-    {
-      "basename": "Dead Lock 예시2(draw)",
-      "path": "Excalidraw/Dead Lock 예시2(draw).md"
-    },
-    {
-      "basename": "Dead Lock 예시2(draw)",
-      "path": "Excalidraw/Dead Lock 예시2(draw).svg"
-    },
-    {
-      "basename": "with_structured_output과 프롬프트 관계",
-      "path": "영구노트/with_structured_output과 프롬프트 관계.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
-    },
-    {
-      "basename": "솔루션 템플릿",
-      "path": "templates/솔루션 템플릿.md"
-    },
-    {
-      "basename": "python 기본",
-      "path": "3.Resources/IT/python/python 기본.md"
-    },
-    {
-      "basename": "퍼사드 패턴",
-      "path": "영구노트/퍼사드 패턴.md"
-    },
-    {
-      "basename": "가장 중요한 것은 회복력이다 by 젠슨황",
-      "path": "연습노트/가장 중요한 것은 회복력이다 by 젠슨황.md"
     }
   ],
   "omittedPaths": [],
