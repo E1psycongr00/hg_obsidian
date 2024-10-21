@@ -11,18 +11,31 @@
             "id": "af891659001d8e18",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Edge Triggered(draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Edge Triggered(draw)"
+            }
+          },
+          {
+            "id": "6dd533ea76a715e8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Github의 구조.md",
-                "mode": "preview",
+                "file": "무제 파일.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Github의 구조"
+              "title": "무제 파일"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -207,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Github의 구조.md",
+                "file": "무제 파일.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Github의 구조 그래프"
+              "title": "무제 파일 그래프"
             }
           }
         ],
@@ -252,10 +265,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Github의 구조.md"
+                "file": "무제 파일.md"
               },
               "icon": "lucide-list",
-              "title": "Github의 구조 개요"
+              "title": "무제 파일 개요"
             }
           }
         ]
@@ -282,17 +295,18 @@
       "media-extended:Open media": false
     }
   },
-  "active": "af891659001d8e18",
+  "active": "6dd533ea76a715e8",
   "lastOpenFiles": [
-    "Excalidraw/Github 동작 원리(draw).md",
-    "Excalidraw/Github 동작 원리(draw).svg",
-    "영구노트/Github의 구조.md",
-    "Excalidraw/ttf/SD미생@던디.ttf",
-    "Excalidraw/Electron 구조(draw).md",
-    "Excalidraw/Electron 구조(draw).svg",
     "Excalidraw/Edge Triggered(draw).md",
-    "Excalidraw/Edge Triggered(draw).svg",
+    "무제 파일.md",
+    "Excalidraw/Github 동작 원리(draw).md",
+    "영구노트/Github의 구조.md",
     "Excalidraw/Dead Lock 예시(draw).svg",
+    "Excalidraw/Electron 구조(draw).svg",
+    "Excalidraw/Electron 구조(draw).md",
+    "Excalidraw/Github 동작 원리(draw).svg",
+    "Excalidraw/ttf/SD미생@던디.ttf",
+    "Excalidraw/Edge Triggered(draw).svg",
     "Excalidraw/Dead Lock 예시(draw).md",
     "Excalidraw/Dead Lock 예시2(draw).md",
     "Excalidraw/Dead Lock 예시2(draw).svg",
