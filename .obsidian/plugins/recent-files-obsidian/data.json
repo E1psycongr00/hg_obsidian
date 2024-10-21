@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "결합도",
+      "path": "영구노트/결합도.md"
+    },
+    {
+      "basename": "SOLID란 무엇인가",
+      "path": "영구노트/SOLID란 무엇인가.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "Pasted image 20241017171816",
+      "path": "attachments/screenshot/Pasted image 20241017171816.png"
     },
     {
       "basename": "Edge Triggered(draw)",
       "path": "Excalidraw/Edge Triggered(draw).md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
     },
     {
       "basename": "Github 동작 원리(draw)",
@@ -49,10 +77,6 @@
       "path": "Excalidraw/Dead Lock 예시2(draw).svg"
     },
     {
-      "basename": "결합도",
-      "path": "연습노트/결합도.md"
-    },
-    {
       "basename": "with_structured_output과 프롬프트 관계",
       "path": "영구노트/with_structured_output과 프롬프트 관계.md"
     },
@@ -73,32 +97,8 @@
       "path": "영구노트/퍼사드 패턴.md"
     },
     {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
       "basename": "가장 중요한 것은 회복력이다 by 젠슨황",
       "path": "연습노트/가장 중요한 것은 회복력이다 by 젠슨황.md"
-    },
-    {
-      "basename": "인물 소개 템플릿",
-      "path": "templates/인물 소개 템플릿.md"
-    },
-    {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "project 템플릿",
-      "path": "templates/project 템플릿.md"
-    },
-    {
-      "basename": "resource 템플릿",
-      "path": "templates/resource 템플릿.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
     }
   ],
   "omittedPaths": [],

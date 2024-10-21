@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a92dd7ecb1c42a8f",
+        "id": "384aa1211974d5f2",
         "type": "tabs",
         "children": [
           {
-            "id": "af891659001d8e18",
+            "id": "a3f849a5d25d7065",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Edge Triggered(draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Edge Triggered(draw)"
-            }
-          },
-          {
-            "id": "6dd533ea76a715e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GIthub 동작 원리",
+                "query": "tag:객체지향",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 파일.md",
+                "file": "3.Resources/IT/객체지향/객체 지향.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "무제 파일 그래프"
+              "title": "객체 지향 그래프"
             }
           }
         ],
@@ -265,10 +247,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "3.Resources/IT/객체지향/객체 지향.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 개요"
+              "title": "객체 지향 개요"
             }
           }
         ]
@@ -295,9 +277,18 @@
       "media-extended:Open media": false
     }
   },
-  "active": "6dd533ea76a715e8",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "영구노트/결합도.md",
+    "3.Resources/IT/객체지향/객체 지향.md",
+    "영구노트/SOLID란 무엇인가.md",
+    "연습노트/전기 쌍극자.md",
+    "attachments/screenshot/Pasted image 20241017171816.png",
+    "3.Resources/IT/IT.md",
     "Excalidraw/Edge Triggered(draw).md",
+    "3.Resources/IT/객체지향/무제 폴더",
+    "연습노트/JacksonModule & Std(De)Serializer.md",
+    "연습노트/Git 핵심 명령어.md",
     "무제 파일.md",
     "Excalidraw/Github 동작 원리(draw).md",
     "영구노트/Github의 구조.md",
@@ -310,14 +301,12 @@
     "Excalidraw/Dead Lock 예시(draw).md",
     "Excalidraw/Dead Lock 예시2(draw).md",
     "Excalidraw/Dead Lock 예시2(draw).svg",
-    "연습노트/결합도.md",
     "Excalidraw/ttf/Jalnan2TTF.ttf",
     "영구노트/with_structured_output과 프롬프트 관계.md",
     "3.Resources/IT/python/langchain/langchain.md",
     "templates/솔루션 템플릿.md",
     "3.Resources/IT/python/python 기본.md",
     "영구노트/퍼사드 패턴.md",
-    "연습노트/전기 쌍극자.md",
     "연습노트/가장 중요한 것은 회복력이다 by 젠슨황.md",
     "attachments/screenshot/Pasted image 20241017195547.png",
     "attachments/screenshot/Pasted image 20241017195518.png",
@@ -327,12 +316,6 @@
     "templates/resource 템플릿.md",
     "templates/참조 노트 템플릿.md",
     "templates/영상 참조 템플릿.md",
-    "attachments/screenshot/Pasted image 20241017171816.png",
-    "연습노트/Git 핵심 명령어.md",
-    "연습노트/JOOQ 리턴 타입.md",
-    "연습노트/Latex Suite 사용 방법.md",
-    "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "Excalidraw/대충네이밍을지은DomainService (draw).svg",
     "attachments/screenshot/Pasted image 20241015184930.png",
     "3.Resources/IT/java/spring",
@@ -342,7 +325,6 @@
     "3.Resources/IT/csharp",
     "3.Resources/IT/python/langchain",
     "3.Resources/IT/python",
-    "Excalidraw/ttf/온글잎 보현체.ttf",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
