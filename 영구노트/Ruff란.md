@@ -2,6 +2,7 @@
 tags:
   - 완성
   - Python
+  - Ruff
 aliases:
   - Ruff
 date: 2024-09-25

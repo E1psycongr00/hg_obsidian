@@ -3,6 +3,7 @@ tags:
   - 완성
   - VSCode
   - Python
+  - Ruff
 aliases: 
 date: 2024-09-25
 title: VSCode에 Ruff 환경 세팅
@@ -63,7 +64,7 @@ default는 false인데 false이면 "ctrl + s" 를 눌러야만 ruff가 동작한
 ## 연결 노트
 
 - [[Ruff란]]
-
+- [[Ruff 특정 모듈 linter 체크에서 제외하기]]
 
 
 
