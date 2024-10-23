@@ -65,7 +65,7 @@ default는 false인데 false이면 "ctrl + s" 를 눌러야만 ruff가 동작한
 
 - [[Ruff란]]
 - [[Ruff 특정 모듈 linter 체크에서 제외하기]]
-
+- [[Ruff Github Actions 예시]]
 
 
 
