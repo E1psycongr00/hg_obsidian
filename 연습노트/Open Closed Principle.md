@@ -157,24 +157,92 @@ TwoLegedAnimal은 속도 5라는 고유한 특성을 가지고 있고, speedLogi
 
 이것은 확장에는 열려 있는 코드가 되는 것이고, 변경에는 닫혀있는 OCP를 만족하는 코드가 되는 것이다. 또한 상속의 효과로 불필요한 구현 코드를 피하고, 책임이 필요한 코드만 작성하면 되기 때문에 깔끔한 코드를 작성할 수 있다.
 
-### DI를 이용해 해결해보기
+### 클래스 분리와 주입을 이용해 해결해보기
+
+#### 분석
+
+코드를 보면 is-a 관계에 가깝긴 하지만, 예시를 위해 has-a 관계로 접근해보려 한다.
+Animal은 2발 다리를 가질 수 있고, 4발 다리를 가질 수 있다. 그렇다면 다리 상태에 따라 다리는 고유의 속도를 가지고 있고, 이러한 상태에 따라 각기 다른 속도를 리턴하도록 해서 속도 로직을 분리하는 것이다.
+
+#### code
+
+```java
+public enum Legs {
+    TWO_LEGGED(5),
+    FOUR_LEGGED(10);
+
+    private final int speed;
+
+    Legs(int speed) {
+        this.speed = speed;
+    }
+
+    public int getSpeed() {
+        return speed;
+    }
+}
+
+```
+
+```
+```
+```java
+public class DefaultAnimal implements Animal{
+    private final String name;
+    private final int age;
+    private final Legs legs;
+
+    protected DefaultAnimal(String name, int age, Legs legs) {
+        this.name = name;
+        this.age = age;
+        this.legs = legs;
+    }
+
+    @Override
+    public int run() {
+        int speed = legs.getSpeed();
+        return speed + 10;
+    }
+
+    @Override
+    public String toString() {
+        return "Name: " + name + ", Age: " + age;
+    }
+}
+```
+
+이렇게 사용하면 좋은 점은 Legs를 독립적으로 관리할 수 있고, DefaultAnimal과 긴밀한 관계가 아닌 하나의 부품처럼 다룰 수 있기 때문에 큰 수정이나 로직 변경이 발생하더라도 Legs를 제거만 하면 된다. 다만 Legs가 Animal을 위한 로직이지만 너무 독립적이면, Legs의 용도가 헷갈릴 수 있다. 
+
+### 정리
 
 
+|            | **상속**                                      | **Composite or Aggregate**                                                          |
+| ---------- | ------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **설계 난이도** | **높음**                                      | **낮음**                                                                              |
+| **구현 난이도** | **높음**                                      | **낮음**                                                                              |
+| **변경 난이도** | **부모 클래스의 경우 변경이 힘듬**                       | **독립적인 모듈로 주입하기 때문에 쉬움**                                                            |
+| **의존도**    | **높음** (부모와 긴밀한 연결 관계)                      | **낮음**                                                                              |
+| **코드 길이**  | **적음** (Abstract를 이용하면 중복 코드를 엄청나게 줄일 수 있음) | **중간** (단순한 독립적인 관계이기 때문에 코드 수가 엄청 줄어들지는 않음. 물론 여기에도 주입하는 클래스에 Abstract 적용할 수도 있음.) |
 
 
+**상속으로 구현**
+- 장점: 간편한 구현, 긴밀한 연결 관계, 중복 코드 X, 깔끔한 코드
+- 단점: 부모 클래스의 변경은 유지 보수가 힘들고 사실상 힘듬(긴밀한 연계)
+
+**Composite 또는 Aggregate 구현**
+- 장점: 간편한 구현, 독립적인 연결 관계, 수평 관계임으로 따로 관리가 쉬움
+- 단점: 독립적인 관계라 로직을 다른 도메인에 쓸 위험이 존재, 관리해야 할 변수가 늘어남.(주입 or 매개변수)
 ## 질문 & 확장
 
-(없음)
+
+is-a 관계가 명확하고 계층관계를 명확하게 설계하고 추상화 가능하다면 상속관계를 추천한다. 그러한 관계가 아니라면 has-a 관계로 인터페이스를 추상화하고, 논리를 다른 곳에서 구현 및 주입하는 형태가 OCP 입장에서 바람직하다. 새로운 논리가 추가되면, 추가로 구현하면 되기 떄문이다. 그리고 대대적인 변경이 있을 때 그냥 떼어내기만 하면 된다.
 
 ## 출처(링크)
 
 - https://dublin-java.tistory.com/48
-- 
+- https://velog.io/@harinnnnn/OOP-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-5%EB%8C%80-%EC%9B%90%EC%B9%99SOLID-%EA%B0%9C%EB%B0%A9-%ED%8F%90%EC%87%84-%EC%9B%90%EC%B9%99-OCP
+
 ## 연결 노트
-
-
-
-
 
 
 
