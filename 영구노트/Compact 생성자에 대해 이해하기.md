@@ -17,6 +17,18 @@ title: Compact 생성자에 대해 이해하기
 
 ![[Compact 생성자 동작 원리 (draw).svg]]
 
+```java
+final class Record {
+	private final String variable;
+
+	public Record(String name) {
+		validate(name);  // compact
+		transform(name); // compact
+		this.name = name; // field initialize
+	}
+}
+```
+
 1. Record 인스턴스 생성 단계에서는 말 그대로 Record 인스턴스를 생성한다. 그러나 아직 필드는 초기화되지 않았고, 접근이 불가능하다.
 2. Compact 생성자 실행 단계에서는 여전히 필드가 초기화되지 않았기 때문에 this를 이용해 필드 값에 접근하는 것은 불가능하다. 그러나 vaidation이나 인자로 받은 값을 변형 가능하다.
 3. 최종적으로 Compact 생성자에서 변형된 인자를 이용해 필드를 초기화한다.
