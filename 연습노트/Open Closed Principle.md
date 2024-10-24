@@ -86,6 +86,80 @@ public class Animal {
 
 ### 추상 클래스와 상속을 이용해서 해결해보기
 
+#### 분석
+
+동물에 4발과 2발로 달리기 속도가 달라지고 구분된다. 근데 동물은 4발일 수도 있고, 두 발일 수도 있다. 즉 is-a 관계라는 것이다. 그리고 우리는 동물의 역할 책임이 달리기(run)인 것을 알 수 있다.
+
+![[Animal is-a 관계 (draw).svg]]
+
+#### 인터페이스 정의 
+
+```java
+public interface Animal {
+    int run();
+}
+
+```
+
+동물의 역할 책임을 분석해서 추상화하면 결국엔 동물은 달리기를 할 책임이 있다. 다만 인스턴스에 따라 달리기 결과값이 달라지기는 하지만 중요한 것은 동물 객체는 달리는 책임이 있다는 것이다.
+
+#### 상속 클래스 정의
+
+```java
+public abstract class AbstractAnimal implements Animal{
+    private final String name;
+    private final int age;
+
+    protected AbstractAnimal(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    @Override
+    public int run() {
+        int speed = speedLogic();
+        return speed + 10;
+    }
+
+    protected abstract int speedLogic();
+
+    @Override
+    public String toString() {
+        return "Name: " + name + ", Age: " + age;
+    }
+}
+```
+
+상속을 보다 편하게 하기 위해서 Abstract 클래스를 사용한다. 여기서 중요한 것은 speedLogic이라는 메서드를 추가했고 중요한 speed에 관련된 로직은 자식에게 위임하고 Animal의 틀을 작성하는 것이다.
+
+이 코드의 좋은 점은 Animal의 종류가 다양해져도 상속해서 다양한 클래스를 만들 수 있고, 해당 클래스가 speed에 대한 책임을 가지지 않기 때문에 동물에 따라 speed가 달라져도 해당 코드를 수정할 일이 없다.
+
+#### 자식 클래스 정의 
+
+```java 두 발 클래스 정의
+public class TwoLegedAnimal extends AbstractAnimal {
+
+    private static final int TWO_LEGGED_SPEED = 5;
+
+    public TwoLegedAnimal(String name, int age) {
+        super(name, age);
+    }
+
+    @Override
+    protected int speedLogic() {
+        return TWO_LEGGED_SPEED;
+    }
+}
+
+```
+
+TwoLegedAnimal은 속도 5라는 고유한 특성을 가지고 있고, speedLogic에서 이를 활용하고 있다. 이렇게 특성마다 달라지는 속도의 책임을 자식 클래스가 가지기 때문에 새로운 동물 종류가 필요하다면, 상속해서 클래스를 생성해서 로직을 새로 짜기만 하면 된다.
+
+이것은 확장에는 열려 있는 코드가 되는 것이고, 변경에는 닫혀있는 OCP를 만족하는 코드가 되는 것이다. 또한 상속의 효과로 불필요한 구현 코드를 피하고, 책임이 필요한 코드만 작성하면 되기 때문에 깔끔한 코드를 작성할 수 있다.
+
+### DI를 이용해 해결해보기
+
+
 
 
 ## 질문 & 확장

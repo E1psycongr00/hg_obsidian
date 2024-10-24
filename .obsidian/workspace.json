@@ -278,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,8 +300,10 @@
   },
   "active": "c66f8a68939032b0",
   "lastOpenFiles": [
-    "영구노트/SOLID란 무엇인가.md",
+    "Excalidraw/Animal is-a 관계 (draw).md",
+    "Excalidraw/Animal is-a 관계 (draw).svg",
     "연습노트/Open Closed Principle.md",
+    "영구노트/SOLID란 무엇인가.md",
     "영구노트/Single Responsibility Principal.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "3.Resources/IT/java/Java 공부.md",
@@ -327,8 +328,6 @@
     "Excalidraw/Compact 생성자 동작 원리 (draw).svg",
     "영구노트/Java Record 사용법.md",
     "영구노트/Java17 Switch 문법.md",
-    "3.Resources/IT/java/JOOQ.md",
-    "영구노트/배열 초기화.md",
     "attachments/screenshot/Pasted image 20241023102725.png",
     "attachments/screenshot/Pasted image 20241017171816.png",
     "3.Resources/IT/객체지향/무제 폴더",
@@ -339,7 +338,6 @@
     "Excalidraw/Edge Triggered(draw).svg",
     "Excalidraw/Dead Lock 예시2(draw).svg",
     "Excalidraw/ttf/Jalnan2TTF.ttf",
-    "attachments/screenshot/Pasted image 20241017195547.png",
     "3.Resources/IT/java/spring",
     "3.Resources/IT/객체지향",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
