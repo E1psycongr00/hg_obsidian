@@ -19,7 +19,7 @@ date: 2024-02-16
 >target 보다 작지만 타겟에 가장 가까운 값의 인덱스 + 1 
 
 
-![[Lower Bound 동작 과정.svg|600]]
+![[Lower Bound 동작 과정 (draw).svg|600]]
 
 target에 중복된 값들의 인덱스가 존재하는 경우 최초의 target의 인덱스를 반환하며, target이 배열에 없는 경우에는 target보다 큰 값의 index를 반환한다.(정의를 생각해보자)
 ### Code

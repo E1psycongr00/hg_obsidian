@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SOLID란 무엇인가",
+      "path": "영구노트/SOLID란 무엇인가.md"
+    },
+    {
       "basename": "전속",
       "path": "영구노트/전속.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "결합도",
       "path": "영구노트/결합도.md"
-    },
-    {
-      "basename": "SOLID란 무엇인가",
-      "path": "영구노트/SOLID란 무엇인가.md"
     },
     {
       "basename": "전기 쌍극자",
