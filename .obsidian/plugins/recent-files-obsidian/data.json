@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "유튜브 댓글 분석 기반 챗봇",
+      "path": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
+    },
+    {
+      "basename": "Query Translation",
+      "path": "연습노트/Query Translation.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Latex Suite 사용 방법",
+      "path": "연습노트/Latex Suite 사용 방법.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "SelfQueryRetriever",
+      "path": "영구노트/SelfQueryRetriever.md"
+    },
+    {
+      "basename": "때로는 승부에서 패배해봐야  by donald trump",
+      "path": "영구노트/때로는 승부에서 패배해봐야  by donald trump.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "3.Resources/명언/명언 모음.md"
+    },
+    {
       "basename": "SOLID란 무엇인가",
       "path": "영구노트/SOLID란 무엇인가.md"
     },
@@ -63,42 +99,6 @@
     {
       "basename": "Java에서 몽키 패치 활용 예시",
       "path": "영구노트/Java에서 몽키 패치 활용 예시.md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
-    },
-    {
-      "basename": "객체 지향",
-      "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "결합도",
-      "path": "영구노트/결합도.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "Pasted image 20241017171816",
-      "path": "attachments/screenshot/Pasted image 20241017171816.png"
-    },
-    {
-      "basename": "Edge Triggered(draw)",
-      "path": "Excalidraw/Edge Triggered(draw).md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "Dead Lock 예시(draw)",
-      "path": "Excalidraw/Dead Lock 예시(draw).svg"
     }
   ],
   "omittedPaths": [],
