@@ -36,15 +36,32 @@ title: Spring 요청 처리 과정
 5. **ModelAndView 반환**
 	- Controller 호출 이후 ModelAndView 객체를 반환한다.
 
-6. **ViewResolver 반환**
-	- ㅍ
+6. **ViewResolver 호출 및 View 반환**
+	- ViewResolver는 여러 구현체가 있고 JSP, Thymeleaf 등 상황에 맞는 View를 리턴한다.
 
-### 서버 실행
+7. **Render**
+	- View를 렌더링해서 응답을 제공한다.
 
-1. Tomcat 내장 서버(Web Server)를 초기화한다.
-2. Root WebApplicationContext를 로딩한다.
-3. 톰캣 내장 서버를 실행한다.
 
+![[WAS 전체적인 구조 (draw).svg]]
+
+
+### 웹서버와 함께 전체적인 동작 처리
+
+![[Pasted image 20241025214957.png]]
+
+1. 클라이언트가 HTTP 요청을 보낸다.
+2. 웹 서버(예: Apache Tomcat)가 요청을 받아 서블릿 컨테이너로 전달.
+3. 서블릿 컨테이너는 요청을 DispatcherServlet으로 위임.
+4. DispatcherServlet은 HandlerMapping을 사용해 적절한 컨트롤러 찾기.
+5. 요청은 선택된 컨트롤러로 전달됨.
+6. 컨트롤러는 필요한 비즈니스 로직을 처리하기 위해 서비스 계층을 호출.
+7. 서비스 계층은 필요한 경우 데이터 접근 계층을 통해 데이터를 조회하거나 수정.
+8. 처리된 결과는 역순으로 반환되어 컨트롤러에 도달.
+9. 컨트롤러는 ModelAndView 객체를 DispatcherServlet에 반환.
+10. DispatcherServlet은 ViewResolver를 사용해 적절한 뷰를 결정.
+11. 최종 응답이 서블릿 컨테이너를 거쳐 웹 서버로 전달.
+12. 웹 서버는 HTTP 응답을 클라이언트에게 보냄.
 
 ## 질문 & 확장
 
@@ -54,7 +71,8 @@ title: Spring 요청 처리 과정
 
 - https://velog.io/@dbrjs4594283/Spring-MVC-%EC%9A%94%EC%B2%AD-%EC%B2%98%EB%A6%AC-%EA%B3%BC%EC%A0%95feat.-Servlet-Container#41-%EC%84%9C%EB%B2%84-%EC%8B%A4%ED%96%89
 - https://programmer-may.tistory.com/161
-
+- https://12bme.tistory.com/555
+- https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-servlet/context-hierarchy.html
 ## 연결 노트
 
 - [[DispatcherServlet]]
