@@ -230,7 +230,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868378,
+                  "scale": 1.053497942386838,
                   "close": true
                 }
               },
@@ -262,8 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5,
-    "collapsed": true
+    "width": 502.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,16 +282,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "d31579ac821eee34",
   "lastOpenFiles": [
+    "영구노트/Open Closed Principle.md",
+    "영구노트/SOLID란 무엇인가.md",
+    "3.Resources/IT/객체지향/객체 지향.md",
     "Excalidraw/선분들의 다각형 생성 조건 (draw).md",
     "영구노트/프록시 패턴.md",
     "Excalidraw/Lower Bound 동작 과정 (draw).md",
     "영구노트/공부가 아니라 배움이다  by 타일러.md",
     "3.Resources/명언/명언 모음.md",
     "영구노트/Single Responsibility Principal.md",
-    "영구노트/SOLID란 무엇인가.md",
-    "3.Resources/IT/객체지향/객체 지향.md",
     "영구노트/몽키 패치.md",
     "영구노트/Java Bean Validation 소개.md",
     "3.Resources/IT/java/spring/Spring Bean Validation 총정리.md",
@@ -311,7 +311,6 @@
     "Excalidraw/단속 카메라 예제1(draw).svg",
     "Excalidraw/2차원 배열 점화식(draw).md",
     "Excalidraw/2d array constant value query (draw).svg",
-    "연습노트/Open Closed Principle.md",
     "Excalidraw/Animal is-a 관계 (draw).md",
     "Excalidraw/Animal is-a 관계 (draw).svg",
     "3.Resources/IT/java/Java 공부.md",
