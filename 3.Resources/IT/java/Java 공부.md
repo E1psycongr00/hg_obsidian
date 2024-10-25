@@ -18,7 +18,7 @@
 - [[data jpa Projection 인터페이스]]
 - [[data jpa repository 응답 타입 유연하게 쓰기]]
 - [[MapStruct 사용하기 (by java17 & Kotlin DSL)]]
--  [[Spring Bean Validation 총정리]]
+-  [[3. Spring Bean Validation 총정리]]
 - [[Spring Converter]]
 - [[Spring Formatter]]
 
