@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/IOC & DI.md",
-                "mode": "source",
+                "file": "영구노트/LCEL과 RAG.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IOC & DI"
+              "title": "LCEL과 RAG"
             }
           }
         ],
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/IOC & DI.md",
+                "file": "영구노트/LCEL과 RAG.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,7 +252,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "IOC & DI 그래프"
+              "title": "LCEL과 RAG 그래프"
             }
           }
         ],
@@ -269,10 +269,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/IOC & DI.md"
+                "file": "영구노트/LCEL과 RAG.md"
               },
               "icon": "lucide-list",
-              "title": "IOC & DI 개요"
+              "title": "LCEL과 RAG 개요"
             }
           }
         ]
@@ -302,10 +302,11 @@
   },
   "active": "4eb08b3e509a559e",
   "lastOpenFiles": [
-    "Excalidraw/간단한 카페 서비스 기획 (draw).md",
+    "3.Resources/IT/python/langchain/langchain.md",
     "연습노트/IOC & DI.md",
-    "Excalidraw/간단한 카페 서비스 기획 (draw).svg",
     "영구노트/Spring 핵심 요소.md",
+    "Excalidraw/간단한 카페 서비스 기획 (draw).md",
+    "Excalidraw/간단한 카페 서비스 기획 (draw).svg",
     "IOC",
     "attachments/screenshot/Pasted image 20241026185219.png",
     "attachments/screenshot/Pasted image 20241026183919.png",
