@@ -4,55 +4,19 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag: #JAVA  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag: #Gradle  ",
-      "color": {
-        "a": 1,
-        "rgb": 4566808
-      }
-    },
-    {
-      "query": "tag: #JS",
-      "color": {
-        "a": 1,
-        "rgb": 10578992
-      }
-    },
-    {
-      "query": "tag: #OS  ",
-      "color": {
-        "a": 1,
-        "rgb": 12719275
-      }
-    },
-    {
-      "query": "tag: #Python  ",
-      "color": {
-        "a": 1,
-        "rgb": 4475338
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -2.2,
+  "showArrow": false,
+  "textFadeMultiplier": -1.6,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 0.655670103092783,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 13.4020618556701,
-  "linkStrength": 0.881443298969072,
-  "linkDistance": 250,
-  "scale": 0.16348370567221288,
+  "repelStrength": 12.4742268041237,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4505081176758111,
   "close": false
 }

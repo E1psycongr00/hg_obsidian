@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "5be8e263004881a3",
+        "id": "31750bc97362aedf",
         "type": "tabs",
         "children": [
           {
-            "id": "a7afd7616ec98939",
+            "id": "948b9b8c16cc05a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring MVC 요청 처리 과정.md",
+                "file": "영구노트/Spring 핵심 요소.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring MVC 요청 처리 과정"
+              "title": "Spring 핵심 요소"
+            }
+          },
+          {
+            "id": "4eb08b3e509a559e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/IOC & DI.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IOC & DI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring MVC 요청 처리 과정.md",
+                "file": "연습노트/IOC & DI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,7 +252,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Spring MVC 요청 처리 과정 그래프"
+              "title": "IOC & DI 그래프"
             }
           }
         ],
@@ -253,10 +269,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring MVC 요청 처리 과정.md"
+                "file": "연습노트/IOC & DI.md"
               },
               "icon": "lucide-list",
-              "title": "Spring MVC 요청 처리 과정 개요"
+              "title": "IOC & DI 개요"
             }
           }
         ]
@@ -284,16 +300,25 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a7afd7616ec98939",
+  "active": "4eb08b3e509a559e",
   "lastOpenFiles": [
-    "Excalidraw/WAS 전체적인 구조 (draw).md",
+    "Excalidraw/간단한 카페 서비스 기획 (draw).md",
+    "연습노트/IOC & DI.md",
+    "Excalidraw/간단한 카페 서비스 기획 (draw).svg",
+    "영구노트/Spring 핵심 요소.md",
+    "IOC",
+    "attachments/screenshot/Pasted image 20241026185219.png",
+    "attachments/screenshot/Pasted image 20241026183919.png",
+    "3.Resources/IT/java/spring/1. Spring 기본.md",
     "연습노트/Spring MVC 요청 처리 과정.md",
+    "1.Projects/정적 블로그 사이트 프로젝트.md",
+    "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
+    "3.Resources/IT/객체지향/객체 지향.md",
+    "Excalidraw/WAS 전체적인 구조 (draw).md",
     "attachments/screenshot/Pasted image 20241025214957.png",
     "Excalidraw/WAS 전체적인 구조 (draw).svg",
     "Excalidraw/Spring MVC 내부 요청 처리 과정 (draw).md",
-    "3.Resources/IT/java/spring/1. Spring 기본.md",
     "3.Resources/IT/java/spring/2. Spring JDBC.md",
-    "연습노트/Spring 핵심 요소.md",
     "Excalidraw/Spring MVC 내부 요청 처리 과정 (draw).svg",
     "3.Resources/IT/java/spring/3. Spring Bean Validation 총정리.md",
     "3.Resources/IT/java/spring/4. Domain Driven Design.md",
@@ -308,19 +333,11 @@
     "연습노트/Prompting Github Copilot.md",
     "연습노트/Latex Suite 사용 방법.md",
     "영구노트/가장 중요한 것은 회복력이다 by 젠슨황.md",
-    "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
-    "1.Projects/정적 블로그 사이트 프로젝트.md",
     "연습노트/SelfQueryRetriever는 정렬 불가능 문제.md",
-    "영구노트/SelfQueryRetriever.md",
-    "영구노트/때로는 승부에서 패배해봐야  by donald trump.md",
-    "3.Resources/명언/명언 모음.md",
     "Excalidraw/세마포어 wait 호출 전 예시(draw).svg",
     "Excalidraw/병렬로 연결한 유전체 전속(draw).svg",
     "Excalidraw/링크드 리스트 노드 쪼개기(draw).svg",
     "Excalidraw/대충네이밍을지은DomainService (draw).svg",
-    "Excalidraw/단속 카메라 원리1(draw).svg",
-    "Excalidraw/단속 카메라 예제1(draw).svg",
-    "Excalidraw/2d array constant value query (draw).svg",
     "3.Resources/IT/객체지향/무제 폴더",
     "Excalidraw/ttf/SD미생@던디.ttf",
     "Excalidraw/ttf/Jalnan2TTF.ttf",
@@ -330,7 +347,6 @@
     "attachments/pdf",
     "3.Resources/IT/csharp",
     "3.Resources/IT/python/langchain",
-    "3.Resources/IT/python",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
