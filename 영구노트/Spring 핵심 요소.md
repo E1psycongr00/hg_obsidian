@@ -47,7 +47,7 @@ Spring은 엄청나게 많은 기능을 제공하는 프레임워크이지만, �
 Spring은 POJO 프로그래밍을 지향하며, POJO 프로그래밍을 지원하기 위해 **IOC/DI**, **AOP**, **PSA** 와 같은 기술을 제공한다.
 
 >[!help]
->IOC/DI는 (Inversion of Control / Dependency Injection, 제어의 역전 / 의존성 주입으로 결합도를 낮추고, 주입에 필요한 객체의 인스턴스를 bean으로 효과적으로 관리하는 기술이다.
+>[[IOC & DI|IOC/DI]]는 (Inversion of Control / Dependency Injection, 제어의 역전 / 의존성 주입으로 결합도를 낮추고, 주입에 필요한 객체의 인스턴스를 bean으로 효과적으로 관리하는 기술이다.
 
 >[!help]
 >AOP는 (Aspect Oriented Programming, 관심지향 프로그래밍)으로 로직에는 공통 로직과 핵심 비즈니스 로직이 있는데 이들을 분리하여 효과적으로 코드를 짤 수 있게 해주는 기술이다.

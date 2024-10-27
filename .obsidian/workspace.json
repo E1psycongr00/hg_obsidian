@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring MVC 요청 처리 과정.md",
+                "file": "영구노트/Spring 핵심 요소.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring MVC 요청 처리 과정"
+              "title": "Spring 핵심 요소"
             }
           }
         ]
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Spring MVC 요청 처리 과정.md",
+                "file": "영구노트/Spring 핵심 요소.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Spring MVC 요청 처리 과정 그래프"
+              "title": "Spring 핵심 요소 그래프"
             }
           }
         ],
@@ -252,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Spring MVC 요청 처리 과정.md"
+                "file": "영구노트/Spring 핵심 요소.md"
               },
               "icon": "lucide-list",
-              "title": "Spring MVC 요청 처리 과정 개요"
+              "title": "Spring 핵심 요소 개요"
             }
           }
         ]
@@ -285,11 +285,11 @@
   },
   "active": "40cee992e1481549",
   "lastOpenFiles": [
-    "3.Resources/IT/java/spring/1. Spring 기본.md",
+    "영구노트/IOC & DI.md",
     "영구노트/Spring 핵심 요소.md",
-    "연습노트/IOC & DI.md",
-    "연습노트/Spring MVC 요청 처리 과정.md",
+    "3.Resources/IT/java/spring/1. Spring 기본.md",
     "연습노트/프론트 컨트롤러 패턴.md",
+    "연습노트/Spring MVC 요청 처리 과정.md",
     "attachments/screenshot/Pasted image 20241027154644.png",
     "Excalidraw/프론트 컨트롤러 도입 후 (draw).md",
     "Excalidraw/프론트 컨트롤러 도입 전 (draw).md",
