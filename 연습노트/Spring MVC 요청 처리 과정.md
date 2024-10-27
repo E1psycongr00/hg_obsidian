@@ -25,6 +25,8 @@ title: Spring 요청 처리 과정
 
 ![[Spring MVC 내부 요청 처리 과정 (draw).svg]]
 
+Spring MVC 요청 과정은 DIspatcher Servlet의 역할을 이해하면된다. Dispatcher Servlet은 [[프론트 컨트롤러 패턴]]이다.
+
 1. **클라이언트 요청**
 	- 클라이언트가 브라우저 또는 모바일 등을 이용해서 특정 URL로 HTTP Request를 보낸다.
 
@@ -60,9 +62,10 @@ title: Spring 요청 처리 과정
 - https://programmer-may.tistory.com/161
 - https://12bme.tistory.com/555
 - https://docs.spring.io/spring-framework/reference/web/webmvc/mvc-servlet/context-hierarchy.html
+
 ## 연결 노트
 
-
+- [[프론트 컨트롤러 패턴]]
 
 
 
