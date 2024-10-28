@@ -120,6 +120,8 @@ pointcut expression을 위해 AspectJ의 다양한 포인트컷 지정자를 지
 - https://blog.leaphop.co.kr/blogs/54/Spring_Core_Technolohies_2__AOP__2___AspectJ%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%B4_Aspect_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
 - https://velog.io/@smc2315/spring-aop#33-aspect%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-aop-%EC%82%AC%EC%9A%A9
 - https://www.baeldung.com/spring-aop-vs-aspectj
+
+
 ## 연결 노트
 
 
