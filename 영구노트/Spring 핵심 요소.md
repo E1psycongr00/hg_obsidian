@@ -50,7 +50,7 @@ Spring은 POJO 프로그래밍을 지향하며, POJO 프로그래밍을 지원�
 >[[IOC & DI|IOC/DI]]는 (Inversion of Control / Dependency Injection, 제어의 역전 / 의존성 주입으로 결합도를 낮추고, 주입에 필요한 객체의 인스턴스를 bean으로 효과적으로 관리하는 기술이다.
 
 >[!help]
->AOP는 (Aspect Oriented Programming, 관심지향 프로그래밍)으로 로직에는 공통 로직과 핵심 비즈니스 로직이 있는데 이들을 분리하여 효과적으로 코드를 짤 수 있게 해주는 기술이다.
+>[[Aspect Oriented Programming|AOP]]는 (Aspect Oriented Programming, 관심지향 프로그래밍)으로 로직에는 공통 로직과 핵심 비즈니스 로직이 있는데 이들을 분리하여 효과적으로 코드를 짤 수 있게 해주는 기술이다.
 
 >[!help]
 >[[Portable Service Abstraction|PSA]]는 (Portable Service Abstraction, 일관된 서비스 추상화)를 제공하는데 일관된 인터페이스를 활용해 여러 기술들을 쉽게 적용하여 사용할 수 있다.
@@ -68,6 +68,7 @@ Spring은 POJO 프로그래밍을 지향하며, POJO 프로그래밍을 지원�
 ## 연결 노트
 
 - [[IOC & DI]]
+- [[Aspect Oriented Programming|AOP]]
 - [[Portable Service Abstraction|PSA]]
 - [[Spring Boot]]
 

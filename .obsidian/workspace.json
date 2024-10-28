@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/spring/1. Spring 기본.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Spring 기본"
-            }
-          },
-          {
-            "id": "dfc0b2893a7acc51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Aspect Oriented Programming.md",
+                "file": "영구노트/Aspect Oriented Programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Aspect Oriented Programming"
+            }
+          },
+          {
+            "id": "e3ecefd6d865257d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Spring AspectJ.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring AspectJ"
             }
           }
         ],
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Aspect Oriented Programming.md",
+                "file": "연습노트/Spring AspectJ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Aspect Oriented Programming 그래프"
+              "title": "Spring AspectJ 그래프"
             }
           }
         ],
@@ -268,10 +268,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Aspect Oriented Programming.md"
+                "file": "연습노트/Spring AspectJ.md"
               },
               "icon": "lucide-list",
-              "title": "Aspect Oriented Programming 개요"
+              "title": "Spring AspectJ 개요"
             }
           }
         ]
@@ -298,10 +298,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "dfc0b2893a7acc51",
+  "active": "e3ecefd6d865257d",
   "lastOpenFiles": [
+    "영구노트/Aspect Oriented Programming.md",
+    "연습노트/Spring AspectJ.md",
     "3.Resources/IT/java/spring/1. Spring 기본.md",
-    "연습노트/Aspect Oriented Programming.md",
+    "영구노트/Spring 핵심 요소.md",
+    "attachments/screenshot/Pasted image 20241028193607.png",
+    "attachments/screenshot/Pasted image 20241028193526.png",
     "3.Resources/IT/java/spring/4. Domain Driven Design.md",
     "3.Resources/IT/java/java 배열 사용법.md",
     "3.Resources/IT/java/Java 문법.md",
@@ -315,7 +319,6 @@
     "3.Resources/IT/java/Java Annotation.md",
     "3.Resources/IT/java/Java 버전별 특징.md",
     "3.Resources/IT/java/표준 Java Error.md",
-    "영구노트/Spring 핵심 요소.md",
     "연습노트/Portable Service Abstraction.md",
     "Excalidraw/PSA 추상화 구조 (draw).md",
     "Excalidraw/PSA 추상화 구조 (draw).svg",
@@ -329,14 +332,11 @@
     "Excalidraw/프론트 컨트롤러 도입 후 (draw).svg",
     "Excalidraw/프론트 컨트롤러 도입 전 (draw).svg",
     "영구노트/HttpHandler.md",
-    "영구노트/HttpServer.md",
     "attachments/screenshot/Pasted image 20241026234812.png",
     "attachments/screenshot/Pasted image 20241026234627.png",
     "attachments/screenshot/Pasted image 20241026234611.png",
     "attachments/screenshot/Pasted image 20241026234140.png",
-    "Excalidraw/간단한 카페 서비스 기획 (draw).svg",
     "IOC",
-    "attachments/screenshot/Pasted image 20241026185219.png",
     "3.Resources/IT/객체지향/무제 폴더",
     "Excalidraw/ttf/SD미생@던디.ttf",
     "Excalidraw/ttf/Jalnan2TTF.ttf",
