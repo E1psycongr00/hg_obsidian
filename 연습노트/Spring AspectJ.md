@@ -103,7 +103,7 @@ Pointcut 어노테이션을 활용하면 메서드에 Pointcut를 할당할 수 
 
 #### PCD (PointCut Designators)
 
-pointcut expression을 위해 AspectJ의 다양한 포인트컷 지정자를 지원한다.
+pointcut expression을 위해 AspectJ의 다양한 포인트컷 지시자를 지원한다.
 
 **execution** : 메서드 실행 join point와 일치시킴
 
