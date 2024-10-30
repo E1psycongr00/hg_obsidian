@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 공부",
+      "path": "3.Resources/IT/java/Java 공부.md"
+    },
+    {
+      "basename": "java.nio.file.Files 사용하기",
+      "path": "영구노트/java.nio.file.Files 사용하기.md"
+    },
+    {
+      "basename": "CRA 와 Typescript 프로젝트 생성하기",
+      "path": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md"
+    },
+    {
+      "basename": "객체 분해 할당",
+      "path": "영구노트/객체 분해 할당.md"
+    },
+    {
       "basename": "CSharp 기본",
       "path": "3.Resources/IT/csharp/CSharp 기본.md"
     },
     {
+      "basename": "CSharp 프로퍼티",
+      "path": "연습노트/CSharp 프로퍼티.md"
+    },
+    {
+      "basename": "CSharp 반복기",
+      "path": "영구노트/CSharp 반복기.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "3.Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘/알고리즘.md"
+    },
+    {
+      "basename": "Spring AspectJ PointCut",
+      "path": "영구노트/Spring AspectJ PointCut.md"
+    },
+    {
       "basename": "Spring AspectJ",
-      "path": "연습노트/Spring AspectJ.md"
+      "path": "영구노트/Spring AspectJ.md"
+    },
+    {
+      "basename": "Aspect Oriented Programming",
+      "path": "영구노트/Aspect Oriented Programming.md"
+    },
+    {
+      "basename": "1. Spring 기본",
+      "path": "3.Resources/IT/java/spring/1. Spring 기본.md"
+    },
+    {
+      "basename": "4. Domain Driven Design",
+      "path": "3.Resources/IT/java/spring/4. Domain Driven Design.md"
+    },
+    {
+      "basename": "3. Spring Bean Validation 총정리",
+      "path": "3.Resources/IT/java/spring/3. Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "2. Spring JDBC",
+      "path": "3.Resources/IT/java/spring/2. Spring JDBC.md"
     },
     {
       "basename": "AspectJ Order 순서 (draw)",
       "path": "Excalidraw/AspectJ Order 순서 (draw).md"
-    },
-    {
-      "basename": "Spring AspectJ PointCut",
-      "path": "연습노트/Spring AspectJ PointCut.md"
     },
     {
       "basename": "PointCut의 역할 (draw)",
@@ -27,10 +83,6 @@
     {
       "basename": "IOC & DI",
       "path": "영구노트/IOC & DI.md"
-    },
-    {
-      "basename": "1. Spring 기본",
-      "path": "3.Resources/IT/java/spring/1. Spring 기본.md"
     },
     {
       "basename": "프론트 컨트롤러 패턴",
@@ -47,58 +99,6 @@
     {
       "basename": "프론트 컨트롤러 도입 전 (draw)",
       "path": "Excalidraw/프론트 컨트롤러 도입 전 (draw).md"
-    },
-    {
-      "basename": "WebServlet 어노테이션",
-      "path": "영구노트/WebServlet 어노테이션.md"
-    },
-    {
-      "basename": "WAS 전체적인 구조 (draw)",
-      "path": "Excalidraw/WAS 전체적인 구조 (draw).md"
-    },
-    {
-      "basename": "Spring MVC 내부 요청 처리 과정 (draw)",
-      "path": "Excalidraw/Spring MVC 내부 요청 처리 과정 (draw).md"
-    },
-    {
-      "basename": "2. Spring JDBC",
-      "path": "3.Resources/IT/java/spring/2. Spring JDBC.md"
-    },
-    {
-      "basename": "Spring 핵심 요소",
-      "path": "연습노트/Spring 핵심 요소.md"
-    },
-    {
-      "basename": "3. Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/spring/3. Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "4. Domain Driven Design",
-      "path": "3.Resources/IT/java/spring/4. Domain Driven Design.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "JOOQ Code Generator With Gradle",
-      "path": "연습노트/JOOQ Code Generator With Gradle.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
     }
   ],
   "omittedPaths": [],

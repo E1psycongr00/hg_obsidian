@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md",
-                "mode": "preview",
+                "file": "3.Resources/IT/java/Java 공부.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSharp 기본"
+              "title": "Java 공부"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pointcut의",
+                "query": "iterable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md",
+                "file": "3.Resources/IT/java/Java 공부.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "CSharp 기본 그래프"
+              "title": "Java 공부 그래프"
             }
           }
         ],
@@ -252,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/csharp/CSharp 기본.md"
+                "file": "3.Resources/IT/java/Java 공부.md"
               },
               "icon": "lucide-list",
-              "title": "CSharp 기본 개요"
+              "title": "Java 공부 개요"
             }
           }
         ]
@@ -284,36 +284,37 @@
   },
   "active": "506fa5676f7031c2",
   "lastOpenFiles": [
-    "연습노트/Spring AspectJ.md",
-    "Excalidraw/AspectJ Order 순서 (draw).md",
-    "Excalidraw/AspectJ Order 순서 (draw).svg",
-    "연습노트/Spring AspectJ PointCut.md",
-    "Excalidraw/PointCut의 역할 (draw).md",
-    "Excalidraw/PointCut의 역할 (draw).svg",
+    "영구노트/java.nio.file.Files 사용하기.md",
+    "영구노트/CRA 와 Typescript 프로젝트 생성하기.md",
+    "영구노트/객체 분해 할당.md",
+    "3.Resources/IT/java/Java 공부.md",
+    "3.Resources/IT/csharp/CSharp 기본.md",
+    "연습노트/CSharp 프로퍼티.md",
+    "영구노트/CSharp 반복기.md",
+    "3.Resources/IT/운영체제/동기화 모음.md",
+    "3.Resources/IT/운영체제/동기 IO Models.md",
+    "3.Resources/IT/알고리즘/알고리즘.md",
+    "영구노트/Spring AspectJ PointCut.md",
+    "영구노트/Spring AspectJ.md",
     "영구노트/Aspect Oriented Programming.md",
     "3.Resources/IT/java/spring/1. Spring 기본.md",
+    "3.Resources/IT/java/spring/4. Domain Driven Design.md",
+    "3.Resources/IT/java/spring/3. Spring Bean Validation 총정리.md",
+    "3.Resources/IT/java/spring/2. Spring JDBC.md",
+    "Excalidraw/AspectJ Order 순서 (draw).md",
+    "Excalidraw/AspectJ Order 순서 (draw).svg",
+    "Excalidraw/PointCut의 역할 (draw).md",
+    "Excalidraw/PointCut의 역할 (draw).svg",
     "영구노트/Spring 핵심 요소.md",
     "attachments/screenshot/Pasted image 20241028193607.png",
     "attachments/screenshot/Pasted image 20241028193526.png",
-    "3.Resources/IT/java/spring/4. Domain Driven Design.md",
     "3.Resources/IT/java/java 배열 사용법.md",
     "3.Resources/IT/java/Java 문법.md",
-    "3.Resources/IT/java/Java 공부.md",
     "3.Resources/IT/java/Gradle 공부.md",
     "3.Resources/IT/java/JOOQ.md",
     "영구노트/JOOQ 소개.md",
     "영구노트/JOOQ 기본 세팅하기.md",
-    "3.Resources/IT/java/Java의 기본 구조.md",
-    "3.Resources/IT/java/java-vscode.md",
-    "3.Resources/IT/java/Java Annotation.md",
-    "3.Resources/IT/java/Java 버전별 특징.md",
-    "3.Resources/IT/java/표준 Java Error.md",
-    "연습노트/Portable Service Abstraction.md",
-    "Excalidraw/PSA 추상화 구조 (draw).md",
     "Excalidraw/PSA 추상화 구조 (draw).svg",
-    "영구노트/IOC & DI.md",
-    "연습노트/프론트 컨트롤러 패턴.md",
-    "연습노트/Spring MVC 요청 처리 과정.md",
     "attachments/screenshot/Pasted image 20241027154644.png",
     "Excalidraw/프론트 컨트롤러 도입 후 (draw).svg",
     "Excalidraw/프론트 컨트롤러 도입 전 (draw).svg",
