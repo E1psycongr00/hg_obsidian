@@ -101,13 +101,21 @@ pointcut은 원하는 Joinpoint를 결정하여 Advice가 실행되는 시기를
 
 Pointcut 어노테이션을 활용하면 메서드에 Pointcut를 할당할 수 있다.
 
-#### PCD (PointCut Designators)
+자세한 포인트 컷 사용은 [[Spring AspectJ PointCut|PointCut]] 을 참고하자
 
-pointcut expression을 위해 AspectJ의 다양한 포인트컷 지시자를 지원한다.
+```java
 
-**execution** : 메서드 실행 join point와 일치시킴
+@Aspect
+@Component
+public class AuthenticationAspect {
+    
+    // Pointcut 정의
+    @Pointcut("@annotation(com.example.spring_test.annotation.RequireAuthentication)")
+    public void authenticatedOperation() {}
+}
+```
 
-**within**: 특정 타입 내의 메소드 실행 join point와 일치시킴
+#### Advice 선언하기
 
 
 ## 질문 & 확장
@@ -124,7 +132,7 @@ pointcut expression을 위해 AspectJ의 다양한 포인트컷 지시자를 지
 
 ## 연결 노트
 
-
+- [[Spring AspectJ PointCut|PointCut]]
 
 
 

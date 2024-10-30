@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring AspectJ",
+      "path": "연습노트/Spring AspectJ.md"
+    },
+    {
+      "basename": "Spring AspectJ PointCut",
+      "path": "연습노트/Spring AspectJ PointCut.md"
+    },
+    {
+      "basename": "PointCut의 역할 (draw)",
+      "path": "Excalidraw/PointCut의 역할 (draw).md"
+    },
+    {
       "basename": "Spring 핵심 요소",
       "path": "영구노트/Spring 핵심 요소.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "Query Translation",
       "path": "영구노트/Query Translation.md"
-    },
-    {
-      "basename": "가장 중요한 것은 회복력이다 by 젠슨황",
-      "path": "영구노트/가장 중요한 것은 회복력이다 by 젠슨황.md"
-    },
-    {
-      "basename": "유튜브 댓글 분석 기반 챗봇",
-      "path": "1.Projects/유튜브 댓글 분석 기반 챗봇.md"
-    },
-    {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
     }
   ],
   "omittedPaths": [],
