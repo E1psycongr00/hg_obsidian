@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CSharp 기본",
+      "path": "3.Resources/IT/csharp/CSharp 기본.md"
+    },
+    {
       "basename": "Spring AspectJ",
       "path": "연습노트/Spring AspectJ.md"
+    },
+    {
+      "basename": "AspectJ Order 순서 (draw)",
+      "path": "Excalidraw/AspectJ Order 순서 (draw).md"
     },
     {
       "basename": "Spring AspectJ PointCut",
@@ -91,14 +99,6 @@
     {
       "basename": "Git 핵심 명령어",
       "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "Query Translation",
-      "path": "영구노트/Query Translation.md"
     }
   ],
   "omittedPaths": [],

@@ -117,6 +117,64 @@ public class AuthenticationAspect {
 
 #### Advice 선언하기
 
+```java
+
+@Aspect
+@Component
+public class AuthenticationAspect {
+    
+    // Pointcut 정의
+    @Pointcut("@annotation(com.example.spring_test.annotation.RequireAuthentication)")
+    public void authenticatedOperation() {}
+    
+    // Before 어드바이스에서 Pointcut 참조
+    @Before("authenticatedOperation()")
+    public void checkAuthentication(JoinPoint joinPoint) {
+        Object[] args = joinPoint.getArgs();
+        for (Object arg : args) {
+            if (arg instanceof User) {
+                User user = (User) arg;
+                if (!user.isAuthenticated()) {
+                    throw new RuntimeException("login failed");
+                }
+                return;
+            }
+        }
+    }
+}
+```
+
+AspectJ에서는 advice를 다섯 가지 유형으로 나눈다.
+
+|**유형**|**실행 시점**|
+|---|---|
+|Before|조인 포인트 실행 전|
+|AfterReturning|조인 포인트가 성공적으로 실행된 후|
+|AfterThrowing|조인 포인트에서 예외가 발생한 후|
+|AfterAdvice|(성공/예외 상관없이) 조인 포인트 실행 후|
+|AroundAdvice|조인 포인트 실행 전과 후에 실행 (조인 포인트를 감싸는 코드 블록)|
+
+#### Aspect 순서 정하기
+
+Aspect 모듈은 클래스에 @Order(Number)를 이용해서 순서를 정해줄 수 있다. Order은 프록시가 감싸는 순서이다.
+
+![[AspectJ Order 순서 (draw).svg]]
+
+그래서 Before, After 관계도 Proxy 감싼 경우를 생각해봐야 한다.
+
+```text
+클라이언트 호출
+-> @Order(2) Before 어드바이스
+-> @Order(1) Before 어드바이스
+-> 타겟 메소드 실행
+-> @Order(1) After 어드바이스
+-> @Order(2) After 어드바이스
+-> 클라이언트에 결과 반환
+```
+
+>[!tip]
+>- 우선순위 : @Around, @Before, @After, @AfterReturning, @AfterThrowing.
+>    - 단 실제 실행 순서는 @Around, @Before, (@AfterThrowing, @AfterReturning,) @After 이다.
 
 ## 질문 & 확장
 
