@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md",
+                "file": "3.Resources/IT/java/java-vscode.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 공부"
+              "title": "java-vscode"
             }
           }
         ]
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md",
+                "file": "3.Resources/IT/java/java-vscode.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Java 공부 그래프"
+              "title": "java-vscode 그래프"
             }
           }
         ],
@@ -252,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/java/Java 공부.md"
+                "file": "3.Resources/IT/java/java-vscode.md"
               },
               "icon": "lucide-list",
-              "title": "Java 공부 개요"
+              "title": "java-vscode 개요"
             }
           }
         ]
@@ -284,9 +284,11 @@
   },
   "active": "506fa5676f7031c2",
   "lastOpenFiles": [
+    "영구노트/java-vscode-setting-json.md",
     "3.Resources/IT/java/java-vscode.md",
+    "영구노트/java vscode format 세팅.md",
+    "attachments/screenshot/Pasted image 20241031193037.png",
     "3.Resources/IT/java/Java 공부.md",
-    "연습노트/java vscode format 세팅.md",
     "attachments/screenshot/Pasted image 20241031173551.png",
     "영구노트/JOOQ 기본 세팅하기.md",
     "3.Resources/IT/java/JOOQ.md",
@@ -309,7 +311,6 @@
     "영구노트/CSharp 반복기.md",
     "3.Resources/IT/운영체제/동기화 모음.md",
     "3.Resources/IT/운영체제/동기 IO Models.md",
-    "3.Resources/IT/알고리즘/알고리즘.md",
     "Excalidraw/AspectJ Order 순서 (draw).svg",
     "Excalidraw/PointCut의 역할 (draw).svg",
     "attachments/screenshot/Pasted image 20241028193607.png",
@@ -318,7 +319,6 @@
     "attachments/screenshot/Pasted image 20241027154644.png",
     "Excalidraw/프론트 컨트롤러 도입 후 (draw).svg",
     "Excalidraw/프론트 컨트롤러 도입 전 (draw).svg",
-    "attachments/screenshot/Pasted image 20241026234812.png",
     "IOC",
     "3.Resources/IT/객체지향/무제 폴더",
     "Excalidraw/ttf/SD미생@던디.ttf",
