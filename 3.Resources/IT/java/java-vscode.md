@@ -17,4 +17,4 @@ title: java-vscode
 ### vscode or cursor ide 환경 셋팅
 
 - [[vscode java 패키지 import 제대로 안되는 경우 해결방법]]
-- 
+-  [[java vscode format 세팅]]
