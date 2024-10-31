@@ -24,12 +24,6 @@ Spring Boot에서 JOOQ 의존성을 쉽게 등록할 수 있다.
 ```kotlin
 dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-jooq")
-	implementation("org.springframework.boot:spring-boot-starter-web")
-	compileOnly("org.projectlombok:lombok")
-	runtimeOnly("com.h2database:h2")
-	annotationProcessor("org.projectlombok:lombok")
-	testImplementation("org.springframework.boot:spring-boot-starter-test")
-	testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
 ```
 
