@@ -63,7 +63,6 @@ Java SE 11부터 Oracle JDK의 독점 기능이 Open JDK에 이식된다. 이것
 - [[Java 배포판(distribution) (Oracle JDK vs Open JDK)]]
 - [[무료와 독점 JDK 모음]]
 - [[No - Op GC (Epsilon 가비지 컬렉터)]]
-- [[Project Jigsaw]]
 - [[자바 9 ~ 11 이전까지 과정]]
 
 
