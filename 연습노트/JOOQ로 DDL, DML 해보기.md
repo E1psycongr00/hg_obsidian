@@ -1,6 +1,8 @@
 ---
 tags:
   - 미완
+  - JAVA
+  - JOOQ
 aliases: 
 date: 2024-11-01
 title: JOOQ로 DDL, DML 해보기
@@ -11,6 +13,8 @@ title: JOOQ로 DDL, DML 해보기
 
 ----
 ## 내용(Content)
+
+### JOOQ로 DDL 작성하기
 
 
 ## 질문 & 확장
