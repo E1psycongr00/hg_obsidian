@@ -20,4 +20,4 @@ title: JOOQ
 
 - [[JOOQ 소개]]
 - [[JOOQ 기본 세팅하기]]
-- 
+- [[JOOQ로 DDL, DML 해보기]]
