@@ -14,7 +14,7 @@ title: JOOQ로 DDL, DML 해보기
 ----
 ## 내용(Content)
 
-### JOOQ로 DDL 작성하기
+### JOOQ로 테이블 작성하기
 
 
 
