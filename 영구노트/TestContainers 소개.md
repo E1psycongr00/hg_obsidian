@@ -1,6 +1,9 @@
 ---
 tags:
-  - 미완
+  - 완성
+  - JAVA
+  - 테스트
+  - TestContainer
 aliases: 
 date: 2024-11-04
 title: TestContainers 소개
