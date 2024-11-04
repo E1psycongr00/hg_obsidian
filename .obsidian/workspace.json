@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/framework_library/TestContainers.md",
+                "file": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TestContainers"
-            }
-          },
-          {
-            "id": "ff0feb1286a1ed41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/ㅣㄴ 동.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ㅣㄴ 동"
+              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/ㅣㄴ 동.md",
+                "file": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "ㅣㄴ 동 그래프"
+              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기 그래프"
             }
           }
         ],
@@ -268,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/ㅣㄴ 동.md"
+                "file": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md"
               },
               "icon": "lucide-list",
-              "title": "ㅣㄴ 동 개요"
+              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기 개요"
             }
           }
         ]
@@ -298,11 +282,23 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ff0feb1286a1ed41",
+  "active": "506fa5676f7031c2",
   "lastOpenFiles": [
     "3.Resources/IT/java/framework_library/TestContainers.md",
+    "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
+    "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
+    "3.Resources/IT/java/framework_library/JOOQ.md",
+    "영구노트/Junit5와 TestContainer를 이용한 생명주기 관리.md",
+    "Excalidraw/Abstract + 싱글턴 패턴 테스트 컨테이너 (draw).md",
+    "Excalidraw/Abstract + 싱글턴 패턴 테스트 컨테이너 (draw).svg",
+    "영구노트/race condition.md",
+    "영구노트/DeadLock.md",
+    "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+    "Excalidraw/클래스 단위 클래스 컨테이너 (draw).md",
+    "Excalidraw/클래스 단위 클래스 컨테이너 (draw).svg",
+    "Excalidraw/메서드 기반 테스트 컨테이너 (draw).md",
+    "Excalidraw/메서드 기반 테스트 컨테이너 (draw).svg",
     "영구노트/TestContainers 소개.md",
-    "연습노트/ㅣㄴ 동.md",
     "3.Resources/IT/java/Java 공부.md",
     "attachments/screenshot/Pasted image 20241104160141.png",
     "3.Resources/IT/java/10. java 배열 사용법.md",
@@ -315,29 +311,17 @@
     "3.Resources/IT/java/2. Gradle 공부.md",
     "3.Resources/IT/java/3. Java 문법.md",
     "3.Resources/IT/java/framework_library/TestContainers",
-    "3.Resources/IT/java/framework_library/JOOQ.md",
     "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md",
     "영구노트/Java 배열 정의.md",
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
     "영구노트/Java 시간 관련 라이브러리 다루기.md",
-    "영구노트/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md",
-    "영구노트/java-vscode-setting-json.md",
     "3.Resources/IT/java/framework_library",
-    "연습노트/JOOQ로 테스트시 DDL.md",
-    "영구노트/java 11 특징.md",
-    "영구노트/java vscode format 세팅.md",
     "attachments/screenshot/Pasted image 20241031193037.png",
     "attachments/screenshot/Pasted image 20241031173551.png",
-    "영구노트/JOOQ 기본 세팅하기.md",
-    "영구노트/JOOQ 소개.md",
-    "영구노트/Java List 유틸 메서드 by Collections.md",
     "Excalidraw/AspectJ Order 순서 (draw).svg",
     "Excalidraw/PointCut의 역할 (draw).svg",
     "attachments/screenshot/Pasted image 20241028193607.png",
     "attachments/screenshot/Pasted image 20241028193526.png",
-    "Excalidraw/PSA 추상화 구조 (draw).svg",
-    "attachments/screenshot/Pasted image 20241027154644.png",
-    "Excalidraw/프론트 컨트롤러 도입 후 (draw).svg",
     "IOC",
     "3.Resources/IT/객체지향/무제 폴더",
     "Excalidraw/ttf/SD미생@던디.ttf",
