@@ -2,8 +2,8 @@
 
 ### java 문법 & 클래스 & 메서드
 
-- [[Java 파일 다루기]]
-- [[Java List 유틸 메서드 by Collections]]
+
+
 
 ### 테스트 관련
 
@@ -12,9 +12,8 @@
 
 ### 프레임 워크 or Library
 
-- [[Java 시간 관련 라이브러리 다루기]]
-- [[java.nio.file.Files 사용하기]]
-- [[java.nio.file.Path 사용하기]]
+
+
 - [[Querydsl 소개]]
 - [[data jpa Projection 인터페이스]]
 - [[data jpa repository 응답 타입 유연하게 쓰기]]
