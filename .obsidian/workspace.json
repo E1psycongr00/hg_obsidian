@@ -8,28 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "336214b69e1fbeec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2"
-            }
-          },
-          {
-            "id": "3f23fca36d04d9ad",
+            "id": "0047cd5c897e8127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -37,8 +22,7 @@
               "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 502.5
+    "width": 501.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,14 +282,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "3f23fca36d04d9ad",
+  "active": "0047cd5c897e8127",
   "lastOpenFiles": [
+    "3.Resources/IT/객체지향/객체 지향.md",
+    "연습노트/팩토리 패턴.md",
+    "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
     "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2.md",
     "3.Resources/IT/java/framework_library/JOOQ.md",
     "영구노트/JOOQ 기본 세팅하기.md",
     "연습노트/JOOQ로 테스트시 DDL.md",
     "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
-    "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
     "3.Resources/IT/java/framework_library/TestContainers.md",
     "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "연습노트/record로 configuration property 생성하기.md",
@@ -329,8 +315,6 @@
     "3.Resources/IT/java/6. java-vscode.md",
     "3.Resources/IT/java/5. Java Annotation.md",
     "3.Resources/IT/java/4. Java 버전별 특징.md",
-    "3.Resources/IT/java/1. Java의 기본 구조.md",
-    "3.Resources/IT/java/2. Gradle 공부.md",
     "3.Resources/IT/java/framework_library/TestContainers",
     "3.Resources/IT/java/framework_library",
     "attachments/screenshot/Pasted image 20241031193037.png",
