@@ -195,3 +195,5 @@ class ContainerTest extends AbstractDbContainerTest {
 
 
 ## 연결 노트
+
+- [[yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2| Spring bean을 이용해 DB를 동적으로 관리하는 개선된 코드]]

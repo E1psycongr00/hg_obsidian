@@ -51,6 +51,25 @@ public class ContainerTest {
 }
 ```
 
+만약 테스트를 가볍게 하기 위해서 `@SpringBoot`가 아닌 `@ExtendWith`를 사용하는 경우 다음과 같이 선언하면 된다.
+
+
+```java
+@ExtendWith(SpringExtension.class)
+@ContextConfiguration(initializers = ConfigDataApplicationContextInitializer.class)
+@ActiveProfiles("test")
+@EnableConfigurationProperties(TestDatabaseProperties.class)
+public class ContainerTest {
+    
+    @Autowired
+    private TestDatabaseProperties dbProperties;
+
+    @Test
+    void test() {
+        System.out.println(dbProperties);
+    }
+}
+```
 ## 질문 & 확장
 
 (없음)

@@ -13,28 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
+                "file": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Spring 기본"
+              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2"
             }
           },
           {
-            "id": "5a5f0f0f6f6495f8",
+            "id": "3f23fca36d04d9ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/record로 configuration property 생성하기.md",
+                "file": "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "record로 configuration property 생성하기"
+              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기"
             }
           }
         ],
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/record로 configuration property 생성하기.md",
+                "file": "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "record로 configuration property 생성하기 그래프"
+              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기 그래프"
             }
           }
         ],
@@ -268,10 +268,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/record로 configuration property 생성하기.md"
+                "file": "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md"
               },
               "icon": "lucide-list",
-              "title": "record로 configuration property 생성하기 개요"
+              "title": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기 개요"
             }
           }
         ]
@@ -298,15 +298,18 @@
       "media-extended:Open media": false
     }
   },
-  "active": "5a5f0f0f6f6495f8",
+  "active": "3f23fca36d04d9ad",
   "lastOpenFiles": [
+    "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2.md",
+    "3.Resources/IT/java/framework_library/JOOQ.md",
+    "영구노트/JOOQ 기본 세팅하기.md",
+    "연습노트/JOOQ로 테스트시 DDL.md",
+    "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
+    "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
+    "3.Resources/IT/java/framework_library/TestContainers.md",
     "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "연습노트/record로 configuration property 생성하기.md",
-    "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
     "attachments/screenshot/Pasted image 20241105170020.png",
-    "3.Resources/IT/java/framework_library/TestContainers.md",
-    "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
-    "3.Resources/IT/java/framework_library/JOOQ.md",
     "영구노트/Junit5와 TestContainer를 이용한 생명주기 관리.md",
     "Excalidraw/Abstract + 싱글턴 패턴 테스트 컨테이너 (draw).md",
     "Excalidraw/Abstract + 싱글턴 패턴 테스트 컨테이너 (draw).svg",
@@ -328,10 +331,7 @@
     "3.Resources/IT/java/4. Java 버전별 특징.md",
     "3.Resources/IT/java/1. Java의 기본 구조.md",
     "3.Resources/IT/java/2. Gradle 공부.md",
-    "3.Resources/IT/java/3. Java 문법.md",
     "3.Resources/IT/java/framework_library/TestContainers",
-    "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md",
-    "영구노트/Java 배열 정의.md",
     "3.Resources/IT/java/framework_library",
     "attachments/screenshot/Pasted image 20241031193037.png",
     "attachments/screenshot/Pasted image 20241031173551.png",
