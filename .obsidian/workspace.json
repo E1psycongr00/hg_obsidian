@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -281,8 +281,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "506fa5676f7031c2",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20241105170020.png",
     "3.Resources/IT/java/framework_library/TestContainers.md",
     "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
     "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
@@ -313,7 +314,6 @@
     "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md",
     "영구노트/Java 배열 정의.md",
     "영구노트/클래스의 테스트 커버리지가 채워지지 않는 경우 해결법.md",
-    "영구노트/Java 시간 관련 라이브러리 다루기.md",
     "3.Resources/IT/java/framework_library",
     "attachments/screenshot/Pasted image 20241031193037.png",
     "attachments/screenshot/Pasted image 20241031173551.png",
