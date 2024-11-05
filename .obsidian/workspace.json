@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "프로세스 오버헤드",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -282,7 +281,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "506fa5676f7031c2",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "3.Resources/IT/java/framework_library/TestContainers.md",
     "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
