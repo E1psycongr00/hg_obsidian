@@ -47,15 +47,12 @@ jobs:
     - name: Install dependencies
       run: |
         poetry install
-    - name: Lint with Ruff
-      run: |
-        poetry run ruff check .
     - name: Run tests
       run: |
         poetry run python -m unittest discover -v -p "*_test.py" tests
   
 
-  code-format:
+  code-lint-and-format-check:
     runs-on: ubuntu-latest
 
     steps:
@@ -71,9 +68,13 @@ jobs:
     - name: Install dependencies
       run: |
         poetry install --only dev
+    - name: Lint with Ruff
+      run: |
+        poetry run ruff check .
     - name: Run code format
       run: |
-        poetry run ruff format .
+        poetry run ruff format --check .
+
 
 ```
 
