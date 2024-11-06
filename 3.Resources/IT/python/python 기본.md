@@ -25,3 +25,10 @@ title: python
 ## Pydantic
 
 - [[Pydandic Custom Validation 타입 만들기]]
+
+
+## CI / CD
+
+### Ruff
+
+- [[Ruff와 Github Actions를 활용한 CI & CD]]
