@@ -29,6 +29,4 @@ title: python
 
 ## CI / CD
 
-### Ruff
-
-- [[Ruff와 Github Actions를 활용한 CI & CD]]
+- [[Poetry & Ruff & Github Actions를 활용한 CI & CD]]
