@@ -49,9 +49,10 @@ jobs:
 
 ```
 
-push 및 pull_request시 도작한다.
+push 및 pull_request시 동작한다.
 
 jobs는 build라는 이름이고 ubuntu-latest os 아래에서 동작하며 poetry를 설치해서 linter 체크와 unittest로 모든 테스트가 통과하는지 테스트한다.
+
 ## 질문 & 확장
 
 (없음)

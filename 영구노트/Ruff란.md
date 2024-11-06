@@ -50,6 +50,7 @@ poetry add ruff
 ```
 
 로 간단히 설치해주면 된다. poetry 설치에 대해서는 [[Windows Poetry 설치 및 정리]] 를 참고하자.
+
 ### CLI 에서 사용하기
 
 terminal에서 ruff는 다음과 같이 사용 가능하다.
@@ -60,6 +61,11 @@ ruff check --fix
 ruff format
 ```
 
+check는 linter 목적으로 사용되고, format은 formatter 목적으로 사용한다.
+
+>[!help]
+>**Linter** 는 코드 분석을 통해 잠재적 오류와 문제점을 찾아내는 도구
+>**Formatter** 는 코드의 스타일을 일관적으로 유지하고 가독성을 향상시키기 위한 도구
 ## 질문 & 확장
 
 이것 외에도 Github Actions나 pre-commit에 응용 가능하다.
@@ -68,6 +74,7 @@ ruff format
 
 - https://docs.astral.sh/ruff/
 - https://chaechae.life/blog/ruff-linter-formatter#cli%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+- https://empty-cloud.tistory.com/86
 
 ## 연결 노트
 
