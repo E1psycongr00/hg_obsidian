@@ -13,12 +13,14 @@ title: vscode
 ---
 ## 기본 환경
 
-## Plugin
+## Plugins
 
 ### Github
 
 #### Github Pull Requests
-- [[Github Pull Requests 소개]]
+- [[VScode Github Pull Requests Plugin 소개]]
+- [[Vscode Github PR Plugin Issue 생성 방법]]
+- [[VSCode Github PR Plugin Issue 기반 브랜치 전략 개발]]
 
 ### Python
 
