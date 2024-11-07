@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3.Resources/IT/tools/VScode.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -284,6 +284,7 @@
   },
   "active": "11fbf51681252ddd",
   "lastOpenFiles": [
+    "3.Resources/IT/java/6. java-vscode.md",
     "3.Resources/IT/tools/VScode.md",
     "영구노트/VScode Github Pull Requests Plugin 소개.md",
     "영구노트/Vscode Github PR Plugin Issue 생성 방법.md",

@@ -30,11 +30,14 @@ title: vscode
 - [[Ruff 특정 모듈 linter 체크에서 제외하기]]
 
 #### PyLance
+
 - [[VSCode package index depth 설정하기]]
 
 ### Java
 
-- [[6. java-vscode]]
+- [[vscode java 패키지 import 제대로 안되는 경우 해결방법]]
+-  [[java vscode format 세팅]]
+- [[java-vscode-setting-json]]
 
 ### CSharp
 
