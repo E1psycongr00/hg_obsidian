@@ -11,18 +11,29 @@
             "id": "11fbf51681252ddd",
             "type": "leaf",
             "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
+            }
+          },
+          {
+            "id": "a0a6824303181a96",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/tools/VScode.md",
-                "mode": "source",
+                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VScode"
+              "title": "인터럽트와 시스템 콜 동작 과정"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Plugin",
+                "query": "gpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/tools/VScode.md",
+                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "VScode 그래프"
+              "title": "인터럽트와 시스템 콜 동작 과정 그래프"
             }
           }
         ],
@@ -252,17 +263,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/tools/VScode.md"
+                "file": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
               },
               "icon": "lucide-list",
-              "title": "VScode 개요"
+              "title": "인터럽트와 시스템 콜 동작 과정 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 501.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,10 +294,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "11fbf51681252ddd",
+  "active": "a0a6824303181a96",
   "lastOpenFiles": [
-    "3.Resources/IT/java/6. java-vscode.md",
+    "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
+    "스즈메의 문단속.md",
+    "엘리멘탈 감상문.md",
+    "블랙 위도우.md",
+    "레미제라블 25주년 감상문.md",
     "3.Resources/IT/tools/VScode.md",
+    "3.Resources/IT/java/6. java-vscode.md",
     "영구노트/VScode Github Pull Requests Plugin 소개.md",
     "영구노트/Vscode Github PR Plugin Issue 생성 방법.md",
     "영구노트/VSCode Github PR Plugin Issue 기반 브랜치 전략 개발.md",
@@ -315,13 +332,8 @@
     "templates/영상 참조 템플릿.md",
     "templates/인물 소개 템플릿.md",
     "templates/일정 템플릿.md",
-    "templates/참조 노트 템플릿.md",
     "3.Resources/IT/tools",
-    "Ruff와 Github Actions를 활용한 CI/CD.md",
-    "무제 파일.md",
     "Ruff와 Github Actions를 활용한 CI",
-    "영구노트/Windows Poetry 설치 및 정리.md",
-    "3.Resources/IT/부하 테스트.md",
     "3.Resources/IT/java/framework_library/TestContainers",
     "3.Resources/IT/java/framework_library",
     "IOC",
