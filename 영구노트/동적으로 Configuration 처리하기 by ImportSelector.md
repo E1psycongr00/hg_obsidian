@@ -1,7 +1,9 @@
 ---
 tags:
-  - 미완
+  - 완성
   - 솔루션
+  - JAVA
+  - Spring
 aliases: 
 date: 2024-11-08
 title: 동적으로 Configuration 처리하기 by @ImportSelector
@@ -134,5 +136,6 @@ class InfraConfig {
 
 - https://mangkyu.tistory.com/304
 - https://xxeol.tistory.com/44#%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20without%20%40Async-1
+- https://cornswrold.tistory.com/m/635
 
 ## 연결 노트
