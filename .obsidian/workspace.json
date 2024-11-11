@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "655eeb033089268f",
+        "id": "538b3f9c1703af54",
         "type": "tabs",
         "children": [
           {
-            "id": "9799728bb43ce21a",
+            "id": "d930528be11f3b60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "동적으로 Configuration 처리하기 by ImportSelector"
+              "title": "새 탭"
             }
           }
         ]
@@ -42,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpt",
+                "query": "poetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +80,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -207,7 +201,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "동적으로 Configuration 처리하기 by ImportSelector 그래프"
+              "title": "그래프 뷰"
             }
           }
         ],
@@ -251,11 +244,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "동적으로 Configuration 처리하기 by ImportSelector 개요"
+              "title": "개요"
             }
           }
         ]
@@ -282,10 +273,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9799728bb43ce21a",
+  "active": "d930528be11f3b60",
   "lastOpenFiles": [
-    "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
+    "영구노트/Poetry & Ruff & Github Actions를 활용한 CI & CD.md",
     "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md",
+    "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "영구노트/Windows  cmd 명령어.md",
     "영구노트/race condition.md",
     "Excalidraw/Drawing 2024-11-07 22.16.39.excalidraw.md",
@@ -318,7 +310,6 @@
     "3.Resources/IT/python/python vscode 환경 세팅.md",
     "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
     "3.Resources/IT/python/python 기본.md",
-    "연습노트/Poetry & Ruff & Github Actions를 활용한 CI & CD.md",
     "영구노트/VSCode에 Ruff 환경 세팅.md",
     "3.Resources/IT/tools",
     "Ruff와 Github Actions를 활용한 CI",
