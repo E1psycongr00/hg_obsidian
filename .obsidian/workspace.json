@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d930528be11f3b60",
+            "id": "399cd3bba03b9b18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/프론트 컨트롤러 패턴.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "프론트 컨트롤러 패턴"
+              "title": "새 탭"
             }
           }
         ]
@@ -207,7 +202,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/프론트 컨트롤러 패턴.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,11 +225,21 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7514342322277645,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "프론트 컨트롤러 패턴 그래프"
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "4a859b7665a69ecc",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -251,11 +255,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "연습노트/프론트 컨트롤러 패턴.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "프론트 컨트롤러 패턴 개요"
+              "title": "개요"
             }
           }
         ]
@@ -279,11 +281,14 @@
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bc93ad949722d401",
+  "active": "399cd3bba03b9b18",
   "lastOpenFiles": [
+    "영구노트/프론트 컨트롤러 패턴.md",
+    "Excalidraw/프론트 컨트롤러 도입 후 (draw).svg",
     "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "영구노트/IOC & DI.md",
     "연습노트/record로 configuration property 생성하기.md",
@@ -311,15 +316,12 @@
     "영구노트/Non-Blocking IO.md",
     "영구노트/인터럽트와 시스템 콜 동작 과정.md",
     "영구노트/26가지 프롬프트 엔지니어링 꿀팁.md",
-    "스즈메의 문단속.md",
-    "엘리멘탈 감상문.md",
     "attachments/screenshot/Pasted image 20241106193943.png",
     "attachments/screenshot/Pasted image 20241106193924.png",
     "attachments/screenshot/Pasted image 20241106193755.png",
     "attachments/screenshot/Pasted image 20241106192905.png",
     "attachments/screenshot/Pasted image 20241106192703.png",
     "attachments/screenshot/Pasted image 20241106192556.png",
-    "attachments/screenshot/Pasted image 20241106192236.png",
     "3.Resources/IT/tools",
     "Ruff와 Github Actions를 활용한 CI",
     "3.Resources/IT/java/framework_library/TestContainers",
