@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "프론트 컨트롤러 패턴",
+      "path": "연습노트/프론트 컨트롤러 패턴.md"
+    },
+    {
+      "basename": "1. Spring 기본",
+      "path": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md"
+    },
+    {
+      "basename": "IOC & DI",
+      "path": "영구노트/IOC & DI.md"
+    },
+    {
+      "basename": "record로 configuration property 생성하기",
+      "path": "연습노트/record로 configuration property 생성하기.md"
+    },
+    {
+      "basename": "JDK Proxy(동적 Proxy)",
+      "path": "영구노트/JDK Proxy(동적 Proxy).md"
+    },
+    {
+      "basename": "프록시 패턴",
+      "path": "영구노트/프록시 패턴.md"
+    },
+    {
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "결합도",
+      "path": "영구노트/결합도.md"
+    },
+    {
+      "basename": "싱글턴 패턴",
+      "path": "영구노트/싱글턴 패턴.md"
+    },
+    {
+      "basename": "Single Responsibility Principal",
+      "path": "영구노트/Single Responsibility Principal.md"
+    },
+    {
+      "basename": "Finite State Machine",
+      "path": "영구노트/Finite State Machine.md"
+    },
+    {
+      "basename": "Pasted image 20240619181910",
+      "path": "attachments/screenshot/Pasted image 20240619181910.png"
+    },
+    {
+      "basename": "SOLID란 무엇인가",
+      "path": "영구노트/SOLID란 무엇인가.md"
+    },
+    {
+      "basename": "Open Closed Principle",
+      "path": "영구노트/Open Closed Principle.md"
+    },
+    {
+      "basename": "Animal is-a 관계 (draw)",
+      "path": "Excalidraw/Animal is-a 관계 (draw).svg"
+    },
+    {
       "basename": "java-vscode",
       "path": "3.Resources/IT/java/java-vscode.md"
     },
@@ -39,69 +99,11 @@
     {
       "basename": "1. Spring 기본",
       "path": "3.Resources/IT/java/spring/1. Spring 기본.md"
-    },
-    {
-      "basename": "3. Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/spring/3. Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "Spring Formatter",
-      "path": "영구노트/Spring Formatter.md"
-    },
-    {
-      "basename": "Java 문법",
-      "path": "3.Resources/IT/java/Java 문법.md"
-    },
-    {
-      "basename": "java 배열 사용법",
-      "path": "3.Resources/IT/java/java 배열 사용법.md"
-    },
-    {
-      "basename": "Java 버전별 특징",
-      "path": "3.Resources/IT/java/Java 버전별 특징.md"
-    },
-    {
-      "basename": "Spring Bean Validation 커스텀 메시지 작성하기(최종)",
-      "path": "영구노트/Spring Bean Validation 커스텀 메시지 작성하기(최종).md"
-    },
-    {
-      "basename": "Spring Converter",
-      "path": "영구노트/Spring Converter.md"
-    },
-    {
-      "basename": "java.nio.file.Files 사용하기",
-      "path": "영구노트/java.nio.file.Files 사용하기.md"
-    },
-    {
-      "basename": "CRA 와 Typescript 프로젝트 생성하기",
-      "path": "영구노트/CRA 와 Typescript 프로젝트 생성하기.md"
-    },
-    {
-      "basename": "객체 분해 할당",
-      "path": "영구노트/객체 분해 할당.md"
-    },
-    {
-      "basename": "CSharp 기본",
-      "path": "3.Resources/IT/csharp/CSharp 기본.md"
-    },
-    {
-      "basename": "CSharp 프로퍼티",
-      "path": "연습노트/CSharp 프로퍼티.md"
-    },
-    {
-      "basename": "CSharp 반복기",
-      "path": "영구노트/CSharp 반복기.md"
-    },
-    {
-      "basename": "동기화 모음",
-      "path": "3.Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "동기 IO Models",
-      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false,
   "maxLength": 25,
   "openType": "tab"
 }
