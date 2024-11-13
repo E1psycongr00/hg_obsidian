@@ -103,6 +103,7 @@ description: "Fetching [How to Use Flyway for Database Migrations in Spring Boot
 url: "[How to Use Flyway for Database Migrations in Spring Boot Applications | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2024/11/how-to-use-flyway-for-database-migrations-in-spring-boot-applications/)"
 ```
 
+
 ![[3-ij-db-connect.gif]]
 
 ![[Pasted image 20241113212844.png]]
