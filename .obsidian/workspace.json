@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/JOOQ 기본 세팅하기.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOOQ 기본 세팅하기"
+              "title": "2. Gradle 공부"
             }
           }
         ]
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/JOOQ 기본 세팅하기.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "JOOQ 기본 세팅하기 그래프"
+              "title": "2. Gradle 공부 그래프"
             }
           },
           {
@@ -262,10 +262,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/JOOQ 기본 세팅하기.md"
+                "file": "3.Resources/IT/java/2. Gradle 공부.md"
               },
               "icon": "lucide-list",
-              "title": "JOOQ 기본 세팅하기 개요"
+              "title": "2. Gradle 공부 개요"
             }
           }
         ]
@@ -293,8 +293,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "399cd3bba03b9b18",
   "lastOpenFiles": [
+    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
+    "3.Resources/IT/java/2. Gradle 공부.md",
+    "영구노트/Gradle Plugin 사용하기.md",
+    "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
+    "영구노트/Gradle Init Script.md",
+    "영구노트/Gradle Wrapper.md",
+    "영구노트/빌드 관리 도구 필요성.md",
+    "3.Resources/IT/java/4. Java 버전별 특징.md",
+    "3.Resources/IT/java/3. Java 문법.md",
     "3.Resources/IT/java/framework_library/JOOQ.md",
     "영구노트/JOOQ 기본 세팅하기.md",
     "영구노트/JOOQ 소개.md",
@@ -313,18 +322,9 @@
     "영구노트/결합도.md",
     "영구노트/싱글턴 패턴.md",
     "영구노트/Single Responsibility Principal.md",
-    "영구노트/Finite State Machine.md",
     "attachments/screenshot/Pasted image 20240619181910.png",
-    "영구노트/SOLID란 무엇인가.md",
-    "영구노트/Open Closed Principle.md",
     "Excalidraw/Animal is-a 관계 (draw).svg",
-    "연습노트/팩토리 패턴.md",
-    "영구노트/Poetry & Ruff & Github Actions를 활용한 CI & CD.md",
-    "영구노트/Windows  cmd 명령어.md",
-    "영구노트/race condition.md",
-    "Excalidraw/Drawing 2024-11-07 22.16.39.excalidraw.md",
     "Excalidraw/Drawing 2024-11-07 22.16.39.excalidraw.svg",
-    "영구노트/뮤텍스(Mutex).md",
     "attachments/screenshot/Pasted image 20241106193943.png",
     "attachments/screenshot/Pasted image 20241106193924.png",
     "attachments/screenshot/Pasted image 20241106193755.png",
