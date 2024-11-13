@@ -13,6 +13,10 @@
       "path": "영구노트/Flyway 소개.md"
     },
     {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
       "basename": "Flyway Naming Convension (draw)",
       "path": "Excalidraw/Flyway Naming Convension (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "JDK Proxy(동적 Proxy)",
       "path": "영구노트/JDK Proxy(동적 Proxy).md"
-    },
-    {
-      "basename": "프록시 패턴",
-      "path": "영구노트/프록시 패턴.md"
     }
   ],
   "omittedPaths": [],

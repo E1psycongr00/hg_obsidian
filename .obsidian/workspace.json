@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "연습노트/Flyway 사용하기 with Gradle.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -297,6 +297,7 @@
   "lastOpenFiles": [
     "3.Resources/IT/java/framework_library/DB 형상 도구.md",
     "영구노트/Flyway 소개.md",
+    "무제 파일.md",
     "연습노트/Flyway 사용하기 with Gradle.md",
     "Excalidraw/Flyway Naming Convension (draw).md",
     "Excalidraw/Flyway 형상관리 (draw).md",
@@ -328,7 +329,6 @@
     "영구노트/JOOQ 소개.md",
     "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md",
     "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
-    "3.Resources/IT/java/framework_library/spring/2. Spring JDBC.md",
     "Excalidraw/프론트 컨트롤러 도입 후 (draw).svg",
     "attachments/screenshot/Pasted image 20240619181910.png",
     "3.Resources/IT/tools",

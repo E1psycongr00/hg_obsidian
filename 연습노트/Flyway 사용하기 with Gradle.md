@@ -31,12 +31,3 @@ title: Flyway 사용하기 with Gradle
 
 ## 연결 노트
 
-
-
-
-
-
-
-
-
-
