@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Gradle Build Life Cycle.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradle Build Life Cycle"
+              "title": "2. Gradle 공부"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Gradle Build Life Cycle.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gradle Build Life Cycle 그래프"
+              "title": "2. Gradle 공부 그래프"
             }
           },
           {
@@ -277,10 +277,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Gradle Build Life Cycle.md"
+                "file": "3.Resources/IT/java/2. Gradle 공부.md"
               },
               "icon": "lucide-list",
-              "title": "Gradle Build Life Cycle 개요"
+              "title": "2. Gradle 공부 개요"
             }
           }
         ]
@@ -310,10 +310,13 @@
   },
   "active": "595a14f3b253ed23",
   "lastOpenFiles": [
+    "영구노트/Gradle Build Life Cycle.md",
+    "attachments/screenshot/Pasted image 20241114183452.png",
+    "attachments/screenshot/Pasted image 20241114183421.png",
+    "attachments/screenshot/Pasted image 20241114183104.png",
     "attachments/screenshot/Pasted image 20241114171155.png",
     "attachments/screenshot/Pasted image 20241114171150.png",
     "연습노트/Flyway 사용하기 with Gradle.md",
-    "영구노트/Gradle Build Life Cycle.md",
     "연습노트/Gradle 핵심 개념.md",
     "3.Resources/IT/java/2. Gradle 공부.md",
     "영구노트/Gradle Plugin.md",
@@ -324,8 +327,6 @@
     "attachments/screenshot/Pasted image 20241114153022.png",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/Task create vs register.md",
-    "attachments/screenshot/Pasted image 20241114113047.png",
-    "attachments/screenshot/Pasted image 20241114104010.png",
     "영구노트/Why Gradle.md",
     "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
     "영구노트/Gradle Wrapper.md",
@@ -344,8 +345,6 @@
     "Excalidraw/2707 extra characters in a string(draw).md",
     "Excalidraw/대충네이밍을지은DomainService (draw).md",
     "Excalidraw/메서드 기반 테스트 컨테이너 (draw).md",
-    "Excalidraw/2707 extra characters in a string(draw).svg",
-    "Excalidraw/2d array constant value query (draw).svg",
     "3.Resources/IT/tools",
     "Ruff와 Github Actions를 활용한 CI",
     "3.Resources/IT/java/framework_library/TestContainers",
