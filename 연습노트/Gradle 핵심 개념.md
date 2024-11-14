@@ -52,6 +52,18 @@ Gradle Project를 build하기 위해 단계 별로 작성되는 Detail과 같다
 
 #### Tasks
 
+소스 코드 컴파일 또는 테스트 실행과 같은 가장 기본적인 실행 단위이다. Gradle은 Task 기반으로 동작한다.
+
+#### Plugin
+
+Task를 포함하고 있고, Gradle의 기능을 확장시킨다. Task와 함께 build 스크립트를 간단하게 짤 수 있도록 도와준다.
+
+### Gradle 프로젝트의 기본 구조
+
+![[Pasted image 20241114113047.png]]
+
+
+
 
 ## 질문 & 확장
 
@@ -59,7 +71,8 @@ Gradle Project를 build하기 위해 단계 별로 작성되는 Detail과 같다
 
 ## 출처(링크)
 
-
+- [Gradle Basics](https://docs.gradle.org/current/userguide/gradle_basics.html)
+- 
 ## 연결 노트
 
 
