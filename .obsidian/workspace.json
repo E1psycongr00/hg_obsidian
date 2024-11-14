@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/framework_library/DB 형상 도구.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DB 형상 도구"
-            }
-          },
-          {
-            "id": "ce58b399118b52bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Flyway 소개.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Flyway 소개"
+              "title": "2. Gradle 공부"
             }
           },
           {
@@ -52,8 +37,7 @@
               "title": "Flyway 사용하기 with Gradle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Flyway 소개.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Flyway 소개 그래프"
+              "title": "2. Gradle 공부 그래프"
             }
           },
           {
@@ -293,10 +277,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Flyway 소개.md"
+                "file": "3.Resources/IT/java/2. Gradle 공부.md"
               },
               "icon": "lucide-list",
-              "title": "Flyway 소개 개요"
+              "title": "2. Gradle 공부 개요"
             }
           }
         ]
@@ -324,11 +308,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce58b399118b52bc",
+  "active": "595a14f3b253ed23",
   "lastOpenFiles": [
+    "영구노트/Gradle Build Life Cycle.md",
+    "3.Resources/IT/java/2. Gradle 공부.md",
+    "영구노트/Why Gradle.md",
+    "영구노트/Task create vs register.md",
+    "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
+    "영구노트/Gradle Plugin 사용하기.md",
+    "영구노트/Gradle Wrapper.md",
+    "영구노트/컴파일(compile)과 빌드(build) 개념.md",
+    "영구노트/Gradle의 doLast()를 언제 써야 할까.md",
+    "영구노트/Gradle Init Script.md",
+    "영구노트/빌드 관리 도구 필요성.md",
+    "영구노트/Gradle 지원 버전.md",
+    "영구노트/Maven vs Gradle.md",
+    "영구노트/Why Gradle by Kotlin DSL.md",
     "3.Resources/IT/java/framework_library/DB 형상 도구.md",
-    "연습노트/Flyway 사용하기 with Gradle.md",
     "영구노트/Flyway 소개.md",
+    "연습노트/Flyway 사용하기 with Gradle.md",
     "무제 파일.md",
     "Excalidraw/Flyway Naming Convension (draw).md",
     "Excalidraw/Flyway 형상관리 (draw).md",
@@ -346,20 +344,6 @@
     "attachments/gif/3-ij-db-connect.gif",
     "attachments/screenshot/Pasted image 20241113212717.png",
     "3.Resources/IT/java/framework_library/JOOQ.md",
-    "3.Resources/IT/java/framework_library/TestContainers.md",
-    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
-    "3.Resources/IT/java/2. Gradle 공부.md",
-    "영구노트/Gradle Plugin 사용하기.md",
-    "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
-    "영구노트/Gradle Init Script.md",
-    "영구노트/Gradle Wrapper.md",
-    "영구노트/빌드 관리 도구 필요성.md",
-    "3.Resources/IT/java/4. Java 버전별 특징.md",
-    "3.Resources/IT/java/3. Java 문법.md",
-    "영구노트/JOOQ 기본 세팅하기.md",
-    "영구노트/JOOQ 소개.md",
-    "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md",
-    "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "Excalidraw/프론트 컨트롤러 도입 후 (draw).svg",
     "attachments/screenshot/Pasted image 20240619181910.png",
     "3.Resources/IT/tools",
