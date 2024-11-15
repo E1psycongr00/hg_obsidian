@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Multi Gradle Project Build",
-      "path": "연습노트/Multi Gradle Project Build.md"
+      "basename": "Gradle Logic 공유 및 분리",
+      "path": "연습노트/Gradle Logic 공유 및 분리.md"
     },
     {
       "basename": "2. Gradle 공부",
       "path": "3.Resources/IT/java/2. Gradle 공부.md"
+    },
+    {
+      "basename": "Simple Gradle 구조화 방법",
+      "path": "연습노트/Simple Gradle 구조화 방법.md"
     },
     {
       "basename": "Gradle Build Life Cycle",
@@ -95,10 +99,6 @@
     {
       "basename": "4. Domain Driven Design",
       "path": "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md"
-    },
-    {
-      "basename": "싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기",
-      "path": "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md"
     }
   ],
   "omittedPaths": [],
