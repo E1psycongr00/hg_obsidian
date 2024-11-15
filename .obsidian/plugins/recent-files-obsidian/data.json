@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Multi Gradle Project Build",
+      "path": "연습노트/Multi Gradle Project Build.md"
+    },
+    {
+      "basename": "2. Gradle 공부",
+      "path": "3.Resources/IT/java/2. Gradle 공부.md"
+    },
+    {
+      "basename": "Gradle Build Life Cycle",
+      "path": "영구노트/Gradle Build Life Cycle.md"
+    },
+    {
+      "basename": "Gradle Plugin",
+      "path": "영구노트/Gradle Plugin.md"
+    },
+    {
       "basename": "Flyway 사용하기 with Gradle",
       "path": "연습노트/Flyway 사용하기 with Gradle.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기",
       "path": "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md"
-    },
-    {
-      "basename": "프론트 컨트롤러 패턴",
-      "path": "연습노트/프론트 컨트롤러 패턴.md"
-    },
-    {
-      "basename": "IOC & DI",
-      "path": "영구노트/IOC & DI.md"
-    },
-    {
-      "basename": "record로 configuration property 생성하기",
-      "path": "연습노트/record로 configuration property 생성하기.md"
-    },
-    {
-      "basename": "JDK Proxy(동적 Proxy)",
-      "path": "영구노트/JDK Proxy(동적 Proxy).md"
     }
   ],
   "omittedPaths": [],

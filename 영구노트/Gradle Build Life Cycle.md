@@ -18,6 +18,7 @@ Gradle의 핵심은 의존성 기반의 프로그래밍 언어이다. Gradle의 
 Gradle은  종속성 순서대로 작업을 수행하고 단 한번만 작업이 수행함을 보장한다. 작업을 실행하기 이전에 종속성 그래프가 빌드된다.
 
 이 때 빌드 스크립트는 종속성 그래프를 구현하게 된다. 
+
 ![[Pasted image 20241114171155.png]]
 
 > **Initialization**
@@ -63,8 +64,8 @@ task를 정의할 때 doLast, doFirst를 한번쯤 본 사람들이 있을 것�
 ## 출처(링크)
 
 - https://monny.tistory.com/237
-
-
+- [Build Lifecycle](https://docs.gradle.org/current/userguide/build_lifecycle.html)
+- [Part 2: The Build Lifecycle](https://docs.gradle.org/current/userguide/partr2_build_lifecycle.html)
 ## 연결 노트
 - [[Gradle의 doLast()를 언제 써야 할까]]
 
