@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Gradle Logic 공유 및 분리.md",
+                "file": "연습노트/Simple Gradle 구조화 방법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -281,7 +281,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gradle Logic 공유 및 분리 그래프"
+              "title": "Simple Gradle 구조화 방법 그래프"
             }
           },
           {
@@ -308,10 +308,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Gradle Logic 공유 및 분리.md"
+                "file": "연습노트/Simple Gradle 구조화 방법.md"
               },
               "icon": "lucide-list",
-              "title": "Gradle Logic 공유 및 분리 개요"
+              "title": "Simple Gradle 구조화 방법 개요"
             }
           }
         ]
@@ -335,22 +335,23 @@
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be6e3a6f07e997bb",
+  "active": "df83b6fd21a11007",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20241115163037.png",
-    "3.Resources/IT/java/2. Gradle 공부.md",
     "연습노트/Gradle Logic 공유 및 분리.md",
+    "3.Resources/IT/java/2. Gradle 공부.md",
     "연습노트/Simple Gradle 구조화 방법.md",
+    "연습노트/Flyway 사용하기 with Gradle.md",
+    "attachments/screenshot/Pasted image 20241115163037.png",
     "attachments/screenshot/Pasted image 20241115152123.png",
     "영구노트/Gradle Build Life Cycle.md",
     "영구노트/Gradle Plugin.md",
     "3.Resources/IT/java/framework_library/TestContainers.md",
     "3.Resources/IT/java/framework_library/JOOQ.md",
     "3.Resources/IT/java/framework_library/DB 형상 도구.md",
-    "연습노트/Flyway 사용하기 with Gradle.md",
     "attachments/screenshot/Pasted image 20241114183452.png",
     "attachments/screenshot/Pasted image 20241114183421.png",
     "attachments/screenshot/Pasted image 20241114183104.png",
@@ -360,7 +361,6 @@
     "attachments/screenshot/Pasted image 20241114154437.png",
     "attachments/screenshot/Pasted image 20241114154415.png",
     "attachments/screenshot/Pasted image 20241114153928.png",
-    "attachments/screenshot/Pasted image 20241114153305.png",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/Task create vs register.md",
     "영구노트/Why Gradle.md",

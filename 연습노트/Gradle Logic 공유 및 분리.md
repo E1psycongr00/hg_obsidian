@@ -1,6 +1,7 @@
 ---
 tags:
   - 미완
+  - Gradle
 aliases: 
 date: 2024-11-15
 title: Gradle Logic 공유 및 분리
