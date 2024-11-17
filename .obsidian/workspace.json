@@ -335,8 +335,7 @@
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "be6e3a6f07e997bb",
