@@ -41,31 +41,31 @@ title: Gradle Logic 공유 및 분리
 >>[!info]- Info: Gradle 플러그인 개발
 >>프로젝트에 대한 사용자 정의 플러그인을 만드는 경우 buildSrc에서 쉽게 만들고 액세스 가능하다.
 
-```
-├── buildSrc
-│   ├── src
-│   │   └──main
-│   │      └──kotlin
-│   │         └──MyCustomTask.kt    
-│   ├── shared.gradle.kts   
-│   └── build.gradle.kts
-├── api
-│   ├── src
-│   │   └──...
-│   └── build.gradle.kts    
-├── services
-│   └── person-service
-│       ├── src
-│       │   └──...
-│       └── build.gradle.kts    
-├── shared
-│   ├── src
-│   │   └──...
-│   └── build.gradle.kts
-└── settings.gradle.kts
-```
+### PreCompiled Script Plugin
 
+BuildSrc와 Convention 네이밍을 이용해 Plugin을 만드는 과정을 PreCompile Build Script Plugin이라고 한다. buildSrc 디렉토리 내의 gradle 모듈은 Composite build로 gradle 컴파일 이전에 미리 컴파일된다.
 
+PreCompiled Script Plugin을 사용하면, 로컬에서 커스텀 플러그인을 정의하고 매우 쉽게 사용 가능하다. 
+
+간략한 사용법은 다음과 같다.
+
+![[Pasted image 20241118121141.png]]
+
+buildSrc 패키지 내부에 <플러그이름>.gradle.kts로 정의한다.
+
+![[Pasted image 20241118121156.png]]
+
+kotlin을 사용할 수 있게 kotlin-dsl를 plugins에 추가한다.
+
+![[Pasted image 20241118121205.png]]
+
+kotlin 네이밍이 자동으로 등록되기때문에 id(플러그 네임)을 입력하면 precompile된 플러그인이 들어간다. 재밌는 점은 이 때 project를 이용한 태스크 설계시 project는 plugin id를 넣은 시점인 api,shared,person-service 모듈이 프로젝트 시작점이다.
+
+위 예시만 봐도 다음과 같은 장점을 알 수 있다.
+
+- 별도의 복잡한 Task또는 변수 로직을 플러그인으로 뺄 수 있음.
+- 별도의 등록 없이 자동으로 플러그인이 등록됨.
+- 간단하게 사용 가능.
 
 ## 질문 & 확장
 
