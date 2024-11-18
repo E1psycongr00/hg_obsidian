@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/java/2. Gradle 공부.md",
+                "file": "연습노트/Flyway 사용하기 with Gradle.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Gradle 공부"
+              "title": "Flyway 사용하기 with Gradle"
             }
           }
         ]
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3.Resources/IT/java/2. Gradle 공부.md",
+                "file": "연습노트/Flyway 사용하기 with Gradle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2. Gradle 공부 그래프"
+              "title": "Flyway 사용하기 with Gradle 그래프"
             }
           },
           {
@@ -262,10 +262,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/java/2. Gradle 공부.md"
+                "file": "연습노트/Flyway 사용하기 with Gradle.md"
               },
               "icon": "lucide-list",
-              "title": "2. Gradle 공부 개요"
+              "title": "Flyway 사용하기 with Gradle 개요"
             }
           }
         ]
@@ -295,10 +295,11 @@
   },
   "active": "c1017b49726f0224",
   "lastOpenFiles": [
+    "3.Resources/IT/java/2. Gradle 공부.md",
+    "연습노트/KaibanJS.md",
     "연습노트/Custom Gradle Plugin 이해하기.md",
     "attachments/screenshot/Pasted image 20241118160323.png",
     "attachments/screenshot/Pasted image 20241118160234.png",
-    "3.Resources/IT/java/2. Gradle 공부.md",
     "연습노트/Flyway 사용하기 with Gradle.md",
     "영구노트/Electron이란 무엇인가.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",

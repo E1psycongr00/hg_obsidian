@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "연습노트/Flyway 사용하기 with Gradle.md"
+    },
+    {
       "basename": "2. Gradle 공부",
       "path": "3.Resources/IT/java/2. Gradle 공부.md"
+    },
+    {
+      "basename": "KaibanJS",
+      "path": "연습노트/KaibanJS.md"
     },
     {
       "basename": "Custom Gradle Plugin 이해하기",
@@ -23,10 +31,6 @@
     {
       "basename": "Gradle Plugin",
       "path": "영구노트/Gradle Plugin.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
     },
     {
       "basename": "DB 형상 도구",
@@ -95,10 +99,6 @@
     {
       "basename": "1. Spring 기본",
       "path": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md"
-    },
-    {
-      "basename": "2. Spring JDBC",
-      "path": "3.Resources/IT/java/framework_library/spring/2. Spring JDBC.md"
     }
   ],
   "omittedPaths": [],
