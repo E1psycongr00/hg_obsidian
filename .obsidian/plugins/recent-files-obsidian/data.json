@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
-    },
-    {
       "basename": "2. Gradle 공부",
       "path": "3.Resources/IT/java/2. Gradle 공부.md"
     },
@@ -13,12 +9,20 @@
       "path": "연습노트/KaibanJS.md"
     },
     {
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "연습노트/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "Gradle Plugin",
+      "path": "영구노트/Gradle Plugin.md"
+    },
+    {
       "basename": "Custom Gradle Plugin 이해하기",
-      "path": "연습노트/Custom Gradle Plugin 이해하기.md"
+      "path": "영구노트/Custom Gradle Plugin 이해하기.md"
     },
     {
       "basename": "Gradle Logic 공유 및 분리",
-      "path": "연습노트/Gradle Logic 공유 및 분리.md"
+      "path": "영구노트/Gradle Logic 공유 및 분리.md"
     },
     {
       "basename": "Simple Gradle 구조화 방법",
@@ -27,10 +31,6 @@
     {
       "basename": "Gradle Build Life Cycle",
       "path": "영구노트/Gradle Build Life Cycle.md"
-    },
-    {
-      "basename": "Gradle Plugin",
-      "path": "영구노트/Gradle Plugin.md"
     },
     {
       "basename": "DB 형상 도구",
