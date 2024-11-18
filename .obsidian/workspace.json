@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "595a14f3b253ed23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Custom Gradle Plugin 이해하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Custom Gradle Plugin 이해하기"
-            }
-          },
-          {
             "id": "c1017b49726f0224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Flyway 사용하기 with Gradle.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flyway 사용하기 with Gradle"
+              "title": "2. Gradle 공부"
             }
           }
         ]
@@ -101,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -222,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Custom Gradle Plugin 이해하기.md",
+                "file": "3.Resources/IT/java/2. Gradle 공부.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Custom Gradle Plugin 이해하기 그래프"
+              "title": "2. Gradle 공부 그래프"
             }
           },
           {
@@ -277,10 +262,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Custom Gradle Plugin 이해하기.md"
+                "file": "3.Resources/IT/java/2. Gradle 공부.md"
               },
               "icon": "lucide-list",
-              "title": "Custom Gradle Plugin 이해하기 개요"
+              "title": "2. Gradle 공부 개요"
             }
           }
         ]
@@ -308,11 +293,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "595a14f3b253ed23",
+  "active": "c1017b49726f0224",
   "lastOpenFiles": [
-    "3.Resources/IT/java/2. Gradle 공부.md",
     "연습노트/Custom Gradle Plugin 이해하기.md",
+    "attachments/screenshot/Pasted image 20241118160323.png",
+    "attachments/screenshot/Pasted image 20241118160234.png",
+    "3.Resources/IT/java/2. Gradle 공부.md",
     "연습노트/Flyway 사용하기 with Gradle.md",
+    "영구노트/Electron이란 무엇인가.md",
     "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "영구노트/Gradle Plugin.md",
     "연습노트/Gradle Logic 공유 및 분리.md",
@@ -329,8 +317,6 @@
     "attachments/screenshot/Pasted image 20241114183452.png",
     "attachments/screenshot/Pasted image 20241114183421.png",
     "attachments/screenshot/Pasted image 20241114183104.png",
-    "attachments/screenshot/Pasted image 20241114171155.png",
-    "attachments/screenshot/Pasted image 20241114171150.png",
     "연습노트/Gradle 핵심 개념.md",
     "영구노트/Task create vs register.md",
     "영구노트/Why Gradle.md",
@@ -344,8 +330,6 @@
     "영구노트/Maven vs Gradle.md",
     "영구노트/Why Gradle by Kotlin DSL.md",
     "영구노트/Flyway 소개.md",
-    "무제 파일.md",
-    "Excalidraw/Flyway Naming Convension (draw).md",
     "3.Resources/IT/tools",
     "Ruff와 Github Actions를 활용한 CI",
     "3.Resources/IT/java/framework_library/TestContainers",

@@ -25,14 +25,21 @@
       "query": "tag:#OS",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 15266883
       }
     },
     {
       "query": "tag:#알고리즘",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10965728
+      }
+    },
+    {
+      "query": "tag:#Gradle  ",
+      "color": {
+        "a": 1,
+        "rgb": 3010638
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 12.4742268041237,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.885498954315123,
+  "scale": 0.6316046762908117,
   "close": false
 }
