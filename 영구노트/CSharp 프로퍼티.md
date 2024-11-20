@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 완성
   - CSharp
 aliases: 
 date: 2024-10-30
