@@ -95,10 +95,6 @@
     {
       "basename": "DB 형상 도구",
       "path": "3.Resources/IT/java/framework_library/DB 형상 도구.md"
-    },
-    {
-      "basename": "Flyway 소개",
-      "path": "영구노트/Flyway 소개.md"
     }
   ],
   "omittedPaths": [],
