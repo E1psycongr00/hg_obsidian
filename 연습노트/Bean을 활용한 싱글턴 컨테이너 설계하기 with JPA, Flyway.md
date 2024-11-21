@@ -32,13 +32,55 @@ title: Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway
 Container를 Bean으로 등록하면, 한 개임을 보장하고, 쉽게 Import해서 적용할 수 있다. 이것의 가장 큰 장점은 코드가 간단하면서, Import으로 Configuration을 주입하면 컨테이너에 접근할 수 있는 구조이다.
 
 ```java
-@TestConfigurations
+@TestConfiguration(proxyBeanMethods = false)
+public class TestcontainersConfig {
+
+	@Bean
+	@ServiceConnection
+	MySQLContainer<?> mysqlContainer() {
+		return new MySQLContainer<>(DockerImageName.parse("mysql:latest"));
+	}
+}
 
 ```
 
+주입할 TestConfiguration을 작성한다.
+
+```java
+@DataJpaTest
+@AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)
+@Import(TestcontainersConfig.class)
+@ActiveProfiles("test")
+@Transactional
+class MemberRepositoryTest2 {
+    @Autowired
+    private MemberRepository memberRepository;
+
+	// test code
+}
+
+```
+
+`@DataJpaTest` 대신 `@SpringBootTest`를 써도 된다.
+
+```yaml
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        format_sql: true
+    show-sql: true
+  flyway:
+    enabled: true
+
+```
 
 >[!caution]
 >다른 곳에서 import해야 하기 때문에 public으로 선언해야 한다.!!
+
+
 ## 질문 & 확장
 
 단점은 Spring과 lifecycle을 같이 하기 때문에 test 동안 지속적으로 메모리를 차지한다.
@@ -47,3 +89,5 @@ Container를 Bean으로 등록하면, 한 개임을 보장하고, 쉽게 Import�
 
 
 ## 연결 노트
+
+- [[@ServiceConnection]]

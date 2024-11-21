@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md",
+                "file": "3.Resources/IT/java/framework_library/TestContainers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway"
+              "title": "TestContainers"
             }
           }
         ]
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md",
+                "file": "3.Resources/IT/java/framework_library/TestContainers.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway 그래프"
+              "title": "TestContainers 그래프"
             }
           },
           {
@@ -262,10 +262,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
+                "file": "3.Resources/IT/java/framework_library/TestContainers.md"
               },
               "icon": "lucide-list",
-              "title": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway 개요"
+              "title": "TestContainers 개요"
             }
           }
         ]
@@ -295,11 +295,11 @@
   },
   "active": "186748bca4a032ef",
   "lastOpenFiles": [
-    "3.Resources/IT/java/framework_library/TestContainers.md",
-    "영구노트/@ServiceConnection.md",
-    "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md",
-    "영구노트/Junit5와 TestContainer를 이용한 생명주기 관리.md",
     "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
+    "3.Resources/IT/java/framework_library/TestContainers.md",
+    "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md",
+    "영구노트/@ServiceConnection.md",
+    "영구노트/Junit5와 TestContainer를 이용한 생명주기 관리.md",
     "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
     "3.Resources/IT/java/framework_library/DB 형상 도구.md",
     "연습노트/Flyway 사용하기 with Gradle.md",
