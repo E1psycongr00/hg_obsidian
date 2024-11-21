@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "@ServiceConnection",
+      "path": "연습노트/@ServiceConnection.md"
+    },
+    {
+      "basename": "TestContainers",
+      "path": "3.Resources/IT/java/framework_library/TestContainers.md"
+    },
+    {
+      "basename": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway",
+      "path": "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
+    },
+    {
+      "basename": "Junit5와 TestContainer를 이용한 생명주기 관리",
+      "path": "영구노트/Junit5와 TestContainer를 이용한 생명주기 관리.md"
+    },
+    {
+      "basename": "싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기",
+      "path": "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md"
+    },
+    {
+      "basename": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기",
+      "path": "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md"
+    },
+    {
+      "basename": "DB 형상 도구",
+      "path": "3.Resources/IT/java/framework_library/DB 형상 도구.md"
+    },
+    {
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "연습노트/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "Flyway 소개",
+      "path": "영구노트/Flyway 소개.md"
+    },
+    {
       "basename": "JOOQ Code Generator With Gradle",
       "path": "연습노트/JOOQ Code Generator With Gradle.md"
     },
@@ -15,10 +51,6 @@
     {
       "basename": "Git 핵심 명령어",
       "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
     },
     {
       "basename": "전기 쌍극자",
@@ -67,34 +99,6 @@
     {
       "basename": "JOOQ로 테스트시 DDL",
       "path": "연습노트/JOOQ로 테스트시 DDL.md"
-    },
-    {
-      "basename": "Gradle 핵심 개념",
-      "path": "영구노트/Gradle 핵심 개념.md"
-    },
-    {
-      "basename": "CSharp 프로퍼티",
-      "path": "영구노트/CSharp 프로퍼티.md"
-    },
-    {
-      "basename": "Custom Gradle Plugin 이해하기",
-      "path": "영구노트/Custom Gradle Plugin 이해하기.md"
-    },
-    {
-      "basename": "2. Gradle 공부",
-      "path": "3.Resources/IT/java/2. Gradle 공부.md"
-    },
-    {
-      "basename": "Gradle Logic 공유 및 분리",
-      "path": "영구노트/Gradle Logic 공유 및 분리.md"
-    },
-    {
-      "basename": "Gradle Build Life Cycle",
-      "path": "영구노트/Gradle Build Life Cycle.md"
-    },
-    {
-      "basename": "DB 형상 도구",
-      "path": "3.Resources/IT/java/framework_library/DB 형상 도구.md"
     }
   ],
   "omittedPaths": [],

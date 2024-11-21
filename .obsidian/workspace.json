@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d90ca9a1da444c",
+        "id": "0106d10a30ef04e6",
         "type": "tabs",
         "children": [
           {
-            "id": "c141e0d26d18a821",
+            "id": "186748bca4a032ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/@ServiceConnection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "@ServiceConnection"
             }
           }
         ]
@@ -37,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: Flyway",
+                "query": "flyway",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,6 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/@ServiceConnection.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "@ServiceConnection 그래프"
             }
           },
           {
@@ -256,10 +262,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Gradle Property와 Provider.md"
+                "file": "연습노트/@ServiceConnection.md"
               },
               "icon": "lucide-list",
-              "title": "Gradle Property와 Provider 개요"
+              "title": "@ServiceConnection 개요"
             }
           }
         ]
@@ -287,14 +293,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "186748bca4a032ef",
   "lastOpenFiles": [
-    "연습노트/JOOQ Code Generator With Gradle.md",
+    "3.Resources/IT/java/framework_library/TestContainers.md",
+    "연습노트/@ServiceConnection.md",
+    "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md",
+    "영구노트/Junit5와 TestContainer를 이용한 생명주기 관리.md",
+    "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md",
+    "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md",
+    "3.Resources/IT/java/framework_library/DB 형상 도구.md",
+    "연습노트/Flyway 사용하기 with Gradle.md",
+    "영구노트/Flyway 소개.md",
     "연습노트/Gradle Property와 Provider.md",
+    "연습노트/JOOQ Code Generator With Gradle.md",
     "연습노트/JOOQ 리턴 타입.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Git 핵심 명령어.md",
-    "연습노트/Flyway 사용하기 with Gradle.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/팩토리 패턴.md",
     "연습노트/KaibanJS.md",
@@ -307,21 +321,13 @@
     "영구노트/Spring 핵심 요소.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/JOOQ로 테스트시 DDL.md",
-    "영구노트/Gradle 핵심 개념.md",
-    "영구노트/CSharp 프로퍼티.md",
-    "영구노트/Custom Gradle Plugin 이해하기.md",
     "attachments/images/custom gradle plugin type.png",
     "attachments/images/gradle plugin method.png",
     "attachments/images/gradle advantage.png",
     "attachments/screenshot/Pasted image 20231001220742.png",
     "attachments/screenshot/Pasted image 20231001204409.png",
-    "영구노트/Gradle Plugin.md",
-    "3.Resources/IT/java/2. Gradle 공부.md",
-    "영구노트/Gradle Logic 공유 및 분리.md",
     "attachments/screenshot/Pasted image 20241118160323.png",
     "attachments/screenshot/Pasted image 20241118160234.png",
-    "영구노트/Electron이란 무엇인가.md",
-    "영구노트/Custom Task와 Plugin 개발해보기 by buildSrc.md",
     "attachments/screenshot/Pasted image 20241118121205.png",
     "attachments/screenshot/Pasted image 20241118121156.png",
     "attachments/screenshot/Pasted image 20241118121141.png",
