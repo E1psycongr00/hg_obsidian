@@ -27,10 +27,21 @@ title: Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway
 
 ## 해결 방안
 
+### Bean으로 등록하기
 
+Container를 Bean으로 등록하면, 한 개임을 보장하고, 쉽게 Import해서 적용할 수 있다. 이것의 가장 큰 장점은 코드가 간단하면서, Import으로 Configuration을 주입하면 컨테이너에 접근할 수 있는 구조이다.
+
+```java
+@TestConfigurations
+
+```
+
+
+>[!caution]
+>다른 곳에서 import해야 하기 때문에 public으로 선언해야 한다.!!
 ## 질문 & 확장
 
-(없음)
+단점은 Spring과 lifecycle을 같이 하기 때문에 test 동안 지속적으로 메모리를 차지한다.
 
 ## 출처(링크)
 
