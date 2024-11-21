@@ -1,6 +1,7 @@
 ---
 tags:
-  - 미완
+  - 완성
+  - Gradle
 aliases: 
 date: 2024-11-20
 title: "@ServiceConnection"
