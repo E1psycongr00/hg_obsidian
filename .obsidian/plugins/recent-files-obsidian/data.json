@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway",
+      "path": "영구노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
+    },
+    {
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "연습노트/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "JOOQ 리턴 타입",
+      "path": "연습노트/JOOQ 리턴 타입.md"
+    },
+    {
+      "basename": "JOOQ Code Generator With Gradle",
+      "path": "연습노트/JOOQ Code Generator With Gradle.md"
+    },
+    {
+      "basename": "JOOQ와 Flyway로 Codegen하기",
+      "path": "연습노트/JOOQ와 Flyway로 Codegen하기.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2",
+      "path": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "KaibanJS",
+      "path": "연습노트/KaibanJS.md"
+    },
+    {
+      "basename": "JOOQ로 테스트시 DDL",
+      "path": "영구노트/JOOQ로 테스트시 DDL.md"
+    },
+    {
       "basename": "@ServiceConnection",
-      "path": "연습노트/@ServiceConnection.md"
+      "path": "영구노트/@ServiceConnection.md"
     },
     {
       "basename": "TestContainers",
       "path": "3.Resources/IT/java/framework_library/TestContainers.md"
-    },
-    {
-      "basename": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway",
-      "path": "연습노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
     },
     {
       "basename": "Junit5와 TestContainer를 이용한 생명주기 관리",
@@ -29,28 +73,8 @@
       "path": "3.Resources/IT/java/framework_library/DB 형상 도구.md"
     },
     {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
-    },
-    {
       "basename": "Flyway 소개",
       "path": "영구노트/Flyway 소개.md"
-    },
-    {
-      "basename": "JOOQ Code Generator With Gradle",
-      "path": "연습노트/JOOQ Code Generator With Gradle.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
     },
     {
       "basename": "전기 쌍극자",
@@ -59,18 +83,6 @@
     {
       "basename": "팩토리 패턴",
       "path": "연습노트/팩토리 패턴.md"
-    },
-    {
-      "basename": "KaibanJS",
-      "path": "연습노트/KaibanJS.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2",
-      "path": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2.md"
     },
     {
       "basename": "Spring MVC 요청 처리 과정",
@@ -87,18 +99,6 @@
     {
       "basename": "Portable Service Abstraction",
       "path": "영구노트/Portable Service Abstraction.md"
-    },
-    {
-      "basename": "Spring 핵심 요소",
-      "path": "영구노트/Spring 핵심 요소.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "JOOQ로 테스트시 DDL",
-      "path": "연습노트/JOOQ로 테스트시 DDL.md"
     }
   ],
   "omittedPaths": [],

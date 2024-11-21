@@ -1,6 +1,8 @@
 ---
 tags:
   - 미완
+  - JS
+  - AI
 aliases: 
 date: 2024-11-18
 title: KaibanJS

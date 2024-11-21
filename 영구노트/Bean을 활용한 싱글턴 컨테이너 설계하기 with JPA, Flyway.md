@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 완성
   - 솔루션
   - Gradle
 aliases: 
