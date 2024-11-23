@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "JOOQ와 Flyway로 Codegen하기",
+      "path": "연습노트/JOOQ와 Flyway로 Codegen하기.md"
+    },
+    {
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/framework_library/JOOQ.md"
+    },
+    {
+      "basename": "JOOQ 기본 세팅하기",
+      "path": "영구노트/JOOQ 기본 세팅하기.md"
+    },
+    {
+      "basename": "JOOQ Code Generator With Gradle",
+      "path": "연습노트/JOOQ Code Generator With Gradle.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
       "basename": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway",
       "path": "영구노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
     },
@@ -15,26 +35,6 @@
     {
       "basename": "JacksonModule & Std(De)Serializer",
       "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "JOOQ 리턴 타입",
-      "path": "연습노트/JOOQ 리턴 타입.md"
-    },
-    {
-      "basename": "JOOQ Code Generator With Gradle",
-      "path": "연습노트/JOOQ Code Generator With Gradle.md"
-    },
-    {
-      "basename": "JOOQ와 Flyway로 Codegen하기",
-      "path": "연습노트/JOOQ와 Flyway로 Codegen하기.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2",
-      "path": "연습노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2.md"
     },
     {
       "basename": "Spring Rest Docs with Kotlin DSL",

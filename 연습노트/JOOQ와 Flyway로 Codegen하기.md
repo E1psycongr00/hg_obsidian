@@ -1,6 +1,8 @@
 ---
 tags:
   - 미완
+  - Gradle
+  - Flyway
 aliases: 
 date: 2024-11-21
 title: JOOQ와 Flyway로 Codegen하기
@@ -11,6 +13,7 @@ title: JOOQ와 Flyway로 Codegen하기
 
 ----
 ## 내용(Content)
+
 
 
 ## 질문 & 확장
