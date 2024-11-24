@@ -22,4 +22,3 @@ title: TestContainers
 - [[@ServiceConnection]]
 - [[Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway]]
 - [[yaml 설정 파일로 TestContainer DB를 동적으로 관리하기]]
-- [[yaml 설정 파일로 TestContainer DB를 동적으로 관리하기_v2]]
