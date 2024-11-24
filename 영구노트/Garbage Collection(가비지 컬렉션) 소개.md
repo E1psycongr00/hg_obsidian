@@ -30,8 +30,8 @@ date: 2023-10-11
 (없음)
 
 ## 출처(링크)
-- https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
-- https://mangkyu.tistory.com/118
+- [Java Garbage Collection Basics](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
+- [\[Java\] Garbage Collection(가비지 컬렉션)의 개념 및 동작 원리 (1/2) - MangKyu's Diary](https://mangkyu.tistory.com/118)
 - https://d2.naver.com/helloworld/329631
 - https://d2.naver.com/helloworld/1329
 ## 연결 노트

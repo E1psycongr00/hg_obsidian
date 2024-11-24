@@ -47,8 +47,8 @@ Class Loader가 클래스 파일을 받고 이 과정에서 Loading, Linking, In
 (없음)
 
 ## 출처(링크)
-- https://junroot.github.io/programming/Java%EC%9D%98-%EB%B9%8C%EB%93%9C%EC%99%80-%EB%B0%B0%ED%8F%AC/
-- https://kingofbackend.tistory.com/123#article-2--java-compiler-with-binary-code,-byte-code
+- [Java의 빌드와 배포 - Junroot](https://junroot.github.io/programming/Java%EC%9D%98-%EB%B9%8C%EB%93%9C%EC%99%80-%EB%B0%B0%ED%8F%AC/)
+- [\[Java\] 자바의 동작과정 Java Compiler와 JVM](https://kingofbackend.tistory.com/123#article-2--java-compiler-with-binary-code,-byte-code)
 ## 연결 노트
 -  [[Class Loader]]
 - [[JVM 구조]]

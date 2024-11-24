@@ -71,7 +71,7 @@ Terminating due to java.lang.OutOfMemoryError: Java heap space
 (없음)
 
 ## 출처(링크)
-- https://www.baeldung.com/jvm-epsilon-gc-garbage-collector
+- [An Introduction to Epsilon GC: A No-Op Experimental Garbage Collector | Baeldung](https://www.baeldung.com/jvm-epsilon-gc-garbage-collector)
 
 ## 연결 노트
 - [[Garbage Collection(가비지 컬렉션) 소개]]
