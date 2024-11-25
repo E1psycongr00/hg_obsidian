@@ -2,7 +2,9 @@
 tags:
   - 완성
   - Gradle
-aliases: 
+aliases:
+  - precompiled script plugin
+  - buildSrc Gradle
 date: 2024-11-15
 title: Gradle Logic 공유 및 분리
 ---
