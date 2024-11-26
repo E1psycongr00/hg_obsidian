@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38ad57bbf6577e68",
+        "id": "4b691adba42a986e",
         "type": "tabs",
         "children": [
           {
-            "id": "0071b79db5a12c57",
+            "id": "cd8f98ec32baefcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JOOQ와 Flyway로 Codegen하기 with JPA"
+              "title": "새 탭"
             }
           }
         ]
@@ -42,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"attachments/images/\" ",
+                "query": "멀티 모듈",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md",
+                "file": "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "JOOQ와 Flyway로 Codegen하기 with JPA 그래프"
+              "title": "동적으로 Configuration 처리하기 by ImportSelector 그래프"
             }
           },
           {
@@ -262,10 +257,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md"
+                "file": "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md"
               },
               "icon": "lucide-list",
-              "title": "JOOQ와 Flyway로 Codegen하기 with JPA 개요"
+              "title": "동적으로 Configuration 처리하기 by ImportSelector 개요"
             }
           }
         ]
@@ -293,8 +288,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0071b79db5a12c57",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "영구노트/빌드 관리 도구 필요성.md",
+    "영구노트/Gradle Plugin.md",
+    "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md",
+    "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
+    "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md",
+    "3.Resources/IT/java/2. Gradle 공부.md",
+    "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md",
     "3.Resources/IT/java/framework_library/JOOQ.md",
     "3.Resources/IT/java/framework_library/DB 형상 도구.md",
     "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md",
@@ -309,7 +311,6 @@
     "3.Resources/IT/객체지향/객체 지향.md",
     "연습노트/팩토리 패턴.md",
     "영구노트/Gradle Logic 공유 및 분리.md",
-    "3.Resources/IT/java/2. Gradle 공부.md",
     "영구노트/Custom Gradle Plugin 이해하기.md",
     "연습노트/Flyway 사용하기 with Gradle.md",
     "연습노트/JOOQ Code Generator With Gradle.md",
@@ -317,12 +318,6 @@
     "연습노트/Git 핵심 명령어.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "연습노트/KaibanJS.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "3.Resources/IT/java/Java 공부.md",
-    "3.Resources/IT/java/10. java 배열 사용법.md",
-    "3.Resources/IT/java/8. 표준 Java Error.md",
-    "3.Resources/IT/java/7. Java 표준 라이브러리.md",
     "attachments/screenshot/Pasted image 20241124133440.png",
     "attachments/images/custom gradle plugin type.png",
     "attachments/images/gradle plugin method.png",
