@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8755e6bac0f842a6",
+        "id": "38ad57bbf6577e68",
         "type": "tabs",
         "children": [
           {
-            "id": "9cdebc8bdb703a88",
+            "id": "0071b79db5a12c57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/Gradle Logic 공유 및 분리.md",
-                "mode": "preview",
+                "file": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradle Logic 공유 및 분리"
+              "title": "JOOQ와 Flyway로 Codegen하기 with JPA"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flyway",
+                "query": "path:\"attachments/images/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -207,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/Gradle Logic 공유 및 분리.md",
+                "file": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gradle Logic 공유 및 분리 그래프"
+              "title": "JOOQ와 Flyway로 Codegen하기 with JPA 그래프"
             }
           },
           {
@@ -262,10 +262,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Gradle Logic 공유 및 분리.md"
+                "file": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md"
               },
               "icon": "lucide-list",
-              "title": "Gradle Logic 공유 및 분리 개요"
+              "title": "JOOQ와 Flyway로 Codegen하기 with JPA 개요"
             }
           }
         ]
@@ -293,20 +293,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cdebc8bdb703a88",
+  "active": "0071b79db5a12c57",
   "lastOpenFiles": [
+    "3.Resources/IT/java/framework_library/JOOQ.md",
     "3.Resources/IT/java/framework_library/DB 형상 도구.md",
+    "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md",
+    "3.Resources/IT/java/framework_library/TestContainers.md",
+    "3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md",
+    "3.Resources/IT/java/framework_library/spring/2. Spring JDBC.md",
+    "3.Resources/IT/java/1. Java의 기본 구조.md",
+    "영구노트/옵저버 패턴.md",
+    "Excalidraw/옵저버 패턴 구조 (draw).md",
+    "Excalidraw/옵저버 패턴 구조 (draw).svg",
+    "attachments/images/observer.png",
+    "3.Resources/IT/객체지향/객체 지향.md",
+    "연습노트/팩토리 패턴.md",
     "영구노트/Gradle Logic 공유 및 분리.md",
     "3.Resources/IT/java/2. Gradle 공부.md",
     "영구노트/Custom Gradle Plugin 이해하기.md",
-    "3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md",
     "연습노트/Flyway 사용하기 with Gradle.md",
-    "3.Resources/IT/java/framework_library/JOOQ.md",
     "연습노트/JOOQ Code Generator With Gradle.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Git 핵심 명령어.md",
     "연습노트/전기 쌍극자.md",
-    "연습노트/팩토리 패턴.md",
     "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "연습노트/KaibanJS.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
@@ -314,13 +323,6 @@
     "3.Resources/IT/java/10. java 배열 사용법.md",
     "3.Resources/IT/java/8. 표준 Java Error.md",
     "3.Resources/IT/java/7. Java 표준 라이브러리.md",
-    "3.Resources/IT/java/5. Java Annotation.md",
-    "3.Resources/IT/java/4. Java 버전별 특징.md",
-    "3.Resources/IT/java/3. Java 문법.md",
-    "3.Resources/IT/java/1. Java의 기본 구조.md",
-    "3.Resources/IT/java/framework_library/TestContainers.md",
-    "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md",
-    "영구노트/Young Generation 과 Old Generation 특징.md",
     "attachments/screenshot/Pasted image 20241124133440.png",
     "attachments/images/custom gradle plugin type.png",
     "attachments/images/gradle plugin method.png",
@@ -329,8 +331,6 @@
     "attachments/screenshot/Pasted image 20231001204409.png",
     "attachments/screenshot/Pasted image 20241118160323.png",
     "attachments/screenshot/Pasted image 20241118160234.png",
-    "attachments/screenshot/Pasted image 20241118121205.png",
-    "attachments/screenshot/Pasted image 20241118121156.png",
     "3.Resources/IT/tools",
     "Ruff와 Github Actions를 활용한 CI",
     "3.Resources/IT/java/framework_library/TestContainers",

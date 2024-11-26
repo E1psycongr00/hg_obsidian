@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Gradle Logic 공유 및 분리",
-      "path": "영구노트/Gradle Logic 공유 및 분리.md"
+      "basename": "JOOQ와 Flyway로 Codegen하기 with JPA",
+      "path": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md"
+    },
+    {
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/framework_library/JOOQ.md"
     },
     {
       "basename": "DB 형상 도구",
       "path": "3.Resources/IT/java/framework_library/DB 형상 도구.md"
+    },
+    {
+      "basename": "4. Domain Driven Design",
+      "path": "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md"
+    },
+    {
+      "basename": "TestContainers",
+      "path": "3.Resources/IT/java/framework_library/TestContainers.md"
+    },
+    {
+      "basename": "3. Spring Bean Validation 총정리",
+      "path": "3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md"
+    },
+    {
+      "basename": "2. Spring JDBC",
+      "path": "3.Resources/IT/java/framework_library/spring/2. Spring JDBC.md"
+    },
+    {
+      "basename": "1. Java의 기본 구조",
+      "path": "3.Resources/IT/java/1. Java의 기본 구조.md"
+    },
+    {
+      "basename": "옵저버 패턴",
+      "path": "영구노트/옵저버 패턴.md"
+    },
+    {
+      "basename": "옵저버 패턴 구조 (draw)",
+      "path": "Excalidraw/옵저버 패턴 구조 (draw).md"
+    },
+    {
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "팩토리 패턴",
+      "path": "연습노트/팩토리 패턴.md"
+    },
+    {
+      "basename": "Gradle Logic 공유 및 분리",
+      "path": "영구노트/Gradle Logic 공유 및 분리.md"
     },
     {
       "basename": "2. Gradle 공부",
@@ -17,16 +61,8 @@
       "path": "영구노트/Custom Gradle Plugin 이해하기.md"
     },
     {
-      "basename": "3. Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md"
-    },
-    {
       "basename": "Flyway 사용하기 with Gradle",
       "path": "연습노트/Flyway 사용하기 with Gradle.md"
-    },
-    {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/framework_library/JOOQ.md"
     },
     {
       "basename": "JOOQ와 Flyway로 Codegen하기",
@@ -63,42 +99,6 @@
     {
       "basename": "JOOQ로 테스트시 DDL",
       "path": "영구노트/JOOQ로 테스트시 DDL.md"
-    },
-    {
-      "basename": "@ServiceConnection",
-      "path": "영구노트/@ServiceConnection.md"
-    },
-    {
-      "basename": "TestContainers",
-      "path": "3.Resources/IT/java/framework_library/TestContainers.md"
-    },
-    {
-      "basename": "Junit5와 TestContainer를 이용한 생명주기 관리",
-      "path": "영구노트/Junit5와 TestContainer를 이용한 생명주기 관리.md"
-    },
-    {
-      "basename": "싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기",
-      "path": "영구노트/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기.md"
-    },
-    {
-      "basename": "yaml 설정 파일로 TestContainer DB를 동적으로 관리하기",
-      "path": "영구노트/yaml 설정 파일로 TestContainer DB를 동적으로 관리하기.md"
-    },
-    {
-      "basename": "Flyway 소개",
-      "path": "영구노트/Flyway 소개.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
-    },
-    {
-      "basename": "Spring MVC 요청 처리 과정",
-      "path": "영구노트/Spring MVC 요청 처리 과정.md"
     }
   ],
   "omittedPaths": [],

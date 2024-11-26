@@ -442,8 +442,9 @@ jooq {
 
 ## 출처(링크)
 
+- [STUDY\_REFERENCE/java/study\_jooq\_codegen\_with\_flyway\_jpa at main · E1psycongr00/STUDY\_REFERENCE · GitHub](https://github.com/E1psycongr00/STUDY_REFERENCE/tree/main/java/study_jooq_codegen_with_flyway_jpa)
 - [jOOQ 사용기 — belljundev](https://belljundev.tistory.com/24)
-- 
+
 
 ## 연결 노트
 
