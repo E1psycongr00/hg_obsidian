@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring Modulith",
+      "path": "Spring Modulith.md"
+    },
+    {
+      "basename": "1. Spring 기본",
+      "path": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md"
+    },
+    {
       "basename": "동적으로 Configuration 처리하기 by ImportSelector",
       "path": "영구노트/동적으로 Configuration 처리하기 by ImportSelector.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기",
       "path": "영구노트/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md"
-    },
-    {
-      "basename": "1. Spring 기본",
-      "path": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md"
     },
     {
       "basename": "2. Gradle 공부",
@@ -95,10 +99,6 @@
     {
       "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
       "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway",
-      "path": "영구노트/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
     }
   ],
   "omittedPaths": [],
