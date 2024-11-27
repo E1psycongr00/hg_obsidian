@@ -289,11 +289,15 @@
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "cd8f98ec32baefcf",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20241128081744.png",
+    "attachments/screenshot/Pasted image 20241128081620.png",
+    "attachments/screenshot/Pasted image 20241128081614.png",
     "연습노트/Spring Modulith.md",
     "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "영구노트/빌드 관리 도구 필요성.md",
@@ -321,15 +325,12 @@
     "연습노트/JOOQ Code Generator With Gradle.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Git 핵심 명령어.md",
-    "연습노트/전기 쌍극자.md",
     "attachments/screenshot/Pasted image 20241124133440.png",
     "attachments/images/custom gradle plugin type.png",
     "attachments/images/gradle plugin method.png",
     "attachments/images/gradle advantage.png",
     "attachments/screenshot/Pasted image 20231001220742.png",
     "attachments/screenshot/Pasted image 20231001204409.png",
-    "attachments/screenshot/Pasted image 20241118160323.png",
-    "attachments/screenshot/Pasted image 20241118160234.png",
     "3.Resources/IT/tools",
     "Ruff와 Github Actions를 활용한 CI",
     "3.Resources/IT/java/framework_library/TestContainers",
