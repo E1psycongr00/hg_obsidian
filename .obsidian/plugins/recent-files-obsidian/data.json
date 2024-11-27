@@ -2,6 +2,10 @@
   "recentFiles": [
     {
       "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
+    },
+    {
+      "basename": "Spring Modulith",
       "path": "Spring Modulith.md"
     },
     {
@@ -95,10 +99,6 @@
     {
       "basename": "JOOQ 기본 세팅하기",
       "path": "영구노트/JOOQ 기본 세팅하기.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
     }
   ],
   "omittedPaths": [],
