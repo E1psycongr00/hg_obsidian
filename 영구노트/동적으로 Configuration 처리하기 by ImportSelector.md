@@ -134,8 +134,8 @@ class InfraConfig {
 
 ## 출처(링크)
 
-- https://mangkyu.tistory.com/304
-- https://xxeol.tistory.com/44#%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20without%20%40Async-1
+- [\[Server\] 멀티 모듈을 설계하는 관점과 고려사항 with Spring & Gradle - MangKyu's Diary](https://mangkyu.tistory.com/304)
+- [\[Spring\] @Async와 스레드풀 — 좋은 경험 훔쳐먹기](https://xxeol.tistory.com/44#%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC%20without%20%40Async-1)
 - https://cornswrold.tistory.com/m/635
 
 ## 연결 노트
