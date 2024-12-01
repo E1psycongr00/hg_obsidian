@@ -289,8 +289,7 @@
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "2d39029a77522e3a",
