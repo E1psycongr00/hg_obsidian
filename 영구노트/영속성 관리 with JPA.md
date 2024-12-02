@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 완성
   - JAVA
   - Spring
   - JPA

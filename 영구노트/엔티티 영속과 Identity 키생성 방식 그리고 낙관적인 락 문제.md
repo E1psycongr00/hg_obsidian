@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 완성
   - 솔루션
   - JPA
 aliases: 
@@ -80,11 +80,12 @@ Member.builder()
 	.build()
 ```
 
+빌더 패턴의 경우 초기화하지 않은 값들은 모두 null과 기본값으로 초기화한다.
+
 #### null 접근 허용 X
 
 생성자와 setter 모두 id에는 접근하지 못하도록 통제한다.
 
-빌더 패턴의 경우 초기화하지 않은 값들은 모두 null과 기본값으로 초기화한다.
 
 ```java
 public Member {
