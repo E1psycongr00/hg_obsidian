@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Patern Matching For Switch",
+      "path": "영구노트/Patern Matching For Switch.md"
+    },
+    {
+      "basename": "3. Java 문법",
+      "path": "3.Resources/IT/java/3. Java 문법.md"
+    },
+    {
+      "basename": "Java17 Switch 문법",
+      "path": "영구노트/Java17 Switch 문법.md"
+    },
+    {
+      "basename": "Java Record 사용법",
+      "path": "영구노트/Java Record 사용법.md"
+    },
+    {
+      "basename": "instanceof 패턴 매칭",
+      "path": "영구노트/instanceof 패턴 매칭.md"
+    },
+    {
+      "basename": "Record Pattern",
+      "path": "영구노트/Record Pattern.md"
+    },
+    {
+      "basename": "JOOQ",
+      "path": "3.Resources/IT/java/framework_library/JOOQ.md"
+    },
+    {
       "basename": "Spring Modulith",
       "path": "연습노트/Spring Modulith.md"
     },
@@ -37,10 +65,6 @@
       "path": "영구노트/JOOQ와 Flyway로 Codegen하기 with JPA.md"
     },
     {
-      "basename": "JOOQ",
-      "path": "3.Resources/IT/java/framework_library/JOOQ.md"
-    },
-    {
       "basename": "DB 형상 도구",
       "path": "3.Resources/IT/java/framework_library/DB 형상 도구.md"
     },
@@ -75,30 +99,6 @@
     {
       "basename": "객체 지향",
       "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
-    },
-    {
-      "basename": "Gradle Logic 공유 및 분리",
-      "path": "영구노트/Gradle Logic 공유 및 분리.md"
-    },
-    {
-      "basename": "Custom Gradle Plugin 이해하기",
-      "path": "영구노트/Custom Gradle Plugin 이해하기.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
-    },
-    {
-      "basename": "JOOQ와 Flyway로 Codegen하기",
-      "path": "연습노트/JOOQ와 Flyway로 Codegen하기.md"
-    },
-    {
-      "basename": "JOOQ 기본 세팅하기",
-      "path": "영구노트/JOOQ 기본 세팅하기.md"
     }
   ],
   "omittedPaths": [],
