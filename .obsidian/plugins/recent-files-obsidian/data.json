@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일 1",
+      "path": "무제 파일 1.md"
+    },
+    {
       "basename": "Spring Transaction",
       "path": "연습노트/Spring Transaction.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Java17 Switch 문법",
       "path": "영구노트/Java17 Switch 문법.md"
-    },
-    {
-      "basename": "Java Record 사용법",
-      "path": "영구노트/Java Record 사용법.md"
     }
   ],
   "omittedPaths": [],
