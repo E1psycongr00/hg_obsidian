@@ -27,7 +27,7 @@ title: Spring Transaction
 ## 출처(링크)
 
 - [Spring Transaction Propagation을 예제를 통해 알아보자](https://oingdaddy.tistory.com/28)
-- [Spring Statemachine 이론부터 토이 프로젝트까지](https://dev.gmarket.com/52)
+- 
 ## 연결 노트
 
 - [[DB 트랜잭션]]
