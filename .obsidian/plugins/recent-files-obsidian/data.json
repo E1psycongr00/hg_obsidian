@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Spring State Machine",
-      "path": "연습노트/Spring State Machine.md"
-    },
-    {
       "basename": "Spring Transaction",
       "path": "연습노트/Spring Transaction.md"
+    },
+    {
+      "basename": "Finite State Machine",
+      "path": "영구노트/Finite State Machine.md"
+    },
+    {
+      "basename": "Spring State Machine",
+      "path": "연습노트/Spring State Machine.md"
     },
     {
       "basename": "1. Spring 기본",
@@ -95,10 +99,6 @@
     {
       "basename": "Java 공부",
       "path": "3.Resources/IT/java/Java 공부.md"
-    },
-    {
-      "basename": "Patern Matching For Switch",
-      "path": "영구노트/Patern Matching For Switch.md"
     }
   ],
   "omittedPaths": [],
