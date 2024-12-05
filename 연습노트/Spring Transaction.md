@@ -26,11 +26,12 @@ title: Spring Transaction
 
 ## 출처(링크)
 
-
+- [Spring Transaction Propagation을 예제를 통해 알아보자](https://oingdaddy.tistory.com/28)
+- 
 ## 연결 노트
 
 - [[DB 트랜잭션]]
-
+- [[분산 트랜잭션 종류별 특징]]
 
 
 
