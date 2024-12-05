@@ -66,7 +66,14 @@
               "icon": "lucide-file",
               "title": "Finite State Machine"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "eb30b7c32805f388",
+        "type": "tabs",
+        "children": [
           {
             "id": "3a775e24e31690ee",
             "type": "leaf",
@@ -82,8 +89,7 @@
               "title": "상태 패턴"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,7 +339,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 417.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,13 +365,13 @@
   "lastOpenFiles": [
     "연습노트/Finite State Machine.md",
     "연습노트/상태 패턴.md",
+    "연습노트/Spring State Machine.md",
+    "연습노트/Spring Transaction.md",
+    "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "영구노트/퍼사드 패턴.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "영구노트/싱글턴 패턴.md",
     "영구노트/프록시 패턴.md",
-    "연습노트/Spring State Machine.md",
-    "연습노트/Spring Transaction.md",
-    "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
     "영구노트/DB 트랜잭션.md",
     "영구노트/분산 트랜잭션 종류별 특징.md",
     "attachments/screenshot/Pasted image 20241204220320.png",
