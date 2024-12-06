@@ -55,5 +55,9 @@
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-custom",
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
   "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": false,
-  "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false
+  "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
+  "blue-topaz-theme@@toggle-table-transition": true,
+  "blue-topaz-theme@@full-width-table": false,
+  "blue-topaz-theme@@table-style-options": "table-style-default",
+  "blue-topaz-theme@@table-width": "table-width-auto"
 }

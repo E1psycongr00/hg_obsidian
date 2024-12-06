@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "95492cd3848c33bb",
+            "id": "09e84e85504f9ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "연습노트/Spring Transaction.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -38,58 +38,22 @@
             }
           },
           {
-            "id": "00fc6b0f125cc1d4",
+            "id": "ce343fd974d2395e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring State Machine.md",
+                "file": "연습노트/State Machine 구현.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring State Machine"
-            }
-          },
-          {
-            "id": "bc12727925610a37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/Finite State Machine.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finite State Machine"
+              "title": "State Machine 구현"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "eb30b7c32805f388",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3a775e24e31690ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/상태 패턴.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "상태 패턴"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "트랜잭션",
+                "query": "state machine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -274,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/상태 패턴.md",
+                "file": "연습노트/Spring Transaction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -302,7 +266,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "상태 패턴 그래프"
+              "title": "Spring Transaction 그래프"
             }
           },
           {
@@ -329,18 +293,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/상태 패턴.md"
+                "file": "연습노트/Spring Transaction.md"
               },
               "icon": "lucide-list",
-              "title": "상태 패턴 개요"
+              "title": "Spring Transaction 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,18 +324,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a775e24e31690ee",
+  "active": "09e84e85504f9ef5",
   "lastOpenFiles": [
-    "연습노트/Finite State Machine.md",
-    "연습노트/상태 패턴.md",
-    "연습노트/Spring State Machine.md",
+    "연습노트/State Machine 구현.md",
     "연습노트/Spring Transaction.md",
     "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md",
-    "영구노트/퍼사드 패턴.md",
+    "영구노트/Finite State Machine.md",
     "3.Resources/IT/객체지향/객체 지향.md",
+    "영구노트/DB 트랜잭션.md",
+    "영구노트/DFA와 NFA 비교.md",
+    "attachments/screenshot/napkin-selection.png",
+    "연습노트/Spring State Machine.md",
+    "연습노트/상태 패턴.md",
+    "무제 파일 1.md",
+    "attachments/pdf/lec4.pdf",
+    "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
+    "Excalidraw/Drawing 2024-12-06 11.23.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-06 11.23.56.excalidraw.svg",
+    "영구노트/퍼사드 패턴.md",
     "영구노트/싱글턴 패턴.md",
     "영구노트/프록시 패턴.md",
-    "영구노트/DB 트랜잭션.md",
     "영구노트/분산 트랜잭션 종류별 특징.md",
     "attachments/screenshot/Pasted image 20241204220320.png",
     "attachments/screenshot/Pasted image 20241204204500.png",
@@ -389,16 +360,10 @@
     "3.Resources/IT/java/framework_library/DB 형상 도구.md",
     "3.Resources/IT/java/framework_library/TestContainers.md",
     "3.Resources/IT/java/framework_library/spring/2. Spring JDBC.md",
-    "3.Resources/IT/java/1. Java의 기본 구조.md",
-    "3.Resources/IT/java/2. Gradle 공부.md",
-    "3.Resources/IT/java/3. Java 문법.md",
-    "3.Resources/IT/java/5. Java Annotation.md",
     "attachments/screenshot/Pasted image 20241128081744.png",
     "attachments/screenshot/Pasted image 20241128081620.png",
     "attachments/screenshot/Pasted image 20241128081614.png",
     "Excalidraw/옵저버 패턴 구조 (draw).svg",
-    "attachments/images/observer.png",
-    "attachments/screenshot/Pasted image 20241124133440.png",
     "3.Resources/IT/tools",
     "Ruff와 Github Actions를 활용한 CI",
     "3.Resources/IT/java/framework_library/TestContainers",
@@ -407,8 +372,6 @@
     "3.Resources/IT/객체지향/무제 폴더",
     "Excalidraw/ttf/SD미생@던디.ttf",
     "Excalidraw/ttf/Jalnan2TTF.ttf",
-    "3.Resources/IT/java/framework_library/spring",
-    "3.Resources/IT/객체지향",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
