@@ -20,7 +20,7 @@ title: DB 트랜잭션
 >[!summary]
 >트랜잭션은 DB 상태 변화를 위한 작업 수행의 논리적 단위이다.
 
-트랜잭션이란, DB 상태를 변경시키는 DML(SELECT, INSERT, UPDATE, DELETE)와 같은 쿼리 여러개를 하나로 묶어서 논리적인 단위로 작업을 수행하는 것이다. 그렇기에 Transaction을 모두 성공하면 DB에 **COMMIT**을 하고, 중간에 실패하면 논리적 컨텍스트로 묶은 쿼리들을 모두 **ROLL BACK** 한다. 
+트랜잭션이란, DB 상태를 변경시키는 DML(SELECT, INSERT, UPDATE, DELETE)와 같은 쿼리 여러개를 하나로 묶어서 논리적인 단위로 작업을 수행하는 것이다. 그렇기에 Transaction을 모두 성공하면 DB에 **COMMIT**을 하고, 중간에 실패하면 논리적 컨텍스트로 묶은 쿼리들을 모두 **ROLL BACK** 한다.  ^e57d21
 
 ### 트랜잭션의 특징(ACID)
 
@@ -96,10 +96,6 @@ A와 B가 초기에 10,000씩 가지고 있다고 가정하자.
 - [트랜잭션이란? 특징과 사용법에 대해 쉽게 알아보자](https://hstory0208.tistory.com/entry/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%B4%EB%9E%80-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%82%AC%EC%9A%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%B4-%EC%89%BD%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
 ## 연결 노트
-
-
-
-
 
 
 

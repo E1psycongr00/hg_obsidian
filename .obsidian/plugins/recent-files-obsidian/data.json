@@ -9,6 +9,10 @@
       "path": "무제 파일.md"
     },
     {
+      "basename": "DB 트랜잭션",
+      "path": "영구노트/DB 트랜잭션.md"
+    },
+    {
       "basename": "무제 파일 1",
       "path": "무제 파일 1.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "객체 지향",
       "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "DB 트랜잭션",
-      "path": "영구노트/DB 트랜잭션.md"
     },
     {
       "basename": "DFA와 NFA 비교",
