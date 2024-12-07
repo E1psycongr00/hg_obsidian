@@ -26,4 +26,11 @@ title: AI 관련 앱들
 
 **동영상, 문서 요약**
 - [Liner](https://getliner.com/ko)(동영상, 문서 요약 기능이 있음)
-- 
+- ["영상,음성,PDF,웹사이트 모든 것을 요약 - Lilys AI](https://lilys.ai/home)(동영상 요약에 특화된 ai)
+
+**마무리 글 다듬기, 및 구현**
+- [Claude](https://claude.ai/new)
+
+
+**프론트 엔드**
+- [v0 by Vercel](https://v0.dev/)
