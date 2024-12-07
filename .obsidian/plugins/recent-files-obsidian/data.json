@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "생산성을 높여주는 AI 관련 앱",
+      "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
+    },
+    {
+      "basename": "Area란",
+      "path": "2.Area/Area란.md"
+    },
+    {
+      "basename": "Archive란",
+      "path": "4.Archive/Archive란.md"
+    },
+    {
       "basename": "전위 계수",
       "path": "영구노트/전위 계수.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "원자성 (draw)",
       "path": "Excalidraw/원자성 (draw).md"
-    },
-    {
-      "basename": "4. Domain Driven Design",
-      "path": "3.Resources/IT/java/framework_library/spring/4. Domain Driven Design.md"
-    },
-    {
-      "basename": "3. Spring Bean Validation 총정리",
-      "path": "3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "영속성 관리 with JPA",
-      "path": "영구노트/영속성 관리 with JPA.md"
     }
   ],
   "omittedPaths": [],
