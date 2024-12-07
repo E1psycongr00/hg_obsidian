@@ -30,7 +30,7 @@ title: AI 관련 앱들
 
 **마무리 글 다듬기, 및 구현**
 - [Claude](https://claude.ai/new)
-
+- - [ChatGPT](https://chatgpt.com/)
 
 **프론트 엔드**
 - [v0 by Vercel](https://v0.dev/)
