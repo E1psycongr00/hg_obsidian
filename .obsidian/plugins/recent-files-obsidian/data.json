@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "unified & remark & rehype 동작 과정",
+      "path": "영구노트/unified & remark & rehype 동작 과정.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "CSharp 기본",
+      "path": "3.Resources/IT/csharp/CSharp 기본.md"
+    },
+    {
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘/알고리즘.md"
+    },
+    {
       "basename": "Thread Basic",
       "path": "연습노트/Thread Basic.md"
     },
     {
-      "basename": "쓰레드 개념 구성도 (draw)",
-      "path": "Excalidraw/쓰레드 개념 구성도 (draw).md"
-    },
-    {
       "basename": "프로세스 & 스레드 정의",
       "path": "영구노트/프로세스 & 스레드 정의.md"
+    },
+    {
+      "basename": "쓰레드 개념 구성도 (draw)",
+      "path": "Excalidraw/쓰레드 개념 구성도 (draw).md"
     },
     {
       "basename": "프로세스",
@@ -31,10 +51,6 @@
     {
       "basename": "겐지",
       "path": "3.Resources/게임/Overwatch/겐지.md"
-    },
-    {
-      "basename": "동기 IO Models",
-      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
     },
     {
       "basename": "Kernel",
@@ -73,14 +89,6 @@
       "path": "영구노트/OS 쓰레드.md"
     },
     {
-      "basename": "알고리즘",
-      "path": "3.Resources/IT/알고리즘/알고리즘.md"
-    },
-    {
-      "basename": "객체 지향",
-      "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
       "basename": "SOLID란 무엇인가",
       "path": "영구노트/SOLID란 무엇인가.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "Finite State Machine",
       "path": "영구노트/Finite State Machine.md"
-    },
-    {
-      "basename": "전자기학",
-      "path": "3.Resources/전기기사/전자기학/전자기학.md"
-    },
-    {
-      "basename": "langchain",
-      "path": "3.Resources/IT/python/langchain/langchain.md"
     }
   ],
   "omittedPaths": [],

@@ -6,7 +6,6 @@
   "obsidian-style-settings",
   "oz-clear-unused-images",
   "obsidian-excalidraw-plugin",
-  "dataview",
   "3d-graph",
   "calendar",
   "obsidian-tasks-plugin",
@@ -21,11 +20,9 @@
   "media-extended",
   "obsidian-mind-map",
   "image-captions",
-  "2hop-links-plus",
   "obsidian-auto-link-title",
   "obsidian-link-embed",
-  "settings-search",
+  "dataview",
   "emoji-shortcodes",
-  "obsidian-icon-folder",
-  "graph-link-types"
+  "2hop-links-plus"
 ]
