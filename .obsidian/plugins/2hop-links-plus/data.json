@@ -4,7 +4,7 @@
   "showBackwardConnectedLinks": true,
   "showTwohopLinks": true,
   "showNewLinks": true,
-  "showTagsLinks": true,
+  "showTagsLinks": false,
   "showPropertiesLinks": true,
   "showImage": true,
   "excludePaths": [],
@@ -12,7 +12,7 @@
   "initialSectionCount": 20,
   "enableDuplicateRemoval": true,
   "sortOrder": "random",
-  "showTwoHopLinksInSeparatePane": true,
+  "showTwoHopLinksInSeparatePane": false,
   "excludeTags": [
     "완성",
     ""

@@ -17,7 +17,6 @@
   "link-exploder",
   "obsidian-list-callouts",
   "obsidian-vault-statistics-plugin",
-  "graph-link-types",
   "show-whitespace-cm6",
   "media-extended",
   "obsidian-mind-map",
@@ -27,5 +26,6 @@
   "obsidian-link-embed",
   "settings-search",
   "emoji-shortcodes",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "graph-link-types"
 ]

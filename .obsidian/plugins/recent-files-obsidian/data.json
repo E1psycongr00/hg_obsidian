@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "겐지",
-      "path": "3.Resources/게임/Overwatch/겐지.md"
+      "basename": "Thread Basic",
+      "path": "연습노트/Thread Basic.md"
+    },
+    {
+      "basename": "쓰레드 개념 구성도 (draw)",
+      "path": "Excalidraw/쓰레드 개념 구성도 (draw).md"
+    },
+    {
+      "basename": "프로세스 & 스레드 정의",
+      "path": "영구노트/프로세스 & 스레드 정의.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "운영 체제(OS)",
+      "path": "영구노트/운영 체제(OS).md"
+    },
+    {
+      "basename": "유저 쓰레드",
+      "path": "영구노트/유저 쓰레드.md"
     },
     {
       "basename": "기초 화장품 성분 별 특징 (draw)",
       "path": "Excalidraw/기초 화장품 성분 별 특징 (draw).md"
+    },
+    {
+      "basename": "겐지",
+      "path": "3.Resources/게임/Overwatch/겐지.md"
     },
     {
       "basename": "동기 IO Models",
@@ -23,18 +47,6 @@
     {
       "basename": "동기화 모음",
       "path": "3.Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "유저 쓰레드",
-      "path": "영구노트/유저 쓰레드.md"
-    },
-    {
-      "basename": "프로세스 & 스레드 정의",
-      "path": "영구노트/프로세스 & 스레드 정의.md"
-    },
-    {
-      "basename": "프로세스",
-      "path": "3.Resources/IT/운영체제/프로세스.md"
     },
     {
       "basename": "Blocking IO",
@@ -87,18 +99,6 @@
     {
       "basename": "langchain",
       "path": "3.Resources/IT/python/langchain/langchain.md"
-    },
-    {
-      "basename": "3. Java 문법",
-      "path": "3.Resources/IT/java/3. Java 문법.md"
-    },
-    {
-      "basename": "2. Gradle 공부",
-      "path": "3.Resources/IT/java/2. Gradle 공부.md"
-    },
-    {
-      "basename": "1. Java의 기본 구조",
-      "path": "3.Resources/IT/java/1. Java의 기본 구조.md"
     }
   ],
   "omittedPaths": [],
