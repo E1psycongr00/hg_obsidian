@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "unified & remark & rehype 동작 과정",
-      "path": "영구노트/unified & remark & rehype 동작 과정.md"
-    },
-    {
-      "basename": "동기 IO Models",
-      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
-    },
-    {
-      "basename": "CSharp 기본",
-      "path": "3.Resources/IT/csharp/CSharp 기본.md"
-    },
-    {
-      "basename": "객체 지향",
-      "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "3.Resources/IT/알고리즘/알고리즘.md"
-    },
-    {
-      "basename": "Thread Basic",
-      "path": "연습노트/Thread Basic.md"
-    },
-    {
-      "basename": "프로세스 & 스레드 정의",
-      "path": "영구노트/프로세스 & 스레드 정의.md"
-    },
-    {
-      "basename": "쓰레드 개념 구성도 (draw)",
-      "path": "Excalidraw/쓰레드 개념 구성도 (draw).md"
-    },
-    {
       "basename": "프로세스",
       "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "3.Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
+      "path": "영구노트/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
     },
     {
       "basename": "운영 체제(OS)",
       "path": "영구노트/운영 체제(OS).md"
     },
     {
-      "basename": "유저 쓰레드",
-      "path": "영구노트/유저 쓰레드.md"
-    },
-    {
-      "basename": "기초 화장품 성분 별 특징 (draw)",
-      "path": "Excalidraw/기초 화장품 성분 별 특징 (draw).md"
-    },
-    {
-      "basename": "겐지",
-      "path": "3.Resources/게임/Overwatch/겐지.md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "영구노트/Kernel.md"
-    },
-    {
-      "basename": "PCB(Process Controll Block)",
-      "path": "영구노트/PCB(Process Controll Block).md"
-    },
-    {
       "basename": "동기화 모음",
       "path": "3.Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "부하 테스트",
+      "path": "3.Resources/IT/부하 테스트.md"
+    },
+    {
+      "basename": "202412090308",
+      "path": "연습노트/202412090308.md"
+    },
+    {
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
     },
     {
       "basename": "Blocking IO",
       "path": "영구노트/Blocking IO.md"
     },
     {
-      "basename": "langgraph",
-      "path": "3.Resources/IT/python/langchain/langgraph.md"
+      "basename": "Non-Blocking IO",
+      "path": "영구노트/Non-Blocking IO.md"
     },
     {
-      "basename": "Process와 컨텍스트 스위칭",
-      "path": "영구노트/Process와 컨텍스트 스위칭.md"
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘/알고리즘.md"
     },
     {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+      "basename": "생산성을 높여주는 AI 관련 앱",
+      "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
     },
     {
-      "basename": "CPU 쓰레드(Thread)",
-      "path": "영구노트/CPU 쓰레드(Thread).md"
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
     },
     {
-      "basename": "OS 쓰레드",
-      "path": "영구노트/OS 쓰레드.md"
+      "basename": "팩토리 패턴",
+      "path": "연습노트/팩토리 패턴.md"
     },
     {
-      "basename": "SOLID란 무엇인가",
-      "path": "영구노트/SOLID란 무엇인가.md"
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "연습노트/Flyway 사용하기 with Gradle.md"
     },
     {
-      "basename": "Single Responsibility Principal",
-      "path": "영구노트/Single Responsibility Principal.md"
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
     },
     {
-      "basename": "Finite State Machine",
-      "path": "영구노트/Finite State Machine.md"
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "Spring Transaction",
+      "path": "연습노트/Spring Transaction.md"
+    },
+    {
+      "basename": "Spring State Machine",
+      "path": "연습노트/Spring State Machine.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
+    },
+    {
+      "basename": "KaibanJS",
+      "path": "연습노트/KaibanJS.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "Latex Suite 사용 방법",
+      "path": "Latex Suite 사용 방법.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],

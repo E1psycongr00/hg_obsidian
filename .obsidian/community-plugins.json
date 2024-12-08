@@ -7,7 +7,6 @@
   "oz-clear-unused-images",
   "obsidian-excalidraw-plugin",
   "3d-graph",
-  "calendar",
   "obsidian-tasks-plugin",
   "recent-files-obsidian",
   "obsidian-latex-suite",
@@ -24,5 +23,7 @@
   "obsidian-link-embed",
   "dataview",
   "emoji-shortcodes",
-  "2hop-links-plus"
+  "2hop-links-plus",
+  "infranodus-graph-view",
+  "graph-link-types"
 ]
