@@ -6,53 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#JAVA  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#Python  ",
-      "color": {
-        "a": 1,
-        "rgb": 6575326
-      }
-    },
-    {
-      "query": "tag:#OS",
-      "color": {
-        "a": 1,
-        "rgb": 15266883
-      }
-    },
-    {
-      "query": "tag:#알고리즘",
-      "color": {
-        "a": 1,
-        "rgb": 10965728
-      }
-    },
-    {
-      "query": "tag:#Gradle  ",
-      "color": {
-        "a": 1,
-        "rgb": 3010638
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1.3,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.670103092783505,
-  "repelStrength": 12.4742268041237,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.8854989543151445,
+  "linkDistance": 250,
+  "scale": 0.16348370567222684,
   "close": false
 }

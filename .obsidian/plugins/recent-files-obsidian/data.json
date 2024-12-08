@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
+    },
+    {
+      "basename": "Non-Blocking IO",
+      "path": "영구노트/Non-Blocking IO.md"
+    },
+    {
+      "basename": "IO Multiplexing",
+      "path": "영구노트/IO Multiplexing.md"
+    },
+    {
       "basename": "프로세스",
       "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "생산성을 높여주는 AI 관련 앱",
+      "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
+    },
+    {
+      "basename": "Area란",
+      "path": "2.Area/Area란.md"
     },
     {
       "basename": "명언 모음",
@@ -25,28 +45,12 @@
       "path": "3.Resources/IT/부하 테스트.md"
     },
     {
-      "basename": "202412090308",
-      "path": "연습노트/202412090308.md"
-    },
-    {
-      "basename": "동기 IO Models",
-      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
-    },
-    {
       "basename": "Blocking IO",
       "path": "영구노트/Blocking IO.md"
     },
     {
-      "basename": "Non-Blocking IO",
-      "path": "영구노트/Non-Blocking IO.md"
-    },
-    {
       "basename": "알고리즘",
       "path": "3.Resources/IT/알고리즘/알고리즘.md"
-    },
-    {
-      "basename": "생산성을 높여주는 AI 관련 앱",
-      "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
     },
     {
       "basename": "전기 쌍극자",
@@ -95,10 +99,6 @@
     {
       "basename": "Latex Suite 사용 방법",
       "path": "Latex Suite 사용 방법.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

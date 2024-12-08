@@ -10,7 +10,6 @@
   "obsidian-tasks-plugin",
   "recent-files-obsidian",
   "obsidian-latex-suite",
-  "obsidian-day-planner",
   "canvas-mindmap",
   "link-exploder",
   "obsidian-list-callouts",
@@ -20,10 +19,10 @@
   "obsidian-mind-map",
   "image-captions",
   "obsidian-auto-link-title",
-  "obsidian-link-embed",
   "dataview",
   "emoji-shortcodes",
   "2hop-links-plus",
   "infranodus-graph-view",
+  "obsidian-link-embed",
   "graph-link-types"
 ]
