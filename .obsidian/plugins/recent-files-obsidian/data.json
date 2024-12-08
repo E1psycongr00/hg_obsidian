@@ -1,32 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "생산성을 높여주는 AI 관련 앱",
-      "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
+      "basename": "겐지",
+      "path": "3.Resources/게임/Overwatch/겐지.md"
     },
     {
-      "basename": "Area란",
-      "path": "2.Area/Area란.md"
+      "basename": "기초 화장품 성분 별 특징 (draw)",
+      "path": "Excalidraw/기초 화장품 성분 별 특징 (draw).md"
     },
     {
-      "basename": "Spring Transaction",
-      "path": "연습노트/Spring Transaction.md"
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
     },
     {
-      "basename": "DB 트랜잭션",
-      "path": "영구노트/DB 트랜잭션.md"
+      "basename": "PCB(Process Controll Block)",
+      "path": "영구노트/PCB(Process Controll Block).md"
     },
     {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.md"
+      "basename": "동기화 모음",
+      "path": "3.Resources/IT/운영체제/동기화 모음.md"
     },
     {
-      "basename": "블랙 위도우",
-      "path": "블랙 위도우.md"
+      "basename": "유저 쓰레드",
+      "path": "영구노트/유저 쓰레드.md"
+    },
+    {
+      "basename": "프로세스 & 스레드 정의",
+      "path": "영구노트/프로세스 & 스레드 정의.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "Blocking IO",
+      "path": "영구노트/Blocking IO.md"
+    },
+    {
+      "basename": "langgraph",
+      "path": "3.Resources/IT/python/langchain/langgraph.md"
+    },
+    {
+      "basename": "Process와 컨텍스트 스위칭",
+      "path": "영구노트/Process와 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "인터럽트와 시스템 콜 동작 과정",
+      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+    },
+    {
+      "basename": "CPU 쓰레드(Thread)",
+      "path": "영구노트/CPU 쓰레드(Thread).md"
+    },
+    {
+      "basename": "OS 쓰레드",
+      "path": "영구노트/OS 쓰레드.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘/알고리즘.md"
+    },
+    {
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "SOLID란 무엇인가",
+      "path": "영구노트/SOLID란 무엇인가.md"
+    },
+    {
+      "basename": "Single Responsibility Principal",
+      "path": "영구노트/Single Responsibility Principal.md"
+    },
+    {
+      "basename": "Finite State Machine",
+      "path": "영구노트/Finite State Machine.md"
+    },
+    {
+      "basename": "전자기학",
+      "path": "3.Resources/전기기사/전자기학/전자기학.md"
+    },
+    {
+      "basename": "langchain",
+      "path": "3.Resources/IT/python/langchain/langchain.md"
     },
     {
       "basename": "3. Java 문법",
@@ -39,66 +99,6 @@
     {
       "basename": "1. Java의 기본 구조",
       "path": "3.Resources/IT/java/1. Java의 기본 구조.md"
-    },
-    {
-      "basename": "Archive란",
-      "path": "4.Archive/Archive란.md"
-    },
-    {
-      "basename": "전위 계수",
-      "path": "영구노트/전위 계수.md"
-    },
-    {
-      "basename": "전자기학",
-      "path": "3.Resources/전기기사/전자기학/전자기학.md"
-    },
-    {
-      "basename": "전위",
-      "path": "영구노트/전위.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
-    },
-    {
-      "basename": "1. Spring 기본",
-      "path": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md"
-    },
-    {
-      "basename": "State Machine 구현",
-      "path": "영구노트/State Machine 구현.md"
-    },
-    {
-      "basename": "Finite State Machine",
-      "path": "영구노트/Finite State Machine.md"
-    },
-    {
-      "basename": "객체 지향",
-      "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "DFA와 NFA 비교",
-      "path": "영구노트/DFA와 NFA 비교.md"
-    },
-    {
-      "basename": "Spring State Machine",
-      "path": "연습노트/Spring State Machine.md"
-    },
-    {
-      "basename": "상태 패턴",
-      "path": "연습노트/상태 패턴.md"
-    },
-    {
-      "basename": "lec4",
-      "path": "attachments/pdf/lec4.pdf"
-    },
-    {
-      "basename": "Drawing 2024-12-06 11.23.56.excalidraw",
-      "path": "Excalidraw/Drawing 2024-12-06 11.23.56.excalidraw.md"
-    },
-    {
-      "basename": "퍼사드 패턴",
-      "path": "영구노트/퍼사드 패턴.md"
     }
   ],
   "omittedPaths": [],
