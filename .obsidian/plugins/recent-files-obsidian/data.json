@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "프로세스",
+      "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "Thread Basic",
+      "path": "연습노트/Thread Basic.md"
+    },
+    {
+      "basename": "쓰레드 개념 구성도 (draw)",
+      "path": "Excalidraw/쓰레드 개념 구성도 (draw).md"
+    },
+    {
+      "basename": "java.nio.file.Path 사용하기",
+      "path": "영구노트/java.nio.file.Path 사용하기.md"
+    },
+    {
+      "basename": "LangGraph의 Graph 구성 요소",
+      "path": "영구노트/LangGraph의 Graph 구성 요소.md"
+    },
+    {
+      "basename": "1. Spring 기본",
+      "path": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md"
+    },
+    {
+      "basename": "동기화 모음",
+      "path": "3.Resources/IT/운영체제/동기화 모음.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "3.Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘/알고리즘.md"
+    },
+    {
       "basename": "동기 IO Models",
       "path": "3.Resources/IT/운영체제/동기 IO Models.md"
     },
@@ -13,20 +49,12 @@
       "path": "영구노트/IO Multiplexing.md"
     },
     {
-      "basename": "프로세스",
-      "path": "3.Resources/IT/운영체제/프로세스.md"
-    },
-    {
       "basename": "생산성을 높여주는 AI 관련 앱",
       "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
     },
     {
       "basename": "Area란",
       "path": "2.Area/Area란.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "3.Resources/명언/명언 모음.md"
     },
     {
       "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
@@ -37,20 +65,12 @@
       "path": "영구노트/운영 체제(OS).md"
     },
     {
-      "basename": "동기화 모음",
-      "path": "3.Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
       "basename": "부하 테스트",
       "path": "3.Resources/IT/부하 테스트.md"
     },
     {
       "basename": "Blocking IO",
       "path": "영구노트/Blocking IO.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "3.Resources/IT/알고리즘/알고리즘.md"
     },
     {
       "basename": "전기 쌍극자",
@@ -79,26 +99,6 @@
     {
       "basename": "Spring State Machine",
       "path": "연습노트/Spring State Machine.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "Spring Modulith",
-      "path": "연습노트/Spring Modulith.md"
-    },
-    {
-      "basename": "KaibanJS",
-      "path": "연습노트/KaibanJS.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "Latex Suite 사용 방법",
-      "path": "Latex Suite 사용 방법.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "SkepticMystic/breadcrumbs"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "SkepticMystic/breadcrumbs",
+      "version": "4.2.35-beta"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}
