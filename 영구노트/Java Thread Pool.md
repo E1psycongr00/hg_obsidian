@@ -51,7 +51,7 @@ java에서는 Thread Pool을 손쉽게 사용하기 위해 [[ExecutorService]]�
 ## 연결 노트
 
 - [[OS 쓰레드|Kernel Level Thread]]
-- [[유저 쓰레드|User Level Thread]]
+- [[User Level Thread|User Level Thread]]
 - [[Kernel|커널]]
 
 

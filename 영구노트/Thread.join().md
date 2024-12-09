@@ -76,7 +76,7 @@ MyThread가 끝날 때까지 Main Thread을 wait 상태로 만들고 MyThread �
 - https://codechacha.com/ko/java-thread-join/
 
 ## 연결 노트
-- [[유저 쓰레드]]
+- [[User Level Thread]]
 - [[Java 쓰레드 상태]]
 
 

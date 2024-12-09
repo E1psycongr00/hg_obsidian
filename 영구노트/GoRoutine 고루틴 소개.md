@@ -94,7 +94,7 @@ TCB가 전달해야 할 정보가 PCB에 적지만 고루틴의 경우 Context S
 ### 고루틴의 스레드 활용
 고루틴은 user-level 방식과 kernel-level 방식을 혼용해서 사용하고 있다. (M:N) 고루틴(User-lv) - OS 스레드(kernel lv)를 M:N으로 매핑하는 구조로 사용되어 Context Switching의 비용 문제와 멀티코어의 장점 모두 가지게 된다.
 
-유저 레벨과 커널 레벨의 쓰레드에 대한 내용은 [[Kernel Level Thread vs User Level Thread]] 를 참고하자
+유저 레벨과 커널 레벨의 쓰레드에 대한 내용은 [[멀티 쓰레드 모델]] 를 참고하자
 
 ## 질문 & 확장
 
@@ -106,7 +106,7 @@ TCB가 전달해야 할 정보가 PCB에 적지만 고루틴의 경우 Context S
 - https://velog.io/@snake7667/Go-%EA%B3%A0%EB%A3%A8%ED%8B%B4Goroutine%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C#%EA%B3%A0%EB%A3%A8%ED%8B%B4%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81%EB%90%98%EB%8A%94%EA%B0%80
 
 ## 연결 노트
-- [[Kernel Level Thread vs User Level Thread]]
+- [[멀티 쓰레드 모델]]
 
 
 
