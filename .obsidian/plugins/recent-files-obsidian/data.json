@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "계층 간선 네이밍",
-      "path": "연습노트/계층 간선 네이밍.md"
-    },
-    {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
-    },
-    {
       "basename": "Thread Basic",
       "path": "영구노트/Thread Basic.md"
-    },
-    {
-      "basename": "멀티 쓰레드 모델",
-      "path": "영구노트/멀티 쓰레드 모델.md"
-    },
-    {
-      "basename": "User Level Thread",
-      "path": "영구노트/User Level Thread.md"
-    },
-    {
-      "basename": "Kernel Level Thread",
-      "path": "영구노트/Kernel Level Thread.md"
-    },
-    {
-      "basename": "GoRoutine 고루틴 소개",
-      "path": "영구노트/GoRoutine 고루틴 소개.md"
     },
     {
       "basename": "프로세스",
       "path": "3.Resources/IT/운영체제/프로세스.md"
     },
     {
-      "basename": "Process vs Thread",
-      "path": "영구노트/Process vs Thread.md"
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
     },
     {
-      "basename": "쓰레드 개념 구성도 (draw)",
-      "path": "Excalidraw/쓰레드 개념 구성도 (draw).md"
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
     },
     {
-      "basename": "Thread Memory 구조",
-      "path": "수정 노트/Thread Memory 구조.md"
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
     },
     {
-      "basename": "운영 체제(OS)",
-      "path": "영구노트/운영 체제(OS).md"
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
     },
     {
-      "basename": "IO Multiplexing",
-      "path": "영구노트/IO Multiplexing.md"
+      "basename": "project 템플릿",
+      "path": "templates/project 템플릿.md"
     },
     {
-      "basename": "Thread 분류 기준",
-      "path": "영구노트/Thread 분류 기준.md"
+      "basename": "스즈메의 문단속",
+      "path": "스즈메의 문단속.md"
     },
     {
-      "basename": "Thread LifeCycle",
-      "path": "영구노트/Thread LifeCycle.md"
+      "basename": "레미제라블 25주년 감상문",
+      "path": "레미제라블 25주년 감상문.md"
     },
     {
-      "basename": "Spring Modulith",
-      "path": "연습노트/Spring Modulith.md"
+      "basename": "데드풀 감상문",
+      "path": "데드풀 감상문.md"
     },
     {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+      "basename": "감상문 템플릿",
+      "path": "templates/감상문 템플릿.md"
     },
     {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
+      "basename": "Process와 컨텍스트 스위칭",
+      "path": "영구노트/Process와 컨텍스트 스위칭.md"
     },
     {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
+      "basename": "Process Basic",
+      "path": "영구노트/Process Basic.md"
     },
     {
-      "basename": "구조와 메커니즘 관계",
-      "path": "영구노트/구조와 메커니즘 관계.md"
+      "basename": "동기화 모음",
+      "path": "3.Resources/IT/운영체제/동기화 모음.md"
     },
     {
-      "basename": "Stack 영역",
-      "path": "수정 노트/Stack 영역.md"
+      "basename": "동기 IO Models",
+      "path": "3.Resources/IT/운영체제/동기 IO Models.md"
     },
     {
-      "basename": "프로세스 & 스레드 메모리 구조",
-      "path": "영구노트/프로세스 & 스레드 메모리 구조.md"
+      "basename": "알고리즘",
+      "path": "3.Resources/IT/알고리즘/알고리즘.md"
     },
     {
-      "basename": "Code 영역",
-      "path": "수정 노트/Code 영역.md"
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
     },
     {
-      "basename": "Data 영역",
-      "path": "수정 노트/Data 영역.md"
+      "basename": "전자기학",
+      "path": "3.Resources/전기기사/전자기학/전자기학.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "3.Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "겐지",
+      "path": "3.Resources/게임/Overwatch/겐지.md"
+    },
+    {
+      "basename": "생산성을 높여주는 AI 관련 앱",
+      "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
+    },
+    {
+      "basename": "Area란",
+      "path": "2.Area/Area란.md"
+    },
+    {
+      "basename": "정적 블로그 사이트 프로젝트",
+      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
+    },
+    {
+      "basename": "팩토리 패턴",
+      "path": "연습노트/팩토리 패턴.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
     }
   ],
   "omittedPaths": [],
