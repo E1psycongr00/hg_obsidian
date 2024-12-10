@@ -21,7 +21,7 @@ title: Thread 분류 기준
 
 ### Hardware vs Software
 
-병렬로 무엇인가 실행한다는 의미는 같지만 적용되는 대상이 다르다. CPU 쓰레드의 경우 보통 CPU의 논리적인 최소 처리 단위를 의미하고, 소프트웨어의 경우 application 또는 OS 레벨에서 관리되는 논리적인 처리 단위이다. 대상이 다르기 떄문에 쓰레드 스케줄링의 주체도 다르다.
+병렬로 무엇인가 실행한다는 의미는 같지만 적용되는 대상이 다르다. CPU 쓰레드의 경우 보통 CPU의 논리적인 최소 처리 단위를 의미하고, 소프트웨어의 경우 application 또는 OS 레벨에서 관리되는 논리적인 처리 단위이다. 대상이 다르기 때문에 쓰레드 스케줄링의 주체도 다르다.
 
 | 구분        | CPU 쓰레드                             | 소프트웨어 쓰레드                 |
 | --------- | ----------------------------------- | ------------------------- |
@@ -60,13 +60,7 @@ title: Thread 분류 기준
 
 - element:: [[CPU 쓰레드(Thread)|하드웨어 쓰레드]]
 - element:: [[User Level Thread|User Level Thread]]
-- element:: [[OS 쓰레드|Kernel Level Thread]]
-
-
-
-
-
-
+- element:: [[Kernel Level Thread|Kernel Level Thread]]
 
 
 

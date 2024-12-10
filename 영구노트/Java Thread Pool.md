@@ -50,7 +50,7 @@ java에서는 Thread Pool을 손쉽게 사용하기 위해 [[ExecutorService]]�
 - [[Java] Thread Pool 개념과 동작원리 (velog.io)](https://velog.io/@haero_kim/Java-Thread-Pool-%EA%B0%9C%EB%85%90%EA%B3%BC-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
 ## 연결 노트
 
-- [[OS 쓰레드|Kernel Level Thread]]
+- [[Kernel Level Thread|Kernel Level Thread]]
 - [[User Level Thread|User Level Thread]]
 - [[Kernel|커널]]
 

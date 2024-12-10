@@ -59,7 +59,7 @@ XjCRnQwq: [[영구노트/User Level Thread.md]]
 
 Z5uDWnOQ: [[영구노트/Thread Basic.md]]
 
-XtczImmz: [[영구노트/OS 쓰레드.md]]
+XtczImmz: [[Kernel Level Thread]]
 
 ntqty4Zk: [[영구노트/CPU 쓰레드(Thread).md]]
 

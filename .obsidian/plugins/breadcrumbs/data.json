@@ -109,6 +109,17 @@
         ],
         "close_field": "next",
         "close_reversed": true
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "element"
+          }
+        ],
+        "rounds": 10,
+        "close_reversed": true,
+        "close_field": "up"
       }
     ]
   },
