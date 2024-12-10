@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Thread LifeCycle",
+      "path": "영구노트/Thread LifeCycle.md"
+    },
+    {
       "basename": "Thread Basic",
       "path": "영구노트/Thread Basic.md"
     },
     {
+      "basename": "Thread 분류 기준",
+      "path": "영구노트/Thread 분류 기준.md"
+    },
+    {
+      "basename": "User Level Thread",
+      "path": "영구노트/User Level Thread.md"
+    },
+    {
+      "basename": "Kernel Level Thread",
+      "path": "영구노트/Kernel Level Thread.md"
+    },
+    {
       "basename": "프로세스",
       "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "쓰레드 개념 구성도 (draw)",
+      "path": "Excalidraw/쓰레드 개념 구성도 (draw).md"
+    },
+    {
+      "basename": "Process vs Thread",
+      "path": "영구노트/Process vs Thread.md"
     },
     {
       "basename": "인물 소개 템플릿",
@@ -75,30 +99,6 @@
     {
       "basename": "명언 모음",
       "path": "3.Resources/명언/명언 모음.md"
-    },
-    {
-      "basename": "겐지",
-      "path": "3.Resources/게임/Overwatch/겐지.md"
-    },
-    {
-      "basename": "생산성을 높여주는 AI 관련 앱",
-      "path": "2.Area/생산성을 높여주는 AI 관련 앱.md"
-    },
-    {
-      "basename": "Area란",
-      "path": "2.Area/Area란.md"
-    },
-    {
-      "basename": "정적 블로그 사이트 프로젝트",
-      "path": "1.Projects/정적 블로그 사이트 프로젝트.md"
-    },
-    {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
     }
   ],
   "omittedPaths": [],
