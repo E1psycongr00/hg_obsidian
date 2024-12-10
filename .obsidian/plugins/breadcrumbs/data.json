@@ -17,27 +17,42 @@
       "label": "prev"
     },
     {
-      "label": "element"
+      "label": "example"
+    },
+    {
+      "label": "described"
+    },
+    {
+      "label": "sibling"
+    },
+    {
+      "label": "related"
+    },
+    {
+      "label": "alternative"
     }
   ],
   "edge_field_groups": [
     {
       "label": "ups",
       "fields": [
-        "up"
+        "up",
+        "described"
       ]
     },
     {
       "label": "downs",
       "fields": [
         "down",
-        "element"
+        "example"
       ]
     },
     {
       "label": "sames",
       "fields": [
-        "same"
+        "same",
+        "related",
+        "alternative"
       ]
     },
     {
@@ -50,6 +65,12 @@
       "label": "prevs",
       "fields": [
         "prev"
+      ]
+    },
+    {
+      "label": "siblings",
+      "fields": [
+        "sibling"
       ]
     }
   ],
@@ -114,12 +135,76 @@
         "name": "",
         "chain": [
           {
-            "field": "element"
+            "field": "example"
+          }
+        ],
+        "rounds": 1,
+        "close_reversed": true,
+        "close_field": "described"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "sibling"
+          },
+          {
+            "field": "sibling"
+          }
+        ],
+        "rounds": 10,
+        "close_reversed": false,
+        "close_field": "sibling"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "sibling"
+          },
+          {
+            "field": "up"
+          }
+        ],
+        "rounds": 10,
+        "close_reversed": false,
+        "close_field": "up"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "up"
+          },
+          {
+            "field": "down"
+          }
+        ],
+        "rounds": 20,
+        "close_reversed": false,
+        "close_field": "sibling"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "alternative"
           }
         ],
         "rounds": 10,
         "close_reversed": true,
-        "close_field": "up"
+        "close_field": "alternative"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "related"
+          }
+        ],
+        "rounds": 10,
+        "close_reversed": true,
+        "close_field": "related"
       }
     ]
   },
@@ -214,12 +299,15 @@
           "downs",
           "sames",
           "nexts",
-          "prevs"
+          "prevs",
+          "siblings"
         ]
       },
       "tree": {
         "collapse": false,
-        "show_attributes": [],
+        "show_attributes": [
+          "field"
+        ],
         "merge_fields": false,
         "field_group_labels": [
           "downs",
@@ -284,7 +372,7 @@
   },
   "suggestors": {
     "edge_field": {
-      "enabled": false,
+      "enabled": true,
       "trigger": "."
     }
   },

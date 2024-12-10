@@ -7,39 +7,71 @@ aliases:
   - 커널 쓰레드
   - 커널 레벨 쓰레드
   - KLT
-title쓰레드: Kernel Level Thread
+title: Kernel Level Thread
 date: 2024-01-21
 ---
 작성 날짜: 2024-01-21
 작성 시간: 23:30
-
 
 ----
 ## 내용(Content)
 ### 커널 레벨 스레드(Kernel Level Thread)
 
 >[!summary] 커널 쓰레드 == OS 쓰레드
->- OS 커널 레벨 에서 생성되고 관리되는 쓰레드이다.  
->- CPU에서 실행 단위이며 CPU 스케줄링을 바로 이 OS 쓰레드를 활용한다.
+>- 운영체제의 커널에 의해 직접 관리되는 쓰레드
+>- 하드웨어 CPU의 실제 실행 단위
+>- 커널이 직접 스케줄링하는 대상
+>- 각각의 커널 스레드는 독립적인 커널 스택과 컨텍스트를 가짐
 
-커널 스레드는 OS에서 지원하는 스레드 기능으로 구현된다. 커널이 스레드의 생성 및 스케줄링을 관리한다. 스레드가 시스템 호출로 중단되더라도, 커널은 프로세스 내의 다른 스레드를 중단시키지 않고 계속 실행시킨다. 그러나 사용자 스레드에 비해 느리다.
+^7651b2
 
->[!note] OS 쓰레드가 느린 이유
->컨텍스트 스위칭 시에 여러 커널 코드가 CPU에서 실행되기 때문에 CPU 리소스를 잡아 먹는다.  그리고 다시 커널 모드에서 User 모드로 전환되는 데 이런 비용 때문에 느리다. 
+커널 레벨 스레드는 운영체제 커널이 직접 생성하고 관리하는 스레드입니다. 각 커널 스레드는 독립적인 스케줄링 개체로 취급되며, 커널에 의해 직접 CPU에 할당됩니다.
+
+#### 특징
+1. **자원 할당**
+   - 각 스레드마다 TCB(Thread Control Block) 할당
+   - 독립적인 커널 스택 공간 보유
+   - CPU 레지스터 컨텍스트 독립적 관리
+
+2. **병행성(Concurrency)**
+   - 멀티프로세서 시스템에서 진정한 병렬 실행 가능
+   - 한 프로세스의 스레드들이 여러 CPU에서 동시 실행 가능
+
+3. **블로킹 동작**
+   - 한 스레드가 블로킹되어도 같은 프로세스의 다른 스레드는 실행 가능
+   - I/O 작업이나 시스템 콜로 인한 블로킹에서 효율적
+
+#### 장점
+- 커널이 각 스레드를 직접 관리하므로 스케줄링이 더 유연함
+- 한 스레드가 블로킹되어도 다른 스레드가 실행될 수 있음
+- 멀티프로세서 환경에서 효율적인 병렬 처리 가능
+
+#### 단점
+- 사용자 레벨 스레드에 비해 생성과 관리 비용이 큼
+- 컨텍스트 스위칭 시 모드 전환(user mode ↔ kernel mode) 필요
+- 커널 자원을 더 많이 사용
+
+>[!note] 컨텍스트 스위칭 오버헤드
+>1. 유저 모드에서 커널 모드로 전환 필요
+>2. 커널 스택 및 레지스터 컨텍스트 저장/복원
+>3. CPU 캐시 무효화 발생 가능
+>4. 스케줄러 호출 및 실행
+>이러한 과정들이 사용자 레벨 스레드 전환보다 더 많은 시간 소요
 
 ## 질문 & 확장
+Q1: 커널 레벨 스레드와 사용자 레벨 스레드의 차이점은?
+A1: 커널 레벨 스레드는 운영체제가 직접 관리하고 스케줄링하는 반면, 사용자 레벨 스레드는 사용자 영역의 라이브러리가 관리합니다.
 
-(없음)
+Q2: 왜 커널 레벨 스레드를 사용하나요?
+A2: 진정한 병렬성 구현과 시스템 자원의 효율적 활용을 위해 사용됩니다. 특히 멀티코어 시스템에서 더 효과적입니다.
 
 ## 출처(링크)
-- https://kspsd.tistory.com/50
-- https://www.youtube.com/watch?v=vorIqiLM7jc&t=326s
-- https://velog.io/@khsb2012/go-goroutine#%EA%B3%A0%EB%A3%A8%ED%8B%B4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%EB%90%A0%EA%B9%8C
-- [[ Linux Kernel ] 12. Kernel Thread(커널 스레드) (tistory.com)](https://coder-in-war.tistory.com/entry/Embedded-19-Linux-Kernel-Kernel-Thread%EC%BB%A4%EB%84%90-%EC%8A%A4%EB%A0%88%EB%93%9C)
+- Operating System Concepts, 10th Edition (Silberschatz, Galvin, Gagne)
+- Modern Operating Systems, 4th Edition (Andrew S. Tanenbaum)
+- [Linux Kernel Development, 3rd Edition (Robert Love)](https://www.oreilly.com/library/view/linux-kernel-development/9780768696974/)
+- [Understanding the Linux Kernel, 3rd Edition (Daniel P. Bovet)](https://www.oreilly.com/library/view/understanding-the-linux/0596005652/)
 
 ## 연결 노트
-
-- [[User Level Thread]]
-- [[멀티 쓰레드 모델]]
-- [[인터럽트와 시스템 콜 동작 과정]]
+- related:: [[멀티 쓰레드 모델]]
 - [[Process와 컨텍스트 스위칭|Process Context Switching]]
+- [[커널 스케줄링]]

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-file: draw",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,23 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag: #OS  ",
+      "query": "tag: #Thread  ",
       "color": {
         "a": 1,
-        "rgb": 2353068
+        "rgb": 13950772
+      }
+    },
+    {
+      "query": "tag: #Process  ",
+      "color": {
+        "a": 1,
+        "rgb": 5735965
+      }
+    },
+    {
+      "query": "tag: #OS",
+      "color": {
+        "a": 1,
+        "rgb": 11271982
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.4,
+  "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.559278350515464,
-  "repelStrength": 11.8041237113402,
+  "repelStrength": 13.8144329896907,
   "linkStrength": 1,
-  "linkDistance": 148,
-  "scale": 0.508761885579263,
-  "close": true
+  "linkDistance": 112,
+  "scale": 0.25883865621816715,
+  "close": false
 }

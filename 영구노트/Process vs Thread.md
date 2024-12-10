@@ -8,9 +8,6 @@ aliases:
 date: 2024-12-09
 title: Process vs Thread
 ---
-작성 날짜: 2024-12-09
-작성 시간: 11:49
-
 
 ----
 ## 내용(Content)

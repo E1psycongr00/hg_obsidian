@@ -14,5 +14,6 @@
   "propertiesInDocument": "visible",
   "livePreview": true,
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": null
 }
