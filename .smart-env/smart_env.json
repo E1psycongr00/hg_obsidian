@@ -1,24 +1,68 @@
 {
+  "is_obsidian_vault": true,
   "smart_blocks": {
+    "embed_blocks": true,
     "embed_model": {
       "model_key": "TaylorAI/bge-micro-v2",
       "None": {}
-    }
+    },
+    "min_chars": "300"
   },
   "smart_sources": {
     "embed_model": {
       "model_key": "TaylorAI/bge-micro-v2",
-      "TaylorAI/bge-micro-v2": {}
-    }
+      "legacy_transformers": true,
+      "TaylorAI/bge-micro-v2": {},
+      "transformers": {
+        "model_key": "TaylorAI/bge-micro-v2",
+        "legacy_transformers": true
+      },
+      "adapter": "transformers",
+      "openai": {
+        "model_key": "text-embedding-ada-002"
+      },
+      "text-embedding-3-small": {},
+      "text-embedding-ada-002": {}
+    },
+    "min_chars": "300",
+    "smart_change": {
+      "active": true
+    },
+    "expanded_view": true
   },
   "file_exclusions": "Untitled",
   "folder_exclusions": ".git, .obsidian, .smart-env, .trash, 1.Projects, 2.Area, 3.Resources, 4.Archive, attachments, Excalidraw, smart-chats, templates, 나의 마일스톤, 데일리",
-  "is_obsidian_vault": true,
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false,
+    "results_limit": "20"
+  },
   "smart_notices": {
     "muted": {
       "error in embedding search": true,
       "Notice muted": true
     }
   },
-  "smart_chats_folder": "smart-chats"
+  "smart_chats_folder": "smart-chats",
+  "excluded_headings": "",
+  "smart_directories": {},
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "openai",
+      "openai": {
+        "model_key": "gpt-4o"
+      },
+      "anthropic": {
+        "model_key": "claude-3-5-sonnet-latest"
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "en",
+    "review_context": false,
+    "lookup_limit": "10",
+    "send_tool_output_in_user_message": false
+  },
+  "expanded_view": true
 }

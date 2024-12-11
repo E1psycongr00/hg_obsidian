@@ -4,3 +4,8 @@
 
 # Ignore Smart Connections folder
 .smart-connections
+
+
+
+# Ignore Smart Environment folder
+.smart-env
