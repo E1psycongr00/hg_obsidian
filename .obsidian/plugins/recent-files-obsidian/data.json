@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "js tutorial",
+      "path": "3.Resources/IT/javascript/js tutorial.md"
+    },
+    {
       "basename": "Thread Memory 구조",
       "path": "수정 노트/Thread Memory 구조.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "알고리즘",
       "path": "3.Resources/IT/알고리즘/알고리즘.md"
-    },
-    {
-      "basename": "객체 지향",
-      "path": "3.Resources/IT/객체지향/객체 지향.md"
     }
   ],
   "omittedPaths": [],
