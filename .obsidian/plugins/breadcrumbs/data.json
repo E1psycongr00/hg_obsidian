@@ -205,6 +205,34 @@
         "rounds": 10,
         "close_reversed": true,
         "close_field": "related"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "sibling"
+          },
+          {
+            "field": "described"
+          }
+        ],
+        "rounds": 10,
+        "close_reversed": false,
+        "close_field": "described"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "described"
+          },
+          {
+            "field": "example"
+          }
+        ],
+        "rounds": 10,
+        "close_reversed": false,
+        "close_field": "sibling"
       }
     ]
   },
