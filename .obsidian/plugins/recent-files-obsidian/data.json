@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
+    },
+    {
+      "basename": "Jacard",
+      "path": "연습노트/Jacard.md"
+    },
+    {
+      "basename": "KaibanJS",
+      "path": "연습노트/KaibanJS.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
+    },
+    {
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "연습노트/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "팩토리 패턴",
+      "path": "연습노트/팩토리 패턴.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "계층 간선 네이밍",
+      "path": "연습노트/계층 간선 네이밍.md"
+    },
+    {
       "basename": "Adamic Adars",
       "path": "영구노트/Adamic Adars.md"
     },
     {
-      "basename": "Adamic Adar index와 추천 시스템 이해와 예시",
-      "path": "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md"
+      "basename": "Adamic Adar index를 이용한 스팸 필터링 예시",
+      "path": "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md"
     },
     {
-      "basename": "Adamic Adar index를 이용한 스팸 필터링 예시",
-      "path": "연습노트/Adamic Adar index를 이용한 스팸 필터링 예시.md"
+      "basename": "Adamic Adar index와 추천 시스템 이해와 예시",
+      "path": "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md"
     },
     {
       "basename": "Adamic Adars 영화 추천 (draw)",
@@ -67,38 +99,6 @@
     {
       "basename": "멀티 쓰레드 모델",
       "path": "영구노트/멀티 쓰레드 모델.md"
-    },
-    {
-      "basename": "Process vs Thread",
-      "path": "영구노트/Process vs Thread.md"
-    },
-    {
-      "basename": "Kernel Level Thread",
-      "path": "영구노트/Kernel Level Thread.md"
-    },
-    {
-      "basename": "User Level Thread",
-      "path": "영구노트/User Level Thread.md"
-    },
-    {
-      "basename": "Stack 영역",
-      "path": "수정 노트/Stack 영역.md"
-    },
-    {
-      "basename": "Code 영역",
-      "path": "수정 노트/Code 영역.md"
-    },
-    {
-      "basename": "Heap 영역",
-      "path": "수정 노트/Heap 영역.md"
-    },
-    {
-      "basename": "동기화 모음",
-      "path": "3.Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "CPU 쓰레드(Thread)",
-      "path": "영구노트/CPU 쓰레드(Thread).md"
     }
   ],
   "omittedPaths": [],
