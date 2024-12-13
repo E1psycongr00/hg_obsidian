@@ -14,7 +14,6 @@
     "Co-Citations",
     "Adamic Adar",
     "Jaccard",
-    "Clustering Coefficient",
-    "Otsuka-Chiai"
+    "Louvain"
   ]
 }

@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Jacard 유사도",
-      "path": "연습노트/Jacard 유사도.md"
+      "basename": "Drawing 2024-12-13 14.55.32.excalidraw",
+      "path": "Excalidraw/Drawing 2024-12-13 14.55.32.excalidraw.md"
+    },
+    {
+      "basename": "Jaccard 유사도와 클러스터링 및 추천 시스템",
+      "path": "연습노트/Jaccard 유사도와 클러스터링 및 추천 시스템.md"
+    },
+    {
+      "basename": "jaccard 유사도와 유사 사용자 기반 추천",
+      "path": "연습노트/jaccard 유사도와 유사 사용자 기반 추천.md"
+    },
+    {
+      "basename": "8. 표준 Java Error",
+      "path": "3.Resources/IT/java/8. 표준 Java Error.md"
+    },
+    {
+      "basename": "Jaccard 유사도",
+      "path": "연습노트/Jaccard 유사도.md"
+    },
+    {
+      "basename": "Difference between DFA and NFA - GeeksforGeeks",
+      "path": "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf"
+    },
+    {
+      "basename": "lec4",
+      "path": "attachments/pdf/lec4.pdf"
+    },
+    {
+      "basename": "RAG from scratch_ Overview",
+      "path": "attachments/pdf/RAG from scratch_ Overview.pdf"
     },
     {
       "basename": "Jacard",
@@ -71,34 +99,6 @@
     {
       "basename": "Thread 분류 기준",
       "path": "영구노트/Thread 분류 기준.md"
-    },
-    {
-      "basename": "Thread Memory 구조",
-      "path": "수정 노트/Thread Memory 구조.md"
-    },
-    {
-      "basename": "Thread LifeCycle",
-      "path": "영구노트/Thread LifeCycle.md"
-    },
-    {
-      "basename": "Thread Basic",
-      "path": "영구노트/Thread Basic.md"
-    },
-    {
-      "basename": "프로세스",
-      "path": "3.Resources/IT/운영체제/프로세스.md"
-    },
-    {
-      "basename": "프로그램",
-      "path": "영구노트/프로그램.md"
-    },
-    {
-      "basename": "Program vs Process",
-      "path": "영구노트/Program vs Process.md"
-    },
-    {
-      "basename": "Process Basic",
-      "path": "영구노트/Process Basic.md"
     }
   ],
   "omittedPaths": [],
