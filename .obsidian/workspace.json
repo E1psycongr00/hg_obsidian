@@ -8,16 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd0f2cae1f7634aa",
+            "id": "6d64444cd5d2e275",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Inter Process Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Inter Process Communication"
+            }
+          },
+          {
+            "id": "a4e181d2e3a3e47f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -37,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "프로세스 메모리",
+                "query": "communication",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -232,7 +248,7 @@
             }
           },
           {
-            "id": "fe68e9d80ed473c3",
+            "id": "98ad18a536cba374",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -263,8 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5,
-    "collapsed": true
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,15 +300,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cd0f2cae1f7634aa",
+  "active": "a4e181d2e3a3e47f",
   "lastOpenFiles": [
+    "연습노트/Inter Process Communication.md",
+    "영구노트/Process Basic.md",
+    "수정 노트/Process 메모리 구조.md",
+    "영구노트/프로세스 상태 전이.md",
+    "영구노트/Program vs Process.md",
+    "3.Resources/IT/운영체제/OS.md",
     "영구노트/멀티 태스킹 관점에서 Context Switching 이해.md",
     "수정 노트/Process 컨텍스트 스위칭.md",
     "영구노트/싱글턴 패턴.md",
     "연습노트/Thread 컨텍스트 스위칭.md",
     "수정 노트/Context Switching.md",
-    "영구노트/Process Basic.md",
-    "3.Resources/IT/운영체제/OS.md",
     "영구노트/Thread Basic.md",
     "영구노트/운영 체제(OS).md",
     "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md",
@@ -302,18 +321,14 @@
     "영구노트/Heap 영역.md",
     "영구노트/Data 영역.md",
     "영구노트/Code 영역.md",
-    "수정 노트/Process 메모리 구조.md",
     "영구노트/프로세스 & 스레드 메모리 구조.md",
     "영구노트/PCB(Process Controll Block).md",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "영구노트/Program vs Process.md",
-    "영구노트/프로세스 상태 전이.md",
     "영구노트/프로그램.md",
     "영구노트/Kernel.md",
     "영구노트/인터럽트.md",
     "Excalidraw/프로세스 상태 전이도(draw).md",
     "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
-    "Excalidraw/쓰레드 개념 구성도 (draw).md",
     "attachments/screenshot/Pasted Image 20241213202830_578.png",
     "attachments/screenshot/Pasted Image 20241213202552_937.png",
     "attachments/screenshot/Pasted Image 20241213202448_895.png",

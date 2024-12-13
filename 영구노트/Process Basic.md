@@ -51,7 +51,7 @@ title: Process Basic
 - down:: [[Process 메모리 구조]]
 - down:: [[Process 컨텍스트 스위칭|Process Context Switching]]
 - down:: [[프로세스 상태 전이]]
-
+- down:: [[Inter Process Communication]]
 
 
 

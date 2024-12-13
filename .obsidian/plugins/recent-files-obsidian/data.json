@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Inter Process Communication",
+      "path": "연습노트/Inter Process Communication.md"
+    },
+    {
+      "basename": "Process Basic",
+      "path": "영구노트/Process Basic.md"
+    },
+    {
+      "basename": "Process 메모리 구조",
+      "path": "수정 노트/Process 메모리 구조.md"
+    },
+    {
+      "basename": "프로세스 상태 전이",
+      "path": "영구노트/프로세스 상태 전이.md"
+    },
+    {
+      "basename": "Program vs Process",
+      "path": "영구노트/Program vs Process.md"
+    },
+    {
+      "basename": "OS",
+      "path": "3.Resources/IT/운영체제/OS.md"
+    },
+    {
       "basename": "멀티 태스킹 관점에서 Context Switching 이해",
       "path": "영구노트/멀티 태스킹 관점에서 Context Switching 이해.md"
     },
@@ -19,14 +43,6 @@
     {
       "basename": "Context Switching",
       "path": "수정 노트/Context Switching.md"
-    },
-    {
-      "basename": "Process Basic",
-      "path": "영구노트/Process Basic.md"
-    },
-    {
-      "basename": "OS",
-      "path": "3.Resources/IT/운영체제/OS.md"
     },
     {
       "basename": "Thread Basic",
@@ -61,24 +77,12 @@
       "path": "영구노트/Code 영역.md"
     },
     {
-      "basename": "Process 메모리 구조",
-      "path": "수정 노트/Process 메모리 구조.md"
-    },
-    {
       "basename": "PCB(Process Controll Block)",
       "path": "영구노트/PCB(Process Controll Block).md"
     },
     {
       "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
       "path": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
-    },
-    {
-      "basename": "Program vs Process",
-      "path": "영구노트/Program vs Process.md"
-    },
-    {
-      "basename": "프로세스 상태 전이",
-      "path": "영구노트/프로세스 상태 전이.md"
     },
     {
       "basename": "프로그램",
@@ -95,10 +99,6 @@
     {
       "basename": "프로세스 상태 전이도(draw)",
       "path": "Excalidraw/프로세스 상태 전이도(draw).md"
-    },
-    {
-      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
-      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
     }
   ],
   "omittedPaths": [],
