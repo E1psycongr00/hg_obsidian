@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Spring Modulith.md",
+                "file": "연습노트/Jacard 유사도.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring Modulith"
+              "title": "Jacard 유사도"
             }
           }
         ]
@@ -138,8 +138,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "tree-pine",
-              "title": "Tree view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ],
@@ -234,8 +234,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -281,9 +281,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "연습노트/Jacard 유사도.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Jacard 유사도 개요"
             }
           }
         ]
@@ -308,10 +310,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "088d015a1d39b46b",
+  "active": "53e3e6ba4e8e5ccd",
   "lastOpenFiles": [
     "연습노트/Spring Modulith.md",
-    "연습노트/Jacard.md",
+    "연습노트/Jacard 유사도.md",
     "연습노트/KaibanJS.md",
     "연습노트/Git 핵심 명령어.md",
     "연습노트/Flyway 사용하기 with Gradle.md",

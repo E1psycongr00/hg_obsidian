@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Spring Modulith",
-      "path": "연습노트/Spring Modulith.md"
+      "basename": "Jacard 유사도",
+      "path": "연습노트/Jacard 유사도.md"
     },
     {
       "basename": "Jacard",
       "path": "연습노트/Jacard.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
     },
     {
       "basename": "KaibanJS",
@@ -95,10 +99,6 @@
     {
       "basename": "Process Basic",
       "path": "영구노트/Process Basic.md"
-    },
-    {
-      "basename": "멀티 쓰레드 모델",
-      "path": "영구노트/멀티 쓰레드 모델.md"
     }
   ],
   "omittedPaths": [],
