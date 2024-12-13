@@ -5,9 +5,9 @@ tags:
   - Thread
   - Memory
 aliases:
-  - Thread 메모리 구조
+  - Thread Memory 구조
 date: 2024-12-10
-title: Thread Memory 구조
+title: Thread 메모리구조
 ---
 
 ----

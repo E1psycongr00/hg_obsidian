@@ -1,20 +1,18 @@
 ---
 tags:
-  - 완성
+  - 수정
   - OS
   - Process
   - Thread
 aliases:
   - Process Context Switching
-  - PCS
-title: Process와 컨텍스트 스위칭
+title: Process 컨텍스트 스위칭
 date: 2024-01-05
 ---
 ---
 ## 내용(Content)
 ### Process Context Switching
-멀티 태스킹시 일어나는 현상이다. 하나의 코어에서 여러 프로세스를 실행하려면 다른 프로세스로 전환을 해야 한다. 이 일련의 과정을 프로세스 컨텍스트 스위칭이라 한다. [[CPU의 작업 처리 방식 (병렬성과 동시성)|CPU 동시성]]
-과도 관련이 깊다.
+멀티 태스킹시 일어나는 현상이다. 하나의 코어에서 여러 프로세스를 실행하려면 다른 프로세스로 전환을 해야 한다. 이 일련의 과정을 프로세스 컨텍스트 스위칭이라 한다.
 
 ### Process Context Switching 과정
 ![[Pasted image 20240110175922.png]]
@@ -57,7 +55,6 @@ date: 2024-01-05
 
 ## 연결 노트
 - [[PCB(Process Controll Block)]]
-- [[CPU의 작업 처리 방식 (병렬성과 동시성)]]
 - [[Kernel]]
 - [[인터럽트와 시스템 콜 동작 과정]]
 

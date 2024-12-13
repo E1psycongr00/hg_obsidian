@@ -4,24 +4,19 @@
 ![[쓰레드 개념 구성도 (draw)]]
 
 ### 프로세스(Process) 
--  [[운영 체제(OS)]]
+
 - [[Kernel|커널]]
-- [[CPU 코어]]
-- [[Process와 컨텍스트 스위칭]]
 - [[PCB(Process Controll Block)|PCB]]
 - [[CPU 스케줄러]]
 - [[프로세스 스케줄링]]
-- [[프로세스 & 스레드 메모리 구조]]
-- [[프로세스 상태 전이]]
 - [[OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍)]]
-- [[CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트]]
 
 
 
-### Hello
-
-- down:: [[Process Basic]]
-- down:: [[Thread Basic]]
+### 운영 체제
+- [[운영 체제(OS)]]
+- [[Process Basic]]
+- [[Thread Basic]]
 
 >[!tip]- process thread tag dataview
 >```dataview

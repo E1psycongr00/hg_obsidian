@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 수정
   - OS
 aliases: 
 date: 2024-12-13

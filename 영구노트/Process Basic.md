@@ -48,9 +48,9 @@ title: Process Basic
 ## 연결 노트
 
 - down:: [[Program vs Process]]
-
-
-
+- down:: [[Process 메모리 구조]]
+- down:: [[Process 컨텍스트 스위칭|Process Context Switching]]
+- down:: [[프로세스 상태 전이]]
 
 
 

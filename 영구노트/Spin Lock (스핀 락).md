@@ -23,7 +23,7 @@ date: 2024-01-11
 >[!info] Lock
 >Lock이란 공유 자원을 특정 스레드가 사용하고 있을 때 다른 쓰레드는 해당 공유 자원에 접근하지 못하도록 막는 작업이다.
 
-조금만 기달리면 바로 사용할 수 있는데 굳이 [[Process와 컨텍스트 스위칭|Process Context Switching]] 부하가 필요한가? 문제점을 바탕으로 만들어진 Lock으로 Critical Section에 진입이 불가능할 때 컨텍스트 스위칭을 하지 않고 잠시 루프를 돌리면서 재시도하는 것을 말한다.
+조금만 기달리면 바로 사용할 수 있는데 굳이 [[Process 컨텍스트 스위칭|Process Context Switching]] 부하가 필요한가? 문제점을 바탕으로 만들어진 Lock으로 Critical Section에 진입이 불가능할 때 컨텍스트 스위칭을 하지 않고 잠시 루프를 돌리면서 재시도하는 것을 말한다.
 ### Spin Lock의 장/단점
 >[!note] 장점
 >- Lock의 획득이 빠르다.

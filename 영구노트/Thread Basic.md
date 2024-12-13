@@ -73,6 +73,6 @@ CPU 쓰레드와 OS 쓰레드를 포함하여, 쓰레드는 다음과 같은 **�
 down:: [[Thread 분류 기준]]
 down:: [[Process vs Thread]]
 down:: [[Thread LifeCycle]]
-down:: [[Thread Memory 구조]]
+down:: [[Thread 메모리 구조]]
 down:: [[멀티 쓰레드 모델]]
 

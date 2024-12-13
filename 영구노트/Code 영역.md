@@ -1,6 +1,6 @@
 ---
 tags:
-  - 수정
+  - 완성
   - OS
   - Memory
 aliases:
@@ -18,7 +18,7 @@ title: Code 영역
 
 ## 내용(Content)
 
-코드 영역(Code Area)은 프로그램의 실행 코드가 저장되는 메모리 영역으로, Text Area 또는 Text Segment라고도 불린다. 이 영역은 프로그램이 실행되는 동안 변경되지 않는 읽기 전용(Read-Only) 영역이다.
+코드 영역(Code Area)은 프로그램의 실행 코드가 저장되는 메모리 영역으로, Text Area 또는 Text Segment라고도 불린다. 이 영역은 프로그램이 실행되는 동안 변경되지 않는 읽기 전용(Read-Only) 영역이다. ^ff460d
 
 ### 코드 영역의 특징
 

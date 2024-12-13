@@ -56,6 +56,8 @@
     "example": "multitext",
     "described": "multitext",
     "sibling": "multitext",
-    "alternative": "multitext"
+    "alternative": "multitext",
+    "reference": "multitext",
+    "cited": "multitext"
   }
 }

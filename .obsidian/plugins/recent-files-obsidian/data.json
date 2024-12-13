@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "타이머 인터럽트",
-      "path": "연습노트/타이머 인터럽트.md"
-    },
-    {
       "basename": "멀티 태스킹 관점에서 Context Switching 이해",
-      "path": "연습노트/멀티 태스킹 관점에서 Context Switching 이해.md"
+      "path": "영구노트/멀티 태스킹 관점에서 Context Switching 이해.md"
     },
     {
-      "basename": "계층 간선 네이밍",
-      "path": "연습노트/계층 간선 네이밍.md"
+      "basename": "Process 컨텍스트 스위칭",
+      "path": "수정 노트/Process 컨텍스트 스위칭.md"
     },
     {
-      "basename": "타이머 인터럽트 예시 - 공장 자동화 시스템",
-      "path": "연습노트/타이머 인터럽트 예시 - 공장 자동화 시스템.md"
+      "basename": "싱글턴 패턴",
+      "path": "영구노트/싱글턴 패턴.md"
     },
     {
-      "basename": "타이머 인터럽트 예시 - 주방 알람",
-      "path": "연습노트/타이머 인터럽트 예시 - 주방 알람.md"
-    },
-    {
-      "basename": "Drawing 2024-12-13 17.39.07.excalidraw",
-      "path": "Excalidraw/Drawing 2024-12-13 17.39.07.excalidraw.md"
+      "basename": "Thread 컨텍스트 스위칭",
+      "path": "연습노트/Thread 컨텍스트 스위칭.md"
     },
     {
       "basename": "Context Switching",
-      "path": "연습노트/Context Switching.md"
+      "path": "수정 노트/Context Switching.md"
     },
     {
-      "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
-      "path": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
+      "basename": "Process Basic",
+      "path": "영구노트/Process Basic.md"
     },
     {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.md"
-    },
-    {
-      "basename": "Process와 컨텍스트 스위칭",
-      "path": "영구노트/Process와 컨텍스트 스위칭.md"
-    },
-    {
-      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
-      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
-    },
-    {
-      "basename": "PCB(Process Controll Block)",
-      "path": "영구노트/PCB(Process Controll Block).md"
+      "basename": "OS",
+      "path": "3.Resources/IT/운영체제/OS.md"
     },
     {
       "basename": "Thread Basic",
       "path": "영구노트/Thread Basic.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "운영 체제(OS)",
+      "path": "영구노트/운영 체제(OS).md"
     },
     {
-      "basename": "프로세스",
-      "path": "3.Resources/IT/운영체제/프로세스.md"
+      "basename": "나만의 제텔카스텐 기법 & 옵시디언",
+      "path": "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md"
     },
     {
-      "basename": "Jaccard 사용자 기반 추천 클러스터링 (draw)",
-      "path": "Excalidraw/Jaccard 사용자 기반 추천 클러스터링 (draw).md"
+      "basename": "Stack 영역",
+      "path": "영구노트/Stack 영역.md"
     },
     {
-      "basename": "Jaccard 유사도",
-      "path": "연습노트/Jaccard 유사도.md"
+      "basename": "Thread 메모리 구조",
+      "path": "수정 노트/Thread 메모리 구조.md"
     },
     {
-      "basename": "Jaccard 유사도와 클러스터링 및 추천 시스템",
-      "path": "영구노트/Jaccard 유사도와 클러스터링 및 추천 시스템.md"
+      "basename": "Heap 영역",
+      "path": "영구노트/Heap 영역.md"
     },
     {
-      "basename": "jaccard 유사도와 유사 사용자 기반 추천",
-      "path": "영구노트/jaccard 유사도와 유사 사용자 기반 추천.md"
+      "basename": "Data 영역",
+      "path": "영구노트/Data 영역.md"
     },
     {
-      "basename": "8. 표준 Java Error",
-      "path": "3.Resources/IT/java/8. 표준 Java Error.md"
+      "basename": "Code 영역",
+      "path": "영구노트/Code 영역.md"
     },
     {
-      "basename": "Difference between DFA and NFA - GeeksforGeeks",
-      "path": "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf"
+      "basename": "Process 메모리 구조",
+      "path": "수정 노트/Process 메모리 구조.md"
     },
     {
-      "basename": "lec4",
-      "path": "attachments/pdf/lec4.pdf"
+      "basename": "PCB(Process Controll Block)",
+      "path": "영구노트/PCB(Process Controll Block).md"
     },
     {
-      "basename": "RAG from scratch_ Overview",
-      "path": "attachments/pdf/RAG from scratch_ Overview.pdf"
+      "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
+      "path": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
     },
     {
-      "basename": "Jacard",
-      "path": "연습노트/Jacard.md"
+      "basename": "Program vs Process",
+      "path": "영구노트/Program vs Process.md"
     },
     {
-      "basename": "Spring Modulith",
-      "path": "연습노트/Spring Modulith.md"
+      "basename": "프로세스 상태 전이",
+      "path": "영구노트/프로세스 상태 전이.md"
+    },
+    {
+      "basename": "프로그램",
+      "path": "영구노트/프로그램.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
+    },
+    {
+      "basename": "인터럽트",
+      "path": "영구노트/인터럽트.md"
+    },
+    {
+      "basename": "프로세스 상태 전이도(draw)",
+      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
+    },
+    {
+      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
+      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
     }
   ],
   "omittedPaths": [],

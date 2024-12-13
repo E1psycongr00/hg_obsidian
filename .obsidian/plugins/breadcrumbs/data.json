@@ -174,7 +174,7 @@
             "field": "up"
           }
         ],
-        "rounds": 10,
+        "rounds": 1,
         "close_reversed": false,
         "close_field": "up"
       },
