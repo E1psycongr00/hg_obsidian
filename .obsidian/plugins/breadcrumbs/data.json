@@ -30,6 +30,12 @@
     },
     {
       "label": "alternative"
+    },
+    {
+      "label": "reference"
+    },
+    {
+      "label": "cited"
     }
   ],
   "edge_field_groups": [
@@ -52,7 +58,9 @@
       "fields": [
         "same",
         "related",
-        "alternative"
+        "alternative",
+        "reference",
+        "cited"
       ]
     },
     {
@@ -233,6 +241,17 @@
         "rounds": 10,
         "close_reversed": false,
         "close_field": "sibling"
+      },
+      {
+        "name": "",
+        "chain": [
+          {
+            "field": "reference"
+          }
+        ],
+        "rounds": 1,
+        "close_reversed": true,
+        "close_field": "cited"
       }
     ]
   },

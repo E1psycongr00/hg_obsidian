@@ -1,24 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2024-12-13 14.55.32.excalidraw",
-      "path": "Excalidraw/Drawing 2024-12-13 14.55.32.excalidraw.md"
+      "basename": "타이머 인터럽트",
+      "path": "연습노트/타이머 인터럽트.md"
     },
     {
-      "basename": "Jaccard 유사도와 클러스터링 및 추천 시스템",
-      "path": "연습노트/Jaccard 유사도와 클러스터링 및 추천 시스템.md"
+      "basename": "멀티 태스킹 관점에서 Context Switching 이해",
+      "path": "연습노트/멀티 태스킹 관점에서 Context Switching 이해.md"
     },
     {
-      "basename": "jaccard 유사도와 유사 사용자 기반 추천",
-      "path": "연습노트/jaccard 유사도와 유사 사용자 기반 추천.md"
+      "basename": "계층 간선 네이밍",
+      "path": "연습노트/계층 간선 네이밍.md"
     },
     {
-      "basename": "8. 표준 Java Error",
-      "path": "3.Resources/IT/java/8. 표준 Java Error.md"
+      "basename": "타이머 인터럽트 예시 - 공장 자동화 시스템",
+      "path": "연습노트/타이머 인터럽트 예시 - 공장 자동화 시스템.md"
+    },
+    {
+      "basename": "타이머 인터럽트 예시 - 주방 알람",
+      "path": "연습노트/타이머 인터럽트 예시 - 주방 알람.md"
+    },
+    {
+      "basename": "Drawing 2024-12-13 17.39.07.excalidraw",
+      "path": "Excalidraw/Drawing 2024-12-13 17.39.07.excalidraw.md"
+    },
+    {
+      "basename": "Context Switching",
+      "path": "연습노트/Context Switching.md"
+    },
+    {
+      "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
+      "path": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "무제 파일 1.md"
+    },
+    {
+      "basename": "Process와 컨텍스트 스위칭",
+      "path": "영구노트/Process와 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
+      "path": "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md"
+    },
+    {
+      "basename": "PCB(Process Controll Block)",
+      "path": "영구노트/PCB(Process Controll Block).md"
+    },
+    {
+      "basename": "Thread Basic",
+      "path": "영구노트/Thread Basic.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
+    },
+    {
+      "basename": "프로세스",
+      "path": "3.Resources/IT/운영체제/프로세스.md"
+    },
+    {
+      "basename": "Jaccard 사용자 기반 추천 클러스터링 (draw)",
+      "path": "Excalidraw/Jaccard 사용자 기반 추천 클러스터링 (draw).md"
     },
     {
       "basename": "Jaccard 유사도",
       "path": "연습노트/Jaccard 유사도.md"
+    },
+    {
+      "basename": "Jaccard 유사도와 클러스터링 및 추천 시스템",
+      "path": "영구노트/Jaccard 유사도와 클러스터링 및 추천 시스템.md"
+    },
+    {
+      "basename": "jaccard 유사도와 유사 사용자 기반 추천",
+      "path": "영구노트/jaccard 유사도와 유사 사용자 기반 추천.md"
+    },
+    {
+      "basename": "8. 표준 Java Error",
+      "path": "3.Resources/IT/java/8. 표준 Java Error.md"
     },
     {
       "basename": "Difference between DFA and NFA - GeeksforGeeks",
@@ -39,66 +99,6 @@
     {
       "basename": "Spring Modulith",
       "path": "연습노트/Spring Modulith.md"
-    },
-    {
-      "basename": "KaibanJS",
-      "path": "연습노트/KaibanJS.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
-    },
-    {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "계층 간선 네이밍",
-      "path": "연습노트/계층 간선 네이밍.md"
-    },
-    {
-      "basename": "Adamic Adars",
-      "path": "영구노트/Adamic Adars.md"
-    },
-    {
-      "basename": "Adamic Adar index를 이용한 스팸 필터링 예시",
-      "path": "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md"
-    },
-    {
-      "basename": "Adamic Adar index와 추천 시스템 이해와 예시",
-      "path": "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md"
-    },
-    {
-      "basename": "Adamic Adars 영화 추천 (draw)",
-      "path": "Excalidraw/Adamic Adars 영화 추천 (draw).md"
-    },
-    {
-      "basename": "AdamicAdars 친구 추천 (draw)",
-      "path": "Excalidraw/AdamicAdars 친구 추천 (draw).md"
-    },
-    {
-      "basename": "전위 계수",
-      "path": "영구노트/전위 계수.md"
-    },
-    {
-      "basename": "승자가 되기 위해서는 by donald trump",
-      "path": "영구노트/승자가 되기 위해서는 by donald trump.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "3.Resources/명언/명언 모음.md"
-    },
-    {
-      "basename": "Thread 분류 기준",
-      "path": "영구노트/Thread 분류 기준.md"
     }
   ],
   "omittedPaths": [],

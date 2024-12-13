@@ -4,53 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "43cb83cd6085d6ee",
+        "id": "0996159388e7cef1",
         "type": "tabs",
         "children": [
           {
-            "id": "53e3e6ba4e8e5ccd",
+            "id": "a3b9020a03b212d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Jaccard 유사도와 클러스터링 및 추천 시스템.md",
+                "file": "연습노트/멀티 태스킹 관점에서 Context Switching 이해.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jaccard 유사도와 클러스터링 및 추천 시스템"
+              "title": "멀티 태스킹 관점에서 Context Switching 이해"
             }
           },
           {
-            "id": "f1281ebd28b90d89",
+            "id": "9532eee3020a1556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/jaccard 유사도와 유사 사용자 기반 추천.md",
+                "file": "연습노트/타이머 인터럽트.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jaccard 유사도와 유사 사용자 기반 추천"
+              "title": "타이머 인터럽트"
             }
           },
           {
-            "id": "4c81372bc8d2863a",
+            "id": "fe11d7ba92b89376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/타이머 인터럽트 예시 - 공장 자동화 시스템.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "타이머 인터럽트 예시 - 공장 자동화 시스템"
+            }
+          },
+          {
+            "id": "ab793dc02f6e0e93",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-13 14.55.32.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-12-13 17.39.07.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-13 14.55.32.excalidraw"
+              "title": "Drawing 2024-12-13 17.39.07.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Context switching",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -113,7 +128,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -191,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Resources/IT/운영체제/프로세스.md",
+                "file": "연습노트/타이머 인터럽트.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "프로세스의 백링크"
+              "title": "타이머 인터럽트의 백링크"
             }
           },
           {
@@ -224,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-13 14.55.32.excalidraw.md",
+                "file": "연습노트/타이머 인터럽트.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -247,12 +263,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.5087618855792603,
+                  "scale": 0.7132754626224443,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2024-12-13 14.55.32.excalidraw 그래프"
+              "title": "타이머 인터럽트 그래프"
             }
           },
           {
@@ -276,7 +292,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -289,10 +305,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-13 14.55.32.excalidraw.md"
+                "file": "연습노트/타이머 인터럽트.md"
               },
               "icon": "lucide-list",
-              "title": "Drawing 2024-12-13 14.55.32.excalidraw 개요"
+              "title": "타이머 인터럽트 개요"
             }
           }
         ]
@@ -314,56 +330,60 @@
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4c81372bc8d2863a",
+  "active": "9532eee3020a1556",
   "lastOpenFiles": [
-    "연습노트/Jaccard 유사도와 클러스터링 및 추천 시스템.md",
-    "연습노트/jaccard 유사도와 유사 사용자 기반 추천.md",
-    "Excalidraw/Drawing 2024-12-13 14.55.32.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-13 14.55.32.excalidraw.svg",
+    "연습노트/멀티 태스킹 관점에서 Context Switching 이해.md",
+    "연습노트/타이머 인터럽트.md",
+    "연습노트/계층 간선 네이밍.md",
+    "연습노트/타이머 인터럽트 예시 - 공장 자동화 시스템.md",
+    "연습노트/타이머 인터럽트 예시 - 주방 알람.md",
+    "Excalidraw/Drawing 2024-12-13 17.39.07.excalidraw.md",
+    "연습노트/Context Switching.md",
+    "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
+    "무제 파일 1.md",
+    "영구노트/Process와 컨텍스트 스위칭.md",
+    "attachments/screenshot/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
+    "attachments/screenshot/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+    "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+    "영구노트/CPU의 작업 처리 방식 (병렬성과 동시성).md",
+    "영구노트/PCB(Process Controll Block).md",
+    "영구노트/Thread Basic.md",
+    "무제 파일.md",
+    "3.Resources/IT/운영체제/프로세스.md",
+    "Excalidraw/Jaccard 사용자 기반 추천 클러스터링 (draw).md",
+    "연습노트/Jaccard 유사도.md",
+    "영구노트/Jaccard 유사도와 클러스터링 및 추천 시스템.md",
+    "영구노트/jaccard 유사도와 유사 사용자 기반 추천.md",
+    "Excalidraw/Jaccard 사용자 기반 추천 클러스터링 (draw).svg",
     "attachments/screenshot/Pasted image 20241213145137.png",
     "attachments/screenshot/Pasted image 20241213145000.png",
     "3.Resources/IT/java/8. 표준 Java Error.md",
     "attachments/screenshot/Pasted image 20241213142528.png",
-    "연습노트/Jaccard 유사도.md",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/lec4.pdf",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
     "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
     "attachments/pdf/book/Introduction to Data Mining.pdf",
     "attachments/pdf/book",
-    "attachments/pdf/논문",
     "연습노트/Spring Modulith.md",
     "연습노트/KaibanJS.md",
     "연습노트/Git 핵심 명령어.md",
     "연습노트/Flyway 사용하기 with Gradle.md",
     "연습노트/팩토리 패턴.md",
     "연습노트/전기 쌍극자.md",
-    "연습노트/계층 간선 네이밍.md",
     "영구노트/Adamic Adars.md",
-    "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md",
-    "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md",
-    "Excalidraw/Adamic Adars 영화 추천 (draw).md",
     "Excalidraw/Adamic Adars 영화 추천 (draw).svg",
-    "Excalidraw/AdamicAdars 친구 추천 (draw).md",
     "Excalidraw/AdamicAdars 친구 추천 (draw).svg",
-    "영구노트/전위 계수.md",
-    "영구노트/승자가 되기 위해서는 by donald trump.md",
-    "3.Resources/명언/명언 모음.md",
-    "영구노트/Thread 분류 기준.md",
-    "수정 노트/Thread Memory 구조.md",
-    "영구노트/Thread LifeCycle.md",
-    "영구노트/Thread Basic.md",
-    "3.Resources/IT/운영체제/프로세스.md",
     "excalibrain.svg",
-    "TagsRoutes/logs",
-    "TagsRoutes",
     "index.canvas",
     "Excalidraw/쓰레드 개념 구성도 (draw).svg",
     "Excalidraw/기초 화장품 성분 별 특징 (draw).svg",
-    "수정 노트",
     "attachments/screenshot/napkin-selection.png",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
