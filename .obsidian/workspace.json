@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "Inter Process Communication"
             }
-          },
-          {
-            "id": "a4e181d2e3a3e47f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,16 +259,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "연습노트/Inter Process Communication.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Inter Process Communication 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 576.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,7 +292,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a4e181d2e3a3e47f",
+  "active": "6d64444cd5d2e275",
   "lastOpenFiles": [
     "연습노트/Inter Process Communication.md",
     "영구노트/Process Basic.md",
