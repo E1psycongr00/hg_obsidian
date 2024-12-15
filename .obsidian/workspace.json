@@ -11,10 +11,15 @@
             "id": "0f37f8549775c402",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Inter Process Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Inter Process Communication"
             }
           }
         ]
@@ -37,10 +42,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Inner Process Comun",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -93,9 +98,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "연습노트/Inter Process Communication.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Inter Process Communication"
             }
           },
           {
@@ -131,8 +138,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "tree-pine",
+              "title": "Tree view"
             }
           }
         ]
@@ -188,6 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/Inter Process Communication.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -215,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "Inter Process Communication 그래프"
             }
           },
           {
@@ -224,12 +232,22 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
             "id": "e3366f5cd82ec46b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "b1bf21b3e715d32f",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -251,9 +269,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "연습노트/Inter Process Communication.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Inter Process Communication 개요"
             }
           }
         ]
@@ -283,33 +303,34 @@
   },
   "active": "0f37f8549775c402",
   "lastOpenFiles": [
+    "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
+    "연습노트/Inter Process Communication.md",
+    "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
+    "무제 파일.md",
+    "수정 노트/Process 메모리 구조.md",
+    "영구노트/Process Basic.md",
+    "수정 노트/Thread 메모리 구조.md",
+    "영구노트/전하(Elecric Charge).md",
+    "무제 파일 1.md",
+    "3.Resources/전기기사/전자기학/전자기학.md",
+    "영구노트/대류 전류.md",
+    "영구노트/도체계의 정전용량.md",
+    "영구노트/유전체.md",
+    "영구노트/전기장 에너지 밀도.md",
+    "영구노트/유전체 경계 조건.md",
+    "영구노트/Thread Basic.md",
+    "연습노트/Thread 컨텍스트 스위칭.md",
+    "수정 노트/Process 컨텍스트 스위칭.md",
+    "영구노트/프로세스 상태 전이.md",
+    "영구노트/멀티 태스킹 관점에서 Context Switching 이해.md",
+    "수정 노트/Context Switching.md",
+    "영구노트/Program vs Process.md",
+    "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md",
     "3.Resources/명언/명언 모음.md",
     "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
     "영구노트/본능의 목소리에 귀울여라 by donald trump.md",
     "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md",
-    "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md",
-    "영구노트/Adamic Adars.md",
-    "스즈메의 문단속.md",
-    "레미제라블 25주년 감상문.md",
-    "엘리멘탈 감상문.md",
-    "3.Resources/게임/Overwatch/겐지.md",
-    "영구노트/Thread Basic.md",
-    "3.Resources/IT/운영체제/OS.md",
-    "영구노트/Process Basic.md",
-    "영구노트/운영 체제(OS).md",
-    "무제 파일.md",
     "attachments/pdf/lec4.pdf",
-    "무제 파일 1.md",
-    "영구노트/Finite State Machine.md",
-    "수정 노트/Process 메모리 구조.md",
-    "연습노트/Inter Process Communication.md",
-    "영구노트/PCB(Process Controll Block).md",
-    "영구노트/Code 영역.md",
-    "영구노트/Stack 영역.md",
-    "영구노트/Data 영역.md",
-    "영구노트/Heap 영역.md",
-    "영구노트/프로세스 상태 전이.md",
-    "영구노트/Program vs Process.md",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "attachments/screenshot/Pasted Image 20241213202830_578.png",
     "attachments/screenshot/Pasted Image 20241213202552_937.png",
@@ -317,7 +338,6 @@
     "Excalidraw/타이머 인터럽트 주방 (draw).svg",
     "attachments/screenshot/Pasted Image 20241213202418_254.png",
     "Excalidraw/타이머 인터럽트 공장 자동화 예제 (draw).svg",
-    "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "attachments/screenshot/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "attachments/screenshot/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Excalidraw/Jaccard 사용자 기반 추천 클러스터링 (draw).svg",
@@ -326,7 +346,6 @@
     "attachments/screenshot/Pasted image 20241213142528.png",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
-    "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
     "attachments/pdf/book/Introduction to Data Mining.pdf",
     "attachments/pdf/book",
     "index.canvas",
