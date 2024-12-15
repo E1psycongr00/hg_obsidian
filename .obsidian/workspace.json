@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e2873d61abd7b77",
+        "id": "c3645a4fa100d559",
         "type": "tabs",
         "children": [
           {
-            "id": "137913e4faf59c58",
+            "id": "0f37f8549775c402",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Resources/IT/운영체제/OS.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "새 탭"
             }
           }
         ]
@@ -42,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "communication",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,11 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "3.Resources/IT/운영체제/OS.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for OS"
+              "title": "File properties"
             }
           },
           {
@@ -146,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -237,17 +229,7 @@
             }
           },
           {
-            "id": "00053dbbe5ac81f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "20bbafc9eeffb440",
+            "id": "e3366f5cd82ec46b",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -257,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -278,8 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 576.5,
-    "collapsed": true
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,9 +281,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "137913e4faf59c58",
+  "active": "0f37f8549775c402",
   "lastOpenFiles": [
+    "3.Resources/명언/명언 모음.md",
+    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
+    "영구노트/본능의 목소리에 귀울여라 by donald trump.md",
+    "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md",
+    "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md",
+    "영구노트/Adamic Adars.md",
+    "스즈메의 문단속.md",
     "레미제라블 25주년 감상문.md",
+    "엘리멘탈 감상문.md",
+    "3.Resources/게임/Overwatch/겐지.md",
+    "영구노트/Thread Basic.md",
+    "3.Resources/IT/운영체제/OS.md",
+    "영구노트/Process Basic.md",
+    "영구노트/운영 체제(OS).md",
     "무제 파일.md",
     "attachments/pdf/lec4.pdf",
     "무제 파일 1.md",
@@ -315,21 +309,8 @@
     "영구노트/Data 영역.md",
     "영구노트/Heap 영역.md",
     "영구노트/프로세스 상태 전이.md",
-    "영구노트/Process Basic.md",
     "영구노트/Program vs Process.md",
-    "3.Resources/IT/운영체제/OS.md",
-    "영구노트/멀티 태스킹 관점에서 Context Switching 이해.md",
-    "수정 노트/Process 컨텍스트 스위칭.md",
-    "영구노트/싱글턴 패턴.md",
-    "연습노트/Thread 컨텍스트 스위칭.md",
-    "수정 노트/Context Switching.md",
-    "영구노트/Thread Basic.md",
-    "영구노트/운영 체제(OS).md",
-    "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md",
-    "수정 노트/Thread 메모리 구조.md",
-    "영구노트/프로세스 & 스레드 메모리 구조.md",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "영구노트/프로그램.md",
     "attachments/screenshot/Pasted Image 20241213202830_578.png",
     "attachments/screenshot/Pasted Image 20241213202552_937.png",
     "attachments/screenshot/Pasted Image 20241213202448_895.png",

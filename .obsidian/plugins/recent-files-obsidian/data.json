@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "OS",
-      "path": "3.Resources/IT/운영체제/OS.md"
+      "basename": "명언 모음",
+      "path": "3.Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "Adamic Adar index를 이용한 스팸 필터링 예시",
+      "path": "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md"
+    },
+    {
+      "basename": "Adamic Adar index와 추천 시스템 이해와 예시",
+      "path": "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md"
+    },
+    {
+      "basename": "Adamic Adars",
+      "path": "영구노트/Adamic Adars.md"
+    },
+    {
+      "basename": "스즈메의 문단속",
+      "path": "스즈메의 문단속.md"
     },
     {
       "basename": "레미제라블 25주년 감상문",
       "path": "레미제라블 25주년 감상문.md"
+    },
+    {
+      "basename": "엘리멘탈 감상문",
+      "path": "엘리멘탈 감상문.md"
+    },
+    {
+      "basename": "겐지",
+      "path": "3.Resources/게임/Overwatch/겐지.md"
+    },
+    {
+      "basename": "OS",
+      "path": "3.Resources/IT/운영체제/OS.md"
     },
     {
       "basename": "무제 파일",
@@ -37,10 +65,6 @@
       "path": "영구노트/프로세스 상태 전이.md"
     },
     {
-      "basename": "Process Basic",
-      "path": "영구노트/Process Basic.md"
-    },
-    {
       "basename": "Program vs Process",
       "path": "영구노트/Program vs Process.md"
     },
@@ -65,14 +89,6 @@
       "path": "수정 노트/Context Switching.md"
     },
     {
-      "basename": "Thread Basic",
-      "path": "영구노트/Thread Basic.md"
-    },
-    {
-      "basename": "운영 체제(OS)",
-      "path": "영구노트/운영 체제(OS).md"
-    },
-    {
       "basename": "나만의 제텔카스텐 기법 & 옵시디언",
       "path": "영구노트/나만의 제텔카스텐 기법 & 옵시디언.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
       "path": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
-    },
-    {
-      "basename": "프로그램",
-      "path": "영구노트/프로그램.md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "영구노트/Kernel.md"
-    },
-    {
-      "basename": "인터럽트",
-      "path": "영구노트/인터럽트.md"
-    },
-    {
-      "basename": "프로세스 상태 전이도(draw)",
-      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
     }
   ],
   "omittedPaths": [],
