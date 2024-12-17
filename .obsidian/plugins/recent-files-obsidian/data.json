@@ -1,28 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "IPC 통신 과정 (draw)",
-      "path": "Excalidraw/IPC 통신 과정 (draw).md"
+      "basename": "비선점형 스케줄러",
+      "path": "연습노트/비선점형 스케줄러.md"
     },
     {
-      "basename": "Inter Process Communication",
-      "path": "연습노트/Inter Process Communication.md"
+      "basename": "선점형 스케줄러",
+      "path": "영구노트/선점형 스케줄러.md"
     },
     {
-      "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
-      "path": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
+      "basename": "CPU 스케줄러",
+      "path": "영구노트/CPU 스케줄러.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "CPU 스케줄링 알고리즘",
+      "path": "영구노트/CPU 스케줄링 알고리즘.md"
+    },
+    {
+      "basename": "OS",
+      "path": "3.Resources/IT/운영체제/OS.md"
+    },
+    {
+      "basename": "Process 컨텍스트 스위칭",
+      "path": "수정 노트/Process 컨텍스트 스위칭.md"
     },
     {
       "basename": "Process 메모리 구조",
-      "path": "수정 노트/Process 메모리 구조.md"
+      "path": "영구노트/Process 메모리 구조.md"
+    },
+    {
+      "basename": "Context Switching",
+      "path": "영구노트/Context Switching.md"
+    },
+    {
+      "basename": "프로세스 상태 전이",
+      "path": "영구노트/프로세스 상태 전이.md"
     },
     {
       "basename": "Process Basic",
       "path": "영구노트/Process Basic.md"
+    },
+    {
+      "basename": "프로세스 상태 전이도(draw)",
+      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
+    },
+    {
+      "basename": "인터럽트와 시스템 콜 동작 과정",
+      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "무제 파일 1.md"
+    },
+    {
+      "basename": "Inter Process Communication",
+      "path": "영구노트/Inter Process Communication.md"
+    },
+    {
+      "basename": "멀티 쓰레드 모델",
+      "path": "영구노트/멀티 쓰레드 모델.md"
+    },
+    {
+      "basename": "시스템 콜",
+      "path": "영구노트/시스템 콜.md"
+    },
+    {
+      "basename": "시스템 콜 레퍼런스",
+      "path": "영구노트/시스템 콜 레퍼런스.md"
+    },
+    {
+      "basename": "IPC 통신 과정 (draw)",
+      "path": "Excalidraw/IPC 통신 과정 (draw).md"
+    },
+    {
+      "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
+      "path": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
     },
     {
       "basename": "Thread 메모리 구조",
@@ -31,10 +87,6 @@
     {
       "basename": "전하(Elecric Charge)",
       "path": "영구노트/전하(Elecric Charge).md"
-    },
-    {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.md"
     },
     {
       "basename": "전자기학",
@@ -47,58 +99,6 @@
     {
       "basename": "Thread Basic",
       "path": "영구노트/Thread Basic.md"
-    },
-    {
-      "basename": "Thread 컨텍스트 스위칭",
-      "path": "연습노트/Thread 컨텍스트 스위칭.md"
-    },
-    {
-      "basename": "Process 컨텍스트 스위칭",
-      "path": "수정 노트/Process 컨텍스트 스위칭.md"
-    },
-    {
-      "basename": "프로세스 상태 전이",
-      "path": "영구노트/프로세스 상태 전이.md"
-    },
-    {
-      "basename": "멀티 태스킹 관점에서 Context Switching 이해",
-      "path": "영구노트/멀티 태스킹 관점에서 Context Switching 이해.md"
-    },
-    {
-      "basename": "Context Switching",
-      "path": "수정 노트/Context Switching.md"
-    },
-    {
-      "basename": "Program vs Process",
-      "path": "영구노트/Program vs Process.md"
-    },
-    {
-      "basename": "Adamic Adar index와 추천 시스템 이해와 예시",
-      "path": "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "3.Resources/명언/명언 모음.md"
-    },
-    {
-      "basename": "Adamic Adar index를 이용한 스팸 필터링 예시",
-      "path": "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md"
-    },
-    {
-      "basename": "Adamic Adars",
-      "path": "영구노트/Adamic Adars.md"
-    },
-    {
-      "basename": "스즈메의 문단속",
-      "path": "스즈메의 문단속.md"
-    },
-    {
-      "basename": "레미제라블 25주년 감상문",
-      "path": "레미제라블 25주년 감상문.md"
-    },
-    {
-      "basename": "엘리멘탈 감상문",
-      "path": "엘리멘탈 감상문.md"
     }
   ],
   "omittedPaths": [],

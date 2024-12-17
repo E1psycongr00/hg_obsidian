@@ -3,18 +3,13 @@
 
 ![[쓰레드 개념 구성도 (draw)]]
 
-### 프로세스(Process) 
 
-- [[Kernel|커널]]
-- [[PCB(Process Controll Block)|PCB]]
-- [[CPU 스케줄러]]
-- [[프로세스 스케줄링]]
 - [[OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍)]]
-
 
 
 ### 운영 체제
 - [[운영 체제(OS)]]
+- [[CPU 스케줄러]]
 - [[Process Basic]]
 - [[Thread Basic]]
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - 수정
+  - 완성
   - OS
   - Process
 aliases: 

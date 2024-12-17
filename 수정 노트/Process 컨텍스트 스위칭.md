@@ -34,7 +34,7 @@ date: 2024-01-05
 >
 
 >[!info] PCB
->[[PCB(Process Controll Block)|PCB]]는 프로세스에 대한 정보를 가지고 있는 임시 저장소이다. 프로세스 생성시 생성되며 수명을 함께 한다. 
+>[[PCB(Process Controll Block)#^cbc3eb|PCB]]는 프로세스에 대한 정보를 가지고 있는 임시 저장소이다. 프로세스 생성시 생성되며 수명을 함께 한다. 
 
 
 ### OverHead
@@ -50,16 +50,12 @@ date: 2024-01-05
 (없음)
 
 ## 출처(링크)
-- https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%E2%9A%94%EF%B8%8F-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%B0%A8%EC%9D%B4#%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98_%EC%9E%90%EC%9B%90_%EA%B5%AC%EC%A1%B0
+- [👩‍💻 ‍완전히 정복하는 프로세스 vs 스레드 개념](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%E2%9A%94%EF%B8%8F-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%B0%A8%EC%9D%B4#%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98_%EC%9E%90%EC%9B%90_%EA%B5%AC%EC%A1%B0)
 
 
 ## 연결 노트
-- [[PCB(Process Controll Block)]]
+- down:: [[PCB(Process Controll Block)]]
 - [[Kernel]]
 - [[인터럽트와 시스템 콜 동작 과정]]
-
-
-
-
 
 

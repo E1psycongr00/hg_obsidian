@@ -4,42 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c3645a4fa100d559",
+        "id": "ca6e6178cd756743",
         "type": "tabs",
-        "dimension": 44.82942430703625,
         "children": [
           {
-            "id": "0f37f8549775c402",
+            "id": "e9314522b37b02eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Inter Process Communication.md",
+                "file": "연습노트/비선점형 스케줄러.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inter Process Communication"
+              "title": "비선점형 스케줄러"
             }
-          }
-        ]
-      },
-      {
-        "id": "4fa8bb4db7004505",
-        "type": "tabs",
-        "dimension": 55.17057569296375,
-        "children": [
+          },
           {
-            "id": "843351026a2df3f0",
+            "id": "e0cf6a9a51df6f25",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/IPC 통신 과정 (draw).md"
+                "file": "영구노트/CPU 스케줄링 알고리즘.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "IPC 통신 과정 (draw)"
+              "icon": "lucide-file",
+              "title": "CPU 스케줄링 알고리즘"
             }
           }
         ]
@@ -62,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Inner Process Comun",
+                "query": "프로세스 상태 전이도",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/IPC 통신 과정 (draw).md"
+                "file": "연습노트/비선점형 스케줄러.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for IPC 통신 과정 (draw)"
+              "title": "File properties for 비선점형 스케줄러"
             }
           },
           {
@@ -166,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -216,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Inter Process Communication.md",
+                "file": "연습노트/비선점형 스케줄러.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -244,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Inter Process Communication 그래프"
+              "title": "비선점형 스케줄러 그래프"
             }
           },
           {
@@ -258,7 +252,7 @@
             }
           },
           {
-            "id": "559b8e2f116da364",
+            "id": "d02e234d9e435e51",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -281,18 +275,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/IPC 통신 과정 (draw).md"
+                "file": "연습노트/비선점형 스케줄러.md"
               },
               "icon": "lucide-list",
-              "title": "IPC 통신 과정 (draw) 개요"
+              "title": "비선점형 스케줄러 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5,
-    "collapsed": true
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -313,36 +306,37 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "843351026a2df3f0",
+  "active": "e9314522b37b02eb",
   "lastOpenFiles": [
-    "연습노트/Inter Process Communication.md",
+    "영구노트/선점형 스케줄러.md",
+    "연습노트/비선점형 스케줄러.md",
+    "영구노트/CPU 스케줄러.md",
+    "영구노트/CPU 스케줄링 알고리즘.md",
+    "3.Resources/IT/운영체제/OS.md",
+    "수정 노트/Process 컨텍스트 스위칭.md",
+    "영구노트/Process 메모리 구조.md",
+    "영구노트/Context Switching.md",
+    "수정 노트/프로세스 스케줄링.md",
+    "영구노트/프로세스 상태 전이.md",
+    "영구노트/Process Basic.md",
+    "Excalidraw/프로세스 상태 전이도(draw).md",
+    "영구노트/인터럽트와 시스템 콜 동작 과정.md",
+    "영구노트/PCB(Process Controll Block).md",
+    "영구노트/Kernel.md",
+    "영구노트/운영 체제(OS).md",
+    "영구노트/OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍).md",
+    "무제 파일 1.md",
+    "무제 파일.md",
+    "영구노트/Inter Process Communication.md",
+    "영구노트/멀티 쓰레드 모델.md",
+    "영구노트/시스템 콜.md",
+    "영구노트/시스템 콜 레퍼런스.md",
     "Excalidraw/IPC 통신 과정 (draw).md",
     "Excalidraw/IPC 통신 과정 (draw).svg",
     "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
-    "무제 파일.md",
-    "수정 노트/Process 메모리 구조.md",
-    "영구노트/Process Basic.md",
     "수정 노트/Thread 메모리 구조.md",
     "영구노트/전하(Elecric Charge).md",
-    "무제 파일 1.md",
-    "3.Resources/전기기사/전자기학/전자기학.md",
-    "영구노트/대류 전류.md",
-    "영구노트/도체계의 정전용량.md",
-    "영구노트/유전체.md",
-    "영구노트/전기장 에너지 밀도.md",
-    "영구노트/유전체 경계 조건.md",
-    "영구노트/Thread Basic.md",
-    "연습노트/Thread 컨텍스트 스위칭.md",
-    "수정 노트/Process 컨텍스트 스위칭.md",
-    "영구노트/프로세스 상태 전이.md",
-    "영구노트/멀티 태스킹 관점에서 Context Switching 이해.md",
-    "수정 노트/Context Switching.md",
-    "영구노트/Program vs Process.md",
-    "영구노트/Adamic Adar index와 추천 시스템 이해와 예시.md",
-    "3.Resources/명언/명언 모음.md",
-    "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
-    "영구노트/본능의 목소리에 귀울여라 by donald trump.md",
     "attachments/pdf/lec4.pdf",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "attachments/screenshot/Pasted Image 20241213202830_578.png",
