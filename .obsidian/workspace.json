@@ -6,6 +6,7 @@
       {
         "id": "c3645a4fa100d559",
         "type": "tabs",
+        "dimension": 44.82942430703625,
         "children": [
           {
             "id": "0f37f8549775c402",
@@ -20,6 +21,25 @@
               },
               "icon": "lucide-file",
               "title": "Inter Process Communication"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4fa8bb4db7004505",
+        "type": "tabs",
+        "dimension": 55.17057569296375,
+        "children": [
+          {
+            "id": "843351026a2df3f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/IPC 통신 과정 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "IPC 통신 과정 (draw)"
             }
           }
         ]
@@ -99,10 +119,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Inter Process Communication.md"
+                "file": "Excalidraw/IPC 통신 과정 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Inter Process Communication"
+              "title": "File properties for IPC 통신 과정 (draw)"
             }
           },
           {
@@ -138,15 +158,16 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "tree-pine",
-              "title": "Tree view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -237,17 +258,7 @@
             }
           },
           {
-            "id": "e3366f5cd82ec46b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "b1bf21b3e715d32f",
+            "id": "559b8e2f116da364",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -270,17 +281,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Inter Process Communication.md"
+                "file": "Excalidraw/IPC 통신 과정 (draw).md"
               },
               "icon": "lucide-list",
-              "title": "Inter Process Communication 개요"
+              "title": "IPC 통신 과정 (draw) 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 576.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,10 +313,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0f37f8549775c402",
+  "active": "843351026a2df3f0",
   "lastOpenFiles": [
-    "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "연습노트/Inter Process Communication.md",
+    "Excalidraw/IPC 통신 과정 (draw).md",
+    "Excalidraw/IPC 통신 과정 (draw).svg",
+    "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
     "무제 파일.md",
     "수정 노트/Process 메모리 구조.md",
@@ -329,7 +343,6 @@
     "3.Resources/명언/명언 모음.md",
     "영구노트/지식보다 중요한 것은 상상력이다 by Einstein.md",
     "영구노트/본능의 목소리에 귀울여라 by donald trump.md",
-    "영구노트/Adamic Adar index를 이용한 스팸 필터링 예시.md",
     "attachments/pdf/lec4.pdf",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "attachments/screenshot/Pasted Image 20241213202830_578.png",
@@ -343,7 +356,6 @@
     "Excalidraw/Jaccard 사용자 기반 추천 클러스터링 (draw).svg",
     "attachments/screenshot/Pasted image 20241213145137.png",
     "attachments/screenshot/Pasted image 20241213145000.png",
-    "attachments/screenshot/Pasted image 20241213142528.png",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/RAG from scratch_ Overview.pdf",
     "attachments/pdf/book/Introduction to Data Mining.pdf",

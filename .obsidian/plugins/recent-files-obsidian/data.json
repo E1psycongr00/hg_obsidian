@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "IPC 통신 과정 (draw)",
+      "path": "Excalidraw/IPC 통신 과정 (draw).md"
+    },
+    {
       "basename": "Inter Process Communication",
       "path": "연습노트/Inter Process Communication.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "엘리멘탈 감상문",
       "path": "엘리멘탈 감상문.md"
-    },
-    {
-      "basename": "겐지",
-      "path": "3.Resources/게임/Overwatch/겐지.md"
     }
   ],
   "omittedPaths": [],
