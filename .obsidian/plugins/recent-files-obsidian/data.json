@@ -1,64 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "비선점형 스케줄러",
-      "path": "연습노트/비선점형 스케줄러.md"
-    },
-    {
-      "basename": "선점형 스케줄러",
-      "path": "영구노트/선점형 스케줄러.md"
-    },
-    {
-      "basename": "CPU 스케줄러",
-      "path": "영구노트/CPU 스케줄러.md"
+      "basename": "Kernel",
+      "path": "영구노트/Kernel.md"
     },
     {
       "basename": "CPU 스케줄링 알고리즘",
       "path": "영구노트/CPU 스케줄링 알고리즘.md"
     },
     {
-      "basename": "OS",
-      "path": "3.Resources/IT/운영체제/OS.md"
-    },
-    {
-      "basename": "Process 컨텍스트 스위칭",
-      "path": "수정 노트/Process 컨텍스트 스위칭.md"
-    },
-    {
-      "basename": "Process 메모리 구조",
-      "path": "영구노트/Process 메모리 구조.md"
-    },
-    {
-      "basename": "Context Switching",
-      "path": "영구노트/Context Switching.md"
-    },
-    {
-      "basename": "프로세스 상태 전이",
-      "path": "영구노트/프로세스 상태 전이.md"
-    },
-    {
-      "basename": "Process Basic",
-      "path": "영구노트/Process Basic.md"
-    },
-    {
-      "basename": "프로세스 상태 전이도(draw)",
-      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
-    },
-    {
       "basename": "인터럽트와 시스템 콜 동작 과정",
       "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "영구노트/Kernel.md"
-    },
-    {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.md"
-    },
-    {
-      "basename": "Inter Process Communication",
-      "path": "영구노트/Inter Process Communication.md"
     },
     {
       "basename": "멀티 쓰레드 모델",
@@ -69,8 +21,60 @@
       "path": "영구노트/시스템 콜.md"
     },
     {
+      "basename": "인터럽트",
+      "path": "영구노트/인터럽트.md"
+    },
+    {
       "basename": "시스템 콜 레퍼런스",
       "path": "영구노트/시스템 콜 레퍼런스.md"
+    },
+    {
+      "basename": "Process 컨텍스트 스위칭",
+      "path": "수정 노트/Process 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "프로세스 상태 전이",
+      "path": "영구노트/프로세스 상태 전이.md"
+    },
+    {
+      "basename": "Process Basic",
+      "path": "영구노트/Process Basic.md"
+    },
+    {
+      "basename": "OS",
+      "path": "3.Resources/IT/운영체제/OS.md"
+    },
+    {
+      "basename": "CPU 스케줄러",
+      "path": "영구노트/CPU 스케줄러.md"
+    },
+    {
+      "basename": "비선점형 스케줄러",
+      "path": "영구노트/비선점형 스케줄러.md"
+    },
+    {
+      "basename": "선점형 스케줄러",
+      "path": "영구노트/선점형 스케줄러.md"
+    },
+    {
+      "basename": "Process 메모리 구조",
+      "path": "영구노트/Process 메모리 구조.md"
+    },
+    {
+      "basename": "Context Switching",
+      "path": "영구노트/Context Switching.md"
+    },
+    {
+      "basename": "프로세스 상태 전이도(draw)",
+      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
+    },
+    {
+      "basename": "무제 파일 1",
+      "path": "무제 파일 1.md"
+    },
+    {
+      "basename": "Inter Process Communication",
+      "path": "영구노트/Inter Process Communication.md"
     },
     {
       "basename": "IPC 통신 과정 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "유전체",
       "path": "영구노트/유전체.md"
-    },
-    {
-      "basename": "Thread Basic",
-      "path": "영구노트/Thread Basic.md"
     }
   ],
   "omittedPaths": [],
