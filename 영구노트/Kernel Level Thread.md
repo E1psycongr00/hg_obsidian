@@ -73,5 +73,3 @@ A2: 진정한 병렬성 구현과 시스템 자원의 효율적 활용을 위해
 
 ## 연결 노트
 - related:: [[멀티 쓰레드 모델]]
-- [[Process 컨텍스트 스위칭|Process Context Switching]]
-- [[커널 스케줄링]]

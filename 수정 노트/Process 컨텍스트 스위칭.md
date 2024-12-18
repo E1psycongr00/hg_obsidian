@@ -12,17 +12,17 @@ date: 2024-01-05
 ---
 ## 내용(Content)
 ### Process Context Switching
-멀티 태스킹시 일어나는 현상이다. 하나의 코어에서 여러 프로세스를 실행하려면 다른 프로세스로 전환을 해야 한다. 이 일련의 과정을 프로세스 컨텍스트 스위칭이라 한다.
+멀티 태스킹시 일어나는 현상이다. 하나의 코어에서 여러 프로세스를 실행하려면 다른 프로세스로 전환을 해야 한다. 이 일련의 과정을 프로세스 [[Context Switching#^d23b1f|컨텍스트 스위칭]]이라 한다.
 
 ### Process Context Switching 과정
 ![[Pasted image 20240110175922.png]]
 
 1. CPU는 P1을 실행한다.
-2. Interrupt 또는 System Call이 발생
+2. [[인터럽트#^293a58|Interrupt]] 또는 [[시스템 콜#^df8eb0|System Call]]이 발생
 	- P1 상태를 PCB1에 저장한다.
 	- PCB2로 부터 P2 상태를 로드한다.
 3. P2를 실행한다.
-4. Interrupt 또는 System Call이 발생
+4.[[인터럽트#^293a58|Interrupt]] 또는  [[시스템 콜#^df8eb0|System Call]]이 발생
 	- P2 상태를 PCB2에 저장한다
 	- PCB1으로 부터 P1 상태를 로드한다
 5. P1을 실행한다

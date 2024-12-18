@@ -3,6 +3,7 @@ tags:
   - 완성
   - CS
   - CPU
+  - OS
 aliases:
   - 병렬성과 동시성
 title: CPU의 작업 처리 방식 (병렬성과 동시성)

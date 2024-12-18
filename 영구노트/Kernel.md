@@ -56,9 +56,8 @@ date: 2024-01-25
 - https://minkwon4.tistory.com/295
 - https://www.youtube.com/watch?v=v30ilCpITnY&t=37s
 ## 연결 노트
-- [[인터럽트]]
-- [[시스템 콜]]
-- [[인터럽트와 시스템 콜 동작 과정]]
+- down:: [[인터럽트]]
+- down:: [[시스템 콜]]
 - [[Process 컨텍스트 스위칭]]
 
 

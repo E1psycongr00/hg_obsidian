@@ -56,9 +56,9 @@ title: Thread 분류 기준
 
 ## 연결 노트
 
-- element:: [[CPU 쓰레드(Thread)|하드웨어 쓰레드]]
-- element:: [[User Level Thread|User Level Thread]]
-- element:: [[Kernel Level Thread|Kernel Level Thread]]
+- example:: [[CPU 쓰레드(Thread)|하드웨어 쓰레드]]
+- example:: [[User Level Thread|User Level Thread]]
+- example:: [[Kernel Level Thread|Kernel Level Thread]]
 
 
 

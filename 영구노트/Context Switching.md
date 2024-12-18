@@ -12,7 +12,7 @@ title: Context Switching
 
 ### Context Switching
 
-**컴퓨터 시스템에서 Context Switching은 CPU가 한 프로세스에서 다른 프로세스로 전환하는 과정을 말한다.** Kernel이 주체가 되어 동작한다.
+**컴퓨터 시스템에서 Context Switching은 CPU가 한 프로세스에서 다른 프로세스로 전환하는 과정을 말한다.** Kernel이 주체가 되어 동작한다. ^d23b1f
 
 ### Context Switching의 필요성
 

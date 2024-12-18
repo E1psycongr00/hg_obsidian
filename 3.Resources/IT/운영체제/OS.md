@@ -1,10 +1,7 @@
 
-#OS #Process 
+#OS #Process #Thread 
 
 ![[쓰레드 개념 구성도 (draw)]]
-
-
-- [[OS Level 프로세스의 역사 (멀티 프로세스, 태스킹, 프로세싱, 프로그래밍)]]
 
 
 ### 운영 체제
@@ -19,6 +16,4 @@
 >from #Process or #Thread 
 >sort filename.asc
 >```
-
-
 

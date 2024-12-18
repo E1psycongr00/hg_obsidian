@@ -1,104 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Thread 메모리 구조",
-      "path": "영구노트/Thread 메모리 구조.md"
+      "basename": "분산 트랜잭션",
+      "path": "연습노트/분산 트랜잭션.md"
     },
     {
-      "basename": "Thread 메모리 구조",
-      "path": "수정 노트/Thread 메모리 구조.md"
+      "basename": "분산 트랜잭션 종류별 특징",
+      "path": "영구노트/분산 트랜잭션 종류별 특징.md"
+    },
+    {
+      "basename": "Spring Transaction",
+      "path": "연습노트/Spring Transaction.md"
+    },
+    {
+      "basename": "1. Spring 기본",
+      "path": "3.Resources/IT/java/framework_library/spring/1. Spring 기본.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
     },
     {
       "basename": "Process 컨텍스트 스위칭",
       "path": "수정 노트/Process 컨텍스트 스위칭.md"
     },
     {
-      "basename": "Kernel",
-      "path": "영구노트/Kernel.md"
+      "basename": "타이머 인터럽트 공장 자동화 예제 (draw)",
+      "path": "Excalidraw/타이머 인터럽트 공장 자동화 예제 (draw).svg"
     },
     {
-      "basename": "CPU 스케줄링 알고리즘",
-      "path": "영구노트/CPU 스케줄링 알고리즘.md"
+      "basename": "최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw)",
+      "path": "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).svg"
     },
     {
-      "basename": "인터럽트와 시스템 콜 동작 과정",
-      "path": "영구노트/인터럽트와 시스템 콜 동작 과정.md"
+      "basename": "옵저버 패턴 구조 (draw)",
+      "path": "Excalidraw/옵저버 패턴 구조 (draw).svg"
     },
     {
-      "basename": "멀티 쓰레드 모델",
-      "path": "영구노트/멀티 쓰레드 모델.md"
+      "basename": "옵저버 패턴 구조 (draw)",
+      "path": "Excalidraw/옵저버 패턴 구조 (draw).md"
     },
     {
-      "basename": "시스템 콜",
-      "path": "영구노트/시스템 콜.md"
+      "basename": "엔티티매니저와 엔티티매니저 팩토리 관계 (draw)",
+      "path": "Excalidraw/엔티티매니저와 엔티티매니저 팩토리 관계 (draw).svg"
     },
     {
-      "basename": "인터럽트",
-      "path": "영구노트/인터럽트.md"
+      "basename": "선분들의 다각형 생성 조건 (draw)",
+      "path": "Excalidraw/선분들의 다각형 생성 조건 (draw).md"
     },
     {
-      "basename": "시스템 콜 레퍼런스",
-      "path": "영구노트/시스템 콜 레퍼런스.md"
+      "basename": "선분들의 다각형 생성 조건 (draw)",
+      "path": "Excalidraw/선분들의 다각형 생성 조건 (draw).svg"
     },
     {
-      "basename": "프로세스 상태 전이",
-      "path": "영구노트/프로세스 상태 전이.md"
+      "basename": "불타는 CPU(draw)",
+      "path": "Excalidraw/불타는 CPU(draw).md"
     },
     {
-      "basename": "Process Basic",
-      "path": "영구노트/Process Basic.md"
+      "basename": "몬스터 AI 상태 오토 마타(draw)",
+      "path": "Excalidraw/몬스터 AI 상태 오토 마타(draw).svg"
     },
     {
-      "basename": "OS",
-      "path": "3.Resources/IT/운영체제/OS.md"
+      "basename": "메서드 기반 테스트 컨테이너 (draw)",
+      "path": "Excalidraw/메서드 기반 테스트 컨테이너 (draw).md"
     },
     {
-      "basename": "CPU 스케줄러",
-      "path": "영구노트/CPU 스케줄러.md"
+      "basename": "링크드 리스트 노드 쪼개기(draw)",
+      "path": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
     },
     {
-      "basename": "비선점형 스케줄러",
-      "path": "영구노트/비선점형 스케줄러.md"
+      "basename": "링크드 리스트 노드 쪼개기(draw)",
+      "path": "Excalidraw/링크드 리스트 노드 쪼개기(draw).svg"
     },
     {
-      "basename": "선점형 스케줄러",
-      "path": "영구노트/선점형 스케줄러.md"
+      "basename": "동축 원통 외부 전계(draw)",
+      "path": "Excalidraw/동축 원통 외부 전계(draw).md"
     },
     {
-      "basename": "Process 메모리 구조",
-      "path": "영구노트/Process 메모리 구조.md"
+      "basename": "대충네이밍을지은DomainService (draw)",
+      "path": "Excalidraw/대충네이밍을지은DomainService (draw).md"
     },
     {
-      "basename": "Context Switching",
-      "path": "영구노트/Context Switching.md"
+      "basename": "대충네이밍을지은DomainService (draw)",
+      "path": "Excalidraw/대충네이밍을지은DomainService (draw).svg"
     },
     {
-      "basename": "프로세스 상태 전이도(draw)",
-      "path": "Excalidraw/프로세스 상태 전이도(draw).md"
+      "basename": "단속 카메라 원리1(draw)",
+      "path": "Excalidraw/단속 카메라 원리1(draw).md"
     },
     {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.md"
+      "basename": "단속 카메라 원리1(draw)",
+      "path": "Excalidraw/단속 카메라 원리1(draw).svg"
     },
     {
-      "basename": "Inter Process Communication",
-      "path": "영구노트/Inter Process Communication.md"
-    },
-    {
-      "basename": "IPC 통신 과정 (draw)",
-      "path": "Excalidraw/IPC 통신 과정 (draw).md"
-    },
-    {
-      "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
-      "path": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
-    },
-    {
-      "basename": "전하(Elecric Charge)",
-      "path": "영구노트/전하(Elecric Charge).md"
-    },
-    {
-      "basename": "전자기학",
-      "path": "3.Resources/전기기사/전자기학/전자기학.md"
+      "basename": "동심구(draw)",
+      "path": "Excalidraw/동심구(draw).svg"
     }
   ],
   "omittedPaths": [],
