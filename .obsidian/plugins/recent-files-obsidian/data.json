@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3 Phase Commit",
+      "path": "연습노트/3 Phase Commit.md"
+    },
+    {
       "basename": "무제 파일",
       "path": "무제 파일.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동축 원통 외부 전계(draw)",
       "path": "Excalidraw/동축 원통 외부 전계(draw).md"
-    },
-    {
-      "basename": "대충네이밍을지은DomainService (draw)",
-      "path": "Excalidraw/대충네이밍을지은DomainService (draw).md"
     }
   ],
   "omittedPaths": [],
