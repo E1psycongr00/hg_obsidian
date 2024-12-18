@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "분산 트랜잭션",
-      "path": "연습노트/분산 트랜잭션.md"
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
     },
     {
       "basename": "분산 트랜잭션 종류별 특징",
       "path": "영구노트/분산 트랜잭션 종류별 특징.md"
+    },
+    {
+      "basename": "분산 트랜잭션",
+      "path": "연습노트/분산 트랜잭션.md"
+    },
+    {
+      "basename": "2 Phase Commit",
+      "path": "연습노트/2 Phase Commit.md"
+    },
+    {
+      "basename": "2PC 장애 복구 전략",
+      "path": "연습노트/2PC 장애 복구 전략.md"
+    },
+    {
+      "basename": "Write Ahead Logging",
+      "path": "연습노트/Write Ahead Logging.md"
+    },
+    {
+      "basename": "2PC 프로토콜 동작 과정 Sequence Diagram (draw)",
+      "path": "Excalidraw/2PC 프로토콜 동작 과정 Sequence Diagram (draw).md"
     },
     {
       "basename": "Spring Transaction",
@@ -79,22 +99,6 @@
     {
       "basename": "대충네이밍을지은DomainService (draw)",
       "path": "Excalidraw/대충네이밍을지은DomainService (draw).md"
-    },
-    {
-      "basename": "대충네이밍을지은DomainService (draw)",
-      "path": "Excalidraw/대충네이밍을지은DomainService (draw).svg"
-    },
-    {
-      "basename": "단속 카메라 원리1(draw)",
-      "path": "Excalidraw/단속 카메라 원리1(draw).md"
-    },
-    {
-      "basename": "단속 카메라 원리1(draw)",
-      "path": "Excalidraw/단속 카메라 원리1(draw).svg"
-    },
-    {
-      "basename": "동심구(draw)",
-      "path": "Excalidraw/동심구(draw).svg"
     }
   ],
   "omittedPaths": [],
