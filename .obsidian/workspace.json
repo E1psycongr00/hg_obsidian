@@ -184,8 +184,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "tree-pine",
+              "title": "Tree view"
             }
           }
         ],
@@ -279,12 +279,12 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
-            "id": "358fc0792e0e72ff",
+            "id": "97e5500c04264a8f",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -338,7 +338,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b9e0ff60713e4662",
+  "active": "96af0567b85b75c5",
   "lastOpenFiles": [
     "연습노트/3 Phase Commit.md",
     "영구노트/분산 트랜잭션 종류별 특징.md",
