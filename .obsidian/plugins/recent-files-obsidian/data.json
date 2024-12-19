@@ -1,32 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "3 Phase Commit",
-      "path": "연습노트/3 Phase Commit.md"
+      "basename": "분산 시스템 합의 알고리즘",
+      "path": "연습노트/분산 시스템 합의 알고리즘.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
-    },
-    {
-      "basename": "분산 트랜잭션 종류별 특징",
-      "path": "영구노트/분산 트랜잭션 종류별 특징.md"
+      "basename": "네트워크 분리 장애시 3PC 장애 대응 동작 방식",
+      "path": "연습노트/네트워크 분리 장애시 3PC 장애 대응 동작 방식.md"
     },
     {
       "basename": "분산 트랜잭션",
       "path": "연습노트/분산 트랜잭션.md"
     },
     {
-      "basename": "2 Phase Commit",
-      "path": "연습노트/2 Phase Commit.md"
+      "basename": "3 Phase Commit",
+      "path": "연습노트/3 Phase Commit.md"
     },
     {
       "basename": "2PC 장애 복구 전략",
       "path": "연습노트/2PC 장애 복구 전략.md"
     },
     {
+      "basename": "분산 트랜잭션 종류별 특징",
+      "path": "영구노트/분산 트랜잭션 종류별 특징.md"
+    },
+    {
+      "basename": "2 Phase Commit",
+      "path": "영구노트/2 Phase Commit.md"
+    },
+    {
+      "basename": "3 Phase Commit 동작 과정 시퀀스 (draw)",
+      "path": "Excalidraw/3 Phase Commit 동작 과정 시퀀스 (draw).md"
+    },
+    {
       "basename": "Write Ahead Logging",
       "path": "연습노트/Write Ahead Logging.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "무제 파일.md"
     },
     {
       "basename": "2PC 프로토콜 동작 과정 Sequence Diagram (draw)",
@@ -83,22 +95,6 @@
     {
       "basename": "몬스터 AI 상태 오토 마타(draw)",
       "path": "Excalidraw/몬스터 AI 상태 오토 마타(draw).svg"
-    },
-    {
-      "basename": "메서드 기반 테스트 컨테이너 (draw)",
-      "path": "Excalidraw/메서드 기반 테스트 컨테이너 (draw).md"
-    },
-    {
-      "basename": "링크드 리스트 노드 쪼개기(draw)",
-      "path": "Excalidraw/링크드 리스트 노드 쪼개기(draw).md"
-    },
-    {
-      "basename": "링크드 리스트 노드 쪼개기(draw)",
-      "path": "Excalidraw/링크드 리스트 노드 쪼개기(draw).svg"
-    },
-    {
-      "basename": "동축 원통 외부 전계(draw)",
-      "path": "Excalidraw/동축 원통 외부 전계(draw).md"
     }
   ],
   "omittedPaths": [],
