@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 완성
   - 분산시스템
 aliases: 
 date: 2024-12-19
@@ -33,18 +33,19 @@ precommit이 완료되서 commit 중간에 네트워크에 문제가 생겨서 �
 >[!info] CanCommit 단계에서 네트워크 분리 문제
 >![[3PC preCommit 단계 네트워크 장애 예제 (draw).svg]]
 
-3PC에는 canCommit(prepare) 외에 preCommit이라는 단계를 중간에 한번 더 수행하고, 상태 저장을 통해서 네트워크에 장애시 participant가 스스로 장애에 대응할 수 있게 한다. 로그 시스템과 타임아웃을 이용해서 precommit과 cancommit에 문제가 발생시 다음 명령에 대한 응답이 오지 않는다면 Abort를 participant가 강제하도록 한다. 그러면 더 이상 트랜잭션을 진행하지 않고, 모든 서비스들이 이 전 과정으로 동기화될 수 있다.
+3PC에는 canCommit(prepare) 외에 preCommit이라는 단계를 중간에 한번 더 수행하고, 상태 저장을 통해서 네트워크에 장애시 participant가 스스로 장애에 대응할 수 있게 한다. 로그 시스템과 타임아웃을 이용해서 precommit과 cancommit에 문제가 발생시 다음 명령에 대한 응답이 오지 않는다면 Abort를 participant가 강제하도록 한다. 그러면 더 이상 트랜잭션을 진행하지 않고, 모든 서비스들이 이 전 과정으로 동기화 될 수 있다.
 
 #### Commit 단계에서 문제가 발생했으나 조정자 복구로 장애를 복구하는 경우
 
-
+>[!info] Commit 단계에서 조정자 복구로 장애 복구
+>![[Commit 단계에서 조정자 복구로 장애 복구 (draw).svg]]
 
 Commit 단계에서 문제가 발생하는 경우 3PC도 데이터 불일치 문제를 막을 수 없다. 그러나 네트워크가 복구되어 서로 소통할 수 있는 상황이 되고 Coordinator가 통제권을 찾는다면, Participant의 로그와 precommit 상태들을 확인해 commit과 Abort를 판단하고 진행해서 장애를 복구할 수 있다.
 
 
 ### 한계
 
-Commit 단계에서 데이터 불일치와 조정자(Coordinator)가 복구되지 못하면 상태에 대해서 처리할 수 없고, 여전히 데이터 불일치가 발생한다. 이럴 때 Coordinator없이 Participant가 소통하면서 트랜잭션 장애를 복구해야 한다. 이 때 **Paxos** 또는 **Raft** 와 같은 합의 알고리즘을 사용할 수 있다.
+Commit 단계에서 데이터 불일치와 조정자(Coordinator)가 복구되지 못하면 상태에 대해서 처리할 수 없고, 여전히 데이터 불일치가 발생한다. 이럴 때 Coordinator없이 Participant끼리 서로 소통하면서 트랜잭션 장애를 복구해야 한다. 이 때 **Paxos** 또는 **Raft** 와 같은 합의 알고리즘을 사용할 수 있다.
 
 
 ## 질문 & 확장
