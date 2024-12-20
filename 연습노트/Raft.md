@@ -40,10 +40,14 @@ Raft는 **Paxos** 알고리즘의 대안으로 개발되었으며, 이해하기 
 
 ## 질문 & 확장
 
-(없음)
+- Raft 알고리즘의 장점을 살리면서 성능을 최적화할 방법은 무엇인가?
+- 네트워크가 심각하게 분할된 경우 Raft는 어떻게 동작을 보장하는가?
+- Raft를 기반으로 하는 시스템에서 실시간 처리를 어떻게 구현할 수 있는가?
 
 ## 출처(링크)
 
+- Diego Ongaro, John Ousterhout, _In Search of an Understandable Consensus Algorithm (Raft)_ (2014)
+- Martin Kleppmann, _Designing Data-Intensive Applications_ (2017)
 
 ## 연결 노트
 
