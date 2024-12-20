@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/분산 시스템 합의 알고리즘.md",
+                "file": "연습노트/Paxos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "분산 시스템 합의 알고리즘"
+              "title": "Paxos"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/분산 시스템 합의 알고리즘.md"
+                "file": "연습노트/Paxos.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 분산 시스템 합의 알고리즘"
+              "title": "File properties for Paxos"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/3PC preCommit 단계 네트워크 장애 예제 (draw).md",
+                "file": "연습노트/Paxos.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -223,17 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "3PC preCommit 단계 네트워크 장애 예제 (draw) 그래프"
-            }
-          },
-          {
-            "id": "96af0567b85b75c5",
-            "type": "leaf",
-            "state": {
-              "type": "bc-matrix-view",
-              "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "title": "Paxos 그래프"
             }
           },
           {
@@ -247,7 +237,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -260,10 +250,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/분산 시스템 합의 알고리즘.md"
+                "file": "연습노트/Paxos.md"
               },
               "icon": "lucide-list",
-              "title": "분산 시스템 합의 알고리즘 개요"
+              "title": "Paxos 개요"
             }
           }
         ]
@@ -293,8 +283,9 @@
   },
   "active": "ca72c4d3825012e0",
   "lastOpenFiles": [
-    "연습노트/전기 쌍극자.md",
     "연습노트/분산 시스템 합의 알고리즘.md",
+    "연습노트/Paxos.md",
+    "연습노트/전기 쌍극자.md",
     "연습노트/Thread 컨텍스트 스위칭.md",
     "연습노트/Spring Transaction.md",
     "연습노트/Spring State Machine.md",
@@ -318,7 +309,6 @@
     "3.Resources/IT/알고리즘/알고리즘.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "3.Resources/명언/명언 모음.md",
-    "Excalidraw/Commit 단계에서 조정자 복구로 장애 복구 (draw).md",
     "Excalidraw/Commit 단계에서 조정자 복구로 장애 복구 (draw).svg",
     "attachments/pdf/논문/paxos-simple.pdf",
     "Excalidraw/3PC preCommit 단계 네트워크 장애 예제 (draw).svg",
