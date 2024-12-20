@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
-    },
-    {
       "basename": "Raft",
       "path": "연습노트/Raft.md"
     },
     {
-      "basename": "Paxos",
-      "path": "연습노트/Paxos.md"
-    },
-    {
       "basename": "분산 시스템 합의 알고리즘",
       "path": "연습노트/분산 시스템 합의 알고리즘.md"
+    },
+    {
+      "basename": "하트비트",
+      "path": "영구노트/하트비트.md"
+    },
+    {
+      "basename": "이해를 돕기 위한 하트비트 예시",
+      "path": "영구노트/이해를 돕기 위한 하트비트 예시.md"
+    },
+    {
+      "basename": "Paxos",
+      "path": "연습노트/Paxos.md"
     },
     {
       "basename": "Paxos 동작 과정 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "네트워크 분리 장애시 3PC 장애 대응 동작 방식",
       "path": "영구노트/네트워크 분리 장애시 3PC 장애 대응 동작 방식.md"
-    },
-    {
-      "basename": "3 Phase Commit",
-      "path": "영구노트/3 Phase Commit.md"
     }
   ],
   "omittedPaths": [],
