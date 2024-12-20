@@ -12,6 +12,6 @@
   "imageZoom": true,
   "hoverEmbeds": false,
   "footnotes": "never",
-  "headings": "always",
+  "headings": "never",
   "blocks": "never"
 }
