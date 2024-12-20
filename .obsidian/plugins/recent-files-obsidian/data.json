@@ -9,6 +9,18 @@
       "path": "연습노트/분산 시스템 합의 알고리즘.md"
     },
     {
+      "basename": "Drawing 2024-12-20 11.31.25.excalidraw",
+      "path": "Excalidraw/Drawing 2024-12-20 11.31.25.excalidraw.md"
+    },
+    {
+      "basename": "Distributed Systems Principles and Paradigms 2 edition",
+      "path": "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf"
+    },
+    {
+      "basename": "Distributed_Systems_3rd",
+      "path": "attachments/pdf/book/Distributed_Systems_3rd.pdf"
+    },
+    {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "OS",
       "path": "3.Resources/IT/운영체제/OS.md"
-    },
-    {
-      "basename": "동기화 모음",
-      "path": "3.Resources/IT/운영체제/동기화 모음.md"
-    },
-    {
-      "basename": "알고리즘",
-      "path": "3.Resources/IT/알고리즘/알고리즘.md"
-    },
-    {
-      "basename": "객체 지향",
-      "path": "3.Resources/IT/객체지향/객체 지향.md"
     }
   ],
   "omittedPaths": [],
