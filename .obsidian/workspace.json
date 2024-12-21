@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/Raft.md",
+                "file": "연습노트/직류기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raft"
-            }
-          },
-          {
-            "id": "6682f2a1f3665f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/분산 시스템 합의 알고리즘.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "분산 시스템 합의 알고리즘"
+              "title": "직류기"
             }
           }
         ]
@@ -114,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/Raft.md"
+                "file": "연습노트/직류기.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Raft"
+              "title": "File properties for 직류기"
             }
           },
           {
@@ -153,8 +138,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "tree-pine",
-              "title": "Tree view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ]
@@ -210,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Raft.md",
+                "file": "연습노트/직류기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -238,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Raft 그래프"
+              "title": "직류기 그래프"
             }
           },
           {
@@ -252,7 +237,7 @@
             }
           },
           {
-            "id": "3a6e48a6dc3a0de2",
+            "id": "67f7366a4807db36",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -275,10 +260,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/Raft.md"
+                "file": "연습노트/직류기.md"
               },
               "icon": "lucide-list",
-              "title": "Raft 개요"
+              "title": "직류기 개요"
             }
           }
         ]
@@ -308,35 +293,35 @@
   },
   "active": "ca72c4d3825012e0",
   "lastOpenFiles": [
+    "영구노트/전자기 유도 법칙 수식 유도.md",
+    "영구노트/전자기 유도 법칙.md",
+    "연습노트/직류기.md",
+    "3.Resources/전기기사/전력공학 and 전기기기.md",
     "연습노트/분산 시스템 합의 알고리즘.md",
+    "3.Resources/전기기사/회로 and 제어.md",
+    "3.Resources/전기기사/전자기학.md",
+    "3.Resources/IT/객체지향/객체 지향.md",
+    "3.Resources/명언/명언 모음.md",
+    "3.Resources/게임/Overwatch/겐지.md",
+    "연습노트/전기 쌍극자.md",
+    "연습노트/팩토리 패턴.md",
+    "연습노트/Spring Modulith.md",
+    "연습노트/Spring Rest Docs with Kotlin DSL.md",
+    "연습노트/Spring State Machine.md",
+    "연습노트/Spring Transaction.md",
+    "연습노트/Thread 컨텍스트 스위칭.md",
+    "영구노트/Write Ahead Logging.md",
     "연습노트/Raft.md",
+    "영구노트/Paxos.md",
+    "연습노트/KaibanJS.md",
     "영구노트/하트비트.md",
     "영구노트/이해를 돕기 위한 하트비트 예시.md",
-    "연습노트/Paxos.md",
     "Excalidraw/Paxos 동작 과정 (draw).md",
     "Excalidraw/Paxos 동작 과정 (draw).svg",
     "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
     "attachments/pdf/book/Distributed_Systems_3rd.pdf",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/Thread 컨텍스트 스위칭.md",
-    "연습노트/Spring Transaction.md",
-    "연습노트/Spring State Machine.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
-    "연습노트/Spring Modulith.md",
-    "연습노트/KaibanJS.md",
     "연습노트/JacksonModule & Std(De)Serializer.md",
     "연습노트/Git 핵심 명령어.md",
-    "연습노트/Flyway 사용하기 with Gradle.md",
-    "연습노트/팩토리 패턴.md",
-    "연습노트/계층 간선 네이밍.md",
-    "영구노트/Jaccard 유사도.md",
-    "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md",
-    "영구노트/타이머 인터럽트 예시 - 공장 자동화 시스템.md",
-    "영구노트/분산 트랜잭션.md",
-    "영구노트/네트워크 분리 장애시 3PC 장애 대응 동작 방식.md",
-    "영구노트/3 Phase Commit.md",
-    "영구노트/2PC 장애 복구 전략.md",
-    "3.Resources/IT/운영체제/OS.md",
     "Excalidraw/Commit 단계에서 조정자 복구로 장애 복구 (draw).svg",
     "attachments/pdf/논문/paxos-simple.pdf",
     "Excalidraw/3PC preCommit 단계 네트워크 장애 예제 (draw).svg",

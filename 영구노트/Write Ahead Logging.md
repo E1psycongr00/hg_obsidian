@@ -1,7 +1,7 @@
 ---
 tags:
-  - 미완
-  - MSA
+  - 완성
+  - 분산시스템
 aliases:
   - WAL
 date: 2024-12-18

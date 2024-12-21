@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Raft",
-      "path": "연습노트/Raft.md"
+      "basename": "직류기",
+      "path": "연습노트/직류기.md"
+    },
+    {
+      "basename": "전자기 유도 법칙 수식 유도",
+      "path": "영구노트/전자기 유도 법칙 수식 유도.md"
+    },
+    {
+      "basename": "전자기 유도 법칙",
+      "path": "영구노트/전자기 유도 법칙.md"
+    },
+    {
+      "basename": "전력공학 and 전기기기",
+      "path": "3.Resources/전기기사/전력공학 and 전기기기.md"
     },
     {
       "basename": "분산 시스템 합의 알고리즘",
       "path": "연습노트/분산 시스템 합의 알고리즘.md"
+    },
+    {
+      "basename": "회로 and 제어",
+      "path": "3.Resources/전기기사/회로 and 제어.md"
+    },
+    {
+      "basename": "전자기학",
+      "path": "3.Resources/전기기사/전자기학.md"
+    },
+    {
+      "basename": "객체 지향",
+      "path": "3.Resources/IT/객체지향/객체 지향.md"
+    },
+    {
+      "basename": "명언 모음",
+      "path": "3.Resources/명언/명언 모음.md"
+    },
+    {
+      "basename": "겐지",
+      "path": "3.Resources/게임/Overwatch/겐지.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "팩토리 패턴",
+      "path": "연습노트/팩토리 패턴.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Spring State Machine",
+      "path": "연습노트/Spring State Machine.md"
+    },
+    {
+      "basename": "Spring Transaction",
+      "path": "연습노트/Spring Transaction.md"
+    },
+    {
+      "basename": "Thread 컨텍스트 스위칭",
+      "path": "연습노트/Thread 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "Write Ahead Logging",
+      "path": "영구노트/Write Ahead Logging.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "연습노트/Raft.md"
+    },
+    {
+      "basename": "Paxos",
+      "path": "영구노트/Paxos.md"
+    },
+    {
+      "basename": "KaibanJS",
+      "path": "연습노트/KaibanJS.md"
     },
     {
       "basename": "하트비트",
@@ -17,88 +93,12 @@
       "path": "영구노트/이해를 돕기 위한 하트비트 예시.md"
     },
     {
-      "basename": "Paxos",
-      "path": "연습노트/Paxos.md"
-    },
-    {
       "basename": "Paxos 동작 과정 (draw)",
       "path": "Excalidraw/Paxos 동작 과정 (draw).md"
     },
     {
       "basename": "Distributed Systems Principles and Paradigms 2 edition",
       "path": "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf"
-    },
-    {
-      "basename": "Distributed_Systems_3rd",
-      "path": "attachments/pdf/book/Distributed_Systems_3rd.pdf"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "Thread 컨텍스트 스위칭",
-      "path": "연습노트/Thread 컨텍스트 스위칭.md"
-    },
-    {
-      "basename": "Spring Transaction",
-      "path": "연습노트/Spring Transaction.md"
-    },
-    {
-      "basename": "Spring State Machine",
-      "path": "연습노트/Spring State Machine.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
-    },
-    {
-      "basename": "Spring Modulith",
-      "path": "연습노트/Spring Modulith.md"
-    },
-    {
-      "basename": "KaibanJS",
-      "path": "연습노트/KaibanJS.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
-    },
-    {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
-    },
-    {
-      "basename": "계층 간선 네이밍",
-      "path": "연습노트/계층 간선 네이밍.md"
-    },
-    {
-      "basename": "Jaccard 유사도",
-      "path": "영구노트/Jaccard 유사도.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "타이머 인터럽트 예시 - 공장 자동화 시스템",
-      "path": "영구노트/타이머 인터럽트 예시 - 공장 자동화 시스템.md"
-    },
-    {
-      "basename": "분산 트랜잭션",
-      "path": "영구노트/분산 트랜잭션.md"
-    },
-    {
-      "basename": "네트워크 분리 장애시 3PC 장애 대응 동작 방식",
-      "path": "영구노트/네트워크 분리 장애시 3PC 장애 대응 동작 방식.md"
     }
   ],
   "omittedPaths": [],
