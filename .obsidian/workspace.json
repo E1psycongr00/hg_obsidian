@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1113f58d38ebbe97",
+        "id": "a856f0d93bf7d839",
         "type": "tabs",
         "children": [
           {
-            "id": "a343847e7bfccb27",
+            "id": "3d11d1b26bc7d1b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "canvas",
+              "state": {
+                "file": "3.Resources/IT/운영체제/OS.canvas",
+                "viewState": {
+                  "x": 1269.6917713495063,
+                  "y": 105.90993326529542,
+                  "zoom": -3.6039634626512123
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "OS"
             }
           }
         ]
@@ -93,9 +100,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "3.Resources/IT/운영체제/OS.canvas"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for OS"
             }
           },
           {
@@ -139,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -233,6 +243,16 @@
             "id": "a464fa6cf0d59564",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "fb8330deb781f1b8",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -252,16 +272,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3.Resources/IT/운영체제/OS.canvas"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "OS 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 576.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,19 +306,22 @@
       "cards-view:Card view": false
     }
   },
-  "active": "a343847e7bfccb27",
+  "active": "3d11d1b26bc7d1b9",
   "lastOpenFiles": [
-    "연습노트/직류기.canvas",
-    "연습노트/직류기.md",
-    "영구노트/전자기 유도 법칙 수식 유도.md",
+    "3.Resources/IT/운영체제/OS.md",
+    "3.Resources/IT/운영체제/OS.canvas",
+    "3.Resources/전기기사/전자기학.md",
+    "3.Resources/전기기사/회로 and 제어.md",
+    "3.Resources/게임/Overwatch/겐지.md",
+    "영구노트/이해를 돕기 위한 하트비트 예시.md",
     "영구노트/전자기 유도 법칙.md",
+    "연습노트/직류기.md",
+    "연습노트/직류기.canvas",
+    "영구노트/전자기 유도 법칙 수식 유도.md",
     "3.Resources/전기기사/전력공학 and 전기기기.md",
     "연습노트/분산 시스템 합의 알고리즘.md",
-    "3.Resources/전기기사/회로 and 제어.md",
-    "3.Resources/전기기사/전자기학.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "3.Resources/명언/명언 모음.md",
-    "3.Resources/게임/Overwatch/겐지.md",
     "연습노트/전기 쌍극자.md",
     "연습노트/팩토리 패턴.md",
     "연습노트/Spring Modulith.md",
@@ -308,7 +334,6 @@
     "영구노트/Paxos.md",
     "연습노트/KaibanJS.md",
     "영구노트/하트비트.md",
-    "영구노트/이해를 돕기 위한 하트비트 예시.md",
     "Excalidraw/Paxos 동작 과정 (draw).md",
     "Excalidraw/Paxos 동작 과정 (draw).svg",
     "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
