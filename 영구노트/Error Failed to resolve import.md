@@ -5,7 +5,7 @@ tags:
   - JS
   - NextJS
   - Vitest
-aliases:
+aliases: 
 title: Error Failed to resolve import
 date: 2024-02-27
 ---

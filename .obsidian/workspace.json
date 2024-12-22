@@ -8,23 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d11d1b26bc7d1b9",
+            "id": "99700f4aa939b422",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3.Resources/IT/운영체제/OS.canvas",
-                "viewState": {
-                  "x": 1269.6917713495063,
-                  "y": 105.90993326529542,
-                  "zoom": -3.6039634626512123
-                }
+                "file": "연습노트/상태 복제.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "OS"
+              "icon": "lucide-file",
+              "title": "상태 복제"
+            }
+          },
+          {
+            "id": "4e14effd31043079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/상태 복제.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "상태 복제"
+            }
+          },
+          {
+            "id": "232639689979118b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/Raft.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raft"
+            }
+          },
+          {
+            "id": "bed74d3038839558",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,10 +145,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/IT/운영체제/OS.canvas"
+                "file": "무제 파일.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for OS"
+              "title": "File properties for 무제 파일"
             }
           },
           {
@@ -148,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -166,16 +209,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제 파일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "무제 파일의 백링크"
             }
           },
           {
@@ -184,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연습노트/Paxos.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Paxos의 나가는 링크"
+              "title": "무제 파일의 나가는 링크"
             }
           },
           {
@@ -240,17 +284,7 @@
             }
           },
           {
-            "id": "a464fa6cf0d59564",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "fb8330deb781f1b8",
+            "id": "ca392e682c5c0242",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -259,8 +293,7 @@
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "7d466e57ea240c21",
@@ -273,18 +306,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/IT/운영체제/OS.canvas"
+                "file": "무제 파일.md"
               },
               "icon": "lucide-list",
-              "title": "OS 개요"
+              "title": "무제 파일 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5,
-    "collapsed": true
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,10 +338,18 @@
       "cards-view:Card view": false
     }
   },
-  "active": "3d11d1b26bc7d1b9",
+  "active": "bed74d3038839558",
   "lastOpenFiles": [
-    "3.Resources/IT/운영체제/OS.md",
+    "연습노트/Raft.md",
+    "무제 파일.md",
+    "연습노트/상태 복제.md",
+    "영구노트/하트비트.md",
+    "영구노트/분산 시스템 합의 알고리즘.md",
+    "영구노트/전위.md",
     "3.Resources/IT/운영체제/OS.canvas",
+    "영구노트/Write Ahead Logging.md",
+    "영구노트/전자기 유도 법칙 수식 유도.md",
+    "3.Resources/IT/운영체제/OS.md",
     "3.Resources/전기기사/전자기학.md",
     "3.Resources/전기기사/회로 and 제어.md",
     "3.Resources/게임/Overwatch/겐지.md",
@@ -317,9 +357,7 @@
     "영구노트/전자기 유도 법칙.md",
     "연습노트/직류기.md",
     "연습노트/직류기.canvas",
-    "영구노트/전자기 유도 법칙 수식 유도.md",
     "3.Resources/전기기사/전력공학 and 전기기기.md",
-    "연습노트/분산 시스템 합의 알고리즘.md",
     "3.Resources/IT/객체지향/객체 지향.md",
     "3.Resources/명언/명언 모음.md",
     "연습노트/전기 쌍극자.md",
@@ -329,16 +367,10 @@
     "연습노트/Spring State Machine.md",
     "연습노트/Spring Transaction.md",
     "연습노트/Thread 컨텍스트 스위칭.md",
-    "영구노트/Write Ahead Logging.md",
-    "연습노트/Raft.md",
     "영구노트/Paxos.md",
-    "연습노트/KaibanJS.md",
-    "영구노트/하트비트.md",
-    "Excalidraw/Paxos 동작 과정 (draw).md",
     "Excalidraw/Paxos 동작 과정 (draw).svg",
     "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
     "attachments/pdf/book/Distributed_Systems_3rd.pdf",
-    "연습노트/JacksonModule & Std(De)Serializer.md",
     "Excalidraw/Commit 단계에서 조정자 복구로 장애 복구 (draw).svg",
     "attachments/pdf/논문/paxos-simple.pdf",
     "Excalidraw/3PC preCommit 단계 네트워크 장애 예제 (draw).svg",

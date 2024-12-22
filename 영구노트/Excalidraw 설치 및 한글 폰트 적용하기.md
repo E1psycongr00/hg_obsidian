@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - 완성
   - 솔루션
 aliases: 

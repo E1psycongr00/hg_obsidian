@@ -4,7 +4,7 @@ tags:
   - 알고리즘
   - 이분탐색
   - 스니펫
-aliases:
+aliases: 
 title: lower bound
 date: 2024-02-16
 ---

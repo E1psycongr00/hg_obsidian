@@ -2,7 +2,7 @@
 tags:
   - 완성
   - JS
-aliases:
+aliases: 
 title: Computed property name
 date: 2024-02-08
 ---

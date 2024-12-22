@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - 완성
 aliases: 
 title: Obsidian Media Extend plugin 사용법

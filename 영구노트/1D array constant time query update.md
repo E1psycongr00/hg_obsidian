@@ -5,7 +5,7 @@ tags:
   - 알고리즘
   - PrefixSum
 aliases: 
-title: "1D array constant time query update"
+title: 1D array constant time query update
 date: 2023-11-03
 ---
 작성 날짜: 2023-11-03

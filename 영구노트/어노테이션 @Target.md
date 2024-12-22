@@ -1,13 +1,12 @@
 ---
-tags: 
+tags:
   - 완성
   - IT
   - JAVA
   - Annotation
-aliases:
+aliases: 
 title: 어노테이션 @Target
 date: 2023-11-10
-
 ---
 작성 날짜: 2023-11-10
 작성 시간: 14:57

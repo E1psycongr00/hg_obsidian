@@ -2,7 +2,8 @@
 tags:
   - resource
 aliases: 
-date: {{date}}
+date:
+  "{ date }": 
 title: "{{title}}"
 ---
 

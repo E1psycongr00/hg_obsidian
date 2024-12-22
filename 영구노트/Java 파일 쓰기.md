@@ -1,8 +1,8 @@
 ---
-tags: 
+tags:
   - 완성
   - JAVA
-aliases:
+aliases: 
 title: Java 파일 쓰기
 date: 2023-11-07
 ---

@@ -3,7 +3,7 @@ tags:
   - 완성
   - 알고리즘
   - DP
-aliases:
+aliases: 
 title: cherry pick up
 date: 2024-02-11
 ---
