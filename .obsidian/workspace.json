@@ -81,9 +81,19 @@
               "icon": "lucide-file",
               "title": "무제 파일 2"
             }
+          },
+          {
+            "id": "62da91199526ff4a",
+            "type": "leaf",
+            "state": {
+              "type": "cards-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Cards View"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,10 +170,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일 2.md"
+                "file": "연습노트/Raft.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 무제 파일 2"
+              "title": "File properties for Raft"
             }
           },
           {
@@ -224,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "연습노트/Raft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +244,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "무제 파일 2의 백링크"
+              "title": "Raft의 백링크"
             }
           },
           {
@@ -257,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/직류기.md",
+                "file": "연습노트/Raft.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -285,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "직류기 그래프"
+              "title": "Raft 그래프"
             }
           },
           {
@@ -299,7 +309,7 @@
             }
           },
           {
-            "id": "ca392e682c5c0242",
+            "id": "d7a23851abf4bfe0",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -308,7 +318,8 @@
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -321,10 +332,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 2.md"
+                "file": "연습노트/Raft.md"
               },
               "icon": "lucide-list",
-              "title": "무제 파일 2 개요"
+              "title": "Raft 개요"
             }
           }
         ]
@@ -353,12 +364,12 @@
       "cards-view:Card view": false
     }
   },
-  "active": "bf96baf08089b808",
+  "active": "232639689979118b",
   "lastOpenFiles": [
     "무제 파일.md",
+    "무제 파일 2.md",
     "연습노트/Raft.md",
     "연습노트/상태 복제.md",
-    "무제 파일 2.md",
     "영구노트/하트비트.md",
     "영구노트/분산 시스템 합의 알고리즘.md",
     "영구노트/전위.md",
