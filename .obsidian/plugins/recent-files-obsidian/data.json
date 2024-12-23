@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Raft",
-      "path": "연습노트/Raft.md"
+      "basename": "분산 시스템",
+      "path": "분산 시스템.md"
     },
     {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
+      "basename": "ChatGPT 컴퓨터 전문가 프롬프트 템플릿",
+      "path": "ChatGPT 컴퓨터 전문가 프롬프트 템플릿.md"
     },
     {
       "basename": "무제 파일 2",
       "path": "무제 파일 2.md"
     },
     {
-      "basename": "상태 복제",
-      "path": "연습노트/상태 복제.md"
-    },
-    {
       "basename": "하트비트",
       "path": "영구노트/하트비트.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "연습노트/Raft.md"
+    },
+    {
+      "basename": "직류기",
+      "path": "연습노트/직류기.md"
+    },
+    {
+      "basename": "상태 복제",
+      "path": "연습노트/상태 복제.md"
     },
     {
       "basename": "분산 시스템 합의 알고리즘",
@@ -77,10 +85,6 @@
       "path": "영구노트/전자기 유도 법칙.md"
     },
     {
-      "basename": "직류기",
-      "path": "연습노트/직류기.md"
-    },
-    {
       "basename": "전력공학 and 전기기기",
       "path": "3.Resources/전기기사/전력공학 and 전기기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전기 쌍극자",
       "path": "연습노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
     }
   ],
   "omittedPaths": [],
