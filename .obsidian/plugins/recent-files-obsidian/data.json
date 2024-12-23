@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일 2",
+      "path": "무제 파일 2.md"
+    },
+    {
       "basename": "무제 파일",
       "path": "무제 파일.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "팩토리 패턴",
       "path": "연습노트/팩토리 패턴.md"
-    },
-    {
-      "basename": "Spring Modulith",
-      "path": "연습노트/Spring Modulith.md"
     }
   ],
   "omittedPaths": [],
