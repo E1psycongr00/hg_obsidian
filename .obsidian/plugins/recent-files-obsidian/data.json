@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Java 시간 관련 라이브러리 다루기",
+      "path": "영구노트/Java 시간 관련 라이브러리 다루기.md"
+    },
+    {
+      "basename": "7. Java 표준 라이브러리",
+      "path": "3.Resources/IT/java/7. Java 표준 라이브러리.md"
+    },
+    {
       "basename": "분산 시스템",
       "path": "분산 시스템.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "객체 지향",
       "path": "3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "명언 모음",
-      "path": "3.Resources/명언/명언 모음.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
     }
   ],
   "omittedPaths": [],
