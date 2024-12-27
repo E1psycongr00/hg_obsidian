@@ -21,54 +21,8 @@
               "icon": "lucide-file",
               "title": "하트비트"
             }
-          },
-          {
-            "id": "bed74d3038839558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT 컴퓨터 전문가 프롬프트 템플릿.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ChatGPT 컴퓨터 전문가 프롬프트 템플릿"
-            }
-          },
-          {
-            "id": "021de5bf77cb9a90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java 시간 관련 라이브러리 다루기"
-            }
-          },
-          {
-            "id": "110aafaf684dc1a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java 시간 관련 라이브러리 다루기"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md"
+                "file": "영구노트/하트비트.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Java 시간 관련 라이브러리 다루기"
+              "title": "File properties for 하트비트"
             }
           },
           {
@@ -242,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/Raft.md",
+                "file": "영구노트/하트비트.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -270,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Raft 그래프"
+              "title": "하트비트 그래프"
             }
           },
           {
@@ -279,12 +233,12 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
-            "id": "123e3d0aa6313df0",
+            "id": "819b292762103b77",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -307,10 +261,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/Java 시간 관련 라이브러리 다루기.md"
+                "file": "영구노트/하트비트.md"
               },
               "icon": "lucide-list",
-              "title": "Java 시간 관련 라이브러리 다루기 개요"
+              "title": "하트비트 개요"
             }
           }
         ]
@@ -335,17 +289,27 @@
       "obsidian42-brat:BRAT": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "cards-view:Card view": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "110aafaf684dc1a6",
+  "active": "99700f4aa939b422",
   "lastOpenFiles": [
-    "3.Resources/IT/java/7. Java 표준 라이브러리.md",
-    "영구노트/Java 시간 관련 라이브러리 다루기.md",
-    "분산 시스템.md",
     "ChatGPT 컴퓨터 전문가 프롬프트 템플릿.md",
+    "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
+    "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif",
+    "attachments/gif/3-ij-db-connect.gif",
+    "레미제라블 25주년 감상문.md",
+    "롯데월드야 즐거웠다.md",
+    "Latex Suite 사용 방법.md",
+    "엘리멘탈 감상문.md",
+    "스즈메의 문단속.md",
     "무제 파일 2.md",
+    "무제 파일 1.md",
+    "영구노트/Java 시간 관련 라이브러리 다루기.md",
+    "attachments/pdf/book/introducing-eventstorming.pdf",
+    "attachments/pdf/book/Distributed_Systems_3rd.pdf",
+    "3.Resources/IT/java/7. Java 표준 라이브러리.md",
+    "분산 시스템.md",
     "영구노트/하트비트.md",
     "연습노트/Raft.md",
     "연습노트/직류기.md",
@@ -362,16 +326,8 @@
     "영구노트/이해를 돕기 위한 하트비트 예시.md",
     "영구노트/전자기 유도 법칙.md",
     "연습노트/직류기.canvas",
-    "3.Resources/전기기사/전력공학 and 전기기기.md",
-    "3.Resources/IT/객체지향/객체 지향.md",
-    "3.Resources/명언/명언 모음.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/팩토리 패턴.md",
-    "연습노트/Spring Modulith.md",
-    "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "Excalidraw/Paxos 동작 과정 (draw).svg",
     "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
-    "attachments/pdf/book/Distributed_Systems_3rd.pdf",
     "Excalidraw/Commit 단계에서 조정자 복구로 장애 복구 (draw).svg",
     "attachments/pdf/논문/paxos-simple.pdf",
     "Excalidraw/3PC preCommit 단계 네트워크 장애 예제 (draw).svg",
@@ -381,14 +337,10 @@
     "attachments/pdf/book/Designing_Data_Intensive_Applications.pdf",
     "Excalidraw/타이머 인터럽트 공장 자동화 예제 (draw).svg",
     "Excalidraw/최소한의 차이 갯수로 k 길이만큼 나누기 알고리즘(draw).svg",
-    "Excalidraw/옵저버 패턴 구조 (draw).svg",
-    "Excalidraw/엔티티매니저와 엔티티매니저 팩토리 관계 (draw).svg",
     "Excalidraw/libraries/simple-characters.excalidrawlib",
     "Excalidraw/libraries/microsoft-fabric-architecture-icons.excalidrawlib",
     "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
-    "attachments/pdf/lec4.pdf",
-    "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
