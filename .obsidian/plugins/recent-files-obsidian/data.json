@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "하트비트",
-      "path": "영구노트/하트비트.md"
+      "basename": "직류기",
+      "path": "연습노트/직류기.md"
     },
     {
-      "basename": "ChatGPT 컴퓨터 전문가 프롬프트 템플릿",
-      "path": "ChatGPT 컴퓨터 전문가 프롬프트 템플릿.md"
+      "basename": "상태 복제",
+      "path": "영구노트/상태 복제.md"
     },
     {
-      "basename": "Difference between DFA and NFA - GeeksforGeeks",
-      "path": "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf"
+      "basename": "전기 쌍극자",
+      "path": "연습노트/전기 쌍극자.md"
     },
     {
-      "basename": "ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26",
-      "path": "attachments/gif/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif"
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
     },
     {
-      "basename": "3-ij-db-connect",
-      "path": "attachments/gif/3-ij-db-connect.gif"
+      "basename": "팩토리 패턴",
+      "path": "연습노트/팩토리 패턴.md"
     },
     {
-      "basename": "레미제라블 25주년 감상문",
-      "path": "레미제라블 25주년 감상문.md"
-    },
-    {
-      "basename": "Latex Suite 사용 방법",
-      "path": "Latex Suite 사용 방법.md"
-    },
-    {
-      "basename": "엘리멘탈 감상문",
-      "path": "엘리멘탈 감상문.md"
-    },
-    {
-      "basename": "스즈메의 문단속",
-      "path": "스즈메의 문단속.md"
-    },
-    {
-      "basename": "무제 파일 2",
-      "path": "무제 파일 2.md"
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "연습노트/Flyway 사용하기 with Gradle.md"
     },
     {
       "basename": "무제 파일 1",
       "path": "무제 파일 1.md"
     },
     {
+      "basename": "무제 파일 2",
+      "path": "무제 파일 2.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "영구노트/Raft.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
       "basename": "Java 시간 관련 라이브러리 다루기",
       "path": "영구노트/Java 시간 관련 라이브러리 다루기.md"
     },
     {
-      "basename": "introducing-eventstorming",
-      "path": "attachments/pdf/book/introducing-eventstorming.pdf"
+      "basename": "Java Duration",
+      "path": "영구노트/Java Duration.md"
     },
     {
-      "basename": "Distributed_Systems_3rd",
-      "path": "attachments/pdf/book/Distributed_Systems_3rd.pdf"
+      "basename": "project 템플릿",
+      "path": "templates/project 템플릿.md"
     },
     {
-      "basename": "7. Java 표준 라이브러리",
-      "path": "3.Resources/IT/java/7. Java 표준 라이브러리.md"
+      "basename": "resource 템플릿",
+      "path": "templates/resource 템플릿.md"
+    },
+    {
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
+    },
+    {
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
+    },
+    {
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
+    },
+    {
+      "basename": "감상문 템플릿",
+      "path": "templates/감상문 템플릿.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "KaibanJS",
+      "path": "연습노트/KaibanJS.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "연습노트/Git 핵심 명령어.md"
+    },
+    {
+      "basename": "하트비트",
+      "path": "영구노트/하트비트.md"
     },
     {
       "basename": "분산 시스템",
       "path": "분산 시스템.md"
-    },
-    {
-      "basename": "Raft",
-      "path": "연습노트/Raft.md"
-    },
-    {
-      "basename": "직류기",
-      "path": "연습노트/직류기.md"
-    },
-    {
-      "basename": "상태 복제",
-      "path": "연습노트/상태 복제.md"
-    },
-    {
-      "basename": "분산 시스템 합의 알고리즘",
-      "path": "영구노트/분산 시스템 합의 알고리즘.md"
-    },
-    {
-      "basename": "전위",
-      "path": "영구노트/전위.md"
-    },
-    {
-      "basename": "Thread Basic",
-      "path": "영구노트/Thread Basic.md"
-    },
-    {
-      "basename": "OS",
-      "path": "3.Resources/IT/운영체제/OS.md"
-    },
-    {
-      "basename": "전자기 유도 법칙 수식 유도",
-      "path": "영구노트/전자기 유도 법칙 수식 유도.md"
-    },
-    {
-      "basename": "Write Ahead Logging",
-      "path": "영구노트/Write Ahead Logging.md"
     }
   ],
   "omittedPaths": [],

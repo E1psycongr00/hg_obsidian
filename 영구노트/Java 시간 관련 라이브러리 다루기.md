@@ -63,6 +63,7 @@ LocalTime ofDay = LocalTime.ofSecondOfDay(seconds);
 
 ## 연결 노트
 
+- down:: [[Java Duration]]
 
 
 
