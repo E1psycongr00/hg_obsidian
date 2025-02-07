@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: data.json"
             }
+          },
+          {
+            "id": "5f356cf19df39e59",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,8 +246,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -256,7 +271,7 @@
             }
           },
           {
-            "id": "8851d70a0054128b",
+            "id": "a237753e0c3a0dcd",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -305,7 +320,6 @@
       "oz-clear-unused-images:Clear Unused Images": false,
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -315,7 +329,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e665d0daf44cc92d",
+  "active": "a237753e0c3a0dcd",
   "lastOpenFiles": [
     "무제.md",
     "영구노트/암페어-턴.md",
