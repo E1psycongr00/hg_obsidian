@@ -1,108 +1,109 @@
 {
   "recentFiles": [
     {
-      "basename": "직류기",
-      "path": "연습노트/직류기.md"
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
-      "basename": "상태 복제",
-      "path": "영구노트/상태 복제.md"
+      "basename": "암페어-턴",
+      "path": "영구노트/암페어-턴.md"
     },
     {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
+      "basename": "구심력",
+      "path": "영구노트/구심력.md"
     },
     {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
+      "basename": "비오 사바트 법칙 (draw)",
+      "path": "Excalidraw/비오 사바트 법칙 (draw).md"
     },
     {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
+      "basename": "비오 사바트의 법칙",
+      "path": "영구노트/비오 사바트의 법칙.md"
     },
     {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "연습노트/Flyway 사용하기 with Gradle.md"
+      "basename": "웨버",
+      "path": "영구노트/웨버.md"
     },
     {
-      "basename": "무제 파일 1",
-      "path": "무제 파일 1.md"
+      "basename": "자기 플럭스",
+      "path": "영구노트/자기 플럭스.md"
     },
     {
-      "basename": "무제 파일 2",
-      "path": "무제 파일 2.md"
+      "basename": "자기 단극자",
+      "path": "영구노트/자기 단극자.md"
     },
     {
-      "basename": "Raft",
-      "path": "영구노트/Raft.md"
+      "basename": "자계",
+      "path": "연습노트/자계.md"
     },
     {
-      "basename": "Spring Modulith",
-      "path": "연습노트/Spring Modulith.md"
+      "basename": "플레밍 법칙",
+      "path": "영구노트/플레밍 법칙.md"
     },
     {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+      "basename": "정전 응력",
+      "path": "영구노트/정전 응력.md"
     },
     {
-      "basename": "Java 시간 관련 라이브러리 다루기",
-      "path": "영구노트/Java 시간 관련 라이브러리 다루기.md"
+      "basename": "정전용량",
+      "path": "영구노트/정전용량.md"
     },
     {
-      "basename": "Java Duration",
-      "path": "영구노트/Java Duration.md"
+      "basename": "평행판 축전지의 전압 증가 (draw)",
+      "path": "Excalidraw/평행판 축전지의 전압 증가 (draw).md"
     },
     {
-      "basename": "project 템플릿",
-      "path": "templates/project 템플릿.md"
+      "basename": "두개의 무한 평판의 전계",
+      "path": "두개의 무한 평판의 전계.md"
     },
     {
-      "basename": "resource 템플릿",
-      "path": "templates/resource 템플릿.md"
+      "basename": "전계",
+      "path": "영구노트/전계.md"
     },
     {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
+      "basename": "평행판 축전기 정전 용량 증명",
+      "path": "영구노트/평행판 축전기 정전 용량 증명.md"
     },
     {
-      "basename": "인물 소개 템플릿",
-      "path": "templates/인물 소개 템플릿.md"
+      "basename": "곡선 좌표계와 미분 연산자",
+      "path": "영구노트/곡선 좌표계와 미분 연산자.md"
     },
     {
-      "basename": "솔루션 템플릿",
-      "path": "templates/솔루션 템플릿.md"
+      "basename": "스케일 팩터",
+      "path": "영구노트/스케일 팩터.md"
     },
     {
-      "basename": "감상문 템플릿",
-      "path": "templates/감상문 템플릿.md"
+      "basename": "원통 좌표계 (draw)",
+      "path": "Excalidraw/원통 좌표계 (draw).md"
     },
     {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "연습노트/k6와 그라파나를 활용해 테스트 시각화하기.md"
+      "basename": "전위",
+      "path": "연습노트/전위.md"
     },
     {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "연습노트/JacksonModule & Std(De)Serializer.md"
+      "basename": "무한 평면의 전계",
+      "path": "영구노트/무한 평면의 전계.md"
     },
     {
-      "basename": "KaibanJS",
-      "path": "연습노트/KaibanJS.md"
+      "basename": "도체 표면의 전계",
+      "path": "영구노트/도체 표면의 전계.md"
     },
     {
-      "basename": "Git 핵심 명령어",
-      "path": "연습노트/Git 핵심 명령어.md"
+      "basename": "도체 평면의 전계 (draw)",
+      "path": "Excalidraw/도체 평면의 전계 (draw).md"
     },
     {
-      "basename": "하트비트",
-      "path": "영구노트/하트비트.md"
+      "basename": "곡률 반경과 전하 밀도 (draw)",
+      "path": "Excalidraw/곡률 반경과 전하 밀도 (draw).md"
     },
     {
-      "basename": "분산 시스템",
-      "path": "분산 시스템.md"
+      "basename": "전하(Elecric Charge)",
+      "path": "영구노트/전하(Elecric Charge).md"
     }
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false,
   "maxLength": 25,
   "openType": "tab"

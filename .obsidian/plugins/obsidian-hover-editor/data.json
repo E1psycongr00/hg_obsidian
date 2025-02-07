@@ -6,12 +6,12 @@
   "autoFocus": true,
   "rollDown": false,
   "snapToEdges": false,
-  "initialHeight": "340px",
-  "initialWidth": "450px",
+  "initialHeight": "350px",
+  "initialWidth": "550px",
   "showViewHeader": false,
   "imageZoom": true,
   "hoverEmbeds": false,
   "footnotes": "never",
-  "headings": "never",
+  "headings": "always",
   "blocks": "never"
 }

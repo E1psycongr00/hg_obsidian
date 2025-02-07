@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+    <!-- 배경 -->
+    <rect width="800" height="500" fill="#f8f9fa"/>
+    
+    <!-- 제목 -->
+    <text x="400" y="40" text-anchor="middle" font-size="24" fill="#333">
+        기본 입자들의 질량 비교
+    </text>
+    
+    <!-- 스케일 설명 -->
+    <text x="400" y="70" text-anchor="middle" font-size="16" fill="#666">
+        (원의 면적이 질량에 비례)
+    </text>
+
+    <!-- 양성자 (1.67262 × 10^-27 kg) -->
+    <circle cx="250" cy="250" r="100" fill="#ff6b6b" opacity="0.8"/>
+    <text x="250" y="240" text-anchor="middle" font-size="20" fill="white">양성자</text>
+    <text x="250" y="265" text-anchor="middle" font-size="14" fill="white">1.67262 × 10^-27 kg</text>
+    
+    <!-- 중성자 (1.67493 × 10^-27 kg) -->
+    <circle cx="550" cy="250" r="100.1" fill="#4dabf7" opacity="0.8"/>
+    <text x="550" y="240" text-anchor="middle" font-size="20" fill="white">중성자</text>
+    <text x="550" y="265" text-anchor="middle" font-size="14" fill="white">1.67493 × 10^-27 kg</text>
+    
+    <!-- 전자 (9.1093837015 × 10^-31 kg) -->
+    <circle cx="400" cy="250" r="2.3" fill="#51cf66"/>
+    <text x="400" y="220" text-anchor="middle" font-size="20" fill="#333">전자</text>
+    <text x="400" y="290" text-anchor="middle" font-size="14" fill="#333">9.1093837015 × 10^-31 kg</text>
+    
+    <!-- 설명 -->
+    <text x="400" y="400" text-anchor="middle" font-size="16" fill="#666">
+        양성자와 중성자의 질량은 거의 비슷하며, 전자 질량의 약 1,836배입니다
+    </text>
+    <text x="400" y="430" text-anchor="middle" font-size="16" fill="#666">
+        전자는 매우 가벼워서 육안으로는 거의 점처럼 보입니다
+    </text>
+</svg>

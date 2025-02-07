@@ -9,7 +9,6 @@
   "obsidian-tasks-plugin",
   "recent-files-obsidian",
   "obsidian-latex-suite",
-  "canvas-mindmap",
   "link-exploder",
   "obsidian-list-callouts",
   "obsidian-vault-statistics-plugin",
@@ -27,5 +26,8 @@
   "pdf-plus",
   "obsidian-hover-editor",
   "better-fn",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-markmind",
+  "better-export-pdf",
+  "templater-obsidian"
 ]
