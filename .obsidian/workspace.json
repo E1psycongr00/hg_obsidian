@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "115467a23a4862f6",
+        "id": "66756585b6bd7cca",
         "type": "tabs",
         "children": [
           {
-            "id": "e665d0daf44cc92d",
+            "id": "6e14c4c883d5819a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "무제 파일 16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
-            }
-          },
-          {
-            "id": "5f356cf19df39e59",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "무제 파일 16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -113,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "무제 파일 16.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "무제 파일 16 의 파일 속성"
             }
           },
           {
@@ -251,7 +239,7 @@
             }
           },
           {
-            "id": "50e1c843d53f1221",
+            "id": "2c38c481fd180233",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -261,17 +249,7 @@
             }
           },
           {
-            "id": "bcf386918944196e",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
-            "id": "a237753e0c3a0dcd",
+            "id": "da686ca83a9dd244",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -279,9 +257,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3c2ebbae9d852447",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "7d466e57ea240c21",
@@ -294,12 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "무제 파일 16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "무제 파일 16 의 개요"
             }
           }
         ]
@@ -329,11 +318,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a237753e0c3a0dcd",
+  "active": "6e14c4c883d5819a",
   "lastOpenFiles": [
+    "무제 파일 17.md",
+    "3.Resources/게임/Overwatch/겐지.md",
+    "영구노트/전계.md",
+    "영구노트/구심력.md",
     "무제.md",
     "영구노트/암페어-턴.md",
-    "영구노트/구심력.md",
     "Excalidraw/비오 사바트 법칙 (draw).md",
     "영구노트/비오 사바트의 법칙.md",
     "Excalidraw/비오 사바트 법칙 (draw).svg",
@@ -351,7 +343,6 @@
     "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
     "Excalidraw/평행판 축전지의 전압 증가 (draw).svg",
     "두개의 무한 평판의 전계.md",
-    "영구노트/전계.md",
     "영구노트/평행판 축전기 정전 용량 증명.md",
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "영구노트/스케일 팩터.md",
@@ -361,8 +352,6 @@
     "연습노트/전위.md",
     "영구노트/무한 평면의 전계.md",
     "영구노트/도체 표면의 전계.md",
-    "영구노트/도체와 절연체의 전하 분포.md",
-    "Excalidraw/도체 평면의 전계 (draw).md",
     "Excalidraw/도체 평면의 전계 (draw).svg",
     "Excalidraw/곡률 반경과 전하 밀도 (draw).svg",
     "Excalidraw/도체의 전하 분포 (draw).svg",

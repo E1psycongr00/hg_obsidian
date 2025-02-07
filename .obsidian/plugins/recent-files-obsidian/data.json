@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일 16",
+      "path": "무제 파일 16.md"
+    },
+    {
+      "basename": "무제 파일 17",
+      "path": "무제 파일 17.md"
+    },
+    {
+      "basename": "겐지",
+      "path": "3.Resources/게임/Overwatch/겐지.md"
+    },
+    {
+      "basename": "전계",
+      "path": "영구노트/전계.md"
+    },
+    {
+      "basename": "구심력",
+      "path": "영구노트/구심력.md"
+    },
+    {
       "basename": "무제",
       "path": "무제.md"
     },
     {
       "basename": "암페어-턴",
       "path": "영구노트/암페어-턴.md"
-    },
-    {
-      "basename": "구심력",
-      "path": "영구노트/구심력.md"
     },
     {
       "basename": "비오 사바트 법칙 (draw)",
@@ -57,10 +73,6 @@
       "path": "두개의 무한 평판의 전계.md"
     },
     {
-      "basename": "전계",
-      "path": "영구노트/전계.md"
-    },
-    {
       "basename": "평행판 축전기 정전 용량 증명",
       "path": "영구노트/평행판 축전기 정전 용량 증명.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "도체 표면의 전계",
       "path": "영구노트/도체 표면의 전계.md"
-    },
-    {
-      "basename": "도체 평면의 전계 (draw)",
-      "path": "Excalidraw/도체 평면의 전계 (draw).md"
-    },
-    {
-      "basename": "곡률 반경과 전하 밀도 (draw)",
-      "path": "Excalidraw/곡률 반경과 전하 밀도 (draw).md"
-    },
-    {
-      "basename": "전하(Elecric Charge)",
-      "path": "영구노트/전하(Elecric Charge).md"
     }
   ],
   "omittedPaths": [],
