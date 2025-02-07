@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5db8854d9dcf39cc",
+        "id": "115467a23a4862f6",
         "type": "tabs",
         "children": [
           {
-            "id": "76e0d31dd9757199",
+            "id": "e665d0daf44cc92d",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -315,7 +315,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76e0d31dd9757199",
+  "active": "e665d0daf44cc92d",
   "lastOpenFiles": [
     "무제.md",
     "영구노트/암페어-턴.md",
