@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/도체 표면의 전계.md",
+                "file": "영구노트/도체와 절연체의 전하 분포.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "도체 표면의 전계"
+              "title": "도체와 절연체의 전하 분포"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "비오 사바트",
+                "query": "곡률 반경",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/도체 표면의 전계.md"
+                "file": "영구노트/도체와 절연체의 전하 분포.md"
               },
               "icon": "lucide-info",
-              "title": "도체 표면의 전계 의 파일 속성"
+              "title": "도체와 절연체의 전하 분포 의 파일 속성"
             }
           },
           {
@@ -272,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/도체 표면의 전계.md",
+                "file": "영구노트/도체와 절연체의 전하 분포.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "도체 표면의 전계 의 개요"
+              "title": "도체와 절연체의 전하 분포 의 개요"
             }
           }
         ]
@@ -310,6 +309,9 @@
   },
   "active": "83ed6dc285af1ca2",
   "lastOpenFiles": [
+    "Excalidraw/곡률 반경과 전하 밀도 (draw).md",
+    "영구노트/도체와 절연체의 전하 분포.md",
+    "영구노트/도체 표면의 전계.md",
     "3.Resources/전기기사/전자기학.md",
     "영구노트/대류 전류.md",
     "연습노트/전위.md",
@@ -325,7 +327,6 @@
     "영구노트/유전체 경계 조건.md",
     "영구노트/스케일 팩터.md",
     "영구노트/암페어-턴.md",
-    "영구노트/도체 표면의 전계.md",
     "영구노트/도체계의 정전용량.md",
     "영구노트/비오 사바트의 법칙.md",
     "3.Resources/게임/Overwatch/겐지.md",
@@ -334,9 +335,7 @@
     "무제 파일 16.md",
     "무제.md",
     "무제 파일 17.md",
-    "영구노트/구심력.md",
     "Excalidraw/비오 사바트 법칙 (draw).svg",
-    "영구노트/웨버.md",
     "attachments/screenshot/Pasted image 20250206212707.png",
     "attachments/screenshot/Pasted image 20250206212202.png",
     "Excalidraw/평행판 축전지의 전압 증가 (draw).svg",
