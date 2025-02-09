@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "평행판 축전기 정전 용량 증명",
-      "path": "영구노트/평행판 축전기 정전 용량 증명.md"
+      "basename": "평행도선에 전류",
+      "path": "연습노트/평행도선에 전류.md"
+    },
+    {
+      "basename": "전자기학",
+      "path": "3.Resources/전기기사/전자기학.md"
     },
     {
       "basename": "정전용량",
       "path": "영구노트/정전용량.md"
     },
     {
-      "basename": "전자기학",
-      "path": "3.Resources/전기기사/전자기학.md"
+      "basename": "평행판 축전기 정전 용량 증명",
+      "path": "영구노트/평행판 축전기 정전 용량 증명.md"
     },
     {
       "basename": "전하(Elecric Charge)",
@@ -95,10 +99,6 @@
     {
       "basename": "곡선 좌표계와 미분 연산자",
       "path": "영구노트/곡선 좌표계와 미분 연산자.md"
-    },
-    {
-      "basename": "원통 좌표계 (draw)",
-      "path": "Excalidraw/원통 좌표계 (draw).md"
     }
   ],
   "omittedPaths": [],
