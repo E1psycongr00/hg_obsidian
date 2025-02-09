@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5d7845f2f65f6d8b",
+        "id": "764a2d27483a6cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "83ed6dc285af1ca2",
+            "id": "fb810fc10bf9850b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Resources/전기기사/전자기학.md",
-                "mode": "preview",
+                "file": "연습노트/자성체.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전자기학"
+              "title": "자성체"
             }
           }
         ]
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/전기기사/전자기학.md"
+                "file": "연습노트/자성체.md"
               },
               "icon": "lucide-info",
-              "title": "전자기학 의 파일 속성"
+              "title": "자성체 의 파일 속성"
             }
           },
           {
@@ -272,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/전기기사/전자기학.md",
+                "file": "연습노트/자성체.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전자기학 의 개요"
+              "title": "자성체 의 개요"
             }
           }
         ]
@@ -308,11 +308,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83ed6dc285af1ca2",
+  "active": "fb810fc10bf9850b",
   "lastOpenFiles": [
+    "연습노트/자성체.md",
     "영구노트/로렌쯔의 힘.md",
-    "영구노트/평행도선에 전류.md",
     "3.Resources/전기기사/전자기학.md",
+    "영구노트/평행도선에 전류.md",
     "Excalidraw/평행 도선 전류 (draw).md",
     "Excalidraw/평행 도선 전류 (draw).svg",
     "영구노트/정전용량.md",
@@ -336,7 +337,6 @@
     "영구노트/플레밍 법칙.md",
     "영구노트/자기 플럭스.md",
     "영구노트/유전체.md",
-    "영구노트/유전체 경계 조건.md",
     "Excalidraw/비오 사바트 법칙 (draw).svg",
     "attachments/screenshot/Pasted image 20250206212707.png",
     "attachments/screenshot/Pasted image 20250206212202.png",
