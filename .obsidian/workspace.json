@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "66756585b6bd7cca",
+        "id": "5d7845f2f65f6d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "6e14c4c883d5819a",
+            "id": "83ed6dc285af1ca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 16.md",
+                "file": "영구노트/도체 표면의 전계.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제 파일 16"
+              "title": "도체 표면의 전계"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 파일 16.md"
+                "file": "영구노트/도체 표면의 전계.md"
               },
               "icon": "lucide-info",
-              "title": "무제 파일 16 의 파일 속성"
+              "title": "도체 표면의 전계 의 파일 속성"
             }
           },
           {
@@ -272,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 16.md",
+                "file": "영구노트/도체 표면의 전계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 파일 16 의 개요"
+              "title": "도체 표면의 전계 의 개요"
             }
           }
         ]
@@ -308,40 +308,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33f56067064d3b22",
+  "active": "83ed6dc285af1ca2",
   "lastOpenFiles": [
-    "무제 파일 16.md",
-    "무제 파일 17.md",
-    "3.Resources/게임/Overwatch/겐지.md",
+    "3.Resources/전기기사/전자기학.md",
+    "영구노트/대류 전류.md",
+    "연습노트/전위.md",
+    "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
+    "영구노트/평행판 축전기 정전 용량 증명.md",
+    "영구노트/플레밍 법칙.md",
+    "영구노트/정전용량.md",
+    "영구노트/자기 단극자.md",
+    "영구노트/자기 플럭스.md",
+    "영구노트/유전체.md",
     "영구노트/전계.md",
-    "영구노트/구심력.md",
-    "무제.md",
+    "영구노트/정전계.md",
+    "영구노트/유전체 경계 조건.md",
+    "영구노트/스케일 팩터.md",
     "영구노트/암페어-턴.md",
-    "Excalidraw/비오 사바트 법칙 (draw).md",
+    "영구노트/도체 표면의 전계.md",
+    "영구노트/도체계의 정전용량.md",
     "영구노트/비오 사바트의 법칙.md",
+    "3.Resources/게임/Overwatch/겐지.md",
+    "Excalidraw/비오 사바트 법칙 (draw).md",
+    "무제 파일.md",
+    "무제 파일 16.md",
+    "무제.md",
+    "무제 파일 17.md",
+    "영구노트/구심력.md",
     "Excalidraw/비오 사바트 법칙 (draw).svg",
     "영구노트/웨버.md",
-    "영구노트/자기 플럭스.md",
-    "영구노트/자기 단극자.md",
-    "영구노트/맥스웰 방정식.md",
-    "연습노트/자계.md",
-    "영구노트/플레밍 법칙.md",
     "attachments/screenshot/Pasted image 20250206212707.png",
     "attachments/screenshot/Pasted image 20250206212202.png",
-    "영구노트/정전 응력.md",
-    "영구노트/정전용량.md",
-    "Excalidraw/평행판 축전지의 전압 증가 (draw).md",
-    "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
     "Excalidraw/평행판 축전지의 전압 증가 (draw).svg",
-    "두개의 무한 평판의 전계.md",
-    "영구노트/평행판 축전기 정전 용량 증명.md",
-    "영구노트/곡선 좌표계와 미분 연산자.md",
-    "영구노트/스케일 팩터.md",
     "attachments/screenshot/Pasted image 20250204105533.png",
-    "Excalidraw/원통 좌표계 (draw).md",
     "Excalidraw/원통 좌표계 (draw).svg",
-    "연습노트/전위.md",
-    "영구노트/무한 평면의 전계.md",
     "Excalidraw/도체 평면의 전계 (draw).svg",
     "Excalidraw/곡률 반경과 전하 밀도 (draw).svg",
     "Excalidraw/도체의 전하 분포 (draw).svg",
