@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/자속 쇄교수.md",
+                "file": "영구노트/자속 쇄교수.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,15 +23,18 @@
             }
           },
           {
-            "id": "2c9f69ca47a2a473",
+            "id": "bffaa7e24f794f1d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/자속쇄교수 (draw).md"
+                "file": "자기 인덕턴스.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "자속쇄교수 (draw)"
+              "icon": "lucide-file",
+              "title": "자기 인덕턴스"
             }
           }
         ],
@@ -113,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/자속쇄교수 (draw).md"
+                "file": "자기 인덕턴스.md"
               },
               "icon": "lucide-info",
-              "title": "자속쇄교수 (draw) 의 파일 속성"
+              "title": "자기 인덕턴스 의 파일 속성"
             }
           },
           {
@@ -210,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/자속쇄교수 (draw).md",
+                "file": "자기 인덕턴스.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -238,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "자속쇄교수 (draw) 그래프"
+              "title": "자기 인덕턴스 그래프"
             }
           },
           {
@@ -285,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/자속쇄교수 (draw).md",
+                "file": "자기 인덕턴스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "자속쇄교수 (draw) 의 개요"
+              "title": "자기 인덕턴스 의 개요"
             }
           }
         ]
@@ -321,11 +324,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c9f69ca47a2a473",
+  "active": "bffaa7e24f794f1d",
   "lastOpenFiles": [
-    "Excalidraw/자속쇄교수 (draw).svg",
-    "연습노트/자속 쇄교수.md",
+    "자기 인덕턴스.md",
+    "영구노트/자속 쇄교수.md",
     "Excalidraw/자속쇄교수 (draw).md",
+    "Excalidraw/자속쇄교수 (draw).svg",
     "영구노트/앙페르의 주회법칙.md",
     "영구노트/자성체.md",
     "영구노트/큐리 온도.md",
@@ -358,7 +362,6 @@
     "Excalidraw/원통 좌표계 (draw).svg",
     "Excalidraw/도체 평면의 전계 (draw).svg",
     "Excalidraw/곡률 반경과 전하 밀도 (draw).svg",
-    "Excalidraw/도체의 전하 분포 (draw).svg",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/book/introducing-eventstorming.pdf",
     "attachments/pdf/book/Distributed_Systems_3rd.pdf",
