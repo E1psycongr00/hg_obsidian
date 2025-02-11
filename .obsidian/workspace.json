@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "자속 쇄교수"
             }
+          },
+          {
+            "id": "2c9f69ca47a2a473",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/자속쇄교수 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "자속쇄교수 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/자속 쇄교수.md"
+                "file": "Excalidraw/자속쇄교수 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "자속 쇄교수 의 파일 속성"
+              "title": "자속쇄교수 (draw) 의 파일 속성"
             }
           },
           {
@@ -197,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/자속 쇄교수.md",
+                "file": "Excalidraw/자속쇄교수 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -225,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "자속 쇄교수 그래프"
+              "title": "자속쇄교수 (draw) 그래프"
             }
           },
           {
@@ -272,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/자속 쇄교수.md",
+                "file": "Excalidraw/자속쇄교수 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "자속 쇄교수 의 개요"
+              "title": "자속쇄교수 (draw) 의 개요"
             }
           }
         ]
@@ -308,9 +321,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31561ffdff165677",
+  "active": "2c9f69ca47a2a473",
   "lastOpenFiles": [
+    "Excalidraw/자속쇄교수 (draw).svg",
     "연습노트/자속 쇄교수.md",
+    "Excalidraw/자속쇄교수 (draw).md",
     "영구노트/앙페르의 주회법칙.md",
     "영구노트/자성체.md",
     "영구노트/큐리 온도.md",
@@ -335,8 +350,6 @@
     "영구노트/도체 표면의 전계.md",
     "Excalidraw/곡률 반경과 전하 밀도 (draw).md",
     "영구노트/대류 전류.md",
-    "연습노트/전위.md",
-    "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
     "Excalidraw/비오 사바트 법칙 (draw).svg",
     "attachments/screenshot/Pasted image 20250206212707.png",
     "attachments/screenshot/Pasted image 20250206212202.png",
