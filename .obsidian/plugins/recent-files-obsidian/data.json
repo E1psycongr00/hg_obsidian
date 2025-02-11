@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "D",
-      "path": "Excalidraw/D.md"
-    },
-    {
       "basename": "상호 유도 인덕턴스",
       "path": "연습노트/상호 유도 인덕턴스.md"
+    },
+    {
+      "basename": "자속 방향이 같음 직렬 (draw)",
+      "path": "Excalidraw/자속 방향이 같음 직렬 (draw).md"
+    },
+    {
+      "basename": "자속 방향이 같음 병렬 (draw)",
+      "path": "Excalidraw/자속 방향이 같음 병렬 (draw).md"
     },
     {
       "basename": "자기 인덕턴스",
@@ -95,10 +99,6 @@
     {
       "basename": "비오 사바트 법칙 (draw)",
       "path": "Excalidraw/비오 사바트 법칙 (draw).md"
-    },
-    {
-      "basename": "무제 파일",
-      "path": "무제 파일.md"
     }
   ],
   "omittedPaths": [],
