@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "자기 인덕턴스",
-      "path": "연습노트/자기 인덕턴스.md"
+      "basename": "자기 회로",
+      "path": "연습노트/자기 회로.md"
+    },
+    {
+      "basename": "전자기학",
+      "path": "3.Resources/전기기사/전자기학.md"
     },
     {
       "basename": "자속쇄교수 (draw)",
@@ -13,16 +17,8 @@
       "path": "영구노트/앙페르의 주회법칙.md"
     },
     {
-      "basename": "자성체",
-      "path": "영구노트/자성체.md"
-    },
-    {
       "basename": "로렌쯔의 힘",
       "path": "영구노트/로렌쯔의 힘.md"
-    },
-    {
-      "basename": "전자기학",
-      "path": "3.Resources/전기기사/전자기학.md"
     },
     {
       "basename": "평행도선에 전류",
@@ -71,10 +67,6 @@
     {
       "basename": "전위",
       "path": "연습노트/전위.md"
-    },
-    {
-      "basename": "평행판 축전기의 에너지를 2로 나누는 이유",
-      "path": "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md"
     },
     {
       "basename": "유전체",
