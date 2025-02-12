@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "정전 응력",
-      "path": "영구노트/정전 응력.md"
+      "basename": "전자기파",
+      "path": "연습노트/전자기파.md"
+    },
+    {
+      "basename": "포인팅 벡터",
+      "path": "연습노트/포인팅 벡터.md"
     },
     {
       "basename": "전자기학",
@@ -11,10 +15,6 @@
     {
       "basename": "도체 표면의 전계",
       "path": "영구노트/도체 표면의 전계.md"
-    },
-    {
-      "basename": "포인팅 벡터",
-      "path": "연습노트/포인팅 벡터.md"
     },
     {
       "basename": "자속 방향이 같음 직렬 (draw)",
