@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
+                "file": "영구노트/정전 응력.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "평행판 축전기의 에너지를 2로 나누는 이유"
+              "title": "정전 응력"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md"
+                "file": "영구노트/정전 응력.md"
               },
               "icon": "lucide-info",
-              "title": "평행판 축전기의 에너지를 2로 나누는 이유 의 파일 속성"
+              "title": "정전 응력 의 파일 속성"
             }
           },
           {
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
+                "file": "영구노트/정전 응력.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -225,7 +225,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "평행판 축전기의 에너지를 2로 나누는 이유 그래프"
+              "title": "정전 응력 그래프"
             }
           },
           {
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
+                "file": "영구노트/정전 응력.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "평행판 축전기의 에너지를 2로 나누는 이유 의 개요"
+              "title": "정전 응력 의 개요"
             }
           }
         ]
@@ -321,8 +321,8 @@
   "active": "7f003e605bc4dfc3",
   "lastOpenFiles": [
     "3.Resources/전기기사/전자기학.md",
-    "영구노트/평행판 축전기 정전 용량 증명.md",
     "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
+    "영구노트/평행판 축전기 정전 용량 증명.md",
     "영구노트/전기장 에너지 밀도.md",
     "영구노트/전속.md",
     "영구노트/자기 단극자.md",
