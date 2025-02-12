@@ -5,12 +5,12 @@
       "path": "3.Resources/전기기사/전자기학.md"
     },
     {
-      "basename": "포인팅 벡터",
-      "path": "연습노트/포인팅 벡터.md"
+      "basename": "도체 표면의 전계",
+      "path": "영구노트/도체 표면의 전계.md"
     },
     {
-      "basename": "상호 유도 인덕턴스",
-      "path": "영구노트/상호 유도 인덕턴스.md"
+      "basename": "포인팅 벡터",
+      "path": "연습노트/포인팅 벡터.md"
     },
     {
       "basename": "자속 방향이 같음 직렬 (draw)",
@@ -19,10 +19,6 @@
     {
       "basename": "자속 방향이 같음 병렬 (draw)",
       "path": "Excalidraw/자속 방향이 같음 병렬 (draw).md"
-    },
-    {
-      "basename": "자기 회로",
-      "path": "영구노트/자기 회로.md"
     },
     {
       "basename": "자속쇄교수 (draw)",
@@ -37,20 +33,8 @@
       "path": "영구노트/정전용량.md"
     },
     {
-      "basename": "전하(Elecric Charge)",
-      "path": "영구노트/전하(Elecric Charge).md"
-    },
-    {
-      "basename": "도체와 절연체의 전하 분포",
-      "path": "영구노트/도체와 절연체의 전하 분포.md"
-    },
-    {
       "basename": "정전계",
       "path": "영구노트/정전계.md"
-    },
-    {
-      "basename": "도체 표면의 전계",
-      "path": "영구노트/도체 표면의 전계.md"
     },
     {
       "basename": "곡률 반경과 전하 밀도 (draw)",
@@ -63,10 +47,6 @@
     {
       "basename": "전위",
       "path": "연습노트/전위.md"
-    },
-    {
-      "basename": "유전체",
-      "path": "영구노트/유전체.md"
     },
     {
       "basename": "겐지",
