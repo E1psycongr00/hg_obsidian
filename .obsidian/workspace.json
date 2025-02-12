@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "곡률 반경",
+                "query": "포인팅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +101,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -333,7 +332,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f003e605bc4dfc3",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "연습노트/전자기파.md",
     "영구노트/맥스웰 방정식.md",
