@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29cff63cd7fe6cbf",
+        "id": "37e46cb119af8a46",
         "type": "tabs",
         "children": [
           {
-            "id": "41d269adc3c7dc67",
+            "id": "f1df4a15a030b6cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -240,16 +240,6 @@
             }
           },
           {
-            "id": "ec8cf54b00406e02",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "9136a6e5d2718565",
             "type": "leaf",
             "state": {
@@ -260,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -308,7 +298,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41d269adc3c7dc67",
+  "active": "c824f374a77799a5",
   "lastOpenFiles": [
     "연습노트/포인팅 벡터.md",
     "영구노트/전자기파.md",
