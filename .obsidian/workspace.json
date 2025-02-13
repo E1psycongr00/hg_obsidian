@@ -243,6 +243,16 @@
             "id": "9136a6e5d2718565",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "f11fc7f1b9da6417",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -250,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "7d466e57ea240c21",
@@ -298,7 +308,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c824f374a77799a5",
+  "active": "f11fc7f1b9da6417",
   "lastOpenFiles": [
     "연습노트/포인팅 벡터.md",
     "영구노트/전자기파.md",
