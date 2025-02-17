@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/댐퍼.md",
+                "file": "영구노트/댐퍼.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/댐퍼.md"
+                "file": "영구노트/댐퍼.md"
               },
               "icon": "lucide-info",
               "title": "댐퍼 의 파일 속성"
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/댐퍼.md",
+                "file": "영구노트/댐퍼.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -312,7 +312,7 @@
   "active": "f1df4a15a030b6cc",
   "lastOpenFiles": [
     "3.Resources/전기기사/전력공학 and 전기기기.md",
-    "연습노트/댐퍼.md",
+    "영구노트/댐퍼.md",
     "attachments/screenshot/Pasted image 20250217122841.png",
     "attachments/screenshot/Pasted image 20250217122823.png",
     "영구노트/전자기파.md",
