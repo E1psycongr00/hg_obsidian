@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "도표 적분법"
             }
-          },
-          {
-            "id": "8f74deb408c27069",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-17 13.20.06.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md"
+                "file": "연습노트/도표 적분법.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-02-17 13.20.06.excalidraw 의 파일 속성"
+              "title": "도표 적분법 의 파일 속성"
             }
           },
           {
@@ -287,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
+                "file": "연습노트/도표 적분법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-02-17 13.20.06.excalidraw 의 개요"
+              "title": "도표 적분법 의 개요"
             }
           }
         ]
@@ -323,11 +310,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f74deb408c27069",
+  "active": "16641bd4a3a8cd4d",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted Image 20250219154620_990.png",
+    "Excalidraw/도표 적분법 (draw).md",
     "연습노트/도표 적분법.md",
-    "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
+    "attachments/screenshot/Pasted Image 20250219154620_990.png",
     "영구노트/대류 전류.md",
     "수정 노트/전자기파.md",
     "attachments/screenshot/Pasted image 20250219105817.png",
@@ -341,7 +328,7 @@
     "연습노트/전자기 에너지.md",
     "무제 1.md",
     "Excalidraw/images/postit__green.png",
-    "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.svg",
+    "Excalidraw/도표 적분법 (draw).svg",
     "Excalidraw/images/postit_red.png",
     "Excalidraw/images/postit_yellow.png",
     "Excalidraw/freepik__background__red.png",
@@ -361,7 +348,6 @@
     "영구노트/전기장 에너지 밀도.md",
     "영구노트/전속.md",
     "Excalidraw/자속 방향이 같음 병렬 (draw).svg",
-    "Excalidraw/자속 방향이 같음 직렬 (draw).svg",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/book/introducing-eventstorming.pdf",
     "attachments/pdf/book/Distributed_Systems_3rd.pdf",
