@@ -36,8 +36,16 @@ $$
 $$
 E = R \cdot i + L \frac{di}{dt}
 $$
-E 는 DC ㅈ
+E 는 DC 전압이고 라플라스 변환을 하면
 
+$$
+\frac{E}{s} = R \cdot I + L \cdot sI = (Ls + R) \cdot I
+$$
+좌변에 I만 남기면
+
+$$
+I = 
+$$
 ## 질문 & 확장
 
 (없음)
