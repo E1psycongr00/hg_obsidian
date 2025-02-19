@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "도표 적분법"
             }
+          },
+          {
+            "id": "8f74deb408c27069",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-17 13.20.06.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/도표 적분법.md"
+                "file": "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "도표 적분법 의 파일 속성"
+              "title": "Drawing 2025-02-17 13.20.06.excalidraw 의 파일 속성"
             }
           },
           {
@@ -274,13 +287,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/도표 적분법.md",
+                "file": "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "도표 적분법 의 개요"
+              "title": "Drawing 2025-02-17 13.20.06.excalidraw 의 개요"
             }
           }
         ]
@@ -310,9 +323,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62d96583bb3c34ce",
+  "active": "8f74deb408c27069",
   "lastOpenFiles": [
     "연습노트/도표 적분법.md",
+    "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
     "영구노트/대류 전류.md",
     "수정 노트/전자기파.md",
     "attachments/screenshot/Pasted image 20250219105817.png",
@@ -320,7 +334,6 @@
     "영구노트/맥스웰 방정식.md",
     "영구노트/포인팅 벡터.md",
     "영구노트/전자기 에너지.md",
-    "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
     "3.Resources/전기기사/전자기학.md",
     "영구노트/도체 표면의 전계.md",
     "영구노트/자기 단극자.md",
