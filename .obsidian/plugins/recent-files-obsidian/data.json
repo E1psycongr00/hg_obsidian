@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "과도현상",
+      "path": "연습노트/과도현상.md"
+    },
+    {
       "basename": "전위",
       "path": "영구노트/전위.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "postit_yellow",
       "path": "Excalidraw/images/postit_yellow.png"
-    },
-    {
-      "basename": "댐퍼",
-      "path": "영구노트/댐퍼.md"
     }
   ],
   "omittedPaths": [],

@@ -11,10 +11,15 @@
             "id": "eeada95399b5566a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/과도현상.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "과도현상"
             }
           }
         ]
@@ -94,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "연습노트/과도현상.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "과도현상 의 파일 속성"
             }
           },
           {
@@ -192,6 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "연습노트/과도현상.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -219,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "과도현상 그래프"
             }
           },
           {
@@ -266,12 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "연습노트/과도현상.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "과도현상 의 개요"
             }
           }
         ]
@@ -301,8 +310,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33f56067064d3b22",
+  "active": "eeada95399b5566a",
   "lastOpenFiles": [
+    "연습노트/과도현상.md",
     "영구노트/전위.md",
     "영구노트/부분적분법.md",
     "연습노트/계층 간선 네이밍.md",
