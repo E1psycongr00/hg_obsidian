@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "시정수",
-      "path": "연습노트/시정수.md"
-    },
-    {
       "basename": "과도현상",
       "path": "수정 노트/과도현상.md"
+    },
+    {
+      "basename": "R-L직렬 회로 과도 현상",
+      "path": "연습노트/R-L직렬 회로 과도 현상.md"
+    },
+    {
+      "basename": "시정수",
+      "path": "영구노트/시정수.md"
     },
     {
       "basename": "전위",
@@ -95,10 +99,6 @@
     {
       "basename": "무제 1",
       "path": "무제 1.md"
-    },
-    {
-      "basename": "postit_red",
-      "path": "Excalidraw/images/postit_red.png"
     }
   ],
   "omittedPaths": [],

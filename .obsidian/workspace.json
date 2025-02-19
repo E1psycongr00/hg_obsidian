@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "과도현상"
             }
-          },
-          {
-            "id": "3886ddb14038784b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/시정수.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "시정수"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/시정수.md"
+                "file": "수정 노트/과도현상.md"
               },
               "icon": "lucide-info",
-              "title": "시정수 의 파일 속성"
+              "title": "과도현상 의 파일 속성"
             }
           },
           {
@@ -215,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/시정수.md",
+                "file": "수정 노트/과도현상.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "시정수 그래프"
+              "title": "과도현상 그래프"
             }
           },
           {
@@ -290,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/시정수.md",
+                "file": "수정 노트/과도현상.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "시정수 의 개요"
+              "title": "과도현상 의 개요"
             }
           }
         ]
@@ -326,10 +310,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3886ddb14038784b",
+  "active": "eeada95399b5566a",
   "lastOpenFiles": [
+    "연습노트/R-L직렬 회로 과도 현상.md",
     "수정 노트/과도현상.md",
-    "연습노트/시정수.md",
+    "영구노트/시정수.md",
     "영구노트/전위.md",
     "영구노트/부분적분법.md",
     "연습노트/계층 간선 네이밍.md",
@@ -355,7 +340,6 @@
     "3.Resources/전기기사/전자기학.md",
     "영구노트/도체 표면의 전계.md",
     "영구노트/자기 단극자.md",
-    "연습노트/전자기 에너지.md",
     "Excalidraw/images/postit__green.png",
     "Excalidraw/도표 적분법 (draw).svg",
     "Excalidraw/images/postit_red.png",

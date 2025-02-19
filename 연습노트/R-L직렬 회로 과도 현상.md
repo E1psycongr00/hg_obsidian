@@ -1,9 +1,11 @@
 ---
 tags:
   - 미완
+  - 회로이론
+  - 제어공학
 aliases: 
-date:
-title: "시정수"
+date: 2025-02-19
+title: R-L직렬 회로 과도 현상
 ---
 
 ---
