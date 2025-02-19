@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "R-L직렬 회로 과도 현상"
             }
-          },
-          {
-            "id": "59cc0dfe5003cd89",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-19 18.35.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-19 18.35.32.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-19 18.35.32.excalidraw.md"
+                "file": "연습노트/R-L직렬 회로 과도 현상.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-02-19 18.35.32.excalidraw 의 파일 속성"
+              "title": "R-L직렬 회로 과도 현상 의 파일 속성"
             }
           },
           {
@@ -212,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-19 18.35.32.excalidraw.md",
+                "file": "연습노트/R-L직렬 회로 과도 현상.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -240,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-02-19 18.35.32.excalidraw 그래프"
+              "title": "R-L직렬 회로 과도 현상 그래프"
             }
           },
           {
@@ -287,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-19 18.35.32.excalidraw.md",
+                "file": "연습노트/R-L직렬 회로 과도 현상.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-02-19 18.35.32.excalidraw 의 개요"
+              "title": "R-L직렬 회로 과도 현상 의 개요"
             }
           }
         ]
@@ -323,14 +310,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59cc0dfe5003cd89",
+  "active": "eeada95399b5566a",
   "lastOpenFiles": [
-    "연습노트/R-L직렬 회로 과도 현상.md",
     "영구노트/시정수.md",
+    "연습노트/R-L직렬 회로 과도 현상.md",
+    "Excalidraw/시정수에 따른 과도응답 상태 그래프 (draw).md",
     "attachments/screenshot/Pasted image 20250219183545.png",
-    "Excalidraw/Drawing 2025-02-19 18.35.32.excalidraw.svg",
+    "Excalidraw/시정수에 따른 과도응답 상태 그래프 (draw).svg",
     "attachments/screenshot/Pasted Image 20250219183543_579.png",
-    "Excalidraw/Drawing 2025-02-19 18.35.32.excalidraw.md",
     "수정 노트/과도현상.md",
     "영구노트/전위.md",
     "영구노트/부분적분법.md",
