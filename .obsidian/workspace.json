@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/포인팅 벡터.md",
+                "file": "영구노트/전자기 에너지.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "포인팅 벡터"
+              "title": "전자기 에너지"
             }
           }
         ],
@@ -113,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/포인팅 벡터.md"
+                "file": "영구노트/전자기 에너지.md"
               },
               "icon": "lucide-info",
-              "title": "포인팅 벡터 의 파일 속성"
+              "title": "전자기 에너지 의 파일 속성"
             }
           },
           {
@@ -212,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/포인팅 벡터.md",
+                "file": "영구노트/전자기 에너지.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -240,7 +240,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "포인팅 벡터 그래프"
+              "title": "전자기 에너지 그래프"
             }
           },
           {
@@ -284,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/포인팅 벡터.md",
+                "file": "영구노트/전자기 에너지.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "포인팅 벡터 의 개요"
+              "title": "전자기 에너지 의 개요"
             }
           }
         ]
@@ -333,10 +333,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c824f374a77799a5",
+  "active": "df507d0b9bbcd2ca",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
+    "연습노트/전자기 에너지.md",
     "영구노트/포인팅 벡터.md",
+    "영구노트/전자기 에너지.md",
+    "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
     "영구노트/전자기파.md",
     "무제 1.md",
     "Excalidraw/images/postit__green.png",
@@ -367,7 +369,6 @@
     "영구노트/도체 표면의 전계.md",
     "영구노트/도체와 절연체의 전하 분포.md",
     "영구노트/상호 유도 인덕턴스.md",
-    "영구노트/도체계의 정전용량.md",
     "Excalidraw/자속 방향이 같음 병렬 (draw).svg",
     "Excalidraw/자속 방향이 같음 직렬 (draw).svg",
     "Excalidraw/자속쇄교수 (draw).svg",
