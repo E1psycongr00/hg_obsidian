@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "37e46cb119af8a46",
+        "id": "7b8354ce0390d85c",
         "type": "tabs",
         "children": [
           {
-            "id": "c44cb240b53c9351",
+            "id": "16641bd4a3a8cd4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/대류 전류.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "대류 전류"
+              "title": "새 탭"
             }
           }
         ]
@@ -99,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/대류 전류.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "대류 전류 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -274,13 +267,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/대류 전류.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "대류 전류 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -312,7 +304,10 @@
   },
   "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "영구노트/대류 전류.md",
     "수정 노트/전자기파.md",
+    "attachments/screenshot/Pasted image 20250219105817.png",
+    "전자기파 구조도.md",
     "영구노트/맥스웰 방정식.md",
     "영구노트/포인팅 벡터.md",
     "영구노트/전자기 에너지.md",
@@ -320,7 +315,6 @@
     "3.Resources/전기기사/전자기학.md",
     "영구노트/도체 표면의 전계.md",
     "영구노트/자기 단극자.md",
-    "영구노트/대류 전류.md",
     "연습노트/전자기 에너지.md",
     "무제 1.md",
     "Excalidraw/images/postit__green.png",
@@ -344,11 +338,8 @@
     "영구노트/전기장 에너지 밀도.md",
     "영구노트/전속.md",
     "영구노트/웨버.md",
-    "영구노트/유전체.md",
-    "영구노트/도체와 절연체의 전하 분포.md",
     "Excalidraw/자속 방향이 같음 병렬 (draw).svg",
     "Excalidraw/자속 방향이 같음 직렬 (draw).svg",
-    "Excalidraw/자속쇄교수 (draw).svg",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/book/introducing-eventstorming.pdf",
     "attachments/pdf/book/Distributed_Systems_3rd.pdf",
