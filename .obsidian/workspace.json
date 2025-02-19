@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "R-C 직렬 회로 과도 현상"
             }
+          },
+          {
+            "id": "9f848b7d34f4bdbd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RC 직렬 회로 과도 현상 ON OFF (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/R-C 직렬 회로 과도 현상.md"
+                "file": "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).md"
               },
               "icon": "lucide-info",
-              "title": "R-C 직렬 회로 과도 현상 의 파일 속성"
+              "title": "RC 직렬 회로 과도 현상 ON OFF (draw) 의 파일 속성"
             }
           },
           {
@@ -199,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/R-C 직렬 회로 과도 현상.md",
+                "file": "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +240,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "R-C 직렬 회로 과도 현상 그래프"
+              "title": "RC 직렬 회로 과도 현상 ON OFF (draw) 그래프"
             }
           },
           {
@@ -274,13 +287,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/R-C 직렬 회로 과도 현상.md",
+                "file": "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "R-C 직렬 회로 과도 현상 의 개요"
+              "title": "RC 직렬 회로 과도 현상 ON OFF (draw) 의 개요"
             }
           }
         ]
@@ -310,14 +323,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeada95399b5566a",
+  "active": "9f848b7d34f4bdbd",
   "lastOpenFiles": [
+    "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).svg",
+    "연습노트/R-C 직렬 회로 과도 현상.md",
+    "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).md",
+    "무제 2.md",
+    "영구노트/시정수.md",
     "Excalidraw/RC 직렬 회로 (draw).md",
     "Excalidraw/RC 직렬 회로 (draw).svg",
-    "연습노트/R-C 직렬 회로 과도 현상.md",
     "수정 노트/과도현상.md",
     "수정 노트/R-L직렬 회로 과도 현상.md",
-    "영구노트/시정수.md",
     "Excalidraw/시정수에 따른 과도응답 상태 그래프 (draw).md",
     "attachments/screenshot/Pasted image 20250219183545.png",
     "Excalidraw/시정수에 따른 과도응답 상태 그래프 (draw).svg",
@@ -341,8 +357,6 @@
     "수정 노트/전자기파.md",
     "attachments/screenshot/Pasted image 20250219105817.png",
     "전자기파 구조도.md",
-    "영구노트/맥스웰 방정식.md",
-    "영구노트/포인팅 벡터.md",
     "Excalidraw/images/postit__green.png",
     "Excalidraw/도표 적분법 (draw).svg",
     "Excalidraw/images/postit_red.png",
