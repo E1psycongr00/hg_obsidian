@@ -44,7 +44,19 @@ $$
 좌변에 I만 남기면
 
 $$
-I = 
+I = \frac{E}{L} \cdot \frac{1}{s\left( s + \frac{R}{L} \right)}
+$$
+
+분수를 분해하면
+
+$$
+I = \frac{E}{R} \cdot \left( \frac{1}{s} - \frac{1}{s+\frac{R}{L}} \right)
+$$
+
+역라플라스 변환하면
+
+$$
+i(t) = \frac{E}{R} \cdot (1 - e^{(R/L) t})
 $$
 ## 질문 & 확장
 
