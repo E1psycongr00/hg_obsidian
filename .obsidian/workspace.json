@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "df507d0b9bbcd2ca",
+            "id": "06c242d531dfe717",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -264,17 +264,7 @@
             }
           },
           {
-            "id": "f11fc7f1b9da6417",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "23e4b0c17707bf3e",
+            "id": "bc002542312221d1",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -333,12 +323,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df507d0b9bbcd2ca",
+  "active": "06c242d531dfe717",
   "lastOpenFiles": [
     "연습노트/전자기 에너지.md",
-    "영구노트/포인팅 벡터.md",
     "영구노트/전자기 에너지.md",
     "Excalidraw/Drawing 2025-02-17 13.20.06.excalidraw.md",
+    "영구노트/포인팅 벡터.md",
     "영구노트/전자기파.md",
     "무제 1.md",
     "Excalidraw/images/postit__green.png",
