@@ -1,6 +1,6 @@
 ---
 tags:
-  - 미완
+  - 수정
   - 회로이론
   - 제어공학
 aliases: 
@@ -53,11 +53,14 @@ $$
 I = \frac{E}{R} \cdot \left( \frac{1}{s} - \frac{1}{s+\frac{R}{L}} \right)
 $$
 
-역라플라스 변환하면
+역 라플라스 변환하면
 
 $$
 i(t) = \frac{E}{R} \cdot (1 - e^{(R/L) t})
 $$
+
+
+
 ## 질문 & 확장
 
 (없음)
