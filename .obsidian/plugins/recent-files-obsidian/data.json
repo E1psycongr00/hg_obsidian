@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "부분적분법",
+      "path": "연습노트/부분적분법.md"
+    },
+    {
       "basename": "도표 적분법",
       "path": "연습노트/도표 적분법.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "곡률 반경과 전하 밀도 (draw)",
       "path": "Excalidraw/곡률 반경과 전하 밀도 (draw).md"
-    },
-    {
-      "basename": "전위",
-      "path": "연습노트/전위.md"
     }
   ],
   "omittedPaths": [],
