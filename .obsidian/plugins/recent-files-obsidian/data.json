@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "시정수",
+      "path": "연습노트/시정수.md"
+    },
+    {
       "basename": "과도현상",
-      "path": "연습노트/과도현상.md"
+      "path": "수정 노트/과도현상.md"
     },
     {
       "basename": "전위",
@@ -95,10 +99,6 @@
     {
       "basename": "postit_red",
       "path": "Excalidraw/images/postit_red.png"
-    },
-    {
-      "basename": "postit_yellow",
-      "path": "Excalidraw/images/postit_yellow.png"
     }
   ],
   "omittedPaths": [],
