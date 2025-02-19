@@ -11,10 +11,15 @@
             "id": "16641bd4a3a8cd4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/도표 적분법.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "도표 적분법"
             }
           }
         ]
@@ -94,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "연습노트/도표 적분법.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "도표 적분법 의 파일 속성"
             }
           },
           {
@@ -267,12 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "연습노트/도표 적분법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "도표 적분법 의 개요"
             }
           }
         ]
@@ -302,8 +310,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "62d96583bb3c34ce",
   "lastOpenFiles": [
+    "연습노트/도표 적분법.md",
     "영구노트/대류 전류.md",
     "수정 노트/전자기파.md",
     "attachments/screenshot/Pasted image 20250219105817.png",
