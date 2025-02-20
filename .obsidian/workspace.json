@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "ABCD 파라미터"
             }
+          },
+          {
+            "id": "faa2c1f3c73b66c1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-20 17.06.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-20 17.06.20.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/ABCD 파라미터.md"
+                "file": "Excalidraw/Drawing 2025-02-20 17.06.20.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "ABCD 파라미터 의 파일 속성"
+              "title": "Drawing 2025-02-20 17.06.20.excalidraw 의 파일 속성"
             }
           },
           {
@@ -315,13 +327,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/ABCD 파라미터.md",
+                "file": "Excalidraw/Drawing 2025-02-20 17.06.20.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ABCD 파라미터 의 개요"
+              "title": "Drawing 2025-02-20 17.06.20.excalidraw 의 개요"
             }
           }
         ]
@@ -351,10 +363,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac32504bf67dbd68",
+  "active": "faa2c1f3c73b66c1",
   "lastOpenFiles": [
-    "연습노트/4단자망.md",
     "연습노트/ABCD 파라미터.md",
+    "Excalidraw/Drawing 2025-02-20 17.06.20.excalidraw.md",
+    "무제 2.md",
+    "연습노트/4단자망.md",
     "수정 노트/과도현상.md",
     "연습노트/R-L-C 직렬 회로 과도 현상.md",
     "수정 노트/R-L직렬 회로 과도 현상.md",
@@ -382,8 +396,6 @@
     "수정 노트/부분적분법.md",
     "영구노트/전위 계수.md",
     "영구노트/평행판 축전기 정전 용량 증명.md",
-    "영구노트/3 Phase Commit.md",
-    "영구노트/도표 적분법.md",
     "attachments/screenshot/Pasted Image 20250219154620_990.png",
     "attachments/screenshot/Pasted image 20250219105817.png",
     "Excalidraw/images/postit__green.png",
