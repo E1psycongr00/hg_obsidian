@@ -254,6 +254,16 @@
             "id": "bc002542312221d1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "4f43d958b8f5a7d3",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -261,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "7d466e57ea240c21",
@@ -310,7 +320,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33f56067064d3b22",
+  "active": "4f43d958b8f5a7d3",
   "lastOpenFiles": [
     "수정 노트/과도현상.md",
     "연습노트/R-L-C 직렬 회로 과도 현상.md",
