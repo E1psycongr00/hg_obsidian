@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수정 노트/전자기파.md",
+                "file": "연습노트/R-L-C 직렬 회로 과도 현상.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전자기파"
+              "title": "R-L-C 직렬 회로 과도 현상"
+            }
+          },
+          {
+            "id": "110c0ca72de10191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/4단자망.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "4단자망"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "수정 노트/전자기파.md"
+                "file": "연습노트/4단자망.md"
               },
               "icon": "lucide-info",
-              "title": "전자기파 의 파일 속성"
+              "title": "4단자망 의 파일 속성"
             }
           },
           {
@@ -236,8 +252,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -271,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -284,13 +300,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수정 노트/전자기파.md",
+                "file": "연습노트/4단자망.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전자기파 의 개요"
+              "title": "4단자망 의 개요"
             }
           }
         ]
@@ -320,18 +336,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeada95399b5566a",
+  "active": "110c0ca72de10191",
   "lastOpenFiles": [
+    "연습노트/4단자망.md",
     "연습노트/R-L-C 직렬 회로 과도 현상.md",
     "수정 노트/과도현상.md",
-    "수정 노트/R-C 직렬 회로 과도 현상.md",
+    "수정 노트/R-L직렬 회로 과도 현상.md",
+    "영구노트/R-C 직렬 회로 과도 현상.md",
+    "수정 노트/Process 컨텍스트 스위칭.md",
+    "수정 노트/동등 분할.md",
+    "수정 노트/전자기파.md",
     "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).md",
     "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).svg",
-    "무제 2.md",
     "영구노트/시정수.md",
     "Excalidraw/RC 직렬 회로 (draw).md",
     "Excalidraw/RC 직렬 회로 (draw).svg",
-    "수정 노트/R-L직렬 회로 과도 현상.md",
     "Excalidraw/시정수에 따른 과도응답 상태 그래프 (draw).md",
     "attachments/screenshot/Pasted image 20250219183545.png",
     "Excalidraw/시정수에 따른 과도응답 상태 그래프 (draw).svg",
@@ -351,10 +370,7 @@
     "영구노트/도표 적분법.md",
     "Excalidraw/도표 적분법 (draw).md",
     "attachments/screenshot/Pasted Image 20250219154620_990.png",
-    "영구노트/대류 전류.md",
-    "수정 노트/전자기파.md",
     "attachments/screenshot/Pasted image 20250219105817.png",
-    "전자기파 구조도.md",
     "Excalidraw/images/postit__green.png",
     "Excalidraw/도표 적분법 (draw).svg",
     "Excalidraw/images/postit_red.png",

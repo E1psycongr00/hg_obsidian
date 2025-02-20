@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "전자기파",
-      "path": "수정 노트/전자기파.md"
+      "basename": "4단자망",
+      "path": "연습노트/4단자망.md"
     },
     {
       "basename": "R-L-C 직렬 회로 과도 현상",
@@ -13,8 +13,24 @@
       "path": "수정 노트/과도현상.md"
     },
     {
+      "basename": "R-L직렬 회로 과도 현상",
+      "path": "수정 노트/R-L직렬 회로 과도 현상.md"
+    },
+    {
       "basename": "R-C 직렬 회로 과도 현상",
-      "path": "수정 노트/R-C 직렬 회로 과도 현상.md"
+      "path": "영구노트/R-C 직렬 회로 과도 현상.md"
+    },
+    {
+      "basename": "Process 컨텍스트 스위칭",
+      "path": "수정 노트/Process 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "동등 분할",
+      "path": "수정 노트/동등 분할.md"
+    },
+    {
+      "basename": "전자기파",
+      "path": "수정 노트/전자기파.md"
     },
     {
       "basename": "RC 직렬 회로 과도 현상 ON OFF (draw)",
@@ -27,10 +43,6 @@
     {
       "basename": "RC 직렬 회로 (draw)",
       "path": "Excalidraw/RC 직렬 회로 (draw).md"
-    },
-    {
-      "basename": "R-L직렬 회로 과도 현상",
-      "path": "수정 노트/R-L직렬 회로 과도 현상.md"
     },
     {
       "basename": "시정수에 따른 과도응답 상태 그래프 (draw)",
@@ -87,18 +99,6 @@
     {
       "basename": "대류 전류",
       "path": "영구노트/대류 전류.md"
-    },
-    {
-      "basename": "전자기파 구조도",
-      "path": "전자기파 구조도.md"
-    },
-    {
-      "basename": "맥스웰 방정식",
-      "path": "영구노트/맥스웰 방정식.md"
-    },
-    {
-      "basename": "포인팅 벡터",
-      "path": "영구노트/포인팅 벡터.md"
     }
   ],
   "omittedPaths": [],
