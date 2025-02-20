@@ -5,36 +5,12 @@
       "path": "연습노트/ABCD 파라미터.md"
     },
     {
-      "basename": "ABCD 파라미터 기본 모형 (draw)",
-      "path": "Excalidraw/ABCD 파라미터 기본 모형 (draw).md"
-    },
-    {
       "basename": "4단자망",
-      "path": "연습노트/4단자망.md"
-    },
-    {
-      "basename": "무제 2",
-      "path": "무제 2.md"
+      "path": "영구노트/4단자망.md"
     },
     {
       "basename": "과도현상",
       "path": "수정 노트/과도현상.md"
-    },
-    {
-      "basename": "R-L-C 직렬 회로 과도 현상",
-      "path": "연습노트/R-L-C 직렬 회로 과도 현상.md"
-    },
-    {
-      "basename": "R-L직렬 회로 과도 현상",
-      "path": "수정 노트/R-L직렬 회로 과도 현상.md"
-    },
-    {
-      "basename": "R-C 직렬 회로 과도 현상",
-      "path": "영구노트/R-C 직렬 회로 과도 현상.md"
-    },
-    {
-      "basename": "Process 컨텍스트 스위칭",
-      "path": "수정 노트/Process 컨텍스트 스위칭.md"
     },
     {
       "basename": "동등 분할",
@@ -43,6 +19,30 @@
     {
       "basename": "전자기파",
       "path": "수정 노트/전자기파.md"
+    },
+    {
+      "basename": "R-L직렬 회로 과도 현상",
+      "path": "수정 노트/R-L직렬 회로 과도 현상.md"
+    },
+    {
+      "basename": "ABCD 파라미터 기본 모형 (draw)",
+      "path": "Excalidraw/ABCD 파라미터 기본 모형 (draw).md"
+    },
+    {
+      "basename": "무제 2",
+      "path": "무제 2.md"
+    },
+    {
+      "basename": "R-L-C 직렬 회로 과도 현상",
+      "path": "연습노트/R-L-C 직렬 회로 과도 현상.md"
+    },
+    {
+      "basename": "R-C 직렬 회로 과도 현상",
+      "path": "영구노트/R-C 직렬 회로 과도 현상.md"
+    },
+    {
+      "basename": "Process 컨텍스트 스위칭",
+      "path": "수정 노트/Process 컨텍스트 스위칭.md"
     },
     {
       "basename": "RC 직렬 회로 과도 현상 ON OFF (draw)",
