@@ -36,18 +36,6 @@
               "icon": "lucide-file",
               "title": "ABCD 파라미터"
             }
-          },
-          {
-            "id": "faa2c1f3c73b66c1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ABCD 파라미터 기본 모형 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ABCD 파라미터 기본 모형 (draw)"
-            }
           }
         ],
         "currentTab": 1
@@ -350,9 +338,9 @@
   },
   "active": "110c0ca72de10191",
   "lastOpenFiles": [
-    "연습노트/4단자망.md",
-    "연습노트/ABCD 파라미터.md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
+    "연습노트/ABCD 파라미터.md",
+    "연습노트/4단자망.md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).svg",
     "무제 2.md",
     "수정 노트/과도현상.md",
