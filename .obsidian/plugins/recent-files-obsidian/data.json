@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ABCD 파라미터",
+      "path": "연습노트/ABCD 파라미터.md"
+    },
+    {
       "basename": "4단자망",
       "path": "연습노트/4단자망.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "도표 적분법 (draw)",
       "path": "Excalidraw/도표 적분법 (draw).md"
-    },
-    {
-      "basename": "대류 전류",
-      "path": "영구노트/대류 전류.md"
     }
   ],
   "omittedPaths": [],
