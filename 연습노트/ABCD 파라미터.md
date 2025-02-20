@@ -1,6 +1,8 @@
 ---
 tags:
   - 미완
+  - 회로이론
+  - 제어공학
 aliases: 
 date:
 title: "ABCD 파라미터"

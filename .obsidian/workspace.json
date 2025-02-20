@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/4단자망.md",
+                "file": "연습노트/ABCD 파라미터.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "4단자망"
+              "title": "ABCD 파라미터"
             }
           },
           {
@@ -143,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/4단자망.md"
+                "file": "연습노트/ABCD 파라미터.md"
               },
               "icon": "lucide-info",
-              "title": "4단자망 의 파일 속성"
+              "title": "ABCD 파라미터 의 파일 속성"
             }
           },
           {
@@ -327,13 +327,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/4단자망.md",
+                "file": "연습노트/ABCD 파라미터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4단자망 의 개요"
+              "title": "ABCD 파라미터 의 개요"
             }
           }
         ]
@@ -365,11 +365,11 @@
   },
   "active": "110c0ca72de10191",
   "lastOpenFiles": [
+    "연습노트/4단자망.md",
     "연습노트/ABCD 파라미터.md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).svg",
     "무제 2.md",
-    "연습노트/4단자망.md",
     "수정 노트/과도현상.md",
     "연습노트/R-L-C 직렬 회로 과도 현상.md",
     "수정 노트/R-L직렬 회로 과도 현상.md",
