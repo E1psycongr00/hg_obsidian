@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/R-L-C 직렬 회로 과도 현상.md",
+                "file": "연습노트/ABCD 파라미터.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "R-L-C 직렬 회로 과도 현상 그래프"
+              "title": "ABCD 파라미터 그래프"
             }
           },
           {
@@ -252,8 +252,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -280,6 +280,16 @@
             "id": "4f43d958b8f5a7d3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "2076a4ed28043786",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -287,7 +297,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -338,8 +348,8 @@
   },
   "active": "110c0ca72de10191",
   "lastOpenFiles": [
-    "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
     "연습노트/ABCD 파라미터.md",
+    "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
     "연습노트/4단자망.md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).svg",
     "무제 2.md",
