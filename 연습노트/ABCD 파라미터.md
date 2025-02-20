@@ -4,8 +4,8 @@ tags:
   - 회로이론
   - 제어공학
 aliases: 
-date:
-title: "ABCD 파라미터"
+date: 2025-02-20
+title: ABCD 파라미터
 ---
 
 ---
