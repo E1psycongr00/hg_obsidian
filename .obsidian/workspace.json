@@ -236,8 +236,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -310,7 +310,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeada95399b5566a",
+  "active": "33f56067064d3b22",
   "lastOpenFiles": [
     "수정 노트/과도현상.md",
     "연습노트/R-L-C 직렬 회로 과도 현상.md",
