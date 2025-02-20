@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/R-L-C 직렬 회로 과도 현상.md",
+                "file": "수정 노트/전자기파.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "R-L-C 직렬 회로 과도 현상"
+              "title": "전자기파"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/R-L-C 직렬 회로 과도 현상.md"
+                "file": "수정 노트/전자기파.md"
               },
               "icon": "lucide-info",
-              "title": "R-L-C 직렬 회로 과도 현상 의 파일 속성"
+              "title": "전자기파 의 파일 속성"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/R-L-C 직렬 회로 과도 현상.md",
+                "file": "수정 노트/전자기파.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "R-L-C 직렬 회로 과도 현상 의 개요"
+              "title": "전자기파 의 개요"
             }
           }
         ]
@@ -320,10 +320,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f43d958b8f5a7d3",
+  "active": "eeada95399b5566a",
   "lastOpenFiles": [
-    "수정 노트/과도현상.md",
     "연습노트/R-L-C 직렬 회로 과도 현상.md",
+    "수정 노트/과도현상.md",
     "수정 노트/R-C 직렬 회로 과도 현상.md",
     "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).md",
     "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).svg",
