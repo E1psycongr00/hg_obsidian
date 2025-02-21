@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-02-21 14.15.02.excalidraw",
+      "path": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md"
+    },
+    {
+      "basename": "ABCD 파라미터 기본 모형 (draw)",
+      "path": "Excalidraw/ABCD 파라미터 기본 모형 (draw).md"
+    },
+    {
       "basename": "ABCD 파라미터",
       "path": "연습노트/ABCD 파라미터.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "R-L직렬 회로 과도 현상",
       "path": "수정 노트/R-L직렬 회로 과도 현상.md"
-    },
-    {
-      "basename": "ABCD 파라미터 기본 모형 (draw)",
-      "path": "Excalidraw/ABCD 파라미터 기본 모형 (draw).md"
     },
     {
       "basename": "무제 2",
@@ -95,10 +99,6 @@
     {
       "basename": "평행판 축전기 정전 용량 증명",
       "path": "영구노트/평행판 축전기 정전 용량 증명.md"
-    },
-    {
-      "basename": "3 Phase Commit",
-      "path": "영구노트/3 Phase Commit.md"
     }
   ],
   "omittedPaths": [],

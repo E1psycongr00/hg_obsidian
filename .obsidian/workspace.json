@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "ABCD 파라미터"
             }
+          },
+          {
+            "id": "b01376976834a7b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-21 14.15.02.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "부분적분법",
+                "query": "파라미터",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,8 +99,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/ABCD 파라미터.md"
+                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "ABCD 파라미터 의 파일 속성"
+              "title": "Drawing 2025-02-21 14.15.02.excalidraw 의 파일 속성"
             }
           },
           {
@@ -199,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/ABCD 파라미터.md",
+                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "ABCD 파라미터 그래프"
+              "title": "Drawing 2025-02-21 14.15.02.excalidraw 그래프"
             }
           },
           {
@@ -236,8 +248,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -251,36 +263,6 @@
             }
           },
           {
-            "id": "bc002542312221d1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "4f43d958b8f5a7d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "2076a4ed28043786",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "b389d929ac04faef",
             "type": "leaf",
             "state": {
@@ -291,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       },
       {
         "id": "7d466e57ea240c21",
@@ -304,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/ABCD 파라미터.md",
+                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ABCD 파라미터 의 개요"
+              "title": "Drawing 2025-02-21 14.15.02.excalidraw 의 개요"
             }
           }
         ]
@@ -340,15 +322,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b389d929ac04faef",
+  "active": "b01376976834a7b3",
   "lastOpenFiles": [
+    "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
+    "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md",
+    "연습노트/ABCD 파라미터.md",
+    "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.svg",
     "영구노트/4단자망.md",
     "수정 노트/과도현상.md",
     "수정 노트/동등 분할.md",
     "수정 노트/전자기파.md",
     "수정 노트/R-L직렬 회로 과도 현상.md",
-    "연습노트/ABCD 파라미터.md",
-    "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).svg",
     "무제 2.md",
     "연습노트/R-L-C 직렬 회로 과도 현상.md",
@@ -372,11 +356,9 @@
     "연습노트/자계.md",
     "연습노트/직류기.md",
     "수정 노트/부분적분법.md",
-    "영구노트/전위 계수.md",
     "attachments/screenshot/Pasted Image 20250219154620_990.png",
     "attachments/screenshot/Pasted image 20250219105817.png",
     "Excalidraw/images/postit__green.png",
-    "Excalidraw/도표 적분법 (draw).svg",
     "Excalidraw/images",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/book/introducing-eventstorming.pdf",
