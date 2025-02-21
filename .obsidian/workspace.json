@@ -28,10 +28,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md"
+                "file": "Excalidraw/정수별 특징.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-21 14.15.02.excalidraw"
+              "title": "정수별 특징"
             }
           }
         ],
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md"
+                "file": "Excalidraw/정수별 특징.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-02-21 14.15.02.excalidraw 의 파일 속성"
+              "title": "정수별 특징 의 파일 속성"
             }
           },
           {
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md",
+                "file": "Excalidraw/정수별 특징.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-02-21 14.15.02.excalidraw 그래프"
+              "title": "정수별 특징 그래프"
             }
           },
           {
@@ -286,20 +286,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md",
+                "file": "Excalidraw/정수별 특징.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-02-21 14.15.02.excalidraw 의 개요"
+              "title": "정수별 특징 의 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 553.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,9 +325,9 @@
   "active": "b01376976834a7b3",
   "lastOpenFiles": [
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
-    "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.md",
+    "Excalidraw/정수별 특징.md",
     "연습노트/ABCD 파라미터.md",
-    "Excalidraw/Drawing 2025-02-21 14.15.02.excalidraw.svg",
+    "Excalidraw/정수별 특징.svg",
     "영구노트/4단자망.md",
     "수정 노트/과도현상.md",
     "수정 노트/동등 분할.md",
