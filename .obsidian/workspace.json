@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "ABCD 파라미터"
             }
-          },
-          {
-            "id": "b01376976834a7b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/정수별 특징.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "정수별 특징"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/정수별 특징.md"
+                "file": "연습노트/ABCD 파라미터.md"
               },
               "icon": "lucide-info",
-              "title": "정수별 특징 의 파일 속성"
+              "title": "ABCD 파라미터 의 파일 속성"
             }
           },
           {
@@ -211,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/정수별 특징.md",
+                "file": "연습노트/ABCD 파라미터.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -239,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "정수별 특징 그래프"
+              "title": "ABCD 파라미터 그래프"
             }
           },
           {
@@ -286,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/정수별 특징.md",
+                "file": "연습노트/ABCD 파라미터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정수별 특징 의 개요"
+              "title": "ABCD 파라미터 의 개요"
             }
           }
         ]
@@ -322,12 +309,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b01376976834a7b3",
+  "active": "eeada95399b5566a",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20250221144734.png",
+    "attachments/screenshot/Pasted image 20250221144729.png",
+    "Excalidraw/ABCD 정수별 특징 (draw).md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
-    "Excalidraw/정수별 특징.md",
     "연습노트/ABCD 파라미터.md",
-    "Excalidraw/정수별 특징.svg",
+    "Excalidraw/ABCD 정수별 특징 (draw).svg",
     "영구노트/4단자망.md",
     "수정 노트/과도현상.md",
     "수정 노트/동등 분할.md",
@@ -358,7 +347,6 @@
     "수정 노트/부분적분법.md",
     "attachments/screenshot/Pasted Image 20250219154620_990.png",
     "attachments/screenshot/Pasted image 20250219105817.png",
-    "Excalidraw/images/postit__green.png",
     "Excalidraw/images",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/book/introducing-eventstorming.pdf",
