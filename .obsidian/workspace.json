@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fccf1d736b0dd5ee",
+        "id": "2a8f8ea67cb22414",
         "type": "tabs",
         "children": [
           {
-            "id": "891a752dafd8631e",
+            "id": "079b397338d98e0a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -300,8 +301,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "891a752dafd8631e",
+  "active": "079b397338d98e0a",
   "lastOpenFiles": [
+    "attachments/pdf/[ 회로이론 요점정리 - 전범위 ].pdf",
+    "attachments/pdf/[ 전기자기학(전자기학) 요점정리 - 전범위 ].pdf",
+    "attachments/pdf/[ 전력공학 요점정리 ].pdf",
+    "attachments/pdf/[ 제어공학 요점정리 ].pdf",
     "연습노트/ABCD 파라미터.md",
     "attachments/screenshot/Pasted image 20250221144734.png",
     "attachments/screenshot/Pasted image 20250221144729.png",
@@ -346,9 +351,6 @@
     "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
     "attachments/pdf/논문/paxos-simple.pdf",
     "attachments/pdf/book/Designing_Data_Intensive_Applications.pdf",
-    "Excalidraw/libraries/simple-characters.excalidrawlib",
-    "Excalidraw/libraries/microsoft-fabric-architecture-icons.excalidrawlib",
-    "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "index.canvas",
     "명언 모음.canvas",
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
