@@ -274,6 +274,16 @@
             "id": "2076a4ed28043786",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "b389d929ac04faef",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -281,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       },
       {
         "id": "7d466e57ea240c21",
@@ -330,7 +340,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeada95399b5566a",
+  "active": "b389d929ac04faef",
   "lastOpenFiles": [
     "영구노트/4단자망.md",
     "수정 노트/과도현상.md",
