@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "[ 회로이론 요점정리 - 전범위 ]",
-      "path": "attachments/pdf/[ 회로이론 요점정리 - 전범위 ].pdf"
-    },
-    {
-      "basename": "[ 전기자기학(전자기학) 요점정리 - 전범위 ]",
-      "path": "attachments/pdf/[ 전기자기학(전자기학) 요점정리 - 전범위 ].pdf"
-    },
-    {
-      "basename": "[ 전력공학 요점정리 ]",
-      "path": "attachments/pdf/[ 전력공학 요점정리 ].pdf"
-    },
-    {
-      "basename": "[ 제어공학 요점정리 ]",
-      "path": "attachments/pdf/[ 제어공학 요점정리 ].pdf"
-    },
-    {
       "basename": "ABCD 파라미터",
       "path": "연습노트/ABCD 파라미터.md"
     },
@@ -91,14 +75,6 @@
     {
       "basename": "계층 간선 네이밍",
       "path": "연습노트/계층 간선 네이밍.md"
-    },
-    {
-      "basename": "메타 러닝의 계산도가 높은 이유",
-      "path": "연습노트/메타 러닝의 계산도가 높은 이유.md"
-    },
-    {
-      "basename": "응집도 높은 모듈 설계 방법론",
-      "path": "연습노트/응집도 높은 모듈 설계 방법론.md"
     }
   ],
   "omittedPaths": [],
