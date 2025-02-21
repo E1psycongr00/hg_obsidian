@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f7ce93d6c6df9d1",
+        "id": "fccf1d736b0dd5ee",
         "type": "tabs",
         "children": [
           {
-            "id": "eeada95399b5566a",
+            "id": "891a752dafd8631e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/ABCD 파라미터.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ABCD 파라미터"
+              "title": "새 탭"
             }
           }
         ]
@@ -98,11 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "연습노트/ABCD 파라미터.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "ABCD 파라미터 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -198,7 +191,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/ABCD 파라미터.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -226,7 +218,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "ABCD 파라미터 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -273,13 +265,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/ABCD 파라미터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ABCD 파라미터 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -309,13 +300,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeada95399b5566a",
+  "active": "891a752dafd8631e",
   "lastOpenFiles": [
+    "연습노트/ABCD 파라미터.md",
     "attachments/screenshot/Pasted image 20250221144734.png",
     "attachments/screenshot/Pasted image 20250221144729.png",
     "Excalidraw/ABCD 정수별 특징 (draw).md",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).md",
-    "연습노트/ABCD 파라미터.md",
     "Excalidraw/ABCD 정수별 특징 (draw).svg",
     "영구노트/4단자망.md",
     "수정 노트/과도현상.md",
@@ -346,7 +337,6 @@
     "연습노트/직류기.md",
     "수정 노트/부분적분법.md",
     "attachments/screenshot/Pasted Image 20250219154620_990.png",
-    "attachments/screenshot/Pasted image 20250219105817.png",
     "Excalidraw/images",
     "attachments/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "attachments/pdf/book/introducing-eventstorming.pdf",
