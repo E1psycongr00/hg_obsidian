@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 3.md",
+                "file": "영구노트/정전 응력.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제 3"
+              "title": "정전 응력"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 3.md"
+                "file": "영구노트/정전 응력.md"
               },
               "icon": "lucide-info",
-              "title": "무제 3 의 파일 속성"
+              "title": "정전 응력 의 파일 속성"
             }
           },
           {
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 3.md",
+                "file": "영구노트/정전 응력.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 3 의 개요"
+              "title": "정전 응력 의 개요"
             }
           }
         ]
@@ -311,6 +311,19 @@
   },
   "active": "0a4dba86db781fa5",
   "lastOpenFiles": [
+    "3.Resources/전기기사/전자기학.md",
+    "영구노트/정전 응력.md",
+    "영구노트/전기장 에너지 밀도.md",
+    "영구노트/전자기 유도 법칙 수식 유도.md",
+    "영구노트/전하(Elecric Charge).md",
+    "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
+    "영구노트/평행판 축전기 정전 용량 증명.md",
+    "영구노트/전자기 유도 법칙.md",
+    "영구노트/플레밍 법칙.md",
+    "영구노트/전자기 에너지.md",
+    "영구노트/자속 쇄교수.md",
+    "영구노트/자기 플럭스.md",
+    "영구노트/큐리 온도.md",
     "무제 3.md",
     "영구노트/분극.md",
     "영구노트/유전체.md",
@@ -320,27 +333,14 @@
     "attachments/screenshot/Pasted image 20250223184218.png",
     "Excalidraw/분극 (draw).md",
     "Excalidraw/분극 (draw).svg",
-    "3.Resources/전기기사/전자기학.md",
     "영구노트/자기 단극자.md",
     "영구노트/자기 인덕턴스.md",
     "영구노트/자기 회로.md",
     "영구노트/자성체.md",
-    "영구노트/전자기 에너지.md",
     "영구노트/유전체 경계 조건.md",
-    "영구노트/전기장 에너지 밀도.md",
-    "영구노트/전자기 유도 법칙 수식 유도.md",
-    "영구노트/전하(Elecric Charge).md",
-    "영구노트/플레밍 법칙.md",
     "영구노트/평행판의 두 유전체 사이의 힘.md",
     "영구노트/전속.md",
     "영구노트/전도 전류.md",
-    "영구노트/전위 계수.md",
-    "영구노트/자기 플럭스.md",
-    "영구노트/자속 쇄교수.md",
-    "영구노트/평행판 축전기 정전 용량 증명.md",
-    "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
-    "영구노트/투자율.md",
-    "영구노트/유전율.md",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
