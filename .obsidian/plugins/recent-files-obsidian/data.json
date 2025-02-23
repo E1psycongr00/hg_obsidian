@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "분극 (draw)",
+      "path": "Excalidraw/분극 (draw).md"
+    },
+    {
       "basename": "분극",
       "path": "연습노트/분극.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "상호 유도 인덕턴스",
       "path": "영구노트/상호 유도 인덕턴스.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "연습노트/전기 쌍극자.md"
     }
   ],
   "omittedPaths": [],

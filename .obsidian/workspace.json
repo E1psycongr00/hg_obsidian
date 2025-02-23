@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "6f03459f8cb31a2b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/분극 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "분극 (draw)"
+            }
+          },
+          {
             "id": "ba42fba01125c868",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "유전체"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/분극.md"
+                "file": "Excalidraw/분극 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "분극 의 파일 속성"
+              "title": "분극 (draw) 의 파일 속성"
             }
           },
           {
@@ -288,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/분극.md",
+                "file": "Excalidraw/분극 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "분극 의 개요"
+              "title": "분극 (draw) 의 개요"
             }
           }
         ]
@@ -324,8 +337,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2eddf73157386ead",
+  "active": "6f03459f8cb31a2b",
   "lastOpenFiles": [
+    "Excalidraw/분극 (draw).svg",
+    "연습노트/분극.md",
+    "Excalidraw/분극 (draw).md",
     "영구노트/유전체.md",
     "3.Resources/전기기사/전자기학.md",
     "영구노트/자기 단극자.md",
@@ -338,7 +354,6 @@
     "영구노트/전자기 유도 법칙 수식 유도.md",
     "영구노트/전하(Elecric Charge).md",
     "영구노트/플레밍 법칙.md",
-    "연습노트/분극.md",
     "영구노트/평행판의 두 유전체 사이의 힘.md",
     "영구노트/전속.md",
     "영구노트/전도 전류.md",
@@ -350,8 +365,6 @@
     "영구노트/투자율.md",
     "영구노트/유전율.md",
     "영구노트/상호 유도 인덕턴스.md",
-    "연습노트/전기 쌍극자.md",
-    "연습노트/자계.md",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
