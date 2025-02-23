@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2022 4월 전기기사 4번",
-      "path": "연습노트/2022 4월 전기기사 4번.md"
-    },
-    {
       "basename": "분극",
-      "path": "연습노트/분극.md"
-    },
-    {
-      "basename": "분극 (draw)",
-      "path": "Excalidraw/분극 (draw).md"
+      "path": "영구노트/분극.md"
     },
     {
       "basename": "유전체",
       "path": "영구노트/유전체.md"
+    },
+    {
+      "basename": "2022 4월 전기기사 4번",
+      "path": "영구노트/2022 4월 전기기사 4번.md"
+    },
+    {
+      "basename": "Pasted image 20250223184321",
+      "path": "attachments/screenshot/Pasted image 20250223184321.png"
+    },
+    {
+      "basename": "분극 (draw)",
+      "path": "Excalidraw/분극 (draw).md"
     },
     {
       "basename": "전자기학",
@@ -95,10 +99,6 @@
     {
       "basename": "투자율",
       "path": "영구노트/투자율.md"
-    },
-    {
-      "basename": "유전율",
-      "path": "영구노트/유전율.md"
     }
   ],
   "omittedPaths": [],
