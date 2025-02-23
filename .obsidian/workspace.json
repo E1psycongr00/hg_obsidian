@@ -11,10 +11,15 @@
             "id": "0a4dba86db781fa5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "무제 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "무제 3"
             }
           }
         ]
@@ -82,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -95,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/분극.md"
+                "file": "무제 3.md"
               },
               "icon": "lucide-info",
-              "title": "분극 의 파일 속성"
+              "title": "무제 3 의 파일 속성"
             }
           },
           {
@@ -268,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/분극.md",
+                "file": "무제 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "분극 의 개요"
+              "title": "무제 3 의 개요"
             }
           }
         ]
@@ -304,11 +309,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62d96583bb3c34ce",
+  "active": "0a4dba86db781fa5",
   "lastOpenFiles": [
+    "무제 3.md",
+    "영구노트/분극.md",
     "영구노트/유전체.md",
     "영구노트/2022 4월 전기기사 4번.md",
-    "영구노트/분극.md",
     "attachments/screenshot/Pasted image 20250223184324.png",
     "attachments/screenshot/Pasted image 20250223184321.png",
     "attachments/screenshot/Pasted image 20250223184218.png",
