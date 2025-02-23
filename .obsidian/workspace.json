@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "6f03459f8cb31a2b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/분극 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "분극 (draw)"
-            }
-          },
-          {
             "id": "ba42fba01125c868",
             "type": "leaf",
             "state": {
@@ -49,8 +37,7 @@
               "title": "유전체"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/분극 (draw).md"
+                "file": "연습노트/분극.md"
               },
               "icon": "lucide-info",
-              "title": "분극 (draw) 의 파일 속성"
+              "title": "분극 의 파일 속성"
             }
           },
           {
@@ -301,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/분극 (draw).md",
+                "file": "연습노트/분극.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "분극 (draw) 의 개요"
+              "title": "분극 의 개요"
             }
           }
         ]
@@ -337,10 +324,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f03459f8cb31a2b",
+  "active": "2eddf73157386ead",
   "lastOpenFiles": [
-    "연습노트/분극.md",
     "Excalidraw/분극 (draw).md",
+    "연습노트/분극.md",
     "Excalidraw/분극 (draw).svg",
     "영구노트/유전체.md",
     "3.Resources/전기기사/전자기학.md",
