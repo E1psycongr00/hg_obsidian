@@ -11,10 +11,15 @@
             "id": "079b397338d98e0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/투자율.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "투자율"
             }
           }
         ]
@@ -94,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "연습노트/투자율.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "투자율 의 파일 속성"
             }
           },
           {
@@ -246,6 +253,16 @@
             "id": "b389d929ac04faef",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "d0c3097f7e35b2c4",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -253,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "7d466e57ea240c21",
@@ -266,12 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "연습노트/투자율.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "투자율 의 개요"
             }
           }
         ]
@@ -301,8 +319,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "079b397338d98e0a",
   "lastOpenFiles": [
+    "연습노트/투자율.md",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
@@ -313,7 +332,6 @@
     "attachments/pdf/전기기사/[ 전기자기학(전자기학) 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사",
     "attachments/pdf/[ 회로이론 요점정리 - 전범위 ] 1.pdf",
-    "attachments/pdf/[ 전기자기학(전자기학) 요점정리 - 전범위 ] 1.pdf",
     "연습노트/ABCD 파라미터.md",
     "attachments/screenshot/Pasted image 20250221144734.png",
     "attachments/screenshot/Pasted image 20250221144729.png",
