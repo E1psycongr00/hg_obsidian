@@ -5,12 +5,12 @@
       "path": "연습노트/중성점 접지.md"
     },
     {
-      "basename": "중성점 (draw)",
-      "path": "Excalidraw/중성점 (draw).md"
-    },
-    {
       "basename": "지락 사고",
       "path": "영구노트/지락 사고.md"
+    },
+    {
+      "basename": "중성점 (draw)",
+      "path": "Excalidraw/중성점 (draw).md"
     },
     {
       "basename": "정전 응력",
