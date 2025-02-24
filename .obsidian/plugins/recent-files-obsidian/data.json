@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "중성점 접지",
+      "path": "연습노트/중성점 접지.md"
+    },
+    {
       "basename": "지락 사고",
       "path": "영구노트/지락 사고.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "자성체",
       "path": "영구노트/자성체.md"
-    },
-    {
-      "basename": "전자기 에너지",
-      "path": "영구노트/전자기 에너지.md"
     }
   ],
   "omittedPaths": [],
