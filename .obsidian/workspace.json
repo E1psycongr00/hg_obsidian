@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -235,8 +234,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -309,7 +308,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da686ca83a9dd244",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "연습노트/중성점 접지.md",
     "영구노트/지락 사고.md",
