@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "상호 유도 인덕턴스"
             }
-          },
-          {
-            "id": "d42c2dfcd67b1ea9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-27 15.40.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-27 15.40.31.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-27 15.40.31.excalidraw.md"
+                "file": "영구노트/상호 유도 인덕턴스.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-02-27 15.40.31.excalidraw 의 파일 속성"
+              "title": "상호 유도 인덕턴스 의 파일 속성"
             }
           },
           {
@@ -295,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-27 15.40.31.excalidraw.md",
+                "file": "영구노트/상호 유도 인덕턴스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-02-27 15.40.31.excalidraw 의 개요"
+              "title": "상호 유도 인덕턴스 의 개요"
             }
           }
         ]
@@ -332,11 +319,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d42c2dfcd67b1ea9",
+  "active": "b5d38837bd1ff05a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-27 15.40.31.excalidraw.svg",
+    "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).md",
+    "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
     "영구노트/상호 유도 인덕턴스.md",
-    "Excalidraw/Drawing 2025-02-27 15.40.31.excalidraw.md",
     "영구노트/중성점 접지.md",
     "영구노트/지락 사고.md",
     "Excalidraw/중성점 (draw).md",
@@ -379,7 +366,6 @@
     "attachments/screenshot/Pasted image 20250221144729.png",
     "Excalidraw/ABCD 정수별 특징 (draw).svg",
     "Excalidraw/ABCD 파라미터 기본 모형 (draw).svg",
-    "Excalidraw/RC 직렬 회로 과도 현상 ON OFF (draw).svg",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "index.canvas",
