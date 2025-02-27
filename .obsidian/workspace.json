@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d1892f54d514087",
+        "id": "7ca11e63c39f1d29",
         "type": "tabs",
         "children": [
           {
-            "id": "410dd8cca272cbad",
+            "id": "a4d8bcafbfb5b58d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/상호 유도 인덕턴스.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "상호 유도 인덕턴스"
+              "title": "새 탭"
             }
           }
         ]
@@ -99,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/상호 유도 인덕턴스.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "상호 유도 인덕턴스 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -283,21 +276,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/상호 유도 인덕턴스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "상호 유도 인덕턴스 의 개요"
+              "title": "개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 555.5,
-    "collapsed": true
+    "width": 555.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,7 +311,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "410dd8cca272cbad",
+  "active": "a4d8bcafbfb5b58d",
   "lastOpenFiles": [
     "영구노트/상호 유도 인덕턴스.md",
     "Excalidraw/상호 인덕턴스 유도식 (draw).md",
