@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/특성 임피던스.md",
+                "file": "영구노트/특성 임피던스.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/전파정수.md",
+                "file": "영구노트/전파 정수.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전파정수"
+              "title": "전파 정수"
             }
           }
         ],
@@ -116,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/전파정수.md"
+                "file": "영구노트/전파 정수.md"
               },
               "icon": "lucide-info",
-              "title": "전파정수 의 파일 속성"
+              "title": "전파 정수 의 파일 속성"
             }
           },
           {
@@ -289,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/전파정수.md",
+                "file": "영구노트/전파 정수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전파정수 의 개요"
+              "title": "전파 정수 의 개요"
             }
           }
         ]
@@ -327,8 +327,8 @@
   },
   "active": "70cb3c2a43b07a61",
   "lastOpenFiles": [
-    "연습노트/특성 임피던스.md",
-    "영구노트/전파정수.md",
+    "영구노트/특성 임피던스.md",
+    "영구노트/전파 정수.md",
     "수정 노트/전자기파.md",
     "attachments/screenshot/Pasted image 20250228173635.png",
     "영구노트/상호 유도 인덕턴스.md",
