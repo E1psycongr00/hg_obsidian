@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49542a0c6c895a74",
+        "id": "db413b54ebd2a8c0",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6805c76dee8f84",
+            "id": "4a611affd14da50c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -312,7 +312,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "4a611affd14da50c",
   "lastOpenFiles": [
     "수정 노트/전자기파.md",
     "영구노트/전파 정수.md",
