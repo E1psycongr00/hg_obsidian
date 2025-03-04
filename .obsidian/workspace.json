@@ -36,21 +36,9 @@
               "icon": "lucide-file",
               "title": "내압"
             }
-          },
-          {
-            "id": "c1a709465754a7e0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/직렬 연결과 내압 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "직렬 연결과 내압 (draw)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/직렬 연결과 내압 (draw).md"
+                "file": "연습노트/내압.md"
               },
               "icon": "lucide-info",
-              "title": "직렬 연결과 내압 (draw) 의 파일 속성"
+              "title": "내압 의 파일 속성"
             }
           },
           {
@@ -228,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/직렬 연결과 내압 (draw).md",
+                "file": "연습노트/내압.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -256,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "직렬 연결과 내압 (draw) 그래프"
+              "title": "내압 그래프"
             }
           },
           {
@@ -323,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/직렬 연결과 내압 (draw).md",
+                "file": "연습노트/내압.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "직렬 연결과 내압 (draw) 의 개요"
+              "title": "내압 의 개요"
             }
           }
         ]
@@ -361,12 +349,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1a709465754a7e0",
+  "active": "59a1a6fa9b37c854",
   "lastOpenFiles": [
+    "Excalidraw/직렬 연결과 내압 (draw).md",
+    "연습노트/내압.md",
     "attachments/screenshot/Pasted Image 20250304164236_347.png",
     "Excalidraw/직렬 연결과 내압 (draw).svg",
-    "연습노트/내압.md",
-    "Excalidraw/직렬 연결과 내압 (draw).md",
     "수정 노트/전자기파.md",
     "무제 1.md",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
@@ -408,7 +396,6 @@
     "attachments/pdf/전기기사/[ 전기자기학(전자기학) 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사",
     "attachments/pdf/[ 회로이론 요점정리 - 전범위 ] 1.pdf",
-    "attachments/screenshot/Pasted image 20250221144734.png",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "index.canvas",
