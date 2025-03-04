@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "전기 쌍극자"
             }
+          },
+          {
+            "id": "04225320465144e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-04 23.05.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-04 23.05.38.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/전기 쌍극자.md"
+                "file": "Excalidraw/Drawing 2025-03-04 23.05.38.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "전기 쌍극자 의 파일 속성"
+              "title": "Drawing 2025-03-04 23.05.38.excalidraw 의 파일 속성"
             }
           },
           {
@@ -164,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -214,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/전기 쌍극자.md",
+                "file": "Excalidraw/Drawing 2025-03-04 23.05.38.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -242,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전기 쌍극자 그래프"
+              "title": "Drawing 2025-03-04 23.05.38.excalidraw 그래프"
             }
           },
           {
@@ -309,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/전기 쌍극자.md",
+                "file": "Excalidraw/Drawing 2025-03-04 23.05.38.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기 쌍극자 의 개요"
+              "title": "Drawing 2025-03-04 23.05.38.excalidraw 의 개요"
             }
           }
         ]
@@ -347,11 +360,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ef3909e9970da708",
+  "active": "04225320465144e6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-04 23.05.38.excalidraw.svg",
+    "연습노트/전기 쌍극자.md",
+    "Excalidraw/Drawing 2025-03-04 23.05.38.excalidraw.md",
     "무제 파일 1.md",
     "전기 쌍극자.md",
-    "연습노트/전기 쌍극자.md",
     "무제 파일.md",
     "무제 3.md",
     "무제 2.md",
@@ -378,9 +393,7 @@
     "attachments/screenshot/Pasted image 20250228173635.png",
     "Excalidraw/상호 인덕턴스 유도식 (draw).md",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
-    "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).md",
     "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
-    "영구노트/중성점 접지.md",
     "Excalidraw/중성점 (draw).svg",
     "attachments/screenshot/Pasted image 20250223184324.png",
     "attachments/screenshot/Pasted image 20250223184321.png",
