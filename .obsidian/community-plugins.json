@@ -31,5 +31,7 @@
   "better-export-pdf",
   "templater-obsidian",
   "link-navigation",
-  "obsidian-image-layouts"
+  "obsidian-image-layouts",
+  "omnisearch",
+  "text-extractor"
 ]
