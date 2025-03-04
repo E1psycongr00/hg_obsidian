@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f193f4ce928fcab4",
+        "id": "9bc33e7021c272fd",
         "type": "tabs",
         "children": [
           {
-            "id": "58cc7e4b97cdb98d",
+            "id": "103bcecf5cf9b704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/ABCD 파라미터.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ABCD 파라미터"
+              "title": "새 탭"
             }
           }
         ]
@@ -86,7 +81,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -98,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/ABCD 파라미터.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "ABCD 파라미터 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -293,13 +287,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/ABCD 파라미터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ABCD 파라미터 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -330,8 +323,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62d96583bb3c34ce",
+  "active": "103bcecf5cf9b704",
   "lastOpenFiles": [
+    "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "영구노트/ABCD 파라미터.md",
     "영구노트/ABCD 파라미터.md",
     "영구노트/4단자망.md",
@@ -361,7 +355,6 @@
     "영구노트/전기장 에너지 밀도.md",
     "영구노트/전자기 유도 법칙 수식 유도.md",
     "영구노트/전하(Elecric Charge).md",
-    "영구노트/평행판 축전기의 에너지를 2로 나누는 이유.md",
     "attachments/screenshot/Pasted image 20250223184324.png",
     "attachments/screenshot/Pasted image 20250223184321.png",
     "attachments/screenshot/Pasted image 20250223184218.png",
@@ -371,7 +364,6 @@
     "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 3 ] 4장 유도기.pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 4 ] 5장 정류기.pdf",
-    "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 전력공학 요점정리 ].pdf",
     "attachments/pdf/전기기사/[ 전기자기학(전자기학) 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사",
