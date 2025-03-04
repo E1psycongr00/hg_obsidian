@@ -11,11 +11,9 @@ date: 2025-02-20
 title: ABCD 파라미터
 ---
 
----
+# ABCD 파라미터 (ABCD Parameters)
 
-## 내용
-
-### 개요
+## 개요
 
 ABCD 파라미터는 전기전자공학에서 [[4단자망#4단자망이란 무엇인가?|4단자망(Four-terminal network)]]을 분석하기 위해 사용하는 중요한 매개변수 집합이다. 이는 **전송 파라미터(Transmission Parameters)** 또는 **체인 파라미터(Chain Parameters)**로도 불린다. 주로 캐스케이드(cascade) 연결된 회로의 분석에 유용하게 사용된다.
 
