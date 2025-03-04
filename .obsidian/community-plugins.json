@@ -31,6 +31,5 @@
   "better-export-pdf",
   "templater-obsidian",
   "link-navigation",
-  "obsidian-image-layouts",
-  "obsidian-local-rest-api"
+  "obsidian-image-layouts"
 ]
