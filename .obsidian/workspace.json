@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/내압.md"
+                "file": "무제.md"
               },
               "icon": "lucide-info",
-              "title": "내압 의 파일 속성"
+              "title": "무제 의 파일 속성"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/내압.md",
+                "file": "무제.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -259,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "내압 그래프"
+              "title": "무제 그래프"
             }
           },
           {
@@ -326,13 +326,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/내압.md",
+                "file": "무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "내압 의 개요"
+              "title": "무제 의 개요"
             }
           }
         ]
@@ -364,10 +364,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "59a1a6fa9b37c854",
+  "active": "ef3909e9970da708",
   "lastOpenFiles": [
-    "무제.md",
     "영구노트/내압.md",
+    "무제.md",
     "Excalidraw/직렬 연결과 내압 (draw).md",
     "attachments/screenshot/Pasted Image 20250304164236_347.png",
     "Excalidraw/직렬 연결과 내압 (draw).svg",
