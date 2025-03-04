@@ -297,7 +297,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -323,8 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5,
-    "collapsed": true
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,8 +349,9 @@
   },
   "active": "ef3909e9970da708",
   "lastOpenFiles": [
-    "영구노트/쌍극자 근사법.md",
+    "영구노트/스케일 팩터.md",
     "연습노트/전기 쌍극자.md",
+    "영구노트/쌍극자 근사법.md",
     "Excalidraw/전기 쌍극자 그림 (draw).md",
     "Excalidraw/전기 쌍극자 그림 (draw).svg",
     "무제 파일 1.md",
@@ -380,7 +380,6 @@
     "연습노트/자계.md",
     "영구노트/특성 임피던스.md",
     "attachments/screenshot/Pasted image 20250228173635.png",
-    "Excalidraw/상호 인덕턴스 유도식 (draw).md",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
     "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
     "Excalidraw/중성점 (draw).svg",
