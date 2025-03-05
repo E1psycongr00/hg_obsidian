@@ -5,12 +5,12 @@
       "path": "연습노트/벡터 항등식.md"
     },
     {
-      "basename": "기본 벡터 연산",
-      "path": "기본 벡터 연산.md"
-    },
-    {
       "basename": "기본 벡터 연산 항등식 (draw)",
       "path": "Excalidraw/기본 벡터 연산 항등식 (draw).md"
+    },
+    {
+      "basename": "기본 벡터 연산",
+      "path": "기본 벡터 연산.md"
     },
     {
       "basename": "전자기학",
