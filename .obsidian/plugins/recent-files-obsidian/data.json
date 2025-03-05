@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "전자기학",
       "path": "3.Resources/전기기사/전자기학.md"
     },
     {
-      "basename": "전기 쌍극자",
-      "path": "영구노트/전기 쌍극자.md"
+      "basename": "웨버",
+      "path": "영구노트/웨버.md"
     },
     {
-      "basename": "무제",
-      "path": "무제.md"
+      "basename": "전기 쌍극자",
+      "path": "영구노트/전기 쌍극자.md"
     },
     {
       "basename": "스케일 팩터",
@@ -95,10 +99,6 @@
     {
       "basename": "중성점 접지",
       "path": "영구노트/중성점 접지.md"
-    },
-    {
-      "basename": "지락 사고",
-      "path": "영구노트/지락 사고.md"
     }
   ],
   "omittedPaths": [],

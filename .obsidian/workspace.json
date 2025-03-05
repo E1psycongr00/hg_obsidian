@@ -37,7 +37,8 @@
               "title": "무제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3.Resources/전기기사/전자기학.md"
+                "file": "무제.md"
               },
               "icon": "lucide-info",
-              "title": "전자기학 의 파일 속성"
+              "title": "무제 의 파일 속성"
             }
           },
           {
@@ -319,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Resources/전기기사/전자기학.md",
+                "file": "무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전자기학 의 개요"
+              "title": "무제 의 개요"
             }
           }
         ]
@@ -356,10 +357,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0b9a03f3f964e810",
+  "active": "e87d4bda6945d9e7",
   "lastOpenFiles": [
-    "영구노트/평행판 축전기 정전 용량 증명.md",
     "3.Resources/전기기사/전자기학.md",
+    "영구노트/웨버.md",
+    "영구노트/평행판 축전기 정전 용량 증명.md",
     "영구노트/유전체 경계 조건.md",
     "영구노트/비오 사바트의 법칙.md",
     "영구노트/전기 쌍극자.md",
@@ -387,7 +389,6 @@
     "영구노트/분극.md",
     "영구노트/장(Field).md",
     "영구노트/전자기 에너지.md",
-    "영구노트/포인팅 벡터.md",
     "attachments/screenshot/Pasted image 20250228173635.png",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
     "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
