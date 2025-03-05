@@ -36,6 +36,18 @@
               "icon": "lucide-file",
               "title": "벡터 항등식"
             }
+          },
+          {
+            "id": "eb5c3daa7d5d28f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/기본 벡터 연산 항등식 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "기본 벡터 연산 항등식 (draw)"
+            }
           }
         ],
         "currentTab": 1
@@ -103,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -165,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
