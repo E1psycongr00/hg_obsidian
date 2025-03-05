@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2025-03-05 19.59.39.excalidraw",
-      "path": "Excalidraw/Drawing 2025-03-05 19.59.39.excalidraw.md"
-    },
-    {
       "basename": "벡터 항등식",
       "path": "연습노트/벡터 항등식.md"
+    },
+    {
+      "basename": "기본 벡터 연산",
+      "path": "기본 벡터 연산.md"
+    },
+    {
+      "basename": "기본 벡터 연산 항등식 (draw)",
+      "path": "Excalidraw/기본 벡터 연산 항등식 (draw).md"
     },
     {
       "basename": "전자기학",
@@ -95,10 +99,6 @@
     {
       "basename": "상호 유도 인덕턴스",
       "path": "영구노트/상호 유도 인덕턴스.md"
-    },
-    {
-      "basename": "특성 임피던스",
-      "path": "영구노트/특성 임피던스.md"
     }
   ],
   "omittedPaths": [],
