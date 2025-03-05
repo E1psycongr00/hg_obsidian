@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/벡터 항등식.md",
+                "file": "수정 노트/벡터 항등식.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -38,19 +38,40 @@
             }
           },
           {
-            "id": "eb5c3daa7d5d28f6",
+            "id": "b20bdeb236ffc133",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/기본 벡터 연산 항등식 (draw).md"
+                "file": "연습노트/벡터 항등식 쉽게 외우기.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "기본 벡터 연산 항등식 (draw)"
+              "icon": "lucide-file",
+              "title": "벡터 항등식 쉽게 외우기"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "2270e80b96df09d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "362c0886010a7b4a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-05 20.42.43.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-05 20.42.43.excalidraw"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -128,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/벡터 항등식.md"
+                "file": "수정 노트/벡터 항등식.md"
               },
               "icon": "lucide-info",
               "title": "벡터 항등식 의 파일 속성"
@@ -264,8 +285,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -289,7 +310,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -302,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/벡터 항등식.md",
+                "file": "수정 노트/벡터 항등식.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -315,7 +336,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 497.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -342,7 +364,9 @@
   "active": "361f1168f36bf698",
   "lastOpenFiles": [
     "Excalidraw/기본 벡터 연산 항등식 (draw).md",
-    "연습노트/벡터 항등식.md",
+    "수정 노트/벡터 항등식.md",
+    "Excalidraw/Drawing 2025-03-05 20.42.43.excalidraw.md",
+    "연습노트/벡터 항등식 쉽게 외우기.md",
     "기본 벡터 연산.md",
     "Excalidraw/기본 벡터 연산 항등식 (draw).svg",
     "3.Resources/전기기사/전자기학.md",
@@ -370,8 +394,6 @@
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "영구노트/ABCD 파라미터.md",
     "영구노트/ABCD 파라미터.md",
-    "영구노트/4단자망.md",
-    "영구노트/2022 4월 전기기사 4번.md",
     "attachments/screenshot/Pasted image 20250228173635.png",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
     "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
