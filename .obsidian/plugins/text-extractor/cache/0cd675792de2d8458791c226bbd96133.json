@@ -1,0 +1,1 @@
+{"path":"attachments/screenshot/Pasted image 20240430165440.png","text":"Errorin SQL: You have an error in your SQL syntax; check the manual that corresponds 10 your MySQL server version for the right syntax to use near 'where sum(Quantity) >= 500 order by 2' at line 3","libVersion":"0.3.2","langs":"eng+kor"}

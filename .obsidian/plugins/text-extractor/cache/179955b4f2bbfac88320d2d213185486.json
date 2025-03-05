@@ -1,0 +1,1 @@
+{"path":"attachments/screenshot/Pasted image 20240502145033.png","text":"SUM(Salary) OVER (ORDER BY Age ROWS 'UNBOUNDED PRECEDING AND CURRENT ROW) name age 50000.00 3996 21 104000.00 Andy 21 174000.00 Alice 24 248000.00 Blice 24 308000.00 Jane Doe 25 373000.00 Kane Doe 25 453000 00 - 26","libVersion":"0.3.2","langs":"eng+kor"}

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "전자기학",
+      "path": "3.Resources/전기기사/전자기학.md"
+    },
+    {
       "basename": "전기 쌍극자",
       "path": "영구노트/전기 쌍극자.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
       "basename": "스케일 팩터",
@@ -91,14 +99,6 @@
     {
       "basename": "지락 사고",
       "path": "영구노트/지락 사고.md"
-    },
-    {
-      "basename": "중성점 (draw)",
-      "path": "Excalidraw/중성점 (draw).md"
-    },
-    {
-      "basename": "정전 응력",
-      "path": "영구노트/정전 응력.md"
     }
   ],
   "omittedPaths": [],

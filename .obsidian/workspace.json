@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/전기 쌍극자.md",
+                "file": "3.Resources/전기기사/전자기학.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기 쌍극자"
+              "title": "전자기학"
+            }
+          },
+          {
+            "id": "e87d4bda6945d9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
             }
           }
         ]
@@ -87,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/전기 쌍극자.md"
+                "file": "3.Resources/전기기사/전자기학.md"
               },
               "icon": "lucide-info",
-              "title": "전기 쌍극자 의 파일 속성"
+              "title": "전자기학 의 파일 속성"
             }
           },
           {
@@ -274,6 +289,16 @@
             "id": "0656bf19b519ba90",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "002968e79c832bca",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -281,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       },
       {
         "id": "7d466e57ea240c21",
@@ -294,13 +319,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/전기 쌍극자.md",
+                "file": "3.Resources/전기기사/전자기학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기 쌍극자 의 개요"
+              "title": "전자기학 의 개요"
             }
           }
         ]
@@ -333,8 +358,13 @@
   },
   "active": "0b9a03f3f964e810",
   "lastOpenFiles": [
-    "영구노트/스케일 팩터.md",
+    "영구노트/평행판 축전기 정전 용량 증명.md",
+    "3.Resources/전기기사/전자기학.md",
+    "영구노트/유전체 경계 조건.md",
+    "영구노트/비오 사바트의 법칙.md",
     "영구노트/전기 쌍극자.md",
+    "무제.md",
+    "영구노트/스케일 팩터.md",
     "영구노트/쌍극자 근사법.md",
     "Excalidraw/전기 쌍극자 그림 (draw).md",
     "Excalidraw/전기 쌍극자 그림 (draw).svg",
@@ -358,11 +388,6 @@
     "영구노트/장(Field).md",
     "영구노트/전자기 에너지.md",
     "영구노트/포인팅 벡터.md",
-    "영구노트/전파 정수.md",
-    "전자기파 구조도.md",
-    "영구노트/상호 유도 인덕턴스.md",
-    "연습노트/자계.md",
-    "영구노트/특성 임피던스.md",
     "attachments/screenshot/Pasted image 20250228173635.png",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
     "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
