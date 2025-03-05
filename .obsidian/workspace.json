@@ -51,27 +51,21 @@
               "icon": "lucide-file",
               "title": "벡터 항등식 쉽게 외우기"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2270e80b96df09d2",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "362c0886010a7b4a",
+            "id": "4c5ca7fa57e9c975",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-05 20.42.43.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-03-05 20.48.08.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-05 20.42.43.excalidraw"
+              "title": "Drawing 2025-03-05 20.48.08.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -149,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "수정 노트/벡터 항등식.md"
+                "file": "Excalidraw/Drawing 2025-03-05 20.48.08.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "벡터 항등식 의 파일 속성"
+              "title": "Drawing 2025-03-05 20.48.08.excalidraw 의 파일 속성"
             }
           },
           {
@@ -323,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수정 노트/벡터 항등식.md",
+                "file": "Excalidraw/Drawing 2025-03-05 20.48.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "벡터 항등식 의 개요"
+              "title": "Drawing 2025-03-05 20.48.08.excalidraw 의 개요"
             }
           }
         ]
@@ -361,12 +355,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "361f1168f36bf698",
+  "active": "4c5ca7fa57e9c975",
   "lastOpenFiles": [
-    "Excalidraw/기본 벡터 연산 항등식 (draw).md",
     "수정 노트/벡터 항등식.md",
-    "Excalidraw/Drawing 2025-03-05 20.42.43.excalidraw.md",
     "연습노트/벡터 항등식 쉽게 외우기.md",
+    "Excalidraw/Drawing 2025-03-05 20.48.08.excalidraw.md",
+    "Excalidraw/기울기 관련 항등식 (draw).md",
+    "Excalidraw/기본 벡터 연산 항등식 (draw).md",
+    "Excalidraw/기울기 관련 항등식 (draw).svg",
     "기본 벡터 연산.md",
     "Excalidraw/기본 벡터 연산 항등식 (draw).svg",
     "3.Resources/전기기사/전자기학.md",
@@ -393,13 +389,11 @@
     "Excalidraw/직렬 연결과 내압 (draw).svg",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "영구노트/ABCD 파라미터.md",
-    "영구노트/ABCD 파라미터.md",
     "attachments/screenshot/Pasted image 20250228173635.png",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
     "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
     "Excalidraw/중성점 (draw).svg",
     "attachments/screenshot/Pasted image 20250223184324.png",
-    "attachments/screenshot/Pasted image 20250223184321.png",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
