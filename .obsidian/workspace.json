@@ -333,7 +333,8 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
   "active": "361f1168f36bf698",

@@ -980,7 +980,7 @@ var require_react_development = __commonJS({
           }
           return lazyType;
         }
-        function forwardRef(render) {
+        function forwardRef3(render) {
           {
             if (render != null && render.$$typeof === REACT_MEMO_TYPE) {
               error("forwardRef requires a render function but received a `memo` component. Instead of forwardRef(memo(...)), use memo(forwardRef(...)).");
@@ -1878,7 +1878,7 @@ var require_react_development = __commonJS({
         exports.createElement = createElement$1;
         exports.createFactory = createFactory;
         exports.createRef = createRef;
-        exports.forwardRef = forwardRef;
+        exports.forwardRef = forwardRef3;
         exports.isValidElement = isValidElement;
         exports.lazy = lazy;
         exports.memo = memo;
@@ -2392,9 +2392,9 @@ var require_react_dom_development = __commonJS({
         if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== "undefined" && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === "function") {
           __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart(new Error());
         }
-        var React4 = require_react();
+        var React5 = require_react();
         var Scheduler = require_scheduler();
-        var ReactSharedInternals = React4.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
+        var ReactSharedInternals = React5.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
         var suppressWarning = false;
         function setSuppressWarning(newSuppressWarning) {
           {
@@ -3999,7 +3999,7 @@ var require_react_dom_development = __commonJS({
           {
             if (props.value == null) {
               if (typeof props.children === "object" && props.children !== null) {
-                React4.Children.forEach(props.children, function(child) {
+                React5.Children.forEach(props.children, function(child) {
                   if (child == null) {
                     return;
                   }
@@ -23568,7 +23568,7 @@ var require_react_jsx_runtime_development = __commonJS({
     if (true) {
       (function() {
         "use strict";
-        var React4 = require_react();
+        var React5 = require_react();
         var REACT_ELEMENT_TYPE = Symbol.for("react.element");
         var REACT_PORTAL_TYPE = Symbol.for("react.portal");
         var REACT_FRAGMENT_TYPE = Symbol.for("react.fragment");
@@ -23594,7 +23594,7 @@ var require_react_jsx_runtime_development = __commonJS({
           }
           return null;
         }
-        var ReactSharedInternals = React4.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
+        var ReactSharedInternals = React5.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED;
         function error(format) {
           {
             {
@@ -24445,10 +24445,10 @@ var require_react_jsx_runtime_development = __commonJS({
           }
         }
         var jsx14 = jsxWithValidationDynamic;
-        var jsxs11 = jsxWithValidationStatic;
+        var jsxs12 = jsxWithValidationStatic;
         exports.Fragment = REACT_FRAGMENT_TYPE;
         exports.jsx = jsx14;
-        exports.jsxs = jsxs11;
+        exports.jsxs = jsxs12;
       })();
     }
   }
@@ -32285,7 +32285,7 @@ __export(main_exports, {
   default: () => InfraNodusPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian16 = require("obsidian");
+var import_obsidian18 = require("obsidian");
 
 // src/settings/settingsTab.ts
 var import_obsidian = require("obsidian");
@@ -32297,6 +32297,7 @@ var SETTINGS = {
   SINGLE_PAGE_GRAPH_PROCESSING: "[[Wiki Links]] and Concepts",
   MULTI_PAGE_GRAPH_PROCESSING: "[[Wiki Links]] Only",
   COLOR_SCHEME: "auto",
+  LINK_PAGE_TO_MENTIONS: "false",
   INCLUDE_LINKED_MENTIONS: "For empty pages only",
   INCLUDE_UNLINKED_MENTIONS: "For empty pages only",
   USE_OWN_UNLINKED_SEARCH: "no",
@@ -32304,22 +32305,21 @@ var SETTINGS = {
   RELOADING_GRAPH: "automatic",
   ADD_LINKS: "End of statement",
   EXPORT_TYPE: "manual",
-  EXPORT_GRAPH: "page_name",
-  CONTEXT_NAME: "from_obsidian_plugin",
+  EXPORT_GRAPH: "from_obsidian_*",
+  CONTEXT_NAME: "from_obsidian_ai",
   WHEN_USING_LOCATE: "Do not force to Edit Mode",
   // RELOAD_WHEN_TO_READING: true,
   // Mobile Only
-  MOBILE_OPEN_GRAPH_IN: "New tab"
-};
-var INTERNAL_SETTINGS = {
-  INFRANODUS_API_URL: "https://infranodus.com"
+  MOBILE_OPEN_GRAPH_IN: "New tab",
+  INFRANODUS_API_URL: "https://infranodus.com",
+  INFRANODUS_GRAPH_URL: "https://graph.infranodus.com"
 };
 
 // src/settings/settingsTab.ts
 var currentPlatform = import_obsidian.Platform.isMobileApp || import_obsidian.Platform.isMobile ? "mobile" : "desktop";
 var InfraNodusSettingTab = class extends import_obsidian.PluginSettingTab {
-  constructor(app, plugin) {
-    super(app, plugin);
+  constructor(app2, plugin) {
+    super(app2, plugin);
     this.plugin = plugin;
   }
   display() {
@@ -32339,7 +32339,15 @@ var InfraNodusSettingTab = class extends import_obsidian.PluginSettingTab {
         "GPT-3.5 Turbo (older and weirder)"
       ).setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Single page processing").setDesc("What method of processing to use for single page graphs.").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Link currently viewed page to mentions").setDesc(
+      "Links all the pages mentioned in your document to current page's name."
+    ).addDropdown((dropdown) => {
+      const key = "LINK_PAGE_TO_MENTIONS";
+      dropdown.addOption("false", "Do not link (emphasizes the context)").addOption("true", "Link (emphasizes hierarchy)").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
+    });
+    new import_obsidian.Setting(containerEl).setName("Single page processing").setDesc(
+      "Use [[wiki links]] and concepts for detailed results. Use [[wiki links]] only for sparser graphs."
+    ).addDropdown((dropdown) => {
       const key = "SINGLE_PAGE_GRAPH_PROCESSING";
       dropdown.addOption(
         "[[Wiki Links]] and Concepts",
@@ -32349,7 +32357,9 @@ var InfraNodusSettingTab = class extends import_obsidian.PluginSettingTab {
         "[[Wiki Links]] Prioritized"
       ).addOption("Concepts only", "Concepts Only").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Multi page processing").setDesc("What method of processing to use for multi page graphs.").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Multi page processing").setDesc(
+      "Use [[wiki links]] only for big folders and vaults. Use [[wiki links]] and concepts for more detail."
+    ).addDropdown((dropdown) => {
       const key = "MULTI_PAGE_GRAPH_PROCESSING";
       dropdown.addOption(
         "[[Wiki Links]] and Concepts",
@@ -32363,48 +32373,51 @@ var InfraNodusSettingTab = class extends import_obsidian.PluginSettingTab {
       const key = "COLOR_SCHEME";
       dropdown.addOption("auto", "Auto").addOption("light", "Light").addOption("dark", "Dark").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Include linked mentions").setDesc("Choose when to include linked mentions.").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Include linked mentions").setDesc(
+      "Including linked mentions helps navigate between ideas better but may be too detailed."
+    ).addDropdown((dropdown) => {
       const key = "INCLUDE_LINKED_MENTIONS";
       dropdown.addOption("For empty pages only", "For empty pages only").addOption("For all pages", "For all pages").addOption("Never", "Never").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Include unlinked mentions").setDesc("Choose when to include unlinked mentions.").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Include unlinked mentions").setDesc(
+      "Including unlinked mentions helps discover new connections but can also be overwhelming."
+    ).addDropdown((dropdown) => {
       const key = "INCLUDE_UNLINKED_MENTIONS";
       dropdown.addOption("For empty pages only", "For empty pages only").addOption("For all pages", "For all pages").addOption("Never", "Never").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Improve unlinked search").setDesc(
-      "Count a text match to a page's name as an unlinked mention.."
-    ).addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Improve unlinked search").setDesc("Use aggressive partial matching when searching.").addDropdown((dropdown) => {
       const key = "USE_OWN_UNLINKED_SEARCH";
       dropdown.addOption("no", "No").addOption("yes", "Yes").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Updating graph").setDesc("Choose how to update the graph.").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Updating graph").setDesc(
+      "Set manual if you want the graph to reload only when you click the reload button."
+    ).addDropdown((dropdown) => {
       const key = "RELOADING_GRAPH";
       dropdown.addOption("automatic", "Automatic").addOption("manual", "Manual (button)").addOption("into reading", "Entering reading mode").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Default graph layer").setDesc("The default layer the graph should open on.").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Default graph layer").setDesc(
+      "The default layer the graph should open on when loading the first time."
+    ).addDropdown((dropdown) => {
       const key = "DEFAULT_GRAPH_MODE";
       dropdown.addOption("graph", "Graph").addOption("topics", "Topics").addOption("concepts", "Concepts").addOption("gaps", "Gaps").addOption("trends", "Trends").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Export type").setDesc("How should we export your data").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Export type").setDesc(
+      "Use manual export for more control. Automatic export works with big files."
+    ).addDropdown((dropdown) => {
       const key = "EXPORT_TYPE";
       dropdown.addOption("manual", "Copy and paste (manual)").addOption("auto", "Automatic").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Export to graph name").setDesc("Where should we export your data").addDropdown((dropdown) => {
+    new import_obsidian.Setting(containerEl).setName("Export to graph name").setDesc(
+      "Name of the graph to export data to, add * for page name, ** for vault name."
+    ).addText((text) => {
       const key = "EXPORT_GRAPH";
-      dropdown.addOption("page_name", "Generate from the page name").addOption("obsidian_files", "Use 'obsidian_files' name").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
+      text.setPlaceholder("Enter context name").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
-    new import_obsidian.Setting(containerEl).setName("Graph name").setDesc(
-      "Choose the name of the InfraNodus graph where AI insights are saved."
+    new import_obsidian.Setting(containerEl).setName("Export AI insights to graph name").setDesc(
+      "Name of the graph where AI insights are saved, add * for page name, ** for vault name."
     ).addText((text) => {
       const key = "CONTEXT_NAME";
       text.setPlaceholder("Enter context name").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
-    });
-    new import_obsidian.Setting(containerEl).setName("When using locate").setDesc("Note: Locating works better in Edit mode").addDropdown((dropdown) => {
-      const key = "WHEN_USING_LOCATE";
-      dropdown.addOption(
-        "Do not force to Edit Mode",
-        "Do not force to Edit Mode"
-      ).addOption("Force to Edit Mode", "Force to Edit Mode").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
     });
     if (currentPlatform === "mobile") {
       new import_obsidian.Setting(containerEl).setName("Open mobile graph in").setDesc("Choose where to open the graph on mobile.").addDropdown((dropdown) => {
@@ -32412,16 +32425,40 @@ var InfraNodusSettingTab = class extends import_obsidian.PluginSettingTab {
         dropdown.addOption("Side view", "Side view").addOption("New tab", "New tab").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
       });
     }
+    new import_obsidian.Setting(containerEl).setName("InfraNodus API URL").setDesc(
+      "Developer mode. InfraNodus.Com is a default value, do not change."
+    ).addDropdown((dropdown) => {
+      const key = "INFRANODUS_API_URL";
+      dropdown.addOption(
+        "https://infranodus.com",
+        "https://infranodus.com"
+      ).addOption("http://localhost:3000", "http://localhost:3000").setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
+    });
+    new import_obsidian.Setting(containerEl).setName("InfraNodus Graph URL").setDesc(
+      "Developer mode. The default value is graph.infranodus.com, do not change."
+    ).addDropdown((dropdown) => {
+      const key = "INFRANODUS_GRAPH_URL";
+      dropdown.addOption(
+        "https://graph.infranodus.com",
+        "https://graph.infranodus.com"
+      ).addOption(
+        "https://localhost:5173",
+        "https://localhost:5173"
+      ).addOption(
+        "https://localhost:4173",
+        "https://localhost:4173"
+      ).setValue(SETTINGS[key]).onChange(async (value) => onChange(key, value));
+    });
   }
 };
 
 // src/graph_view/index.ts
-var import_obsidian13 = require("obsidian");
+var import_obsidian15 = require("obsidian");
 var import_client = __toESM(require_client());
-var React3 = __toESM(require_react());
+var React4 = __toESM(require_react());
 
 // src/graph_view/GraphView.tsx
-var import_obsidian12 = require("obsidian");
+var import_obsidian14 = require("obsidian");
 var import_react9 = __toESM(require_react());
 
 // src/infranodus/index.ts
@@ -32446,24 +32483,40 @@ function replaceAtWords(input) {
   return input.replace(/@(\w+)/g, "[[$1]]");
 }
 function filterStatements(params) {
-  const wordsToSearch = params.wordsToSearch.map((word) => {
-    if (word.startsWith("[[") && word.endsWith("]]")) {
-      return word.slice(2, -2);
-    }
+  var _a, _b, _c, _d, _e;
+  const wordsToSearch = ((_a = params.wordsToSearch) == null ? void 0 : _a.map((word) => {
     return word;
-  });
-  const wordsToHide = params.wordsToHide.map((word) => {
-    if (word.startsWith("[[") && word.endsWith("]]")) {
-      return word.slice(2, -2);
-    }
+  })) || [];
+  const wordsToHide = ((_b = params.wordsToHide) == null ? void 0 : _b.map((word) => {
     return word;
-  });
-  const filteredStatements = params.statements.filter((statement) => {
+  })) || [];
+  const topicIdsToFilter = params.topicsFiltered || [];
+  const connectedWords = params.connectedWords || [];
+  let filteredStatements = (_c = params.statements) == null ? void 0 : _c.filter((statement) => {
     const hashtags = statement.statementHashtags;
     if (wordsToHide.some((word) => hashtags.includes(word)))
       return false;
-    return wordsToSearch.some((word) => hashtags.includes(word));
+    if (wordsToSearch.every((word) => hashtags.includes(word)))
+      return true;
+    if (topicIdsToFilter && topicIdsToFilter.length > 0) {
+      if (topicIdsToFilter.includes(statement.topStatementCommunity))
+        return true;
+    }
   });
+  if (filteredStatements.length === 0 && wordsToSearch.length > 0) {
+    filteredStatements = (_d = params.statements) == null ? void 0 : _d.filter((statement) => {
+      const hashtags = statement.statementHashtags;
+      if (wordsToSearch.some((word) => hashtags.includes(word)))
+        return true;
+    });
+  }
+  if (filteredStatements.length === 0 && wordsToSearch.length > 0 && connectedWords.length > 0) {
+    filteredStatements = (_e = params.statements) == null ? void 0 : _e.filter((statement) => {
+      const hashtags = statement.statementHashtags;
+      if (connectedWords.some((word) => hashtags.includes(word)))
+        return true;
+    });
+  }
   return filteredStatements;
 }
 
@@ -32476,7 +32529,7 @@ var InfraNodus = class {
       url = url.slice(1);
     const response = await (0, import_obsidian2.requestUrl)({
       method: "POST",
-      url: `${INTERNAL_SETTINGS.INFRANODUS_API_URL}/${url}`,
+      url: `${SETTINGS.INFRANODUS_API_URL}/${url}`,
       headers: {
         "Content-Type": "application/json",
         Authorization: `Bearer ${auth_token}`
@@ -32510,19 +32563,21 @@ var InfraNodus = class {
   static async getGraphAndStatements(params) {
     const body = {
       name: params.name,
-      text: params.text
+      text: params.statements && params.statements.length > 0 ? "" : params.text
     };
+    if (params.statements) {
+      body.statements = params.statements;
+    }
     if (params.contextSettings === "[[Wiki Links]] and Concepts") {
       body.contextSettings = {
         partOfSpeechToProcess: "HASHTAGS_AND_WORDS",
-        doubleSquarebracketsProcessing: "PROCESS_AS_HASHTAGS",
-        mentionsProcessing: "CONNECT_TO_ALL_CONCEPTS"
+        doubleSquarebracketsProcessing: "PROCESS_AS_HASHTAGS"
       };
     }
     if (params.contextSettings === "[[Wiki Links]] Only") {
       body.contextSettings = {
         partOfSpeechToProcess: "HASHTAGS_ONLY",
-        doubleSquarebracketsProcessing: "PROCESS_AS_HASHTAGS_IGNORE_THE_REST"
+        doubleSquarebracketsProcessing: "PROCESS_AS_HASHTAGS"
       };
     }
     if (params.contextSettings === "[[Wiki Links]] Prioritized") {
@@ -32544,6 +32599,15 @@ var InfraNodus = class {
         stopwords: params.stopwords
       };
     }
+    if (params.categories && params.categories.length > 0) {
+      body.categories = params.categories;
+      body.contextSettings = {
+        ...body.contextSettings,
+        categoriesAsMentions: true,
+        mentionsProcessing: "CONNECT_TO_ALL_CONCEPTS",
+        squareBracketsProcessing: "USE_AS_CATEGORIES_PROCESS_AS_HASHTAGS"
+      };
+    }
     const response = await this.genericPost(
       "api/v1/graphAndStatements?doNotSave=true&addStats=true&dotGraph=true&optimize=develop",
       body
@@ -32558,19 +32622,24 @@ var InfraNodus = class {
     });
   }
   static extractDataFromGraphData(params) {
-    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y, _z, _A;
+    var _a, _b, _c, _d, _e, _f, _g, _h, _i, _j, _k, _l, _m, _n, _o, _p, _q, _r, _s, _t, _u, _v, _w, _x, _y, _z, _A, _B;
     if (!params.graph_data) {
       throw new Error(
         "Could not retrieve data from InfraNodus. Please, check connection or your API key."
       );
     }
     const topics_answer = params.graph_data;
-    if (!params.graph_data.entriesAndGraphOfContext) {
+    const error = (_a = params.graph_data) == null ? void 0 : _a.error;
+    if (error && error.includes("login")) {
       throw new Error(
-        "Could not parse the response from InfraNodus topics identifier. Please, check if there is any content on this page or check your text processing settings."
+        "Please, update your API key in the InfraNodus graph view settings."
+      );
+    } else if (!params.graph_data.entriesAndGraphOfContext) {
+      throw new Error(
+        "Could not parse the response from InfraNodus topics identifier. Please, check if there is any content on this page, check your text processing settings, and make sure your API key is up to date."
       );
     }
-    const top_clusters = ((_e = (_d = (_c = (_b = (_a = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _a.graph) == null ? void 0 : _b.graphologyGraph) == null ? void 0 : _c.attributes) == null ? void 0 : _d.top_clusters) == null ? void 0 : _e.map(
+    const top_clusters = ((_f = (_e = (_d = (_c = (_b = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _b.graph) == null ? void 0 : _c.graphologyGraph) == null ? void 0 : _d.attributes) == null ? void 0 : _e.top_clusters) == null ? void 0 : _f.map(
       (cluster) => {
         cluster.words = cluster.nodes.map(
           (node) => node == null ? void 0 : node.nodeName
@@ -32579,12 +32648,12 @@ var InfraNodus = class {
         return cluster;
       }
     )) || [];
-    const top_words = (_j = (_i = (_h = (_g = (_f = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _f.graph) == null ? void 0 : _g.graphologyGraph) == null ? void 0 : _h.attributes) == null ? void 0 : _i.top_nodes) != null ? _j : [];
-    const gaps_extracted = ((_n = (_m = (_l = (_k = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _k.graph) == null ? void 0 : _l.graphologyGraph) == null ? void 0 : _m.attributes) == null ? void 0 : _n.gaps) || [];
-    const dot_graph = ((_r = (_q = (_p = (_o = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _o.graph) == null ? void 0 : _p.graphologyGraph) == null ? void 0 : _q.attributes) == null ? void 0 : _r.dotGraph) || "";
-    const bigrams = ((_v = (_u = (_t = (_s = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _s.graph) == null ? void 0 : _t.graphologyGraph) == null ? void 0 : _u.attributes) == null ? void 0 : _v.bigrams) || [];
-    const dot_graph_clusters = ((_z = (_y = (_x = (_w = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _w.graph) == null ? void 0 : _x.graphologyGraph) == null ? void 0 : _y.attributes) == null ? void 0 : _z.dotGraphByCluster) || [];
-    const all_statements = ((_A = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _A.statements) || [];
+    const top_words = (_k = (_j = (_i = (_h = (_g = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _g.graph) == null ? void 0 : _h.graphologyGraph) == null ? void 0 : _i.attributes) == null ? void 0 : _j.top_nodes) != null ? _k : [];
+    const gaps_extracted = ((_o = (_n = (_m = (_l = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _l.graph) == null ? void 0 : _m.graphologyGraph) == null ? void 0 : _n.attributes) == null ? void 0 : _o.gaps) || [];
+    const dot_graph = ((_s = (_r = (_q = (_p = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _p.graph) == null ? void 0 : _q.graphologyGraph) == null ? void 0 : _r.attributes) == null ? void 0 : _s.dotGraph) || "";
+    const bigrams = ((_w = (_v = (_u = (_t = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _t.graph) == null ? void 0 : _u.graphologyGraph) == null ? void 0 : _v.attributes) == null ? void 0 : _w.bigrams) || [];
+    const dot_graph_clusters = ((_A = (_z = (_y = (_x = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _x.graph) == null ? void 0 : _y.graphologyGraph) == null ? void 0 : _z.attributes) == null ? void 0 : _A.dotGraphByCluster) || {};
+    const all_statements = ((_B = topics_answer == null ? void 0 : topics_answer.entriesAndGraphOfContext) == null ? void 0 : _B.statements) || [];
     const top_statements_for_topics_extracted = top_clusters ? top_clusters.map((topic) => {
       const topStatementId = topic.topStatementId;
       const topStatement = all_statements.find(
@@ -33043,6 +33112,40 @@ var IterationsIcon = /* @__PURE__ */ createIconComponent("IterationsIcon", "octi
     }
   };
 });
+var PlusCircleIcon = /* @__PURE__ */ createIconComponent("PlusCircleIcon", "octicon octicon-plus-circle", function() {
+  return {
+    "16": {
+      "width": 16,
+      "path": /* @__PURE__ */ import_react.default.createElement("path", {
+        d: "M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7.25-3.25v2.5h2.5a.75.75 0 0 1 0 1.5h-2.5v2.5a.75.75 0 0 1-1.5 0v-2.5h-2.5a.75.75 0 0 1 0-1.5h2.5v-2.5a.75.75 0 0 1 1.5 0Z"
+      })
+    },
+    "24": {
+      "width": 24,
+      "path": /* @__PURE__ */ import_react.default.createElement(import_react.default.Fragment, null, /* @__PURE__ */ import_react.default.createElement("path", {
+        d: "M12.75 7.75a.75.75 0 0 0-1.5 0v3.5h-3.5a.75.75 0 0 0 0 1.5h3.5v3.5a.75.75 0 0 0 1.5 0v-3.5h3.5a.75.75 0 0 0 0-1.5h-3.5v-3.5Z"
+      }), /* @__PURE__ */ import_react.default.createElement("path", {
+        d: "M12 1c6.075 0 11 4.925 11 11s-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1ZM2.5 12a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 12 2.5 9.5 9.5 0 0 0 2.5 12Z"
+      }))
+    }
+  };
+});
+var QuoteIcon = /* @__PURE__ */ createIconComponent("QuoteIcon", "octicon octicon-quote", function() {
+  return {
+    "16": {
+      "width": 16,
+      "path": /* @__PURE__ */ import_react.default.createElement("path", {
+        d: "M1.75 2.5h10.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Zm4 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2.5 7.75v6a.75.75 0 0 1-1.5 0v-6a.75.75 0 0 1 1.5 0Z"
+      })
+    },
+    "24": {
+      "width": 24,
+      "path": /* @__PURE__ */ import_react.default.createElement("path", {
+        d: "M3 6.25a.75.75 0 0 1 .75-.75h13.5a.75.75 0 0 1 0 1.5H3.75A.75.75 0 0 1 3 6.25Zm5 6.063a.75.75 0 0 1 .75-.75h11.5a.75.75 0 0 1 0 1.5H8.75a.75.75 0 0 1-.75-.75Zm0 5.937a.75.75 0 0 1 .75-.75h11.5a.75.75 0 0 1 0 1.5H8.75a.75.75 0 0 1-.75-.75ZM3.75 11a.75.75 0 0 1 .75.75v7a.75.75 0 0 1-1.5 0v-7a.75.75 0 0 1 .75-.75Z"
+      })
+    }
+  };
+});
 var RepoPullIcon = /* @__PURE__ */ createIconComponent("RepoPullIcon", "octicon octicon-repo-pull", function() {
   return {
     "16": {
@@ -33155,6 +33258,7 @@ function getTopicsForAdviceMode(params) {
   });
   const topicsFiltered = params.stateRef.current.topicsFiltered;
   const topicsExtracted = params.extractedGraphData.top_clusters;
+  const wordsToSearch = params.wordsToSearch;
   if (params.adviceMode === "question") {
     if (topicsFiltered.length == 0) {
       return genericTopics();
@@ -33172,6 +33276,13 @@ function getTopicsForAdviceMode(params) {
       );
     }
   } else if (params.adviceMode === "summary") {
+    if (topicsFiltered.length == 0) {
+      return topicsExtracted;
+    } else if (topicsFiltered.length > 0) {
+      return topicsExtracted.filter(
+        (topic) => topicsFiltered.includes(topic.id)
+      );
+    }
   }
   return [];
   function genericTopics() {
@@ -33189,9 +33300,10 @@ function getTopicsForAdviceMode(params) {
   }
 }
 async function generateAiAdvice(params) {
+  var _a, _b;
   if (params.adviceMode === "none")
     params.adviceMode = "question";
-  const topicsToUse = params.adviceMode === "summary" ? params.extractedGraphData.top_clusters : getTopicsForAdviceMode(params);
+  const topicsToUse = getTopicsForAdviceMode(params);
   if (!topicsToUse || topicsToUse.length === 0) {
     throw new Error(
       "Could not retrieve topics to analyze. Please, check your settings or try with another document."
@@ -33206,6 +33318,16 @@ async function generateAiAdvice(params) {
     dotGraphClusters: params.extractedGraphData.dot_graph_clusters || [],
     userSettings: params.userSettings
   });
+  const bigrams = ((_b = (_a = params == null ? void 0 : params.extractedGraphData) == null ? void 0 : _a.bigrams) == null ? void 0 : _b.map((bigram) => bigram.split(" [weight")[0])) || [];
+  if (params.wordsToSearch && params.wordsToSearch.length > 0) {
+    const bigramsForKeywords = bigrams && bigrams.length > 0 ? bigrams.filter(
+      (bigram) => params.wordsToSearch.some(
+        (word) => bigram.toLowerCase().includes(word.toLowerCase())
+      )
+    ) : [];
+    const bigramsString = bigramsForKeywords.join(" ");
+    prompt.prompt = params.wordsToSearch.join(" ") + " " + bigramsString;
+  }
   const adviceParameters = {
     prompt: prompt.prompt,
     promptGraph: prompt.promptGraph,
@@ -33230,6 +33352,9 @@ async function generateAiAdvice(params) {
   const choicesText = choices.map((choice) => choice.text);
   return choicesText;
 }
+
+// src/graph_view/components/GraphViewOverlayChat.tsx
+var import_obsidian4 = require("obsidian");
 
 // node_modules/jwt-decode/build/esm/index.js
 var InvalidTokenError = class extends Error {
@@ -33288,8 +33413,212 @@ function jwtDecode(token, options) {
 }
 
 // src/graph_view/components/GraphViewOverlayChat.tsx
-var import_react2 = __toESM(require_react());
+var import_react3 = __toESM(require_react());
+
+// src/components/GraphNameModal.tsx
+var import_obsidian3 = require("obsidian");
+var GraphNameModal = class extends import_obsidian3.Modal {
+  constructor(app2, initialGraphName, onSubmit) {
+    super(app2);
+    this.graphName = initialGraphName;
+    this.onSubmit = onSubmit;
+  }
+  onOpen() {
+    const { contentEl } = this;
+    contentEl.createEl("h2", { text: "Export the Data to InfraNodus" });
+    new import_obsidian3.Setting(contentEl).setName("Confirm the InfraNodus graph name").addText(
+      (text) => text.setValue(this.graphName).onChange((value) => {
+        this.graphName = value;
+      })
+    );
+    new import_obsidian3.Setting(contentEl).addButton(
+      (btn) => btn.setButtonText("Submit").setCta().onClick(() => {
+        this.close();
+        this.onSubmit(this.graphName);
+      })
+    ).addButton(
+      (btn) => btn.setButtonText("Cancel").onClick(() => {
+        this.close();
+        this.onSubmit(null);
+      })
+    );
+  }
+  onClose() {
+    const { contentEl } = this;
+    contentEl.empty();
+  }
+};
+
+// src/utils/graph.ts
+function encodeInfraNodusGraphName(graphName, graphPrefix, vaultName) {
+  let encodedName = graphName.replace(/[\s%&=?#/\\]/g, "_");
+  encodedName = encodeURIComponent(encodedName);
+  const graphNameToReturn = getGraphName(encodedName, graphPrefix, vaultName);
+  return graphNameToReturn.replace(/%[0-9A-Fa-f]{2}/g, "_").slice(0, 32) || "from_obsidian_plugin";
+}
+function makeNameSafe(name) {
+  return name.replace(/[\s%&=?#/\\]/g, "_");
+}
+function getGraphName(encodedName, graphPrefix, vaultName) {
+  if (!graphPrefix) {
+    return `${vaultName}_${encodedName}`;
+  }
+  if (graphPrefix.includes("*")) {
+    if (graphPrefix.includes("**")) {
+      return graphPrefix.replace("**", makeNameSafe(vaultName));
+    }
+    return graphPrefix.replace("*", makeNameSafe(encodedName));
+  }
+  if (graphPrefix === "page_name") {
+    return "from_obsidian_" + makeNameSafe(encodedName);
+  }
+  if (graphPrefix === "obsidian_files") {
+    return "obsidian_files";
+  }
+  return graphPrefix;
+}
+
+// src/components/ToggleButton.tsx
 var import_jsx_runtime = __toESM(require_jsx_runtime());
+var ToggleButton = (params) => {
+  return /* @__PURE__ */ (0, import_jsx_runtime.jsx)("label", { className: "flex items-center cursor-pointer", children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "relative", children: [
+    /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+      "input",
+      {
+        type: "checkbox",
+        className: "sr-only",
+        checked: params.toggle,
+        onChange: params.onClick
+      }
+    ),
+    /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+      "div",
+      {
+        className: `block bg-gray-400 dark:bg-gray-600 w-8 h-5 rounded-full ${params.toggle ? "bg-green-400 dark:bg-green-400" : ""}`
+      }
+    ),
+    /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+      "div",
+      {
+        className: `dot absolute left-1 top-1 bg-white w-3 h-3 rounded-full transition ${params.toggle ? "translate-x-full" : ""}`
+      }
+    )
+  ] }) });
+};
+
+// src/components/InfoTootip.tsx
+var React2 = __toESM(require_react());
+var import_react2 = __toESM(require_react());
+var import_jsx_runtime2 = (
+  // <div className="relative inline-block">
+  // <>
+  // 	<div ref={childRef}>{children}</div>
+  // </>
+  __toESM(require_jsx_runtime())
+);
+var InfoTooltip = React2.forwardRef(
+  ({
+    text,
+    direction = "bottom",
+    distance = 4,
+    children,
+    isAbsolute = false
+  }, ref) => {
+    const tooltipRef = (0, import_react2.useRef)(null);
+    const childRef = (0, import_react2.useRef)(null);
+    (0, import_react2.useEffect)(() => {
+      const div = document.createElement("div");
+      div.style.position = "absolute";
+      div.style.zIndex = "10";
+      div.style.visibility = "hidden";
+      div.style.padding = "0.5rem";
+      div.style.fontSize = "0.75rem";
+      div.style.color = "white";
+      div.style.transitionProperty = "opacity";
+      div.style.transitionDuration = "0.3s";
+      div.style.backgroundColor = "rgba(0, 0, 0, 1)";
+      div.style.borderRadius = "0.25rem";
+      div.style.opacity = "0";
+      div.style.maxWidth = "250px";
+      div.innerHTML = text;
+      document.body.appendChild(div);
+      tooltipRef.current = div;
+    }, [children]);
+    (0, import_react2.useEffect)(() => {
+      const tooltip = tooltipRef.current;
+      const child = childRef.current;
+      if (!tooltip || !child)
+        return;
+      const firstChild = React2.Children.toArray(
+        children
+      )[0];
+      const clonedChild = React2.cloneElement(firstChild, {
+        ref: childRef
+      });
+      let timeout = null;
+      const handleMouseEnter = () => {
+        timeout = setTimeout(() => {
+          matchLocationWithDirection(
+            child,
+            tooltip,
+            direction,
+            distance
+          );
+          tooltip.style.visibility = "visible";
+          tooltip.style.opacity = "1";
+        }, 300);
+      };
+      const handleMouseLeave = () => {
+        if (timeout) {
+          clearTimeout(timeout);
+          timeout = null;
+        }
+        tooltip.style.visibility = "hidden";
+        tooltip.style.opacity = "0";
+      };
+      child.addEventListener("mouseenter", handleMouseEnter);
+      child.addEventListener("mouseleave", handleMouseLeave);
+      return () => {
+        tooltip.remove();
+        child.removeEventListener("mouseenter", handleMouseEnter);
+        child.removeEventListener("mouseleave", handleMouseLeave);
+      };
+    }, [direction, distance, children]);
+    const matchLocationWithDirection = (child, tooltip, direction2, distance2) => {
+      const childRect = child.getBoundingClientRect();
+      const tooltipRect = tooltip.getBoundingClientRect();
+      switch (direction2) {
+        case "left":
+          tooltip.style.left = `${childRect.left - tooltipRect.width - distance2}px`;
+          tooltip.style.top = `${childRect.top + childRect.height / 2 - tooltipRect.height / 2}px`;
+          break;
+        case "right":
+          tooltip.style.left = `${childRect.right + distance2}px`;
+          tooltip.style.top = `${childRect.top + childRect.height / 2 - tooltipRect.height / 2}px`;
+          break;
+        case "top":
+          tooltip.style.top = `${childRect.top - tooltipRect.height - distance2}px`;
+          tooltip.style.left = `${childRect.left - tooltipRect.width / 2}px`;
+          break;
+        case "bottom":
+          tooltip.style.top = `${childRect.bottom + distance2}px`;
+          tooltip.style.left = `${childRect.left - (tooltipRect.width - childRect.width) / 2}px`;
+          break;
+        default:
+          throw new Error("Invalid direction");
+      }
+    };
+    return /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(import_jsx_runtime2.Fragment, { children: isAbsolute ? React2.cloneElement(
+      React2.Children.toArray(
+        children
+      )[0],
+      { ref: childRef }
+    ) : /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("div", { ref: childRef, children }) });
+  }
+);
+
+// src/graph_view/components/GraphViewOverlayChat.tsx
+var import_jsx_runtime3 = __toESM(require_jsx_runtime());
 var _lastId = 0;
 var generateId = () => `chatmessage-${++_lastId}`;
 async function processInput(search, similarityThreshold, statements) {
@@ -33300,39 +33629,198 @@ async function processInput(search, similarityThreshold, statements) {
   });
   return extractedStatements.data;
 }
+var AiChatTextContext = (params) => {
+  const { aiChatClusters, toggleChatContext, navigator: navigator2, beyondContext } = params;
+  const filteredTopics = (aiChatClusters == null ? void 0 : aiChatClusters.filtered_topics) && (aiChatClusters == null ? void 0 : aiChatClusters.filtered_topics.length) > 0 ? aiChatClusters == null ? void 0 : aiChatClusters.filtered_topics : [];
+  const allTopics = (aiChatClusters == null ? void 0 : aiChatClusters.all_topics) && (aiChatClusters == null ? void 0 : aiChatClusters.all_topics.length) > 0 ? aiChatClusters == null ? void 0 : aiChatClusters.all_topics : [];
+  const concepts = (aiChatClusters == null ? void 0 : aiChatClusters.concepts) && (aiChatClusters == null ? void 0 : aiChatClusters.concepts.length) > 0 ? aiChatClusters == null ? void 0 : aiChatClusters.concepts : [];
+  const [copied, setCopied] = (0, import_react3.useState)(false);
+  (0, import_react3.useEffect)(() => {
+    if (!copied)
+      return;
+    const timer = setTimeout(() => setCopied(false), 500);
+    return () => clearTimeout(timer);
+  }, [copied]);
+  return /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "relative flex w-full", children: [
+    /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "relative flex w-full ", children: [
+      beyondContext && /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col mt-0", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("p", { className: "text-sm font-bold", children: "AI will not take the context into account" }),
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+          "div",
+          {
+            id: "chatContext",
+            className: "flex flex-col gap-1 max-h-[30vh] overflow-y-scroll mb-2",
+            children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+              "div",
+              {
+                className: "flex items-center",
+                children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "text-sm", children: 'You have "go beyond this context" switch enabled, so the AI will not take the graph into account.' })
+              },
+              "no-context"
+            )
+          }
+        )
+      ] }),
+      !beyondContext && filteredTopics.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col mt-0", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("p", { className: "text-sm font-bold", children: "AI will focus on selected topics:" }),
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+          "div",
+          {
+            id: "chatContext",
+            className: "flex flex-col gap-1 max-h-[30vh] overflow-y-scroll mb-2",
+            children: filteredTopics.map((topic, index) => /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex items-center", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "text-sm", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("span", { className: "font-semibold", children: [
+                topic.aiName,
+                ":"
+              ] }),
+              " ",
+              `(${topic.words.slice(0, 9).join(", ")})`
+            ] }) }, index))
+          }
+        )
+      ] }),
+      !beyondContext && allTopics.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col mt-0", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("p", { className: "text-sm font-bold", children: "AI will focus on all topics:" }),
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+          "div",
+          {
+            id: "chatContext",
+            className: "flex flex-col gap-1 max-h-[30vh] overflow-y-scroll mb-2",
+            children: allTopics.map((topic, index) => /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex items-center", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "text-sm", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("span", { className: "font-semibold", children: [
+                topic.aiName,
+                ":"
+              ] }),
+              " ",
+              `(${topic.words.slice(0, 9).join(", ")})`
+            ] }) }, index))
+          }
+        )
+      ] }),
+      !beyondContext && concepts.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col mt-0", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("p", { className: "text-sm font-bold", children: "AI will focus on these concepts:" }),
+        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+          "div",
+          {
+            id: "chatContext",
+            className: "flex flex-col gap-1 max-h-[30vh] overflow-y-scroll mb-2",
+            children: concepts.join(", ")
+          }
+        )
+      ] })
+    ] }),
+    /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-row absolute top-0 right-0 gap-1", children: [
+      !beyondContext && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+        "div",
+        {
+          className: "bg-gray-350 hover:bg-gray-400 dark:bg-gray-900 dark:hover:bg-gray-800 rounded px-1 flex flex-row gap-2 items-center h-7 transition-colors cursor-pointer",
+          onClick: () => {
+            var _a, _b;
+            const shadowRoot = (_a = document.querySelector(
+              "div#infranodus-shadowroot-container"
+            )) == null ? void 0 : _a.shadowRoot;
+            const contextContent = ((_b = shadowRoot == null ? void 0 : shadowRoot.querySelector("div#chatContext")) == null ? void 0 : _b.innerHTML) || "";
+            navigator2.clipboard.writeText(contextContent);
+            setCopied(true);
+          },
+          children: copied ? /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CheckIcon, { size: 16, className: "px-0.5" }) : /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CopyIcon, { size: 16, className: "px-1" })
+        }
+      ),
+      /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+        "div",
+        {
+          className: "bg-gray-350 hover:bg-gray-400 dark:bg-gray-900 dark:hover:bg-gray-800 rounded px-1 flex flex-row gap-2 items-center h-7 transition-colors cursor-pointer",
+          onClick: () => {
+            toggleChatContext();
+          },
+          children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(XIcon, { size: 16, className: "px-0.5" })
+        }
+      )
+    ] })
+  ] });
+};
 var GraphViewOverlayChat = (params) => {
-  var _a, _b;
+  var _a, _b, _c;
   let extractedGraphData = params.stateRef.current.extractedGraphData;
   const globalChatHistory = (_a = params.chatHistory) != null ? _a : [];
   const allStatements = extractedGraphData.all_statements_with_top;
   const topicsExtracted = extractedGraphData.top_clusters;
-  const containerRef = (0, import_react2.useRef)(null);
-  const chatMessagesContainerRef = (0, import_react2.useRef)(null);
+  const topicsFiltered = params.topicsFiltered;
+  const wordsToSearch = params.wordsToSearch;
+  const statementsFilteredFromSearch = params.filteredStatements;
+  const dotGraphByCluster = (_b = extractedGraphData.dot_graph_clusters) != null ? _b : { none: [] };
+  const bigrams = extractedGraphData.bigrams;
+  const topWords = extractedGraphData.top_words;
+  const containerRef = (0, import_react3.useRef)(null);
+  const chatMessagesContainerRef = (0, import_react3.useRef)(null);
+  const vaultName = params.app.vault.getName();
   let similarityThreshold = "0.3";
-  const defaultChatTextString = (_b = params.startingChat) != null ? _b : "";
-  const [chatHistory, setChatHistory] = (0, import_react2.useState)(globalChatHistory);
-  const [isLoadingAiMessage, setIsLoadingAiMessage] = (0, import_react2.useState)(false);
-  const [inputValue, setInputValue] = (0, import_react2.useState)(defaultChatTextString.trim());
-  const [chatResponse, setChatResponse] = (0, import_react2.useState)();
-  const [topicalContext, setTopicalContext] = (0, import_react2.useState)("");
-  const [foundStatements, setFoundStatements] = (0, import_react2.useState)([]);
-  const [shownReferences, setShownReferences] = (0, import_react2.useState)([]);
-  const [copied, setCopied] = (0, import_react2.useState)(false);
-  const [error, setError] = (0, import_react2.useState)(null);
-  const [exporting, setExporting] = (0, import_react2.useState)(false);
+  const defaultChatTextString = (_c = params.startingChat) != null ? _c : "";
+  const currentPlatform8 = import_obsidian4.Platform.isMobileApp || import_obsidian4.Platform.isMobile ? "mobile" : "desktop";
+  const [chatHistory, setChatHistory] = (0, import_react3.useState)(globalChatHistory);
+  const [isLoadingAiMessage, setIsLoadingAiMessage] = (0, import_react3.useState)(false);
+  const [inputValue, setInputValue] = (0, import_react3.useState)(defaultChatTextString.trim());
+  const [chatResponse, setChatResponse] = (0, import_react3.useState)();
+  const [graphContext, setGraphContext] = (0, import_react3.useState)("");
+  const [conceptualContext, setConceptualContext] = (0, import_react3.useState)(
+    ""
+  );
+  const [aiChatClusters, setAiChatClusters] = (0, import_react3.useState)({});
+  const [foundStatements, setFoundStatements] = (0, import_react3.useState)([]);
+  const [shownReferences, setShownReferences] = (0, import_react3.useState)([]);
+  const [copied, setCopied] = (0, import_react3.useState)(false);
+  const [error, setError] = (0, import_react3.useState)(null);
+  const [exporting, setExporting] = (0, import_react3.useState)(false);
+  const [beyondContext, setBeyondContext] = (0, import_react3.useState)(false);
+  const [showSubprompt, setShowSubprompt] = (0, import_react3.useState)(false);
+  const [subpromptValue, setSubpromptValue] = (0, import_react3.useState)("");
+  const [subpromptOptions, setSubpromptOptions] = (0, import_react3.useState)([]);
+  const [showDropdown, setShowDropdown] = (0, import_react3.useState)(false);
+  const dropdownRef = (0, import_react3.useRef)(null);
+  const toggleBeyondContext = () => {
+    setBeyondContext((prev) => !prev);
+  };
   const exportToInfraNodus = {
     type: SETTINGS.EXPORT_TYPE,
     graphName: SETTINGS.CONTEXT_NAME
   };
   const auth_token = SETTINGS.INFRANODUS_API_KEY;
   const decodedToken = auth_token ? jwtDecode(auth_token) : {};
-  const [currentUser, setCurrentUser] = (0, import_react2.useState)(
+  const [currentUser, setCurrentUser] = (0, import_react3.useState)(
     decodedToken && decodedToken.user ? decodedToken.user.id : ""
   );
-  (0, import_react2.useEffect)(() => {
+  (0, import_react3.useEffect)(() => {
     globalChatHistory.forEach(({ id }) => animateChatMessageIn(id));
+    if (localStorage.getItem("chatBeyondContext") == "true") {
+      setBeyondContext(true);
+    }
+    if (localStorage.getItem("chatSubpromptOptions") && localStorage.getItem("chatSubpromptOptions") !== "null") {
+      setSubpromptOptions(
+        JSON.parse(localStorage.getItem("chatSubpromptOptions"))
+      );
+    } else {
+      setSubpromptOptions([
+        "elaborate on this statement:",
+        "challege this idea:",
+        "generate an interesting question:",
+        "summarize it:",
+        "check if it's true:"
+      ]);
+    }
   }, []);
-  const animateChatMessageIn = (0, import_react2.useCallback)(
+  (0, import_react3.useEffect)(() => {
+    localStorage.setItem(
+      "chatBeyondContext",
+      JSON.stringify(beyondContext)
+    );
+  }, [beyondContext]);
+  (0, import_react3.useEffect)(() => {
+    localStorage.setItem(
+      "chatSubpromptOptions",
+      JSON.stringify(subpromptOptions)
+    );
+  }, [subpromptOptions]);
+  const animateChatMessageIn = (0, import_react3.useCallback)(
     async (id) => {
       var _a2;
       await new Promise((resolve) => setTimeout(resolve, 0));
@@ -33342,6 +33830,82 @@ var GraphViewOverlayChat = (params) => {
     },
     [containerRef.current]
   );
+  (0, import_react3.useEffect)(() => {
+    generateGraphContext();
+  }, [wordsToSearch, topicsFiltered, topicsExtracted, dotGraphByCluster]);
+  function generateGraphContext() {
+    const chatClusters = {
+      filtered_topics: [],
+      concepts: [],
+      all_topics: []
+    };
+    const conceptsInTopics = topicsFiltered && topicsFiltered.length > 0 && topicsExtracted ? topicsFiltered.map(
+      (id) => {
+        var _a2;
+        return `{topic: ${id}, concepts: "${(_a2 = topicsExtracted.find((topic) => {
+          if (topic.id === id) {
+            chatClusters["filtered_topics"].push(topic);
+            return true;
+          }
+        })) == null ? void 0 : _a2.words.slice(0, 9).join(", ")}"}`;
+      }
+    ).join(";\n") : wordsToSearch && wordsToSearch.length > 0 ? `${wordsToSearch.map((word) => {
+      chatClusters["concepts"].push(word);
+      return word;
+    }).join(", ")}` : `${topicsExtracted.map((topic) => {
+      chatClusters["all_topics"].push(topic);
+      return `{topic: ${topic.id}, concepts: "${topic.words.slice(0, 9).join(", ")}"}`;
+    }).join(";\n")}`;
+    const dotGraphByTopic = topicsFiltered && topicsFiltered.length > 0 ? topicsFiltered.map((id) => dotGraphByCluster[id]).join("\n") : topicsExtracted.map((topic) => {
+      const topicClusters = dotGraphByCluster[topic.id];
+      const clustersToReturn = topicClusters.map((cluster) => {
+        if (!wordsToSearch || wordsToSearch && wordsToSearch.length === 0) {
+          return cluster;
+        }
+        if (wordsToSearch && wordsToSearch.length > 0 && wordsToSearch.some(
+          (word) => cluster.includes(word)
+        )) {
+          return cluster;
+        }
+      }).filter((cluster) => cluster).join(", ");
+      return clustersToReturn;
+    }).filter((cluster) => cluster).join("\n");
+    const dotGraphConnectors = Object.keys(dotGraphByCluster).map((id) => {
+      if (id != "inter_cluster" && id != "top_nodes") {
+        return null;
+      }
+      const extraClusters = dotGraphByCluster[id].slice(0, 4);
+      const clustersToReturn = extraClusters.map((cluster) => {
+        if ((!wordsToSearch || wordsToSearch && wordsToSearch.length === 0) && (!topicsFiltered || topicsFiltered && topicsFiltered.length === 0)) {
+          return cluster;
+        }
+        if (wordsToSearch && wordsToSearch.length > 0 && wordsToSearch.some(
+          (word) => cluster.includes(word)
+        )) {
+          return cluster;
+        }
+        if (topicsFiltered && topicsFiltered.length > 0) {
+          let clusterToReturn = "";
+          topicsExtracted.forEach((topic) => {
+            if (!topicsFiltered.includes(topic.id))
+              return;
+            if (topic.words.some(
+              (word) => cluster.includes(word)
+            )) {
+              clusterToReturn = cluster;
+            }
+          });
+          return clusterToReturn;
+        }
+      }).filter((cluster) => cluster).join(", ");
+      return clustersToReturn;
+    }).filter((cluster) => cluster).join("\n");
+    const dotGraph = dotGraphByTopic + dotGraphConnectors;
+    const contextToUse = dotGraph || conceptsInTopics;
+    setAiChatClusters(chatClusters);
+    setConceptualContext(conceptsInTopics);
+    setGraphContext(contextToUse);
+  }
   async function addChatMessage() {
     if (isLoadingAiMessage)
       return;
@@ -33350,7 +33914,15 @@ var GraphViewOverlayChat = (params) => {
     setIsLoadingAiMessage(true);
     const id1 = generateId();
     const id2 = generateId();
-    globalChatHistory.push({ type: "user", message: inputValue, id: id1 });
+    const chatMessageToAdd = subpromptValue ? `${subpromptValue}
+${inputValue}` : inputValue;
+    if (showSubprompt)
+      setShowSubprompt(false);
+    globalChatHistory.push({
+      type: "user",
+      message: chatMessageToAdd,
+      id: id1
+    });
     globalChatHistory.push({
       type: "ai",
       status: "loading",
@@ -33365,7 +33937,7 @@ var GraphViewOverlayChat = (params) => {
       (statement) => statement.content
     );
     try {
-      let extractedStatements = await processInput(
+      let extractedStatements = beyondContext ? [] : await processInput(
         inputValue,
         similarityThreshold,
         statementsArray
@@ -33395,7 +33967,19 @@ var GraphViewOverlayChat = (params) => {
           };
         }
       );
-      const allStatementsForChat = [...statementsWithIds];
+      const filteredStatements = statementsFilteredFromSearch.map(
+        (statement, index) => {
+          return {
+            id: lastStatementId + index + 1,
+            content: statement.content,
+            similarity: 1
+          };
+        }
+      );
+      const allStatementsForChat = [
+        ...filteredStatements,
+        ...statementsWithIds
+      ];
       const chatHistoryToAdd = globalChatHistory.map((obj, index) => {
         return { type: obj.type, message: obj.message };
       });
@@ -33403,16 +33987,16 @@ var GraphViewOverlayChat = (params) => {
       chatHistoryToAdd.pop();
       setFoundStatements(allStatementsForChat);
       setShownReferences([]);
-      const promptToGenerate = inputValue + " \n\n <--- answer the question above considering the context & previous conversation we had below ---> \n  \n <--- context as a json list, containing the corresponding id for each statement ---> \n " + JSON.stringify(allStatementsForChat) + " \n <--- previous conversation as a json list, in order (first message is first element in list) ---> \n\n" + JSON.stringify(chatHistoryToAdd) + "\n\n \n <--- each response you provide should be followed with the separator |||| and the ids of the context statements above where you got the information from in square brackets each, e.g.   \n \n first response text |||| [2]\n \n second response text |||| [7][9]\n \n third response text |||| [3][6]\n \n\n";
-      const conceptsInTopics = topicsExtracted.map(
-        (topic) => `{topic: ${topic.id}, concepts: "${topic.words.slice(0, 9).join(", ")}"}`
-      ).join(" | ");
-      setTopicalContext(conceptsInTopics);
-      const dotGraph = extractedGraphData.dot_graph;
-      const graphContext = dotGraph || conceptsInTopics;
+      const existingContextPrompt = !beyondContext ? " \n\n <--- answer the question above considering the context & previous conversation we had below ---> \n  \n <--- context as a json list, containing the corresponding id for each statement ---> \n " + JSON.stringify(allStatementsForChat) : " \n\n <--- answer the question above considering the previous conversation we had below ---> \n ";
+      const addLinksPrompt = !beyondContext ? " \n <--- each response you provide should be followed with the separator |||| and the ids of the context statements above where you got the information from in square brackets each, e.g.   \n \n first response text |||| [2]\n \n second response text |||| [7][9]\n \n third response text |||| [3][6]\n \n\n" : "";
+      const metaPrompt = subpromptValue ? `${subpromptValue}
+` : "";
+      const previousConversationPrompt = " \n <--- previous conversation as a json list, in order (first message is first element in list) ---> \n\n" + JSON.stringify(chatHistoryToAdd) + "\n\n";
+      const promptToGenerate = metaPrompt + inputValue + existingContextPrompt + previousConversationPrompt + addLinksPrompt;
+      const promptForGraph = beyondContext ? "" : graphContext;
       const response = await InfraNodus.generateAdvice({
         prompt: promptToGenerate,
-        promptGraph: graphContext,
+        promptGraph: promptForGraph,
         promptContext: "",
         type: "chatResponse",
         source: "ai_chat",
@@ -33443,7 +34027,7 @@ var GraphViewOverlayChat = (params) => {
       addChatMessage();
     }
   }
-  (0, import_react2.useEffect)(() => {
+  (0, import_react3.useEffect)(() => {
     if (chatHistory.length === 0)
       return;
     const textResponse = chatResponse && chatResponse.choices && chatResponse.choices[0] ? chatResponse.choices[0].message.content : "";
@@ -33474,7 +34058,7 @@ var GraphViewOverlayChat = (params) => {
     setChatHistory(updatedChatHistory);
     setTimeout(() => animateChatMessageIn(id), 100);
   }, [chatResponse]);
-  (0, import_react2.useEffect)(() => {
+  (0, import_react3.useEffect)(() => {
     if (shownReferences.length === 0) {
       const updatedChatHistory2 = [...chatHistory];
       const newChatHistory = updatedChatHistory2.filter(
@@ -33503,39 +34087,54 @@ var GraphViewOverlayChat = (params) => {
       100
     );
   }, [shownReferences]);
-  (0, import_react2.useEffect)(() => {
+  (0, import_react3.useEffect)(() => {
     const chatContainer = chatMessagesContainerRef.current;
     if (!chatContainer)
       return;
     chatContainer.scrollTop = chatContainer.scrollHeight;
   }, [chatHistory]);
-  (0, import_react2.useEffect)(() => {
+  (0, import_react3.useEffect)(() => {
     if (!copied)
       return;
     const timer = setTimeout(() => setCopied(false), 500);
     return () => clearTimeout(timer);
   }, [copied]);
-  return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(import_jsx_runtime.Fragment, { children: [
-    error && /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", { className: "text-sm font-bold", children: error }),
-    /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
+  const [showChatContext, setShowChatContext] = (0, import_react3.useState)(false);
+  function toggleChatContext() {
+    setShowChatContext(!showChatContext);
+  }
+  return /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(import_jsx_runtime3.Fragment, { children: [
+    error && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("p", { className: "text-sm font-bold", children: error }),
+    /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
       "div",
       {
-        className: "absolute p-2 z-10 top-2 left-2 right-3 @[420px]/main:w-[400px] flex flex-col items-stretch text-black dark:text-white bg-gray-300 dark:bg-gray-800 pt-2 rounded ",
+        className: "absolute p-2 z-10 top-2 left-12 right-3 @[420px]/main:w-[376px] flex flex-col items-stretch text-black dark:text-white bg-gray-300 dark:bg-gray-800 pt-2 rounded ",
         ref: containerRef,
         children: [
-          /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex flex-row gap-2 ml-auto", children: [
-            /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
+          /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-row gap-2 ml-auto mb-2", children: [
+            /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
+              "div",
+              {
+                className: "bg-gray-350 hover:bg-gray-400 dark:bg-gray-950 dark:hover:bg-[#101722] rounded px-2 flex flex-row gap-2 items-center h-7 transition-colors cursor-pointer",
+                onClick: () => toggleChatContext(),
+                children: [
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(QuoteIcon, { size: 16 }),
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-[13px] -ml-1 font-semibold", children: "Context" })
+                ]
+              }
+            ),
+            /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
               "div",
               {
                 className: "bg-gray-350 hover:bg-gray-400 dark:bg-gray-950 dark:hover:bg-[#101722] rounded px-2 flex flex-row gap-2 items-center h-7 transition-colors cursor-pointer",
                 onClick: () => clearChatHistory(),
                 children: [
-                  /* @__PURE__ */ (0, import_jsx_runtime.jsx)(IterationsIcon, { size: 16 }),
-                  /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { className: "text-[13px] font-semibold", children: "Clear" })
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(IterationsIcon, { size: 16 }),
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-[13px] -ml-1 font-semibold", children: "Clear" })
                 ]
               }
             ),
-            /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
+            /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
               "div",
               {
                 className: "bg-gray-350 hover:bg-gray-400 dark:bg-gray-950 dark:hover:bg-[#101722] rounded px-2 flex flex-row gap-2 items-center h-7 transition-colors cursor-pointer",
@@ -33550,42 +34149,95 @@ var GraphViewOverlayChat = (params) => {
                   setCopied(true);
                 },
                 children: [
-                  copied ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CopyIcon, { size: 16 }),
-                  /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { className: "text-[13px] font-semibold", children: "Copy History" })
+                  copied ? /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CopyIcon, { size: 16 }),
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-[13px] -ml-1  font-semibold", children: "Copy" })
                 ]
               }
             ),
-            /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
+            /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
               "div",
               {
                 className: "bg-gray-350 hover:bg-gray-400 dark:bg-gray-950 dark:hover:bg-[#101722] rounded px-2 flex flex-row gap-2 items-center h-7 transition-colors cursor-pointer",
                 onClick: () => params.closeChat(),
                 children: [
-                  /* @__PURE__ */ (0, import_jsx_runtime.jsx)(XIcon, { size: 16 }),
-                  /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { className: "text-[13px] font-semibold", children: "Close" })
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(XIcon, { size: 16 }),
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-[13px] -ml-1 font-semibold", children: "Close" })
                 ]
               }
             )
           ] }),
-          /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+          showChatContext && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "flex flex-row gap-1", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+            "div",
+            {
+              className: `relative flex w-full flex-col gap-1 rounded px-2 py-2 mt-0 bg-gray-400 dark:bg-gray-950 border border-gray-600 dark:border-gray-900 text-black dark:text-white text-sm overflow-hidden`,
+              children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                AiChatTextContext,
+                {
+                  aiChatClusters,
+                  toggleChatContext,
+                  navigator,
+                  beyondContext
+                }
+              )
+            }
+          ) }),
+          /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
             "div",
             {
               className: "min-h-[30vh] max-h-[40vh] overflow-y-auto flex flex-col gap-4 w-full mt-auto py-2",
               ref: chatMessagesContainerRef,
               children: chatHistory.map(
-                ({ id, type, message, references, status }, index) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
+                ({ id, type, message, references, status }, index) => /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
                   "div",
                   {
                     id: id.toString(),
                     className: `group transition-all transform duration-500 -translate-y-[10px] opacity-0 flex flex-row items-center gap-2 max-w-[280px] text-black dark:text-white ${type === "user" ? "ml-auto" : "mr-auto"}`,
                     children: [
-                      /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
+                      type != "ai" && type != "ref" && status !== "loading" && /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col items-center gap-1 transition-opacity opacity-0 group-hover:opacity-100", children: [
+                        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                          "div",
+                          {
+                            className: "cursor-pointer",
+                            onClick: () => {
+                              navigator.clipboard.writeText(
+                                message
+                              );
+                              setCopied(true);
+                            },
+                            children: copied ? /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CopyIcon, { size: 16 })
+                          }
+                        ),
+                        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                          "div",
+                          {
+                            className: "cursor-pointer",
+                            onClick: () => {
+                              goToInfraNodus({
+                                text: message,
+                                previousMessage: "",
+                                graphContext,
+                                currentUser,
+                                exportToInfraNodus,
+                                setExporting,
+                                vaultName
+                              });
+                            },
+                            children: exporting ? /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                              CrossReferenceIcon,
+                              {
+                                size: 14
+                              }
+                            )
+                          }
+                        )
+                      ] }),
+                      /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
                         "span",
                         {
-                          className: `rounded p-2 px-4 bg-gray-400 dark:bg-gray-900 relative ${status === "loading" && "animate-pulse"}`,
+                          className: `rounded ${currentPlatform8 == "mobile" ? "text-sm" : "text-base"}  p-2 px-4 bg-gray-400 dark:bg-gray-900 relative ${status === "loading" && "animate-pulse"}`,
                           children: [
-                            /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("span", { children: [
-                              /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+                            /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("span", { children: [
+                              /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
                                 "span",
                                 {
                                   className: `${type == "ref" ? "cursor-pointer" : ""}`,
@@ -33595,7 +34247,7 @@ var GraphViewOverlayChat = (params) => {
                                   children: message
                                 }
                               ),
-                              references == null ? void 0 : references.map((ref, index2) => /* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
+                              references == null ? void 0 : references.map((ref, index2) => /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { children: /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
                                 "a",
                                 {
                                   href: "#/",
@@ -33608,14 +34260,14 @@ var GraphViewOverlayChat = (params) => {
                                 }
                               ) }, index2))
                             ] }),
-                            type === "ai" && /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+                            type === "ai" && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
                               "span",
                               {
                                 className: `absolute bottom-[1px] right-1 text-sm text-gray-700 dark:text-gray-400`,
                                 children: "ai"
                               }
                             ),
-                            type === "ref" && /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+                            type === "ref" && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
                               "span",
                               {
                                 className: `absolute bottom-[1px] right-1 text-sm text-gray-700 dark:text-gray-400`,
@@ -33625,8 +34277,8 @@ var GraphViewOverlayChat = (params) => {
                           ]
                         }
                       ),
-                      type === "ai" && status !== "loading" && /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex flex-col items-center gap-1 transition-opacity opacity-0 group-hover:opacity-100", children: [
-                        /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+                      type === "ai" && status !== "loading" && /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col items-center gap-1 transition-opacity opacity-0 group-hover:opacity-100", children: [
+                        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
                           "div",
                           {
                             className: "cursor-pointer",
@@ -33636,10 +34288,10 @@ var GraphViewOverlayChat = (params) => {
                               );
                               setCopied(true);
                             },
-                            children: copied ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CopyIcon, { size: 16 })
+                            children: copied ? /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CopyIcon, { size: 16 })
                           }
                         ),
-                        /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+                        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
                           "div",
                           {
                             className: "cursor-pointer",
@@ -33647,18 +34299,19 @@ var GraphViewOverlayChat = (params) => {
                               goToInfraNodus({
                                 text: message,
                                 previousMessage: chatHistory[index - 1].message,
-                                topicalContext,
+                                graphContext,
                                 currentUser,
                                 exportToInfraNodus,
-                                setExporting
+                                setExporting,
+                                vaultName
                               });
                             },
-                            children: exporting ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CrossReferenceIcon, { size: 14 })
+                            children: exporting ? /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CrossReferenceIcon, { size: 14 })
                           }
                         )
                       ] }),
-                      type === "ref" && /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", { className: "flex flex-col items-center gap-1 transition-opacity opacity-0 group-hover:opacity-100", children: [
-                        /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+                      type === "ref" && /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-col items-center gap-1 transition-opacity opacity-0 group-hover:opacity-100", children: [
+                        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
                           "div",
                           {
                             className: "cursor-pointer",
@@ -33668,10 +34321,10 @@ var GraphViewOverlayChat = (params) => {
                               );
                               setCopied(true);
                             },
-                            children: copied ? /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CopyIcon, { size: 16 })
+                            children: copied ? /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CheckIcon, { size: 16 }) : /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CopyIcon, { size: 16 })
                           }
                         ),
-                        /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
+                        /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
                           "div",
                           {
                             className: "cursor-pointer",
@@ -33679,9 +34332,10 @@ var GraphViewOverlayChat = (params) => {
                               text: message,
                               currentUser,
                               exportToInfraNodus,
-                              setExporting
+                              setExporting,
+                              vaultName
                             }),
-                            children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(CrossReferenceIcon, { size: 14 })
+                            children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(CrossReferenceIcon, { size: 14 })
                           }
                         )
                       ] })
@@ -33692,44 +34346,128 @@ var GraphViewOverlayChat = (params) => {
               )
             }
           ),
-          /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(
-            "form",
-            {
-              className: "relative flex flex-row items-end w-full gap-1 rounded bg-gray-350 dark:bg-gray-900",
-              onSubmit: (e) => {
-                e.preventDefault();
-                addChatMessage();
-              },
-              children: [
-                /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
-                  "textarea",
-                  {
-                    className: "w-full p-2 m-2 text-base text-black bg-transparent border-0 outline-none resize-none dark:text-white",
-                    placeholder: "Enter your question to chat with this content",
-                    rows: 4,
-                    value: inputValue,
-                    onChange: (e) => {
-                      setInputValue(e.target.value);
-                    },
-                    disabled: isLoadingAiMessage,
-                    onKeyDown: onTextAreaKeyDown,
-                    style: {
-                      fontFamily: '-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"'
-                    },
-                    children: defaultChatTextString
+          /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "relative w-full flex flex-col", children: [
+            showSubprompt && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "relative w-full flex items-center gap-2 pt-2 mb-2", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "relative w-full", ref: dropdownRef, children: [
+              /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                "input",
+                {
+                  className: "relative w-full rounded-md px-4 py-1.5 text-base text-black dark:text-white font-normal bg-gray-350 dark:bg-gray-900 border-0 border-b border-gray-300 dark:border-gray-600 focus:border-gray-400 dark:focus:border-gray-500 focus:outline-none transition-colors placeholder:text-gray-400 dark:placeholder:text-gray-500",
+                  value: subpromptValue,
+                  onChange: (e) => setSubpromptValue(e.target.value),
+                  onFocus: () => setShowDropdown(true),
+                  onBlur: () => {
+                    subpromptValue && setSubpromptOptions((prev) => [
+                      .../* @__PURE__ */ new Set([
+                        ...prev,
+                        subpromptValue
+                      ])
+                    ]);
+                    setShowDropdown(false);
+                  },
+                  placeholder: "add an instruction to the prompt below",
+                  style: {
+                    fontWeight: "normal",
+                    boxSizing: "border-box"
                   }
-                ),
-                /* @__PURE__ */ (0, import_jsx_runtime.jsx)(
-                  "button",
-                  {
-                    className: `p-3 rounded bg-gray-400 hover:bg-gray-500 dark:hover:bg-gray-700 dark:bg-gray-600 outline-none border-0 transition-colors cursor-pointer mb-2 mr-2 ${isLoadingAiMessage && "cursor-not-allowed"}`,
-                    type: "submit",
-                    children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(ArrowUpIcon, { size: 18, fill: "white" })
+                }
+              ),
+              showDropdown && /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("div", { className: "absolute z-50 w-fit mt-1 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-md shadow-lg max-h-60 overflow-auto", children: subpromptOptions.map((option) => /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
+                "div",
+                {
+                  className: `px-3 py-2 text-base cursor-pointer bg-white dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 text-black dark:text-white font-normal flex justify-between items-center ${option.toLowerCase().includes(
+                    subpromptValue.toLowerCase()
+                  ) ? "bg-gray-50 dark:bg-gray-750" : ""}`,
+                  onMouseDown: (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    setSubpromptValue(option);
+                    setShowDropdown(false);
+                  },
+                  children: [
+                    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { children: option }),
+                    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                      "div",
+                      {
+                        className: "ml-2 px-1 text-gray-700 hover:text-black bg-white dark:bg-gray-800 dark:text-gray-200 dark:hover:text-white",
+                        onMouseDown: (e) => {
+                          e.preventDefault();
+                          e.stopPropagation();
+                          setSubpromptOptions(
+                            (prev) => prev.filter(
+                              (item) => item !== option
+                            )
+                          );
+                        },
+                        children: "\xD7"
+                      }
+                    )
+                  ]
+                },
+                option
+              )) })
+            ] }) }),
+            /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)(
+              "form",
+              {
+                className: "relative flex flex-row items-end w-full gap-1 rounded bg-gray-350 dark:bg-gray-900",
+                onSubmit: (e) => {
+                  e.preventDefault();
+                  addChatMessage();
+                },
+                children: [
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                    "button",
+                    {
+                      className: `absolute top-2 right-2 px-1 py-1 rounded bg-gray-400 hover:bg-gray-500 dark:hover:bg-gray-700 dark:bg-gray-600 outline-none border-0 transition-colors cursor-pointer  ${isLoadingAiMessage && "cursor-not-allowed"}`,
+                      onClick: (e) => {
+                        e.preventDefault();
+                        setShowSubprompt(!showSubprompt);
+                      },
+                      children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(PlusCircleIcon, { size: 14, fill: "white" })
+                    }
+                  ),
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                    "textarea",
+                    {
+                      className: "w-full p-2 m-2 text-base text-black bg-transparent border-0 outline-none resize-none dark:text-white",
+                      placeholder: "Enter your question to chat with this content",
+                      rows: 4,
+                      value: inputValue,
+                      onChange: (e) => {
+                        setInputValue(e.target.value);
+                      },
+                      disabled: isLoadingAiMessage,
+                      onKeyDown: onTextAreaKeyDown,
+                      style: {
+                        fontFamily: '-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"'
+                      },
+                      children: defaultChatTextString
+                    }
+                  ),
+                  /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                    "button",
+                    {
+                      className: `p-3 rounded bg-gray-400 hover:bg-gray-500 dark:hover:bg-gray-700 dark:bg-gray-600 outline-none border-0 transition-colors cursor-pointer mb-2 mr-2 ${isLoadingAiMessage && "cursor-not-allowed"}`,
+                      type: "submit",
+                      children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(ArrowUpIcon, { size: 18, fill: "white" })
+                    }
+                  )
+                ]
+              }
+            ),
+            /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "flex flex-row items-center gap-2 p-2 border-t-[1px] border-solid border-transparent border-t-black", children: [
+              /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(InfoTooltip, { text: "Generate ideas beyond the context of this graph", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+                ToggleButton,
+                {
+                  toggle: beyondContext,
+                  onClick: () => {
+                    toggleBeyondContext();
                   }
-                )
-              ]
-            }
-          )
+                }
+              ) }),
+              /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("span", { className: "text-[13px]", children: "go beyond this context" })
+            ] })
+          ] })
         ]
       }
     )
@@ -33761,13 +34499,14 @@ function scrollToText(text) {
 async function goToInfraNodus({
   text,
   previousMessage = void 0,
-  topicalContext = null,
+  graphContext = null,
   currentUser = void 0,
   exportToInfraNodus = void 0,
-  setExporting
+  setExporting,
+  vaultName = ""
 }) {
   const contextName = SETTINGS.CONTEXT_NAME;
-  const linkToOpen = `https://infranodus.com/import/editor?text=${encodeURIComponent(
+  const linkToOpen = `${SETTINGS.INFRANODUS_API_URL}/import/editor?text=${encodeURIComponent(
     text
   )}&context=${encodeURIComponent(contextName)}`;
   if (exportToInfraNodus && exportToInfraNodus.type === "auto") {
@@ -33775,7 +34514,17 @@ async function goToInfraNodus({
       `context: ${SETTINGS.CONTEXT_NAME}`,
       `source: chat respose`
     ];
-    const graphName = exportToInfraNodus.graphName || "extension_clips";
+    let graphName = encodeInfraNodusGraphName(
+      exportToInfraNodus.graphName,
+      SETTINGS.CONTEXT_NAME,
+      vaultName
+    );
+    graphName = await new Promise((resolve) => {
+      new GraphNameModal(app, graphName, resolve).open();
+    }) || "";
+    if (!graphName) {
+      return;
+    }
     setExporting(true);
     const exportStatus = await InfraNodus.exportText({
       contextName: graphName,
@@ -33796,154 +34545,39 @@ async function goToInfraNodus({
 }
 
 // src/components/IconButton.tsx
-var import_jsx_runtime2 = __toESM(require_jsx_runtime());
-var IconButton = (params) => {
-  return /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(
-    "div",
-    {
-      className: "p-2 transition-colors bg-gray-300 rounded cursor-pointer dark:bg-gray-800 hover:bg-gray-350 dark:hover:bg-gray-700",
-      onClick: () => params.onClick(),
-      children: /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("span", { className: "flex flex-row items-center justify-end text-black dark:text-white", children: /* @__PURE__ */ (0, import_jsx_runtime2.jsx)(params.icon, { size: 16 }) })
-    }
-  );
-};
-
-// src/components/ToggleButton.tsx
-var import_jsx_runtime3 = __toESM(require_jsx_runtime());
-var ToggleButton = (params) => {
-  return /* @__PURE__ */ (0, import_jsx_runtime3.jsx)("label", { className: "flex items-center cursor-pointer", children: /* @__PURE__ */ (0, import_jsx_runtime3.jsxs)("div", { className: "relative", children: [
-    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
-      "input",
-      {
-        type: "checkbox",
-        className: "sr-only",
-        checked: params.toggle,
-        onChange: params.onClick
-      }
-    ),
-    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
+var React3 = __toESM(require_react());
+var import_jsx_runtime4 = __toESM(require_jsx_runtime());
+var IconButton = React3.forwardRef(
+  (props, ref) => {
+    return /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(
       "div",
       {
-        className: `block bg-gray-400 dark:bg-gray-600 w-8 h-5 rounded-full ${params.toggle ? "bg-green-400 dark:bg-green-400" : ""}`
+        ref,
+        className: `${props.width ? `w-${props.width}` : ""} flex flex-row items-center justify-end p-2 transition-colors bg-gray-300 rounded cursor-pointer dark:bg-gray-800 hover:bg-gray-350 dark:hover:bg-gray-700`,
+        onClick: () => props.onClick(),
+        children: /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)("span", { className: "flex flex-row items-center justify-end text-black dark:text-white", children: [
+          /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(
+            props.icon,
+            {
+              size: 16,
+              className: `${props.className ? props.className : ""}`
+            }
+          ),
+          props.label && /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("span", { className: "ml-2 text-sm", children: props.label })
+        ] })
       }
-    ),
-    /* @__PURE__ */ (0, import_jsx_runtime3.jsx)(
-      "div",
-      {
-        className: `dot absolute left-1 top-1 bg-white w-3 h-3 rounded-full transition ${params.toggle ? "translate-x-full" : ""}`
-      }
-    )
-  ] }) });
-};
-
-// src/components/InfoTootip.tsx
-var React2 = __toESM(require_react());
-var import_react3 = __toESM(require_react());
-var import_jsx_runtime4 = (
-  // <div className="relative inline-block">
-  // <>
-  // 	<div ref={childRef}>{children}</div>
-  // </>
-  __toESM(require_jsx_runtime())
+    );
+  }
 );
-var InfoTooltip = ({
-  text,
-  direction = "bottom",
-  distance = 4,
-  children,
-  isAbsolute = false
-}) => {
-  const tooltipRef = (0, import_react3.useRef)(null);
-  const childRef = (0, import_react3.useRef)(null);
-  (0, import_react3.useEffect)(() => {
-    const div = document.createElement("div");
-    div.style.position = "absolute";
-    div.style.zIndex = "10";
-    div.style.visibility = "hidden";
-    div.style.padding = "0.5rem";
-    div.style.fontSize = "0.75rem";
-    div.style.color = "white";
-    div.style.transitionProperty = "opacity";
-    div.style.transitionDuration = "0.3s";
-    div.style.backgroundColor = "rgba(0, 0, 0, 1)";
-    div.style.borderRadius = "0.25rem";
-    div.style.opacity = "0";
-    div.style.maxWidth = "250px";
-    div.innerHTML = text;
-    document.body.appendChild(div);
-    tooltipRef.current = div;
-  }, [children]);
-  (0, import_react3.useEffect)(() => {
-    const tooltip = tooltipRef.current;
-    const child = childRef.current;
-    if (!tooltip || !child)
-      return;
-    const firstChild = React2.Children.toArray(
-      children
-    )[0];
-    const clonedChild = React2.cloneElement(firstChild, { ref: childRef });
-    let timeout = null;
-    const handleMouseEnter = () => {
-      timeout = setTimeout(() => {
-        matchLocationWithDirection(child, tooltip, direction, distance);
-        tooltip.style.visibility = "visible";
-        tooltip.style.opacity = "1";
-      }, 300);
-    };
-    const handleMouseLeave = () => {
-      if (timeout) {
-        clearTimeout(timeout);
-        timeout = null;
-      }
-      tooltip.style.visibility = "hidden";
-      tooltip.style.opacity = "0";
-    };
-    child.addEventListener("mouseenter", handleMouseEnter);
-    child.addEventListener("mouseleave", handleMouseLeave);
-    return () => {
-      tooltip.remove();
-      child.removeEventListener("mouseenter", handleMouseEnter);
-      child.removeEventListener("mouseleave", handleMouseLeave);
-    };
-  }, [direction, distance, children]);
-  const matchLocationWithDirection = (child, tooltip, direction2, distance2) => {
-    const childRect = child.getBoundingClientRect();
-    const tooltipRect = tooltip.getBoundingClientRect();
-    switch (direction2) {
-      case "left":
-        tooltip.style.left = `${childRect.left - tooltipRect.width - distance2}px`;
-        tooltip.style.top = `${childRect.top + childRect.height / 2 - tooltipRect.height / 2}px`;
-        break;
-      case "right":
-        tooltip.style.left = `${childRect.right + distance2}px`;
-        tooltip.style.top = `${childRect.top + childRect.height / 2 - tooltipRect.height / 2}px`;
-        break;
-      case "top":
-        tooltip.style.top = `${childRect.top - tooltipRect.height - distance2}px`;
-        tooltip.style.left = `${childRect.left - tooltipRect.width / 2}px`;
-        break;
-      case "bottom":
-        tooltip.style.top = `${childRect.bottom + distance2}px`;
-        tooltip.style.left = `${childRect.left - (tooltipRect.width - childRect.width) / 2}px`;
-        break;
-      default:
-        throw new Error("Invalid direction");
-    }
-  };
-  return /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(import_jsx_runtime4.Fragment, { children: isAbsolute ? React2.cloneElement(
-    React2.Children.toArray(children)[0],
-    { ref: childRef }
-  ) : /* @__PURE__ */ (0, import_jsx_runtime4.jsx)("div", { ref: childRef, children }) });
-};
 
 // src/graph_view/components/GraphViewOverlay.tsx
-var import_obsidian6 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 
 // src/graph_view/lib/jumpToStatement.ts
-var import_obsidian5 = require("obsidian");
+var import_obsidian7 = require("obsidian");
 
 // src/utils/files.ts
-var import_obsidian3 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 
 // src/utils/observer.ts
 var attributeElementsFunctionMap = /* @__PURE__ */ new Map();
@@ -34005,13 +34639,13 @@ function unObserveAll() {
 
 // src/utils/files.ts
 var import_markdown_to_txt = __toESM(require_markdown_to_txt());
-async function getMentionsOfFile(app, filePath, searchWords) {
-  const file = app.vault.getAbstractFileByPath(filePath);
+async function getMentionsOfFile(app2, filePath, searchWords) {
+  const file = app2.vault.getAbstractFileByPath(filePath);
   if (!file)
     return;
-  const isFolder = file instanceof import_obsidian3.TFolder;
+  const isFolder = file instanceof import_obsidian5.TFolder;
   if (!isFolder)
-    await focusOrOpenFile(app, file.path);
+    await focusOrOpenFile(app2, file.path);
   if (searchWords.length === 0)
     return;
   searchWords = searchWords.map((word) => {
@@ -34048,13 +34682,12 @@ async function getMentionsOfFile(app, filePath, searchWords) {
   await new Promise((r) => setTimeout(r, 500));
 }
 async function openLeafWithPath(file, workspace) {
-  var _a;
   let leaf;
   workspace.iterateAllLeaves((openLeaf) => {
-    var _a2;
-    const isMarkdownView = openLeaf.view instanceof import_obsidian3.MarkdownView;
+    var _a;
+    const isMarkdownView = openLeaf.view instanceof import_obsidian5.MarkdownView;
     const isInMainPane = openLeaf.getRoot() === workspace.rootSplit;
-    if (openLeaf.view instanceof import_obsidian3.FileView && ((_a2 = openLeaf.view.file) == null ? void 0 : _a2.path) === file.path && isMarkdownView && isInMainPane) {
+    if (openLeaf.view instanceof import_obsidian5.FileView && ((_a = openLeaf.view.file) == null ? void 0 : _a.path) === file.path && isMarkdownView && isInMainPane) {
       leaf = openLeaf;
       return true;
     }
@@ -34064,23 +34697,24 @@ async function openLeafWithPath(file, workspace) {
     workspace.setActiveLeaf(leaf);
     workspace.revealLeaf(leaf);
   } else {
-    await workspace.openLinkText(file.path, file.path, true);
-    leaf = (_a = workspace.getActiveViewOfType(import_obsidian3.MarkdownView)) == null ? void 0 : _a.leaf;
+    const currentLeaf = workspace.getLeaf();
+    await currentLeaf.openFile(file, { active: true });
+    leaf = currentLeaf;
   }
   await new Promise((r) => setTimeout(r, 250));
   return leaf;
 }
 async function fileWithText(params) {
-  const { app, textToFind, file } = params;
-  if (file instanceof import_obsidian3.TFile) {
-    const content = await app.vault.read(file);
+  const { app: app2, textToFind, file } = params;
+  if (file instanceof import_obsidian5.TFile) {
+    const content = await app2.vault.read(file);
     if (content.contains(textToFind)) {
       return file;
     }
     return null;
-  } else if (file instanceof import_obsidian3.TFolder) {
+  } else if (file instanceof import_obsidian5.TFolder) {
     for (const child of file.children) {
-      const found = await fileWithText({ file: child, app, textToFind });
+      const found = await fileWithText({ file: child, app: app2, textToFind });
       if (found)
         return found;
     }
@@ -34118,20 +34752,20 @@ async function findFileWithText(params) {
   }
   return null;
 }
-async function focusOrOpenFile(app, filePath, textToFind) {
-  const workspace = app.workspace;
-  const file = app.vault.getAbstractFileByPath(filePath);
-  if (file instanceof import_obsidian3.TFile) {
+async function focusOrOpenFile(app2, filePath, textToFind) {
+  const workspace = app2.workspace;
+  const file = app2.vault.getAbstractFileByPath(filePath);
+  if (file instanceof import_obsidian5.TFile) {
     return await openLeafWithPath(file, workspace);
-  } else if (file instanceof import_obsidian3.TFolder && textToFind) {
+  } else if (file instanceof import_obsidian5.TFolder && textToFind) {
     async function fileWithText2(file2) {
-      if (file2 instanceof import_obsidian3.TFile) {
-        const content = (await app.vault.read(file2)).toLowerCase();
+      if (file2 instanceof import_obsidian5.TFile) {
+        const content = (await app2.vault.read(file2)).toLowerCase();
         if (content.contains(textToFind)) {
           return file2;
         }
         return null;
-      } else if (file2 instanceof import_obsidian3.TFolder) {
+      } else if (file2 instanceof import_obsidian5.TFolder) {
         for (const child of file2.children) {
           const found = await fileWithText2(child);
           if (found)
@@ -34149,11 +34783,11 @@ async function focusOrOpenFile(app, filePath, textToFind) {
     console.error(`File not found: ${filePath}`);
   }
 }
-async function unhighlightStatements(app, statements) {
-  const workspace = app.workspace;
+async function unhighlightStatements(app2, statements) {
+  const workspace = app2.workspace;
   const elementsUnhighlighted = [];
   workspace.iterateAllLeaves((openLeaf) => {
-    if (!(openLeaf.view instanceof import_obsidian3.FileView))
+    if (!(openLeaf.view instanceof import_obsidian5.FileView))
       return;
     const html = openLeaf.view.containerEl.querySelectorAll(
       ".infranodus-plugin-yellow-highlight"
@@ -34351,13 +34985,12 @@ async function getLinkedUnlinkedMentionsOfFile(params) {
   let linkedCount = 0;
   let unlinkedCount = 0;
   let filesRead = 0;
+  const activeFile = this.app.workspace.getActiveFile();
   if (params.includeLinked) {
-    const activeFile = this.app.workspace.getActiveFile();
     const backlinks = activeFile ? this.app.metadataCache.getBacklinksForFile(activeFile) : {};
     const backlinksData = backlinks.data;
-    if (backlinksData && Object.keys(backlinksData).length > 0) {
-      for (const file in backlinksData) {
-        const fileBacklinks = backlinksData[file];
+    if (backlinksData && backlinksData.size > 0) {
+      for (const [file, fileBacklinks] of backlinksData.entries()) {
         if (file == filePath)
           continue;
         const fileToOpen = this.app.vault.getAbstractFileByPath(file);
@@ -34380,15 +35013,11 @@ async function getLinkedUnlinkedMentionsOfFile(params) {
   }
   if (params.includeUnlinked) {
     const root = params.app.vault.getRoot();
-    await readAbstractFile(root);
-    if (statementMentions.length === 0 && params.useOwnUnlinkedSearch) {
-      await readAbstractFile(root, true);
-    }
+    await addUnlinkedToStatementMentions(root, params.useOwnUnlinkedSearch);
   }
-  return statementMentions;
-  async function readAbstractFile(file, sanitizeText = false) {
-    var _a;
-    if (file instanceof import_obsidian3.TFile) {
+  return statementMentions || [];
+  async function addUnlinkedToStatementMentions(file, useOwnUnlinkedSearch = false) {
+    if (file instanceof import_obsidian5.TFile) {
       if (!file.path.endsWith(".md"))
         return;
       if (params.excludePaths.includes(file.path))
@@ -34397,102 +35026,62 @@ async function getLinkedUnlinkedMentionsOfFile(params) {
       const contentToAdd = await params.app.vault.read(file);
       const statements = contentToAdd.split("\n");
       for (const statement of statements) {
-        const statementLinks = (_a = statement.match(regex)) != null ? _a : [];
-        let linkTest = false;
-        if (sanitizeText) {
-          for (const link of statementLinks) {
-            const linkSan = sanitizeNavigateLinkFromName(link);
-            if (linkSan.contains("|")) {
-              let path = linkSan.split("|")[0];
-              if (!path.endsWith(".md"))
-                path += ".md";
-              if (filepathSanitized === path) {
-                linkTest = true;
-                break;
-              }
-            } else if (linkSan == null ? void 0 : linkSan.toLowerCase().includes(titleSanitized == null ? void 0 : titleSanitized.toLowerCase())) {
-              linkTest = true;
-              break;
-            }
-          }
-          if (params.useOwnUnlinkedSearch && params.includeUnlinked && sanitizeNavigateLinkFromName(statement).includes(
-            titleSanitized
-          ) && !linkTest) {
-            if (statementMentions.indexOf(statement) == -1) {
-              statementMentions.push(statement);
-            }
-            unlinkedCount++;
-          }
+        if (!statement)
           continue;
-        }
-        for (const link of statementLinks) {
-          if (link.contains("|")) {
-            let path = link.split("|")[0].slice(2);
-            if (!path.endsWith(".md"))
-              path += ".md";
-            if (filePath === path) {
-              linkTest = true;
-              break;
-            }
-          } else if (link == null ? void 0 : link.toLowerCase().includes(titleLink == null ? void 0 : titleLink.toLowerCase())) {
-            linkTest = true;
-            break;
-          }
-        }
-        if (!params.useOwnUnlinkedSearch && params.includeUnlinked && linkTest) {
-          if (statementMentions.indexOf(statement) == -1) {
-            statementMentions.push(statement);
-          }
-        }
-        if (params.useOwnUnlinkedSearch && params.includeUnlinked && statement.toLowerCase().includes(titleLower) && !linkTest) {
-          if (statementMentions.indexOf(statement) == -1) {
-            statementMentions.push(statement);
-          }
-          unlinkedCount++;
+        const wordInStatement = useOwnUnlinkedSearch ? statement.toLowerCase().includes(titleLower) : new RegExp(`\\b${titleLower}\\b`, "gi").test(
+          statement.toLowerCase()
+        );
+        if (wordInStatement && statementMentions.indexOf(statement) == -1) {
+          statementMentions.push(statement);
         }
       }
-    } else if (file instanceof import_obsidian3.TFolder) {
+    } else if (file instanceof import_obsidian5.TFolder) {
       const promises = file.children.map(
-        (child) => readAbstractFile(child, sanitizeText)
+        (child) => addUnlinkedToStatementMentions(child, useOwnUnlinkedSearch)
       );
       await Promise.all(promises);
     }
   }
 }
 async function getContentsFromFilePath(params) {
-  const { filePath, app } = params;
-  if (!filePath || !app)
+  const { filePath, app: app2 } = params;
+  if (!filePath || !app2)
     return;
-  const abstractFile = app.vault.getAbstractFileByPath(filePath);
+  const abstractFile = app2.vault.getAbstractFileByPath(filePath);
   if (!abstractFile)
     return;
-  if (abstractFile instanceof import_obsidian3.TFile) {
-    let content = await app.vault.read(abstractFile);
+  if (abstractFile instanceof import_obsidian5.TFile) {
+    let content = await app2.vault.read(abstractFile);
     if (!params.ignoreLinkedUnlinked) {
       const statementMentions = await getLinkedUnlinkedMentionsOfFile({
-        app,
+        app: app2,
         file: abstractFile,
         excludePaths: [filePath],
         includeLinked: SETTINGS.INCLUDE_LINKED_MENTIONS === "For all pages" || SETTINGS.INCLUDE_LINKED_MENTIONS === "For empty pages only" && !content.trim(),
         includeUnlinked: SETTINGS.INCLUDE_UNLINKED_MENTIONS === "For all pages" || SETTINGS.INCLUDE_UNLINKED_MENTIONS === "For empty pages only" && !content.trim(),
         useOwnUnlinkedSearch: SETTINGS.USE_OWN_UNLINKED_SEARCH === "yes"
-      });
+      }) || [];
       statementMentions.forEach(
         (statement) => content += statement + "\n"
       );
     }
-    return { content };
-  } else if (abstractFile instanceof import_obsidian3.TFolder) {
+    const pageNames = [[abstractFile.basename]];
+    return { content, pageNames };
+  } else if (abstractFile instanceof import_obsidian5.TFolder) {
     const files = [];
     let content = "";
+    const statements = [];
+    const pageNames = [];
     async function readAbstractFile(file) {
-      if (file instanceof import_obsidian3.TFile) {
+      if (file instanceof import_obsidian5.TFile) {
         if (!file.path.endsWith(".md"))
           return;
-        const contentToAdd = await app.vault.read(file);
+        const contentToAdd = await app2.vault.read(file);
         content += contentToAdd + "\n\n";
         files.push({ path: file.path, content: contentToAdd });
-      } else if (file instanceof import_obsidian3.TFolder) {
+        statements.push(contentToAdd);
+        pageNames.push([file.basename]);
+      } else if (file instanceof import_obsidian5.TFolder) {
         const promises = file.children.map(
           (child) => readAbstractFile(child)
         );
@@ -34500,7 +35089,7 @@ async function getContentsFromFilePath(params) {
       }
     }
     await readAbstractFile(abstractFile);
-    return { content, files };
+    return { content, files, statements, pageNames };
   }
   return;
 }
@@ -34512,38 +35101,60 @@ function sanitizeNavigateLinkFromName(link) {
   link = link.replace(/ /g, "");
   return link.toLowerCase().trim();
 }
-function findFileFromName(app, name) {
+function findFileFromName(app2, name) {
   const filesFound = {
     base: null,
     lower: null,
     sanitized: null
   };
-  const fName = name;
-  const fNameMd = name + ".md";
-  const fNameLow = name.toLowerCase();
-  const fNameLowMd = name.toLowerCase() + ".md";
-  const fNameSanitized = sanitizeNavigateLinkFromName(name);
-  const fNameSanitizedMd = fNameSanitized + ".md";
+  const generateVariations = (str) => {
+    const words = str.split(/[_\s-]+/);
+    if (words.length <= 1)
+      return [str];
+    const separators = [" ", "-", "_"];
+    const results = /* @__PURE__ */ new Set([str]);
+    const generateCombinations = (wordArray, currentStr, position) => {
+      if (position >= wordArray.length - 1) {
+        results.add(currentStr);
+        return;
+      }
+      for (const separator of separators) {
+        generateCombinations(
+          wordArray,
+          currentStr + separator + wordArray[position + 1],
+          position + 1
+        );
+      }
+    };
+    for (const separator of separators) {
+      generateCombinations(words, words[0], 0);
+    }
+    return Array.from(results);
+  };
+  const variations = generateVariations(name);
+  const fNames = variations.flatMap((v) => [v, v + ".md"]);
+  const fNamesLow = fNames.map((n) => n.toLowerCase());
+  const fNamesSanitized = fNames.map((n) => sanitizeNavigateLinkFromName(n));
   let count = 0;
   function findFile(file) {
-    if (file instanceof import_obsidian3.TFile) {
+    if (file instanceof import_obsidian5.TFile) {
       count++;
       const fn = file.name;
-      if (fn === fName || fn === fNameMd) {
+      if (fNames.includes(fn)) {
         filesFound.base = file;
         return;
       }
       const fnLow = fn.toLowerCase();
-      if (fnLow === fNameLow || fnLow === fNameLowMd) {
+      if (fNamesLow.includes(fnLow)) {
         filesFound.lower = file;
         return;
       }
       const fnSan = sanitizeNavigateLinkFromName(fn);
-      if (fnSan === fNameSanitized || fnSan === fNameSanitizedMd) {
+      if (fNamesSanitized.includes(fnSan)) {
         filesFound.sanitized = file;
         return;
       }
-    } else if (file instanceof import_obsidian3.TFolder) {
+    } else if (file instanceof import_obsidian5.TFolder) {
       for (const child of file.children) {
         findFile(child);
         if (filesFound.base)
@@ -34551,7 +35162,7 @@ function findFileFromName(app, name) {
       }
     }
   }
-  findFile(app.vault.getRoot());
+  findFile(app2.vault.getRoot());
   if (filesFound.base) {
     return filesFound.base;
   }
@@ -34563,14 +35174,14 @@ function findFileFromName(app, name) {
   }
   return null;
 }
-function findFileFromPath(app, path) {
-  const root = app.vault.getRoot();
+function findFileFromPath(app2, path) {
+  const root = app2.vault.getRoot();
   function findFile(file) {
-    if (file instanceof import_obsidian3.TFile) {
+    if (file instanceof import_obsidian5.TFile) {
       if (file.path.toLowerCase() === path)
         return file;
       return null;
-    } else if (file instanceof import_obsidian3.TFolder) {
+    } else if (file instanceof import_obsidian5.TFolder) {
       for (const child of file.children) {
         const found = findFile(child);
         if (found)
@@ -34590,14 +35201,14 @@ function extractSurroundingText(content, start, end) {
 }
 
 // src/utils/view.ts
-var import_obsidian4 = require("obsidian");
+var import_obsidian6 = require("obsidian");
 function getMarkdownViewOfPath(params) {
   try {
     let view = null;
     params.app.workspace.iterateAllLeaves((leaf) => {
       if (view)
         return;
-      if (!(leaf.view instanceof import_obsidian4.MarkdownView))
+      if (!(leaf.view instanceof import_obsidian6.MarkdownView))
         return;
       const file = leaf.view.file;
       if (!file)
@@ -34642,16 +35253,16 @@ async function jumpToStatementAndOpenFile(params) {
       });
     }
     if (!file) {
-      new import_obsidian5.Notice("Cannot find the statement in the original content.");
+      new import_obsidian7.Notice("Cannot find the statement in the original content.");
       throw new Error("File not found with statement");
     }
     const leaf = await openLeafWithPath(file, params.app.workspace);
     if (!leaf) {
-      new import_obsidian5.Notice("Cannot find the page with the original content.");
+      new import_obsidian7.Notice("Cannot find the page with the original content.");
       throw new Error("Leaf not found");
     }
     const noticeText = `Jumping to statement - ${textToJumpTo || params.statementToJumpTo}`;
-    new import_obsidian5.Notice(noticeText);
+    new import_obsidian7.Notice(noticeText);
     if (SETTINGS.WHEN_USING_LOCATE === "Force to Edit Mode") {
       await setLeafMode({ leaf, mode: "source" });
     }
@@ -34673,16 +35284,18 @@ var GraphViewOverlay = (params) => {
   let graphViewContext = params.graphViewContext;
   const { textToShow, setTextToShow } = params;
   const { showGraphContextAdvice } = params;
-  const { filePath, app } = params.graphContext;
+  const { filePath, app: app2 } = params.graphContext;
   const { overlayShowMode, setOverlayShowMode } = params;
+  const vaultName = app2.vault.getName();
   const isFolder = filePath && !filePath.endsWith(".md");
-  const topicsFiltered = stateRef.current.topicsFiltered;
+  const topicsFiltered = params.topicsFiltered;
   const [isLoading, setIsLoading] = (0, import_react4.useState)(false);
   const [copied, setCopied] = (0, import_react4.useState)(false);
   const [copiedGraphText, setCopiedGraphText] = (0, import_react4.useState)(false);
   const [exportedGraph, setExportedGraph] = (0, import_react4.useState)(false);
   const [error, setError] = (0, import_react4.useState)("");
   const [beyondContext, setBeyondContext] = (0, import_react4.useState)(false);
+  const navigateToStatement2 = params.navigateToStatement;
   const aiQuestionsList = (0, import_react4.useRef)([]);
   const aiQuestionsIndex = (0, import_react4.useRef)(0);
   const chatHistoryRef = (0, import_react4.useRef)([]);
@@ -34695,6 +35308,7 @@ var GraphViewOverlay = (params) => {
   const [currentUser, setCurrentUser] = (0, import_react4.useState)(
     graphViewContext.currentUser ? graphViewContext.currentUser : ""
   );
+  const currentPlatform8 = import_obsidian8.Platform.isMobileApp || import_obsidian8.Platform.isMobile ? "mobile" : "desktop";
   (0, import_react4.useEffect)(() => {
     if (overlayShowMode === "ai")
       showGraphAiAdvice({ modal: "graph_advice_button" });
@@ -34727,7 +35341,7 @@ var GraphViewOverlay = (params) => {
   async function showGraphAiAdvice({ modal }) {
     if (isLoading)
       return;
-    setTextToShow("loading...");
+    setTextToShow("ai generating...");
     setIsLoading(true);
     if (adviceMode === "context") {
       graphViewContext.setAdviceMode("question");
@@ -34746,7 +35360,7 @@ var GraphViewOverlay = (params) => {
         userSettings: SETTINGS
       });
       if (!choicesText) {
-        new import_obsidian6.Notice(
+        new import_obsidian8.Notice(
           "No AI advice could be generated. Please, try again later or with another file.",
           0
         );
@@ -34759,7 +35373,7 @@ var GraphViewOverlay = (params) => {
       setTextToShow(choicesText[0]);
     } catch (e) {
       console.error(e);
-      new import_obsidian6.Notice(e, 0);
+      new import_obsidian8.Notice(e, 0);
       setIsLoading(false);
       setOverlayShowMode(null);
     }
@@ -34768,75 +35382,45 @@ var GraphViewOverlay = (params) => {
   return /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)(import_jsx_runtime5.Fragment, { children: [
     error && /* @__PURE__ */ (0, import_jsx_runtime5.jsx)("p", { className: "text-sm font-bold", children: error }),
     /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "relative flex flex-col gap-4 pr-2", children: [
-      !overlayShowMode && /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "absolute z-10 flex flex-col items-end justify-end gap-2 mt-2 ml-2 text-black rounded w-fit dark:text-white", children: [
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(InfoTooltip, { text: "AI Advice", direction: "right", children: /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
+      /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "absolute z-10 flex flex-col items-start justify-start gap-2 mt-2 ml-2 text-black rounded w-fit dark:text-white", children: [
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(InfoTooltip, { text: "Generate AI Advice", direction: "right", children: /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
           IconButton,
           {
             icon: SparkleFillIcon,
-            onClick: () => setOverlayShowMode("ai")
+            className: `text-violet-700 dark:text-violet-400`,
+            onClick: () => {
+              setOverlayShowMode("ai");
+              if (!topicsFiltered && !graphViewContext) {
+                params.sendDataToIframe("GAPS" /* GAPS */, 1);
+                params.sendDataToIframe(
+                  "GAPS_SHOW" /* GAPS_SHOW */,
+                  1
+                );
+              }
+              if (topicsFiltered && topicsFiltered.length == 0 && (graphViewContext == null ? void 0 : graphViewContext.wordsToSearch) && (graphViewContext == null ? void 0 : graphViewContext.wordsToSearch.length) == 0) {
+                params.sendDataToIframe("GAPS" /* GAPS */, 1);
+                params.sendDataToIframe(
+                  "GAPS_SHOW" /* GAPS_SHOW */,
+                  1
+                );
+              }
+            },
+            label: `${currentPlatform8 == "mobile" || overlayShowMode ? "" : "insights"}`
           }
         ) }),
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(InfoTooltip, { text: "AI Chat", direction: "right", children: /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
+        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(InfoTooltip, { text: "Open AI Chat", direction: "right", children: /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
           IconButton,
           {
             icon: CommentDiscussionIcon,
             onClick: () => {
               setOverlayShowMode("aiChat");
-            }
+            },
+            label: `${currentPlatform8 == "mobile" || overlayShowMode ? "" : "ai chat"}`
           }
         ) }),
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(InfoTooltip, { text: "Copy Graph", direction: "right", children: /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
-          IconButton,
-          {
-            icon: copiedGraphText ? CheckIcon : CopyIcon,
-            onClick: () => {
-              if (copiedGraphText)
-                return;
-              const graphText = convertGraphToText({
-                topicsExtracted: stateRef.current.extractedGraphData.top_clusters,
-                topicsFiltered,
-                wordsToSearch: graphViewContext.wordsToSearch
-              });
-              copyToClipboard({ text: graphText });
-              setCopiedGraphText(true);
-              setTimeout(
-                () => setCopiedGraphText(false),
-                2e3
-              );
-            }
-          }
-        ) }),
-        /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
-          InfoTooltip,
-          {
-            text: "Export Content to InfraNodus",
-            direction: "right",
-            children: /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
-              IconButton,
-              {
-                icon: exportedGraph ? CheckIcon : CrossReferenceIcon,
-                onClick: () => {
-                  if (exportedGraph)
-                    return;
-                  setExportedGraph(true);
-                  const statementsArray = stateRef.current.extractedGraphData.all_statements_with_top;
-                  const contentToCopy = statementsArray.map((statement) => statement.content).join("\n");
-                  goToInfraNodus2({
-                    textToShow: contentToCopy,
-                    contextName: filePath,
-                    exportToInfraNodus
-                  });
-                  setTimeout(
-                    () => setExportedGraph(false),
-                    2e3
-                  );
-                }
-              }
-            )
-          }
-        )
+        !overlayShowMode || overlayShowMode && /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(import_jsx_runtime5.Fragment, {})
       ] }),
-      (overlayShowMode === "ai" || overlayShowMode === "context") && /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "absolute z-10 top-4 left-3 right-3 @[420px]/main:w-[400px] flex flex-col items-stretch text-black dark:text-white bg-gray-300 dark:bg-gray-800 pt-2 rounded", children: [
+      (overlayShowMode === "ai" || overlayShowMode === "context") && /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "absolute z-10 top-2 left-12 @[420px]/main:w-[376px] flex flex-col items-stretch text-black dark:text-white bg-gray-300 dark:bg-gray-800 pt-2 rounded", children: [
         /* @__PURE__ */ (0, import_jsx_runtime5.jsxs)("div", { className: "flex flex-row items-center justify-start gap-3 pl-4 pr-2", children: [
           /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(InfoTooltip, { text: "Copy to clipboard", children: /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
             "span",
@@ -34845,7 +35429,7 @@ var GraphViewOverlay = (params) => {
               onClick: () => {
                 if (copied)
                   return;
-                if (textToShow === "loading...")
+                if (textToShow === "ai generating...")
                   return;
                 copyToClipboard({
                   text: textToShow
@@ -34923,7 +35507,7 @@ var GraphViewOverlay = (params) => {
                 className: "flex flex-row items-center gap-1 ml-4 text-sm font-bold cursor-pointer",
                 onClick: async () => {
                   await jumpToStatementAndOpenFile({
-                    app,
+                    app: app2,
                     filePath: filePath || "",
                     statementToJumpTo: textToShow,
                     statementsToShow: params.statementsToShow,
@@ -34969,7 +35553,10 @@ var GraphViewOverlay = (params) => {
                 goToInfraNodus2({
                   textToShow,
                   contextName: filePath,
-                  exportToInfraNodus
+                  exportToInfraNodus,
+                  adviceMode,
+                  vaultName,
+                  app: app2
                 });
               },
               children: [
@@ -35010,54 +35597,51 @@ var GraphViewOverlay = (params) => {
       overlayShowMode === "aiChat" && /* @__PURE__ */ (0, import_jsx_runtime5.jsx)(
         GraphViewOverlayChat,
         {
-          startingChat: textToShow === "loading..." ? "" : textToShow,
+          startingChat: textToShow === "ai generating..." ? "" : textToShow,
           closeChat: () => setOverlayShowMode(null),
           stateRef,
-          chatHistory: chatHistoryRef.current
+          chatHistory: chatHistoryRef.current,
+          wordsToSearch: graphViewContext.wordsToSearch,
+          topicsFiltered,
+          filteredStatements: params.filteredStatements,
+          app: app2
         }
       )
     ] })
   ] });
 };
-function convertGraphToText(params) {
-  const { noCodes, topicsExtracted, topicsFiltered, wordsToSearch } = params;
-  let graphText = "";
-  if (wordsToSearch && wordsToSearch.length > 0) {
-    graphText = wordsToSearch.join(", ");
-  } else if (topicsFiltered && topicsFiltered.length > 0) {
-    const topicsToUse = topicsExtracted.filter(
-      (topic) => topicsFiltered.includes(topic.id)
-    );
-    graphText = topicsToUse.map(
-      (topic) => {
-        var _a;
-        return `${noCodes ? "" : `[${topic.id}]: `}${(_a = topic.aiName) != null ? _a : ""} (${topic.words.slice(0, 8).join(" ")})`;
-      }
-    ).join(", ");
-  } else {
-    graphText = topicsExtracted.map(
-      (topic) => {
-        var _a;
-        return `${noCodes ? "" : `[${topic.id}]: `}${(_a = topic.aiName) != null ? _a : ""} (${topic.words.slice(0, 8).join(" ")})`;
-      }
-    ).join(", ");
-  }
-  return graphText;
-}
 async function goToInfraNodus2({
   textToShow = "",
   contextName = "",
-  exportToInfraNodus = { type: "manual", graphName: "" }
+  exportToInfraNodus = { type: "manual", graphName: "" },
+  adviceMode = "",
+  vaultName = "",
+  //@ts-ignore
+  app: app2
 }) {
-  if (!textToShow || textToShow === "loading...") {
+  if (!textToShow || textToShow === "ai generating...") {
     return;
   }
   const encodedText = encodeURIComponent(textToShow);
-  const encodedContext = contextName && SETTINGS.EXPORT_GRAPH === "page_name" ? encodeInfraNodusGraphName(contextName) : encodeInfraNodusGraphName(SETTINGS.EXPORT_GRAPH);
-  const linkToOpen = `https://infranodus.com/import/editor?text=${encodedText}&context=${encodedContext}`;
+  const encodedContext = adviceMode != "context" ? encodeInfraNodusGraphName(
+    contextName,
+    SETTINGS.CONTEXT_NAME,
+    vaultName
+  ) : encodeInfraNodusGraphName(
+    contextName,
+    SETTINGS.EXPORT_GRAPH,
+    vaultName
+  );
+  const linkToOpen = `${SETTINGS.INFRANODUS_API_URL}/import/editor?text=${encodedText}&context=${encodedContext}`;
   if (exportToInfraNodus && exportToInfraNodus.type === "auto") {
     const graphTags = [`context: ${encodedContext}`];
-    const graphName = encodedContext ? encodedContext : encodeInfraNodusGraphName(SETTINGS.EXPORT_GRAPH);
+    let graphName = encodedContext;
+    graphName = await new Promise((resolve) => {
+      new GraphNameModal(app2, graphName, resolve).open();
+    }) || "";
+    if (!graphName) {
+      return;
+    }
     const dataToSave = {
       contextName: graphName,
       text: textToShow,
@@ -35075,15 +35659,11 @@ async function goToInfraNodus2({
     window.open(linkToOpen, "_blank");
   }
 }
-function encodeInfraNodusGraphName(graphName) {
-  let encodedName = graphName.replace(/[\s%&=?#/\\]/g, "_");
-  encodedName = encodeURIComponent(encodedName);
-  return encodedName.replace(/%[0-9A-Fa-f]{2}/g, "_").slice(0, 20);
-}
 
 // src/graph_view/components/ErrorHandler.tsx
 var import_jsx_runtime6 = __toESM(require_jsx_runtime());
 var ErrorHandler = (params) => {
+  var _a;
   const ctx = params.context;
   return /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("div", { className: "absolute inset-0 z-[5] flex flex-col items-center justify-center p-10 bg-white dark:bg-black", children: /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("span", { className: "text-lg text-gray-600 dark:text-gray-200", children: [
     params.error === "no-wiki-links" && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)(import_jsx_runtime6.Fragment, { children: [
@@ -35109,7 +35689,7 @@ var ErrorHandler = (params) => {
           ActionLink,
           {
             text: "infranodus subscriptions",
-            href: INTERNAL_SETTINGS.INFRANODUS_API_URL + "/subscription",
+            href: SETTINGS.INFRANODUS_API_URL + "/subscription",
             addSpacesAround: true
           }
         ),
@@ -35203,7 +35783,31 @@ var ErrorHandler = (params) => {
         ),
         "and describe what you were trying to do."
       ] }),
-      params.errorText != "net::ERR_CONNECTION_REFUSED" && /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("p", { children: params.errorText || "An unknown error occured. Please try again later or with another page." })
+      params.errorText == "net::ERR_NAME_NOT_RESOLVED" && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)("p", { children: [
+        "Could not connect to the InfraNodus API domain. Please, check your connection, try again later, or contact our ",
+        " ",
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          ActionLink,
+          {
+            text: "support",
+            addSpacesAround: true,
+            href: "https://support.noduslabs.com/hc/en-us/requests/new"
+          }
+        ),
+        "and describe what you were trying to do."
+      ] }),
+      params.errorText != "net::ERR_CONNECTION_REFUSED" && /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("p", { children: params.errorText || "An unknown error occured. Please try again later or with another page." }),
+      ((_a = params.errorText) == null ? void 0 : _a.includes("API key")) && /* @__PURE__ */ (0, import_jsx_runtime6.jsxs)(import_jsx_runtime6.Fragment, { children: [
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)("br", {}),
+        /* @__PURE__ */ (0, import_jsx_runtime6.jsx)(
+          ActionLink,
+          {
+            text: "go to plugin settings",
+            action: () => ctx.setShowingSettings(true),
+            addSpacesAround: true
+          }
+        )
+      ] })
     ] })
   ] }) });
 };
@@ -35227,118 +35831,80 @@ var ActionLink = (params) => {
 function arraysAreEqual(array1, array2) {
   return array1.length === array2.length && array1.every((value, index) => value === array2[index]);
 }
+function extractIndexToUse({ direction, currentElementNumber, arrayLength }) {
+  const overshootFront = (direction == "next" || direction == "gap") && currentElementNumber == arrayLength;
+  const overshootBack = direction == "back" && currentElementNumber == 1;
+  const elementToShow = currentElementNumber == 0 || overshootFront ? 1 : overshootBack ? arrayLength : direction == "back" ? currentElementNumber - 1 : currentElementNumber + 1;
+  const indexToUse = elementToShow - 1;
+  return indexToUse;
+}
 
 // src/graph_view/lib/generateTextForContext.ts
 function generateTextForContext(params, source) {
-  let currentContextShown = params.currentContextShown;
+  const currentStatementShown = params.currentContextShown;
+  let contentToShow = "";
   if (params.wordsToSearch.length > 0) {
     const statementsToShow = params.filteredStatements;
-    let contentToShow = "";
-    if (statementsToShow && currentContextShown > statementsToShow.length - 1) {
-      currentContextShown = 0;
-      contentToShow = statementsToShow[currentContextShown].content;
-    } else if (statementsToShow && currentContextShown <= statementsToShow.length - 1) {
-      contentToShow = statementsToShow[currentContextShown].content;
-      let newContextIndex = 0;
-      if (source == "back" && currentContextShown > 0) {
-        newContextIndex = currentContextShown - 1;
-      }
-      if (source == "next" && currentContextShown < statementsToShow.length - 1) {
-        newContextIndex = currentContextShown + 1;
-      }
-      if (source == "next" && currentContextShown == statementsToShow.length - 1) {
-        newContextIndex = 0;
-      }
-      currentContextShown = newContextIndex;
-      contentToShow = statementsToShow[newContextIndex].content;
-    }
     const statementsTextToShow = statementsToShow.map(
       (statement) => statement.content
     );
+    const indexToUse = extractIndexToUse({ direction: source, currentElementNumber: currentStatementShown, arrayLength: statementsTextToShow.length });
+    const contentToShow2 = statementsTextToShow[indexToUse];
     return {
-      contentToShow,
-      currentContextShown,
+      contentToShow: `${contentToShow2}`,
+      currentContextShown: indexToUse + 1,
       statementsToShow: statementsTextToShow
     };
   }
   if (params.topicsFiltered.length > 0) {
-    const topicsToUse = params.extractedGraphData.top_clusters.filter(
-      (topic) => params.topicsFiltered.includes(topic.id)
-    );
-    const topCommunityStatement = params.extractedGraphData.all_statements_with_top.filter(
-      (statement) => params.topicsFiltered.includes(
-        statement.topStatementOfCommunity
-      )
-    );
-    const topCommunityStatementId = topCommunityStatement && topCommunityStatement.length > 0 ? topCommunityStatement.map((statement) => statement.id) : null;
-    const statementsWithTopOne = params.filteredStatements.filter((statement) => {
-      return topCommunityStatementId == null ? void 0 : topCommunityStatementId.includes(statement.id);
-    }).length > 0 ? params.filteredStatements : [...params.filteredStatements, ...topCommunityStatement].sort(
-      (a, b) => a.id - b.id
-    );
     const statementsOfSelectedTopics = params.extractedGraphData.all_statements_with_top ? params.extractedGraphData.all_statements_with_top.filter(
       (statement) => params.topicsFiltered.includes(
         statement.topStatementCommunity
       )
     ) : [];
-    let contentToShow = "";
-    const statementsTextToShow = statementsWithTopOne.map(
-      (statement) => statement.content
+    const topCommunityStatements = params.extractedGraphData.all_statements_with_top.filter(
+      (statement) => params.topicsFiltered.includes(
+        statement.topStatementOfCommunity
+      )
+    ).sort(
+      (a, b) => a.id - b.id
     );
-    if (currentContextShown == 0) {
-      contentToShow = statementsWithTopOne.map((statement) => statement.content).join("\n\nand\n\n");
-      let indexToShow = 0;
-      if (source == "back") {
-        indexToShow = statementsOfSelectedTopics.length - 1;
+    const statementsTextToShow = [];
+    statementsOfSelectedTopics.forEach(
+      (statement) => {
+        if (statementsTextToShow.includes(statement.content))
+          return;
+        statementsTextToShow.push(statement.content);
       }
-      if (source == "next") {
-        indexToShow = 1;
-      }
-      currentContextShown = indexToShow;
-    }
-    if (statementsOfSelectedTopics && currentContextShown >= statementsOfSelectedTopics.length && statementsOfSelectedTopics.length != 0) {
-      contentToShow = statementsWithTopOne.map((statement) => statement.content).join("\n\nand\n\n");
-      let indexToShow = 0;
-      if (source == "back") {
-        indexToShow = currentContextShown - 1;
-      }
-      if (source == "next") {
-        indexToShow = 1;
-      }
-      currentContextShown = indexToShow;
-    }
-    if (statementsOfSelectedTopics && statementsOfSelectedTopics.length > 0 && currentContextShown < statementsOfSelectedTopics.length && currentContextShown > 0) {
-      contentToShow = statementsOfSelectedTopics[currentContextShown - 1].content;
-      let indexToShow = 0;
-      if (source == "back") {
-        indexToShow = currentContextShown == 1 ? 0 : currentContextShown - 1;
-      }
-      if (source == "next") {
-        indexToShow = currentContextShown + 1;
-      }
-      currentContextShown = indexToShow;
-    }
+    );
+    if (!statementsOfSelectedTopics || statementsOfSelectedTopics.length == 0)
+      return null;
+    const indexToUse = extractIndexToUse({ direction: source, currentElementNumber: currentStatementShown, arrayLength: statementsOfSelectedTopics.length });
+    const contentToShow2 = source == "gap" ? topCommunityStatements.map((statement) => statement.content).join("\n\nand\n\n") : statementsTextToShow[indexToUse];
     return {
-      contentToShow: `${contentToShow}`,
-      currentContextShown,
+      contentToShow: `${contentToShow2}`,
+      currentContextShown: indexToUse + 1,
       statementsToShow: statementsTextToShow
     };
   }
   if (params.topicsFiltered.length == 0 && params.wordsToSearch.length == 0) {
-    let contentToShow = [];
-    if (currentContextShown == 0 || currentContextShown > 1) {
-      currentContextShown = 1;
-      contentToShow = params.extractedGraphData.top_clusters ? params.extractedGraphData.top_clusters.map((topic, index) => {
-        return `${topic.aiName || topic.words.slice(0, 3).join(" ")}`;
-      }).slice(0, 8) : [];
-    } else {
-      currentContextShown = 0;
-      contentToShow = params.extractedGraphData.top_words.slice(0, 16);
-    }
+    const allStatements = params.extractedGraphData.all_statements_with_top;
+    if (!allStatements || allStatements.length == 0)
+      return null;
+    const statementsTextToShow = [];
+    allStatements.forEach(
+      (statement) => {
+        if (statementsTextToShow.includes(statement.content))
+          return;
+        statementsTextToShow.push(statement.content);
+      }
+    );
+    const indexToUse = extractIndexToUse({ direction: source, currentElementNumber: currentStatementShown, arrayLength: allStatements.length });
+    const contentToShow2 = statementsTextToShow[indexToUse];
     return {
-      contentToShow: `${contentToShow.join(", ")}`,
-      currentContextShown,
-      statementsToShow: []
+      contentToShow: `${contentToShow2}`,
+      currentContextShown: indexToUse + 1,
+      statementsToShow: statementsTextToShow
     };
   }
   return null;
@@ -35348,7 +35914,7 @@ function generateTextForContext(params, source) {
 var import_react6 = __toESM(require_react());
 
 // src/graph_view/lib/saveSettings.ts
-var import_obsidian7 = require("obsidian");
+var import_obsidian9 = require("obsidian");
 var EVENT_SETTINGS_SAVED = "infranodusCustomSettingsSaved";
 var EVENT_SAVE_SETTINGS = "infranodusCustomSaveSettings";
 async function saveSettings(settings) {
@@ -35372,7 +35938,7 @@ async function saveSettings(settings) {
           EVENT_SETTINGS_SAVED,
           onSettingsSaved
         );
-        new import_obsidian7.Notice("Settings saved");
+        new import_obsidian9.Notice("Settings saved");
       };
       document.addEventListener(EVENT_SETTINGS_SAVED, onSettingsSaved);
       const dispatchedStatus = document.dispatchEvent(
@@ -35388,9 +35954,9 @@ async function saveSettings(settings) {
 
 // src/graph_view/components/settingsOverlay/SettingsTextField.tsx
 var import_console = require("console");
-var import_obsidian8 = require("obsidian");
+var import_obsidian10 = require("obsidian");
 var import_jsx_runtime7 = __toESM(require_jsx_runtime());
-var currentPlatform2 = import_obsidian8.Platform.isMobileApp || import_obsidian8.Platform.isMobile ? "mobile" : "desktop";
+var currentPlatform2 = import_obsidian10.Platform.isMobileApp || import_obsidian10.Platform.isMobile ? "mobile" : "desktop";
 var SettingsTextField = (params) => {
   if (currentPlatform2 === "desktop") {
     (0, import_console.assert)(params.type === "text");
@@ -35420,9 +35986,9 @@ var SettingsTextField = (params) => {
 
 // src/graph_view/components/settingsOverlay/SettingsDropdownField.tsx
 var import_console2 = require("console");
-var import_obsidian9 = require("obsidian");
+var import_obsidian11 = require("obsidian");
 var import_jsx_runtime8 = __toESM(require_jsx_runtime());
-var currentPlatform3 = import_obsidian9.Platform.isMobileApp || import_obsidian9.Platform.isMobile ? "mobile" : "desktop";
+var currentPlatform3 = import_obsidian11.Platform.isMobileApp || import_obsidian11.Platform.isMobile ? "mobile" : "desktop";
 var SettingsDropdownField = (params) => {
   if (currentPlatform3 === "desktop") {
     (0, import_console2.assert)(params.type === "dropdown");
@@ -35455,9 +36021,9 @@ var SettingsDropdownField = (params) => {
 // src/graph_view/components/settingsOverlay/SettingsToggleField.tsx
 var import_console3 = require("console");
 var import_react5 = __toESM(require_react());
-var import_obsidian10 = require("obsidian");
+var import_obsidian12 = require("obsidian");
 var import_jsx_runtime9 = __toESM(require_jsx_runtime());
-var currentPlatform4 = import_obsidian10.Platform.isMobileApp || import_obsidian10.Platform.isMobile ? "mobile" : "desktop";
+var currentPlatform4 = import_obsidian12.Platform.isMobileApp || import_obsidian12.Platform.isMobile ? "mobile" : "desktop";
 var SettingsToggleField = (params) => {
   if (currentPlatform4 === "desktop") {
     (0, import_console3.assert)(params.type === "text");
@@ -35483,7 +36049,7 @@ var SettingsToggleField = (params) => {
 };
 
 // src/graph_view/components/GraphViewOverlaySettings.tsx
-var import_obsidian11 = require("obsidian");
+var import_obsidian13 = require("obsidian");
 var import_jsx_runtime10 = __toESM(require_jsx_runtime());
 var import_react7 = __toESM(require_react());
 var graphProcessingDropdownOptions = [
@@ -35501,14 +36067,14 @@ var graphProcessingDropdownOptions = [
   },
   { value: "Concepts only", label: "Concepts Only" }
 ];
-var currentPlatform5 = import_obsidian11.Platform.isMobileApp || import_obsidian11.Platform.isMobile ? "mobile" : "desktop";
+var currentPlatform5 = import_obsidian13.Platform.isMobileApp || import_obsidian13.Platform.isMobile ? "mobile" : "desktop";
 var GraphViewOverlaySettings = (params) => {
   const [savingSettings, setSavingSettings] = (0, import_react6.useState)(false);
   const [settingsFields, setSettingsFields] = (0, import_react6.useState)([
     {
       name: "API Key",
       key: "INFRANODUS_API_KEY",
-      link: "https://infranodus.com/subscription",
+      link: `${SETTINGS.INFRANODUS_API_URL}/subscription`,
       description: "Get your API key from InfraNodus > Subscription",
       value: "",
       type: "text"
@@ -35570,6 +36136,25 @@ var GraphViewOverlaySettings = (params) => {
       ]
     },
     {
+      name: "Link Current Page to All Mentions",
+      key: "LINK_PAGE_TO_MENTIONS",
+      description: "Link the currently viewed page to all the pages mentioned in it on the graph.",
+      value: "",
+      type: "dropdown",
+      dropdownOptions: [
+        {
+          value: "false",
+          label: "Do not link (emphasizes the context)"
+        },
+        {
+          value: "true",
+          label: "Link (emphasizes the hierarchy)"
+        }
+      ],
+      note: "Choose 'Do not link' to focus on connections within the page. 'Link' is the standard Obsidian graph view behavior but it lacks context.",
+      noteTriggers: ["false"]
+    },
+    {
       name: "Include Linked Mentions",
       key: "INCLUDE_LINKED_MENTIONS",
       description: "Choose when to include linked mentions.",
@@ -35609,7 +36194,7 @@ var GraphViewOverlaySettings = (params) => {
         { value: "no", label: "No" },
         { value: "yes", label: "Yes" }
       ],
-      note: "We will use a more aggressive algorithm of finding related mentions.",
+      note: "We will use a more aggressive algorithm of finding related mentions that includes partial matches.",
       noteTriggers: ["yes"]
     },
     {
@@ -35666,23 +36251,20 @@ var GraphViewOverlaySettings = (params) => {
       noteTriggers: ["manual", "auto"]
     },
     {
-      name: "Export to Graph Name",
+      name: "Export Graph Name Prefix",
       key: "EXPORT_GRAPH",
-      description: "Where should we export your data",
+      description: "What graph in InfraNodus should we export your text data to",
       value: "",
-      type: "dropdown",
-      dropdownOptions: [
-        { value: "page_name", label: "Generate from the page name" },
-        { value: "obsidian_files", label: "Use 'obsidian_files' name" }
-      ]
+      type: "text",
+      note: "This is the name of the graph where text data are saved. Add * for the page name, ** for the vault name."
     },
     {
       name: "Save AI Insights to Graph Name",
       key: "CONTEXT_NAME",
-      description: "Choose the name of the InfraNodus graph where AI insights are saved.",
+      description: "What graph in InfraNodus should we export your AI insights to",
       value: "",
       type: "text",
-      note: "This is the name of the graph where AI insights are saved."
+      note: "This is the name of the graph where AI insights are saved. Add * for the page name, ** for the vault name."
     },
     {
       name: "When Using Locate",
@@ -35748,8 +36330,8 @@ var GraphViewOverlaySettings = (params) => {
       await params.reloadGraph();
     } catch (err) {
       console.error("Error saving settings", err.message, err);
-      new import_obsidian11.Notice("Error saving settings. Please try again.");
-      new import_obsidian11.Notice(err.message, 2e4);
+      new import_obsidian13.Notice("Error saving settings. Please try again.");
+      new import_obsidian13.Notice(err.message, 2e4);
     }
     setSavingSettings(false);
   }
@@ -35775,7 +36357,16 @@ var GraphViewOverlaySettings = (params) => {
           /* @__PURE__ */ (0, import_jsx_runtime10.jsx)("div", { className: "font-bold font-lg text-lg", children: "InfraNodus Plugin Settings" }),
           /* @__PURE__ */ (0, import_jsx_runtime10.jsx)("div", { className: "cursor-pointer", onClick: params.closeSettings, children: /* @__PURE__ */ (0, import_jsx_runtime10.jsx)(XCircleIcon, { size: 16 }) })
         ] }),
-        /* @__PURE__ */ (0, import_jsx_runtime10.jsx)("div", { className: "my-2" }),
+        /* @__PURE__ */ (0, import_jsx_runtime10.jsx)("div", { className: "my-1" }),
+        /* @__PURE__ */ (0, import_jsx_runtime10.jsx)(
+          "div",
+          {
+            className: "px-2 py-2 mt-auto text-lg ml-auto rounded cursor-pointer bg-gray-350 dark:bg-gray-700 whitespace-nowrap hover:bg-gray-400 dark:hover:bg-gray-600",
+            onClick: () => saveLocalSettings(),
+            children: "Save Settings"
+          }
+        ),
+        /* @__PURE__ */ (0, import_jsx_runtime10.jsx)("div", { className: "my-1" }),
         /* @__PURE__ */ (0, import_jsx_runtime10.jsx)("div", { className: "flex flex-col gap-4", children: settingsFields.map((field, index) => /* @__PURE__ */ (0, import_jsx_runtime10.jsxs)("div", { children: [
           field.type === "text" && /* @__PURE__ */ (0, import_react7.createElement)(
             SettingsTextField,
@@ -35810,15 +36401,7 @@ var GraphViewOverlaySettings = (params) => {
               })
             }
           )
-        ] }, field.key)) }),
-        /* @__PURE__ */ (0, import_jsx_runtime10.jsx)(
-          "div",
-          {
-            className: "px-2 py-2 mt-auto text-lg ml-auto rounded cursor-pointer bg-gray-350 dark:bg-gray-700 whitespace-nowrap hover:bg-gray-400 dark:hover:bg-gray-600",
-            onClick: () => saveLocalSettings(),
-            children: "Save Settings"
-          }
-        )
+        ] }, field.key)) })
       ]
     }
   );
@@ -35831,6 +36414,11 @@ function handleGraphDataError(params) {
     console.log("[handleGraphDataError] Setting error to invalid-api-key");
     params.setError("invalid-api-key");
     throw new Error("No API key found");
+  }
+  if (params.graphDataResponse.error == "Your session has expired. Please, log in again.") {
+    console.log("[handleGraphDataError] Setting error to invalid-api-key");
+    params.setError("invalid-api-key");
+    throw new Error("API key is not up to date");
   }
   if (params.isFolder && SETTINGS.MULTI_PAGE_GRAPH_PROCESSING === "[[Wiki Links]] Only" || !params.isFolder && SETTINGS.SINGLE_PAGE_GRAPH_PROCESSING === "[[Wiki Links]] Only") {
     console.log("[handleGraphDataError] Checking for wiki links");
@@ -35950,12 +36538,14 @@ var LoadingView = (params) => {
 
 // src/graph_view/GraphView.tsx
 var import_jsx_runtime12 = __toESM(require_jsx_runtime());
-var GRAPH_URL = "https://infranodus-graph.vercel.app/?iframe=true&action=true&app=obsidian";
 var GraphView = (params) => {
   var _a, _b, _c, _d, _e;
-  const { filePath, app, contentString, sourcePath } = params.graphContext;
+  const GRAPH_BASE_URL = SETTINGS.INFRANODUS_GRAPH_URL;
+  const GRAPH_URL = `${GRAPH_BASE_URL}?iframe=true&action=true&app=obsidian`;
+  const { filePath, app: app2, contentString, sourcePath } = params.graphContext;
   const cleanFilePath = filePath && filePath.endsWith(".md") ? filePath.slice(0, -3) : filePath;
   const isFolder = filePath && !filePath.endsWith(".md") ? true : false;
+  const vaultName = app2.vault.getName();
   const [colorScheme, setColorScheme] = (0, import_react9.useState)(SETTINGS.COLOR_SCHEME);
   const [useOwnUnlinkedSearch, setUseOwnUnlinkedSearch] = (0, import_react9.useState)(
     SETTINGS.USE_OWN_UNLINKED_SEARCH
@@ -35967,6 +36557,7 @@ var GraphView = (params) => {
   const [wordsToSearch, setWordsToSearch] = (0, import_react9.useState)(
     (_b = (_a = params.initialData) == null ? void 0 : _a.wordsToSearch) != null ? _b : []
   );
+  const [connectedWords, setConnectedWords] = (0, import_react9.useState)([]);
   const [wordsToHide, setWordsToHide] = (0, import_react9.useState)([]);
   const [isHidingWords, setIsHidingWords] = (0, import_react9.useState)(false);
   const [gapShown, setGapShown] = (0, import_react9.useState)(false);
@@ -35979,6 +36570,7 @@ var GraphView = (params) => {
   const [errorText, setErrorText] = (0, import_react9.useState)("");
   const [loadingState, setLoadingState] = (0, import_react9.useState)("initializing");
   const contentRef = (0, import_react9.useRef)();
+  const pageNamesRef = (0, import_react9.useRef)([]);
   const statementsRef = (0, import_react9.useRef)([]);
   const loadedIframeRef = (0, import_react9.useRef)(false);
   const iframIsReadyRef = (0, import_react9.useRef)(false);
@@ -35991,9 +36583,13 @@ var GraphView = (params) => {
   const [textToShow, setTextToShow] = (0, import_react9.useState)("");
   const [statementsToShow, setStatementsToShow] = (0, import_react9.useState)([]);
   const [showingSettings, setShowingSettings] = (0, import_react9.useState)(false);
-  const [showingReloadButton, setShowingReloadButton] = (0, import_react9.useState)(false);
+  const [showingReloadButton, setShowingReloadButton] = (0, import_react9.useState)(true);
   const auth_token = SETTINGS.INFRANODUS_API_KEY;
   let decodedToken = {};
+  const exportToInfraNodus = {
+    type: SETTINGS.EXPORT_TYPE,
+    graphName: SETTINGS.EXPORT_GRAPH
+  };
   if (auth_token) {
     try {
       decodedToken = jwtDecode(auth_token);
@@ -36005,6 +36601,7 @@ var GraphView = (params) => {
   const [currentUser, setCurrentUser] = (0, import_react9.useState)(
     decodedToken && decodedToken.user ? decodedToken.user.id : ""
   );
+  const iframeGraphUser = currentUser ? `&user=${currentUser}` : "";
   const statementToJumpToRef = (0, import_react9.useRef)({});
   const previousStatementToJumpToRef = (0, import_react9.useRef)("");
   const graph_iframe = (0, import_react9.useRef)();
@@ -36055,7 +36652,7 @@ var GraphView = (params) => {
     gapShown,
     loadingState
   ]);
-  const currentPlatform8 = import_obsidian12.Platform.isMobileApp || import_obsidian12.Platform.isMobile ? "mobile" : "desktop";
+  const currentPlatform8 = import_obsidian14.Platform.isMobileApp || import_obsidian14.Platform.isMobile ? "mobile" : "desktop";
   (0, import_react9.useEffect)(() => {
     if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
       obsidianColorSchemeRef.current = "dark";
@@ -36086,26 +36683,31 @@ var GraphView = (params) => {
     const filteredStatements = filterStatements({
       statements: allStatements != null ? allStatements : [],
       wordsToSearch,
-      wordsToHide
+      wordsToHide,
+      topicsFiltered,
+      connectedWords
     });
-    filteredStatementsRef.current = filteredStatements;
-  }, [wordsToHide, wordsToSearch, graphData]);
+    filteredStatementsRef.current = filteredStatements && filteredStatements.length > 0 ? filteredStatements : [];
+  }, [wordsToHide, wordsToSearch, topicsFiltered, graphData, connectedWords]);
   function diff(a) {
     return (new Date().valueOf() - a.valueOf()) / 1e3;
   }
   (0, import_react9.useEffect)(() => {
     async function fetchGraphData() {
       var _a2, _b2, _c2;
-      setLoadingState("initializing");
+      if (loadingState != "complete")
+        setLoadingState("initializing");
       const start1 = new Date();
       if (!filePath && !contentString) {
-        new import_obsidian12.Notice("No files or content provided for analysis");
+        new import_obsidian14.Notice("No files or content provided for analysis");
         return console.log("No file path");
       }
+      let content;
+      let contentStatements = [];
       if (!contentRef.current && filePath) {
         setLoadingState("getting-content");
-        const content = await getContentsFromFilePath({
-          app,
+        content = await getContentsFromFilePath({
+          app: app2,
           filePath: filePath || ""
         });
         contentRef.current = content == null ? void 0 : content.content;
@@ -36113,6 +36715,7 @@ var GraphView = (params) => {
           setError("no-content");
           throw new Error("No content in the file");
         }
+        pageNamesRef.current = (content == null ? void 0 : content.pageNames) || [];
       }
       if (!contentRef.current && contentString) {
         contentRef.current = contentString;
@@ -36123,29 +36726,41 @@ var GraphView = (params) => {
         return;
       const contentSize = contentRef.current.length;
       if (contentSize > 5e7) {
-        new import_obsidian12.Notice(
+        new import_obsidian14.Notice(
           "The content is too large for analysis. Please, reduce the size or try with a different folder, bookmark group, or file."
         );
         return;
       }
-      setIsLoadingIframe(true);
+      if (loadingState != "complete")
+        setIsLoadingIframe(true);
       const statementsBefore = statementsRef.current;
       statementsRef.current = [];
       const regex = /\[\[([^\]]+)\]\]/g;
-      contentRef.current.split("\n").forEach((line) => {
-        line = line.trim();
-        if (!line)
-          return;
-        statementsRef.current.push(line);
-      });
+      contentStatements = (content == null ? void 0 : content.statements) || [];
+      if (contentStatements.length > 0) {
+        contentStatements.forEach((statement) => {
+          statementsRef.current.push(statement);
+        });
+      } else {
+        contentRef.current.split("\n").forEach((line) => {
+          line = line.trim();
+          if (!line)
+            return;
+          statementsRef.current.push(line);
+        });
+      }
       const start2 = new Date();
-      setLoadingState("generating-graph");
+      if (loadingState != "complete")
+        setLoadingState("generating-graph");
       const presetContextSettings = isFolder ? SETTINGS.MULTI_PAGE_GRAPH_PROCESSING : SETTINGS.SINGLE_PAGE_GRAPH_PROCESSING;
+      const linkPageToMentions = SETTINGS.LINK_PAGE_TO_MENTIONS == "true" ? true : false;
       const response = await InfraNodus.getGraphAndStatements({
         name: "Obsidian Plugin",
         text: statementsRef.current.join("\n"),
+        statements: linkPageToMentions && contentStatements && contentStatements.length > 0 ? contentStatements : [],
         contextSettings: presetContextSettings,
-        stopwords: wordsToHide
+        stopwords: wordsToHide,
+        categories: pageNamesRef.current && pageNamesRef.current.length > 0 && linkPageToMentions ? pageNamesRef.current : []
       });
       const graphData2 = response.data;
       if (graphData2.error) {
@@ -36168,7 +36783,8 @@ var GraphView = (params) => {
           name: topic.nodes.map((node) => node.nodeName).slice(0, 3).join(" ")
         })
       );
-      setLoadingState("waiting-iframe");
+      if (loadingState != "complete")
+        setLoadingState("waiting-iframe");
       const start3 = new Date();
       if (!loadedIframeRef.current) {
         while (!iframIsReadyRef.current) {
@@ -36191,9 +36807,10 @@ var GraphView = (params) => {
           entriesAndGraphOfContext: graphData2 == null ? void 0 : graphData2.entriesAndGraphOfContext
         });
       }
-      setIsLoadingIframe(false);
+      if (loadingState != "complete")
+        setIsLoadingIframe(false);
       setLoadingState("complete");
-      new import_obsidian12.Notice("Graph loaded");
+      new import_obsidian14.Notice("Graph loaded");
       try {
         const aiTopics = await InfraNodus.generateAiNamesForTopics({
           graph_data: graphData2,
@@ -36244,7 +36861,7 @@ var GraphView = (params) => {
   }
   (0, import_react9.useEffect)(() => {
     const onMessage = async (message) => {
-      var _a2, _b2;
+      var _a2, _b2, _c2;
       if (message.source !== ((_a2 = graph_iframe.current) == null ? void 0 : _a2.contentWindow))
         return;
       const type = message.data.type;
@@ -36272,15 +36889,20 @@ var GraphView = (params) => {
                 return true;
               }
             );
+            const _connectedWords = (_b2 = message.data.connectedNodes) != null ? _b2 : [];
             try {
-              const allStatements = (_b2 = extractedGraphDataRef.current) == null ? void 0 : _b2.all_statements_with_top;
+              const allStatements = (_c2 = extractedGraphDataRef.current) == null ? void 0 : _c2.all_statements_with_top;
               const filteredStatements = filterStatements({
                 statements: allStatements != null ? allStatements : [],
                 wordsToSearch: wordsUnselected,
-                wordsToHide: wordsToHide2
-              }).map((statement) => statement.content);
+                wordsToHide: wordsToHide2,
+                connectedWords: _connectedWords
+              }).map((statement) => {
+                var _a3;
+                return (_a3 = statement.content) != null ? _a3 : "";
+              });
               const elements = await unhighlightStatements(
-                app,
+                app2,
                 filteredStatements
               );
               unObserveElementAttributes(elements);
@@ -36301,6 +36923,7 @@ var GraphView = (params) => {
             if (newWordsSelected.length > 0) {
               lastSelectedWordRef.current = newWordsSelected[0];
             }
+            setConnectedWords(_connectedWords);
             setWordsToSearch(newWordsToSearch);
           }
           break;
@@ -36357,9 +36980,9 @@ var GraphView = (params) => {
                   source: "gap",
                   topicsFiltered: topicsFiltered2
                 });
-                if (!import_obsidian12.Platform.isMobileApp && !import_obsidian12.Platform.isMobile)
+                if (!import_obsidian14.Platform.isMobileApp && !import_obsidian14.Platform.isMobile)
                   getMentionsOfFile(
-                    app,
+                    app2,
                     filePath || "",
                     wordsToSearch2
                   );
@@ -36372,9 +36995,9 @@ var GraphView = (params) => {
                   source: "next",
                   topicsFiltered: topicsFiltered2
                 });
-                if (!import_obsidian12.Platform.isMobileApp && !import_obsidian12.Platform.isMobile)
+                if (!import_obsidian14.Platform.isMobileApp && !import_obsidian14.Platform.isMobile)
                   getMentionsOfFile(
-                    app,
+                    app2,
                     filePath || "",
                     wordsToSearch2
                   );
@@ -36390,9 +37013,9 @@ var GraphView = (params) => {
                 source: "next",
                 topicsFiltered: topicsFiltered2
               });
-              if (!import_obsidian12.Platform.isMobileApp && !import_obsidian12.Platform.isMobile)
+              if (!import_obsidian14.Platform.isMobileApp && !import_obsidian14.Platform.isMobile)
                 getMentionsOfFile(
-                  app,
+                  app2,
                   filePath || "",
                   wordsToSearch2
                 );
@@ -36406,9 +37029,9 @@ var GraphView = (params) => {
                 source: sourceType,
                 topicsFiltered: topicsFiltered2
               });
-              if (!import_obsidian12.Platform.isMobileApp && !import_obsidian12.Platform.isMobile)
+              if (!import_obsidian14.Platform.isMobileApp && !import_obsidian14.Platform.isMobile)
                 getMentionsOfFile(
-                  app,
+                  app2,
                   filePath || "",
                   wordsToSearch2
                 );
@@ -36416,7 +37039,7 @@ var GraphView = (params) => {
             if (payload.type == "click") {
               const receivedNodes = payload.nodes;
               navigateToStatement({
-                app,
+                app: app2,
                 filePath: filePath || "",
                 filteredStatements: [],
                 wordsToSearch: [
@@ -36437,12 +37060,16 @@ var GraphView = (params) => {
     };
   }, []);
   (0, import_react9.useEffect)(() => {
+    if (SETTINGS.RELOADING_GRAPH === "manual") {
+      setShowingReloadButton(true);
+      return;
+    }
     let textCheck;
     let cleared = false;
     (async () => {
       var _a2, _b2;
       const oldText = (_b2 = (_a2 = await getContentsFromFilePath({
-        app,
+        app: app2,
         filePath: filePath || "",
         ignoreLinkedUnlinked: true
       })) == null ? void 0 : _a2.content.trim()) != null ? _b2 : "";
@@ -36453,7 +37080,7 @@ var GraphView = (params) => {
           return;
         }
         const newText = (_b3 = (_a3 = await getContentsFromFilePath({
-          app,
+          app: app2,
           filePath: filePath || "",
           ignoreLinkedUnlinked: true
         })) == null ? void 0 : _a3.content.trim()) != null ? _b3 : "";
@@ -36462,7 +37089,6 @@ var GraphView = (params) => {
         if (newText !== oldText) {
           cleared = true;
           if (SETTINGS.RELOADING_GRAPH === "manual") {
-            setShowingReloadButton(true);
             window.clearInterval(textCheck);
           } else if (SETTINGS.RELOADING_GRAPH === "automatic") {
             cleared = true;
@@ -36475,7 +37101,7 @@ var GraphView = (params) => {
           }
           window.clearInterval(textCheck);
         }
-      }, 1e3);
+      }, 3e3);
     })();
     return () => {
       cleared = true;
@@ -36494,6 +37120,7 @@ var GraphView = (params) => {
     maxHeight: params.graphContext.maxHeight,
     currentPlatform: currentPlatform8
   });
+  const [exportedGraph, setExportedGraph] = (0, import_react9.useState)(false);
   return /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)(import_jsx_runtime12.Fragment, { children: [
     /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)(
       "div",
@@ -36521,33 +37148,11 @@ var GraphView = (params) => {
           }),
           setTextToShow,
           textToShow,
-          statementsToShow
-        }
-      ),
-      graphViewContext && graphViewContext.wordsToSearch.length > 0 && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
-        InfoTooltip,
-        {
-          text: "Navigate to selected file",
-          direction: "left",
-          isAbsolute: true,
-          children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("div", { className: "absolute z-10 bottom-[76px] right-2", children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
-            IconButton,
-            {
-              icon: RepoPullIcon,
-              onClick: () => {
-                var _a2;
-                navigateToStatement({
-                  app,
-                  filePath: filePath || "",
-                  filteredStatements: graphViewContext.stateRef.current.filteredStatements,
-                  wordsToSearch: [
-                    (_a2 = graphViewContext.stateRef.current.lastSelectedWord) != null ? _a2 : graphViewContext.wordsToSearch[0]
-                  ],
-                  graphContext: params.graphContext
-                });
-              }
-            }
-          ) })
+          statementsToShow,
+          filteredStatements: filteredStatementsRef.current,
+          topicsFiltered,
+          navigateToStatement,
+          sendDataToIframe
         }
       ),
       showingSettings && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
@@ -36559,50 +37164,67 @@ var GraphView = (params) => {
           reloadGraph: params.graphContext.reloadGraph
         }
       ),
-      !showingSettings && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
-        InfoTooltip,
-        {
-          text: "Settings",
-          direction: "left",
-          isAbsolute: true,
-          children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("div", { className: "absolute z-10 bottom-3 right-2", children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
-            IconButton,
-            {
-              icon: GearIcon,
-              onClick: () => {
-                setShowingSettings(true);
+      /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { className: "absolute bottom-4 left-2 z-50 space-y-2", children: [
+        (showingReloadButton && !showingSettings || error) && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(InfoTooltip, { text: "Reload graph", direction: "right", children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
+          IconButton,
+          {
+            icon: SyncIcon,
+            onClick: params.graphContext.reloadGraph
+          }
+        ) }),
+        !showingSettings && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
+          InfoTooltip,
+          {
+            text: "Export content to InfraNodus",
+            direction: "right",
+            children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
+              IconButton,
+              {
+                icon: exportedGraph ? CheckIcon : CrossReferenceIcon,
+                onClick: () => {
+                  var _a2;
+                  if (exportedGraph)
+                    return;
+                  setExportedGraph(true);
+                  const statementsArray = ((_a2 = extractedGraphDataRef == null ? void 0 : extractedGraphDataRef.current) == null ? void 0 : _a2.all_statements_with_top) || [];
+                  const contentToCopy = statementsArray.map((statement) => statement.content).join("\n");
+                  goToInfraNodus3({
+                    textToShow: contentToCopy,
+                    contextName: filePath,
+                    exportToInfraNodus,
+                    vaultName
+                  });
+                  setTimeout(
+                    () => setExportedGraph(false),
+                    2e3
+                  );
+                }
               }
+            )
+          }
+        ),
+        !showingSettings && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(InfoTooltip, { text: "Plugin settings", direction: "right", children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
+          IconButton,
+          {
+            icon: GearIcon,
+            onClick: () => {
+              setShowingSettings(true);
             }
-          ) })
-        }
-      ),
-      (showingReloadButton && !showingSettings && SETTINGS.RELOADING_GRAPH === "manual" || error) && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
-        InfoTooltip,
-        {
-          text: "Reload updated graph",
-          direction: "left",
-          isAbsolute: true,
-          children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)("div", { className: "absolute z-10 bottom-14 right-2", children: /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
-            IconButton,
-            {
-              icon: SyncIcon,
-              onClick: params.graphContext.reloadGraph
-            }
-          ) })
-        }
-      ),
-      /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { id: "graph-container", className: "relative h-min", children: [
+          }
+        ) })
+      ] }),
+      /* @__PURE__ */ (0, import_jsx_runtime12.jsxs)("div", { id: "graph-container", className: "relative h-min mr-2", children: [
         showIframe && /* @__PURE__ */ (0, import_jsx_runtime12.jsx)(
           "iframe",
           {
             id: "graph-iframe",
             ref: graph_iframe,
-            src: graphLink + `&theme=${colorScheme === "auto" ? obsidianColorSchemeRef.current : colorScheme}`,
+            src: graphLink + `&theme=${colorScheme === "auto" ? obsidianColorSchemeRef.current : colorScheme}` + iframeGraphUser,
             width: "100%",
             height: `${graphHeight}px`,
             title: "Infranodus 3D",
             allowFullScreen: true,
-            className: "relative bg-gray-300 border-0 outline-none dark:bg-gray-800",
+            className: "relative bg-gray-200 border-0 outline-none dark:bg-[#0d1117] px-1 py-1 rounded",
             scrolling: "no",
             allow: "clipboard-write",
             style: { overflow: "hidden" }
@@ -36652,7 +37274,7 @@ async function navigateToStatement(params) {
   if (wordToSearch.startsWith("[[") && wordToSearch.endsWith("]]")) {
     link = wordToSearch.slice(2, -2);
   }
-  new import_obsidian12.Notice(`Navigating to file - ${link}`);
+  new import_obsidian14.Notice(`Navigating to file - ${link}`);
   let file = null;
   if (link.contains("|")) {
     let linkpath = link.split("|")[0];
@@ -36668,14 +37290,20 @@ async function navigateToStatement(params) {
       file = abstractFile;
   }
   if (!file) {
-    new import_obsidian12.Notice("File not found, creating");
-    let linkPath = link;
-    if (linkPath.contains("|"))
-      linkPath = link.split("|")[0];
-    if (!linkPath.endsWith(".md"))
-      linkPath += ".md";
-    const newFile = await params.app.vault.create(linkPath, "");
-    file = newFile;
+    const newLink = link.replace(/_/g, " ");
+    const abstractFile = findFileFromName(params.app, link);
+    if (abstractFile)
+      file = abstractFile;
+    if (!file) {
+      new import_obsidian14.Notice("File not found, creating");
+      let linkPath = newLink;
+      if (linkPath.contains("|"))
+        linkPath = newLink.split("|")[0];
+      if (!linkPath.endsWith(".md"))
+        linkPath += ".md";
+      const newFile = await params.app.vault.create(linkPath, "");
+      file = newFile;
+    }
   }
   if (file) {
     const leaf = await openLeafWithPath(file, params.app.workspace);
@@ -36694,6 +37322,48 @@ async function navigateToStatement(params) {
     return;
   }
 }
+async function goToInfraNodus3({
+  textToShow = "",
+  contextName = "",
+  exportToInfraNodus = { type: "manual", graphName: "" },
+  vaultName = ""
+}) {
+  if (!textToShow || textToShow === "ai generating...") {
+    return;
+  }
+  const encodedText = encodeURIComponent(textToShow);
+  const encodedContext = encodeInfraNodusGraphName(
+    contextName,
+    SETTINGS.EXPORT_GRAPH,
+    vaultName
+  );
+  const linkToOpen = `${SETTINGS.INFRANODUS_API_URL}/import/editor?text=${encodedText}&context=${encodedContext}`;
+  if (exportToInfraNodus && exportToInfraNodus.type === "auto") {
+    const graphTags = [`context: ${encodedContext}`];
+    let graphName = encodedContext;
+    graphName = await new Promise((resolve) => {
+      new GraphNameModal(app, graphName, resolve).open();
+    }) || "";
+    if (!graphName) {
+      return;
+    }
+    const dataToSave = {
+      contextName: graphName,
+      text: textToShow,
+      tags: graphTags
+    };
+    const exportStatus = await InfraNodus.exportText(dataToSave);
+    if (exportStatus.error) {
+      alert(
+        `There was an error saving to the ${graphName} graph in InfraNodus. Reload the page and try again or change your extension setting.`
+      );
+    } else {
+      alert(`Saved to the ${graphName} graph in InfraNodus`);
+    }
+  } else {
+    window.open(linkToOpen, "_blank");
+  }
+}
 
 // src/graph_view/EmptyGraphView.tsx
 var import_jsx_runtime13 = __toESM(require_jsx_runtime());
@@ -36703,7 +37373,7 @@ var EmptyGraphView = () => {
     {
       id: "graph-container-empty",
       className: "bg-[#e6e7eb] dark:bg-[#0d1117] relative",
-      children: /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("div", { className: "absolute inset-0 z-10 flex flex-col items-center justify-center bg-black bg-opacity-50 top-6 dark:bg-white", children: /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("span", { className: "text-xl text-white", children: "InfraNodus graph view: No file or data to refer to. Open a file or perform a search to get InfraNodus insights." }) })
+      children: /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("div", { className: "absolute inset-0 mt-4 z-10 flex flex-col items-center justify-center bg-black bg-opacity-50 top-8 dark:bg-white", children: /* @__PURE__ */ (0, import_jsx_runtime13.jsx)("span", { className: "text-xl text-black dark:text-white p-4", children: "InfraNodus graph view: No file or data to refer to. Open a file and click the InfraNodus button or use the contextual menu on a file, a folder, search results, tags, or bookmarks." }) })
     }
   );
 };
@@ -36726,11 +37396,11 @@ function graphContainerSidebarIsHidden() {
   const isHidden = graphContainer.offsetParent === null;
   return isHidden;
 }
-async function openGraphSideView(app) {
+async function openGraphSideView(app2) {
   const isHidden = graphContainerSidebarIsHidden();
   if (!isHidden)
     return console.log("Graph container is already open");
-  const rightSplit = app.workspace.rightSplit;
+  const rightSplit = app2.workspace.rightSplit;
   if (rightSplit.collapsed)
     rightSplit.expand();
   const stillHidden = graphContainerSidebarIsHidden();
@@ -36747,13 +37417,13 @@ var INFRANODUS_GRAPH_VIEW_TYPE = "infranodus-graph-view";
 var INFRANODUS_GRAPH_SIDE_VIEW_ID = "infranodus-graph-side-view";
 var INFRANODUS_GRAPH_BUTTON_ID = "infranodus-graph-button";
 function onError(a, b, c, d, e) {
-  new import_obsidian13.Notice(`message: ${a}`, 2e4);
-  new import_obsidian13.Notice(`source: ${b}`, 2e4);
-  new import_obsidian13.Notice(`error: ${e}`, 2e4);
+  new import_obsidian15.Notice(`message: ${a}`, 2e4);
+  new import_obsidian15.Notice(`source: ${b}`, 2e4);
+  new import_obsidian15.Notice(`error: ${e}`, 2e4);
   return true;
 }
-var currentPlatform6 = import_obsidian13.Platform.isMobileApp || import_obsidian13.Platform.isMobile ? "mobile" : "desktop";
-var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
+var currentPlatform6 = import_obsidian15.Platform.isMobileApp || import_obsidian15.Platform.isMobile ? "mobile" : "desktop";
+var _InfraNodusGraphView = class extends import_obsidian15.ItemView {
   constructor(params) {
     var _a;
     super(params.leaf);
@@ -36775,7 +37445,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
       const abstractFile = this.app.vault.getAbstractFileByPath(
         this.filePath
       );
-      if (abstractFile instanceof import_obsidian13.TFolder) {
+      if (abstractFile instanceof import_obsidian15.TFolder) {
         this.isRoot = abstractFile.isRoot();
         this.isFolder = true;
       }
@@ -36846,8 +37516,8 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
     try {
       window.onerror = onError;
     } catch (err) {
-      new import_obsidian13.Notice("Error setting error handler");
-      new import_obsidian13.Notice(err.message);
+      new import_obsidian15.Notice("Error setting error handler");
+      new import_obsidian15.Notice(err.message);
     }
   }
   async reloadGraphWithBuffer(params, forceReload = false) {
@@ -36883,7 +37553,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
       const elementsRemoved = [];
       const hlclass = "infranodus-plugin-yellow-highlight";
       this.app.workspace.iterateAllLeaves((openLeaf) => {
-        if (!(openLeaf.view instanceof import_obsidian13.FileView))
+        if (!(openLeaf.view instanceof import_obsidian15.FileView))
           return;
         const html = openLeaf.view.containerEl.querySelectorAll(
           `.${hlclass}`
@@ -36905,7 +37575,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
     this.root = (0, import_client.createRoot)(this.shadowEl);
     if (this.filePath) {
       this.root.render(
-        React3.createElement(GraphView, {
+        React4.createElement(GraphView, {
           initialData: params.initialData,
           graphContext: {
             app: this.app,
@@ -36921,7 +37591,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
       );
     } else if (this.contentString) {
       this.root.render(
-        React3.createElement(GraphView, {
+        React4.createElement(GraphView, {
           initialData: params.initialData,
           graphContext: {
             app: this.app,
@@ -36937,7 +37607,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
         })
       );
     } else {
-      this.root.render(React3.createElement(EmptyGraphView, {}));
+      this.root.render(React4.createElement(EmptyGraphView, {}));
     }
     this.setTabTitle("InfraNodus Graph");
   }
@@ -36958,7 +37628,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
       setTimeout(() => {
         if (!headerIcon)
           return;
-        (0, import_obsidian13.setIcon)(headerIcon, "infranodus-icon");
+        (0, import_obsidian15.setIcon)(headerIcon, "infranodus-icon");
       }, 100);
     }
   }
@@ -36997,7 +37667,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
     30;
     if (this.filePath) {
       this.root.render(
-        React3.createElement(GraphView, {
+        React4.createElement(GraphView, {
           graphContext: {
             app: this.app,
             filePath: this.filePath,
@@ -37011,7 +37681,7 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
         })
       );
     } else {
-      this.root.render(React3.createElement(EmptyGraphView, {}));
+      this.root.render(React4.createElement(EmptyGraphView, {}));
     }
     const styleEl = shadowRoot.createEl("style");
     styleEl.textContent = `/* src/styles.css */
@@ -37186,17 +37856,14 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .bottom-0 {
   bottom: 0px;
 }
-.bottom-14 {
-  bottom: 56px;
-}
 .bottom-3 {
   bottom: 12px;
 }
+.bottom-4 {
+  bottom: 16px;
+}
 .bottom-\\[1px\\] {
   bottom: 1px;
-}
-.bottom-\\[76px\\] {
-  bottom: 76px;
 }
 .left-0 {
   left: 0px;
@@ -37204,11 +37871,11 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .left-1 {
   left: 4px;
 }
+.left-12 {
+  left: 48px;
+}
 .left-2 {
   left: 8px;
-}
-.left-3 {
-  left: 12px;
 }
 .right-0 {
   right: 0px;
@@ -37222,20 +37889,23 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .right-3 {
   right: 12px;
 }
+.top-0 {
+  top: 0px;
+}
 .top-1 {
   top: 4px;
 }
 .top-2 {
   top: 8px;
 }
-.top-4 {
-  top: 16px;
-}
-.top-6 {
-  top: 24px;
+.top-8 {
+  top: 32px;
 }
 .z-10 {
   z-index: 10;
+}
+.z-50 {
+  z-index: 50;
 }
 .z-\\[5\\] {
   z-index: 5;
@@ -37246,9 +37916,12 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .m-4 {
   margin: 16px;
 }
-.my-2 {
-  margin-top: 8px;
-  margin-bottom: 8px;
+.my-1 {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.-ml-1 {
+  margin-left: -4px;
 }
 .-ml-2 {
   margin-left: -8px;
@@ -37277,11 +37950,17 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .mr-auto {
   margin-right: auto;
 }
+.mt-0 {
+  margin-top: 0px;
+}
 .mt-1 {
   margin-top: 4px;
 }
 .mt-2 {
   margin-top: 8px;
+}
+.mt-4 {
+  margin-top: 16px;
 }
 .mt-auto {
   margin-top: auto;
@@ -37325,6 +38004,12 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 }
 .max-h-32 {
   max-height: 128px;
+}
+.max-h-60 {
+  max-height: 240px;
+}
+.max-h-\\[30vh\\] {
+  max-height: 30vh;
 }
 .max-h-\\[40vh\\] {
   max-height: 40vh;
@@ -37430,11 +38115,22 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .gap-4 {
   gap: 16px;
 }
+.space-y-2 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(8px * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(8px * var(--tw-space-y-reverse));
+}
+.overflow-auto {
+  overflow: auto;
+}
 .overflow-hidden {
   overflow: hidden;
 }
 .overflow-y-auto {
   overflow-y: auto;
+}
+.overflow-y-scroll {
+  overflow-y: scroll;
 }
 .whitespace-nowrap {
   white-space: nowrap;
@@ -37448,8 +38144,17 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .rounded-full {
   border-radius: 9999px;
 }
+.rounded-md {
+  border-radius: 6px;
+}
+.border {
+  border-width: 1px;
+}
 .border-0 {
   border-width: 0px;
+}
+.border-b {
+  border-bottom-width: 1px;
 }
 .border-b-\\[1px\\] {
   border-bottom-width: 1px;
@@ -37459,6 +38164,18 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 }
 .border-solid {
   border-style: solid;
+}
+.border-gray-200 {
+  --tw-border-opacity: 1;
+  border-color: rgb(229 231 235 / var(--tw-border-opacity));
+}
+.border-gray-300 {
+  --tw-border-opacity: 1;
+  border-color: rgb(209 213 219 / var(--tw-border-opacity));
+}
+.border-gray-600 {
+  --tw-border-opacity: 1;
+  border-color: rgb(75 85 99 / var(--tw-border-opacity));
 }
 .border-transparent {
   border-color: transparent;
@@ -54145,6 +54862,14 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .p-4 {
   padding: 16px;
 }
+.px-0 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.px-0\\.5 {
+  padding-left: 2px;
+  padding-right: 2px;
+}
 .px-1 {
   padding-left: 4px;
   padding-right: 4px;
@@ -54161,6 +54886,10 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
   padding-left: 10px;
   padding-right: 10px;
 }
+.px-3 {
+  padding-left: 12px;
+  padding-right: 12px;
+}
 .px-4 {
   padding-left: 16px;
   padding-right: 16px;
@@ -54176,6 +54905,10 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .py-1 {
   padding-top: 4px;
   padding-bottom: 4px;
+}
+.py-1\\.5 {
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 .py-2 {
   padding-top: 8px;
@@ -54211,6 +54944,9 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .font-bold {
   font-weight: 700;
 }
+.font-normal {
+  font-weight: 400;
+}
 .font-semibold {
   font-weight: 600;
 }
@@ -54237,9 +54973,9 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
   --tw-text-opacity: 1;
   color: rgb(55 65 81 / var(--tw-text-opacity));
 }
-.text-white {
+.text-violet-700 {
   --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: rgb(109 40 217 / var(--tw-text-opacity));
 }
 .underline {
   text-decoration-line: underline;
@@ -54297,6 +55033,14 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 }
 .bg-blend-luminosity {
   background-blend-mode: luminosity;
+}
+.shadow-lg {
+  --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
+  box-shadow:
+    var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000),
+    var(--tw-shadow);
 }
 .outline-none {
   outline: 2px solid transparent;
@@ -54381,6 +55125,18 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
   container-type: inline-size;
   container-name: main;
 }
+.placeholder\\:text-gray-400::-moz-placeholder {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity));
+}
+.placeholder\\:text-gray-400::placeholder {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity));
+}
+.hover\\:bg-gray-100:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
 .hover\\:bg-gray-350:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(182 188 197 / var(--tw-bg-opacity));
@@ -54393,12 +55149,24 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
   --tw-bg-opacity: 1;
   background-color: rgb(107 114 128 / var(--tw-bg-opacity));
 }
+.hover\\:text-black:hover {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+.focus\\:border-gray-400:focus {
+  --tw-border-opacity: 1;
+  border-color: rgb(156 163 175 / var(--tw-border-opacity));
+}
+.focus\\:outline-none:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
 .group:hover .group-hover\\:opacity-100 {
   opacity: 1;
 }
 @container main (min-width: 420px) {
-  .\\@\\[420px\\]\\/main\\:w-\\[400px\\] {
-    width: 400px;
+  .\\@\\[420px\\]\\/main\\:w-\\[376px\\] {
+    width: 376px;
   }
 }
 @container main (min-width: 470px) {
@@ -54411,6 +55179,18 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
   .\\@\\[470px\\]\\/main\\:w-full {
     width: 100%;
   }
+}
+.dark\\:border-gray-600:where(.dark, .dark *) {
+  --tw-border-opacity: 1;
+  border-color: rgb(75 85 99 / var(--tw-border-opacity));
+}
+.dark\\:border-gray-700:where(.dark, .dark *) {
+  --tw-border-opacity: 1;
+  border-color: rgb(55 65 81 / var(--tw-border-opacity));
+}
+.dark\\:border-gray-900:where(.dark, .dark *) {
+  --tw-border-opacity: 1;
+  border-color: rgb(17 24 39 / var(--tw-border-opacity));
 }
 .dark\\:bg-\\[\\#0d1117\\]:where(.dark, .dark *) {
   --tw-bg-opacity: 1;
@@ -54456,9 +55236,21 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
   --tw-text-opacity: 1;
   color: rgb(156 163 175 / var(--tw-text-opacity));
 }
+.dark\\:text-violet-400:where(.dark, .dark *) {
+  --tw-text-opacity: 1;
+  color: rgb(167 139 250 / var(--tw-text-opacity));
+}
 .dark\\:text-white:where(.dark, .dark *) {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.dark\\:placeholder\\:text-gray-500:where(.dark, .dark *)::-moz-placeholder {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+.dark\\:placeholder\\:text-gray-500:where(.dark, .dark *)::placeholder {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
 }
 .dark\\:hover\\:bg-\\[\\#101722\\]:hover:where(.dark, .dark *) {
   --tw-bg-opacity: 1;
@@ -54471,6 +55263,18 @@ var _InfraNodusGraphView = class extends import_obsidian13.ItemView {
 .dark\\:hover\\:bg-gray-700:hover:where(.dark, .dark *) {
   --tw-bg-opacity: 1;
   background-color: rgb(55 65 81 / var(--tw-bg-opacity));
+}
+.dark\\:hover\\:bg-gray-800:hover:where(.dark, .dark *) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+.dark\\:hover\\:text-white:hover:where(.dark, .dark *) {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.dark\\:focus\\:border-gray-500:focus:where(.dark, .dark *) {
+  --tw-border-opacity: 1;
+  border-color: rgb(107 114 128 / var(--tw-border-opacity));
 }
 `;
     shadowRoot.appendChild(styleEl);
@@ -54487,11 +55291,11 @@ var InfraNodusGraphView = _InfraNodusGraphView;
 InfraNodusGraphView.ribbonIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon dice"><path d="M19 3H5C3.89543 3 3 3.89543 3 5V19C3 20.1046 3.89543 21 5 21H19C20.1046 21 21 20.1046 21 19V5C21 3.89543 20.1046 3 19 3Z"></path><path d="M17 16C17 16.5523 16.5523 17 16 17C15.4477 17 15 16.5523 15 16C15 15.4477 15.4477 15 16 15C16.5523 15 17 15.4477 17 16Z"></path><path d="M13 12C13 12.5523 12.5523 13 12 13C11.4477 13 11 12.5523 11 12C11 11.4477 11.4477 11 12 11C12.5523 11 13 11.4477 13 12Z"></path><path d="M9 8C9 8.55228 8.55228 9 8 9C7.44772 9 7 8.55228 7 8C7 7.44772 7.44772 7 8 7C8.55228 7 9 7.44772 9 8Z"></path></svg>`;
 
 // src/graph_view/lib/openGraphNewTab.ts
-var import_obsidian14 = require("obsidian");
-var currentPlatform7 = import_obsidian14.Platform.isMobileApp || import_obsidian14.Platform.isMobile ? "mobile" : "desktop";
+var import_obsidian16 = require("obsidian");
+var currentPlatform7 = import_obsidian16.Platform.isMobileApp || import_obsidian16.Platform.isMobile ? "mobile" : "desktop";
 async function focusOrOpenGraphTab(params) {
   let leaf;
-  new import_obsidian14.Notice("Open: " + SETTINGS.MOBILE_OPEN_GRAPH_IN);
+  new import_obsidian16.Notice("Open: " + SETTINGS.MOBILE_OPEN_GRAPH_IN);
   params.app.workspace.iterateAllLeaves((openLeaf) => {
     if (!(openLeaf.view instanceof InfraNodusGraphView))
       return;
@@ -54543,19 +55347,19 @@ async function focusOrOpenGraphTab(params) {
 }
 
 // src/utils/searchResults.ts
-var import_obsidian15 = require("obsidian");
-async function extractObsidianSearchResults(app) {
+var import_obsidian17 = require("obsidian");
+async function extractObsidianSearchResults(app2) {
   var _a;
   try {
     let results = [];
     const searchLeaves = this.app.workspace.getLeavesOfType("search");
     if (searchLeaves.length === 0) {
-      new import_obsidian15.Notice("No search results were found.");
+      new import_obsidian17.Notice("No search results were found.");
       return;
     }
-    const searchView = (_a = app.workspace.getLeavesOfType("search")[0]) == null ? void 0 : _a.view;
+    const searchView = (_a = app2.workspace.getLeavesOfType("search")[0]) == null ? void 0 : _a.view;
     if (searchView === void 0) {
-      new import_obsidian15.Notice("The core search plugin is not enabled");
+      new import_obsidian17.Notice("The core search plugin is not enabled");
       return;
     }
     for (const leaf of searchLeaves) {
@@ -54588,7 +55392,7 @@ async function extractObsidianSearchResults(app) {
       const searchQuery = searchView2.getQuery();
       const searchResultItems = searchView2.dom.getFiles();
       if (!searchResultItems || searchResultItems.size === 0) {
-        new import_obsidian15.Notice("No search results were found.");
+        new import_obsidian17.Notice("No search results were found.");
         continue;
       }
       const searchSnippets = searchView2.dom.resultDomLookup;
@@ -54605,7 +55409,7 @@ async function extractObsidianSearchResults(app) {
       for (const searchResultItem of searchResultItems) {
         const path = searchResultItem.path;
         const file = this.app.vault.getAbstractFileByPath(path);
-        if (file instanceof import_obsidian15.TFile) {
+        if (file instanceof import_obsidian17.TFile) {
           const content = await this.app.vault.cachedRead(file);
           const snippetsFound = filePathToSearchSnippet[path];
           results.push({
@@ -54632,7 +55436,7 @@ async function extractObsidianSearchResults(app) {
 
 // src/main.ts
 var LEAF_VIEW_BUTTON_CLASS = "infranodus-leaf-view-button";
-var InfraNodusPlugin = class extends import_obsidian16.Plugin {
+var InfraNodusPlugin = class extends import_obsidian18.Plugin {
   constructor() {
     super(...arguments);
     this.settings = SETTINGS;
@@ -54653,23 +55457,25 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
         new CustomEvent(EVENT_SETTINGS_SAVED)
       );
     }).bind(this);
+    // async quickScrollRender(view: MarkdownView) {
+    // 	const previewMode = view.getMode() === "preview";
+    // 	const contentEl = previewMode
+    // 		? view.previewMode.containerEl
+    // 		: view.contentEl;
+    // 	// Store the current scroll position
+    // 	const originalScrollTop = contentEl.scrollTop;
+    // 	// Scroll to the bottom instantly
+    // 	contentEl.scrollTop = contentEl.scrollHeight;
+    // 	// Wait a tiny bit for the render to trigger
+    // 	await new Promise((resolve) => setTimeout(resolve, 50));
+    // 	// Scroll back to the original position instantly
+    // 	contentEl.scrollTop = originalScrollTop;
+    // 	// Wait a bit more for any final rendering to complete
+    // 	await new Promise((resolve) => setTimeout(resolve, 50));
+    // }
+    this.bookmarksLoaded = false;
+    this.currentLeafViewed = "";
   }
-  // async quickScrollRender(view: MarkdownView) {
-  // 	const previewMode = view.getMode() === "preview";
-  // 	const contentEl = previewMode
-  // 		? view.previewMode.containerEl
-  // 		: view.contentEl;
-  // 	// Store the current scroll position
-  // 	const originalScrollTop = contentEl.scrollTop;
-  // 	// Scroll to the bottom instantly
-  // 	contentEl.scrollTop = contentEl.scrollHeight;
-  // 	// Wait a tiny bit for the render to trigger
-  // 	await new Promise((resolve) => setTimeout(resolve, 50));
-  // 	// Scroll back to the original position instantly
-  // 	contentEl.scrollTop = originalScrollTop;
-  // 	// Wait a bit more for any final rendering to complete
-  // 	await new Promise((resolve) => setTimeout(resolve, 50));
-  // }
   async onload() {
     await this.loadSettings();
     this.addSettingTab(new InfraNodusSettingTab(this.app, this));
@@ -54677,8 +55483,21 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
       EVENT_SAVE_SETTINGS,
       this.onSettingsSaveEvent
     );
-    const currentPlatform8 = import_obsidian16.Platform.isMobileApp || import_obsidian16.Platform.isMobile ? "mobile" : "desktop";
-    (0, import_obsidian16.addIcon)(
+    this.registerEvent(
+      this.app.workspace.on("active-leaf-change", (leaf) => {
+        var _a;
+        if (((_a = leaf == null ? void 0 : leaf.view) == null ? void 0 : _a.getViewType()) === "bookmarks") {
+          if (this.bookmarksLoaded)
+            return;
+          this.loadBookmarksContextMenu();
+          this.bookmarksLoaded = true;
+          this.app.workspace.off("active-leaf-change", () => {
+          });
+        }
+      })
+    );
+    const currentPlatform8 = import_obsidian18.Platform.isMobileApp || import_obsidian18.Platform.isMobile ? "mobile" : "desktop";
+    (0, import_obsidian18.addIcon)(
       "infranodus-icon",
       `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%" viewBox="0 0 128 128" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g><path style="opacity:0.899" fill="currentColor" d="M 127.5,26.5 C 127.5,30.1667 127.5,33.8333 127.5,37.5C 122.206,56.7764 109.539,65.4431 89.5,63.5C 87.7075,69.5442 85.7075,75.5442 83.5,81.5C 95.7823,92.6566 97.6156,105.323 89,119.5C 85.1134,123.354 80.6134,126.021 75.5,127.5C 71.8333,127.5 68.1667,127.5 64.5,127.5C 48.1828,120.516 43.0162,108.516 49,91.5C 55.2151,82.4192 63.8818,78.0859 75,78.5C 76.7784,72.4955 78.945,66.6622 81.5,61C 73.277,56.583 67.6103,49.9163 64.5,41C 61.5458,41.3157 58.5458,41.8157 55.5,42.5C 55.8696,58.2719 48.5363,68.4386 33.5,73C 16.049,75.1253 4.7157,67.9586 -0.5,51.5C -0.5,47.5 -0.5,43.5 -0.5,39.5C 7.22426,19.5245 21.2243,13.3578 41.5,21C 46.8015,24.2975 50.6348,28.7975 53,34.5C 55.7367,33.4396 58.57,32.6063 61.5,32C 63.6267,21.7553 68.6267,13.0886 76.5,6C 93.683,-3.39902 108.85,-0.89902 122,13.5C 124.349,17.7415 126.182,22.0748 127.5,26.5 Z M 89.5,9.5 C 103.594,7.62495 113.094,13.2916 118,26.5C 119.395,42.9504 111.895,52.6171 95.5,55.5C 76.099,51.6932 69.2656,40.3599 75,21.5C 78.5405,15.78 83.3739,11.78 89.5,9.5 Z M 24.5,26.5 C 39.479,26.9763 46.6456,34.643 46,49.5C 40.8709,63.5452 31.3709,67.7119 17.5,62C 7.9873,54.4205 6.15396,45.2539 12,34.5C 15.5789,30.724 19.7456,28.0573 24.5,26.5 Z M 65.5,88.5 C 79.4397,87.2736 85.9397,93.6069 85,107.5C 80.2071,117.652 72.7071,120.485 62.5,116C 55.1379,110.099 53.6379,102.932 58,94.5C 60.1141,91.8792 62.6141,89.8792 65.5,88.5 Z"/></g>
@@ -54727,23 +55546,23 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
           workspace.iterateAllLeaves((openLeaf) => {
             if (file)
               return;
-            const isMarkdownView = openLeaf.view instanceof import_obsidian16.MarkdownView;
+            const isMarkdownView = openLeaf.view instanceof import_obsidian18.MarkdownView;
             const isInMainPane = openLeaf.getRoot() === workspace.rootSplit;
-            if (openLeaf.view instanceof import_obsidian16.FileView && isMarkdownView && isInMainPane) {
+            if (openLeaf.view instanceof import_obsidian18.FileView && isMarkdownView && isInMainPane) {
               file = openLeaf.view.file;
             }
           });
         }
         if (!file && currentlyOpenPanel == "file-explorer")
-          return new import_obsidian16.Notice("No file to open graph for");
+          return new import_obsidian18.Notice("No file to open graph for");
         const parent = file == null ? void 0 : file.parent;
         const filePath = parent ? parent.path : "/";
         if (currentlyOpenPanel == "file-explorer") {
-          new import_obsidian16.Notice(
+          new import_obsidian18.Notice(
             "Generating a new InfraNodus graph for " + filePath
           );
         } else {
-          new import_obsidian16.Notice(
+          new import_obsidian18.Notice(
             "Generating a new InfraNodus graph for the files found in the search results."
           );
         }
@@ -54779,12 +55598,17 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
         const file = ((_a = leaf == null ? void 0 : leaf.view) != null ? _a : {}).file;
         if (!file)
           return;
+        if ((file == null ? void 0 : file.path) == this.currentLeafViewed)
+          return;
         const currentLeaf = this.app.workspace.getLeavesOfType(
           INFRANODUS_GRAPH_VIEW_TYPE
         );
         const sideView = (_b = currentLeaf[0]) == null ? void 0 : _b.view;
         if (!sideView)
           return;
+        if (SETTINGS.RELOADING_GRAPH != "automatic")
+          return;
+        this.currentLeafViewed = file == null ? void 0 : file.path;
         sideView.reloadGraphWithBuffer({
           leaf: leaf != null ? leaf : void 0,
           filePath: (_c = file == null ? void 0 : file.path) != null ? _c : ""
@@ -54834,7 +55658,7 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
         if (this.infraNodusSideView && this.infraNodusSideView.filePath)
           return;
         const filePath = (_a = this.app.workspace.getActiveFile()) == null ? void 0 : _a.path;
-        const activeLeaf = (_b = this.app.workspace.getActiveViewOfType(import_obsidian16.FileView)) == null ? void 0 : _b.leaf;
+        const activeLeaf = (_b = this.app.workspace.getActiveViewOfType(import_obsidian18.FileView)) == null ? void 0 : _b.leaf;
         if (!filePath)
           return;
         if (!this.infraNodusSideView)
@@ -54844,7 +55668,7 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
           false
         );
       }, 1e3);
-      const app = this.app;
+      const app2 = this.app;
       const _parentThis = this;
       function addGraphButton(containerEl) {
         if (containerEl.querySelector(`.${LEAF_VIEW_BUTTON_CLASS}`)) {
@@ -54864,31 +55688,31 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
           if (currentPlatform8 === "desktop") {
             const isHidden = graphContainerSidebarIsHidden();
             if (isHidden) {
-              openGraphSideView(app);
+              openGraphSideView(app2);
               return;
             }
           }
-          const wks = app.workspace;
+          const wks = app2.workspace;
           const filePath = (_a = wks.getActiveFile()) == null ? void 0 : _a.path;
-          const activeLeaf = (_b = wks.getActiveViewOfType(import_obsidian16.FileView)) == null ? void 0 : _b.leaf;
+          const activeLeaf = (_b = wks.getActiveViewOfType(import_obsidian18.FileView)) == null ? void 0 : _b.leaf;
           if (!filePath)
             return;
           try {
-            const abstractFile = app.vault.getAbstractFileByPath(filePath);
-            if (!(abstractFile instanceof import_obsidian16.TFile))
+            const abstractFile = app2.vault.getAbstractFileByPath(filePath);
+            if (!(abstractFile instanceof import_obsidian18.TFile))
               return;
-            new import_obsidian16.Notice("Opening Graph...");
-            await focusOrOpenGraphTab({ app, filePath });
+            new import_obsidian18.Notice("Opening Graph...");
+            await focusOrOpenGraphTab({ app: app2, filePath });
           } catch (e) {
             if (e.message)
-              new import_obsidian16.Notice("Error: " + e.message);
+              new import_obsidian18.Notice("Error: " + e.message);
           }
         });
         viewActionsContainer.prepend(button);
-        (0, import_obsidian16.setIcon)(button, "infranodus-icon");
+        (0, import_obsidian18.setIcon)(button, "infranodus-icon");
       }
       this.app.workspace.iterateAllLeaves((leaf) => {
-        if (!(leaf.view instanceof import_obsidian16.MarkdownView))
+        if (!(leaf.view instanceof import_obsidian18.MarkdownView))
           return;
         if (!leaf.view.file)
           return;
@@ -54901,7 +55725,7 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
         this.app.workspace.on("active-leaf-change", (leaf) => {
           if (!leaf)
             return;
-          if (!(leaf.view instanceof import_obsidian16.MarkdownView))
+          if (!(leaf.view instanceof import_obsidian18.MarkdownView))
             return;
           if (!leaf.view.file)
             return;
@@ -54958,16 +55782,28 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
           }
         )
       );
-      this.loadBookmarksContextMenu();
     });
   }
   async loadBookmarksContextMenu() {
-    const leaf = this.app.workspace.getLeavesOfType("bookmarks")[0];
-    if (!leaf) {
+    var _a;
+    const bookmarksPlugin = this.app.internalPlugins.plugins.bookmarks;
+    if (!(bookmarksPlugin == null ? void 0 : bookmarksPlugin.enabled)) {
+      await (bookmarksPlugin == null ? void 0 : bookmarksPlugin.enable());
+      await new Promise((resolve) => setTimeout(resolve, 100));
+    }
+    const leaves = this.app.workspace.getLeavesOfType("bookmarks");
+    if (!leaves || leaves.length === 0) {
       return;
     }
+    const leaf = leaves[0];
     const view = leaf.view;
-    const bookmarkItems = view.plugin.items;
+    if (!view) {
+      return;
+    }
+    const bookmarkItems = (_a = view.plugin) == null ? void 0 : _a.items;
+    if (!bookmarkItems) {
+      return;
+    }
     const bookmarkItemsToUse = {};
     bookmarkItems.forEach((bookmarkItem, index) => {
       if (bookmarkItem.type == "group") {
@@ -54987,9 +55823,12 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
       const domProto = Object.getPrototypeOf(dom);
       const originalOnContextMenu = domProto.onContextMenu;
       const self2 = this;
+      if (domProto._hasContextMenu)
+        return;
       domProto.onContextMenu = function(evt) {
-        const originalShowAtMouseEvent = import_obsidian16.Menu.prototype.showAtMouseEvent;
-        import_obsidian16.Menu.prototype.showAtMouseEvent = function(evt2) {
+        domProto._hasContextMenu = true;
+        const originalShowAtMouseEvent = import_obsidian18.Menu.prototype.showAtMouseEvent;
+        import_obsidian18.Menu.prototype.showAtMouseEvent = function(evt2) {
           self2.app.workspace.trigger("bookmarks:menu", {
             menu: this,
             type: bookmarkItemToUse.type,
@@ -55000,11 +55839,10 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
         try {
           originalOnContextMenu.call(this, evt);
         } finally {
-          import_obsidian16.Menu.prototype.showAtMouseEvent = originalShowAtMouseEvent;
+          import_obsidian18.Menu.prototype.showAtMouseEvent = originalShowAtMouseEvent;
         }
       };
     });
-    const bookmarksPlugin = this.app.internalPlugins.plugins.bookmarks;
     bookmarksPlugin.disable();
     await bookmarksPlugin.enable();
   }
@@ -55023,7 +55861,7 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
         menu.addItem((item) => {
           item.setTitle("Open in InfraNodus Graph").setIcon("infranodus-icon").onClick(async () => {
             if (!files || files.length === 0) {
-              new import_obsidian16.Notice(
+              new import_obsidian18.Notice(
                 "No files selected, so there's nothing to process."
               );
               return;
@@ -55031,14 +55869,14 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
             const contentToAnalyze = [];
             const fileNames = [];
             for (const file of files) {
-              if (file instanceof import_obsidian16.TFile) {
+              if (file instanceof import_obsidian18.TFile) {
                 const content = await this.app.vault.cachedRead(file);
                 fileNames.push(file.name);
                 contentToAnalyze.push(content);
               }
             }
             if (contentToAnalyze.length === 0) {
-              new import_obsidian16.Notice(
+              new import_obsidian18.Notice(
                 "Could not extract any content from files."
               );
               return;
@@ -55063,7 +55901,7 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
                 "bookmarks"
               )[0];
               if (!leaf) {
-                new import_obsidian16.Notice(
+                new import_obsidian18.Notice(
                   "Bookmarks Plugin is not initialized"
                 );
                 return;
@@ -55119,7 +55957,7 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
                 contentToAnalyze.push(content);
               }
               if (contentToAnalyze.length === 0) {
-                new import_obsidian16.Notice(
+                new import_obsidian18.Notice(
                   "Could not extract any content from files."
                 );
                 return;
@@ -55161,8 +55999,8 @@ var InfraNodusPlugin = class extends import_obsidian16.Plugin {
     sourcePath
   }) {
     var _a;
-    new import_obsidian16.Notice("Generating InfraNodus Graph...");
-    const currentPlatform8 = import_obsidian16.Platform.isMobileApp || import_obsidian16.Platform.isMobile ? "mobile" : "desktop";
+    new import_obsidian18.Notice("Generating InfraNodus Graph...");
+    const currentPlatform8 = import_obsidian18.Platform.isMobileApp || import_obsidian18.Platform.isMobile ? "mobile" : "desktop";
     const plat = currentPlatform8;
     if (plat === "desktop") {
       await openGraphSideView(this.app);
@@ -55258,5 +56096,6 @@ lodash/lodash.js:
    * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
    *)
 */
+
 
 /* nosourcemap */
