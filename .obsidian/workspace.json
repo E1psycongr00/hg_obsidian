@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수정 노트/벡터 항등식.md",
+                "file": "수정 노트/동등 분할.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "벡터 항등식"
+              "title": "동등 분할"
             }
           }
         ],
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "곡선 좌표계",
+                "query": "테스트",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "수정 노트/벡터 항등식.md"
+                "file": "수정 노트/동등 분할.md"
               },
               "icon": "lucide-info",
-              "title": "벡터 항등식 의 파일 속성"
+              "title": "동등 분할 의 파일 속성"
             }
           },
           {
@@ -308,13 +308,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수정 노트/벡터 항등식.md",
+                "file": "수정 노트/동등 분할.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "벡터 항등식 의 개요"
+              "title": "동등 분할 의 개요"
             }
           }
         ]
@@ -348,9 +348,9 @@
   },
   "active": "361f1168f36bf698",
   "lastOpenFiles": [
+    "수정 노트/벡터 항등식.md",
     "연습노트/벡터 항등식 쉽게 외우기.md",
     "Excalidraw/발산 관련 항등식 (draw).md",
-    "수정 노트/벡터 항등식.md",
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "3.Resources/전기기사/전자기학.md",
     "Excalidraw/발산 관련 항등식 (draw).svg",
