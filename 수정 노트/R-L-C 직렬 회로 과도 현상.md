@@ -1,6 +1,8 @@
 ---
 tags:
-  - 미완
+  - 수정
+  - 회로이론
+  - 제어공학
 aliases: 
 date:
 title: "R-L-C 직렬 회로 과도 현상"

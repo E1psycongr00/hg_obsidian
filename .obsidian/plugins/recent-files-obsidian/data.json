@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring Modulith",
+      "path": "연습노트/Spring Modulith.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "연습노트/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "R-L-C 직렬 회로 과도 현상",
+      "path": "수정 노트/R-L-C 직렬 회로 과도 현상.md"
+    },
+    {
       "basename": "동등 분할",
       "path": "수정 노트/동등 분할.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "ABCD 파라미터",
       "path": "영구노트/ABCD 파라미터.md"
-    },
-    {
-      "basename": "2022 4월 전기기사 4번",
-      "path": "영구노트/2022 4월 전기기사 4번.md"
-    },
-    {
-      "basename": "분극",
-      "path": "영구노트/분극.md"
-    },
-    {
-      "basename": "장(Field)",
-      "path": "영구노트/장(Field).md"
     }
   ],
   "omittedPaths": [],
