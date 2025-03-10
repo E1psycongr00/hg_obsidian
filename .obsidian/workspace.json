@@ -11,14 +11,15 @@
             "id": "e886d934d89f1020",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "1.Projects/이력서 관리/새 이력서.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "새 이력서"
             }
           }
         ]
@@ -98,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "1.Projects/이력서 관리/새 이력서.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "새 이력서 의 파일 속성"
             }
           },
           {
@@ -233,8 +236,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -290,6 +293,26 @@
             "id": "82966199baace742",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "802b743631744db8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "3a6020f233302ce7",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -310,12 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1.Projects/이력서 관리/새 이력서.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "새 이력서 의 개요"
             }
           }
         ]
@@ -350,12 +374,14 @@
   "active": "e886d934d89f1020",
   "lastOpenFiles": [
     "1.Projects/이력서 관리/새 이력서.md",
-    "데드풀 감상문.md",
+    "마키세 크리스1.md",
     "1.Projects/Projects란.md",
+    "두개의 무한 평판의 전계.md",
+    "데드풀 감상문.md",
+    "기본 벡터 연산.md",
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
     "레미제라블 25주년 감상문.md",
-    "두개의 무한 평판의 전계.md",
     "전자기파 구조도.md",
     "분산 시스템.md",
     "1.Projects/이력서 관리",
@@ -371,14 +397,12 @@
     "Excalidraw/기울기 관련 항등식 (draw).md",
     "Excalidraw/기본 벡터 연산 항등식 (draw).md",
     "Excalidraw/기울기 관련 항등식 (draw).svg",
-    "기본 벡터 연산.md",
     "Excalidraw/기본 벡터 연산 항등식 (draw).svg",
     "영구노트/벡터의 외적.md",
     "영구노트/비오 사바트의 법칙.md",
     "무제.md",
     "영구노트/웨버.md",
     "영구노트/평행판 축전기 정전 용량 증명.md",
-    "영구노트/유전체 경계 조건.md",
     "Excalidraw/전기 쌍극자 그림 (draw).svg",
     "attachments/screenshot/Pasted Image 20250304164236_347.png",
     "Excalidraw/직렬 연결과 내압 (draw).svg",
