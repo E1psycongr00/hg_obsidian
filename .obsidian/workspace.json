@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -352,6 +353,11 @@
   "lastOpenFiles": [
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
     "1.Projects/이력서 관리/새 이력서.md",
+    "데드풀 감상문.md",
+    "레미제라블 25주년 감상문.md",
+    "두개의 무한 평판의 전계.md",
+    "전자기파 구조도.md",
+    "분산 시스템.md",
     "1.Projects/이력서 관리",
     "연습노트/Spring Modulith.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
@@ -375,12 +381,7 @@
     "영구노트/평행판 축전기 정전 용량 증명.md",
     "영구노트/유전체 경계 조건.md",
     "영구노트/전기 쌍극자.md",
-    "영구노트/스케일 팩터.md",
-    "영구노트/쌍극자 근사법.md",
-    "Excalidraw/전기 쌍극자 그림 (draw).md",
     "Excalidraw/전기 쌍극자 그림 (draw).svg",
-    "무제 파일 1.md",
-    "전기 쌍극자.md",
     "attachments/screenshot/Pasted Image 20250304164236_347.png",
     "Excalidraw/직렬 연결과 내압 (draw).svg",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
