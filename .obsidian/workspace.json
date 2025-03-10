@@ -252,8 +252,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -280,19 +280,20 @@
             "id": "dcb4cd405e0556e5",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "1981f2c2cb43fe0e",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
-            }
-          },
-          {
-            "id": "3335d496df23b2fb",
-            "type": "leaf",
-            "state": {
-              "type": "infranodus-graph-view",
-              "state": {},
-              "icon": "infranodus-icon"
             }
           }
         ],
