@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "전류 소자가 받는 힘"
             }
+          },
+          {
+            "id": "28a935b3f83ca05b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-12 08.19.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-12 08.19.38.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/전류 소자가 받는 힘.md"
+                "file": "Excalidraw/Drawing 2025-03-12 08.19.38.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "전류 소자가 받는 힘 의 파일 속성"
+              "title": "Drawing 2025-03-12 08.19.38.excalidraw 의 파일 속성"
             }
           },
           {
@@ -230,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/전류 소자가 받는 힘.md",
+                "file": "Excalidraw/Drawing 2025-03-12 08.19.38.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -258,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전류 소자가 받는 힘 그래프"
+              "title": "Drawing 2025-03-12 08.19.38.excalidraw 그래프"
             }
           },
           {
@@ -305,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/전류 소자가 받는 힘.md",
+                "file": "Excalidraw/Drawing 2025-03-12 08.19.38.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전류 소자가 받는 힘 의 개요"
+              "title": "Drawing 2025-03-12 08.19.38.excalidraw 의 개요"
             }
           }
         ]
@@ -343,10 +355,12 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "78926ef65ba32878",
+  "active": "28a935b3f83ca05b",
   "lastOpenFiles": [
-    "영구노트/하전 입자가 받는 힘.md",
     "연습노트/전류 소자가 받는 힘.md",
+    "Excalidraw/Drawing 2025-03-12 08.19.38.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-12 08.19.38.excalidraw.svg",
+    "영구노트/하전 입자가 받는 힘.md",
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "영구노트/로렌쯔의 힘.md",
     "영구노트/구심력.md",
@@ -371,8 +385,6 @@
     "Excalidraw/발산 관련 항등식 (draw).md",
     "3.Resources/전기기사/전자기학.md",
     "Excalidraw/발산 관련 항등식 (draw).svg",
-    "Excalidraw/기울기 관련 항등식 (draw).md",
-    "Excalidraw/기본 벡터 연산 항등식 (draw).md",
     "Excalidraw/기울기 관련 항등식 (draw).svg",
     "Excalidraw/기본 벡터 연산 항등식 (draw).svg",
     "Excalidraw/전기 쌍극자 그림 (draw).svg",
@@ -382,7 +394,6 @@
     "attachments/screenshot/Pasted image 20250228173635.png",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
     "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
-    "Excalidraw/중성점 (draw).svg",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
