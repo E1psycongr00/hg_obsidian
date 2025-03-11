@@ -313,6 +313,16 @@
             "id": "3a6020f233302ce7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "71b8638f0a16e387",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -320,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       },
       {
         "id": "7d466e57ea240c21",
@@ -371,7 +381,7 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "e886d934d89f1020",
+  "active": "71b8638f0a16e387",
   "lastOpenFiles": [
     "1.Projects/이력서 관리/새 이력서.md",
     "마키세 크리스1.md",
