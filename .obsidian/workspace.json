@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전기 쌍극자",
+                "query": "자화",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -312,7 +311,7 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "33f56067064d3b22",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "영구노트/전기 쌍극자.md",
