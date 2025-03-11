@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/곡선 좌표계와 미분 연산자.md",
+                "file": "영구노트/로렌쯔의 힘.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "곡선 좌표계와 미분 연산자"
+              "title": "로렌쯔의 힘"
+            }
+          },
+          {
+            "id": "9a7712f53af33c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/하전 입자가 받는 힘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "하전 입자가 받는 힘"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "자화",
+                "query": "전하",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +102,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -99,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/곡선 좌표계와 미분 연산자.md"
+                "file": "연습노트/하전 입자가 받는 힘.md"
               },
               "icon": "lucide-info",
-              "title": "곡선 좌표계와 미분 연산자 의 파일 속성"
+              "title": "하전 입자가 받는 힘 의 파일 속성"
             }
           },
           {
@@ -273,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/곡선 좌표계와 미분 연산자.md",
+                "file": "연습노트/하전 입자가 받는 힘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "곡선 좌표계와 미분 연산자 의 개요"
+              "title": "하전 입자가 받는 힘 의 개요"
             }
           }
         ]
@@ -311,8 +328,10 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "9a7712f53af33c5c",
   "lastOpenFiles": [
+    "연습노트/하전 입자가 받는 힘.md",
+    "영구노트/로렌쯔의 힘.md",
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "영구노트/전기 쌍극자.md",
     "데드풀 감상문.md",
@@ -341,8 +360,6 @@
     "Excalidraw/기본 벡터 연산 항등식 (draw).svg",
     "영구노트/벡터의 외적.md",
     "영구노트/비오 사바트의 법칙.md",
-    "무제.md",
-    "영구노트/웨버.md",
     "Excalidraw/전기 쌍극자 그림 (draw).svg",
     "attachments/screenshot/Pasted Image 20250304164236_347.png",
     "Excalidraw/직렬 연결과 내압 (draw).svg",
