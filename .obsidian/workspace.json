@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Projects/이력서 관리/새 이력서.md",
+                "file": "데드풀 감상문.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "새 이력서"
+              "title": "데드풀 감상문"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1.Projects/이력서 관리/새 이력서.md"
+                "file": "데드풀 감상문.md"
               },
               "icon": "lucide-info",
-              "title": "새 이력서 의 파일 속성"
+              "title": "데드풀 감상문 의 파일 속성"
             }
           },
           {
@@ -343,13 +343,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Projects/이력서 관리/새 이력서.md",
+                "file": "데드풀 감상문.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "새 이력서 의 개요"
+              "title": "데드풀 감상문 의 개요"
             }
           }
         ]
@@ -381,14 +381,14 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "71b8638f0a16e387",
+  "active": "e886d934d89f1020",
   "lastOpenFiles": [
+    "기본 벡터 연산.md",
     "1.Projects/이력서 관리/새 이력서.md",
     "마키세 크리스1.md",
     "1.Projects/Projects란.md",
     "두개의 무한 평판의 전계.md",
     "데드풀 감상문.md",
-    "기본 벡터 연산.md",
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "1.Projects/유튜브 댓글 분석 기반 챗봇.md",
     "레미제라블 25주년 감상문.md",
