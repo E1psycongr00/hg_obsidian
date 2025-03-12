@@ -237,8 +237,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -310,8 +310,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "infranodus-graph-view:InfraNodus Graph View": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "cd5abdd4cbdbd41c",
