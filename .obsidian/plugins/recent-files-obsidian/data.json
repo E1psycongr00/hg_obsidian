@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "돌림힘 (draw)",
+      "path": "Excalidraw/돌림힘 (draw).md"
+    },
+    {
       "basename": "돌림힘",
       "path": "연습노트/돌림힘.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동등 분할",
       "path": "수정 노트/동등 분할.md"
-    },
-    {
-      "basename": "벡터 항등식 쉽게 외우기",
-      "path": "연습노트/벡터 항등식 쉽게 외우기.md"
     }
   ],
   "omittedPaths": [],

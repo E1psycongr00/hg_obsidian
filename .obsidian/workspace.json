@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "돌림힘"
             }
+          },
+          {
+            "id": "6faa88ad0e6f7513",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/돌림힘 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "돌림힘 (draw)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/돌림힘.md"
+                "file": "Excalidraw/돌림힘 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "돌림힘 의 파일 속성"
+              "title": "돌림힘 (draw) 의 파일 속성"
             }
           },
           {
@@ -216,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/돌림힘.md",
+                "file": "Excalidraw/돌림힘 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -244,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "돌림힘 그래프"
+              "title": "돌림힘 (draw) 그래프"
             }
           },
           {
@@ -291,13 +303,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/돌림힘.md",
+                "file": "Excalidraw/돌림힘 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "돌림힘 의 개요"
+              "title": "돌림힘 (draw) 의 개요"
             }
           }
         ]
@@ -330,10 +342,12 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "38b6b81f146b64dd",
+  "active": "6faa88ad0e6f7513",
   "lastOpenFiles": [
-    "연습노트/자기 쌍극자.md",
+    "Excalidraw/돌림힘 (draw).svg",
     "연습노트/돌림힘.md",
+    "Excalidraw/돌림힘 (draw).md",
+    "연습노트/자기 쌍극자.md",
     "수정 노트/벡터 항등식.md",
     "Excalidraw/자기 쌍극자 (draw).md",
     "Excalidraw/자기 쌍극자 (draw).svg",
@@ -359,8 +373,6 @@
     "연습노트/Spring Modulith.md",
     "연습노트/Spring Rest Docs with Kotlin DSL.md",
     "수정 노트/R-L-C 직렬 회로 과도 현상.md",
-    "수정 노트/동등 분할.md",
-    "연습노트/벡터 항등식 쉽게 외우기.md",
     "Excalidraw/발산 관련 항등식 (draw).svg",
     "Excalidraw/기울기 관련 항등식 (draw).svg",
     "Excalidraw/기본 벡터 연산 항등식 (draw).svg",
