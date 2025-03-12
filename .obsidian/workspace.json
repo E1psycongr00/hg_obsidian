@@ -31,21 +31,9 @@
               "icon": "lucide-file",
               "title": "자기 쌍극자"
             }
-          },
-          {
-            "id": "e56fc48b80077726",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/자기 쌍극자 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "자기 쌍극자 (draw)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/자기 쌍극자 (draw).md"
+                "file": "연습노트/자기 쌍극자.md"
               },
               "icon": "lucide-info",
-              "title": "자기 쌍극자 (draw) 의 파일 속성"
+              "title": "자기 쌍극자 의 파일 속성"
             }
           },
           {
@@ -222,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/자기 쌍극자 (draw).md",
+                "file": "연습노트/자기 쌍극자.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -250,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "자기 쌍극자 (draw) 그래프"
+              "title": "자기 쌍극자 그래프"
             }
           },
           {
@@ -297,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/자기 쌍극자 (draw).md",
+                "file": "연습노트/자기 쌍극자.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "자기 쌍극자 (draw) 의 개요"
+              "title": "자기 쌍극자 의 개요"
             }
           }
         ]
@@ -335,11 +323,11 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "e56fc48b80077726",
+  "active": "cd5abdd4cbdbd41c",
   "lastOpenFiles": [
+    "Excalidraw/자기 쌍극자 (draw).md",
     "Excalidraw/자기 쌍극자 (draw).svg",
     "연습노트/자기 쌍극자.md",
-    "Excalidraw/자기 쌍극자 (draw).md",
     "영구노트/하전 입자가 받는 힘.md",
     "영구노트/구심력.md",
     "영구노트/전류 소자가 받는 힘.md",
@@ -374,7 +362,6 @@
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/screenshot/Pasted image 20250228173635.png",
     "Excalidraw/상호 인덕턴스 유도식 (draw).svg",
-    "Excalidraw/1차에서 2차로 전해지는 상호유도 전압 (draw).svg",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
