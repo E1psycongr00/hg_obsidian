@@ -33,45 +33,8 @@
               "icon": "excalidraw-icon",
               "title": "자기 쌍극자 (draw)"
             }
-          },
-          {
-            "id": "3a8fab5cf80dd015",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/미소 루프 자기 쌍극자 모멘트 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "미소 루프 자기 쌍극자 모멘트 (draw)"
-            }
-          },
-          {
-            "id": "406e9a0c00b2c05d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/막대 자석 자기 쌍극자 모멘트 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "막대 자석 자기 쌍극자 모멘트 (draw)"
-            }
-          },
-          {
-            "id": "ab750d439cee8094",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/자기 회전력 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "자기 회전력 (draw)"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/자기 회전력 (draw).md"
+                "file": "연습노트/자기 쌍극자.md"
               },
               "icon": "lucide-info",
-              "title": "자기 회전력 (draw) 의 파일 속성"
+              "title": "자기 쌍극자 의 파일 속성"
             }
           },
           {
@@ -333,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/자기 회전력 (draw).md",
+                "file": "연습노트/자기 쌍극자.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "자기 회전력 (draw) 의 개요"
+              "title": "자기 쌍극자 의 개요"
             }
           }
         ]
@@ -370,15 +333,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab750d439cee8094",
+  "active": "cd5abdd4cbdbd41c",
   "lastOpenFiles": [
+    "Excalidraw/자기 쌍극자 (draw).md",
+    "Excalidraw/미소 루프 자기 쌍극자 모멘트 (draw).md",
     "Excalidraw/막대 자석 자기 쌍극자 모멘트 (draw).md",
     "Excalidraw/자기 회전력 (draw).md",
     "Excalidraw/자기 회전력 (draw).svg",
-    "Excalidraw/미소 루프 자기 쌍극자 모멘트 (draw).md",
     "연습노트/자기 쌍극자.md",
     "Excalidraw/막대 자석 자기 쌍극자 모멘트 (draw).svg",
-    "Excalidraw/자기 쌍극자 (draw).md",
     "Excalidraw/미소 루프 자기 쌍극자 모멘트 (draw).svg",
     "영구노트/돌림힘.md",
     "Excalidraw/돌림힘 (draw).md",
