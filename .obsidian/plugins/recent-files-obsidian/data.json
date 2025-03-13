@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "변위 전류 식 유도",
+      "path": "연습노트/변위 전류 식 유도.md"
+    },
+    {
       "basename": "변위 전류",
       "path": "연습노트/변위 전류.md"
+    },
+    {
+      "basename": "벡터 항등식",
+      "path": "수정 노트/벡터 항등식.md"
     },
     {
       "basename": "앙페르의 주회법칙",
@@ -15,10 +23,6 @@
     {
       "basename": "자화",
       "path": "자화.md"
-    },
-    {
-      "basename": "벡터 항등식",
-      "path": "수정 노트/벡터 항등식.md"
     },
     {
       "basename": "벡터 항등식 쉽게 외우기",
@@ -95,10 +99,6 @@
     {
       "basename": "Projects란",
       "path": "1.Projects/Projects란.md"
-    },
-    {
-      "basename": "두개의 무한 평판의 전계",
-      "path": "두개의 무한 평판의 전계.md"
     }
   ],
   "omittedPaths": [],
