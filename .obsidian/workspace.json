@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영구노트/자기 인덕턴스.md",
+                "file": "수정 노트/벡터 항등식.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "자기 인덕턴스"
+              "title": "벡터 항등식"
             }
           },
           {
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "벡",
+                "query": "벡터 항등식",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -130,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/자기 인덕턴스.md"
+                "file": "수정 노트/벡터 항등식.md"
               },
               "icon": "lucide-info",
-              "title": "자기 인덕턴스 의 파일 속성"
+              "title": "벡터 항등식 의 파일 속성"
             }
           },
           {
@@ -304,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/자기 인덕턴스.md",
+                "file": "수정 노트/벡터 항등식.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "자기 인덕턴스 의 개요"
+              "title": "벡터 항등식 의 개요"
             }
           }
         ]
@@ -341,7 +341,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "d6208284c292d126",
   "lastOpenFiles": [
     "영구노트/자기 인덕턴스.md",
     "자화.md",
