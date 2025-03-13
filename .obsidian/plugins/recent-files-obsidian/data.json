@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "자화",
+      "path": "자화.md"
+    },
+    {
+      "basename": "맥스웰 방정식",
+      "path": "영구노트/맥스웰 방정식.md"
+    },
+    {
       "basename": "변위 전류",
       "path": "연습노트/변위 전류.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "앙페르의 주회법칙",
       "path": "영구노트/앙페르의 주회법칙.md"
-    },
-    {
-      "basename": "맥스웰 방정식",
-      "path": "영구노트/맥스웰 방정식.md"
-    },
-    {
-      "basename": "자화",
-      "path": "자화.md"
     },
     {
       "basename": "벡터 항등식 쉽게 외우기",
