@@ -14,15 +14,31 @@
               "type": "markdown",
               "state": {
                 "file": "영구노트/자기 쌍극자.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "자기 쌍극자"
             }
+          },
+          {
+            "id": "dd597904a7c85351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/자기 회전력 식 유도하기.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "자기 회전력 식 유도하기"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/전류 소자가 받는 힘.md"
+                "file": "연습노트/자기 회전력 식 유도하기.md"
               },
               "icon": "lucide-info",
-              "title": "전류 소자가 받는 힘 의 파일 속성"
+              "title": "자기 회전력 식 유도하기 의 파일 속성"
             }
           },
           {
@@ -293,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/전류 소자가 받는 힘.md",
+                "file": "연습노트/자기 회전력 식 유도하기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전류 소자가 받는 힘 의 개요"
+              "title": "자기 회전력 식 유도하기 의 개요"
             }
           }
         ]
@@ -330,11 +346,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "40806ee6c1ec5b3d",
+  "active": "dd597904a7c85351",
   "lastOpenFiles": [
-    "영구노트/하전 입자가 받는 힘.md",
-    "영구노트/전류 소자가 받는 힘.md",
     "영구노트/자기 쌍극자.md",
+    "연습노트/자기 회전력 식 유도하기.md",
+    "영구노트/전류 소자가 받는 힘.md",
+    "영구노트/하전 입자가 받는 힘.md",
     "연습노트/벡터의 미분.md",
     "영구노트/벡터 항등식.md",
     "자화.md",
