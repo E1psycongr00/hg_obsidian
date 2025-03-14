@@ -23,33 +23,18 @@
             }
           },
           {
-            "id": "d6208284c292d126",
+            "id": "4a21d94177ebf2e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수정 노트/벡터 항등식.md",
+                "file": "연습노트/벡터의 전미분.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "벡터 항등식"
-            }
-          },
-          {
-            "id": "0d2f942b9d99f966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연습노트/변위 전류.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "변위 전류"
+              "title": "벡터의 전미분"
             }
           }
         ],
@@ -117,7 +102,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -130,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "수정 노트/벡터 항등식.md"
+                "file": "연습노트/벡터의 전미분.md"
               },
               "icon": "lucide-info",
-              "title": "벡터 항등식 의 파일 속성"
+              "title": "벡터의 전미분 의 파일 속성"
             }
           },
           {
@@ -266,8 +252,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -301,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -314,13 +300,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수정 노트/벡터 항등식.md",
+                "file": "연습노트/벡터의 전미분.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "벡터 항등식 의 개요"
+              "title": "벡터의 전미분 의 개요"
             }
           }
         ]
@@ -351,14 +337,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d9db764fc4b9f226",
+  "active": "4a21d94177ebf2e1",
   "lastOpenFiles": [
+    "연습노트/벡터의 전미분.md",
+    "영구노트/벡터 항등식.md",
+    "영구노트/변위 전류.md",
     "영구노트/자기 인덕턴스.md",
     "자화.md",
     "영구노트/맥스웰 방정식.md",
-    "연습노트/변위 전류.md",
     "연습노트/변위 전류 식 유도.md",
-    "수정 노트/벡터 항등식.md",
     "영구노트/앙페르의 주회법칙.md",
     "연습노트/벡터 항등식 쉽게 외우기.md",
     "영구노트/자기 쌍극자.md",
@@ -384,7 +371,6 @@
     "데드풀 감상문.md",
     "기본 벡터 연산.md",
     "1.Projects/이력서 관리/새 이력서.md",
-    "마키세 크리스1.md",
     "1.Projects/이력서 관리",
     "Excalidraw/발산 관련 항등식 (draw).svg",
     "Excalidraw/기울기 관련 항등식 (draw).svg",
