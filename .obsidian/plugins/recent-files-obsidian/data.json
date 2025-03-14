@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "벡터의 전미분",
-      "path": "연습노트/벡터의 전미분.md"
+      "basename": "Drawing 2025-03-14 14.02.05.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-14 14.02.05.excalidraw.md"
+    },
+    {
+      "basename": "벡터의 미분",
+      "path": "연습노트/벡터의 미분.md"
     },
     {
       "basename": "벡터 항등식",
@@ -95,10 +99,6 @@
     {
       "basename": "기본 벡터 연산",
       "path": "기본 벡터 연산.md"
-    },
-    {
-      "basename": "새 이력서",
-      "path": "1.Projects/이력서 관리/새 이력서.md"
     }
   ],
   "omittedPaths": [],
