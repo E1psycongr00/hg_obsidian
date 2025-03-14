@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "전류 소자가 받는 힘",
+      "path": "영구노트/전류 소자가 받는 힘.md"
+    },
+    {
+      "basename": "자기 쌍극자",
+      "path": "영구노트/자기 쌍극자.md"
+    },
+    {
       "basename": "벡터의 미분",
       "path": "연습노트/벡터의 미분.md"
     },
@@ -45,10 +53,6 @@
       "path": "연습노트/벡터 항등식 쉽게 외우기.md"
     },
     {
-      "basename": "자기 쌍극자",
-      "path": "영구노트/자기 쌍극자.md"
-    },
-    {
       "basename": "자기 쌍극자 (draw)",
       "path": "Excalidraw/자기 쌍극자 (draw).md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "구심력",
       "path": "영구노트/구심력.md"
-    },
-    {
-      "basename": "전류 소자가 받는 힘",
-      "path": "영구노트/전류 소자가 받는 힘.md"
     },
     {
       "basename": "전류 소자로 부터 받는 힘 (draw)",
