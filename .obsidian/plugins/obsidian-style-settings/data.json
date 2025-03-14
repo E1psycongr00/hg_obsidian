@@ -59,5 +59,9 @@
   "blue-topaz-theme@@toggle-table-transition": true,
   "blue-topaz-theme@@full-width-table": false,
   "blue-topaz-theme@@table-style-options": "table-style-default",
-  "blue-topaz-theme@@table-width": "table-width-auto"
+  "blue-topaz-theme@@table-width": "table-width-auto",
+  "blue-topaz-theme@@clutter-free-headings": false,
+  "blue-topaz-theme@@funny-header-anim": true,
+  "blue-topaz-theme@@h3-underline-width": "2px",
+  "blue-topaz-theme@@h2-underline-width": "2px"
 }
