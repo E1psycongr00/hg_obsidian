@@ -13,27 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자화.md",
+                "file": "연습노트/벡터의 미분.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "자화"
-            }
-          },
-          {
-            "id": "4a21d94177ebf2e1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "벡터의 미분"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -110,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "연습노트/벡터의 미분.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "벡터의 미분 의 파일 속성"
             }
           },
           {
@@ -273,6 +264,16 @@
             "id": "d9db764fc4b9f226",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "e17741197fc6fa13",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -280,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "7d466e57ea240c21",
@@ -293,12 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "연습노트/벡터의 미분.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "벡터의 미분 의 개요"
             }
           }
         ]
@@ -329,15 +331,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a21d94177ebf2e1",
+  "active": "8db52dbf874ff1ff",
   "lastOpenFiles": [
+    "자화.md",
+    "데드풀 감상문.md",
     "연습노트/벡터의 미분.md",
     "Excalidraw/벡터의 미분 (draw).md",
     "Excalidraw/벡터의 미분 (draw).svg",
     "영구노트/벡터 항등식.md",
     "영구노트/변위 전류.md",
     "영구노트/자기 인덕턴스.md",
-    "자화.md",
     "영구노트/맥스웰 방정식.md",
     "연습노트/변위 전류 식 유도.md",
     "영구노트/앙페르의 주회법칙.md",
@@ -362,7 +365,6 @@
     "영구노트/곡선 좌표계와 미분 연산자.md",
     "영구노트/로렌쯔의 힘.md",
     "영구노트/전기 쌍극자.md",
-    "데드풀 감상문.md",
     "1.Projects/이력서 관리",
     "Excalidraw/발산 관련 항등식 (draw).svg",
     "Excalidraw/기울기 관련 항등식 (draw).svg",
