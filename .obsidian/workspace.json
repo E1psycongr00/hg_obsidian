@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "786a94243e57ae5d",
+        "id": "f4baf59185f06cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3e4287fc225c2f",
+            "id": "bec888b8f1cbb068",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/상호 유도 인덕턴스.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "상호 유도 인덕턴스"
+              "title": "새 탭"
             }
           }
         ]
@@ -98,11 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "영구노트/상호 유도 인덕턴스.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "상호 유도 인덕턴스 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -235,8 +228,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -270,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -283,13 +276,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/상호 유도 인덕턴스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "상호 유도 인덕턴스 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -320,8 +312,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "bec888b8f1cbb068",
   "lastOpenFiles": [
+    "영구노트/자기 쌍극자.md",
+    "영구노트/자기 회전력 식 유도하기.md",
+    "영구노트/벡터 항등식.md",
     "영구노트/상호 유도 인덕턴스.md",
     "영구노트/상호 유도 결합 계수.md",
     "영구노트/전기 쌍극자.md",
@@ -331,9 +326,6 @@
     "영구노트/도체 표면의 전계.md",
     "Excalidraw/도체의 전하 분포 (draw).md",
     "Excalidraw/동축 원통 외부 전계(draw).md",
-    "영구노트/벡터 항등식.md",
-    "영구노트/자기 쌍극자.md",
-    "영구노트/자기 회전력 식 유도하기.md",
     "영구노트/전류 소자가 받는 힘.md",
     "영구노트/하전 입자가 받는 힘.md",
     "연습노트/벡터의 미분.md",
