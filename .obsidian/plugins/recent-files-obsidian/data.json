@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전기 쌍극자",
+      "path": "영구노트/전기 쌍극자.md"
+    },
+    {
       "basename": "전계",
       "path": "영구노트/전계.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "자기 회전력 (draw)",
       "path": "Excalidraw/자기 회전력 (draw).md"
-    },
-    {
-      "basename": "돌림힘",
-      "path": "영구노트/돌림힘.md"
     }
   ],
   "omittedPaths": [],
