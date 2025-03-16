@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "기력 발전 열사이클"
             }
-          },
-          {
-            "id": "638277037aadc4d7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/기력 발전 과정 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "기력 발전 과정 (draw)"
-            }
           }
         ]
       }
@@ -338,9 +326,9 @@
   "active": "eec7dc2553b789c6",
   "lastOpenFiles": [
     "Excalidraw/기력 발전 과정 (draw).md",
+    "연습노트/기력 발전 열사이클.md",
     "Excalidraw/기력 발전 과정 (draw).svg",
     "Excalidraw/기력 발전 구조 (draw).md",
-    "연습노트/기력 발전 열사이클.md",
     "Excalidraw/발전기 부하 분류 (draw).md",
     "영구노트/칼로리.md",
     "영구노트/화력 발전.md",
