@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "벡터 항등식",
+      "path": "영구노트/벡터 항등식.md"
+    },
+    {
       "basename": "전기장 에너지 밀도",
       "path": "영구노트/전기장 에너지 밀도.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동축 원통 외부 전계(draw)",
       "path": "Excalidraw/동축 원통 외부 전계(draw).md"
-    },
-    {
-      "basename": "벡터 항등식",
-      "path": "영구노트/벡터 항등식.md"
     }
   ],
   "omittedPaths": [],
