@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-03-16 12.24.06.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-16 12.24.06.excalidraw.md"
+    },
+    {
+      "basename": "기력 발전 구조 (draw)",
+      "path": "Excalidraw/기력 발전 구조 (draw).md"
+    },
+    {
       "basename": "기력 발전 열사이클",
       "path": "연습노트/기력 발전 열사이클.md"
+    },
+    {
+      "basename": "발전기 부하 분류 (draw)",
+      "path": "Excalidraw/발전기 부하 분류 (draw).md"
     },
     {
       "basename": "칼로리",
@@ -11,14 +23,6 @@
     {
       "basename": "화력 발전",
       "path": "영구노트/화력 발전.md"
-    },
-    {
-      "basename": "발전기 부하 분류 (draw)",
-      "path": "Excalidraw/발전기 부하 분류 (draw).md"
-    },
-    {
-      "basename": "기력 발전 구조 (draw)",
-      "path": "Excalidraw/기력 발전 구조 (draw).md"
     },
     {
       "basename": "자기 쌍극자",
@@ -95,10 +99,6 @@
     {
       "basename": "맥스웰 방정식",
       "path": "영구노트/맥스웰 방정식.md"
-    },
-    {
-      "basename": "변위 전류 식 유도",
-      "path": "연습노트/변위 전류 식 유도.md"
     }
   ],
   "omittedPaths": [],

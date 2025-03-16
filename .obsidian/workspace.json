@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bec888b8f1cbb068",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/칼로리.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "칼로리"
-            }
-          },
-          {
             "id": "eec7dc2553b789c6",
             "type": "leaf",
             "state": {
@@ -38,15 +23,15 @@
             }
           },
           {
-            "id": "a79ec045613af75a",
+            "id": "638277037aadc4d7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/발전기 부하 분류 (draw).md"
+                "file": "Excalidraw/Drawing 2025-03-16 12.24.06.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "발전기 부하 분류 (draw)"
+              "title": "Drawing 2025-03-16 12.24.06.excalidraw"
             }
           }
         ],
@@ -115,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -128,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/기력 발전 열사이클.md"
+                "file": "Excalidraw/Drawing 2025-03-16 12.24.06.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "기력 발전 열사이클 의 파일 속성"
+              "title": "Drawing 2025-03-16 12.24.06.excalidraw 의 파일 속성"
             }
           },
           {
@@ -313,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/기력 발전 열사이클.md",
+                "file": "Excalidraw/Drawing 2025-03-16 12.24.06.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기력 발전 열사이클 의 개요"
+              "title": "Drawing 2025-03-16 12.24.06.excalidraw 의 개요"
             }
           }
         ]
@@ -351,14 +336,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eec7dc2553b789c6",
+  "active": "638277037aadc4d7",
   "lastOpenFiles": [
-    "영구노트/칼로리.md",
-    "연습노트/기력 발전 열사이클.md",
-    "영구노트/화력 발전.md",
-    "Excalidraw/발전기 부하 분류 (draw).md",
-    "Excalidraw/발전기 부하 분류 (draw).svg",
+    "Excalidraw/Drawing 2025-03-16 12.24.06.excalidraw.svg",
+    "Excalidraw/Drawing 2025-03-16 12.24.06.excalidraw.md",
     "Excalidraw/기력 발전 구조 (draw).md",
+    "연습노트/기력 발전 열사이클.md",
+    "Excalidraw/발전기 부하 분류 (draw).md",
+    "영구노트/칼로리.md",
+    "영구노트/화력 발전.md",
+    "Excalidraw/발전기 부하 분류 (draw).svg",
     "Excalidraw/기력 발전 구조 (draw).svg",
     "영구노트/자기 쌍극자.md",
     "영구노트/자기 회전력 식 유도하기.md",
@@ -380,8 +367,6 @@
     "Excalidraw/벡터의 미분 (draw).md",
     "Excalidraw/벡터의 미분 (draw).svg",
     "영구노트/변위 전류.md",
-    "영구노트/자기 인덕턴스.md",
-    "영구노트/맥스웰 방정식.md",
     "Excalidraw/자기 회전력 (draw).svg",
     "Excalidraw/막대 자석 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/미소 루프 자기 쌍극자 모멘트 (draw).svg",
