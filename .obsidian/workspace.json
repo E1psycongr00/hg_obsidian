@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "기력 발전 열사이클"
             }
+          },
+          {
+            "id": "a786e3c418f4bc0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,11 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "연습노트/기력 발전 열사이클.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "기력 발전 열사이클 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -285,13 +294,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/기력 발전 열사이클.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기력 발전 열사이클 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -323,10 +331,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eec7dc2553b789c6",
+  "active": "a786e3c418f4bc0e",
   "lastOpenFiles": [
-    "Excalidraw/기력 발전 과정 (draw).md",
     "연습노트/기력 발전 열사이클.md",
+    "Excalidraw/기력 발전 과정 (draw).md",
     "Excalidraw/기력 발전 과정 (draw).svg",
     "Excalidraw/기력 발전 구조 (draw).md",
     "Excalidraw/발전기 부하 분류 (draw).md",
