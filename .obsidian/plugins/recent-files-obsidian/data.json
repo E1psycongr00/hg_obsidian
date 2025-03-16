@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "기력 발전 구조 (draw)",
+      "path": "Excalidraw/기력 발전 구조 (draw).md"
+    },
+    {
       "basename": "화력 발전",
       "path": "연습노트/화력 발전.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "벡터 항등식 쉽게 외우기",
       "path": "연습노트/벡터 항등식 쉽게 외우기.md"
-    },
-    {
-      "basename": "자기 쌍극자 (draw)",
-      "path": "Excalidraw/자기 쌍극자 (draw).md"
     }
   ],
   "omittedPaths": [],

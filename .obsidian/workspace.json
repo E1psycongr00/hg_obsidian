@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "화력 발전"
             }
+          },
+          {
+            "id": "522598f0676dfdb5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/기력 발전 구조 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "기력 발전 구조 (draw)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/화력 발전.md"
+                "file": "Excalidraw/기력 발전 구조 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "화력 발전 의 파일 속성"
+              "title": "기력 발전 구조 (draw) 의 파일 속성"
             }
           },
           {
@@ -301,13 +313,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/화력 발전.md",
+                "file": "Excalidraw/기력 발전 구조 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "화력 발전 의 개요"
+              "title": "기력 발전 구조 (draw) 의 개요"
             }
           }
         ]
@@ -339,8 +351,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "837ffc6b7ca7238b",
+  "active": "522598f0676dfdb5",
   "lastOpenFiles": [
+    "Excalidraw/기력 발전 구조 (draw).svg",
+    "Excalidraw/기력 발전 구조 (draw).md",
     "연습노트/화력 발전.md",
     "영구노트/칼로리.md",
     "영구노트/자기 쌍극자.md",
@@ -366,8 +380,6 @@
     "영구노트/자기 인덕턴스.md",
     "영구노트/맥스웰 방정식.md",
     "연습노트/변위 전류 식 유도.md",
-    "영구노트/앙페르의 주회법칙.md",
-    "연습노트/벡터 항등식 쉽게 외우기.md",
     "Excalidraw/자기 회전력 (draw).svg",
     "Excalidraw/막대 자석 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/미소 루프 자기 쌍극자 모멘트 (draw).svg",
