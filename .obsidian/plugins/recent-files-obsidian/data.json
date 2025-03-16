@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "재열 사이클 (draw)",
-      "path": "Excalidraw/재열 사이클 (draw).md"
+      "basename": "화력 발전 효율",
+      "path": "연습노트/화력 발전 효율.md"
     },
     {
       "basename": "기력 발전 열사이클",
       "path": "영구노트/기력 발전 열사이클.md"
+    },
+    {
+      "basename": "재열 사이클 (draw)",
+      "path": "Excalidraw/재열 사이클 (draw).md"
     },
     {
       "basename": "재생 재열 사이클 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "벡터의 미분 (draw)",
       "path": "Excalidraw/벡터의 미분 (draw).md"
-    },
-    {
-      "basename": "변위 전류",
-      "path": "영구노트/변위 전류.md"
     }
   ],
   "omittedPaths": [],
