@@ -37,8 +37,7 @@
               "title": "벡터 항등식"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/벡터 항등식.md"
+                "file": "연습노트/수력 발전.md"
               },
               "icon": "lucide-info",
-              "title": "벡터 항등식 의 파일 속성"
+              "title": "수력 발전 의 파일 속성"
             }
           },
           {
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/벡터 항등식.md",
+                "file": "연습노트/수력 발전.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -242,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "벡터 항등식 그래프"
+              "title": "수력 발전 그래프"
             }
           },
           {
@@ -299,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/벡터 항등식.md",
+                "file": "연습노트/수력 발전.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "벡터 항등식 의 개요"
+              "title": "수력 발전 의 개요"
             }
           }
         ]
@@ -337,8 +336,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "47b7dd4d0c8dc348",
+  "active": "ca6844705b8202fa",
   "lastOpenFiles": [
+    "영구노트/벡터 항등식.md",
     "영구노트/전기장 에너지 밀도.md",
     "영구노트/변위 전류.md",
     "연습노트/변위 전류 식 유도.md",
@@ -364,7 +364,6 @@
     "Excalidraw/기력 발전 구조 (draw).svg",
     "영구노트/자기 쌍극자.md",
     "영구노트/자기 회전력 식 유도하기.md",
-    "영구노트/벡터 항등식.md",
     "영구노트/상호 유도 인덕턴스.md",
     "영구노트/상호 유도 결합 계수.md",
     "영구노트/전기 쌍극자.md",
