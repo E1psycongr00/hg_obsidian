@@ -38,15 +38,15 @@
             }
           },
           {
-            "id": "522598f0676dfdb5",
+            "id": "a79ec045613af75a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/기력 발전 구조 (draw).md"
+                "file": "Excalidraw/Drawing 2025-03-16 11.49.39.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "기력 발전 구조 (draw)"
+              "title": "Drawing 2025-03-16 11.49.39.excalidraw"
             }
           }
         ],
@@ -128,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/기력 발전 구조 (draw).md"
+                "file": "Excalidraw/Drawing 2025-03-16 11.49.39.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "기력 발전 구조 (draw) 의 파일 속성"
+              "title": "Drawing 2025-03-16 11.49.39.excalidraw 의 파일 속성"
             }
           },
           {
@@ -313,13 +313,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/기력 발전 구조 (draw).md",
+                "file": "Excalidraw/Drawing 2025-03-16 11.49.39.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "기력 발전 구조 (draw) 의 개요"
+              "title": "Drawing 2025-03-16 11.49.39.excalidraw 의 개요"
             }
           }
         ]
@@ -351,11 +351,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "522598f0676dfdb5",
+  "active": "a79ec045613af75a",
   "lastOpenFiles": [
-    "Excalidraw/기력 발전 구조 (draw).svg",
-    "Excalidraw/기력 발전 구조 (draw).md",
+    "Excalidraw/Drawing 2025-03-16 11.49.39.excalidraw.md",
     "연습노트/화력 발전.md",
+    "Excalidraw/기력 발전 구조 (draw).md",
+    "Excalidraw/기력 발전 구조 (draw).svg",
     "영구노트/칼로리.md",
     "영구노트/자기 쌍극자.md",
     "영구노트/자기 회전력 식 유도하기.md",
@@ -389,7 +390,6 @@
     "1.Projects/이력서 관리",
     "Excalidraw/발산 관련 항등식 (draw).svg",
     "Excalidraw/기울기 관련 항등식 (draw).svg",
-    "Excalidraw/기본 벡터 연산 항등식 (draw).svg",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
