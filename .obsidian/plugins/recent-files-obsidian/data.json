@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "변위 전류 식 유도",
+      "path": "연습노트/변위 전류 식 유도.md"
+    },
+    {
+      "basename": "변위 전류",
+      "path": "영구노트/변위 전류.md"
+    },
+    {
+      "basename": "전기장 에너지 밀도",
+      "path": "영구노트/전기장 에너지 밀도.md"
+    },
+    {
       "basename": "수력 발전",
       "path": "연습노트/수력 발전.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "벡터 항등식",
       "path": "영구노트/벡터 항등식.md"
-    },
-    {
-      "basename": "전류 소자가 받는 힘",
-      "path": "영구노트/전류 소자가 받는 힘.md"
-    },
-    {
-      "basename": "벡터의 미분",
-      "path": "연습노트/벡터의 미분.md"
-    },
-    {
-      "basename": "데드풀 감상문",
-      "path": "데드풀 감상문.md"
     }
   ],
   "omittedPaths": [],
