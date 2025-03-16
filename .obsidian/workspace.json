@@ -32,8 +32,7 @@
               "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,9 +109,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "연습노트/기력 발전 열사이클.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "기력 발전 열사이클 의 파일 속성"
             }
           },
           {
@@ -294,12 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "연습노트/기력 발전 열사이클.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "기력 발전 열사이클 의 개요"
             }
           }
         ]
@@ -331,8 +333,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a786e3c418f4bc0e",
+  "active": "eec7dc2553b789c6",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20250316132953.png",
+    "attachments/screenshot/Pasted image 20250316132948.png",
     "연습노트/기력 발전 열사이클.md",
     "Excalidraw/기력 발전 과정 (draw).md",
     "Excalidraw/기력 발전 과정 (draw).svg",
@@ -367,7 +371,6 @@
     "Excalidraw/미소 루프 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/돌림힘 (draw).svg",
     "Excalidraw/자기 쌍극자 (draw).svg",
-    "Excalidraw/전류 소자로 부터 받는 힘 (draw).svg",
     "1.Projects/이력서 관리",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
