@@ -258,6 +258,16 @@
             "id": "ababe4a9931a7183",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "81d09e24e6b2e290",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -265,7 +275,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       },
       {
         "id": "7d466e57ea240c21",
@@ -316,7 +326,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62d96583bb3c34ce",
+  "active": "81d09e24e6b2e290",
   "lastOpenFiles": [
     "영구노트/벡터 항등식.md",
     "영구노트/전기장 에너지 밀도.md",
