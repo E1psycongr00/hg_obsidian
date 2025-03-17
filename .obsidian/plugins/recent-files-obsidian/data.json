@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2025-03-17 18.57.01.excalidraw",
-      "path": "Excalidraw/Drawing 2025-03-17 18.57.01.excalidraw.md"
+      "basename": "Drawing 2025-03-17 19.03.59.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-17 19.03.59.excalidraw.md"
+    },
+    {
+      "basename": "단상 2선식 (draw)",
+      "path": "Excalidraw/단상 2선식 (draw).md"
     },
     {
       "basename": "1상 3선식 (draw)",
       "path": "Excalidraw/1상 3선식 (draw).md"
     },
     {
-      "basename": "배전 방식",
-      "path": "연습노트/배전 방식.md"
+      "basename": "1상 3선식과 저압 밸런서 (draw)",
+      "path": "Excalidraw/1상 3선식과 저압 밸런서 (draw).md"
     },
     {
-      "basename": "단상 2선식 (draw)",
-      "path": "Excalidraw/단상 2선식 (draw).md"
+      "basename": "배전 방식",
+      "path": "연습노트/배전 방식.md"
     },
     {
       "basename": "수력 발전",
@@ -95,10 +99,6 @@
     {
       "basename": "전기 쌍극자",
       "path": "영구노트/전기 쌍극자.md"
-    },
-    {
-      "basename": "전계",
-      "path": "영구노트/전계.md"
     }
   ],
   "omittedPaths": [],

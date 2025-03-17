@@ -52,14 +52,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-17 18.57.01.excalidraw.md"
+                "file": "Excalidraw/1상 3선식과 저압 밸런서 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-17 18.57.01.excalidraw"
+              "title": "1상 3선식과 저압 밸런서 (draw)"
+            }
+          },
+          {
+            "id": "c7df4f4abe09c1ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-17 19.03.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-17 19.03.59.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-17 18.57.01.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-03-17 19.03.59.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-03-17 18.57.01.excalidraw 의 파일 속성"
+              "title": "Drawing 2025-03-17 19.03.59.excalidraw 의 파일 속성"
             }
           },
           {
@@ -379,14 +391,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "085b942e9b3913f6",
+  "active": "c7df4f4abe09c1ab",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-17 18.57.01.excalidraw.svg",
-    "Excalidraw/Drawing 2025-03-17 18.57.01.excalidraw.md",
-    "Excalidraw/1상 3선식 (draw).md",
-    "연습노트/배전 방식.md",
-    "Excalidraw/1상 3선식 (draw).svg",
+    "Excalidraw/Drawing 2025-03-17 19.03.59.excalidraw.svg",
+    "Excalidraw/Drawing 2025-03-17 19.03.59.excalidraw.md",
     "Excalidraw/단상 2선식 (draw).md",
+    "Excalidraw/1상 3선식 (draw).md",
+    "Excalidraw/1상 3선식과 저압 밸런서 (draw).md",
+    "연습노트/배전 방식.md",
+    "Excalidraw/1상 3선식과 저압 밸런서 (draw).svg",
+    "Excalidraw/1상 3선식 (draw).svg",
     "Excalidraw/단상 2선식 (draw).svg",
     "영구노트/벡터 항등식.md",
     "영구노트/전기장 에너지 밀도.md",
@@ -411,12 +425,10 @@
     "Excalidraw/기력 발전 구조 (draw).md",
     "Excalidraw/발전기 부하 분류 (draw).md",
     "Excalidraw/발전기 부하 분류 (draw).svg",
-    "Excalidraw/기력 발전 구조 (draw).svg",
     "영구노트/자기 쌍극자.md",
     "영구노트/자기 회전력 식 유도하기.md",
     "영구노트/상호 유도 인덕턴스.md",
     "영구노트/상호 유도 결합 계수.md",
-    "영구노트/전기 쌍극자.md",
     "1.Projects/이력서 관리",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
