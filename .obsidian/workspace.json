@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f01ced61747f596",
+        "id": "3c853e456eb5a973",
         "type": "tabs",
         "children": [
           {
-            "id": "51050750acdd7aa8",
+            "id": "165eb43d552ac2f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연습노트/배전 방식.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "배전 방식"
             }
           }
         ]
@@ -81,7 +86,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -94,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영구노트/수력 발전.md"
+                "file": "연습노트/배전 방식.md"
               },
               "icon": "lucide-info",
-              "title": "수력 발전 의 파일 속성"
+              "title": "배전 방식 의 파일 속성"
             }
           },
           {
@@ -268,6 +274,16 @@
             "id": "81d09e24e6b2e290",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "4993e3c90f8b6b28",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -275,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "7d466e57ea240c21",
@@ -326,8 +342,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "81d09e24e6b2e290",
+  "active": "165eb43d552ac2f0",
   "lastOpenFiles": [
+    "연습노트/배전 방식.md",
     "영구노트/벡터 항등식.md",
     "영구노트/전기장 에너지 밀도.md",
     "영구노트/변위 전류.md",
@@ -361,7 +378,6 @@
     "영구노트/전계.md",
     "영구노트/유전체.md",
     "영구노트/도체 표면의 전계.md",
-    "Excalidraw/도체의 전하 분포 (draw).md",
     "Excalidraw/벡터의 미분 (draw).svg",
     "Excalidraw/자기 회전력 (draw).svg",
     "1.Projects/이력서 관리",

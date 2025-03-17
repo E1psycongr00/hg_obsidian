@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "배전 방식",
+      "path": "연습노트/배전 방식.md"
+    },
+    {
       "basename": "수력 발전",
       "path": "영구노트/수력 발전.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "도체의 전하 분포 (draw)",
       "path": "Excalidraw/도체의 전하 분포 (draw).md"
-    },
-    {
-      "basename": "동축 원통 외부 전계(draw)",
-      "path": "Excalidraw/동축 원통 외부 전계(draw).md"
     }
   ],
   "omittedPaths": [],
