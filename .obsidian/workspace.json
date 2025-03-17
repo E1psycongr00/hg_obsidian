@@ -28,14 +28,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-17 18.44.12.excalidraw.md"
+                "file": "Excalidraw/단상 2선식 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-17 18.44.12.excalidraw"
+              "title": "단상 2선식 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-17 18.44.12.excalidraw.md"
+                "file": "연습노트/배전 방식.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-03-17 18.44.12.excalidraw 의 파일 속성"
+              "title": "배전 방식 의 파일 속성"
             }
           },
           {
@@ -355,11 +354,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fb7ec93a8469e505",
+  "active": "165eb43d552ac2f0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-17 18.44.12.excalidraw.svg",
+    "Excalidraw/단상 2선식 (draw).md",
     "연습노트/배전 방식.md",
-    "Excalidraw/Drawing 2025-03-17 18.44.12.excalidraw.md",
+    "Excalidraw/단상 2선식 (draw).svg",
     "영구노트/벡터 항등식.md",
     "영구노트/전기장 에너지 밀도.md",
     "영구노트/변위 전류.md",
@@ -392,7 +391,6 @@
     "영구노트/쌍극자 근사법.md",
     "영구노트/전계.md",
     "Excalidraw/벡터의 미분 (draw).svg",
-    "Excalidraw/자기 회전력 (draw).svg",
     "1.Projects/이력서 관리",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
