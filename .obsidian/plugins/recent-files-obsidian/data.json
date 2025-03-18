@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "코로나 현상",
-      "path": "영구노트/코로나 현상.md"
+      "basename": "아크",
+      "path": "연습노트/아크.md"
     },
     {
       "basename": "공기 절연 파괴",
       "path": "영구노트/공기 절연 파괴.md"
+    },
+    {
+      "basename": "코로나 현상",
+      "path": "영구노트/코로나 현상.md"
     },
     {
       "basename": "도체와 절연체의 전하 분포",
@@ -95,10 +99,6 @@
     {
       "basename": "자기 플럭스",
       "path": "영구노트/자기 플럭스.md"
-    },
-    {
-      "basename": "웨버",
-      "path": "영구노트/웨버.md"
     }
   ],
   "omittedPaths": [],
