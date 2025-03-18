@@ -36,19 +36,9 @@
               "icon": "lucide-file",
               "title": "공기 절연 파괴"
             }
-          },
-          {
-            "id": "b205fc5c86ea9865",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,9 +115,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "연습노트/공기 절연 파괴.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "공기 절연 파괴 의 파일 속성"
             }
           },
           {
@@ -223,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "영구노트/수력 발전.md",
+                "file": "연습노트/공기 절연 파괴.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -246,12 +238,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 1.0000000000000033,
+                  "scale": 0.7132754626224449,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "수력 발전 그래프"
+              "title": "공기 절연 파괴 그래프"
             }
           },
           {
@@ -260,8 +252,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -275,46 +267,6 @@
             }
           },
           {
-            "id": "57e7d38f8199bce1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "ababe4a9931a7183",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "81d09e24e6b2e290",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "4993e3c90f8b6b28",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "13764016327f9e0f",
             "type": "leaf",
             "state": {
@@ -325,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -338,21 +290,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영구노트/수력 발전.md",
+                "file": "연습노트/공기 절연 파괴.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "수력 발전 의 개요"
+              "title": "공기 절연 파괴 의 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 497.5,
-    "collapsed": true
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -376,11 +327,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b205fc5c86ea9865",
+  "active": "c91bc23729d3336e",
   "lastOpenFiles": [
+    "영구노트/자기 회전력 식 유도하기.md",
+    "영구노트/전류 소자가 받는 힘.md",
+    "영구노트/벡터의 외적.md",
     "영구노트/벡터의 내적과 이해.md",
     "영구노트/벡터 항등식.md",
-    "영구노트/벡터의 외적.md",
     "연습노트/공기 절연 파괴.md",
     "영구노트/전도 전류.md",
     "영구노트/평행도선에 전류.md",
@@ -407,8 +360,6 @@
     "영구노트/앙페르의 주회법칙.md",
     "영구노트/수력 발전.md",
     "영구노트/화력 발전 효율.md",
-    "영구노트/화력 발전.md",
-    "영구노트/칼로리.md",
     "Excalidraw/재생 재열 사이클 (draw).svg",
     "Excalidraw/재열 사이클 (draw).svg",
     "Excalidraw/재생 사이클 (draw).svg",
