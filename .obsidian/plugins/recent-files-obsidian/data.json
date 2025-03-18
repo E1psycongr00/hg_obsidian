@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "custom gradle plugin type",
+      "path": "attachments/images/custom gradle plugin type.png"
+    },
+    {
+      "basename": "search_insert_position_2d_graph",
+      "path": "attachments/images/search_insert_position_2d_graph.png"
+    },
+    {
+      "basename": "Rotated Sorted Array",
+      "path": "attachments/images/Rotated Sorted Array.png"
+    },
+    {
+      "basename": "particle-mass-comparison",
+      "path": "attachments/images/particle-mass-comparison.svg"
+    },
+    {
+      "basename": "gradle plugin method",
+      "path": "attachments/images/gradle plugin method.png"
+    },
+    {
+      "basename": "gradle advantage",
+      "path": "attachments/images/gradle advantage.png"
+    },
+    {
+      "basename": "lightening  icon",
+      "path": "Excalidraw/lightening  icon.md"
+    },
+    {
       "basename": "공기 절연 파괴 (draw)",
       "path": "Excalidraw/공기 절연 파괴 (draw).md"
     },
@@ -71,34 +99,6 @@
     {
       "basename": "플레밍 법칙",
       "path": "영구노트/플레밍 법칙.md"
-    },
-    {
-      "basename": "기본 벡터 연산",
-      "path": "기본 벡터 연산.md"
-    },
-    {
-      "basename": "배전 방식",
-      "path": "영구노트/배전 방식.md"
-    },
-    {
-      "basename": "3상 4선식 (draw)",
-      "path": "Excalidraw/3상 4선식 (draw).md"
-    },
-    {
-      "basename": "단상 2선식 (draw)",
-      "path": "Excalidraw/단상 2선식 (draw).md"
-    },
-    {
-      "basename": "3상 3선식 (draw)",
-      "path": "Excalidraw/3상 3선식 (draw).md"
-    },
-    {
-      "basename": "1상 3선식 (draw)",
-      "path": "Excalidraw/1상 3선식 (draw).md"
-    },
-    {
-      "basename": "1상 3선식과 저압 밸런서 (draw)",
-      "path": "Excalidraw/1상 3선식과 저압 밸런서 (draw).md"
     }
   ],
   "omittedPaths": [],
