@@ -5,6 +5,10 @@
       "path": "Excalidraw/공기 절연 파괴 (draw).md"
     },
     {
+      "basename": "postit__green",
+      "path": "Excalidraw/images/postit__green.png"
+    },
+    {
       "basename": "무제 1",
       "path": "무제 1.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "1상 3선식과 저압 밸런서 (draw)",
       "path": "Excalidraw/1상 3선식과 저압 밸런서 (draw).md"
-    },
-    {
-      "basename": "수력 발전",
-      "path": "영구노트/수력 발전.md"
     }
   ],
   "omittedPaths": [],
