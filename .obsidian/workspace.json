@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/고온에 의한 절연 파괴 (draw).md"
+                "file": "영구노트/도체 표면의 전계.md"
               },
               "icon": "lucide-info",
-              "title": "고온에 의한 절연 파괴 (draw) 의 파일 속성"
+              "title": "도체 표면의 전계 의 파일 속성"
             }
           },
           {
@@ -268,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/고온에 의한 절연 파괴 (draw).md",
+                "file": "영구노트/도체 표면의 전계.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -296,7 +296,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "고온에 의한 절연 파괴 (draw) 그래프"
+              "title": "도체 표면의 전계 그래프"
             }
           },
           {
@@ -343,13 +343,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/고온에 의한 절연 파괴 (draw).md",
+                "file": "영구노트/도체 표면의 전계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "고온에 의한 절연 파괴 (draw) 의 개요"
+              "title": "도체 표면의 전계 의 개요"
             }
           }
         ]
@@ -381,12 +381,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "635bb8819d008c62",
+  "active": "8f603a8076f17c47",
   "lastOpenFiles": [
-    "Excalidraw/공기 절연 파괴 (draw).md",
-    "Excalidraw/고온에 의한 절연 파괴 (draw).md",
-    "Excalidraw/고온에 의한 절연 파괴 (draw).svg",
     "연습노트/공기 절연 파괴.md",
+    "Excalidraw/고온에 의한 절연 파괴 (draw).md",
+    "Excalidraw/공기 절연 파괴 (draw).md",
+    "Excalidraw/고온에 의한 절연 파괴 (draw).svg",
     "영구노트/도체와 절연체의 전하 분포.md",
     "영구노트/도체 표면의 전계.md",
     "Excalidraw/lightening  icon.md",
