@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "중성점 접지 방식"
             }
+          },
+          {
+            "id": "82c996fa1612b6b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-18 16.56.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-18 16.56.58.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/중성점 접지 방식.md"
+                "file": "Excalidraw/Drawing 2025-03-18 16.56.58.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "중성점 접지 방식 의 파일 속성"
+              "title": "Drawing 2025-03-18 16.56.58.excalidraw 의 파일 속성"
             }
           },
           {
@@ -199,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/중성점 접지 방식.md",
+                "file": "Excalidraw/Drawing 2025-03-18 16.56.58.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +240,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "중성점 접지 방식 그래프"
+              "title": "Drawing 2025-03-18 16.56.58.excalidraw 그래프"
             }
           },
           {
@@ -274,13 +287,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/중성점 접지 방식.md",
+                "file": "Excalidraw/Drawing 2025-03-18 16.56.58.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "중성점 접지 방식 의 개요"
+              "title": "Drawing 2025-03-18 16.56.58.excalidraw 의 개요"
             }
           }
         ]
@@ -312,8 +325,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10626328b934ef20",
+  "active": "82c996fa1612b6b2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-18 16.56.58.excalidraw.svg",
+    "Excalidraw/Drawing 2025-03-18 16.56.58.excalidraw.md",
     "연습노트/중성점 접지 방식.md",
     "영구노트/코로나 현상.md",
     "영구노트/아크.md",
@@ -348,8 +363,6 @@
     "영구노트/벡터 항등식.md",
     "영구노트/전도 전류.md",
     "영구노트/평행도선에 전류.md",
-    "영구노트/자기 플럭스.md",
-    "영구노트/웨버.md",
     "1.Projects/이력서 관리",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
