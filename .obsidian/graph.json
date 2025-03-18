@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-file: draw",
+  "search": " 전자기학 -file: draw",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 17.319587628866,
   "linkStrength": 1,
   "linkDistance": 226,
-  "scale": 0.25883865621817576,
+  "scale": 0.713275462622481,
   "close": false
 }
