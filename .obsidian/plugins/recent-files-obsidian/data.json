@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "끝단 효과",
-      "path": "연습노트/끝단 효과.md"
+      "basename": "코로나 현상",
+      "path": "연습노트/코로나 현상.md"
+    },
+    {
+      "basename": "공기 절연 파괴",
+      "path": "영구노트/공기 절연 파괴.md"
     },
     {
       "basename": "도체와 절연체의 전하 분포",
       "path": "영구노트/도체와 절연체의 전하 분포.md"
+    },
+    {
+      "basename": "끝단 효과",
+      "path": "영구노트/끝단 효과.md"
     },
     {
       "basename": "공기 절연 파괴 (draw)",
@@ -15,10 +23,6 @@
     {
       "basename": "고온에 의한 절연 파괴 (draw)",
       "path": "Excalidraw/고온에 의한 절연 파괴 (draw).md"
-    },
-    {
-      "basename": "공기 절연 파괴",
-      "path": "연습노트/공기 절연 파괴.md"
     },
     {
       "basename": "기본 벡터 연산",
@@ -95,10 +99,6 @@
     {
       "basename": "웨버",
       "path": "영구노트/웨버.md"
-    },
-    {
-      "basename": "대류 전류",
-      "path": "영구노트/대류 전류.md"
     }
   ],
   "omittedPaths": [],

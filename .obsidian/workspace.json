@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/공기 절연 파괴.md",
+                "file": "영구노트/공기 절연 파괴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,33 +23,18 @@
             }
           },
           {
-            "id": "8c0ca866acf3b6d3",
+            "id": "58546ce59f7c8b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연습노트/끝단 효과.md",
+                "file": "연습노트/코로나 현상.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "끝단 효과"
-            }
-          },
-          {
-            "id": "04f00ee8b1bebdd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "영구노트/도체와 절연체의 전하 분포.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "도체와 절연체의 전하 분포"
+              "title": "코로나 현상"
             }
           }
         ],
@@ -117,7 +102,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -130,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/끝단 효과.md"
+                "file": "연습노트/코로나 현상.md"
               },
               "icon": "lucide-info",
-              "title": "끝단 효과 의 파일 속성"
+              "title": "코로나 현상 의 파일 속성"
             }
           },
           {
@@ -229,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "연습노트/끝단 효과.md",
+                "file": "연습노트/코로나 현상.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -257,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "끝단 효과 그래프"
+              "title": "코로나 현상 그래프"
             }
           },
           {
@@ -304,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연습노트/끝단 효과.md",
+                "file": "연습노트/코로나 현상.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "끝단 효과 의 개요"
+              "title": "코로나 현상 의 개요"
             }
           }
         ]
@@ -342,13 +328,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8c0ca866acf3b6d3",
+  "active": "58546ce59f7c8b43",
   "lastOpenFiles": [
+    "영구노트/공기 절연 파괴.md",
+    "영구노트/끝단 효과.md",
+    "연습노트/코로나 현상.md",
     "영구노트/도체와 절연체의 전하 분포.md",
-    "연습노트/끝단 효과.md",
     "Excalidraw/공기 절연 파괴 (draw).md",
     "Excalidraw/고온에 의한 절연 파괴 (draw).md",
-    "연습노트/공기 절연 파괴.md",
     "기본 벡터 연산.md",
     "영구노트/도체 표면의 전계.md",
     "Excalidraw/고온에 의한 절연 파괴 (draw).svg",
