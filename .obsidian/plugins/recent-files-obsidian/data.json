@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
       "basename": "중성점 접지 방식",
       "path": "영구노트/중성점 접지 방식.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "벡터의 내적과 이해",
       "path": "영구노트/벡터의 내적과 이해.md"
-    },
-    {
-      "basename": "벡터 항등식",
-      "path": "영구노트/벡터 항등식.md"
     }
   ],
   "omittedPaths": [],
