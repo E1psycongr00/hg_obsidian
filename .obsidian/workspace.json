@@ -68,16 +68,19 @@
             "id": "04f00ee8b1bebdd8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/images/custom gradle plugin type.png"
+                "file": "영구노트/도체와 절연체의 전하 분포.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "custom gradle plugin type"
+              "icon": "lucide-file",
+              "title": "도체와 절연체의 전하 분포"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lightening",
+                "query": "표면",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -154,10 +157,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "attachments/images/custom gradle plugin type.png"
+                "file": "Excalidraw/공기 절연 파괴 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "custom gradle plugin type 의 파일 속성"
+              "title": "공기 절연 파괴 (draw) 의 파일 속성"
             }
           },
           {
@@ -253,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "attachments/images/custom gradle plugin type.png",
+                "file": "Excalidraw/공기 절연 파괴 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -281,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "custom gradle plugin type 그래프"
+              "title": "공기 절연 파괴 (draw) 그래프"
             }
           },
           {
@@ -328,13 +331,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/images/custom gradle plugin type.png",
+                "file": "Excalidraw/공기 절연 파괴 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "custom gradle plugin type 의 개요"
+              "title": "공기 절연 파괴 (draw) 의 개요"
             }
           }
         ]
@@ -366,18 +369,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "84e8dea21f93cc4c",
   "lastOpenFiles": [
+    "영구노트/도체와 절연체의 전하 분포.md",
+    "영구노트/도체 표면의 전계.md",
+    "Excalidraw/공기 절연 파괴 (draw).md",
+    "Excalidraw/lightening  icon.md",
+    "attachments/images/custom gradle plugin type.png",
     "attachments/images/search_insert_position_2d_graph.png",
     "attachments/images/Rotated Sorted Array.png",
     "attachments/images/particle-mass-comparison.svg",
     "attachments/images/gradle plugin method.png",
     "attachments/images/gradle advantage.png",
-    "attachments/images/custom gradle plugin type.png",
-    "Excalidraw/lightening  icon.md",
     "Excalidraw/lightening  icon.png",
     "Excalidraw/lightening  icon.svg",
-    "Excalidraw/공기 절연 파괴 (draw).md",
     "Excalidraw/images/postit__green.png",
     "Excalidraw/공기 절연 파괴 (draw).svg",
     "무제 1.md",
@@ -385,8 +390,6 @@
     "영구노트/전계.md",
     "영구노트/무한 평면의 전계.md",
     "두개의 무한 평판의 전계.md",
-    "영구노트/도체와 절연체의 전하 분포.md",
-    "영구노트/도체 표면의 전계.md",
     "영구노트/장(Field).md",
     "영구노트/자기 회전력 식 유도하기.md",
     "영구노트/전류 소자가 받는 힘.md",
@@ -403,7 +406,6 @@
     "기본 벡터 연산.md",
     "영구노트/배전 방식.md",
     "Excalidraw/3상 4선식 (draw).md",
-    "Excalidraw/3상 4선식 (draw).svg",
     "1.Projects/이력서 관리",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
