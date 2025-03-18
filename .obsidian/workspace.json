@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "중성점 접지 방식"
             }
-          },
-          {
-            "id": "e12f9afe9809ce02",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/소호 리액터 접지 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "소호 리액터 접지 (draw)"
-            }
           }
         ]
       }
