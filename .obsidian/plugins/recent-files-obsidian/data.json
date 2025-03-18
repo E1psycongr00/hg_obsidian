@@ -5,20 +5,20 @@
       "path": "연습노트/공기 절연 파괴.md"
     },
     {
-      "basename": "고온에 의한 절연 파괴 (draw)",
-      "path": "Excalidraw/고온에 의한 절연 파괴 (draw).md"
-    },
-    {
-      "basename": "공기 절연 파괴 (draw)",
-      "path": "Excalidraw/공기 절연 파괴 (draw).md"
-    },
-    {
       "basename": "도체와 절연체의 전하 분포",
       "path": "영구노트/도체와 절연체의 전하 분포.md"
     },
     {
       "basename": "도체 표면의 전계",
       "path": "영구노트/도체 표면의 전계.md"
+    },
+    {
+      "basename": "고온에 의한 절연 파괴 (draw)",
+      "path": "Excalidraw/고온에 의한 절연 파괴 (draw).md"
+    },
+    {
+      "basename": "공기 절연 파괴 (draw)",
+      "path": "Excalidraw/공기 절연 파괴 (draw).md"
     },
     {
       "basename": "custom gradle plugin type",
