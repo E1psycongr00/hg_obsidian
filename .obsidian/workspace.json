@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 1.md",
+                "file": "끝단 효과.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제 1"
+              "title": "끝단 효과"
             }
           },
           {
@@ -383,9 +383,10 @@
   },
   "active": "c91bc23729d3336e",
   "lastOpenFiles": [
+    "끝단 효과.md",
+    "연습노트/공기 절연 파괴.md",
     "영구노트/도체와 절연체의 전하 분포.md",
     "영구노트/도체 표면의 전계.md",
-    "연습노트/공기 절연 파괴.md",
     "Excalidraw/고온에 의한 절연 파괴 (draw).md",
     "Excalidraw/공기 절연 파괴 (draw).md",
     "Excalidraw/고온에 의한 절연 파괴 (draw).svg",
@@ -399,7 +400,6 @@
     "Excalidraw/lightening  icon.png",
     "Excalidraw/lightening  icon.svg",
     "Excalidraw/images/postit__green.png",
-    "무제 1.md",
     "영구노트/전계.md",
     "영구노트/무한 평면의 전계.md",
     "두개의 무한 평판의 전계.md",

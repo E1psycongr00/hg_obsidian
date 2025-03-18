@@ -5,6 +5,10 @@
       "path": "연습노트/공기 절연 파괴.md"
     },
     {
+      "basename": "끝단 효과",
+      "path": "끝단 효과.md"
+    },
+    {
       "basename": "도체와 절연체의 전하 분포",
       "path": "영구노트/도체와 절연체의 전하 분포.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "postit__green",
       "path": "Excalidraw/images/postit__green.png"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
     },
     {
       "basename": "전계",
