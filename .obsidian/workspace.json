@@ -28,13 +28,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/%Z 임피던스 (draw).md"
+                "file": "Excalidraw/%Z 임피던스 사고 전(draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "%Z 임피던스 (draw)"
+              "title": "%Z 임피던스 사고 전(draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/%Z법.md"
+                "file": "Excalidraw/%Z 임피던스 사고 전(draw).md"
               },
               "icon": "lucide-info",
-              "title": "%Z법 의 파일 속성"
+              "title": "%Z 임피던스 사고 전(draw) 의 파일 속성"
             }
           },
           {
@@ -344,12 +345,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6259631a087ab636",
+  "active": "f9b0dd9998410186",
   "lastOpenFiles": [
-    "Excalidraw/%Z 임피던스 (draw).md",
-    "Excalidraw/%Z 임피던스 (draw).svg",
     "연습노트/%Z법.md",
+    "Excalidraw/%Z 임피던스 사고 전(draw).md",
     "영구노트/정격 전류.md",
+    "Excalidraw/%Z 임피던스 사고 전(draw).svg",
     "무제 2.md",
     "영구노트/코로나 현상.md",
     "영구노트/아크.md",
