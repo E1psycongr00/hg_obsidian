@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "%Z법"
             }
+          },
+          {
+            "id": "f9b0dd9998410186",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-19 16.14.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-19 16.14.30.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "연습노트/%Z법.md"
+                "file": "Excalidraw/Drawing 2025-03-19 16.14.30.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "%Z법 의 파일 속성"
+              "title": "Drawing 2025-03-19 16.14.30.excalidraw 의 파일 속성"
             }
           },
           {
@@ -332,11 +345,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6259631a087ab636",
+  "active": "f9b0dd9998410186",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-19 16.14.30.excalidraw.svg",
+    "연습노트/%Z법.md",
+    "Excalidraw/Drawing 2025-03-19 16.14.30.excalidraw.md",
     "영구노트/정격 전류.md",
     "무제 2.md",
-    "연습노트/%Z법.md",
     "영구노트/코로나 현상.md",
     "영구노트/아크.md",
     "영구노트/중성점 접지 방식.md",
@@ -368,8 +383,6 @@
     "두개의 무한 평판의 전계.md",
     "영구노트/장(Field).md",
     "영구노트/자기 회전력 식 유도하기.md",
-    "영구노트/전류 소자가 받는 힘.md",
-    "영구노트/벡터의 외적.md",
     "1.Projects/이력서 관리",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
