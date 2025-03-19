@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "%Z 임피던스 사고 전(draw)",
-      "path": "Excalidraw/%Z 임피던스 사고 전(draw).md"
+      "basename": "Drawing 2025-03-19 16.29.56.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-19 16.29.56.excalidraw.md"
+    },
+    {
+      "basename": "%Z 임피던스 사고전(draw)",
+      "path": "Excalidraw/%Z 임피던스 사고전(draw).md"
     },
     {
       "basename": "%Z법",
@@ -95,10 +99,6 @@
     {
       "basename": "전계",
       "path": "영구노트/전계.md"
-    },
-    {
-      "basename": "자기 회전력 식 유도하기",
-      "path": "영구노트/자기 회전력 식 유도하기.md"
     }
   ],
   "omittedPaths": [],

@@ -28,14 +28,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/%Z 임피던스 사고 전(draw).md"
+                "file": "Excalidraw/%Z 임피던스 사고전(draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "%Z 임피던스 사고 전(draw)"
+              "title": "%Z 임피던스 사고전(draw)"
+            }
+          },
+          {
+            "id": "abe6582766392995",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-19 16.29.56.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-19 16.29.56.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/%Z 임피던스 사고 전(draw).md"
+                "file": "Excalidraw/Drawing 2025-03-19 16.29.56.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "%Z 임피던스 사고 전(draw) 의 파일 속성"
+              "title": "Drawing 2025-03-19 16.29.56.excalidraw 의 파일 속성"
             }
           },
           {
@@ -345,12 +357,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f9b0dd9998410186",
+  "active": "abe6582766392995",
   "lastOpenFiles": [
+    "Excalidraw/%Z 임피던스 사고전(draw).md",
+    "Excalidraw/Drawing 2025-03-19 16.29.56.excalidraw.md",
     "연습노트/%Z법.md",
-    "Excalidraw/%Z 임피던스 사고 전(draw).md",
     "영구노트/정격 전류.md",
-    "Excalidraw/%Z 임피던스 사고 전(draw).svg",
+    "Excalidraw/%Z 임피던스 사고전(draw).svg",
     "무제 2.md",
     "영구노트/코로나 현상.md",
     "영구노트/아크.md",
