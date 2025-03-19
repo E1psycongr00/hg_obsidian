@@ -21,33 +21,8 @@
               "icon": "lucide-file",
               "title": "%Z법"
             }
-          },
-          {
-            "id": "f9b0dd9998410186",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/%Z 임피던스 사고전(draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "%Z 임피던스 사고전(draw)"
-            }
-          },
-          {
-            "id": "abe6582766392995",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "%Z 임피던스 사고 후 (draw)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
+                "file": "연습노트/%Z법.md"
               },
               "icon": "lucide-info",
-              "title": "%Z 임피던스 사고 후 (draw) 의 파일 속성"
+              "title": "%Z법 의 파일 속성"
             }
           },
           {
@@ -357,7 +332,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "abe6582766392995",
+  "active": "6259631a087ab636",
   "lastOpenFiles": [
     "Excalidraw/%Z 임피던스 사고전(draw).md",
     "Excalidraw/%Z 임피던스 사고 후 (draw).md",
