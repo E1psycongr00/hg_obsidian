@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "영구노트/코로나 현상.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -339,6 +339,8 @@
   },
   "active": "e2a68616d9b712b7",
   "lastOpenFiles": [
+    "영구노트/아크.md",
+    "영구노트/코로나 현상.md",
     "무제 1.md",
     "영구노트/중성점 접지 방식.md",
     "Excalidraw/소호 리액터 접지 (draw).md",
@@ -347,8 +349,6 @@
     "Excalidraw/접지로 지락 전류 차단 과정 (draw).md",
     "Excalidraw/접지로 지락 전류 차단 과정 (draw).svg",
     "Excalidraw/직접 접지 (draw).svg",
-    "영구노트/코로나 현상.md",
-    "영구노트/아크.md",
     "영구노트/공기 절연 파괴.md",
     "영구노트/변위 전류.md",
     "영구노트/맥스웰 방정식.md",
