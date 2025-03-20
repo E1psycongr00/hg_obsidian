@@ -1,12 +1,13 @@
 ---
 tags:
-  - 완성
   - 솔루션
   - 알고리즘
   - JAVA
 aliases: 
-date: 2024-12-28
+created: 2024-12-28
 title: 공원 문제 JAVA 풀이
+note-type: COMMON
+completed: true
 ---
 ---
 

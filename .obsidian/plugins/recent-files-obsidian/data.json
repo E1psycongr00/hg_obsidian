@@ -1,88 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
-      "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
+      "basename": "구조",
+      "path": "03. Permanent Notes/구조.md"
     },
     {
-      "basename": "4단자망",
-      "path": "03. Permanent Notes/4단자망.md"
+      "basename": "구심력",
+      "path": "03. Permanent Notes/구심력.md"
     },
     {
-      "basename": "3 Phase Commit",
-      "path": "03. Permanent Notes/3 Phase Commit.md"
+      "basename": "구간합 문제 모음",
+      "path": "03. Permanent Notes/구간합 문제 모음.md"
     },
     {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
+      "basename": "광고 삽입",
+      "path": "03. Permanent Notes/광고 삽입.md"
     },
     {
-      "basename": "AutoCommon",
-      "path": "templaters/commander/AutoCommon.md"
+      "basename": "과도현상",
+      "path": "03. Permanent Notes/과도현상.md"
     },
     {
-      "basename": "2PC 장애 복구 전략",
-      "path": "03. Permanent Notes/2PC 장애 복구 전략.md"
+      "basename": "공원 문제 JAVA 풀이",
+      "path": "03. Permanent Notes/공원 문제 JAVA 풀이.md"
     },
     {
-      "basename": "2D array constant time query update",
-      "path": "03. Permanent Notes/2D array constant time query update.md"
+      "basename": "공원 문제",
+      "path": "03. Permanent Notes/공원 문제.md"
     },
     {
-      "basename": "2차원 구간합, 부분합",
-      "path": "03. Permanent Notes/2차원 구간합, 부분합.md"
+      "basename": "공부가 아니라 배움이다  by 타일러",
+      "path": "03. Permanent Notes/공부가 아니라 배움이다  by 타일러.md"
     },
     {
-      "basename": "2 Phase Commit",
-      "path": "03. Permanent Notes/2 Phase Commit.md"
+      "basename": "공기 절연 파괴",
+      "path": "03. Permanent Notes/공기 절연 파괴.md"
     },
     {
-      "basename": "%Z법",
-      "path": "03. Permanent Notes/%Z법.md"
+      "basename": "곡선 좌표계와 미분 연산자",
+      "path": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
     },
     {
-      "basename": "1D array constant time query update",
-      "path": "03. Permanent Notes/1D array constant time query update.md"
+      "basename": "경량 실행 체계",
+      "path": "03. Permanent Notes/경량 실행 체계.md"
     },
     {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "03. Permanent Notes/@Valid와 @Validated 차이.md"
+      "basename": "경계값 분석",
+      "path": "03. Permanent Notes/경계값 분석.md"
     },
     {
-      "basename": "@ServiceConnection",
-      "path": "03. Permanent Notes/@ServiceConnection.md"
+      "basename": "경계 다루기",
+      "path": "03. Permanent Notes/경계 다루기.md"
     },
     {
-      "basename": "@chain과 Runnable",
-      "path": "03. Permanent Notes/@chain과 Runnable.md"
-    },
-    {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "클래스 단위 클래스 컨테이너 (draw)",
-      "path": "Excalidraw/클래스 단위 클래스 컨테이너 (draw).md"
-    },
-    {
-      "basename": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway",
-      "path": "03. Permanent Notes/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "04. Practice Notes/k6와 그라파나를 활용해 테스트 시각화하기.md"
-    },
-    {
-      "basename": "k6와 docker image로 만들어진 influxdb v2 연결하기",
-      "path": "03. Permanent Notes/k6와 docker image로 만들어진 influxdb v2 연결하기.md"
-    },
-    {
-      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
-      "path": "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md"
-    },
-    {
-      "basename": "기본 템플릿",
-      "path": "templaters/기본 템플릿.md"
+      "basename": "결합도",
+      "path": "03. Permanent Notes/결합도.md"
     },
     {
       "basename": "객체 분해 할당",
@@ -99,6 +71,34 @@
     {
       "basename": "2022년 프로그래밍 별 통계",
       "path": "03. Permanent Notes/2022년 프로그래밍 별 통계.md"
+    },
+    {
+      "basename": "2022 4월 전기기사 4번",
+      "path": "03. Permanent Notes/2022 4월 전기기사 4번.md"
+    },
+    {
+      "basename": "725. Split LinkedList in Parts",
+      "path": "03. Permanent Notes/725. Split LinkedList in Parts.md"
+    },
+    {
+      "basename": "153. Find Minimum in Rotated Sorted Array",
+      "path": "03. Permanent Notes/153. Find Minimum in Rotated Sorted Array.md"
+    },
+    {
+      "basename": "35. Search Insert Position",
+      "path": "03. Permanent Notes/35. Search Insert Position.md"
+    },
+    {
+      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
+      "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
+    },
+    {
+      "basename": "4단자망",
+      "path": "03. Permanent Notes/4단자망.md"
+    },
+    {
+      "basename": "3 Phase Commit",
+      "path": "03. Permanent Notes/3 Phase Commit.md"
     }
   ],
   "omittedPaths": [],
