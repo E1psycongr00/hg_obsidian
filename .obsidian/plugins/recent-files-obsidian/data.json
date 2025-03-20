@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "home",
+      "path": "home.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "MOC Guide Line",
       "path": "MOC/MOC Guide Line.md"
     },
@@ -87,14 +95,6 @@
     {
       "basename": "gradle plugin method",
       "path": "attachments/images/gradle plugin method.png"
-    },
-    {
-      "basename": "gradle advantage",
-      "path": "attachments/images/gradle advantage.png"
-    },
-    {
-      "basename": "postit__green",
-      "path": "Excalidraw/images/postit__green.png"
     }
   ],
   "omittedPaths": [],
