@@ -1,10 +1,10 @@
----
+﻿---
 tags:
   - 미완
   - 프롬프트엔지니어링
 aliases:
   - 메타 러닝
-date: 2025-01-02
+created: 2025-01-02
 title: Meta Learning
 ---
 ## 내용

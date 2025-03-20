@@ -1,8 +1,8 @@
----
+﻿---
 tags:
   - Github
 aliases: 
-date: 2024-09-11
+created: 2024-09-11
 title: Git 핵심 명령어
 ---
 작성 날짜: 2024-09-11

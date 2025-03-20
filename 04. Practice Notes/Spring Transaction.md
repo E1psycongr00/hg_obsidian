@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - 미완
   - JAVA
@@ -7,7 +7,7 @@ tags:
 aliases:
   - Spring 트랜잭션
   - 스프링 트랜잭션
-date: 2024-12-04
+created: 2024-12-04
 title: Spring Transaction
 ---
 작성 날짜: 2024-12-04

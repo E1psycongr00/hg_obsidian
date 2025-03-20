@@ -1,11 +1,11 @@
----
+﻿---
 tags:
   - 미완
   - JAVA
   - Spring
   - 객체지향
 aliases: 
-date: 2024-12-04
+created: 2024-12-04
 title: Spring State Machine
 ---
 작성 날짜: 2024-12-04

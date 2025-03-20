@@ -1,9 +1,9 @@
----
+﻿---
 tags:
   - 미완
   - 프롬프트엔지니어링
 aliases: 
-date: 2025-01-02
+created: 2025-01-02
 title: Chain of Thought는 모든 유형에 효과적인가
 ---
 

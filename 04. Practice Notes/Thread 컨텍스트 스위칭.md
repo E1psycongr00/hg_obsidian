@@ -1,10 +1,10 @@
----
+﻿---
 tags:
   - 미완
   - OS
   - Thread
 aliases: 
-date: 2024-12-13
+created: 2024-12-13
 title: Thread 컨텍스트 스위칭
 ---
 ---

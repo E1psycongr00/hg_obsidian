@@ -1,10 +1,10 @@
----
+﻿---
 tags:
   - 미완
   - JAVA
   - Spring
 aliases: 
-date: 2024-11-26
+created: 2024-11-26
 title: Spring Modulith
 ---
 
