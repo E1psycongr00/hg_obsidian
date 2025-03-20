@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - graph
 aliases: null
 title: Co-citations

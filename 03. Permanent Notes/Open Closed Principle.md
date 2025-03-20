@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 객체지향
 aliases: null
 title: Open Closed Principle

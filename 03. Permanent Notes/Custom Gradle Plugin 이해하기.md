@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Gradle
   - Plugin
 aliases: null

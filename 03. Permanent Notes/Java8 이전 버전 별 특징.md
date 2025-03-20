@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
 aliases: null
 title: Java8 이전 버전 별 특징

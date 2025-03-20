@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Gradle
 aliases: null
 title: Gradle 지원 버전

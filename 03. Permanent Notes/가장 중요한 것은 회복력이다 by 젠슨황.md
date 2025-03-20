@@ -1,9 +1,8 @@
 ---
 tags:
-  - 완성
   - 인물
-aliases: 
-created: 2024-10-17
+aliases: null
+created: 2024-10-17T00:00:00.000Z
 title: 가장 중요한 것은 회복력이다 by 젠슨황
 note-type: COMMON
 completed: true

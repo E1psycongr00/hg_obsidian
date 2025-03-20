@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Gradle
 aliases: null
 title: Why Gradle

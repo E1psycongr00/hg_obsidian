@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JS
   - Typescript
   - Bundler

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
   - 커링
 aliases:

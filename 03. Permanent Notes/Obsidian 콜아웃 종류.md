@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Obsidian
 aliases: null
 title: Obsidian 콜아웃 종류

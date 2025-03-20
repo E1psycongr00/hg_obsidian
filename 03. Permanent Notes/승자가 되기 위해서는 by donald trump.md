@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 명언
 aliases: null
 title: 승자가 되기 위해서는 by donald trump

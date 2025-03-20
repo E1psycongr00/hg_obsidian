@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 솔루션
   - JPA
 aliases: null

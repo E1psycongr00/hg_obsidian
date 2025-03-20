@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
 aliases:
   - Java에서 외부 스크립트 사용하기

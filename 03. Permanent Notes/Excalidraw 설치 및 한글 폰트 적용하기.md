@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 솔루션
 aliases: null
 title: Excalidraw 설치 및 한글 폰트 적용하기

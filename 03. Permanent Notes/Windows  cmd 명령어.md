@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Windows
   - OS
 aliases: null

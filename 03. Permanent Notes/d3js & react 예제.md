@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - d3js
   - DataVisualization
 aliases: null

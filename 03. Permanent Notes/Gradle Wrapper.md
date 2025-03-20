@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Gradle
   - 빌드
 aliases: null

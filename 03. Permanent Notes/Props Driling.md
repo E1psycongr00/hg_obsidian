@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - React
 aliases: null
 title: Props Driling

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - SQL
   - MySQL
 aliases: null

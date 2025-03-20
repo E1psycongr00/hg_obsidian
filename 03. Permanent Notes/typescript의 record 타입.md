@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Typescript
 aliases: null
 title: typescript의 record 타입

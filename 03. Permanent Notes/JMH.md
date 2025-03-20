@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
   - 테스트
   - BenchMark

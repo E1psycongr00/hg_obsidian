@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
 aliases: null
 title: MapStruct 사용하기 (by java17 & Kotlin DSL)

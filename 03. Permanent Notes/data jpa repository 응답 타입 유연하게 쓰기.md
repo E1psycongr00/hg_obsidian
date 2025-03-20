@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
   - JPA
 aliases: null

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Typescript
   - NextJS
   - 빌드

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Docker
   - Grafana
   - 인프라

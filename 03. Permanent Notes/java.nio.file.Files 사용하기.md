@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
 aliases: null
 title: java.nio.file.Files 사용하기

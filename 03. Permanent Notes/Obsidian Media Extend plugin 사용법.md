@@ -1,6 +1,5 @@
 ---
-tags:
-  - 완성
+tags: []
 aliases: null
 title: Obsidian Media Extend plugin 사용법
 created: 2023-12-03T00:00:00.000Z

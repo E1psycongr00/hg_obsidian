@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - CS
 aliases: null
 title: IP(인터넷 프로토콜)

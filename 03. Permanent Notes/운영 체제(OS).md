@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - OS
 aliases:
   - 운영체제

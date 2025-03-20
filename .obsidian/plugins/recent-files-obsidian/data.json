@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+      "basename": "Process vs Thread",
+      "path": "03. Permanent Notes/Process vs Thread.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "Portable Service Abstraction",
+      "path": "03. Permanent Notes/Portable Service Abstraction.md"
     },
     {
-      "basename": "비선점형 스케줄러",
-      "path": "03. Permanent Notes/비선점형 스케줄러.md"
+      "basename": "Parametric Search 조건을 만족하는 최대값",
+      "path": "03. Permanent Notes/Parametric Search 조건을 만족하는 최대값.md"
     },
     {
-      "basename": "분산 트랜잭션 종류별 특징",
-      "path": "03. Permanent Notes/분산 트랜잭션 종류별 특징.md"
+      "basename": "LangGraph의 State란",
+      "path": "03. Permanent Notes/LangGraph의 State란.md"
     },
     {
-      "basename": "분산 시스템 합의 알고리즘",
-      "path": "03. Permanent Notes/분산 시스템 합의 알고리즘.md"
+      "basename": "LangGraph의 Graph 구성 요소",
+      "path": "03. Permanent Notes/LangGraph의 Graph 구성 요소.md"
     },
     {
-      "basename": "분산 트랜잭션",
-      "path": "03. Permanent Notes/분산 트랜잭션.md"
+      "basename": "Kernel Level Thread",
+      "path": "03. Permanent Notes/Kernel Level Thread.md"
     },
     {
-      "basename": "분극",
-      "path": "03. Permanent Notes/분극.md"
+      "basename": "JOOQ 기본 세팅하기",
+      "path": "03. Permanent Notes/JOOQ 기본 세팅하기.md"
     },
     {
-      "basename": "부하 테스트의 가용성과 확장성의 정의",
-      "path": "03. Permanent Notes/부하 테스트의 가용성과 확장성의 정의.md"
+      "basename": "Java와 함께하는 Mutex 사용 예제",
+      "path": "03. Permanent Notes/Java와 함께하는 Mutex 사용 예제.md"
     },
     {
-      "basename": "부하 테스트 개념",
-      "path": "03. Permanent Notes/부하 테스트 개념.md"
+      "basename": "java-vscode-setting-json",
+      "path": "03. Permanent Notes/java-vscode-setting-json.md"
     },
     {
-      "basename": "부분합, 누적합",
-      "path": "03. Permanent Notes/부분합, 누적합.md"
+      "basename": "Java 파일 읽기",
+      "path": "03. Permanent Notes/Java 파일 읽기.md"
     },
     {
-      "basename": "부분적분법",
-      "path": "03. Permanent Notes/부분적분법.md"
+      "basename": "java 11 특징",
+      "path": "03. Permanent Notes/java 11 특징.md"
     },
     {
-      "basename": "본능의 목소리에 귀울여라 by donald trump",
-      "path": "03. Permanent Notes/본능의 목소리에 귀울여라 by donald trump.md"
+      "basename": "InfluxDB 소개",
+      "path": "03. Permanent Notes/InfluxDB 소개.md"
     },
     {
-      "basename": "변위 전류 식 유도",
-      "path": "03. Permanent Notes/변위 전류 식 유도.md"
+      "basename": "Gradle 지원 버전",
+      "path": "03. Permanent Notes/Gradle 지원 버전.md"
     },
     {
-      "basename": "변위 전류",
-      "path": "03. Permanent Notes/변위 전류.md"
+      "basename": "field에 java bean validation 적용 및 테스트",
+      "path": "03. Permanent Notes/field에 java bean validation 적용 및 테스트.md"
     },
     {
-      "basename": "벡터의 외적",
-      "path": "03. Permanent Notes/벡터의 외적.md"
+      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
+      "path": "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md"
     },
     {
-      "basename": "벡터의 미분",
-      "path": "03. Permanent Notes/벡터의 미분.md"
+      "basename": "Dungeon Game",
+      "path": "03. Permanent Notes/Dungeon Game.md"
     },
     {
-      "basename": "벡터의 내적과 이해",
-      "path": "03. Permanent Notes/벡터의 내적과 이해.md"
+      "basename": "Java17 Switch 문법",
+      "path": "03. Permanent Notes/Java17 Switch 문법.md"
     },
     {
-      "basename": "벡터 항등식 쉽게 외우기",
-      "path": "03. Permanent Notes/벡터 항등식 쉽게 외우기.md"
+      "basename": "java vscode format 세팅",
+      "path": "03. Permanent Notes/java vscode format 세팅.md"
     },
     {
-      "basename": "벡터 항등식",
-      "path": "03. Permanent Notes/벡터 항등식.md"
+      "basename": "Java List 유틸 메서드 by Collections",
+      "path": "03. Permanent Notes/Java List 유틸 메서드 by Collections.md"
     },
     {
-      "basename": "범용 EnumConverter 만들기",
-      "path": "03. Permanent Notes/범용 EnumConverter 만들기.md"
+      "basename": "JAVA Text Block",
+      "path": "03. Permanent Notes/JAVA Text Block.md"
     },
     {
-      "basename": "배전 방식",
-      "path": "03. Permanent Notes/배전 방식.md"
+      "basename": "Java Bean Validation 소개",
+      "path": "03. Permanent Notes/Java Bean Validation 소개.md"
     },
     {
-      "basename": "배열은 객체다(JS)",
-      "path": "03. Permanent Notes/배열은 객체다(JS).md"
+      "basename": "Java 파일 쓰기",
+      "path": "03. Permanent Notes/Java 파일 쓰기.md"
     },
     {
-      "basename": "배열 초기화",
-      "path": "03. Permanent Notes/배열 초기화.md"
+      "basename": "Java 파일 다루기",
+      "path": "03. Permanent Notes/Java 파일 다루기.md"
     },
     {
-      "basename": "배열 불변성 복사(JS)",
-      "path": "03. Permanent Notes/배열 불변성 복사(JS).md"
+      "basename": "Java 쓰레드 상태",
+      "path": "03. Permanent Notes/Java 쓰레드 상태.md"
     },
     {
-      "basename": "미로 탈출 명령어",
-      "path": "03. Permanent Notes/미로 탈출 명령어.md"
+      "basename": "Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기",
+      "path": "03. Permanent Notes/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md"
     }
   ],
   "omittedPaths": [],

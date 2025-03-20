@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - LLM
   - Langchain
 aliases: null

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 명언
 aliases: null
 title: 지식보다 중요한 것은 상상력이다 by Einstein

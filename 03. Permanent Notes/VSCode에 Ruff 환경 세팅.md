@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - VSCode
   - Python
   - Ruff

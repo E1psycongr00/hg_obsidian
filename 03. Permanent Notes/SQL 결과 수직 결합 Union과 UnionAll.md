@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - SQL
 aliases: null
 title: SQL 결과 수직 결합 Union과 UnionAll

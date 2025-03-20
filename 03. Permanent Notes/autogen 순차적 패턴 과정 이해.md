@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - AutoGen
   - 채팅시스템
 aliases: null

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 알고리즘
   - UnionFind
 aliases: null

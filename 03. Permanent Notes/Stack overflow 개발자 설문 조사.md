@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 설문조사
   - 통계
 aliases: null

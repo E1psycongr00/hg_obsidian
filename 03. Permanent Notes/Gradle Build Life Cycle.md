@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Gradle
 aliases: null
 title: Gradle Build Life Cycle

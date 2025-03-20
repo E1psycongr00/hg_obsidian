@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
   - JOOQ
 aliases: null

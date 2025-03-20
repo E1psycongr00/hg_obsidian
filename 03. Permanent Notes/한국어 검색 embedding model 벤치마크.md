@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - BenchMark
 aliases: null
 title: 한국어 검색 embedding model 벤치마크

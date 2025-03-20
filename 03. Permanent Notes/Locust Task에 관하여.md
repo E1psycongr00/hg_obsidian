@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 부하테스트
   - Locust
 aliases: null

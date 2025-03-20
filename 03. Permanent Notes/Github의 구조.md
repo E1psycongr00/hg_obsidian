@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Github
 aliases: null
 title: Github의 구조

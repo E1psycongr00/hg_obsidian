@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 클린코드
   - JS
 aliases:

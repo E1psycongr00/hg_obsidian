@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - CS
   - CPU
   - OS

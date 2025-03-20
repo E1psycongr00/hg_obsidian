@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Gradle
   - Kotlin
 aliases: null

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - IT
   - 네트워크
 aliases:

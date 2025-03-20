@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JS
 aliases: null
 title: Truthy or Falsy

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - CSharp
 aliases: null
 title: CSharp 프로퍼티

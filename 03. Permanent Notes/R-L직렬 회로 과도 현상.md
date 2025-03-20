@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 회로이론
   - 제어공학
 aliases: null

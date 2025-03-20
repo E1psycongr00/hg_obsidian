@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
   - 자료구조
 aliases:

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 명언
 aliases: null
 title: 할까 말까 망설이면 걍 해라 by 친구들

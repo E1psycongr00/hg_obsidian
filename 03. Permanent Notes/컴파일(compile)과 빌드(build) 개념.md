@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 빌드
 aliases: null
 title: 컴파일(compile)과 빌드(build) 개념

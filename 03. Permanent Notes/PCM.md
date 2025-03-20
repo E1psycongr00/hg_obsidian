@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - DSP
 aliases:
   - Pulse Code Modulation

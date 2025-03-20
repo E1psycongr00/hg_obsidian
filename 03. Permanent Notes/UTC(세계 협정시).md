@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 상식
 aliases:
   - UTC

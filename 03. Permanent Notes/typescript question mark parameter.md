@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Typescript
 aliases:
   - ts question mark parameter

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Python
 aliases: null
 title: Python의 Truthy와 Falsy

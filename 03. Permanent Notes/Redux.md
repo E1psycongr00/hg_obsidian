@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - Redux
 aliases: null
 title: Redux

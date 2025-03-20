@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - CS
 aliases: null
 title: Polling(폴링)

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 부하테스트
   - K6
 aliases: null

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 유한오토마타
 aliases: null
 title: DFA와 NFA 차이점

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - IT
   - JAVA
 aliases: null

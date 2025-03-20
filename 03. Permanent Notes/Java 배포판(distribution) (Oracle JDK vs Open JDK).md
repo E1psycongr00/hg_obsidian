@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - JAVA
 aliases: null
 title: Java 배포판(distribution) (Oracle JDK vs Open JDK)

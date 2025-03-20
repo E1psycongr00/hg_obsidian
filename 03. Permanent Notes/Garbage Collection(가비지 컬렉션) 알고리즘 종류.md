@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - GC
   - JAVA
 aliases: null
