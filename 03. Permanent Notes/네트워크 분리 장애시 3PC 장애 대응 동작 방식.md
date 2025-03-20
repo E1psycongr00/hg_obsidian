@@ -1,11 +1,11 @@
 ---
 tags:
-  - 완성
   - 분산시스템
 aliases: 
-date: 2024-12-19
+created: 2024-12-19
 title: 네트워크 분리 장애시 3PC 장애 대응 동작 방식
----
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

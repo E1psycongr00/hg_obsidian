@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "단축 평가 계산",
+      "path": "03. Permanent Notes/단축 평가 계산.md"
+    },
+    {
+      "basename": "단속 카메라 문제",
+      "path": "03. Permanent Notes/단속 카메라 문제.md"
+    },
+    {
+      "basename": "다중 쿼리 기법",
+      "path": "03. Permanent Notes/다중 쿼리 기법.md"
+    },
+    {
+      "basename": "니콜라스 루만",
+      "path": "03. Permanent Notes/니콜라스 루만.md"
+    },
+    {
+      "basename": "노트 체계화의 중요성 PARA",
+      "path": "03. Permanent Notes/노트 체계화의 중요성 PARA.md"
+    },
+    {
+      "basename": "네트워크 분리 장애시 3PC 장애 대응 동작 방식",
+      "path": "03. Permanent Notes/네트워크 분리 장애시 3PC 장애 대응 동작 방식.md"
+    },
+    {
+      "basename": "네 자신의 무지를 절대 과소평가하지 마라 by Einstein",
+      "path": "03. Permanent Notes/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md"
+    },
+    {
+      "basename": "내압",
+      "path": "03. Permanent Notes/내압.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
+      "path": "03. Permanent Notes/나만의 제텔카스텐 단위 메모 작성 이유.md"
+    },
+    {
+      "basename": "나만의 제텔카스텐 기법 & 옵시디언",
+      "path": "03. Permanent Notes/나만의 제텔카스텐 기법 & 옵시디언.md"
+    },
+    {
+      "basename": "나만의 노트 확장 방법",
+      "path": "03. Permanent Notes/나만의 노트 확장 방법.md"
+    },
+    {
+      "basename": "나만의 노트 분리하기",
+      "path": "03. Permanent Notes/나만의 노트 분리하기.md"
+    },
+    {
+      "basename": "기력 발전 열사이클",
+      "path": "03. Permanent Notes/기력 발전 열사이클.md"
+    },
+    {
+      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
+      "path": "03. Permanent Notes/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
+    },
+    {
+      "basename": "끝단 효과",
+      "path": "03. Permanent Notes/끝단 효과.md"
+    },
+    {
+      "basename": "구조와 메커니즘 관계",
+      "path": "03. Permanent Notes/구조와 메커니즘 관계.md"
+    },
+    {
       "basename": "구조",
       "path": "03. Permanent Notes/구조.md"
     },
@@ -35,70 +99,6 @@
     {
       "basename": "공기 절연 파괴",
       "path": "03. Permanent Notes/공기 절연 파괴.md"
-    },
-    {
-      "basename": "곡선 좌표계와 미분 연산자",
-      "path": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
-    },
-    {
-      "basename": "경량 실행 체계",
-      "path": "03. Permanent Notes/경량 실행 체계.md"
-    },
-    {
-      "basename": "경계값 분석",
-      "path": "03. Permanent Notes/경계값 분석.md"
-    },
-    {
-      "basename": "경계 다루기",
-      "path": "03. Permanent Notes/경계 다루기.md"
-    },
-    {
-      "basename": "결합도",
-      "path": "03. Permanent Notes/결합도.md"
-    },
-    {
-      "basename": "객체 분해 할당",
-      "path": "03. Permanent Notes/객체 분해 할당.md"
-    },
-    {
-      "basename": "가장 중요한 것은 회복력이다 by 젠슨황",
-      "path": "03. Permanent Notes/가장 중요한 것은 회복력이다 by 젠슨황.md"
-    },
-    {
-      "basename": "2707. Extra Characters in a String",
-      "path": "03. Permanent Notes/2707. Extra Characters in a String.md"
-    },
-    {
-      "basename": "2022년 프로그래밍 별 통계",
-      "path": "03. Permanent Notes/2022년 프로그래밍 별 통계.md"
-    },
-    {
-      "basename": "2022 4월 전기기사 4번",
-      "path": "03. Permanent Notes/2022 4월 전기기사 4번.md"
-    },
-    {
-      "basename": "725. Split LinkedList in Parts",
-      "path": "03. Permanent Notes/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "153. Find Minimum in Rotated Sorted Array",
-      "path": "03. Permanent Notes/153. Find Minimum in Rotated Sorted Array.md"
-    },
-    {
-      "basename": "35. Search Insert Position",
-      "path": "03. Permanent Notes/35. Search Insert Position.md"
-    },
-    {
-      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
-      "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
-    },
-    {
-      "basename": "4단자망",
-      "path": "03. Permanent Notes/4단자망.md"
-    },
-    {
-      "basename": "3 Phase Commit",
-      "path": "03. Permanent Notes/3 Phase Commit.md"
     }
   ],
   "omittedPaths": [],

@@ -1,17 +1,15 @@
 ---
 tags:
-  - 완성
   - PARA
   - Obsidian
 aliases:
   - PARA
-date: 2024-07-08
+created: 2024-07-08
 title: 노트 체계화의 중요성 PARA
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2024-07-08
-작성 시간: 13:31
 
-----
 ## 내용(Content)
 
 ### 노트 체계화의 중요성
