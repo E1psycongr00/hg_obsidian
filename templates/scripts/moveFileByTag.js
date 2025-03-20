@@ -1,29 +1,25 @@
 // moveFileByTag.js
-module.exports = async function(tp) {
+module.exports = async function(tp, tag, targetFolder) {
     const file = tp.file; // 현재 파일 객체
     const frontmatter = tp.frontmatter; // YAML frontmatter 데이터
     const app = tp.app; // Obsidian app 객체
 
-    // 사용자에게 태그 입력 요청
-    const tagInput = await tp.system.prompt("확인할 태그를 입력하세요 (예: MOC):");
-    if (!tagInput) {
-        new window.Notice("태그가 입력되지 않았습니다.");
+    // 입력값 검증
+    if (!tag) {
+        new window.Notice("태그가 지정되지 않았습니다.");
+        return;
+    }
+    if (!targetFolder) {
+        new window.Notice("목표 폴더가 지정되지 않았습니다.");
         return;
     }
 
     // 태그 정규화
-    const tag = tagInput.startsWith("#") ? tagInput.slice(1) : tagInput;
-
-    // 사용자에게 목표 폴더 입력 요청
-    const targetFolder = await tp.system.prompt("파일을 이동할 폴더를 입력하세요 (예: Archive):");
-    if (!targetFolder) {
-        new window.Notice("목표 폴더가 입력되지 않았습니다.");
-        return;
-    }
+    const normalizedTag = tag.startsWith("#") ? tag.slice(1) : tag;
 
     // 태그 확인
     const tags = frontmatter.tags || [];
-    const hasTag = Array.isArray(tags) ? tags.includes(tag) : tags === tag;
+    const hasTag = Array.isArray(tags) ? tags.includes(normalizedTag) : tags === normalizedTag;
 
     if (hasTag) {
         try {
@@ -41,6 +37,6 @@ module.exports = async function(tp) {
             new window.Notice(`이동 실패: ${error.message}`);
         }
     } else {
-        new window.Notice(`파일에 #${tag} 태그가 없습니다.`);
+        new window.Notice(`파일에 #${normalizedTag} 태그가 없습니다.`);
     }
 };

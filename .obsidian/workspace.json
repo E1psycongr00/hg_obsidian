@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자화.md",
+                "file": "templates/commander/MoveFileByTag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "자화"
-            }
-          },
-          {
-            "id": "d1ec54c244645b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "무제"
+              "title": "MoveFileByTag"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제.md"
+                "file": "templates/commander/MoveFileByTag.md"
               },
               "icon": "lucide-info",
-              "title": "무제 의 파일 속성"
+              "title": "MoveFileByTag 의 파일 속성"
             }
           },
           {
@@ -290,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.md",
+                "file": "templates/commander/MoveFileByTag.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "MoveFileByTag 의 개요"
             }
           }
         ]
@@ -329,10 +313,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d1ec54c244645b7c",
+  "active": "fe14beeeb60f1d70",
   "lastOpenFiles": [
     "자화.md",
-    "무제.md",
+    "2. MOC/무제.md",
+    "2. MOC",
     "templates/commander/MoveFileByTag.md",
     "02. MOC/무제.md",
     "이해도 분석 가이드.md",
@@ -363,11 +348,9 @@
     "Excalidraw/MOC 상향식 (draw).md",
     "Excalidraw/MOC 상향식 (draw).svg",
     "01. Guides/Folder Guides.md",
-    "01. Guides/Tag Guide Lines.md",
     "05. Reference Notes",
     "06. PARA",
     "01. Guides",
-    "임시 노트",
     "index.canvas",
     "Excalidraw/%Z 임피던스 사고 후 (draw).svg",
     "Excalidraw/%Z 임피던스 사고전(draw).svg",
