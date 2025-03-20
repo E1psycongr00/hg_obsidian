@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/commander/MoveFileByTag.md",
+                "file": "자화.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MoveFileByTag"
+              "title": "자화"
             }
           },
           {
-            "id": "f49293dd49b25631",
+            "id": "19cf9363f1defa6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "02. MOC/무제.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제.md"
+                "file": "02. MOC/무제.md"
               },
               "icon": "lucide-info",
               "title": "무제 의 파일 속성"
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.md",
+                "file": "02. MOC/무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -329,10 +329,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f49293dd49b25631",
+  "active": "19cf9363f1defa6d",
   "lastOpenFiles": [
+    "자화.md",
+    "02. MOC/무제.md",
+    "이해도 분석 가이드.md",
     "templates/commander/MoveFileByTag.md",
-    "무제.md",
     "MOC/무제.md",
     "MOC",
     "templates/scripts/moveFileByTag.js",
@@ -362,8 +364,6 @@
     "Excalidraw/MOC 상향식 (draw).svg",
     "01. Guides/Folder Guides.md",
     "01. Guides/Tag Guide Lines.md",
-    "templates/참조 노트 템플릿.md",
-    "templates/project 템플릿.md",
     "05. Reference Notes",
     "06. PARA",
     "01. Guides",

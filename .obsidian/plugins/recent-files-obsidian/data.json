@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "무제",
-      "path": "무제.md"
+      "path": "02. MOC/무제.md"
+    },
+    {
+      "basename": "자화",
+      "path": "자화.md"
+    },
+    {
+      "basename": "이해도 분석 가이드",
+      "path": "이해도 분석 가이드.md"
     },
     {
       "basename": "MoveFileByTag",
@@ -91,14 +99,6 @@
     {
       "basename": "project 템플릿",
       "path": "templates/project 템플릿.md"
-    },
-    {
-      "basename": "resource 템플릿",
-      "path": "templates/resource 템플릿.md"
-    },
-    {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
     }
   ],
   "omittedPaths": [],
