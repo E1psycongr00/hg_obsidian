@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "기본 템플릿",
+      "path": "04. Practice Notes/기본 템플릿.md"
+    },
+    {
       "basename": "MOC 템플릿",
-      "path": "templates/templater/MOC 템플릿.md"
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "asdfasdfa",
+      "path": "asdfasdfa.md"
     },
     {
       "basename": "hello",
@@ -11,10 +27,6 @@
     {
       "basename": "hello world",
       "path": "hello world.md"
-    },
-    {
-      "basename": "asdfasdfa",
-      "path": "asdfasdfa.md"
     },
     {
       "basename": "Home",
@@ -27,10 +39,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templates/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "자화",
@@ -91,14 +99,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "MOC 상향식 (draw)",
-      "path": "Excalidraw/MOC 상향식 (draw).md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
     }
   ],
   "omittedPaths": [],
