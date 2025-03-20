@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "AutoCommon",
-      "path": "templaters/commander/AutoCommon.md"
-    },
-    {
-      "basename": "4단자망",
-      "path": "03. Permanent Notes/4단자망.md"
-    },
-    {
       "basename": "3 Phase Commit",
       "path": "03. Permanent Notes/3 Phase Commit.md"
     },
@@ -29,12 +21,20 @@
       "path": "03. Permanent Notes/2 Phase Commit.md"
     },
     {
-      "basename": "1D array constant time query update",
-      "path": "03. Permanent Notes/1D array constant time query update.md"
-    },
-    {
       "basename": "%Z법",
       "path": "03. Permanent Notes/%Z법.md"
+    },
+    {
+      "basename": "AutoCommon",
+      "path": "templaters/commander/AutoCommon.md"
+    },
+    {
+      "basename": "4단자망",
+      "path": "03. Permanent Notes/4단자망.md"
+    },
+    {
+      "basename": "1D array constant time query update",
+      "path": "03. Permanent Notes/1D array constant time query update.md"
     },
     {
       "basename": "@Valid와 @Validated 차이",
