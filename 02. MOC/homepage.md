@@ -8,10 +8,8 @@ cssclasses:
   - dashboard
 ---
 
-## 가이드 라인
+### 노트 리스트
 
-### 노트 작성 가이드
-- Note Guides
-- Folder Guides
-- Tag Guides
-- MOC Guides
+- 최근 작성 중인 노트
+- 최근 작성 완료된 노트
+- 노트 작성 가이드
