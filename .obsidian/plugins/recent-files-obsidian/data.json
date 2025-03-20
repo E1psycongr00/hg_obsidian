@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
+      "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
+    },
+    {
+      "basename": "4단자망",
+      "path": "03. Permanent Notes/4단자망.md"
+    },
+    {
       "basename": "3 Phase Commit",
       "path": "03. Permanent Notes/3 Phase Commit.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "AutoCommon",
+      "path": "templaters/commander/AutoCommon.md"
     },
     {
       "basename": "2PC 장애 복구 전략",
@@ -23,14 +39,6 @@
     {
       "basename": "%Z법",
       "path": "03. Permanent Notes/%Z법.md"
-    },
-    {
-      "basename": "AutoCommon",
-      "path": "templaters/commander/AutoCommon.md"
-    },
-    {
-      "basename": "4단자망",
-      "path": "03. Permanent Notes/4단자망.md"
     },
     {
       "basename": "1D array constant time query update",
@@ -91,14 +99,6 @@
     {
       "basename": "2022년 프로그래밍 별 통계",
       "path": "03. Permanent Notes/2022년 프로그래밍 별 통계.md"
-    },
-    {
-      "basename": "2022 4월 전기기사 4번",
-      "path": "03. Permanent Notes/2022 4월 전기기사 4번.md"
-    },
-    {
-      "basename": "725. Split LinkedList in Parts",
-      "path": "03. Permanent Notes/725. Split LinkedList in Parts.md"
     }
   ],
   "omittedPaths": [],

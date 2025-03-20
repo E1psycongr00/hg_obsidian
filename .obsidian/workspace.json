@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/3 Phase Commit.md",
+                "file": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3 Phase Commit"
+              "title": "26가지 프롬프트 엔지니어링 꿀팁"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/3 Phase Commit.md"
+                "file": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
               },
               "icon": "lucide-info",
-              "title": "3 Phase Commit 의 파일 속성"
+              "title": "26가지 프롬프트 엔지니어링 꿀팁 의 파일 속성"
             }
           },
           {
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/3 Phase Commit.md",
+                "file": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3 Phase Commit 의 개요"
+              "title": "26가지 프롬프트 엔지니어링 꿀팁 의 개요"
             }
           }
         ]
@@ -335,14 +335,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/2PC 장애 복구 전략.md",
+    "03. Permanent Notes/4단자망.md",
+    "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md",
     "03. Permanent Notes/3 Phase Commit.md",
+    "templaters/commander/MoveFileByFrontMatter.md",
+    "templaters/commander/AutoCommon.md",
+    "03. Permanent Notes/2PC 장애 복구 전략.md",
     "03. Permanent Notes/2D array constant time query update.md",
     "03. Permanent Notes/2차원 구간합, 부분합.md",
     "03. Permanent Notes/2 Phase Commit.md",
     "03. Permanent Notes/%Z법.md",
-    "templaters/commander/AutoCommon.md",
-    "03. Permanent Notes/4단자망.md",
     "03. Permanent Notes/1D array constant time query update.md",
     "03. Permanent Notes/@Valid와 @Validated 차이.md",
     "03. Permanent Notes/@ServiceConnection.md",
@@ -359,8 +361,6 @@
     "03. Permanent Notes/2707. Extra Characters in a String.md",
     "03. Permanent Notes/2022년 프로그래밍 별 통계.md",
     "03. Permanent Notes/2022 4월 전기기사 4번.md",
-    "03. Permanent Notes/725. Split LinkedList in Parts.md",
-    "03. Permanent Notes/153. Find Minimum in Rotated Sorted Array.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
