@@ -1,10 +1,11 @@
 ---
 tags:
-  - 완성
   - OS
 aliases: 
-date: 2024-12-13
+created: 2024-12-13
 title: 멀티 태스킹 관점에서 Context Switching 이해
+note-type: COMMON
+completed: true
 ---
 ---
 

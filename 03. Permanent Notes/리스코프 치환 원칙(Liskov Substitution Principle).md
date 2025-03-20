@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 객체지향설계
   - SOLID원칙
   - 프로그래밍원칙
@@ -9,8 +8,10 @@ aliases:
   - LSP
   - 리스코프 치환 원칙
   - 리스코프 교체 원칙
-date: 2025-01-10
+created: 2025-01-10
 title: 리스코프 치환 원칙(Liskov Substitution Principle)
+note-type: COMMON
+completed: true
 ---
 
 ## 내용

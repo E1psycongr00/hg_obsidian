@@ -1,17 +1,14 @@
 ---
 tags:
-  - 완성
   - 명언
 aliases: 
 title: 때로는 승부에서 패배해봐야 by donald trump
-date: 2023-10-24
+created: 2023-10-24
+note-type: COMMON
+completed: true
 ---
 
-작성 날짜: 2023-10-24
-작성 시간: 14:46
 
-
-----
 ## 원문
 ![[Pasted image 20231024144128.png]]
 

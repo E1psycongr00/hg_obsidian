@@ -1,18 +1,14 @@
 ---
 tags:
-  - 완성
   - 솔루션
   - JAVA
   - Spring
 aliases: 
-date: 2024-11-08
+created: 2024-11-08
 title: 동적으로 Configuration 처리하기 by @ImportSelector
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2024-11-08
-작성 시간: 15:11
-
-
-----
 
 ## 문제 & 원인
 

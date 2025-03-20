@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "메커니즘",
+      "path": "03. Permanent Notes/메커니즘.md"
+    },
+    {
+      "basename": "메서드 return에 java bean validation 적용 및 테스트",
+      "path": "03. Permanent Notes/메서드 return에 java bean validation 적용 및 테스트.md"
+    },
+    {
+      "basename": "멀티 태스킹 관점에서 Context Switching 이해",
+      "path": "03. Permanent Notes/멀티 태스킹 관점에서 Context Switching 이해.md"
+    },
+    {
+      "basename": "멀티 쓰레드 모델",
+      "path": "03. Permanent Notes/멀티 쓰레드 모델.md"
+    },
+    {
+      "basename": "맥스웰 방정식",
+      "path": "03. Permanent Notes/맥스웰 방정식.md"
+    },
+    {
+      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
+      "path": "03. Permanent Notes/매개변수 탐색 최소 & 최대 해 구하기.md"
+    },
+    {
+      "basename": "리스코프 치환 원칙(Liskov Substitution Principle)",
+      "path": "03. Permanent Notes/리스코프 치환 원칙(Liskov Substitution Principle).md"
+    },
+    {
+      "basename": "때로는 승부에서 패배해봐야  by donald trump",
+      "path": "03. Permanent Notes/때로는 승부에서 패배해봐야  by donald trump.md"
+    },
+    {
+      "basename": "동적으로 Configuration 처리하기 by ImportSelector",
+      "path": "03. Permanent Notes/동적으로 Configuration 처리하기 by ImportSelector.md"
+    },
+    {
+      "basename": "동등 분할",
+      "path": "03. Permanent Notes/동등 분할.md"
+    },
+    {
+      "basename": "도표 적분법",
+      "path": "03. Permanent Notes/도표 적분법.md"
+    },
+    {
+      "basename": "돌림힘",
+      "path": "03. Permanent Notes/돌림힘.md"
+    },
+    {
+      "basename": "도체와 절연체의 전하 분포",
+      "path": "03. Permanent Notes/도체와 절연체의 전하 분포.md"
+    },
+    {
+      "basename": "도체계의 정전용량",
+      "path": "03. Permanent Notes/도체계의 정전용량.md"
+    },
+    {
+      "basename": "도체 표면의 전계",
+      "path": "03. Permanent Notes/도체 표면의 전계.md"
+    },
+    {
+      "basename": "댐퍼",
+      "path": "03. Permanent Notes/댐퍼.md"
+    },
+    {
+      "basename": "대류 전류",
+      "path": "03. Permanent Notes/대류 전류.md"
+    },
+    {
       "basename": "단축 평가 계산",
       "path": "03. Permanent Notes/단축 평가 계산.md"
     },
     {
-      "basename": "단속 카메라 문제",
-      "path": "03. Permanent Notes/단속 카메라 문제.md"
-    },
-    {
       "basename": "다중 쿼리 기법",
       "path": "03. Permanent Notes/다중 쿼리 기법.md"
+    },
+    {
+      "basename": "단속 카메라 문제",
+      "path": "03. Permanent Notes/단속 카메라 문제.md"
     },
     {
       "basename": "니콜라스 루만",
@@ -31,74 +99,6 @@
     {
       "basename": "내압",
       "path": "03. Permanent Notes/내압.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
-      "path": "03. Permanent Notes/나만의 제텔카스텐 단위 메모 작성 이유.md"
-    },
-    {
-      "basename": "나만의 제텔카스텐 기법 & 옵시디언",
-      "path": "03. Permanent Notes/나만의 제텔카스텐 기법 & 옵시디언.md"
-    },
-    {
-      "basename": "나만의 노트 확장 방법",
-      "path": "03. Permanent Notes/나만의 노트 확장 방법.md"
-    },
-    {
-      "basename": "나만의 노트 분리하기",
-      "path": "03. Permanent Notes/나만의 노트 분리하기.md"
-    },
-    {
-      "basename": "기력 발전 열사이클",
-      "path": "03. Permanent Notes/기력 발전 열사이클.md"
-    },
-    {
-      "basename": "기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)",
-      "path": "03. Permanent Notes/기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule).md"
-    },
-    {
-      "basename": "끝단 효과",
-      "path": "03. Permanent Notes/끝단 효과.md"
-    },
-    {
-      "basename": "구조와 메커니즘 관계",
-      "path": "03. Permanent Notes/구조와 메커니즘 관계.md"
-    },
-    {
-      "basename": "구조",
-      "path": "03. Permanent Notes/구조.md"
-    },
-    {
-      "basename": "구심력",
-      "path": "03. Permanent Notes/구심력.md"
-    },
-    {
-      "basename": "구간합 문제 모음",
-      "path": "03. Permanent Notes/구간합 문제 모음.md"
-    },
-    {
-      "basename": "광고 삽입",
-      "path": "03. Permanent Notes/광고 삽입.md"
-    },
-    {
-      "basename": "과도현상",
-      "path": "03. Permanent Notes/과도현상.md"
-    },
-    {
-      "basename": "공원 문제 JAVA 풀이",
-      "path": "03. Permanent Notes/공원 문제 JAVA 풀이.md"
-    },
-    {
-      "basename": "공원 문제",
-      "path": "03. Permanent Notes/공원 문제.md"
-    },
-    {
-      "basename": "공부가 아니라 배움이다  by 타일러",
-      "path": "03. Permanent Notes/공부가 아니라 배움이다  by 타일러.md"
-    },
-    {
-      "basename": "공기 절연 파괴",
-      "path": "03. Permanent Notes/공기 절연 파괴.md"
     }
   ],
   "omittedPaths": [],

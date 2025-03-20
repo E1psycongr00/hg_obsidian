@@ -1,17 +1,14 @@
 ---
 tags:
-  - 완성
   - JAVA
   - Validation
 aliases: 
 title: 메서드 return에 java bean validation 적용 및 테스트
-date: 2023-11-10
+created: 2023-11-10
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2023-11-10
-작성 시간: 12:04
 
-
-----
 ## 내용(Content)
 ### 메서드 리턴에 Validation 적용하기
 
