@@ -1,14 +1,12 @@
 ---
 tags:
 aliases: 
-created: <% tp.date.now("YYYY-MM-DD") %>
-title: <% tp.file.title %>
+created: 2025-03-20
+title: asdf
 note-type: COMMON
 completed: false
 ---
-<%*
-await tp.user.moveFileToTarget(tp, "04. Practice Notes");
-%>
+
 ## 내용(Content)
 
 

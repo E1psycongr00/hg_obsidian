@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
     {
-      "basename": "hello",
-      "path": "hello.md"
+      "basename": "@chain과 Runnable",
+      "path": "03. Permanent Notes/@chain과 Runnable.md"
+    },
+    {
+      "basename": "project 템플릿",
+      "path": "templates/project 템플릿.md"
+    },
+    {
+      "basename": "resource 템플릿",
+      "path": "templates/resource 템플릿.md"
+    },
+    {
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
+    },
+    {
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
+    },
+    {
+      "basename": "감상문 템플릿",
+      "path": "templates/감상문 템플릿.md"
     },
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
     },
     {
-      "basename": "asdfasdfa",
-      "path": "asdfasdfa.md"
+      "basename": "기본 템플릿",
+      "path": "templaters/기본 템플릿.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
-      "basename": "기본 템플릿",
-      "path": "templaters/기본 템플릿.md"
+      "basename": "asdf",
+      "path": "04. Practice Notes/asdf.md"
     },
     {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
+      "basename": "hello",
+      "path": "hello.md"
     },
     {
       "basename": "hello world",
@@ -53,10 +77,6 @@
       "path": "이해도 분석 가이드.md"
     },
     {
-      "basename": "가이드 템플릿",
-      "path": "templates/가이드 템플릿.md"
-    },
-    {
       "basename": "공부가 아니라 배움이다  by 타일러",
       "path": "03. Permanent Notes/공부가 아니라 배움이다  by 타일러.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "26가지 프롬프트 엔지니어링 꿀팁",
       "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
-    },
-    {
-      "basename": "2D array constant time query update",
-      "path": "03. Permanent Notes/2D array constant time query update.md"
-    },
-    {
-      "basename": "1D array constant time query update",
-      "path": "03. Permanent Notes/1D array constant time query update.md"
-    },
-    {
-      "basename": "@chain과 Runnable",
-      "path": "03. Permanent Notes/@chain과 Runnable.md"
-    },
-    {
-      "basename": "2 Phase Commit",
-      "path": "03. Permanent Notes/2 Phase Commit.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
     }
   ],
   "omittedPaths": [],
