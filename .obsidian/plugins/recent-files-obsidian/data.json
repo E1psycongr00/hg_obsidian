@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
     {
+      "basename": "Tag Guide Lines",
+      "path": "01. Guides/Tag Guide Lines.md"
+    },
+    {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "homepage",
+      "path": "02. MOC/homepage.md"
     },
     {
       "basename": "참조 노트 템플릿",
@@ -35,18 +47,6 @@
     {
       "basename": "감상문 템플릿",
       "path": "templates/감상문 템플릿.md"
-    },
-    {
-      "basename": "homepage",
-      "path": "02. MOC/homepage.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Tag Guide Lines",
-      "path": "01. Guides/Tag Guide Lines.md"
     },
     {
       "basename": "가이드 템플릿",
