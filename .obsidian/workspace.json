@@ -315,6 +315,8 @@
   },
   "active": "fe14beeeb60f1d70",
   "lastOpenFiles": [
+    "templates/scripts/moveFileTarget.js",
+    "templates/scripts/checkFrontMatter.js",
     "자화.md",
     "2. MOC/무제.md",
     "2. MOC",
@@ -350,7 +352,6 @@
     "01. Guides/Folder Guides.md",
     "05. Reference Notes",
     "06. PARA",
-    "01. Guides",
     "index.canvas",
     "Excalidraw/%Z 임피던스 사고 후 (draw).svg",
     "Excalidraw/%Z 임피던스 사고전(draw).svg",
