@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC 템플릿",
+      "path": "templates/MOC 템플릿.md"
+    },
+    {
+      "basename": "가이드 템플릿",
+      "path": "templates/가이드 템플릿.md"
+    },
+    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
     },
@@ -53,10 +61,6 @@
       "path": "templates/감상문 템플릿.md"
     },
     {
-      "basename": "가이드 템플릿",
-      "path": "templates/가이드 템플릿.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "응집도 높은 모듈 설계 방법론",
       "path": "04. Practice Notes/응집도 높은 모듈 설계 방법론.md"
-    },
-    {
-      "basename": "팩토리 패턴",
-      "path": "04. Practice Notes/팩토리 패턴.md"
     }
   ],
   "omittedPaths": [],
