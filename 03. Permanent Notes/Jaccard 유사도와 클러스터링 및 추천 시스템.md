@@ -1,11 +1,12 @@
 ---
 tags:
-  - 완성
   - 유사도
   - Jaccard
 aliases: 
-date: 2024-12-13
+created: 2024-12-13
 title: Jaccard 유사도와 클러스터링 및 추천 시스템
+note-type: COMMON
+completed: true
 ---
 ---
 

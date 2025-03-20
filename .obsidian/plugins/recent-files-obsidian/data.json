@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "기본 템플릿",
+      "path": "templaters/기본 템플릿.md"
+    },
+    {
+      "basename": "전자기학",
+      "path": "전자기학.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "Write Ahead Logging",
+      "path": "03. Permanent Notes/Write Ahead Logging.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "03. Permanent Notes/Raft.md"
+    },
+    {
+      "basename": "Process 컨텍스트 스위칭",
+      "path": "03. Permanent Notes/Process 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "Process 메모리 구조",
+      "path": "03. Permanent Notes/Process 메모리 구조.md"
+    },
+    {
+      "basename": "Paxos",
+      "path": "03. Permanent Notes/Paxos.md"
+    },
+    {
+      "basename": "Obsidian tasks 쿼리 문법",
+      "path": "03. Permanent Notes/Obsidian tasks 쿼리 문법.md"
+    },
+    {
+      "basename": "LLM chain 라우팅",
+      "path": "03. Permanent Notes/LLM chain 라우팅.md"
+    },
+    {
+      "basename": "Java Duration",
+      "path": "03. Permanent Notes/Java Duration.md"
+    },
+    {
+      "basename": "Jaccard 유사도와 클러스터링 및 추천 시스템",
+      "path": "03. Permanent Notes/Jaccard 유사도와 클러스터링 및 추천 시스템.md"
+    },
+    {
+      "basename": "jaccard 유사도와 유사 사용자 기반 추천",
+      "path": "03. Permanent Notes/jaccard 유사도와 유사 사용자 기반 추천.md"
+    },
+    {
+      "basename": "Jaccard 유사도",
+      "path": "03. Permanent Notes/Jaccard 유사도.md"
+    },
+    {
+      "basename": "HttpServer",
+      "path": "03. Permanent Notes/HttpServer.md"
+    },
+    {
+      "basename": "Inter Process Communication",
+      "path": "03. Permanent Notes/Inter Process Communication.md"
+    },
+    {
+      "basename": "전자기 유도 법칙 수식 유도",
+      "path": "03. Permanent Notes/전자기 유도 법칙 수식 유도.md"
+    },
+    {
+      "basename": "전자기 유도 법칙",
+      "path": "03. Permanent Notes/전자기 유도 법칙.md"
+    },
+    {
+      "basename": "이해를 돕기 위한 하트비트 예시",
+      "path": "03. Permanent Notes/이해를 돕기 위한 하트비트 예시.md"
+    },
+    {
       "basename": "선점형 스케줄러",
       "path": "03. Permanent Notes/선점형 스케줄러.md"
     },
@@ -19,86 +99,6 @@
     {
       "basename": "DeadLock",
       "path": "03. Permanent Notes/DeadLock.md"
-    },
-    {
-      "basename": "DB 트랜잭션",
-      "path": "03. Permanent Notes/DB 트랜잭션.md"
-    },
-    {
-      "basename": "data jpa repository 응답 타입 유연하게 쓰기",
-      "path": "03. Permanent Notes/data jpa repository 응답 타입 유연하게 쓰기.md"
-    },
-    {
-      "basename": "data jpa Projection 인터페이스",
-      "path": "03. Permanent Notes/data jpa Projection 인터페이스.md"
-    },
-    {
-      "basename": "Data 영역",
-      "path": "03. Permanent Notes/Data 영역.md"
-    },
-    {
-      "basename": "d3js & react 예제",
-      "path": "03. Permanent Notes/d3js & react 예제.md"
-    },
-    {
-      "basename": "Custom Task와 Plugin 개발해보기 by buildSrc",
-      "path": "03. Permanent Notes/Custom Task와 Plugin 개발해보기 by buildSrc.md"
-    },
-    {
-      "basename": "Custom Gradle Plugin 이해하기",
-      "path": "03. Permanent Notes/Custom Gradle Plugin 이해하기.md"
-    },
-    {
-      "basename": "CSharp의 Null 다루기",
-      "path": "03. Permanent Notes/CSharp의 Null 다루기.md"
-    },
-    {
-      "basename": "CSharp 프로퍼티",
-      "path": "03. Permanent Notes/CSharp 프로퍼티.md"
-    },
-    {
-      "basename": "CSharp 반복기",
-      "path": "03. Permanent Notes/CSharp 반복기.md"
-    },
-    {
-      "basename": "CRA 와 Typescript 프로젝트 생성하기",
-      "path": "03. Permanent Notes/CRA 와 Typescript 프로젝트 생성하기.md"
-    },
-    {
-      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
-      "path": "03. Permanent Notes/CPU의 작업 처리 방식 (병렬성과 동시성).md"
-    },
-    {
-      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
-      "path": "03. Permanent Notes/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
-    },
-    {
-      "basename": "CPU 클럭 속도",
-      "path": "03. Permanent Notes/CPU 클럭 속도.md"
-    },
-    {
-      "basename": "CPU 코어",
-      "path": "03. Permanent Notes/CPU 코어.md"
-    },
-    {
-      "basename": "CPU 쓰레드(Thread)",
-      "path": "03. Permanent Notes/CPU 쓰레드(Thread).md"
-    },
-    {
-      "basename": "CPU 스케줄링 알고리즘",
-      "path": "03. Permanent Notes/CPU 스케줄링 알고리즘.md"
-    },
-    {
-      "basename": "CPU 스케줄러",
-      "path": "03. Permanent Notes/CPU 스케줄러.md"
-    },
-    {
-      "basename": "Context Switching",
-      "path": "03. Permanent Notes/Context Switching.md"
-    },
-    {
-      "basename": "Constant Pool vs Runtime Constant Pool",
-      "path": "03. Permanent Notes/Constant Pool vs Runtime Constant Pool.md"
     }
   ],
   "omittedPaths": [],

@@ -9,12 +9,7 @@ created: 2024-10-01T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---
-작성 날짜: 2024-10-01
-작성 시간: 09:29
 
-#완성 #Python #Langchain #LCEL 
-
-----
 ## 내용(Content)
 
 ### Chain 라우팅

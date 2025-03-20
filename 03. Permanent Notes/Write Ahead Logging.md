@@ -1,11 +1,12 @@
 ---
 tags:
-  - 완성
   - 분산시스템
 aliases:
   - WAL
-date: 2024-12-18
+created: 2024-12-18
 title: Write Ahead Logging
+note-type: COMMON
+completed: true
 ---
 ---
 

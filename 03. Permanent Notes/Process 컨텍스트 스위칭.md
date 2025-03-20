@@ -1,13 +1,14 @@
 ---
 tags:
-  - 완성
   - OS
   - Process
   - Thread
 aliases:
   - Process Context Switching
 title: Process 컨텍스트 스위칭
-date: 2024-01-05
+created: 2024-01-05
+note-type: COMMON
+completed: true
 ---
 ---
 ## 내용(Content)

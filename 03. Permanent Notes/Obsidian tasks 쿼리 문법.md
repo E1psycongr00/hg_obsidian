@@ -7,12 +7,8 @@ created: 2023-12-04T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---
-작성 날짜: 2023-12-04
-작성 시간: 14:11
 
-#완성 #Obsidian 
 
-----
 ## 내용(Content)
 
 tasks를 사용하면 효율적으로 task를 관리할 수 있다. tasks 플러그인의 장점은 task를 만들고 쿼리해서 가져오고 관리할 수 있다는 점이다.

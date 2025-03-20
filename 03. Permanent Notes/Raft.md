@@ -1,12 +1,12 @@
 ---
 tags:
-  - 완성
   - 분산시스템
   - 합의알고리즘
 aliases: 
-date: 2024-12-20
+created: 2024-12-20
 title: Raft
----
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

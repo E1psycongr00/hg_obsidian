@@ -1,12 +1,13 @@
 ---
 tags:
-  - 완성
   - JAVA
 aliases: 
-date: 2024-12-27
+created: 2024-12-27
 title: Java Duration
+note-type: COMMON
+completed: true
 ---
----
+
 
 ## 내용(Content)
 

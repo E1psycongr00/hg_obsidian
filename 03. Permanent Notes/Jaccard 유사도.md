@@ -1,10 +1,11 @@
 ---
 tags:
-  - 완성
   - 유사도
 aliases: 
-date: 2024-12-12
+created: 2024-12-12
 title: Jacard 유사도
+note-type: COMMON
+completed: true
 ---
 ---
 ## 내용(Content)

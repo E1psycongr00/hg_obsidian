@@ -1,11 +1,12 @@
 ---
 tags:
-  - 완성
   - 유사도
   - Jaccard
 aliases: 
-date: 2024-12-13
+created: 2024-12-13
 title: jaccard 유사도와 유사 사용자 기반 추천
+note-type: COMMON
+completed: true
 ---
 ---
 

@@ -1,12 +1,13 @@
 ---
 tags:
-  - 완성
   - OS
   - Process
 aliases:
   - IPC
-date: 2024-12-13
+created: 2024-12-13
 title: Inter Process Communication
+note-type: COMMON
+completed: true
 ---
 ---
 

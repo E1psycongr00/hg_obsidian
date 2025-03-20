@@ -1,11 +1,12 @@
 ---
 tags:
-  - 완성
   - OS
   - Process
 aliases: 
-date: 2024-12-13
+created: 2024-12-13
 title: Process 메모리 구조
+note-type: COMMON
+completed: true
 ---
 ---
 
