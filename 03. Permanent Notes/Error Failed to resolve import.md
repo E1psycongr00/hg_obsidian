@@ -7,6 +7,8 @@ tags:
 aliases: null
 title: Error Failed to resolve import
 created: 2024-02-27T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-02-27
 작성 시간: 16:11

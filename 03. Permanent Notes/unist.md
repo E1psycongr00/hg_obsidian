@@ -6,6 +6,8 @@ aliases:
   - Universal Syntax Tree
 title: unist
 created: 2024-02-26T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-02-26
 작성 시간: 23:47

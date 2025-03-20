@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: 'JOOQ로 DDL, DML 해보기'
 created: 2024-11-01T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-01
 작성 시간: 19:57

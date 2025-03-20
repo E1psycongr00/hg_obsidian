@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: 'network (network name) declared as external, but could not be found'
 created: 2023-12-18T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-12-18
 작성 시간: 12:59

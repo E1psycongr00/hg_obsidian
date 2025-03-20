@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: No - Op GC (Epsilon 가비지 컬렉터)
 created: 2023-10-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-04
 작성 시간: 13:22

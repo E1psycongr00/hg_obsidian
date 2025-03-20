@@ -7,6 +7,8 @@ aliases:
   - Electric Charge
 title: 전하(Elecric Charge)
 created: 2024-02-02T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-02-02
 작성 시간: 18:28

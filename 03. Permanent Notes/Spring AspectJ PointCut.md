@@ -7,6 +7,8 @@ aliases:
   - PointCut
 title: Spring AspectJ PointCut
 created: 2024-10-30T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-30
 작성 시간: 12:34

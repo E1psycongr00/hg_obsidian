@@ -7,6 +7,8 @@ aliases:
   - 병렬성과 동시성
 title: CPU의 작업 처리 방식 (병렬성과 동시성)
 created: 2024-01-03T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-03
 작성 시간: 22:30

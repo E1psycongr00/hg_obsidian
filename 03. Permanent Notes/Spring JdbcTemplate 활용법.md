@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Spring JdbcTemplate 활용법
 created: 2023-11-13T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-13
 작성 시간: 16:07

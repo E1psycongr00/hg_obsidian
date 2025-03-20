@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Garbage Collection(가비지 컬렉션) 알고리즘 종류
 created: 2023-10-11T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 작성 날짜: 2023-10-11

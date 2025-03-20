@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: 'Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway'
 created: 2024-11-20T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-20
 작성 시간: 21:24

@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: R-L-C 직렬 회로 과도 현상
 created: null
+note-type: COMMON
+completed: true
 ---
 
 ---

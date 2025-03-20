@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Compact 생성자에 대해 이해하기
 created: 2024-10-06T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-06
 작성 시간: 19:42

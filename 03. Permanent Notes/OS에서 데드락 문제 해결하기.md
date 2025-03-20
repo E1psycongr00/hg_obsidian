@@ -8,6 +8,8 @@ aliases:
   - OS에서 DeadLock 문제 해결하기
 title: OS에서 데드락 문제 해결하기
 created: 2024-01-22T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-22
 작성 시간: 15:12

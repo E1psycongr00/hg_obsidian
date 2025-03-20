@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: JVM 구조
 created: 2023-10-08T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 작성 날짜: 2023-10-08

@@ -9,6 +9,8 @@ aliases:
   - Cost of Goods Sold
 title: COGS
 created: 2025-01-22T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ---

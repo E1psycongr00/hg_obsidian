@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: LLM chain 라우팅
 created: 2024-10-01T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-01
 작성 시간: 09:29

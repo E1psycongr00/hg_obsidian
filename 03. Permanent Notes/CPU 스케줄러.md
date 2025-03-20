@@ -7,6 +7,8 @@ aliases:
   - CPU Scheduler
 title: CPU 스케줄러
 created: 2024-01-16T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-16
 작성 시간: 19:45

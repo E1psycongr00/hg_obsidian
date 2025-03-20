@@ -2,9 +2,9 @@
 tags:
   - JAVA
   - Jackson
-aliases: 
+aliases: null
 title: 기본 생성자 없이 역직렬화하는 모듈(ParameterNamesModule)
-created: 2023-11-06
+created: 2023-11-06T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

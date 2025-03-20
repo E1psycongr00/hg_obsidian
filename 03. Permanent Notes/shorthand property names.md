@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: shorthand property names
 created: 2024-02-08T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-02-08
 작성 시간: 20:49

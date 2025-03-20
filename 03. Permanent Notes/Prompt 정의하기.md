@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Prompt 정의하기
 created: 2024-09-24T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-09-24
 작성 시간: 16:03

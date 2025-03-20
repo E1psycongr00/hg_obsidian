@@ -8,6 +8,8 @@ aliases:
   - KLT
 title: Kernel Level Thread
 created: 2024-01-21T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-21
 작성 시간: 23:30

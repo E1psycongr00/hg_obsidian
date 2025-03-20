@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Custom Gradle Plugin 이해하기
 created: 2024-11-18T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-18
 작성 시간: 12:20

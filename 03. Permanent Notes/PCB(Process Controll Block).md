@@ -9,6 +9,8 @@ aliases:
   - PCB
 title: PCB(Process Controll Block)
 created: 2024-01-05T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-05
 작성 시간: 20:09

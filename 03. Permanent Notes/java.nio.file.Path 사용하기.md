@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: java.nio.file.Path 사용하기
 created: 2023-11-07T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-07
 작성 시간: 14:17

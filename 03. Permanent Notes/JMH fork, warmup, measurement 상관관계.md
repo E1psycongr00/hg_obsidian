@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: 'JMH fork, warmup, measurement'
 created: 2024-05-13T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-05-13
 작성 시간: 16:52

@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Gradle 구조화 방법
 created: 2024-11-15T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-15
 작성 시간: 08:45

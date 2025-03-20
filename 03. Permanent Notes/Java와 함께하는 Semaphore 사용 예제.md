@@ -8,6 +8,8 @@ tags:
 aliases: null
 title: Java와 함께하는 Semaphore 사용 예제
 created: 2024-01-17T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-17
 작성 시간: 01:33

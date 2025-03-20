@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: Vscode Github PR Plugin Issue 생성 방법
 created: 2024-11-06T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-06
 작성 시간: 19:09

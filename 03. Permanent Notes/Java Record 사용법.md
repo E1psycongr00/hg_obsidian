@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Java Record 사용법
 created: 2023-10-23T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-23
 작성 시간: 12:01

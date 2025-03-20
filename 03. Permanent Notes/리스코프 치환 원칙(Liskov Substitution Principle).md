@@ -8,7 +8,7 @@ aliases:
   - LSP
   - 리스코프 치환 원칙
   - 리스코프 교체 원칙
-created: 2025-01-10
+created: 2025-01-10T00:00:00.000Z
 title: 리스코프 치환 원칙(Liskov Substitution Principle)
 note-type: COMMON
 completed: true

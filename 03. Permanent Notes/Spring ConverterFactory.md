@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: Spring ConverterFactory
 created: 2023-11-24T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-24
 작성 시간: 14:05

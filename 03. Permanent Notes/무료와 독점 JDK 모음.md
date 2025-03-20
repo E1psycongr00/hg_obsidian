@@ -1,9 +1,9 @@
 ---
 tags:
   - JAVA
-aliases: 
+aliases: null
 title: 무료와 독점 JDK 모음
-created: 2023-10-04
+created: 2023-10-04T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

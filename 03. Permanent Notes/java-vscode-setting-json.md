@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: java-vscode-setting-json
 created: 2024-10-31T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-31
 작성 시간: 19:27

@@ -1,9 +1,9 @@
 ---
 tags:
   - 명언
-aliases: 
+aliases: null
 title: 네 자신의 무지를 절대 과소평가하지 마라 by Einstein
-created: 2023-10-24
+created: 2023-10-24T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

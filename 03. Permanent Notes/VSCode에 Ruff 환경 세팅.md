@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: VSCode에 Ruff 환경 세팅
 created: 2024-09-25T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-09-25
 작성 시간: 14:02

@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: MessageSource 분석하기
 created: 2023-12-07T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 작성 날짜: 2023-12-07

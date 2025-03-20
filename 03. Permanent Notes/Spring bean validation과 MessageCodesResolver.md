@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: Spring bean validation과 MessageCodesResolver
 created: 2023-11-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-10
 작성 시간: 18:37

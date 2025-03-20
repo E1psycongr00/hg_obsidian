@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: Python에서 Optional한 데이터 잘 활용하기
 created: null
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-09-26
 작성 시간: 12:37

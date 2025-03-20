@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Java 파일 다루기
 created: 2023-11-07T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-07
 작성 시간: 10:47

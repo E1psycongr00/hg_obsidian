@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: IOC & DI
 created: 2024-10-26T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-26
 작성 시간: 19:02

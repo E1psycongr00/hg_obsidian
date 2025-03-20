@@ -6,7 +6,7 @@ aliases:
   - 뮤텍스
   - Mutex
 title: 뮤텍스(Mutex)
-created: 2024-01-11
+created: 2024-01-11T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

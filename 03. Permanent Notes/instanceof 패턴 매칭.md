@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: instanceof 패턴 매칭
 created: 2023-10-21T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-21
 작성 시간: 00:36

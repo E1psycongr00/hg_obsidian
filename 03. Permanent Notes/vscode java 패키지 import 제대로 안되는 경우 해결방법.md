@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: vscode java 패키지 import 제대로 안되는 경우 해결방법
 created: 2024-10-06T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-06
 작성 시간: 13:37

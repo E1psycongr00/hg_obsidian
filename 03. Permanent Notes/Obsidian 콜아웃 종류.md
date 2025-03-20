@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Obsidian 콜아웃 종류
 created: 2023-11-12T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 

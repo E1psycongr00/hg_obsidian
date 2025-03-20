@@ -8,6 +8,8 @@ aliases:
   - Knex
 title: knexjs
 created: 2024-03-18T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-03-18
 작성 시간: 23:49

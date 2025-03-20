@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: 일반적인 ParametricSearch 만들기(통합)
 created: 2024-02-16T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-02-16
 작성 시간: 22:38

@@ -8,6 +8,8 @@ aliases:
   - ROI
 title: ROI 이해하기
 created: 2025-01-21T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ---

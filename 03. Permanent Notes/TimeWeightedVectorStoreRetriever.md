@@ -8,6 +8,8 @@ aliases:
   - 시간 가중 벡터저장소 리트리버
 title: TimeWeightedVectorStoreRetriever
 created: 2024-09-27T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-09-27
 작성 시간: 20:30

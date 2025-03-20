@@ -7,6 +7,8 @@ aliases:
   - Thread Memory 구조
 title: Thread 메모리구조
 created: 2024-12-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ----

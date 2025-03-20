@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Windows cmd 명령어
 created: 2023-12-22T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-12-22
 작성 시간: 16:48

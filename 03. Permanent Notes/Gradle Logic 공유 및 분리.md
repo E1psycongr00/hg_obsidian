@@ -6,6 +6,8 @@ aliases:
   - buildSrc Gradle
 title: Gradle Logic 공유 및 분리
 created: 2024-11-15T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-15
 작성 시간: 16:22

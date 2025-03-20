@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: 풍기 바람이 시원하지 않은 이유는 그 바람이 어디서 오는지 알기 때문이다 by 이경규
 created: 2024-01-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-04
 작성 시간: 21:59

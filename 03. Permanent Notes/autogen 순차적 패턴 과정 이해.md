@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: autogen 순차적 패턴 과정 이해
 created: 2025-01-14T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ---

@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: IP(인터넷 프로토콜)
 created: 2023-11-30T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-30
 작성 시간: 19:41

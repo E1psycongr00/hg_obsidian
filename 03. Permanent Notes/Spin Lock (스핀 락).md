@@ -9,6 +9,8 @@ aliases:
   - 스핀 락
 title: Spin Lock (스핀 락)
 created: 2024-01-11T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-11
 작성 시간: 20:01

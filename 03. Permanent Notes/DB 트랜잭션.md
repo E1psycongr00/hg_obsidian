@@ -6,6 +6,8 @@ aliases:
   - Db Transaction
 title: DB 트랜잭션
 created: 2024-12-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-12-04
 작성 시간: 09:44

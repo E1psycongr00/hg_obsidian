@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Java 동작 원리
 created: 2023-10-06T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 

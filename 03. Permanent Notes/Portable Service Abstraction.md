@@ -6,6 +6,8 @@ aliases:
   - PSA
 title: Portable Service Abstraction
 created: 2024-10-28T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-28
 작성 시간: 15:31

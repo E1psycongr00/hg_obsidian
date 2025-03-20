@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Props Driling
 created: 2024-03-07T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-03-07
 작성 시간: 16:28

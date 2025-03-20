@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: TestContainers 소개
 created: 2024-11-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-04
 작성 시간: 12:46

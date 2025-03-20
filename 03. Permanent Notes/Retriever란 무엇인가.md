@@ -9,6 +9,8 @@ aliases:
   - 정보 검색기
 title: Retriever란 무엇인가
 created: 2024-09-27T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-09-27
 작성 시간: 08:59

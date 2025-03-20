@@ -1,9 +1,9 @@
 ---
 tags:
   - Gradle
-aliases: 
-created: 2024-11-20
-title: "@ServiceConnection"
+aliases: null
+created: 2024-11-20T00:00:00.000Z
+title: '@ServiceConnection'
 note-type: COMMON
 completed: true
 ---

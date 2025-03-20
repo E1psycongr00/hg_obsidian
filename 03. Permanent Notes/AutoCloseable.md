@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: AutoCloseable
 created: 2024-04-24T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-04-24
 작성 시간: 18:47

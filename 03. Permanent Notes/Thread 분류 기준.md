@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Thread 분류 기준
 created: 2024-12-09T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ----

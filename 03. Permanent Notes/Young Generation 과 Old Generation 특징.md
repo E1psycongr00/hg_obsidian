@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Young Generation 과 Old Generation 특징
 created: 2023-10-11T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-11
 작성 시간: 17:26

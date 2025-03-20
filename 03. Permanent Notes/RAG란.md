@@ -9,6 +9,8 @@ aliases:
   - RAG란 무엇인가
 title: RAG란
 created: 2024-09-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-09-10
 작성 시간: 18:03

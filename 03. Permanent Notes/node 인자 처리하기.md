@@ -9,6 +9,8 @@ aliases:
   - js args 처리하기
 title: node 인자 처리하기
 created: 2024-04-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-04-04
 작성 시간: 13:12

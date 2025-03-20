@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: InfluxDB 소개
 created: 2023-12-15T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-12-15
 작성 시간: 12:54

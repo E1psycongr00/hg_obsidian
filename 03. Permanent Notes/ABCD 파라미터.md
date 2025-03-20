@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: ABCD 파라미터
 created: 2025-02-20T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ---

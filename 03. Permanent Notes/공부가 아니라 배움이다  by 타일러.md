@@ -3,9 +3,9 @@ tags:
   - 인터뷰
   - 공부
   - 명언
-aliases: 
+aliases: null
 title: 공부가 아니라 배움이다 by 타일러
-created: 2023-11-24
+created: 2023-11-24T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

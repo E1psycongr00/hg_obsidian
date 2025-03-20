@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Ruff Github Actions 예시
 created: 2024-10-23T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-23
 작성 시간: 10:57

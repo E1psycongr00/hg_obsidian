@@ -7,6 +7,8 @@ aliases:
   - nullish coalescing operator
 title: nullish 병합 연산자
 created: 2024-02-07T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-02-07
 작성 시간: 22:27

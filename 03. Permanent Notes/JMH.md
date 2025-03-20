@@ -9,6 +9,8 @@ aliases:
   - Java Micro Benchmark
 title: JMH
 created: 2024-05-03T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-05-03
 작성 시간: 19:33

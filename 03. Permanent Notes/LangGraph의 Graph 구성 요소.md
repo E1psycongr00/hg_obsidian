@@ -6,6 +6,8 @@ tags:
 aliases: []
 title: LangGraph의 Graph 구성 요소
 created: 2024-10-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-10
 작성 시간: 15:57

@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: Spring Bean Validation 소개
 created: 2023-11-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-10
 작성 시간: 16:36

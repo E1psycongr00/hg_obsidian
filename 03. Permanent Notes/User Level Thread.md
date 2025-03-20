@@ -6,6 +6,8 @@ aliases:
   - 사용자 레벨 쓰레드
 title: User Level Thread
 created: 2024-03-01T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-21
 작성 시간: 23:27

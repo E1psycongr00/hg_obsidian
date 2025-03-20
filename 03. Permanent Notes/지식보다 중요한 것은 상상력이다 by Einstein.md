@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: 지식보다 중요한 것은 상상력이다 by Einstein
 created: 2023-10-24T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-24
 작성 시간: 15:01

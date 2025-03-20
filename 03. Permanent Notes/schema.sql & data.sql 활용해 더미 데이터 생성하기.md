@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: schema.sql & data.sql 활용해 더미 데이터 생성하기
 created: 2023-11-13T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-13
 작성 시간: 16:23

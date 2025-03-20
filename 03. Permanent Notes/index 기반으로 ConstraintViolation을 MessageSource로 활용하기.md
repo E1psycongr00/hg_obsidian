@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: index 기반으로 ConstraintViolation을 MessageSource로 활용하기
 created: 2023-12-08T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-12-08
 작성 시간: 20:37

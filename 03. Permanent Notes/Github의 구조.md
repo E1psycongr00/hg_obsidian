@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Github의 구조
 created: 2024-09-11T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-09-11
 작성 시간: 19:56

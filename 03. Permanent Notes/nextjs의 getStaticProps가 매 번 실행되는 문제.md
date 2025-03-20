@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: nextjs의 getStaticProps가 매번 실행되는 문제
 created: 2024-03-05T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-03-05
 작성 시간: 23:18

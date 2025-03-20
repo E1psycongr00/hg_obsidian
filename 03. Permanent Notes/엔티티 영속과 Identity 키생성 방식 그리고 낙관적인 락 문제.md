@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: 엔티티 영속과 낙관적인 락 문제
 created: 2024-12-02T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-12-02
 작성 시간: 16:22

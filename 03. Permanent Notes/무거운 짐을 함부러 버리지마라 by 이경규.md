@@ -1,9 +1,9 @@
 ---
 tags:
   - 명언
-aliases: 
+aliases: null
 title: 무거운 짐을 함부러 버리지마라 by 이경규
-created: 2024-01-04
+created: 2024-01-04T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

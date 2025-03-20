@@ -8,6 +8,8 @@ aliases:
   - 모니터
 title: Monitor 동기화 메커니즘
 created: 2024-01-20T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-20
 작성 시간: 15:31

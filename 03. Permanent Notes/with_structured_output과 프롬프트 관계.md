@@ -8,6 +8,8 @@ aliases:
   - with_structured_output
 title: with_structured_output과 프롬프트 관계
 created: 2024-10-19T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-19
 작성 시간: 18:34

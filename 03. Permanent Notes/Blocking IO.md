@@ -6,6 +6,8 @@ aliases:
   - Synchronous Blocking IO
 title: Blocking IO
 created: 224-01-26
+note-type: COMMON
+completed: true
 ---
 
 ----

@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: 할까 말까 망설이면 걍 해라 by 친구들
 created: 2024-01-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-04
 작성 시간: 00:13

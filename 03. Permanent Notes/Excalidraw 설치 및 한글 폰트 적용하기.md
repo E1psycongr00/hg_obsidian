@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Excalidraw 설치 및 한글 폰트 적용하기
 created: 2023-10-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-04
 작성 시간: 09:33

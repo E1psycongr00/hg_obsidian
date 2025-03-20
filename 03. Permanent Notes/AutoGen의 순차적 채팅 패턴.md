@@ -7,6 +7,8 @@ aliases:
   - 순차채팅패턴
 title: AutoGen 순차적 채팅 패턴
 created: 2025-01-14T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ## 내용

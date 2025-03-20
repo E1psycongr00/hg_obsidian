@@ -2,9 +2,9 @@
 tags:
   - 알고리즘
   - PrefixSum
-aliases: 
+aliases: null
 title: 1D array constant time query update
-created: 2023-11-03
+created: 2023-11-03T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

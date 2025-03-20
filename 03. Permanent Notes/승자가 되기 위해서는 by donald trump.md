@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: 승자가 되기 위해서는 by donald trump
 created: 2023-10-24T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-24
 작성 시간: 14:37

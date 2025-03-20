@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: R-L직렬 회로 과도 현상
 created: 2025-02-19T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ---

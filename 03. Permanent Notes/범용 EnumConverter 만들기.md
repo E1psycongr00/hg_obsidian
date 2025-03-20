@@ -2,9 +2,9 @@
 tags:
   - Spring
   - databinding
-aliases: 
+aliases: null
 title: 범용 EnumConverter 만들기
-created: 2023-11-24
+created: 2023-11-24T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

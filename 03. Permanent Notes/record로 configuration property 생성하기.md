@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: record로 configuration property 생성하기
 created: 2024-11-05T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-05
 작성 시간: 17:48

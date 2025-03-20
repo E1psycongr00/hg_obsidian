@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Java17 Switch 문법
 created: 2023-10-21T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 

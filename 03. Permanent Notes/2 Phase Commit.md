@@ -3,7 +3,7 @@ tags:
   - 분산시스템
 aliases:
   - 2PC
-created: 2024-12-18
+created: 2024-12-18T00:00:00.000Z
 title: 2 Phase Commit
 note-type: COMMON
 completed: true

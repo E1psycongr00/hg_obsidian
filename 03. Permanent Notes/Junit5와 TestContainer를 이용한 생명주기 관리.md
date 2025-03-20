@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: Junit5와 TestContainer를 이용한 생명주기 관리
 created: 2024-11-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-04
 작성 시간: 18:13

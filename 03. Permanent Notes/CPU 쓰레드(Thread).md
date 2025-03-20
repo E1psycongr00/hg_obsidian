@@ -9,6 +9,8 @@ aliases:
   - HW Thread
 title: CPU 쓰레드(Thread)
 created: 2024-01-13T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-03
 작성 시간: 17:20

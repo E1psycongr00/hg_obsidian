@@ -7,6 +7,8 @@ aliases:
   - Operate System
 title: 운영 체제(OS)
 created: 2024-01-15T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-15
 작성 시간: 14:38

@@ -2,9 +2,9 @@
 tags:
   - JAVA
   - Validation
-aliases: 
+aliases: null
 title: 메서드 return에 java bean validation 적용 및 테스트
-created: 2023-11-10
+created: 2023-11-10T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Redux
 created: 2024-03-06T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-03-06
 작성 시간: 19:12

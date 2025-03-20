@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Process vs Thread",
-      "path": "03. Permanent Notes/Process vs Thread.md"
+      "basename": "상태 복제",
+      "path": "03. Permanent Notes/상태 복제.md"
     },
     {
-      "basename": "Portable Service Abstraction",
-      "path": "03. Permanent Notes/Portable Service Abstraction.md"
+      "basename": "사카모토 방법",
+      "path": "03. Permanent Notes/사카모토 방법.md"
     },
     {
-      "basename": "Parametric Search 조건을 만족하는 최대값",
-      "path": "03. Permanent Notes/Parametric Search 조건을 만족하는 최대값.md"
+      "basename": "상태 패턴",
+      "path": "03. Permanent Notes/상태 패턴.md"
     },
     {
-      "basename": "LangGraph의 State란",
-      "path": "03. Permanent Notes/LangGraph의 State란.md"
+      "basename": "벡터의 외적",
+      "path": "03. Permanent Notes/벡터의 외적.md"
     },
     {
-      "basename": "LangGraph의 Graph 구성 요소",
-      "path": "03. Permanent Notes/LangGraph의 Graph 구성 요소.md"
+      "basename": "배전 방식",
+      "path": "03. Permanent Notes/배전 방식.md"
     },
     {
-      "basename": "Kernel Level Thread",
-      "path": "03. Permanent Notes/Kernel Level Thread.md"
+      "basename": "뮤텍스(Mutex)",
+      "path": "03. Permanent Notes/뮤텍스(Mutex).md"
     },
     {
-      "basename": "JOOQ 기본 세팅하기",
-      "path": "03. Permanent Notes/JOOQ 기본 세팅하기.md"
+      "basename": "리스코프 치환 원칙(Liskov Substitution Principle)",
+      "path": "03. Permanent Notes/리스코프 치환 원칙(Liskov Substitution Principle).md"
     },
     {
-      "basename": "Java와 함께하는 Mutex 사용 예제",
-      "path": "03. Permanent Notes/Java와 함께하는 Mutex 사용 예제.md"
+      "basename": "단축 평가 계산",
+      "path": "03. Permanent Notes/단축 평가 계산.md"
     },
     {
-      "basename": "java-vscode-setting-json",
-      "path": "03. Permanent Notes/java-vscode-setting-json.md"
+      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
+      "path": "03. Permanent Notes/나만의 제텔카스텐 단위 메모 작성 이유.md"
     },
     {
-      "basename": "Java 파일 읽기",
-      "path": "03. Permanent Notes/Java 파일 읽기.md"
+      "basename": "과도현상",
+      "path": "03. Permanent Notes/과도현상.md"
     },
     {
-      "basename": "java 11 특징",
-      "path": "03. Permanent Notes/java 11 특징.md"
+      "basename": "가장 중요한 것은 회복력이다 by 젠슨황",
+      "path": "03. Permanent Notes/가장 중요한 것은 회복력이다 by 젠슨황.md"
     },
     {
-      "basename": "InfluxDB 소개",
-      "path": "03. Permanent Notes/InfluxDB 소개.md"
+      "basename": "2 Phase Commit",
+      "path": "03. Permanent Notes/2 Phase Commit.md"
     },
     {
-      "basename": "Gradle 지원 버전",
-      "path": "03. Permanent Notes/Gradle 지원 버전.md"
+      "basename": "@Valid와 @Validated 차이",
+      "path": "03. Permanent Notes/@Valid와 @Validated 차이.md"
     },
     {
-      "basename": "field에 java bean validation 적용 및 테스트",
-      "path": "03. Permanent Notes/field에 java bean validation 적용 및 테스트.md"
+      "basename": "%Z법",
+      "path": "03. Permanent Notes/%Z법.md"
     },
     {
-      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
-      "path": "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md"
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
     {
-      "basename": "Dungeon Game",
-      "path": "03. Permanent Notes/Dungeon Game.md"
+      "basename": "@chain과 Runnable",
+      "path": "03. Permanent Notes/@chain과 Runnable.md"
     },
     {
-      "basename": "Java17 Switch 문법",
-      "path": "03. Permanent Notes/Java17 Switch 문법.md"
+      "basename": "@ServiceConnection",
+      "path": "03. Permanent Notes/@ServiceConnection.md"
     },
     {
-      "basename": "java vscode format 세팅",
-      "path": "03. Permanent Notes/java vscode format 세팅.md"
+      "basename": "2차원 구간합, 부분합",
+      "path": "03. Permanent Notes/2차원 구간합, 부분합.md"
     },
     {
-      "basename": "Java List 유틸 메서드 by Collections",
-      "path": "03. Permanent Notes/Java List 유틸 메서드 by Collections.md"
+      "basename": "2PC 장애 복구 전략",
+      "path": "03. Permanent Notes/2PC 장애 복구 전략.md"
     },
     {
-      "basename": "JAVA Text Block",
-      "path": "03. Permanent Notes/JAVA Text Block.md"
+      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
+      "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
     },
     {
-      "basename": "Java Bean Validation 소개",
-      "path": "03. Permanent Notes/Java Bean Validation 소개.md"
+      "basename": "구심력",
+      "path": "03. Permanent Notes/구심력.md"
     },
     {
-      "basename": "Java 파일 쓰기",
-      "path": "03. Permanent Notes/Java 파일 쓰기.md"
+      "basename": "프록시 패턴",
+      "path": "03. Permanent Notes/프록시 패턴.md"
     },
     {
-      "basename": "Java 파일 다루기",
-      "path": "03. Permanent Notes/Java 파일 다루기.md"
+      "basename": "투자율",
+      "path": "03. Permanent Notes/투자율.md"
     },
     {
-      "basename": "Java 쓰레드 상태",
-      "path": "03. Permanent Notes/Java 쓰레드 상태.md"
+      "basename": "지수 백 오프 알고리즘",
+      "path": "03. Permanent Notes/지수 백 오프 알고리즘.md"
     },
     {
-      "basename": "Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기",
-      "path": "03. Permanent Notes/Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기.md"
+      "basename": "제텔 카스텐 기법",
+      "path": "03. Permanent Notes/제텔 카스텐 기법.md"
     }
   ],
   "omittedPaths": [],

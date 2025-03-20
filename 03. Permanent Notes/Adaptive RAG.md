@@ -8,6 +8,8 @@ aliases:
   - 적응형 RAG
 title: Adaptive RAG
 created: 2024-10-14T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-14
 작성 시간: 17:53

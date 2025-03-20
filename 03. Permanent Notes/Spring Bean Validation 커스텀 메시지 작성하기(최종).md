@@ -7,6 +7,8 @@ tags:
 aliases: null
 title: Spring Bean Validation 커스텀 메시지 작성하기(최종)
 created: 2023-11-11T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-11-11
 작성 시간: 00:13

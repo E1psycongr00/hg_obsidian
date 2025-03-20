@@ -3,9 +3,9 @@ tags:
   - JAVA
   - Spring
   - Validation
-aliases: 
-title: "@Valid와 @Validated 차이"
-created: 2023-11-12
+aliases: null
+title: '@Valid와 @Validated 차이'
+created: 2023-11-12T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

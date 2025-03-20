@@ -5,7 +5,7 @@ aliases:
   - 배열은 객체다
   - 유사배열
 title: 배열은 객체다(JS)
-created: 2024-02-08
+created: 2024-02-08T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

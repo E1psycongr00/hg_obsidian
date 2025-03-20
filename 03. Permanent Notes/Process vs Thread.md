@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: Process vs Thread
 created: 2024-12-09T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ----

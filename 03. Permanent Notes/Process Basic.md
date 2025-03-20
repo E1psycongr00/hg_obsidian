@@ -7,6 +7,8 @@ aliases:
   - 프로세스 기본
 title: Process Basic
 created: 2024-12-09T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ----

@@ -9,6 +9,8 @@ tags:
 aliases: null
 title: npm과 버저닝
 created: null
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-03-15
 작성 시간: 21:37

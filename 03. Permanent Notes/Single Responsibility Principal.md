@@ -6,6 +6,8 @@ aliases:
   - 단일 책임 원칙
 title: Single Responsibility Principal
 created: 2024-10-16T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ## 내용

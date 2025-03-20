@@ -8,6 +8,8 @@ aliases:
   - io bound & cpu bound test
 title: 'CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트'
 created: 2024-01-09T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-09
 작성 시간: 11:13

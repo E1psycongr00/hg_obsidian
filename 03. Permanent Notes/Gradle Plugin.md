@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: Gradle Plugin 사용하기
 created: 2023-10-06T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2023-10-06
 작성 시간: 19:13

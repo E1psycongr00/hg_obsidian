@@ -9,6 +9,8 @@ aliases:
   - 사전조건
 title: 선행 조건(Precondition)의 이해
 created: 2025-01-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ## 내용

@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: JOOQ와 Flyway로 Codegen하기
 created: 2024-11-21T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-11-21
 작성 시간: 18:27

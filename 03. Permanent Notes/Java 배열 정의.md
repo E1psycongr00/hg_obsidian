@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Java 배열 정의
 created: 2023-10-23T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 작성 날짜: 2023-10-23

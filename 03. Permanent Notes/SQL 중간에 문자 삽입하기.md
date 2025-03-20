@@ -6,6 +6,8 @@ aliases:
   - CONCAT_WS
 title: 중간에 문자 삽입하기
 created: 2024-06-14T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-06-14
 작성 시간: 03:07

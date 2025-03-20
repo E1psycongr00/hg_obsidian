@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: React Props 컴포넌트간 상태 공유하기(상태 동기화)
 created: 2024-03-07T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-03-07
 작성 시간: 15:57

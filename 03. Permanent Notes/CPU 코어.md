@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: CPU 코어
 created: 2024-01-13T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-03
 작성 시간: 16:30

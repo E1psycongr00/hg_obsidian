@@ -1,9 +1,9 @@
 ---
 tags:
   - 명언
-aliases: 
+aliases: null
 title: 때로는 승부에서 패배해봐야 by donald trump
-created: 2023-10-24
+created: 2023-10-24T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---

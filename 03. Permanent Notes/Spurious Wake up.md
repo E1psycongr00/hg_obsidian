@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: Spurious Wake up
 created: 2024-01-20T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-01-20
 작성 시간: 17:13

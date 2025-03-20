@@ -7,6 +7,8 @@ aliases:
   - 쓰레드 상태
 title: Thread LifeCycle
 created: 2024-12-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ----

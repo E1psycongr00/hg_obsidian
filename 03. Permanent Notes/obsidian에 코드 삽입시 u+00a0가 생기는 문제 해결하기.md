@@ -6,6 +6,8 @@ tags:
 aliases: null
 title: obsidian에 코드 삽입시 u+00a0가 생기는 문제 해결하기
 created: 2024-03-03T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-03-03
 작성 시간: 12:47

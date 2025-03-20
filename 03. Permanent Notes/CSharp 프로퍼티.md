@@ -4,6 +4,8 @@ tags:
 aliases: null
 title: CSharp 프로퍼티
 created: 2024-10-30T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-30
 작성 시간: 16:56

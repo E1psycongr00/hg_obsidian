@@ -3,9 +3,9 @@ tags:
   - Python
   - Langchain
   - LCEL
-aliases: 
-created: 2024-10-01
-title: "@chain과 Runnable"
+aliases: null
+created: 2024-10-01T00:00:00.000Z
+title: '@chain과 Runnable'
 note-type: COMMON
 completed: true
 ---

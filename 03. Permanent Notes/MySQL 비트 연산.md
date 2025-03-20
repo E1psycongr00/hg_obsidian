@@ -5,6 +5,8 @@ tags:
 aliases: null
 title: MySQL 비트 연산
 created: 2024-05-10T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-05-10
 작성 시간: 20:55

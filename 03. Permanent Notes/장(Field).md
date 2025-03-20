@@ -6,6 +6,8 @@ aliases:
   - Field
 title: 장(Field)
 created: 2025-02-02T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 
 ---

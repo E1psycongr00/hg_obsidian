@@ -7,6 +7,8 @@ aliases:
   - Native RAG
 title: Native RAG란
 created: 2024-10-04T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-10-04
 작성 시간: 15:37

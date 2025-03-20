@@ -1,8 +1,8 @@
 ---
 tags:
   - 분산시스템
-aliases: 
-created: 2024-12-18
+aliases: null
+created: 2024-12-18T00:00:00.000Z
 title: 2PC 장애 복구 전략
 note-type: COMMON
 completed: true

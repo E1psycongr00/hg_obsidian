@@ -6,6 +6,8 @@ aliases:
   - group by
 title: group by
 created: 2024-04-29T00:00:00.000Z
+note-type: COMMON
+completed: true
 ---
 작성 날짜: 2024-04-29
 작성 시간: 20:26

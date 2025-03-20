@@ -6,6 +6,8 @@ aliases:
   - RR
 title: Round Robin
 created: null
+note-type: COMMON
+completed: true
 ---
 
 ---
