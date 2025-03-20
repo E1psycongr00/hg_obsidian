@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
+      "basename": "참조 노트 템플릿",
+      "path": "templates/참조 노트 템플릿.md"
+    },
+    {
+      "basename": "project 템플릿",
+      "path": "templates/project 템플릿.md"
+    },
+    {
+      "basename": "resource 템플릿",
+      "path": "templates/resource 템플릿.md"
+    },
+    {
+      "basename": "일정 템플릿",
+      "path": "templates/일정 템플릿.md"
+    },
+    {
+      "basename": "인물 소개 템플릿",
+      "path": "templates/인물 소개 템플릿.md"
+    },
+    {
+      "basename": "솔루션 템플릿",
+      "path": "templates/솔루션 템플릿.md"
+    },
+    {
+      "basename": "감상문 템플릿",
+      "path": "templates/감상문 템플릿.md"
     },
     {
       "basename": "homepage",
       "path": "02. MOC/homepage.md"
     },
     {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "Tag Guide Lines",
@@ -23,14 +51,6 @@
     {
       "basename": "가이드 템플릿",
       "path": "templates/가이드 템플릿.md"
-    },
-    {
-      "basename": "감상문 템플릿",
-      "path": "templates/감상문 템플릿.md"
-    },
-    {
-      "basename": "솔루션 템플릿",
-      "path": "templates/솔루션 템플릿.md"
     },
     {
       "basename": "README",
@@ -79,26 +99,6 @@
     {
       "basename": "프롬프트 엔지니어링",
       "path": "04. Practice Notes/프롬프트 엔지니어링.md"
-    },
-    {
-      "basename": "chain of Thought",
-      "path": "04. Practice Notes/chain of Thought.md"
-    },
-    {
-      "basename": "Chain of Thought는 모든 유형에 효과적인가",
-      "path": "04. Practice Notes/Chain of Thought는 모든 유형에 효과적인가.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "04. Practice Notes/Flyway 사용하기 with Gradle.md"
-    },
-    {
-      "basename": "Git 핵심 명령어",
-      "path": "04. Practice Notes/Git 핵심 명령어.md"
-    },
-    {
-      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
-      "path": "04. Practice Notes/k6와 그라파나를 활용해 테스트 시각화하기.md"
     }
   ],
   "omittedPaths": [],
