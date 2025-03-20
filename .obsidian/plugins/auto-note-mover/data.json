@@ -9,13 +9,13 @@
       "pattern": ""
     },
     {
-      "folder": "prac",
+      "folder": "04. Practice Notes",
       "tag": "#미완",
       "pattern": ""
     },
     {
-      "folder": "수정 노트",
-      "tag": "#수정",
+      "folder": "01. Guides",
+      "tag": "#Guide",
       "pattern": ""
     }
   ],
@@ -25,3 +25,4 @@
       "folder": "templates"
     }
   ]
+}
