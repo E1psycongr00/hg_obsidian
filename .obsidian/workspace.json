@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templaters/MOC 템플릿.md",
+                "file": "02. MOC/전자기학 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC 템플릿"
+              "title": "전자기학 MOC"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/MOC 템플릿.md"
+                "file": "02. MOC/전자기학 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "MOC 템플릿 의 파일 속성"
+              "title": "전자기학 MOC 의 파일 속성"
             }
           },
           {
@@ -145,8 +145,7 @@
               "title": "Tree view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -345,8 +344,12 @@
   },
   "active": "7d133eae424996f1",
   "lastOpenFiles": [
+    "기본 벡터 연산.md",
+    "02. MOC/전자기학 MOC.md",
+    "hello world.md",
+    "hello.md",
+    "templaters/MOC 템플릿.md",
     "templaters/기본 템플릿.md",
-    "전자기학.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/Write Ahead Logging.md",
     "03. Permanent Notes/Raft.md",
@@ -367,10 +370,6 @@
     "03. Permanent Notes/선점형 스케줄러.md",
     "03. Permanent Notes/Domain Service를 사용해야 할 상황.md",
     "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md",
-    "03. Permanent Notes/DFA와 NFA 비교.md",
-    "03. Permanent Notes/DeadLock.md",
-    "03. Permanent Notes/DB 트랜잭션.md",
-    "03. Permanent Notes/data jpa repository 응답 타입 유연하게 쓰기.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",

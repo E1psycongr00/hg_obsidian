@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "hello world",
+      "path": "hello world.md"
+    },
+    {
+      "basename": "hello",
+      "path": "hello.md"
+    },
+    {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
     },
     {
       "basename": "기본 템플릿",
       "path": "templaters/기본 템플릿.md"
-    },
-    {
-      "basename": "전자기학",
-      "path": "전자기학.md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
       "path": "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md"
-    },
-    {
-      "basename": "DFA와 NFA 비교",
-      "path": "03. Permanent Notes/DFA와 NFA 비교.md"
-    },
-    {
-      "basename": "DeadLock",
-      "path": "03. Permanent Notes/DeadLock.md"
     }
   ],
   "omittedPaths": [],
