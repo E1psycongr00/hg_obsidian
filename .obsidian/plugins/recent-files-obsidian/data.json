@@ -5,6 +5,10 @@
       "path": "templates/commander/MoveFileByFrontMatter.md"
     },
     {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "자화",
       "path": "자화.md"
     },
