@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/homepage.md",
+                "file": "01. Guides/MOC Guides.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "MOC Guides"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Guides/MOC Guides.md",
+                "file": "01. Guides/Note Guides.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MOC Guides"
+              "title": "Note Guides"
             }
           }
         ],
@@ -116,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01. Guides/MOC Guides.md"
+                "file": "01. Guides/Note Guides.md"
               },
               "icon": "lucide-info",
-              "title": "MOC Guides 의 파일 속성"
+              "title": "Note Guides 의 파일 속성"
             }
           },
           {
@@ -361,10 +361,11 @@
   },
   "active": "90489c7aaf270432",
   "lastOpenFiles": [
+    "01. Guides/Folder Guides.md",
+    "01. Guides/MOC Guides.md",
+    "02. MOC/homepage.md",
     "01. Guides/Note Guides.md",
     "01. Guides/Tag Guide Lines.md",
-    "01. Guides/Folder Guides.md",
-    "02. MOC/homepage.md",
     "templates/참조 노트 템플릿.md",
     "templates/project 템플릿.md",
     "templates/resource 템플릿.md",
@@ -372,7 +373,6 @@
     "templates/인물 소개 템플릿.md",
     "templates/솔루션 템플릿.md",
     "templates/감상문 템플릿.md",
-    "01. Guides/MOC Guides.md",
     "templates/가이드 템플릿.md",
     "05. Reference Notes",
     "06. PARA",
