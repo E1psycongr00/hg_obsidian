@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "hello",
+      "path": "hello.md"
+    },
+    {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "asdfasdfa",
+      "path": "asdfasdfa.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
@@ -10,19 +22,11 @@
     },
     {
       "basename": "기본 템플릿",
-      "path": "04. Practice Notes/기본 템플릿.md"
+      "path": "templaters/기본 템플릿.md"
     },
     {
       "basename": "참조 노트 템플릿",
       "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "asdfasdfa",
-      "path": "asdfasdfa.md"
-    },
-    {
-      "basename": "hello",
-      "path": "hello.md"
     },
     {
       "basename": "hello world",
@@ -95,10 +99,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     }
   ],
   "omittedPaths": [],
