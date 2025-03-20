@@ -37,7 +37,8 @@
               "title": "무제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/commander/MoveFileByFrontMatter.md"
+                "file": "무제.md"
               },
               "icon": "lucide-info",
-              "title": "MoveFileByFrontMatter 의 파일 속성"
+              "title": "무제 의 파일 속성"
             }
           },
           {
@@ -289,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/commander/MoveFileByFrontMatter.md",
+                "file": "무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MoveFileByFrontMatter 의 개요"
+              "title": "무제 의 개요"
             }
           }
         ]
@@ -328,10 +329,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe14beeeb60f1d70",
+  "active": "831f0f12bf23e2e7",
   "lastOpenFiles": [
-    "무제.md",
     "templates/commander/MoveFileByFrontMatter.md",
+    "무제.md",
     "templates/commander/MoveFileByTag.md",
     "templates/scripts/moveFileTarget.js",
     "templates/scripts/checkFrontMatter.js",
