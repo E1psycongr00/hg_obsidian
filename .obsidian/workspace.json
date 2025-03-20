@@ -11,10 +11,15 @@
             "id": "fe14beeeb60f1d70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/가이드 템플릿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "가이드 템플릿"
             }
           }
         ]
@@ -94,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "templates/가이드 템플릿.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "가이드 템플릿 의 파일 속성"
             }
           },
           {
@@ -267,12 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "templates/가이드 템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "가이드 템플릿 의 개요"
             }
           }
         ]
@@ -304,8 +312,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "33f56067064d3b22",
+  "active": "fe14beeeb60f1d70",
   "lastOpenFiles": [
+    "templates/scripts/moveMOC.js",
+    "templates/scripts/무제.md",
+    "templates/가이드 템플릿.md",
+    "templates/scripts",
     "update-metadata.ps1",
     "03. Permanent Notes/공부가 아니라 배움이다  by 타일러.md",
     "03. Permanent Notes/공기 절연 파괴.md",
@@ -320,7 +332,6 @@
     "03. Permanent Notes/2 Phase Commit.md",
     "02. MOC/Home.md",
     "templates/MOC 템플릿.md",
-    "templates/가이드 템플릿.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Note Guides.md",
     "Excalidraw/MOC 상향식 (draw).md",
@@ -332,7 +343,6 @@
     "templates/resource 템플릿.md",
     "templates/일정 템플릿.md",
     "templates/인물 소개 템플릿.md",
-    "templates/솔루션 템플릿.md",
     "05. Reference Notes",
     "06. PARA",
     "01. Guides",
@@ -351,8 +361,6 @@
     "06. PARA/1.Projects/이력서 관리",
     "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
     "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
-    "attachments/pdf/전기기사/[ 제어공학 요점정리 ].pdf",
-    "attachments/pdf/전기기사/[ 전기기기 요점정리 2 ] 3장 변압기.pdf",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",
