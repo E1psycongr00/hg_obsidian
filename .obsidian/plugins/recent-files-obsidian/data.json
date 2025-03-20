@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "Tag Guide Lines",
