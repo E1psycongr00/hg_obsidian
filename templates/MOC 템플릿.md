@@ -1,12 +1,8 @@
 ---
 tags:
-  - MOC
 aliases: 
-date:
-title: "{{title}}"
+created:
+title:
+note-type: MOC
 ---
 
-
----
-
-## 주제

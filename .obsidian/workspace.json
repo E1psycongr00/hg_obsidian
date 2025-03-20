@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/commander/MoveFileByFrontMatter.md",
+                "file": "templates/MOC 템플릿.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MoveFileByFrontMatter"
+              "title": "MOC 템플릿"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "02. MOC/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제.md"
+                "file": "templates/MOC 템플릿.md"
               },
               "icon": "lucide-info",
-              "title": "무제 의 파일 속성"
+              "title": "MOC 템플릿 의 파일 속성"
             }
           },
           {
@@ -290,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.md",
+                "file": "templates/MOC 템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "MOC 템플릿 의 개요"
             }
           }
         ]
@@ -329,22 +328,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "831f0f12bf23e2e7",
+  "active": "fe14beeeb60f1d70",
   "lastOpenFiles": [
+    "Untitled.md",
+    "asdfasdfa.md",
+    "templates/MOC 템플릿.md",
     "templates/commander/MoveFileByFrontMatter.md",
-    "무제.md",
+    "02. MOC/Home.md",
+    "02. MOC/무제.md",
+    "templates/scripts/moveFileToTarget.js",
     "templates/commander/MoveFileByTag.md",
     "templates/scripts/moveFileTarget.js",
     "templates/scripts/checkFrontMatter.js",
     "자화.md",
     "2. MOC/무제.md",
     "2. MOC",
-    "02. MOC/무제.md",
     "이해도 분석 가이드.md",
     "MOC/무제.md",
     "MOC",
     "templates/scripts/moveFileByTag.js",
-    "templates/MOC 템플릿.md",
     "templates/commander",
     "templates/가이드 템플릿.md",
     "templates/scripts/moveMOC.js",
@@ -362,12 +364,9 @@
     "03. Permanent Notes/@chain과 Runnable.md",
     "03. Permanent Notes/@ServiceConnection.md",
     "03. Permanent Notes/2 Phase Commit.md",
-    "02. MOC/Home.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Note Guides.md",
-    "Excalidraw/MOC 상향식 (draw).md",
     "Excalidraw/MOC 상향식 (draw).svg",
-    "05. Reference Notes",
     "index.canvas",
     "Excalidraw/%Z 임피던스 사고 후 (draw).svg",
     "Excalidraw/%Z 임피던스 사고전(draw).svg",

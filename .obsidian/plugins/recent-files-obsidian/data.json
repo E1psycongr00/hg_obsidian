@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "무제",
-      "path": "무제.md"
+      "basename": "MOC 템플릿",
+      "path": "templates/MOC 템플릿.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "asdfasdfa",
+      "path": "asdfasdfa.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
       "path": "templates/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "자화",
@@ -15,10 +27,6 @@
     {
       "basename": "이해도 분석 가이드",
       "path": "이해도 분석 가이드.md"
-    },
-    {
-      "basename": "MOC 템플릿",
-      "path": "templates/MOC 템플릿.md"
     },
     {
       "basename": "가이드 템플릿",
@@ -69,10 +77,6 @@
       "path": "03. Permanent Notes/2 Phase Commit.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "참조 노트 템플릿",
       "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "project 템플릿",
-      "path": "templates/project 템플릿.md"
     }
   ],
   "omittedPaths": [],
