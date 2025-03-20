@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "비선점형 스케줄러",
       "path": "03. Permanent Notes/비선점형 스케줄러.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "미로 탈출 명령어",
       "path": "03. Permanent Notes/미로 탈출 명령어.md"
-    },
-    {
-      "basename": "뮤텍스(Mutex)",
-      "path": "03. Permanent Notes/뮤텍스(Mutex).md"
-    },
-    {
-      "basename": "무한 평면의 전계",
-      "path": "03. Permanent Notes/무한 평면의 전계.md"
     }
   ],
   "omittedPaths": [],
