@@ -9,10 +9,6 @@ completed: true
 ---
 
 
-작성 날짜: 2024-02-20
-작성 시간: 20:50
-
-
 ----
 ## 내용(Content)
 ### Array.from

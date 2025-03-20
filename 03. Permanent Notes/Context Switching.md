@@ -1,10 +1,11 @@
 ---
 tags:
-  - 완성
   - OS
 aliases: 
-date: 2024-12-13
+created: 2024-12-13
 title: Context Switching
+note-type: COMMON
+completed: true
 ---
 ---
 

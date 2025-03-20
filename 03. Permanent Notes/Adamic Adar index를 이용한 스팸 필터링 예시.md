@@ -1,10 +1,11 @@
 ---
 tags:
-  - 완성
   - graph
 aliases: 
-date: 2024-12-12
+created: 2024-12-12
 title: Adamic Adar index를 이용한 스팸 필터링 예시
+note-type: COMMON
+completed: true
 ---
 ---
 

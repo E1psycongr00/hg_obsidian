@@ -1,104 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "상태 복제",
-      "path": "03. Permanent Notes/상태 복제.md"
+      "basename": "선점형 스케줄러",
+      "path": "03. Permanent Notes/선점형 스케줄러.md"
     },
     {
-      "basename": "사카모토 방법",
-      "path": "03. Permanent Notes/사카모토 방법.md"
+      "basename": "Domain Service를 사용해야 할 상황",
+      "path": "03. Permanent Notes/Domain Service를 사용해야 할 상황.md"
     },
     {
-      "basename": "상태 패턴",
-      "path": "03. Permanent Notes/상태 패턴.md"
+      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
+      "path": "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md"
     },
     {
-      "basename": "벡터의 외적",
-      "path": "03. Permanent Notes/벡터의 외적.md"
+      "basename": "DFA와 NFA 비교",
+      "path": "03. Permanent Notes/DFA와 NFA 비교.md"
     },
     {
-      "basename": "배전 방식",
-      "path": "03. Permanent Notes/배전 방식.md"
+      "basename": "DeadLock",
+      "path": "03. Permanent Notes/DeadLock.md"
     },
     {
-      "basename": "뮤텍스(Mutex)",
-      "path": "03. Permanent Notes/뮤텍스(Mutex).md"
+      "basename": "DB 트랜잭션",
+      "path": "03. Permanent Notes/DB 트랜잭션.md"
     },
     {
-      "basename": "리스코프 치환 원칙(Liskov Substitution Principle)",
-      "path": "03. Permanent Notes/리스코프 치환 원칙(Liskov Substitution Principle).md"
+      "basename": "data jpa repository 응답 타입 유연하게 쓰기",
+      "path": "03. Permanent Notes/data jpa repository 응답 타입 유연하게 쓰기.md"
     },
     {
-      "basename": "단축 평가 계산",
-      "path": "03. Permanent Notes/단축 평가 계산.md"
+      "basename": "data jpa Projection 인터페이스",
+      "path": "03. Permanent Notes/data jpa Projection 인터페이스.md"
     },
     {
-      "basename": "나만의 제텔카스텐 단위 메모 작성 이유",
-      "path": "03. Permanent Notes/나만의 제텔카스텐 단위 메모 작성 이유.md"
+      "basename": "Data 영역",
+      "path": "03. Permanent Notes/Data 영역.md"
     },
     {
-      "basename": "과도현상",
-      "path": "03. Permanent Notes/과도현상.md"
+      "basename": "d3js & react 예제",
+      "path": "03. Permanent Notes/d3js & react 예제.md"
     },
     {
-      "basename": "가장 중요한 것은 회복력이다 by 젠슨황",
-      "path": "03. Permanent Notes/가장 중요한 것은 회복력이다 by 젠슨황.md"
+      "basename": "Custom Task와 Plugin 개발해보기 by buildSrc",
+      "path": "03. Permanent Notes/Custom Task와 Plugin 개발해보기 by buildSrc.md"
     },
     {
-      "basename": "2 Phase Commit",
-      "path": "03. Permanent Notes/2 Phase Commit.md"
+      "basename": "Custom Gradle Plugin 이해하기",
+      "path": "03. Permanent Notes/Custom Gradle Plugin 이해하기.md"
     },
     {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "03. Permanent Notes/@Valid와 @Validated 차이.md"
+      "basename": "CSharp의 Null 다루기",
+      "path": "03. Permanent Notes/CSharp의 Null 다루기.md"
     },
     {
-      "basename": "%Z법",
-      "path": "03. Permanent Notes/%Z법.md"
+      "basename": "CSharp 프로퍼티",
+      "path": "03. Permanent Notes/CSharp 프로퍼티.md"
     },
     {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+      "basename": "CSharp 반복기",
+      "path": "03. Permanent Notes/CSharp 반복기.md"
     },
     {
-      "basename": "@chain과 Runnable",
-      "path": "03. Permanent Notes/@chain과 Runnable.md"
+      "basename": "CRA 와 Typescript 프로젝트 생성하기",
+      "path": "03. Permanent Notes/CRA 와 Typescript 프로젝트 생성하기.md"
     },
     {
-      "basename": "@ServiceConnection",
-      "path": "03. Permanent Notes/@ServiceConnection.md"
+      "basename": "CPU의 작업 처리 방식 (병렬성과 동시성)",
+      "path": "03. Permanent Notes/CPU의 작업 처리 방식 (병렬성과 동시성).md"
     },
     {
-      "basename": "2차원 구간합, 부분합",
-      "path": "03. Permanent Notes/2차원 구간합, 부분합.md"
+      "basename": "CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트",
+      "path": "03. Permanent Notes/CPU, IO 바운드 프로세스와 병렬 프로그래밍 테스트.md"
     },
     {
-      "basename": "2PC 장애 복구 전략",
-      "path": "03. Permanent Notes/2PC 장애 복구 전략.md"
+      "basename": "CPU 클럭 속도",
+      "path": "03. Permanent Notes/CPU 클럭 속도.md"
     },
     {
-      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
-      "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
+      "basename": "CPU 코어",
+      "path": "03. Permanent Notes/CPU 코어.md"
     },
     {
-      "basename": "구심력",
-      "path": "03. Permanent Notes/구심력.md"
+      "basename": "CPU 쓰레드(Thread)",
+      "path": "03. Permanent Notes/CPU 쓰레드(Thread).md"
     },
     {
-      "basename": "프록시 패턴",
-      "path": "03. Permanent Notes/프록시 패턴.md"
+      "basename": "CPU 스케줄링 알고리즘",
+      "path": "03. Permanent Notes/CPU 스케줄링 알고리즘.md"
     },
     {
-      "basename": "투자율",
-      "path": "03. Permanent Notes/투자율.md"
+      "basename": "CPU 스케줄러",
+      "path": "03. Permanent Notes/CPU 스케줄러.md"
     },
     {
-      "basename": "지수 백 오프 알고리즘",
-      "path": "03. Permanent Notes/지수 백 오프 알고리즘.md"
+      "basename": "Context Switching",
+      "path": "03. Permanent Notes/Context Switching.md"
     },
     {
-      "basename": "제텔 카스텐 기법",
-      "path": "03. Permanent Notes/제텔 카스텐 기법.md"
+      "basename": "Constant Pool vs Runtime Constant Pool",
+      "path": "03. Permanent Notes/Constant Pool vs Runtime Constant Pool.md"
     }
   ],
   "omittedPaths": [],

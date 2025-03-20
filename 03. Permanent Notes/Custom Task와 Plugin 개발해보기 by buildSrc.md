@@ -1,8 +1,7 @@
 ---
 tags:
-  - IT
   - Gradle
-aliases: null
+aliases: 
 title: Custom Task와 Plugin 개발해보기 by buildSrc
 created: 2023-10-16T00:00:00.000Z
 note-type: COMMON

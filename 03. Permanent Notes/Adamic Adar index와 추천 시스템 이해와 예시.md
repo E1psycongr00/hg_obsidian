@@ -1,10 +1,11 @@
 ---
 tags:
-  - 완성
   - graph
 aliases: 
-date: 2024-12-12
+created: 2024-12-12
 title: Adamic Adar index와 추천 시스템 이해와 예시
+note-type: COMMON
+completed: true
 ---
 ---
 
