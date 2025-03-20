@@ -2,23 +2,35 @@
   "recentFiles": [
     {
       "basename": "MOC 템플릿",
-      "path": "templates/MOC 템플릿.md"
+      "path": "templates/templater/MOC 템플릿.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "hello",
+      "path": "hello.md"
+    },
+    {
+      "basename": "hello world",
+      "path": "hello world.md"
     },
     {
       "basename": "asdfasdfa",
       "path": "asdfasdfa.md"
     },
     {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templates/commander/MoveFileByFrontMatter.md"
-    },
-    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "@ServiceConnection",
+      "path": "03. Permanent Notes/@ServiceConnection.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templates/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "자화",
@@ -69,10 +81,6 @@
       "path": "03. Permanent Notes/@chain과 Runnable.md"
     },
     {
-      "basename": "@ServiceConnection",
-      "path": "03. Permanent Notes/@ServiceConnection.md"
-    },
-    {
       "basename": "2 Phase Commit",
       "path": "03. Permanent Notes/2 Phase Commit.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "Tag Guide Lines",
-      "path": "01. Guides/Tag Guide Lines.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
     }
   ],
   "omittedPaths": [],

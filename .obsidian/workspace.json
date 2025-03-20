@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe14beeeb60f1d70",
+            "id": "831f0f12bf23e2e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/MOC 템플릿.md",
+                "file": "templates/templater/MOC 템플릿.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "MOC 템플릿"
-            }
-          },
-          {
-            "id": "831f0f12bf23e2e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. MOC/Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
             }
           }
         ]
@@ -115,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/MOC 템플릿.md"
+                "file": "templates/templater/MOC 템플릿.md"
               },
               "icon": "lucide-info",
               "title": "MOC 템플릿 의 파일 속성"
@@ -289,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/MOC 템플릿.md",
+                "file": "templates/templater/MOC 템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -328,13 +313,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe14beeeb60f1d70",
+  "active": "831f0f12bf23e2e7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "hello.md",
+    "Untitled 1.md",
+    "templates/templater/MOC 템플릿.md",
+    "hello world.md",
     "asdfasdfa.md",
-    "templates/MOC 템플릿.md",
-    "templates/commander/MoveFileByFrontMatter.md",
+    "templates/templater",
     "02. MOC/Home.md",
+    "03. Permanent Notes/@ServiceConnection.md",
+    "Untitled.md",
+    "templates/commander/MoveFileByFrontMatter.md",
     "02. MOC/무제.md",
     "templates/scripts/moveFileToTarget.js",
     "templates/commander/MoveFileByTag.md",
@@ -352,7 +342,6 @@
     "templates/scripts/moveMOC.js",
     "templates/scripts/무제.md",
     "templates/scripts",
-    "update-metadata.ps1",
     "03. Permanent Notes/공부가 아니라 배움이다  by 타일러.md",
     "03. Permanent Notes/공기 절연 파괴.md",
     "03. Permanent Notes/곡선 좌표계와 미분 연산자.md",
@@ -362,10 +351,6 @@
     "03. Permanent Notes/2D array constant time query update.md",
     "03. Permanent Notes/1D array constant time query update.md",
     "03. Permanent Notes/@chain과 Runnable.md",
-    "03. Permanent Notes/@ServiceConnection.md",
-    "03. Permanent Notes/2 Phase Commit.md",
-    "01. Guides/MOC Guides.md",
-    "01. Guides/Note Guides.md",
     "Excalidraw/MOC 상향식 (draw).svg",
     "index.canvas",
     "Excalidraw/%Z 임피던스 사고 후 (draw).svg",
