@@ -9,12 +9,12 @@
       "path": "01. Guides/Note Guides.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Tag Guide Lines",
