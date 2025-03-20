@@ -13,12 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "templates/scripts",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "",
-      "template": ""
-    }
-  ],
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
