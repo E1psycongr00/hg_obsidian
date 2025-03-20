@@ -37,8 +37,7 @@
               "title": "Tag Guide Lines"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01. Guides/Tag Guide Lines.md"
+                "file": "01. Guides/MOC Guides.md"
               },
               "icon": "lucide-info",
-              "title": "Tag Guide Lines 의 파일 속성"
+              "title": "MOC Guides 의 파일 속성"
             }
           },
           {
@@ -359,13 +358,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "90489c7aaf270432",
+  "active": "3eddd7709980e6e3",
   "lastOpenFiles": [
+    "01. Guides/Tag Guide Lines.md",
     "01. Guides/Folder Guides.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Note Guides.md",
     "02. MOC/homepage.md",
-    "01. Guides/Tag Guide Lines.md",
     "templates/참조 노트 템플릿.md",
     "templates/project 템플릿.md",
     "templates/resource 템플릿.md",
