@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+    },
+    {
+      "basename": "@chain과 Runnable",
+      "path": "03. Permanent Notes/@chain과 Runnable.md"
+    },
+    {
+      "basename": "클래스 단위 클래스 컨테이너 (draw)",
+      "path": "Excalidraw/클래스 단위 클래스 컨테이너 (draw).md"
+    },
+    {
+      "basename": "Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway",
+      "path": "03. Permanent Notes/Bean을 활용한 싱글턴 컨테이너 설계하기 with JPA, Flyway.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "04. Practice Notes/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "k6와 docker image로 만들어진 influxdb v2 연결하기",
+      "path": "03. Permanent Notes/k6와 docker image로 만들어진 influxdb v2 연결하기.md"
+    },
+    {
+      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
+      "path": "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md"
+    },
+    {
+      "basename": "기본 템플릿",
+      "path": "templaters/기본 템플릿.md"
+    },
+    {
       "basename": "객체 분해 할당",
       "path": "03. Permanent Notes/객체 분해 할당.md"
     },
@@ -67,38 +99,6 @@
     {
       "basename": "%Z법",
       "path": "03. Permanent Notes/%Z법.md"
-    },
-    {
-      "basename": "@Valid와 @Validated 차이",
-      "path": "03. Permanent Notes/@Valid와 @Validated 차이.md"
-    },
-    {
-      "basename": "@ServiceConnection",
-      "path": "03. Permanent Notes/@ServiceConnection.md"
-    },
-    {
-      "basename": "@chain과 Runnable",
-      "path": "03. Permanent Notes/@chain과 Runnable.md"
-    },
-    {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "project 템플릿",
-      "path": "templates/project 템플릿.md"
-    },
-    {
-      "basename": "resource 템플릿",
-      "path": "templates/resource 템플릿.md"
-    },
-    {
-      "basename": "참조 노트 템플릿",
-      "path": "templates/참조 노트 템플릿.md"
-    },
-    {
-      "basename": "일정 템플릿",
-      "path": "templates/일정 템플릿.md"
     }
   ],
   "omittedPaths": [],
