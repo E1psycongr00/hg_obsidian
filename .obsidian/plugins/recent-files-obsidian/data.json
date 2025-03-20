@@ -5,6 +5,10 @@
       "path": "02. MOC/전자기학 MOC.md"
     },
     {
+      "basename": "정전용량",
+      "path": "03. Permanent Notes/정전용량.md"
+    },
+    {
       "basename": "hello world",
       "path": "hello world.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Domain Service를 사용해야 할 상황",
       "path": "03. Permanent Notes/Domain Service를 사용해야 할 상황.md"
-    },
-    {
-      "basename": "Docker를 활용해 influxdb와 grafana 연결하기",
-      "path": "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md"
     }
   ],
   "omittedPaths": [],
