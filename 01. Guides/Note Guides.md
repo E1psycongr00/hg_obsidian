@@ -20,3 +20,4 @@ title: "Note Guides"
 	- 진행하고 있는 프로젝트
 - Reference Note
 	- 인터넷, 신문, 블로그, 논문 글 등 다른 사람들이 작성한 지식 일부를 발췌한 노트
+- Code Notes
