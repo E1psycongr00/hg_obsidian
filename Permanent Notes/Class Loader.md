@@ -60,7 +60,7 @@ date: 2023-10-08
 
 ## 연결 노트
 - [[Class Loader 메서드]]
-- [[영구노트/String Constant Pool]]
+- [[String Constant Pool]]
 
 
 

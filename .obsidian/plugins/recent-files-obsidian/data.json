@@ -1,40 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "프롬프트 엔지니어링",
-      "path": "연습노트/프롬프트 엔지니어링.md"
+      "basename": "MOC Guide Line",
+      "path": "MOC/MOC Guide Line.md"
     },
     {
-      "basename": "팩토리 패턴",
-      "path": "연습노트/팩토리 패턴.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "응집도 높은 모듈 설계 방법론",
-      "path": "연습노트/응집도 높은 모듈 설계 방법론.md"
+      "basename": "R-L-C 직렬 회로 과도 현상",
+      "path": "Permanent Notes/R-L-C 직렬 회로 과도 현상.md"
     },
     {
-      "basename": "벡터의 미분",
-      "path": "영구노트/벡터의 미분.md"
+      "basename": "Process 컨텍스트 스위칭",
+      "path": "Permanent Notes/Process 컨텍스트 스위칭.md"
     },
     {
-      "basename": "벡터 항등식 쉽게 외우기",
-      "path": "영구노트/벡터 항등식 쉽게 외우기.md"
+      "basename": "전자기파",
+      "path": "Permanent Notes/전자기파.md"
     },
     {
-      "basename": "메타 러닝의 계산도가 높은 이유",
-      "path": "연습노트/메타 러닝의 계산도가 높은 이유.md"
+      "basename": "동등 분할",
+      "path": "Permanent Notes/동등 분할.md"
+    },
+    {
+      "basename": "과도현상",
+      "path": "Permanent Notes/과도현상.md"
     },
     {
       "basename": "homepage",
       "path": "homepage.md"
     },
     {
-      "basename": "변위 전류 식 유도",
-      "path": "영구노트/변위 전류 식 유도.md"
+      "basename": "메타 러닝의 계산도가 높은 이유",
+      "path": "Practice Notes/메타 러닝의 계산도가 높은 이유.md"
     },
     {
-      "basename": "MOC Guide Line",
-      "path": "MOC/MOC Guide Line.md"
+      "basename": "벡터 항등식 쉽게 외우기",
+      "path": "Permanent Notes/벡터 항등식 쉽게 외우기.md"
+    },
+    {
+      "basename": "벡터의 미분",
+      "path": "Permanent Notes/벡터의 미분.md"
+    },
+    {
+      "basename": "응집도 높은 모듈 설계 방법론",
+      "path": "Practice Notes/응집도 높은 모듈 설계 방법론.md"
+    },
+    {
+      "basename": "팩토리 패턴",
+      "path": "Practice Notes/팩토리 패턴.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "Practice Notes/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "chain of Thought",
+      "path": "Practice Notes/chain of Thought.md"
+    },
+    {
+      "basename": "Chain of Thought는 모든 유형에 효과적인가",
+      "path": "Practice Notes/Chain of Thought는 모든 유형에 효과적인가.md"
+    },
+    {
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "Practice Notes/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "Git 핵심 명령어",
+      "path": "Practice Notes/Git 핵심 명령어.md"
+    },
+    {
+      "basename": "k6와 그라파나를 활용해 테스트 시각화하기",
+      "path": "Practice Notes/k6와 그라파나를 활용해 테스트 시각화하기.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "Practice Notes/Spring Modulith.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
+      "basename": "Meta Learning",
+      "path": "Practice Notes/Meta Learning.md"
+    },
+    {
+      "basename": "변위 전류 식 유도",
+      "path": "Permanent Notes/변위 전류 식 유도.md"
     },
     {
       "basename": "이해도 분석 가이드",
@@ -43,62 +99,6 @@
     {
       "basename": "자화",
       "path": "자화.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "기본 벡터 연산",
-      "path": "기본 벡터 연산.md"
-    },
-    {
-      "basename": "두개의 무한 평판의 전계",
-      "path": "두개의 무한 평판의 전계.md"
-    },
-    {
-      "basename": "엘리멘탈 감상문",
-      "path": "4.Archive/감상문/엘리멘탈 감상문.md"
-    },
-    {
-      "basename": "스즈메의 문단속",
-      "path": "4.Archive/감상문/스즈메의 문단속.md"
-    },
-    {
-      "basename": "%Z법",
-      "path": "영구노트/%Z법.md"
-    },
-    {
-      "basename": "%Z 임피던스 사고전(draw)",
-      "path": "Excalidraw/%Z 임피던스 사고전(draw).md"
-    },
-    {
-      "basename": "%Z 임피던스 사고 후 (draw)",
-      "path": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
-    },
-    {
-      "basename": "정격 전류",
-      "path": "영구노트/정격 전류.md"
-    },
-    {
-      "basename": "코로나 현상",
-      "path": "영구노트/코로나 현상.md"
-    },
-    {
-      "basename": "중성점 접지 방식",
-      "path": "영구노트/중성점 접지 방식.md"
-    },
-    {
-      "basename": "소호 리액터 접지 (draw)",
-      "path": "Excalidraw/소호 리액터 접지 (draw).md"
-    },
-    {
-      "basename": "직접 접지 (draw)",
-      "path": "Excalidraw/직접 접지 (draw).md"
-    },
-    {
-      "basename": "아크",
-      "path": "영구노트/아크.md"
     }
   ],
   "omittedPaths": [],

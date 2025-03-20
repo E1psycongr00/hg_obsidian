@@ -40,7 +40,7 @@ a[a]++;
 
 ## 연결 노트
 - [[부분합, 누적합]]
-- [[영구노트/2D array constant time query update|2D array constant time query update]]
+- [[2D array constant time query update|2D array constant time query update]]
 
 
 

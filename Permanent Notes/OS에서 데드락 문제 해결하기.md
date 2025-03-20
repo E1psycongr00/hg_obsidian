@@ -80,7 +80,7 @@ OS가 직접 이 문제를 해결하지 않는다. 개발자에게 맡긴다.
 
 ## 연결 노트
 - [[DeadLock]]
-- [[Race Condition]]
+- [[race condition]]
 
 
 

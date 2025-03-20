@@ -72,7 +72,7 @@ for (int j = 0; j < cols; j++) {
 - https://codeforces.com/blog/entry/86420
 
 ## 연결 노트
-- [[영구노트/1D array constant time query update|1D array constant time query update]]
+- [[1D array constant time query update|1D array constant time query update]]
 
 
 
