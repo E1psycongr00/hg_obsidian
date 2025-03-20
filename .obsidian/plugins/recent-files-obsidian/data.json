@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "스즈메의 문단속",
+      "path": "스즈메의 문단속.md"
+    },
+    {
+      "basename": "엘리멘탈 감상문",
+      "path": "엘리멘탈 감상문.md"
+    },
+    {
+      "basename": "엔지니어링 프롬프트",
+      "path": "엔지니어링 프롬프트.md"
+    },
+    {
+      "basename": "이해도 분석 가이드",
+      "path": "이해도 분석 가이드.md"
+    },
+    {
+      "basename": "자화",
+      "path": "자화.md"
+    },
+    {
       "basename": "home",
       "path": "home.md"
     },
@@ -79,22 +99,6 @@
     {
       "basename": "custom gradle plugin type",
       "path": "attachments/images/custom gradle plugin type.png"
-    },
-    {
-      "basename": "search_insert_position_2d_graph",
-      "path": "attachments/images/search_insert_position_2d_graph.png"
-    },
-    {
-      "basename": "Rotated Sorted Array",
-      "path": "attachments/images/Rotated Sorted Array.png"
-    },
-    {
-      "basename": "particle-mass-comparison",
-      "path": "attachments/images/particle-mass-comparison.svg"
-    },
-    {
-      "basename": "gradle plugin method",
-      "path": "attachments/images/gradle plugin method.png"
     }
   ],
   "omittedPaths": [],
