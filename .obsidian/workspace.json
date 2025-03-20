@@ -344,8 +344,9 @@
   },
   "active": "7d133eae424996f1",
   "lastOpenFiles": [
-    "기본 벡터 연산.md",
+    "03. Permanent Notes/전기장 에너지 밀도.md",
     "02. MOC/전자기학 MOC.md",
+    "기본 벡터 연산.md",
     "hello world.md",
     "hello.md",
     "templaters/MOC 템플릿.md",
@@ -369,7 +370,6 @@
     "03. Permanent Notes/이해를 돕기 위한 하트비트 예시.md",
     "03. Permanent Notes/선점형 스케줄러.md",
     "03. Permanent Notes/Domain Service를 사용해야 할 상황.md",
-    "03. Permanent Notes/Docker를 활용해 influxdb와 grafana 연결하기.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
