@@ -4,12 +4,12 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "영구노트",
+      "folder": "03. Permanent Notes",
       "tag": "#완성",
       "pattern": ""
     },
     {
-      "folder": "연습노트",
+      "folder": "prac",
       "tag": "#미완",
       "pattern": ""
     },
@@ -25,4 +25,3 @@
       "folder": "templates"
     }
   ]
-}
