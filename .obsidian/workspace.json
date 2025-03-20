@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "19cf9363f1defa6d",
+            "id": "d1ec54c244645b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/무제.md",
+                "file": "무제.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/무제.md"
+                "file": "무제.md"
               },
               "icon": "lucide-info",
               "title": "무제 의 파일 속성"
@@ -290,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/무제.md",
+                "file": "무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -329,18 +329,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "19cf9363f1defa6d",
+  "active": "d1ec54c244645b7c",
   "lastOpenFiles": [
     "자화.md",
+    "무제.md",
+    "templates/commander/MoveFileByTag.md",
     "02. MOC/무제.md",
     "이해도 분석 가이드.md",
-    "templates/commander/MoveFileByTag.md",
     "MOC/무제.md",
     "MOC",
     "templates/scripts/moveFileByTag.js",
     "templates/MOC 템플릿.md",
     "templates/commander",
-    "02. MOC/무제.md",
     "templates/가이드 템플릿.md",
     "templates/scripts/moveMOC.js",
     "templates/scripts/무제.md",

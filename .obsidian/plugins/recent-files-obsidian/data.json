@@ -2,19 +2,19 @@
   "recentFiles": [
     {
       "basename": "무제",
-      "path": "02. MOC/무제.md"
+      "path": "무제.md"
     },
     {
       "basename": "자화",
       "path": "자화.md"
     },
     {
-      "basename": "이해도 분석 가이드",
-      "path": "이해도 분석 가이드.md"
-    },
-    {
       "basename": "MoveFileByTag",
       "path": "templates/commander/MoveFileByTag.md"
+    },
+    {
+      "basename": "이해도 분석 가이드",
+      "path": "이해도 분석 가이드.md"
     },
     {
       "basename": "MOC 템플릿",
