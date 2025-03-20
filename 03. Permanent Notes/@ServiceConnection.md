@@ -1,10 +1,11 @@
 ---
 tags:
-  - 완성
   - Gradle
 aliases: 
-date: 2024-11-20
+created: 2024-11-20
 title: "@ServiceConnection"
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

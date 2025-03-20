@@ -1,11 +1,12 @@
 ---
 tags:
-  - 완성
   - 분산시스템
 aliases:
   - 2PC
-date: 2024-12-18
+created: 2024-12-18
 title: 2 Phase Commit
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

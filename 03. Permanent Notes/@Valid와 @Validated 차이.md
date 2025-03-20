@@ -1,12 +1,13 @@
 ---
 tags:
-  - 완성
   - JAVA
   - Spring
   - Validation
 aliases: 
 title: "@Valid와 @Validated 차이"
-date: 2023-11-12
+created: 2023-11-12
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

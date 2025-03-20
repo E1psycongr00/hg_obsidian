@@ -1,12 +1,13 @@
 ---
 tags:
-  - 완성
   - Python
   - Langchain
   - LCEL
 aliases: 
-date: 2024-10-01
+created: 2024-10-01
 title: "@chain과 Runnable"
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

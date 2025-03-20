@@ -1,12 +1,13 @@
 ---
 tags:
-  - 완성
   - 전기
   - 전력공학
   - 고장계산
 aliases: 
 date: 2025-03-19
 title: "%Z법"
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

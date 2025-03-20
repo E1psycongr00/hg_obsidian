@@ -1,12 +1,12 @@
 ---
 tags:
-  - 완성
-  - IT
   - 알고리즘
   - PrefixSum
 aliases: 
 title: 1D array constant time query update
-date: 2023-11-03
+created: 2023-11-03
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

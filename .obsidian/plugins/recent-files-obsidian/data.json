@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+      "basename": "2차원 구간합, 부분합",
+      "path": "03. Permanent Notes/2차원 구간합, 부분합.md"
+    },
+    {
+      "basename": "2 Phase Commit",
+      "path": "03. Permanent Notes/2 Phase Commit.md"
+    },
+    {
+      "basename": "1D array constant time query update",
+      "path": "03. Permanent Notes/1D array constant time query update.md"
+    },
+    {
+      "basename": "%Z법",
+      "path": "03. Permanent Notes/%Z법.md"
+    },
+    {
+      "basename": "@Valid와 @Validated 차이",
+      "path": "03. Permanent Notes/@Valid와 @Validated 차이.md"
+    },
+    {
+      "basename": "@ServiceConnection",
+      "path": "03. Permanent Notes/@ServiceConnection.md"
     },
     {
       "basename": "@chain과 Runnable",
       "path": "03. Permanent Notes/@chain과 Runnable.md"
+    },
+    {
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "03. Permanent Notes/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
     },
     {
       "basename": "클래스 단위 클래스 컨테이너 (draw)",
@@ -75,30 +99,6 @@
     {
       "basename": "3 Phase Commit",
       "path": "03. Permanent Notes/3 Phase Commit.md"
-    },
-    {
-      "basename": "2PC 장애 복구 전략",
-      "path": "03. Permanent Notes/2PC 장애 복구 전략.md"
-    },
-    {
-      "basename": "2D array constant time query update",
-      "path": "03. Permanent Notes/2D array constant time query update.md"
-    },
-    {
-      "basename": "2차원 구간합, 부분합",
-      "path": "03. Permanent Notes/2차원 구간합, 부분합.md"
-    },
-    {
-      "basename": "2 Phase Commit",
-      "path": "03. Permanent Notes/2 Phase Commit.md"
-    },
-    {
-      "basename": "1D array constant time query update",
-      "path": "03. Permanent Notes/1D array constant time query update.md"
-    },
-    {
-      "basename": "%Z법",
-      "path": "03. Permanent Notes/%Z법.md"
     }
   ],
   "omittedPaths": [],
