@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
       "basename": "%Z법",
       "path": "영구노트/%Z법.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "postit__green",
       "path": "Excalidraw/images/postit__green.png"
-    },
-    {
-      "basename": "전계",
-      "path": "영구노트/전계.md"
     }
   ],
   "omittedPaths": [],
