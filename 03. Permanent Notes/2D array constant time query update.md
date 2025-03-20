@@ -1,11 +1,12 @@
 ---
 tags:
-  - 완성
   - 알고리즘
   - PrefixSum
 aliases: 
 title: 2D array constant time query update
-date: 2023-11-04
+created: 2023-11-04
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

@@ -1,10 +1,11 @@
 ---
 tags:
-  - 완성
   - 분산시스템
 aliases: 
-date: 2024-12-18
+created: 2024-12-18
 title: 2PC 장애 복구 전략
+note-type: COMMON
+completed: true
 ---
 
 ## 내용(Content)

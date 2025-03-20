@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "AutoCommon",
+      "path": "templaters/commander/AutoCommon.md"
+    },
+    {
+      "basename": "4단자망",
+      "path": "03. Permanent Notes/4단자망.md"
+    },
+    {
+      "basename": "3 Phase Commit",
+      "path": "03. Permanent Notes/3 Phase Commit.md"
+    },
+    {
+      "basename": "2PC 장애 복구 전략",
+      "path": "03. Permanent Notes/2PC 장애 복구 전략.md"
+    },
+    {
+      "basename": "2D array constant time query update",
+      "path": "03. Permanent Notes/2D array constant time query update.md"
+    },
+    {
       "basename": "2차원 구간합, 부분합",
       "path": "03. Permanent Notes/2차원 구간합, 부분합.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "725. Split LinkedList in Parts",
       "path": "03. Permanent Notes/725. Split LinkedList in Parts.md"
-    },
-    {
-      "basename": "153. Find Minimum in Rotated Sorted Array",
-      "path": "03. Permanent Notes/153. Find Minimum in Rotated Sorted Array.md"
-    },
-    {
-      "basename": "35. Search Insert Position",
-      "path": "03. Permanent Notes/35. Search Insert Position.md"
-    },
-    {
-      "basename": "26가지 프롬프트 엔지니어링 꿀팁",
-      "path": "03. Permanent Notes/26가지 프롬프트 엔지니어링 꿀팁.md"
-    },
-    {
-      "basename": "4단자망",
-      "path": "03. Permanent Notes/4단자망.md"
-    },
-    {
-      "basename": "3 Phase Commit",
-      "path": "03. Permanent Notes/3 Phase Commit.md"
     }
   ],
   "omittedPaths": [],
