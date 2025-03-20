@@ -6,8 +6,8 @@ tags:
   - 에이전트
 aliases:
   - 순차채팅패턴
-date: 2025-01-14
 title: AutoGen 순차적 채팅 패턴
+created: 2025-01-14T00:00:00.000Z
 ---
 
 ## 내용

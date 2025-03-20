@@ -5,8 +5,8 @@ tags:
   - MySQL
 aliases:
   - CONCAT_WS
-date: 2024-06-14
 title: 중간에 문자 삽입하기
+created: 2024-06-14T00:00:00.000Z
 ---
 작성 날짜: 2024-06-14
 작성 시간: 03:07

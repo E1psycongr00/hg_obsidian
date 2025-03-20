@@ -6,8 +6,8 @@ tags:
 aliases:
   - 프로세스
   - 프로세스 기본
-date: 2024-12-09
 title: Process Basic
+created: 2024-12-09T00:00:00.000Z
 ---
 
 ----

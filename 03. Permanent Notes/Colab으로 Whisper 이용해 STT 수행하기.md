@@ -5,9 +5,9 @@ tags:
   - OpenAI
   - Whisper
   - STT
-aliases: 
-date: 2024-05-21
+aliases: null
 title: Colab으로 Whisper 사용하기
+created: 2024-05-21T00:00:00.000Z
 ---
 작성 날짜: 2024-05-21
 작성 시간: 16:45

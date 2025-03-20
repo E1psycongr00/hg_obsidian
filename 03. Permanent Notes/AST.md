@@ -6,7 +6,7 @@ tags:
 aliases:
   - Abstract Syntax Tree
 title: AST
-date: 2024-02-23
+created: 2024-02-23T00:00:00.000Z
 ---
 작성 날짜: 2024-02-23
 작성 시간: 11:54

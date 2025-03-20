@@ -4,8 +4,8 @@ tags:
   - Typescript
 aliases:
   - ts question mark parameter
-date: 2024-03-03
 title: typescript question mark parameter
+created: 2024-03-03T00:00:00.000Z
 ---
 작성 날짜: 2024-03-03
 작성 시간: 11:52

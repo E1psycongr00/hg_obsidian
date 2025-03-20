@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Class Loader 메서드
-date: 2023-10-10
+created: 2023-10-10T00:00:00.000Z
 ---
 작성 날짜: 2023-10-10
 작성 시간: 15:37

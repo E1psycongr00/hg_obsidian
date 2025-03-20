@@ -4,9 +4,9 @@ tags:
   - 알고리즘
   - 이분탐색
   - 스니펫
-aliases: 
+aliases: null
 title: upper bound
-date: 2024-02-16
+created: 2024-02-16T00:00:00.000Z
 ---
 작성 날짜: 2024-02-16
 작성 시간: 10:54

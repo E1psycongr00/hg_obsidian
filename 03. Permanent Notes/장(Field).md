@@ -5,8 +5,8 @@ tags:
 aliases:
   - 장
   - Field
-date: 2025-02-02
 title: 장(Field)
+created: 2025-02-02T00:00:00.000Z
 ---
 
 ---

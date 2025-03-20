@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "비선점형 스케줄러",
+      "path": "03. Permanent Notes/비선점형 스케줄러.md"
+    },
+    {
+      "basename": "분산 트랜잭션 종류별 특징",
+      "path": "03. Permanent Notes/분산 트랜잭션 종류별 특징.md"
+    },
+    {
+      "basename": "분산 시스템 합의 알고리즘",
+      "path": "03. Permanent Notes/분산 시스템 합의 알고리즘.md"
+    },
+    {
+      "basename": "분산 트랜잭션",
+      "path": "03. Permanent Notes/분산 트랜잭션.md"
+    },
+    {
+      "basename": "분극",
+      "path": "03. Permanent Notes/분극.md"
+    },
+    {
+      "basename": "부하 테스트의 가용성과 확장성의 정의",
+      "path": "03. Permanent Notes/부하 테스트의 가용성과 확장성의 정의.md"
+    },
+    {
+      "basename": "부하 테스트 개념",
+      "path": "03. Permanent Notes/부하 테스트 개념.md"
+    },
+    {
+      "basename": "부분합, 누적합",
+      "path": "03. Permanent Notes/부분합, 누적합.md"
+    },
+    {
+      "basename": "부분적분법",
+      "path": "03. Permanent Notes/부분적분법.md"
+    },
+    {
       "basename": "본능의 목소리에 귀울여라 by donald trump",
       "path": "03. Permanent Notes/본능의 목소리에 귀울여라 by donald trump.md"
     },
@@ -63,42 +99,6 @@
     {
       "basename": "무한 평면의 전계",
       "path": "03. Permanent Notes/무한 평면의 전계.md"
-    },
-    {
-      "basename": "무한 평면에 접해있는 두 유전체 사이의 힘",
-      "path": "03. Permanent Notes/무한 평면에 접해있는 두 유전체 사이의 힘.md"
-    },
-    {
-      "basename": "무료와 독점 JDK 모음",
-      "path": "03. Permanent Notes/무료와 독점 JDK 모음.md"
-    },
-    {
-      "basename": "메커니즘",
-      "path": "03. Permanent Notes/메커니즘.md"
-    },
-    {
-      "basename": "몽키 패치",
-      "path": "03. Permanent Notes/몽키 패치.md"
-    },
-    {
-      "basename": "무거운 짐을 함부러 버리지마라 by 이경규",
-      "path": "03. Permanent Notes/무거운 짐을 함부러 버리지마라 by 이경규.md"
-    },
-    {
-      "basename": "메서드 return에 java bean validation 적용 및 테스트",
-      "path": "03. Permanent Notes/메서드 return에 java bean validation 적용 및 테스트.md"
-    },
-    {
-      "basename": "멀티 태스킹 관점에서 Context Switching 이해",
-      "path": "03. Permanent Notes/멀티 태스킹 관점에서 Context Switching 이해.md"
-    },
-    {
-      "basename": "멀티 쓰레드 모델",
-      "path": "03. Permanent Notes/멀티 쓰레드 모델.md"
-    },
-    {
-      "basename": "맥스웰 방정식",
-      "path": "03. Permanent Notes/맥스웰 방정식.md"
     }
   ],
   "omittedPaths": [],

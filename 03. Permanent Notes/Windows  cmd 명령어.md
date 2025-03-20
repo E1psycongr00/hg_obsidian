@@ -3,9 +3,9 @@ tags:
   - 완성
   - Windows
   - OS
-aliases: 
+aliases: null
 title: Windows cmd 명령어
-date: 2023-12-22
+created: 2023-12-22T00:00:00.000Z
 ---
 작성 날짜: 2023-12-22
 작성 시간: 16:48

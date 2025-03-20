@@ -6,8 +6,8 @@ tags:
 aliases:
   - 쓰레드 생명주기
   - 쓰레드 상태
-date: 2024-12-10
 title: Thread LifeCycle
+created: 2024-12-10T00:00:00.000Z
 ---
 
 ----

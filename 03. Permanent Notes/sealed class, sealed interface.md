@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
-date: 2024-10-07
-title: sealed class, sealed interface
+aliases: null
+title: 'sealed class, sealed interface'
+created: 2024-10-07T00:00:00.000Z
 ---
 작성 날짜: 2024-10-07
 작성 시간: 17:22

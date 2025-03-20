@@ -4,9 +4,9 @@ tags:
   - OS
   - Process
   - Thread
-aliases: 
-date: 2024-12-09
+aliases: null
 title: Process vs Thread
+created: 2024-12-09T00:00:00.000Z
 ---
 
 ----

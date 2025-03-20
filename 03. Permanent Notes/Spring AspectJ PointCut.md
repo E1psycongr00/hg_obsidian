@@ -6,8 +6,8 @@ tags:
   - AOP
 aliases:
   - PointCut
-date: 2024-10-30
 title: Spring AspectJ PointCut
+created: 2024-10-30T00:00:00.000Z
 ---
 작성 날짜: 2024-10-30
 작성 시간: 12:34

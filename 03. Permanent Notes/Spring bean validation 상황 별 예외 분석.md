@@ -4,9 +4,9 @@ tags:
   - JAVA
   - Spring
   - Validation
-aliases: 
+aliases: null
 title: Spring bean validation 상황 별 예외 분석
-date: 2023-11-10
+created: 2023-11-10T00:00:00.000Z
 ---
 작성 날짜: 2023-11-10
 작성 시간: 18:36

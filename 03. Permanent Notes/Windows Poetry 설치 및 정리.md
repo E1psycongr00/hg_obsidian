@@ -5,8 +5,8 @@ tags:
   - Poetry
 aliases:
   - Poetry 설치
-date: 2024-09-13
 title: Windows Poetry 설치 및 정리
+created: 2024-09-13T00:00:00.000Z
 ---
 작성 날짜: 2024-09-13
 작성 시간: 18:14

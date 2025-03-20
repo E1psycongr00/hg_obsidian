@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - 알고리즘
   - UnionFind
-aliases: 
+aliases: null
 title: UnionFind 그룹별 갯수 구하기
-date: 2023-12-12
+created: 2023-12-12T00:00:00.000Z
 ---
 작성 날짜: 2023-12-12
 작성 시간: 16:18

@@ -5,9 +5,9 @@ tags:
   - Git
   - GitHook
   - Commit
-aliases: 
+aliases: null
 title: Husky
-date: 2024-02-22
+created: 2024-02-22T00:00:00.000Z
 ---
 작성 날짜: 2024-02-22
 작성 시간: 12:53

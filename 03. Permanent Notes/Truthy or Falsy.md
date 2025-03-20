@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JS
-aliases: 
+aliases: null
 title: Truthy or Falsy
-date: 2024-02-07
+created: 2024-02-07T00:00:00.000Z
 ---
 작성 날짜: 2024-02-07
 작성 시간: 21:18

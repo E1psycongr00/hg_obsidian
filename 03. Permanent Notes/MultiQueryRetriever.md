@@ -7,8 +7,8 @@ tags:
   - Retriever
 aliases:
   - 다중 쿼리 검색기
-date: 2024-09-27
 title: MultiQueryRetriever
+created: 2024-09-27T00:00:00.000Z
 ---
 작성 날짜: 2024-09-27
 작성 시간: 13:38

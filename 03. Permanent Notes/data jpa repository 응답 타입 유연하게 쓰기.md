@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - JPA
-aliases: 
+aliases: null
 title: data jpa repository 응답 타입 유연하게 쓰기
-date: 2023-10-26
+created: 2023-10-26T00:00:00.000Z
 ---
 작성 날짜: 2023-10-26
 작성 시간: 19:21

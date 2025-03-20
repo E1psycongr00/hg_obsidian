@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - Python
   - 단축평가
-aliases: 
-date: 
+aliases: null
 title: Python에서 Optional한 데이터 잘 활용하기
+created: null
 ---
 작성 날짜: 2024-09-26
 작성 시간: 12:37

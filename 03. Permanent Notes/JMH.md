@@ -8,8 +8,8 @@ tags:
 aliases:
   - Java MicroBenchmark Harness
   - Java Micro Benchmark
-date: 2024-05-03
 title: JMH
+created: 2024-05-03T00:00:00.000Z
 ---
 작성 날짜: 2024-05-03
 작성 시간: 19:33

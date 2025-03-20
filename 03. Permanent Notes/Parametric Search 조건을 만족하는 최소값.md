@@ -3,9 +3,9 @@ tags:
   - 완성
   - 알고리즘
   - 이분탐색
-aliases: 
+aliases: null
 title: Parametric Search 조건을 만족하는 최소값
-date: 2024-02-16
+created: 2024-02-16T00:00:00.000Z
 ---
 작성 날짜: 2024-02-16
 작성 시간: 22:19

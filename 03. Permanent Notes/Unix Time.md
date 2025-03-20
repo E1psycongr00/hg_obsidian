@@ -2,9 +2,9 @@
 tags:
   - 완성
   - CS
-aliases: 
+aliases: null
 title: Unix Time
-date: 2023-12-15
+created: 2023-12-15T00:00:00.000Z
 ---
 작성 날짜: 2023-12-15
 작성 시간: 17:25

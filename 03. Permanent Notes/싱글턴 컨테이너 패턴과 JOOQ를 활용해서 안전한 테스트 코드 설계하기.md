@@ -6,9 +6,9 @@ tags:
   - 테스트
   - TestContainer
   - JOOQ
-aliases: 
-date: 2024-11-04
+aliases: null
 title: 싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기
+created: 2024-11-04T00:00:00.000Z
 ---
 작성 날짜: 2024-11-04
 작성 시간: 20:41

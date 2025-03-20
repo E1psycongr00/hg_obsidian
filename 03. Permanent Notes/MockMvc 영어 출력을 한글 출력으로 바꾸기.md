@@ -5,9 +5,9 @@ tags:
   - JAVA
   - 테스트
   - JUnit
-aliases: 
+aliases: null
 title: MockMvc 영어 출력을 한글 출력으로 바꾸기
-date: 2023-11-10
+created: 2023-11-10T00:00:00.000Z
 ---
 작성 날짜: 2023-11-10
 작성 시간: 23:10

@@ -3,9 +3,9 @@ tags:
   - 완성
   - d3js
   - DataVisualization
-aliases: 
-date: 2024-03-03
+aliases: null
 title: d3js & react 예제
+created: 2024-03-03T00:00:00.000Z
 ---
 작성 날짜: 2024-03-03
 작성 시간: 11:06

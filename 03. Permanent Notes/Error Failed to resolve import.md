@@ -5,9 +5,9 @@ tags:
   - JS
   - NextJS
   - Vitest
-aliases: 
+aliases: null
 title: Error Failed to resolve import
-date: 2024-02-27
+created: 2024-02-27T00:00:00.000Z
 ---
 작성 날짜: 2024-02-27
 작성 시간: 16:11

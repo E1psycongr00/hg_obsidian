@@ -3,9 +3,9 @@ tags:
   - 완성
   - 설문조사
   - 통계
-aliases: 
+aliases: null
 title: Stack overflow 개발자 설문 조사
-date: 2023-12-01
+created: 2023-12-01T00:00:00.000Z
 ---
 
 작성 날짜: 2023-12-01

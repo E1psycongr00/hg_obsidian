@@ -3,9 +3,9 @@ tags:
   - 완성
   - Langchain
   - LLM
-aliases: 
-date: 2024-09-24
+aliases: null
 title: Langchain이란
+created: 2024-09-24T00:00:00.000Z
 ---
 작성 날짜: 2024-09-24
 작성 시간: 14:37

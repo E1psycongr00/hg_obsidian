@@ -3,9 +3,9 @@ tags:
   - 완성
   - SQL
   - MySQL
-aliases: 
-date: 2024-05-10
+aliases: null
 title: MySQL 비트 연산
+created: 2024-05-10T00:00:00.000Z
 ---
 작성 날짜: 2024-05-10
 작성 시간: 20:55

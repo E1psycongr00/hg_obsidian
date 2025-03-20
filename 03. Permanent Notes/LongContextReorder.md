@@ -7,8 +7,8 @@ tags:
   - Retriever
 aliases:
   - 긴 문맥 정렬기
-date: 2024-09-27
 title: LongContextReorder
+created: 2024-09-27T00:00:00.000Z
 ---
 작성 날짜: 2024-09-27
 작성 시간: 21:13

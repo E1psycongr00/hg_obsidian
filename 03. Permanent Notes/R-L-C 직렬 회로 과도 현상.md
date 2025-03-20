@@ -3,9 +3,9 @@ tags:
   - 완성
   - 회로이론
   - 제어공학
-aliases: 
-date:
-title: "R-L-C 직렬 회로 과도 현상"
+aliases: null
+title: R-L-C 직렬 회로 과도 현상
+created: null
 ---
 
 ---

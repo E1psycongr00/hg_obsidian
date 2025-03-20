@@ -8,7 +8,7 @@ aliases:
   - 커널 레벨 쓰레드
   - KLT
 title: Kernel Level Thread
-date: 2024-01-21
+created: 2024-01-21T00:00:00.000Z
 ---
 작성 날짜: 2024-01-21
 작성 시간: 23:30

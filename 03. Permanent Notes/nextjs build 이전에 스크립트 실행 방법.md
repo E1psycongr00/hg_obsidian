@@ -4,9 +4,9 @@ tags:
   - Typescript
   - NextJS
   - 빌드
-aliases: 
-date: 2024-04-03
+aliases: null
 title: nextjs build 이전에 스크립트 실행 방법
+created: 2024-04-03T00:00:00.000Z
 ---
 작성 날짜: 2024-04-03
 작성 시간: 20:26

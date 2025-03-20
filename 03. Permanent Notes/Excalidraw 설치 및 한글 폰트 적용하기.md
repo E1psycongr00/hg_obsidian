@@ -2,9 +2,9 @@
 tags:
   - 완성
   - 솔루션
-aliases: 
+aliases: null
 title: Excalidraw 설치 및 한글 폰트 적용하기
-date: 2023-10-04
+created: 2023-10-04T00:00:00.000Z
 ---
 작성 날짜: 2023-10-04
 작성 시간: 09:33

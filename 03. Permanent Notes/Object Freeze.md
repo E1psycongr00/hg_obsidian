@@ -3,9 +3,9 @@ tags:
   - 완성
   - JS
   - Object
-aliases: 
+aliases: null
 title: Object Freeze
-date: 2024-02-10
+created: 2024-02-10T00:00:00.000Z
 ---
 작성 날짜: 2024-02-10
 작성 시간: 13:09

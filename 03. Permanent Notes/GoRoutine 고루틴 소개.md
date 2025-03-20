@@ -8,7 +8,7 @@ aliases:
   - 고루틴
   - GoRoutine
 title: GoRoutine 고루틴 소개
-date: 2023-12-17
+created: 2023-12-17T00:00:00.000Z
 ---
 작성 날짜: 2023-12-17
 작성 시간: 20:03

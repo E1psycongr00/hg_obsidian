@@ -2,9 +2,9 @@
 tags:
   - 완성
   - Gradle
-aliases: 
+aliases: null
 title: Task create vs register
-date: 2023-10-19
+created: 2023-10-19T00:00:00.000Z
 ---
 작성 날짜: 2023-10-19
 작성 시간: 16:31

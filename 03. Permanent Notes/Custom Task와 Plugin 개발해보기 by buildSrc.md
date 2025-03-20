@@ -3,9 +3,9 @@ tags:
   - 완성
   - IT
   - Gradle
-aliases: 
+aliases: null
 title: Custom Task와 Plugin 개발해보기 by buildSrc
-date: 2023-10-16
+created: 2023-10-16T00:00:00.000Z
 ---
 작성 날짜: 2023-10-16
 작성 시간: 23:48

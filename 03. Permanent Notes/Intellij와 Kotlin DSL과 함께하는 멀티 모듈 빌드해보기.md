@@ -3,9 +3,9 @@ tags:
   - 완성
   - IT
   - Gradle
-aliases: 
+aliases: null
 title: Intellij와 Kotlin DSL과 함께하는 멀티 모듈 빌드해보기
-date: 2023-10-16
+created: 2023-10-16T00:00:00.000Z
 ---
 작성 날짜: 2023-10-16
 작성 시간: 23:43

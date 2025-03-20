@@ -2,9 +2,9 @@
 tags:
   - 완성
   - graph
-aliases: 
+aliases: null
 title: Adamic Adars
-date: 2023-10-16
+created: 2023-10-16T00:00:00.000Z
 ---
 
 

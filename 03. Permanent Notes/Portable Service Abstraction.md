@@ -5,8 +5,8 @@ tags:
   - Spring
 aliases:
   - PSA
-date: 2024-10-28
 title: Portable Service Abstraction
+created: 2024-10-28T00:00:00.000Z
 ---
 작성 날짜: 2024-10-28
 작성 시간: 15:31

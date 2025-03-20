@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Java에서 몽키 패치 활용 예시
-date: 2024-02-05
+created: 2024-02-05T00:00:00.000Z
 ---
 작성 날짜: 2024-02-05
 작성 시간: 11:52

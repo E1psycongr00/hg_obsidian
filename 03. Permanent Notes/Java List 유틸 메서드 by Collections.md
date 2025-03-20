@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Java List 유틸 메서드 by Collections
-date: 2023-10-23
+created: 2023-10-23T00:00:00.000Z
 ---
 작성 날짜: 2023-10-23
 작성 시간: 14:39

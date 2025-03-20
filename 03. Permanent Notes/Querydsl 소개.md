@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - QueryDSL
-aliases: 
+aliases: null
 title: Querydsl 소개
-date: 2023-10-05
+created: 2023-10-05T00:00:00.000Z
 ---
 작성 날짜: 2023-10-05
 작성 시간: 11:46

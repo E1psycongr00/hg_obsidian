@@ -4,9 +4,9 @@ tags:
   - CS
   - JAVA
   - Synchronization
-aliases: 
+aliases: null
 title: Java Monitor
-date: 2024-01-20
+created: 2024-01-20T00:00:00.000Z
 ---
 작성 날짜: 2024-01-20
 작성 시간: 19:17

@@ -5,9 +5,9 @@ tags:
   - VSCode
   - Github
   - Plugin
-aliases: 
-date: 2024-11-06
+aliases: null
 title: VSCode Github PR Plugin Issue 기반 브랜치 전략 개발
+created: 2024-11-06T00:00:00.000Z
 ---
 작성 날짜: 2024-11-06
 작성 시간: 19:31

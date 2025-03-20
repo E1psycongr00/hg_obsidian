@@ -2,9 +2,9 @@
 tags:
   - 완성
   - Gradle
-aliases: 
+aliases: null
 title: Gradle Build Life Cycle
-date: 2023-10-17
+created: 2023-10-17T00:00:00.000Z
 ---
 작성 날짜: 2023-10-17
 작성 시간: 20:22

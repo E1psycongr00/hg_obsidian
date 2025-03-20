@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
-date: 2024-04-24
+aliases: null
 title: AutoCloseable
+created: 2024-04-24T00:00:00.000Z
 ---
 작성 날짜: 2024-04-24
 작성 시간: 18:47

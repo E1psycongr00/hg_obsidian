@@ -4,9 +4,9 @@ tags:
   - OS
   - CPU
   - Process
-aliases: 
+aliases: null
 title: CPU 스케줄링 알고리즘
-date: 2024-01-16
+created: 2024-01-16T00:00:00.000Z
 ---
 작성 날짜: 2024-01-16
 작성 시간: 21:50

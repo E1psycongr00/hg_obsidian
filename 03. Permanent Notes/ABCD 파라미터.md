@@ -3,9 +3,9 @@ tags:
   - 완성
   - 회로이론
   - 제어공학
-aliases: 
-date: 2025-02-20
+aliases: null
 title: ABCD 파라미터
+created: 2025-02-20T00:00:00.000Z
 ---
 
 ---

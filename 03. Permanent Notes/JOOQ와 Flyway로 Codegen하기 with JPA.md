@@ -3,9 +3,9 @@ tags:
   - 완성
   - Gradle
   - Flyway
-aliases: 
-date: 2024-11-21
+aliases: null
 title: JOOQ와 Flyway로 Codegen하기
+created: 2024-11-21T00:00:00.000Z
 ---
 작성 날짜: 2024-11-21
 작성 시간: 18:27

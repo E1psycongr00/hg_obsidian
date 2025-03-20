@@ -8,8 +8,8 @@ tags:
 aliases:
   - 유의적 버전 명세
   - SemVer
-date: 2024-03-15
 title: Semantic Versioning 체계
+created: 2024-03-15T00:00:00.000Z
 ---
 작성 날짜: 2024-03-15
 작성 시간: 18:07

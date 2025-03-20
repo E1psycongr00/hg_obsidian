@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JS
-aliases: 
+aliases: null
 title: shorthand property names
-date: 2024-02-08
+created: 2024-02-08T00:00:00.000Z
 ---
 작성 날짜: 2024-02-08
 작성 시간: 20:49

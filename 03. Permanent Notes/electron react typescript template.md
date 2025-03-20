@@ -5,9 +5,9 @@ tags:
   - Electron
   - React
   - Typescript
-aliases: 
-date: 2024-08-07
+aliases: null
 title: electron react typescript
+created: 2024-08-07T00:00:00.000Z
 ---
 작성 날짜: 2024-08-07
 작성 시간: 18:48

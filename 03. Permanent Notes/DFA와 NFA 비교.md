@@ -2,9 +2,9 @@
 tags:
   - 완성
   - 유한오토마타
-aliases: 
-date: 2024-12-06
+aliases: null
 title: DFA와 NFA 차이점
+created: 2024-12-06T00:00:00.000Z
 ---
 작성 날짜: 2024-12-06
 작성 시간: 16:02

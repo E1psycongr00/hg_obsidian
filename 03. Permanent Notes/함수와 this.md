@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JS
-aliases: 
+aliases: null
 title: 함수와 this
-date: 2024-02-09
+created: 2024-02-09T00:00:00.000Z
 ---
 작성 날짜: 2024-02-09
 작성 시간: 14:07

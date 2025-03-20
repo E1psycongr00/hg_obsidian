@@ -6,7 +6,7 @@ tags:
 aliases:
   - Synchronous Blocking IO
 title: Blocking IO
-date: 224-01-26
+created: 224-01-26
 ---
 
 ----

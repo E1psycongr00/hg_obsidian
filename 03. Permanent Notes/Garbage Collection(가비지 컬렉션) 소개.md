@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - GC
-aliases: 
+aliases: null
 title: Garbage Collection(가비지 컬렉션) 소개
-date: 2023-10-11
+created: 2023-10-11T00:00:00.000Z
 ---
 작성 날짜: 2023-10-11
 작성 시간: 09:59

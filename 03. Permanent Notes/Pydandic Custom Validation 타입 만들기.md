@@ -5,9 +5,9 @@ tags:
   - Python
   - Validation
   - Pydantic
-aliases: 
-date: 2024-09-28
+aliases: null
 title: Pydandic Custom Validation 타입 만들기
+created: 2024-09-28T00:00:00.000Z
 ---
 작성 날짜: 2024-09-28
 작성 시간: 16:40

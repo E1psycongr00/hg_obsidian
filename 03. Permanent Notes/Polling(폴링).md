@@ -2,9 +2,9 @@
 tags:
   - 완성
   - CS
-aliases: 
+aliases: null
 title: Polling(폴링)
-date: 2023-10-06
+created: 2023-10-06T00:00:00.000Z
 ---
 
 

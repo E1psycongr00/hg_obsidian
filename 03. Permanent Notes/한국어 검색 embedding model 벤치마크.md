@@ -2,9 +2,9 @@
 tags:
   - 완성
   - BenchMark
-aliases: 
-date: 2024-10-01
+aliases: null
 title: 한국어 검색 embedding model 벤치마크
+created: 2024-10-01T00:00:00.000Z
 ---
 작성 날짜: 2024-10-01
 작성 시간: 10:17

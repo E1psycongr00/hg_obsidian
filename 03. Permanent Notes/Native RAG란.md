@@ -6,8 +6,8 @@ tags:
   - RAG
 aliases:
   - Native RAG
-date: 2024-10-04
 title: Native RAG란
+created: 2024-10-04T00:00:00.000Z
 ---
 작성 날짜: 2024-10-04
 작성 시간: 15:37

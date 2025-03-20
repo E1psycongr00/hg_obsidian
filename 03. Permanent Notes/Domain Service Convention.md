@@ -4,9 +4,9 @@ tags:
   - JAVA
   - 객체지향
   - DDD
-aliases: 
-date: 2024-10-16
+aliases: null
 title: Domain Service Convention
+created: 2024-10-16T00:00:00.000Z
 ---
 작성 날짜: 2024-10-16
 작성 시간: 21:48

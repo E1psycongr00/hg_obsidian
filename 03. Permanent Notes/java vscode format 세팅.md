@@ -3,9 +3,9 @@ tags:
   - 완성
   - VSCode
   - JAVA
-aliases: 
-date: 2024-10-31
+aliases: null
 title: java vscode format 세팅
+created: 2024-10-31T00:00:00.000Z
 ---
 작성 날짜: 2024-10-31
 작성 시간: 17:25

@@ -5,9 +5,9 @@ tags:
   - JAVA
   - Spring
   - Validation
-aliases: 
+aliases: null
 title: Spring Bean Validation 커스텀 메시지 작성하기(최종)
-date: 2023-11-11
+created: 2023-11-11T00:00:00.000Z
 ---
 작성 날짜: 2023-11-11
 작성 시간: 00:13

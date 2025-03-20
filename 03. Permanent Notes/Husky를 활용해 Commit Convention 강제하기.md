@@ -4,9 +4,9 @@ tags:
   - Husky
   - JS
   - Commit
-aliases: 
+aliases: null
 title: Husky를 활용해 Commit Convention 강제하기
-date: 2024-02-22
+created: 2024-02-22T00:00:00.000Z
 ---
 작성 날짜: 2024-02-22
 작성 시간: 13:10

@@ -2,9 +2,9 @@
 tags:
   - 완성
   - 빌드
-aliases: 
+aliases: null
 title: 컴파일(compile)과 빌드(build) 개념
-date: 2023-10-06
+created: 2023-10-06T00:00:00.000Z
 ---
 
 작성 날짜: 2023-10-06

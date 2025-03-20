@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "fc7b4a75c3685b03",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "850e4aed3af0c41a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/본능의 목소리에 귀울여라 by donald trump.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "본능의 목소리에 귀울여라 by donald trump"
+              "title": "새 탭"
             }
           }
         ]
@@ -99,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "03. Permanent Notes/본능의 목소리에 귀울여라 by donald trump.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "본능의 목소리에 귀울여라 by donald trump 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -294,13 +287,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/본능의 목소리에 귀울여라 by donald trump.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "본능의 목소리에 귀울여라 by donald trump 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -333,8 +325,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "850e4aed3af0c41a",
   "lastOpenFiles": [
+    "03. Permanent Notes/비선점형 스케줄러.md",
+    "03. Permanent Notes/분산 트랜잭션 종류별 특징.md",
+    "03. Permanent Notes/분산 시스템 합의 알고리즘.md",
+    "03. Permanent Notes/분산 트랜잭션.md",
+    "03. Permanent Notes/분극.md",
+    "03. Permanent Notes/부하 테스트의 가용성과 확장성의 정의.md",
+    "03. Permanent Notes/부하 테스트 개념.md",
+    "03. Permanent Notes/부분합, 누적합.md",
+    "03. Permanent Notes/부분적분법.md",
+    "03. Permanent Notes/본능의 목소리에 귀울여라 by donald trump.md",
     "03. Permanent Notes/변위 전류 식 유도.md",
     "03. Permanent Notes/변위 전류.md",
     "03. Permanent Notes/벡터의 외적.md",
@@ -351,16 +353,6 @@
     "03. Permanent Notes/뮤텍스(Mutex).md",
     "03. Permanent Notes/무한 평면의 전계.md",
     "03. Permanent Notes/무한 평면에 접해있는 두 유전체 사이의 힘.md",
-    "03. Permanent Notes/무료와 독점 JDK 모음.md",
-    "03. Permanent Notes/메커니즘.md",
-    "03. Permanent Notes/몽키 패치.md",
-    "03. Permanent Notes/무거운 짐을 함부러 버리지마라 by 이경규.md",
-    "03. Permanent Notes/메서드 return에 java bean validation 적용 및 테스트.md",
-    "03. Permanent Notes/멀티 태스킹 관점에서 Context Switching 이해.md",
-    "03. Permanent Notes/멀티 쓰레드 모델.md",
-    "03. Permanent Notes/맥스웰 방정식.md",
-    "03. Permanent Notes/매개변수 탐색 최소 & 최대 해 구하기.md",
-    "03. Permanent Notes/리스코프 치환 원칙(Liskov Substitution Principle).md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",

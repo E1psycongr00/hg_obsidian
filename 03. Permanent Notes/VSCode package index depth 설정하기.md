@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - VSCode
   - Python
-aliases: 
-date: 2024-09-25
+aliases: null
 title: VSCode package index depth 설정하기
+created: 2024-09-25T00:00:00.000Z
 ---
 작성 날짜: 2024-09-25
 작성 시간: 14:52

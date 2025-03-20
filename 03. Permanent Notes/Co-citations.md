@@ -2,9 +2,9 @@
 tags:
   - 완성
   - graph
-aliases: 
+aliases: null
 title: Co-citations
-date: 2023-10-16
+created: 2023-10-16T00:00:00.000Z
 ---
 작성 날짜: 2023-10-16
 작성 시간: 13:50

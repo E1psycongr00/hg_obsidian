@@ -4,9 +4,9 @@ tags:
   - JS
   - React
   - Typescript
-aliases: 
-date: 2024-08-07
+aliases: null
 title: CRA 와 Typescript 프로젝트 생성하기
+created: 2024-08-07T00:00:00.000Z
 ---
 작성 날짜: 2024-08-07
 작성 시간: 17:47

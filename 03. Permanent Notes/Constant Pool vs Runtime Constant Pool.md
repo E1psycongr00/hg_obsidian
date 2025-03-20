@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Constant Pool vs Runtime Constant Pool
-date: 2023-10-13
+created: 2023-10-13T00:00:00.000Z
 ---
 작성 날짜: 2023-10-13
 작성 시간: 16:29

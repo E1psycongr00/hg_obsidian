@@ -8,8 +8,8 @@ tags:
 aliases:
   - precondition
   - 사전조건
-date: 2025-01-10
 title: 선행 조건(Precondition)의 이해
+created: 2025-01-10T00:00:00.000Z
 ---
 
 ## 내용

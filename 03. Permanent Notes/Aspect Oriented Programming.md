@@ -6,8 +6,8 @@ tags:
   - AOP
 aliases:
   - AOP
-date: 2024-10-28
 title: Aspect Oriented Programming
+created: 2024-10-28T00:00:00.000Z
 ---
 작성 날짜: 2024-10-28
 작성 시간: 15:57

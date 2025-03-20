@@ -3,9 +3,9 @@ tags:
   - 완성
   - Gradle
   - Module
-aliases: 
-date: 2024-11-15
+aliases: null
 title: Gradle 구조화 방법
+created: 2024-11-15T00:00:00.000Z
 ---
 작성 날짜: 2024-11-15
 작성 시간: 08:45

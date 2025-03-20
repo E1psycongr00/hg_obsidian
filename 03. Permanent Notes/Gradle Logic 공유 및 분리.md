@@ -5,8 +5,8 @@ tags:
 aliases:
   - precompiled script plugin
   - buildSrc Gradle
-date: 2024-11-15
 title: Gradle Logic 공유 및 분리
+created: 2024-11-15T00:00:00.000Z
 ---
 작성 날짜: 2024-11-15
 작성 시간: 16:22

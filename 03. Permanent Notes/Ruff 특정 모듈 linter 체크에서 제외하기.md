@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - Python
   - Ruff
-aliases: 
-date: 2024-10-23
+aliases: null
 title: Ruff 특정 모듈 linter 체크에서 제외하기
+created: 2024-10-23T00:00:00.000Z
 ---
 작성 날짜: 2024-10-23
 작성 시간: 10:27

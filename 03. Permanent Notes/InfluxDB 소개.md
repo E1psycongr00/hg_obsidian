@@ -2,9 +2,9 @@
 tags:
   - 완성
   - DataBase
-aliases: 
+aliases: null
 title: InfluxDB 소개
-date: 2023-12-15
+created: 2023-12-15T00:00:00.000Z
 ---
 작성 날짜: 2023-12-15
 작성 시간: 12:54

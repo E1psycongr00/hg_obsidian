@@ -3,9 +3,9 @@ tags:
   - 완성
   - OS
   - Memory
-aliases: 
-date: 2024-12-10
+aliases: null
 title: Data 영역
+created: 2024-12-10T00:00:00.000Z
 ---
 
 작성 날짜: 2024-12-10

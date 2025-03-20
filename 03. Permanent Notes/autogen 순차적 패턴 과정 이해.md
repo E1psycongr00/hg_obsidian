@@ -3,9 +3,9 @@ tags:
   - 완성
   - AutoGen
   - 채팅시스템
-aliases: 
-date: 2025-01-14
+aliases: null
 title: autogen 순차적 패턴 과정 이해
+created: 2025-01-14T00:00:00.000Z
 ---
 
 ---

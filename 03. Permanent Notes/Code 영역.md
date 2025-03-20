@@ -7,8 +7,8 @@ aliases:
   - Code Area
   - Text Area
   - Text Segment
-date: 2024-12-10
 title: Code 영역
+created: 2024-12-10T00:00:00.000Z
 ---
 
 작성 날짜: 2024-12-10

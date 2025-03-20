@@ -6,8 +6,8 @@ aliases:
   - Python args
   - Python 인자
   - argparse
-date: 2024-05-27
 title: Python 인자 처리하기
+created: 2024-05-27T00:00:00.000Z
 ---
 작성 날짜: 2024-05-27
 작성 시간: 16:19

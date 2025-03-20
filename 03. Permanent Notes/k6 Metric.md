@@ -3,9 +3,9 @@ tags:
   - 완성
   - 부하테스트
   - K6
-aliases: 
+aliases: null
 title: k6 Metric
-date: 2023-12-07
+created: 2023-12-07T00:00:00.000Z
 ---
 작성 날짜: 2023-12-07
 작성 시간: 12:58

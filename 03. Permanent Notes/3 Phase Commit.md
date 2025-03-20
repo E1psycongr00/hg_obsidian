@@ -1,11 +1,11 @@
 ---
 tags:
   - 분산시스템
-aliases: 
-date: 2024-12-18
+aliases: null
 title: 3 Phase Commit
 note-type: COMMON
 completed: true
+created: 2024-12-18T00:00:00.000Z
 ---
 
 ## 내용(Content)

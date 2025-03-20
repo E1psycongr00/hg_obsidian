@@ -2,9 +2,9 @@
 tags:
   - 완성
   - React
-aliases: 
-date: 2024-03-07
+aliases: null
 title: Props Driling
+created: 2024-03-07T00:00:00.000Z
 ---
 작성 날짜: 2024-03-07
 작성 시간: 16:28

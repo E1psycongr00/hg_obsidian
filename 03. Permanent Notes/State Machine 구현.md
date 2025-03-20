@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - JAVA
   - 유한오토마타
-aliases: 
-date: 2024-12-06
+aliases: null
 title: State Machine 구현
+created: 2024-12-06T00:00:00.000Z
 ---
 작성 날짜: 2024-12-06
 작성 시간: 18:34

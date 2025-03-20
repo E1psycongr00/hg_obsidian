@@ -1,9 +1,9 @@
 ---
 tags:
   - Obsidian
-aliases: 
+aliases: null
 title: Obsidian tasks 쿼리 문법
-date: 2023-12-04
+created: 2023-12-04T00:00:00.000Z
 ---
 작성 날짜: 2023-12-04
 작성 시간: 14:11

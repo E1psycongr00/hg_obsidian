@@ -7,8 +7,8 @@ tags:
 aliases:
   - Return of Investment
   - ROI
-date: 2025-01-21
 title: ROI 이해하기
+created: 2025-01-21T00:00:00.000Z
 ---
 
 ---

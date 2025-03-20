@@ -6,7 +6,7 @@ tags:
 aliases:
   - web socket
 title: Web Socket이란
-date: 2023-10-07
+created: 2023-10-07T00:00:00.000Z
 ---
 작성 날짜: 2023-10-07
 작성 시간: 17:21

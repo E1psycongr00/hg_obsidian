@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - NodeJS
   - JS
-aliases: 
-date: 2024-04-04
+aliases: null
 title: node 복잡한 인자 처리하기
+created: 2024-04-04T00:00:00.000Z
 ---
 작성 날짜: 2024-04-04
 작성 시간: 13:43

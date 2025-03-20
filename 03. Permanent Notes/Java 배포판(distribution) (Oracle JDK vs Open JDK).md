@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Java 배포판(distribution) (Oracle JDK vs Open JDK)
-date: 2023-10-04
+created: 2023-10-04T00:00:00.000Z
 ---
 작성 날짜: 2023-10-04
 작성 시간: 14:33

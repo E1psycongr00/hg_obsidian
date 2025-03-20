@@ -3,9 +3,9 @@ tags:
   - 완성
   - ast
   - SyntaxTree
-aliases: 
+aliases: null
 title: markdown에 커스텀 문법 적용하기
-date: 2024-02-28
+created: 2024-02-28T00:00:00.000Z
 ---
 작성 날짜: 2024-02-28
 작성 시간: 15:04

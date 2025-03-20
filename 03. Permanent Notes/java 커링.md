@@ -5,8 +5,8 @@ tags:
   - 커링
 aliases:
   - java currying
-date: 2024-03-26
 title: java 커링
+created: 2024-03-26T00:00:00.000Z
 ---
 작성 날짜: 2024-03-26
 작성 시간: 21:07

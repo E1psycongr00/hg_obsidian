@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Java Record 사용법
-date: 2023-10-23
+created: 2023-10-23T00:00:00.000Z
 ---
 작성 날짜: 2023-10-23
 작성 시간: 12:01

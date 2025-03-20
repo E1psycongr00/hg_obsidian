@@ -3,9 +3,9 @@ tags:
   - 완성
   - Python
   - Ruff
-aliases: 
-date: 2024-10-23
+aliases: null
 title: Ruff Github Actions 예시
+created: 2024-10-23T00:00:00.000Z
 ---
 작성 날짜: 2024-10-23
 작성 시간: 10:57

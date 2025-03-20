@@ -7,8 +7,8 @@ tags:
   - Retriever
 aliases:
   - 시간 가중 벡터저장소 리트리버
-date: 2024-09-27
 title: TimeWeightedVectorStoreRetriever
+created: 2024-09-27T00:00:00.000Z
 ---
 작성 날짜: 2024-09-27
 작성 시간: 20:30

@@ -4,9 +4,9 @@ tags:
   - JAVA
   - Spring
   - databinding
-aliases: 
+aliases: null
 title: Spring ConverterFactory
-date: 2023-11-24
+created: 2023-11-24T00:00:00.000Z
 ---
 작성 날짜: 2023-11-24
 작성 시간: 14:05

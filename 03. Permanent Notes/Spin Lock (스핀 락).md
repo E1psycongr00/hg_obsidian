@@ -9,7 +9,7 @@ aliases:
   - Spin Lock
   - 스핀 락
 title: Spin Lock (스핀 락)
-date: 2024-01-11
+created: 2024-01-11T00:00:00.000Z
 ---
 작성 날짜: 2024-01-11
 작성 시간: 20:01

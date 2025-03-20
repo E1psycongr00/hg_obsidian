@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - GC
-aliases: 
+aliases: null
 title: Mark And Sweep
-date: 2023-10-16
+created: 2023-10-16T00:00:00.000Z
 ---
 작성 날짜: 2023-10-16
 작성 시간: 14:27

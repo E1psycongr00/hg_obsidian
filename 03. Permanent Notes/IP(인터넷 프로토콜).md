@@ -2,9 +2,9 @@
 tags:
   - 완성
   - CS
-aliases: 
+aliases: null
 title: IP(인터넷 프로토콜)
-date: 2023-11-30
+created: 2023-11-30T00:00:00.000Z
 ---
 작성 날짜: 2023-11-30
 작성 시간: 19:41

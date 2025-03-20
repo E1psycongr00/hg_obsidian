@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JS
-aliases: 
+aliases: null
 title: Array.from
-date: 2024-02-20
+created: 2024-02-20T00:00:00.000Z
 ---
 
 

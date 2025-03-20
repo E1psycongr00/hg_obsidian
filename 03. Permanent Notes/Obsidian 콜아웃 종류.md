@@ -2,9 +2,9 @@
 tags:
   - 완성
   - Obsidian
-aliases: 
+aliases: null
 title: Obsidian 콜아웃 종류
-date: 2023-11-12
+created: 2023-11-12T00:00:00.000Z
 ---
 
 

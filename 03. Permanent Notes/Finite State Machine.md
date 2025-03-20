@@ -9,8 +9,8 @@ aliases:
   - FSM
   - State Machine
   - 유한 상태 오토마타
-date: 2024-06-19
 title: Finite State Machine
+created: 2024-06-19T00:00:00.000Z
 ---
 작성 날짜: 2024-06-19
 작성 시간: 16:21

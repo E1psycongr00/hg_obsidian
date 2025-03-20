@@ -3,9 +3,9 @@ tags:
   - 완성
   - ast
   - SyntaxTree
-aliases: 
+aliases: null
 title: unified & remark & rehype 동작 과정
-date: 2024-02-28
+created: 2024-02-28T00:00:00.000Z
 ---
 작성 날짜: 2024-02-28
 작성 시간: 16:32

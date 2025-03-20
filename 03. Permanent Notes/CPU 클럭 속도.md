@@ -3,9 +3,9 @@ tags:
   - 완성
   - CS
   - CPU
-aliases: 
+aliases: null
 title: CPU 클럭 속도
-date: 2024-01-03
+created: 2024-01-03T00:00:00.000Z
 ---
 작성 날짜: 2024-01-03
 작성 시간: 16:38

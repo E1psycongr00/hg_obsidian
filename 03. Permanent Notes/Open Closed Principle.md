@@ -2,9 +2,9 @@
 tags:
   - 완성
   - 객체지향
-aliases: 
-date: 2024-10-24
+aliases: null
 title: Open Closed Principle
+created: 2024-10-24T00:00:00.000Z
 ---
 작성 날짜: 2024-10-24
 작성 시간: 12:10

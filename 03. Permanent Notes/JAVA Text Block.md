@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
-date: 2024-10-06
+aliases: null
 title: JAVA Text Block
+created: 2024-10-06T00:00:00.000Z
 ---
 작성 날짜: 2024-10-06
 작성 시간: 20:48

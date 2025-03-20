@@ -4,9 +4,9 @@ tags:
   - JAVA
   - Spring
   - AOP
-aliases: 
-date: 2024-10-28
+aliases: null
 title: Spring AspectJ
+created: 2024-10-28T00:00:00.000Z
 ---
 작성 날짜: 2024-10-28
 작성 시간: 19:41

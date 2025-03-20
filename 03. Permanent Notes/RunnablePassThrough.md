@@ -4,9 +4,9 @@ tags:
   - Python
   - Langchain
   - LCEL
-aliases: 
-date: 2024-09-30
+aliases: null
 title: RunnablePassThrough
+created: 2024-09-30T00:00:00.000Z
 ---
 작성 날짜: 2024-09-30
 작성 시간: 17:53

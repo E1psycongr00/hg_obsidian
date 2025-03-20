@@ -6,7 +6,7 @@ tags:
 aliases:
   - Synchronous non-blocking IO
 title: Non-Blocking IO
-date: 2024-01-28
+created: 2024-01-28T00:00:00.000Z
 ---
 작성 날짜: 2024-01-28
 작성 시간: 09:25

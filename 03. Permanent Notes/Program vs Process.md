@@ -2,9 +2,9 @@
 tags:
   - 완성
   - OS
-aliases: 
-date: 2024-12-09
+aliases: null
 title: Program vs Process
+created: 2024-12-09T00:00:00.000Z
 ---
 작성 날짜: 2024-12-09
 작성 시간: 12:39

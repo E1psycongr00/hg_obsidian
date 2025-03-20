@@ -7,8 +7,8 @@ tags:
   - LangGraph
 aliases:
   - with_structured_output
-date: 2024-10-19
 title: with_structured_output과 프롬프트 관계
+created: 2024-10-19T00:00:00.000Z
 ---
 작성 날짜: 2024-10-19
 작성 시간: 18:34

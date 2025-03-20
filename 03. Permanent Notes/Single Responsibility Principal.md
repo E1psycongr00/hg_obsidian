@@ -5,8 +5,8 @@ tags:
 aliases:
   - SRP
   - 단일 책임 원칙
-date: 2024-10-16
 title: Single Responsibility Principal
+created: 2024-10-16T00:00:00.000Z
 ---
 
 ## 내용

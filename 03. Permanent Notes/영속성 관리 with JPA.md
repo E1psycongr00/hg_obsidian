@@ -4,9 +4,9 @@ tags:
   - JAVA
   - Spring
   - JPA
-aliases: 
-date: 2024-12-02
+aliases: null
 title: 영속성 관리 with JPA
+created: 2024-12-02T00:00:00.000Z
 ---
 작성 날짜: 2024-12-02
 작성 시간: 18:33

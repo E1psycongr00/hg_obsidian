@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - React
   - Typescript
-aliases: 
-date: 2024-03-07
+aliases: null
 title: React Context API와 Reducer로 상태 관리하기
+created: 2024-03-07T00:00:00.000Z
 ---
 작성 날짜: 2024-03-07
 작성 시간: 22:21

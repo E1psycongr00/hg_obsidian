@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Java 파일 읽기
-date: 2023-11-07
+created: 2023-11-07T00:00:00.000Z
 ---
 작성 날짜: 2023-11-07
 작성 시간: 12:41

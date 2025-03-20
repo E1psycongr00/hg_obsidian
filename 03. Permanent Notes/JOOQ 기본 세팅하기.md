@@ -4,9 +4,9 @@ tags:
   - JAVA
   - SQL
   - JOOQ
-aliases: 
-date: 2024-08-26
+aliases: null
 title: JOOQ 기본 세팅하기
+created: 2024-08-26T00:00:00.000Z
 ---
 작성 날짜: 2024-08-26
 작성 시간: 21:02

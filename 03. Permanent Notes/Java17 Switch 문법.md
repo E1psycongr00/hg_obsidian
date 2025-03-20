@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: Java17 Switch 문법
-date: 2023-10-21
+created: 2023-10-21T00:00:00.000Z
 ---
 
 

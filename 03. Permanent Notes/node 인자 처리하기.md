@@ -8,8 +8,8 @@ aliases:
   - node args 처리하기
   - 콘솔에서 node 인자 처리
   - js args 처리하기
-date: 2024-04-04
 title: node 인자 처리하기
+created: 2024-04-04T00:00:00.000Z
 ---
 작성 날짜: 2024-04-04
 작성 시간: 13:12

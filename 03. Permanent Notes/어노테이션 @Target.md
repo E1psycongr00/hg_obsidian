@@ -4,9 +4,9 @@ tags:
   - IT
   - JAVA
   - Annotation
-aliases: 
+aliases: null
 title: 어노테이션 @Target
-date: 2023-11-10
+created: 2023-11-10T00:00:00.000Z
 ---
 작성 날짜: 2023-11-10
 작성 시간: 14:57

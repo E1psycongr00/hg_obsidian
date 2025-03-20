@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - SQL
-aliases: 
+aliases: null
 title: Spring JdbcTemplate 활용법
-date: 2023-11-13
+created: 2023-11-13T00:00:00.000Z
 ---
 작성 날짜: 2023-11-13
 작성 시간: 16:07

@@ -7,8 +7,8 @@ tags:
   - Typescript
 aliases:
   - Redux & TS
-date: 2024-03-08
 title: Redux를 활용해 React 상태 관리하기
+created: 2024-03-08T00:00:00.000Z
 ---
 작성 날짜: 2024-03-08
 작성 시간: 19:08

@@ -3,9 +3,9 @@ tags:
   - 완성
   - 회로이론
   - 제어공학
-aliases: 
-date: 2025-02-19
+aliases: null
 title: R-L직렬 회로 과도 현상
+created: 2025-02-19T00:00:00.000Z
 ---
 
 ---

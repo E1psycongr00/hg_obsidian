@@ -6,7 +6,7 @@ tags:
 aliases:
   - Universal Syntax Tree
 title: unist
-date: 2024-02-26
+created: 2024-02-26T00:00:00.000Z
 ---
 작성 날짜: 2024-02-26
 작성 시간: 23:47

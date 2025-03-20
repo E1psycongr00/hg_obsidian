@@ -3,13 +3,11 @@ tags:
   - 명언
 aliases: 
 title: 본능의 목소리에 귀울여라 by donald trump
-date: 2023-10-24
+created: 2023-10-24
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2023-10-24
-작성 시간: 14:40
 
-
-----
 ## 원문
 ![[Pasted image 20231024144128.png]]
 

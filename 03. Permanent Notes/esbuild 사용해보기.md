@@ -5,9 +5,9 @@ tags:
   - Typescript
   - Bundler
   - esbuild
-aliases: 
-date: 2024-04-05
+aliases: null
 title: esbuild 사용해보기
+created: 2024-04-05T00:00:00.000Z
 ---
 작성 날짜: 2024-04-05
 작성 시간: 15:41

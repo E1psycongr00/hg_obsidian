@@ -5,7 +5,7 @@ tags:
 aliases:
   - SOLID
 title: SOLID란 무엇인가
-date: 2023-10-03
+created: 2023-10-03T00:00:00.000Z
 ---
 
 작성 날짜: 2023-10-03

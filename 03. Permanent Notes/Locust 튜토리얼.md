@@ -3,9 +3,9 @@ tags:
   - 완성
   - 부하테스트
   - Locust
-aliases: 
+aliases: null
 title: Locust 튜토리얼
-date: 2023-12-01
+created: 2023-12-01T00:00:00.000Z
 ---
 작성 날짜: 2023-12-01
 작성 시간: 14:07

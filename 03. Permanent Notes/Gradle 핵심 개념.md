@@ -2,9 +2,9 @@
 tags:
   - 완성
   - Gradle
-aliases: 
-date: 2024-11-14
+aliases: null
 title: Gradle 핵심 개념
+created: 2024-11-14T00:00:00.000Z
 ---
 작성 날짜: 2024-11-14
 작성 시간: 10:38

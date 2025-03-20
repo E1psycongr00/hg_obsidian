@@ -5,8 +5,8 @@ tags:
   - Memory
 aliases:
   - Stack Area
-date: 2024-12-10
 title: Stack 영역
+created: 2024-12-10T00:00:00.000Z
 ---
 
 작성 날짜: 2024-12-10

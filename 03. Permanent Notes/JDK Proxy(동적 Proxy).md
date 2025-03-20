@@ -2,9 +2,9 @@
 tags:
   - 완성
   - JAVA
-aliases: 
+aliases: null
 title: JDK Proxy(동적 Proxy)
-date: 2023-11-15
+created: 2023-11-15T00:00:00.000Z
 ---
 작성 날짜: 2023-10-26
 작성 시간: 22:22

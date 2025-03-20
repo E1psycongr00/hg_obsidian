@@ -3,9 +3,9 @@ tags:
   - 완성
   - OS
   - Thread
-aliases: 
-date: 2024-12-08
+aliases: null
 title: Thread Basic
+created: 2024-12-08T00:00:00.000Z
 ---
 
 ----

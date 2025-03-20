@@ -5,9 +5,9 @@ tags:
   - AI
   - Python
   - 데이터전처리
-aliases: 
-date: 2024-06-03
+aliases: null
 title: Whisper를 활용해서 문장 별로 음원 파일과 대사 추출하기
+created: 2024-06-03T00:00:00.000Z
 ---
 작성 날짜: 2024-06-03
 작성 시간: 20:58

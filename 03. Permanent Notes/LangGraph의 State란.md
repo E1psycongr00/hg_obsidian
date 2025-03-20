@@ -7,8 +7,8 @@ tags:
 aliases:
   - State of LangGraph
   - State
-date: 2024-10-10
 title: LangGraph의 State란
+created: 2024-10-10T00:00:00.000Z
 ---
 작성 날짜: 2024-10-10
 작성 시간: 16:09

@@ -4,9 +4,9 @@ tags:
   - 솔루션
   - React
   - Typescript
-aliases: 
-date: 2024-03-07
+aliases: null
 title: State 로직을  Reducer로 분리하기
+created: 2024-03-07T00:00:00.000Z
 ---
 작성 날짜: 2024-03-07
 작성 시간: 16:49

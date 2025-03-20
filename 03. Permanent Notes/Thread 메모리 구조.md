@@ -6,8 +6,8 @@ tags:
   - Memory
 aliases:
   - Thread Memory 구조
-date: 2024-12-10
 title: Thread 메모리구조
+created: 2024-12-10T00:00:00.000Z
 ---
 
 ----

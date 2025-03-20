@@ -6,9 +6,9 @@ tags:
   - OpenAI
   - 크롤링
   - Selenium
-aliases: 
-date: 2024-05-22
+aliases: null
 title: Selenium으로 ChatGPT와 상호작용하기
+created: 2024-05-22T00:00:00.000Z
 ---
 작성 날짜: 2024-05-22
 작성 시간: 21:33

@@ -7,9 +7,9 @@ tags:
   - 배포
   - 라이브러리
   - 명세
-aliases: 
-date: 
+aliases: null
 title: npm과 버저닝
+created: null
 ---
 작성 날짜: 2024-03-15
 작성 시간: 21:37

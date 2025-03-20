@@ -3,9 +3,9 @@ tags:
   - 완성
   - IT
   - JAVA
-aliases: 
+aliases: null
 title: java 11 특징
-date: 2023-10-04
+created: 2023-10-04T00:00:00.000Z
 ---
 
 작성 날짜: 2023-10-04

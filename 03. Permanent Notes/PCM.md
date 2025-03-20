@@ -4,8 +4,8 @@ tags:
   - DSP
 aliases:
   - Pulse Code Modulation
-date: 2024-06-21
 title: PCM
+created: 2024-06-21T00:00:00.000Z
 ---
 작성 날짜: 2024-06-21
 작성 시간: 00:54

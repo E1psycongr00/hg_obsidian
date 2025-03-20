@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - SQL
-aliases: 
+aliases: null
 title: JDBC와 1대 N 조인
-date: 2023-11-15
+created: 2023-11-15T00:00:00.000Z
 ---
 작성 날짜: 2023-11-15
 작성 시간: 19:49

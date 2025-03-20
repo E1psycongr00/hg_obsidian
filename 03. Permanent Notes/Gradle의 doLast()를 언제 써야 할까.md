@@ -2,9 +2,9 @@
 tags:
   - 완성
   - Gradle
-aliases: 
+aliases: null
 title: Gradle의 doLast()를 언제 써야 할까
-date: 2023-10-19
+created: 2023-10-19T00:00:00.000Z
 ---
 작성 날짜: 2023-10-19
 작성 시간: 12:25

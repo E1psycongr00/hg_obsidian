@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - Thread
-aliases: 
+aliases: null
 title: Thread.join()
-date: 2024-01-29
+created: 2024-01-29T00:00:00.000Z
 ---
 작성 날짜: 2024-01-29
 작성 시간: 12:37

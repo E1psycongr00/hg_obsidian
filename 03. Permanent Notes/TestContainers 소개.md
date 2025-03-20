@@ -4,9 +4,9 @@ tags:
   - JAVA
   - 테스트
   - TestContainer
-aliases: 
-date: 2024-11-04
+aliases: null
 title: TestContainers 소개
+created: 2024-11-04T00:00:00.000Z
 ---
 작성 날짜: 2024-11-04
 작성 시간: 12:46

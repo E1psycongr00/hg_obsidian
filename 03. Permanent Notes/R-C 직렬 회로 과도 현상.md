@@ -4,9 +4,9 @@ tags:
   - 회로이론
   - 제어공학
   - 시스템응답
-aliases: 
-date:
-title: "R-C 직렬 회로 과도 현상"
+aliases: null
+title: R-C 직렬 회로 과도 현상
+created: null
 ---
 
 ---

@@ -3,9 +3,9 @@ tags:
   - 완성
   - 솔루션
   - Python
-aliases: 
-date: 2024-09-26
+aliases: null
 title: Python에서 Java의 Optional을 구현해서 이용해보기
+created: 2024-09-26T00:00:00.000Z
 ---
 작성 날짜: 2024-09-26
 작성 시간: 15:02

@@ -3,9 +3,9 @@ tags:
   - 완성
   - 알고리즘
   - DP
-aliases: 
+aliases: null
 title: cherry pick up
-date: 2024-02-11
+created: 2024-02-11T00:00:00.000Z
 ---
 작성 날짜: 2024-02-11
 작성 시간: 22:47

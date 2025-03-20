@@ -4,9 +4,9 @@ tags:
   - JAVA
   - Spring
 aliases:
-  - "@WebServlet"
-date: 2024-10-27
+  - '@WebServlet'
 title: WebServlet 어노테이션
+created: 2024-10-27T00:00:00.000Z
 ---
 작성 날짜: 2024-10-27
 작성 시간: 12:38

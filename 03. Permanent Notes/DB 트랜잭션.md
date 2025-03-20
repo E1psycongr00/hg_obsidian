@@ -5,8 +5,8 @@ tags:
   - Transaction
 aliases:
   - Db Transaction
-date: 2024-12-04
 title: DB 트랜잭션
+created: 2024-12-04T00:00:00.000Z
 ---
 작성 날짜: 2024-12-04
 작성 시간: 09:44

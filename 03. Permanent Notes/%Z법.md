@@ -3,11 +3,11 @@ tags:
   - 전기
   - 전력공학
   - 고장계산
-aliases: 
-date: 2025-03-19
-title: "%Z법"
+aliases: null
+title: '%Z법'
 note-type: COMMON
 completed: true
+created: 2025-03-19T00:00:00.000Z
 ---
 
 ## 내용(Content)

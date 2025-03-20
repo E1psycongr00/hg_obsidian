@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - Spring
-aliases: 
-date: 2024-11-05
+aliases: null
 title: record로 configuration property 생성하기
+created: 2024-11-05T00:00:00.000Z
 ---
 작성 날짜: 2024-11-05
 작성 시간: 17:48

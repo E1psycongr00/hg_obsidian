@@ -3,9 +3,9 @@ tags:
   - 완성
   - JAVA
   - Spring
-aliases: 
-date: 2024-10-26
+aliases: null
 title: IOC & DI
+created: 2024-10-26T00:00:00.000Z
 ---
 작성 날짜: 2024-10-26
 작성 시간: 19:02
