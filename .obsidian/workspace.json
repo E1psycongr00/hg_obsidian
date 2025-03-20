@@ -267,6 +267,16 @@
             "id": "f95c2955c0dac5f9",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "448bead945e9e13f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -274,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "7d466e57ea240c21",
@@ -325,7 +335,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f8b34ca471897bd2",
+  "active": "448bead945e9e13f",
   "lastOpenFiles": [
     "영구노트/%Z법.md",
     "Excalidraw/%Z 임피던스 사고전(draw).md",
