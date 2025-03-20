@@ -30,5 +30,3 @@ title: "Folder Guides"
 	- 완성이 안되고 작성 중인 노트 모음
 - 05. Reference Notes
 	- 인터넷, 신문, 블로그, 논문 글 등 다른 사람들이 작성한 지식 일부를 발췌한 노트 모음
-- 06. PARA
-
