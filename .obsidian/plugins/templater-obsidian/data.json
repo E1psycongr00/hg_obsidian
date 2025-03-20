@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -24,7 +24,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
-    "templates/commander/MoveFileByTag.md"
+    ""
   ],
   "startup_templates": []
 }

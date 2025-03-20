@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/commander/MoveFileByTag.md",
+                "file": "templates/commander/MoveFileByFrontMatter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MoveFileByTag"
+              "title": "MoveFileByFrontMatter"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/commander/MoveFileByTag.md"
+                "file": "templates/commander/MoveFileByFrontMatter.md"
               },
               "icon": "lucide-info",
-              "title": "MoveFileByTag 의 파일 속성"
+              "title": "MoveFileByFrontMatter 의 파일 속성"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/commander/MoveFileByTag.md",
+                "file": "templates/commander/MoveFileByFrontMatter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MoveFileByTag 의 개요"
+              "title": "MoveFileByFrontMatter 의 개요"
             }
           }
         ]
@@ -315,12 +315,13 @@
   },
   "active": "fe14beeeb60f1d70",
   "lastOpenFiles": [
+    "templates/commander/MoveFileByTag.md",
+    "templates/commander/MoveFileByFrontMatter.md",
     "templates/scripts/moveFileTarget.js",
     "templates/scripts/checkFrontMatter.js",
     "자화.md",
     "2. MOC/무제.md",
     "2. MOC",
-    "templates/commander/MoveFileByTag.md",
     "02. MOC/무제.md",
     "이해도 분석 가이드.md",
     "MOC/무제.md",
@@ -351,7 +352,6 @@
     "Excalidraw/MOC 상향식 (draw).svg",
     "01. Guides/Folder Guides.md",
     "05. Reference Notes",
-    "06. PARA",
     "index.canvas",
     "Excalidraw/%Z 임피던스 사고 후 (draw).svg",
     "Excalidraw/%Z 임피던스 사고전(draw).svg",
