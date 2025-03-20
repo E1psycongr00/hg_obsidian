@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/MoveMocFile.md",
+                "file": "templates/commander/MoveFileByTag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MoveMocFile"
+              "title": "MoveFileByTag"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/MoveMocFile.md"
+                "file": "templates/commander/MoveFileByTag.md"
               },
               "icon": "lucide-info",
-              "title": "MoveMocFile 의 파일 속성"
+              "title": "MoveFileByTag 의 파일 속성"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/MoveMocFile.md",
+                "file": "templates/commander/MoveFileByTag.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MoveMocFile 의 개요"
+              "title": "MoveFileByTag 의 개요"
             }
           }
         ]
@@ -314,10 +314,12 @@
   },
   "active": "fe14beeeb60f1d70",
   "lastOpenFiles": [
+    "templates/scripts/moveFileByTag.js",
+    "templates/MOC 템플릿.md",
+    "templates/commander/MoveFileByTag.md",
+    "templates/commander",
     "02. MOC/무제.md",
     "MOC",
-    "templates/MoveMocFile.md",
-    "templates/MOC 템플릿.md",
     "templates/가이드 템플릿.md",
     "templates/scripts/moveMOC.js",
     "templates/scripts/무제.md",
@@ -344,7 +346,6 @@
     "templates/참조 노트 템플릿.md",
     "templates/project 템플릿.md",
     "templates/resource 템플릿.md",
-    "templates/일정 템플릿.md",
     "05. Reference Notes",
     "06. PARA",
     "01. Guides",
@@ -360,7 +361,6 @@
     "attachments/images/custom gradle plugin type.png",
     "attachments/images/search_insert_position_2d_graph.png",
     "attachments/images/Rotated Sorted Array.png",
-    "06. PARA/1.Projects/이력서 관리",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",
