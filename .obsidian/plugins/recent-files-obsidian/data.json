@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
       "basename": "참조 노트 템플릿",
       "path": "templates/참조 노트 템플릿.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
     },
     {
       "basename": "Note Guides",
