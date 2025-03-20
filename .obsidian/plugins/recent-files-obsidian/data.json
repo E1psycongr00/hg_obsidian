@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "자화",
-      "path": "자화.md"
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "OpenAI 프롬프팅 엔지니어링 기법",
+      "path": "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "04. Practice Notes/Spring Modulith.md"
+    },
+    {
+      "basename": "Spring Rest Docs with Kotlin DSL",
+      "path": "04. Practice Notes/Spring Rest Docs with Kotlin DSL.md"
+    },
+    {
+      "basename": "Spring Transaction",
+      "path": "04. Practice Notes/Spring Transaction.md"
+    },
+    {
+      "basename": "Thread 컨텍스트 스위칭",
+      "path": "04. Practice Notes/Thread 컨텍스트 스위칭.md"
+    },
+    {
+      "basename": "응집도 높은 모듈 설계 방법론",
+      "path": "04. Practice Notes/응집도 높은 모듈 설계 방법론.md"
+    },
+    {
+      "basename": "자화",
+      "path": "자화.md"
+    },
+    {
+      "basename": "hello",
+      "path": "hello.md"
+    },
+    {
+      "basename": "hello world",
+      "path": "hello world.md"
     },
     {
       "basename": "Home",
@@ -15,14 +51,6 @@
     {
       "basename": "정전용량",
       "path": "03. Permanent Notes/정전용량.md"
-    },
-    {
-      "basename": "hello world",
-      "path": "hello world.md"
-    },
-    {
-      "basename": "hello",
-      "path": "hello.md"
     },
     {
       "basename": "MOC 템플릿",
@@ -71,34 +99,6 @@
     {
       "basename": "jaccard 유사도와 유사 사용자 기반 추천",
       "path": "03. Permanent Notes/jaccard 유사도와 유사 사용자 기반 추천.md"
-    },
-    {
-      "basename": "Jaccard 유사도",
-      "path": "03. Permanent Notes/Jaccard 유사도.md"
-    },
-    {
-      "basename": "HttpServer",
-      "path": "03. Permanent Notes/HttpServer.md"
-    },
-    {
-      "basename": "Inter Process Communication",
-      "path": "03. Permanent Notes/Inter Process Communication.md"
-    },
-    {
-      "basename": "전자기 유도 법칙 수식 유도",
-      "path": "03. Permanent Notes/전자기 유도 법칙 수식 유도.md"
-    },
-    {
-      "basename": "전자기 유도 법칙",
-      "path": "03. Permanent Notes/전자기 유도 법칙.md"
-    },
-    {
-      "basename": "이해를 돕기 위한 하트비트 예시",
-      "path": "03. Permanent Notes/이해를 돕기 위한 하트비트 예시.md"
-    },
-    {
-      "basename": "선점형 스케줄러",
-      "path": "03. Permanent Notes/선점형 스케줄러.md"
     }
   ],
   "omittedPaths": [],
