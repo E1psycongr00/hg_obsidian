@@ -7,7 +7,6 @@ aliases:
 date: 2024-12-18
 title: 2 Phase Commit
 ---
----
 
 ## 내용(Content)
 

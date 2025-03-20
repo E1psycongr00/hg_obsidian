@@ -8,10 +8,7 @@ aliases:
 title: "@Valid와 @Validated 차이"
 date: 2023-11-12
 ---
-D작성 날짜: 2023-11-12
-작성 시간: 13:21
 
-----
 ## 내용(Content)
 ### @Valid
 valid는 객체의 내부에 정의된 어노테이션의 유효성을 검증할 떄 사용한다.

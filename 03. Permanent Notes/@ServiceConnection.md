@@ -6,11 +6,7 @@ aliases:
 date: 2024-11-20
 title: "@ServiceConnection"
 ---
-작성 날짜: 2024-11-20
-작성 시간: 21:26
 
-
-----
 ## 내용(Content)
 
 ### 필요한 의존성

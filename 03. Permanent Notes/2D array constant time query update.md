@@ -7,11 +7,7 @@ aliases:
 title: 2D array constant time query update
 date: 2023-11-04
 ---
-작성 날짜: 2023-11-04
-작성 시간: 13:45
 
-
-----
 ## 내용(Content)
 
 1차원 constant update에 비해 조금 더 복잡하다. 알아보자

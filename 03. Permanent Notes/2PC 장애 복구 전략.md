@@ -6,7 +6,6 @@ aliases:
 date: 2024-12-18
 title: 2PC 장애 복구 전략
 ---
----
 
 ## 내용(Content)
 
