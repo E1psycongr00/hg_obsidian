@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "본능의 목소리에 귀울여라 by donald trump",
+      "path": "03. Permanent Notes/본능의 목소리에 귀울여라 by donald trump.md"
+    },
+    {
+      "basename": "변위 전류 식 유도",
+      "path": "03. Permanent Notes/변위 전류 식 유도.md"
+    },
+    {
+      "basename": "변위 전류",
+      "path": "03. Permanent Notes/변위 전류.md"
+    },
+    {
+      "basename": "벡터의 외적",
+      "path": "03. Permanent Notes/벡터의 외적.md"
+    },
+    {
+      "basename": "벡터의 미분",
+      "path": "03. Permanent Notes/벡터의 미분.md"
+    },
+    {
+      "basename": "벡터의 내적과 이해",
+      "path": "03. Permanent Notes/벡터의 내적과 이해.md"
+    },
+    {
+      "basename": "벡터 항등식 쉽게 외우기",
+      "path": "03. Permanent Notes/벡터 항등식 쉽게 외우기.md"
+    },
+    {
+      "basename": "벡터 항등식",
+      "path": "03. Permanent Notes/벡터 항등식.md"
+    },
+    {
+      "basename": "범용 EnumConverter 만들기",
+      "path": "03. Permanent Notes/범용 EnumConverter 만들기.md"
+    },
+    {
+      "basename": "배전 방식",
+      "path": "03. Permanent Notes/배전 방식.md"
+    },
+    {
+      "basename": "배열은 객체다(JS)",
+      "path": "03. Permanent Notes/배열은 객체다(JS).md"
+    },
+    {
+      "basename": "배열 초기화",
+      "path": "03. Permanent Notes/배열 초기화.md"
+    },
+    {
+      "basename": "배열 불변성 복사(JS)",
+      "path": "03. Permanent Notes/배열 불변성 복사(JS).md"
+    },
+    {
+      "basename": "미로 탈출 명령어",
+      "path": "03. Permanent Notes/미로 탈출 명령어.md"
+    },
+    {
+      "basename": "뮤텍스(Mutex)",
+      "path": "03. Permanent Notes/뮤텍스(Mutex).md"
+    },
+    {
+      "basename": "무한 평면의 전계",
+      "path": "03. Permanent Notes/무한 평면의 전계.md"
+    },
+    {
+      "basename": "무한 평면에 접해있는 두 유전체 사이의 힘",
+      "path": "03. Permanent Notes/무한 평면에 접해있는 두 유전체 사이의 힘.md"
+    },
+    {
+      "basename": "무료와 독점 JDK 모음",
+      "path": "03. Permanent Notes/무료와 독점 JDK 모음.md"
+    },
+    {
       "basename": "메커니즘",
       "path": "03. Permanent Notes/메커니즘.md"
+    },
+    {
+      "basename": "몽키 패치",
+      "path": "03. Permanent Notes/몽키 패치.md"
+    },
+    {
+      "basename": "무거운 짐을 함부러 버리지마라 by 이경규",
+      "path": "03. Permanent Notes/무거운 짐을 함부러 버리지마라 by 이경규.md"
     },
     {
       "basename": "메서드 return에 java bean validation 적용 및 테스트",
@@ -19,86 +99,6 @@
     {
       "basename": "맥스웰 방정식",
       "path": "03. Permanent Notes/맥스웰 방정식.md"
-    },
-    {
-      "basename": "매개변수 탐색 최소 & 최대 해 구하기",
-      "path": "03. Permanent Notes/매개변수 탐색 최소 & 최대 해 구하기.md"
-    },
-    {
-      "basename": "리스코프 치환 원칙(Liskov Substitution Principle)",
-      "path": "03. Permanent Notes/리스코프 치환 원칙(Liskov Substitution Principle).md"
-    },
-    {
-      "basename": "때로는 승부에서 패배해봐야  by donald trump",
-      "path": "03. Permanent Notes/때로는 승부에서 패배해봐야  by donald trump.md"
-    },
-    {
-      "basename": "동적으로 Configuration 처리하기 by ImportSelector",
-      "path": "03. Permanent Notes/동적으로 Configuration 처리하기 by ImportSelector.md"
-    },
-    {
-      "basename": "동등 분할",
-      "path": "03. Permanent Notes/동등 분할.md"
-    },
-    {
-      "basename": "도표 적분법",
-      "path": "03. Permanent Notes/도표 적분법.md"
-    },
-    {
-      "basename": "돌림힘",
-      "path": "03. Permanent Notes/돌림힘.md"
-    },
-    {
-      "basename": "도체와 절연체의 전하 분포",
-      "path": "03. Permanent Notes/도체와 절연체의 전하 분포.md"
-    },
-    {
-      "basename": "도체계의 정전용량",
-      "path": "03. Permanent Notes/도체계의 정전용량.md"
-    },
-    {
-      "basename": "도체 표면의 전계",
-      "path": "03. Permanent Notes/도체 표면의 전계.md"
-    },
-    {
-      "basename": "댐퍼",
-      "path": "03. Permanent Notes/댐퍼.md"
-    },
-    {
-      "basename": "대류 전류",
-      "path": "03. Permanent Notes/대류 전류.md"
-    },
-    {
-      "basename": "단축 평가 계산",
-      "path": "03. Permanent Notes/단축 평가 계산.md"
-    },
-    {
-      "basename": "다중 쿼리 기법",
-      "path": "03. Permanent Notes/다중 쿼리 기법.md"
-    },
-    {
-      "basename": "단속 카메라 문제",
-      "path": "03. Permanent Notes/단속 카메라 문제.md"
-    },
-    {
-      "basename": "니콜라스 루만",
-      "path": "03. Permanent Notes/니콜라스 루만.md"
-    },
-    {
-      "basename": "노트 체계화의 중요성 PARA",
-      "path": "03. Permanent Notes/노트 체계화의 중요성 PARA.md"
-    },
-    {
-      "basename": "네트워크 분리 장애시 3PC 장애 대응 동작 방식",
-      "path": "03. Permanent Notes/네트워크 분리 장애시 3PC 장애 대응 동작 방식.md"
-    },
-    {
-      "basename": "네 자신의 무지를 절대 과소평가하지 마라 by Einstein",
-      "path": "03. Permanent Notes/네 자신의 무지를 절대 과소평가하지 마라 by Einstein.md"
-    },
-    {
-      "basename": "내압",
-      "path": "03. Permanent Notes/내압.md"
     }
   ],
   "omittedPaths": [],

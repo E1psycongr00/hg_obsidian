@@ -1,17 +1,14 @@
 ---
 tags:
-  - 완성
   - JAVA
 aliases: 
 title: 무료와 독점 JDK 모음
-date: 2023-10-04
+created: 2023-10-04
+note-type: COMMON
+completed: true
 ---
 
-작성 날짜: 2023-10-04
-작성 시간: 16:09
 
-
-----
 ## 내용(Content)
 ### 무료 오픈 소스 JDK
 - AdoptOpenJDK

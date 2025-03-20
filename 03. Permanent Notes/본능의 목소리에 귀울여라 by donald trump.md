@@ -1,6 +1,5 @@
 ---
 tags:
-  - 완성
   - 명언
 aliases: 
 title: 본능의 목소리에 귀울여라 by donald trump

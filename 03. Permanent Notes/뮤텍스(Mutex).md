@@ -1,19 +1,16 @@
 ---
 tags:
-  - 완성
   - OS
   - Synchronization
 aliases:
   - 뮤텍스
   - Mutex
 title: 뮤텍스(Mutex)
-date: 2024-01-11
+created: 2024-01-11
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2024-01-11
-작성 시간: 21:47
 
-
-----
 ## 내용(Content)
 ### 뮤텍스의 의미
 Mutex는 Mutual(상호간의) + Exclusion(제외, 배제)의 합성어이다. 단어 의미 그대로 **공유 자원(Critical Section)에 한번에 하나의 프로세스만 접근하도록 하는 동기화 메커니즘**이다.

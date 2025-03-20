@@ -1,18 +1,15 @@
 ---
 tags:
-  - 완성
   - 클린코드
   - JS
 aliases:
   - 배열 불변 복사
 title: 배열 불변성 복사(JS)
-date: 2024-02-08
+created: 2024-02-08
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2024-02-08
-작성 시간: 10:21
 
-
-----
 ## 내용(Content)
 ### 불변성이 필요한 이유
 ![[Pasted image 20240208102207.png]]

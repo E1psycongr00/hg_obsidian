@@ -1,17 +1,13 @@
 ---
 tags:
-  - 완성
   - Spring
   - databinding
 aliases: 
 title: 범용 EnumConverter 만들기
-date: 2023-11-24
+created: 2023-11-24
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2023-11-24
-작성 시간: 14:31
-
-
-----
 
 ## 문제 & 원인
 

@@ -1,18 +1,15 @@
 ---
 tags:
-  - 완성
   - JS
 aliases:
   - 배열은 객체다
   - 유사배열
 title: 배열은 객체다(JS)
-date: 2024-02-08
+created: 2024-02-08
+note-type: COMMON
+completed: true
 ---
-작성 날짜: 2024-02-08
-작성 시간: 20:18
 
-
-----
 ## 내용(Content)
 ### JS에서 배열은 객체다
 >[!summary] 배열 == 객체
