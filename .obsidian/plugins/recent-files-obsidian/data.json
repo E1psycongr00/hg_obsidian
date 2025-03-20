@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "자화",
+      "path": "자화.md"
+    },
+    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "정전용량",
@@ -23,10 +31,6 @@
     {
       "basename": "기본 템플릿",
       "path": "templaters/기본 템플릿.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Write Ahead Logging",
@@ -95,10 +99,6 @@
     {
       "basename": "선점형 스케줄러",
       "path": "03. Permanent Notes/선점형 스케줄러.md"
-    },
-    {
-      "basename": "Domain Service를 사용해야 할 상황",
-      "path": "03. Permanent Notes/Domain Service를 사용해야 할 상황.md"
     }
   ],
   "omittedPaths": [],

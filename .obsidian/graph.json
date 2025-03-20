@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": " -file: draw",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -25,6 +25,6 @@
   "repelStrength": 17.319587628866,
   "linkStrength": 1,
   "linkDistance": 226,
-  "scale": 0.06699744995282857,
+  "scale": 0.36288736930123605,
   "close": false
 }
