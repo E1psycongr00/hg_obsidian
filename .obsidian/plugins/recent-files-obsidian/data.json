@@ -5,12 +5,12 @@
       "path": "01. Guides/MOC Guides.md"
     },
     {
-      "basename": "MOC 상향식 (draw)",
-      "path": "Excalidraw/MOC 상향식 (draw).md"
-    },
-    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "MOC 상향식 (draw)",
+      "path": "Excalidraw/MOC 상향식 (draw).md"
     },
     {
       "basename": "Folder Guides",
