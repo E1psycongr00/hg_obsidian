@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MoveMocFile",
+      "path": "templates/MoveMocFile.md"
+    },
+    {
+      "basename": "MOC 템플릿",
+      "path": "templates/MOC 템플릿.md"
+    },
+    {
       "basename": "가이드 템플릿",
       "path": "templates/가이드 템플릿.md"
     },
@@ -53,10 +61,6 @@
       "path": "02. MOC/Home.md"
     },
     {
-      "basename": "MOC 템플릿",
-      "path": "templates/MOC 템플릿.md"
-    },
-    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "일정 템플릿",
       "path": "templates/일정 템플릿.md"
-    },
-    {
-      "basename": "인물 소개 템플릿",
-      "path": "templates/인물 소개 템플릿.md"
     }
   ],
   "omittedPaths": [],

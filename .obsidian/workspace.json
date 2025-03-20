@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/가이드 템플릿.md",
+                "file": "templates/MoveMocFile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "가이드 템플릿"
+              "title": "MoveMocFile"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templates/가이드 템플릿.md"
+                "file": "templates/MoveMocFile.md"
               },
               "icon": "lucide-info",
-              "title": "가이드 템플릿 의 파일 속성"
+              "title": "MoveMocFile 의 파일 속성"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/가이드 템플릿.md",
+                "file": "templates/MoveMocFile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "가이드 템플릿 의 개요"
+              "title": "MoveMocFile 의 개요"
             }
           }
         ]
@@ -314,9 +314,13 @@
   },
   "active": "fe14beeeb60f1d70",
   "lastOpenFiles": [
+    "02. MOC/무제.md",
+    "MOC",
+    "templates/MoveMocFile.md",
+    "templates/MOC 템플릿.md",
+    "templates/가이드 템플릿.md",
     "templates/scripts/moveMOC.js",
     "templates/scripts/무제.md",
-    "templates/가이드 템플릿.md",
     "templates/scripts",
     "update-metadata.ps1",
     "03. Permanent Notes/공부가 아니라 배움이다  by 타일러.md",
@@ -331,7 +335,6 @@
     "03. Permanent Notes/@ServiceConnection.md",
     "03. Permanent Notes/2 Phase Commit.md",
     "02. MOC/Home.md",
-    "templates/MOC 템플릿.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Note Guides.md",
     "Excalidraw/MOC 상향식 (draw).md",
@@ -342,7 +345,6 @@
     "templates/project 템플릿.md",
     "templates/resource 템플릿.md",
     "templates/일정 템플릿.md",
-    "templates/인물 소개 템플릿.md",
     "05. Reference Notes",
     "06. PARA",
     "01. Guides",
@@ -359,8 +361,6 @@
     "attachments/images/search_insert_position_2d_graph.png",
     "attachments/images/Rotated Sorted Array.png",
     "06. PARA/1.Projects/이력서 관리",
-    "attachments/pdf/전기기사/[ 전기기기 요점정리 ] 1장 직류기, 2장 동기기.pdf",
-    "attachments/pdf/전기기사/[ 회로이론 요점정리 - 전범위 ].pdf",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",
