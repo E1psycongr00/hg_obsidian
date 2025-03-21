@@ -34,8 +34,7 @@
               "title": "연선 구조 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/연선 구조 (draw).md"
+                "file": "04. Practice Notes/연선.md"
               },
               "icon": "lucide-info",
-              "title": "연선 구조 (draw) 의 파일 속성"
+              "title": "연선 의 파일 속성"
             }
           },
           {
@@ -366,11 +365,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "698ec103da873f33",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/연선 구조 (draw).svg",
-    "04. Practice Notes/연선.md",
     "Excalidraw/연선 구조 (draw).md",
+    "04. Practice Notes/연선.md",
+    "Excalidraw/연선 구조 (draw).svg",
     "02. MOC/전력공학 MOC.md",
     "attachments/screenshot/Pasted image 20250321121644.png",
     "03. Permanent Notes/단선.md",
@@ -414,7 +413,6 @@
     "Excalidraw/접지로 지락 전류 차단 과정 (draw).svg",
     "Excalidraw/직접 접지 (draw).svg",
     "Excalidraw/고온에 의한 절연 파괴 (draw).svg",
-    "attachments/images/custom gradle plugin type.png",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",
