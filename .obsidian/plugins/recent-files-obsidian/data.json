@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/연선.md"
     },
     {
+      "basename": "자기 회전력 식 유도하기",
+      "path": "03. Permanent Notes/자기 회전력 식 유도하기.md"
+    },
+    {
       "basename": "연선 구조 (draw)",
       "path": "Excalidraw/연선 구조 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Paxos",
       "path": "03. Permanent Notes/Paxos.md"
-    },
-    {
-      "basename": "Obsidian tasks 쿼리 문법",
-      "path": "03. Permanent Notes/Obsidian tasks 쿼리 문법.md"
     }
   ],
   "omittedPaths": [],

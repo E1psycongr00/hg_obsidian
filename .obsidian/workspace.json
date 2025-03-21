@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#완성",
+                "query": "회전력",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -355,8 +354,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/연선 구조 (draw).md",
+    "03. Permanent Notes/자기 회전력 식 유도하기.md",
     "04. Practice Notes/연선.md",
+    "Excalidraw/연선 구조 (draw).md",
     "Excalidraw/연선 구조 (draw).svg",
     "02. MOC/전력공학 MOC.md",
     "attachments/screenshot/Pasted image 20250321121644.png",
