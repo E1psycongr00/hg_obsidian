@@ -157,8 +157,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "tree-pine",
-              "title": "Tree view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -320,12 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02. MOC/전력공학 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "전력공학 MOC 의 개요"
             }
           }
         ]
