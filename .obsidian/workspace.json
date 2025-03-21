@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/캘빈의 법칙.md",
+                "file": "03. Permanent Notes/캘빈의 법칙.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -86,7 +86,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -99,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/캘빈의 법칙.md"
+                "file": "03. Permanent Notes/캘빈의 법칙.md"
               },
               "icon": "lucide-info",
               "title": "캘빈의 법칙 의 파일 속성"
@@ -148,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/캘빈의 법칙.md",
+                "file": "03. Permanent Notes/캘빈의 법칙.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/캘빈의 법칙.md",
+                "file": "03. Permanent Notes/캘빈의 법칙.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -312,11 +312,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/댐퍼.md",
-    "04. Practice Notes/캘빈의 법칙.md",
+    "03. Permanent Notes/캘빈의 법칙.md",
     "동선의 종류.md",
     "04. Practice Notes/연선.md",
     "03. Permanent Notes/자기 회전력 식 유도하기.md",
