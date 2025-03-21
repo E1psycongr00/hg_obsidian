@@ -355,6 +355,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "attachments/screenshot/Pasted image 20250321120806.png",
     "02. MOC/전력공학 MOC.md",
     "04. Practice Notes/단선.md",
     "templaters/기본 템플릿.md",
@@ -380,7 +381,6 @@
     "03. Permanent Notes/Raft.md",
     "03. Permanent Notes/Process 컨텍스트 스위칭.md",
     "03. Permanent Notes/Process 메모리 구조.md",
-    "03. Permanent Notes/Paxos.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
