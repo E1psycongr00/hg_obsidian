@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "연선"
             }
-          },
-          {
-            "id": "698ec103da873f33",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/연선 구조 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "연선 구조 (draw)"
-            }
           }
         ]
       }
