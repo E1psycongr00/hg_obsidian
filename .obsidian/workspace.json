@@ -314,8 +314,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전력공학 MOC.md",
+    "03. Permanent Notes/도체와 절연체의 전하 분포.md",
     "04. Practice Notes/정전 유도 장해.md",
+    "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/캘빈의 법칙.md",
     "03. Permanent Notes/댐퍼.md",
     "03. Permanent Notes/공기 절연 파괴.md",
@@ -342,7 +343,6 @@
     "hello.md",
     "hello world.md",
     "02. MOC/Home.md",
-    "03. Permanent Notes/전계.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
