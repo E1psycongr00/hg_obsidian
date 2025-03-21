@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
+      "basename": "연선 구조 (draw)",
+      "path": "Excalidraw/연선 구조 (draw).md"
     },
     {
       "basename": "연선",
       "path": "04. Practice Notes/연선.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "단선",
@@ -95,10 +99,6 @@
     {
       "basename": "Obsidian tasks 쿼리 문법",
       "path": "03. Permanent Notes/Obsidian tasks 쿼리 문법.md"
-    },
-    {
-      "basename": "LLM chain 라우팅",
-      "path": "03. Permanent Notes/LLM chain 라우팅.md"
     }
   ],
   "omittedPaths": [],
