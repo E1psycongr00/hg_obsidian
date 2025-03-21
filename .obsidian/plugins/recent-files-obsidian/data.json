@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "단선",
+      "path": "04. Practice Notes/단선.md"
+    },
+    {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Java Duration",
       "path": "03. Permanent Notes/Java Duration.md"
-    },
-    {
-      "basename": "Jaccard 유사도와 클러스터링 및 추천 시스템",
-      "path": "03. Permanent Notes/Jaccard 유사도와 클러스터링 및 추천 시스템.md"
     }
   ],
   "omittedPaths": [],
