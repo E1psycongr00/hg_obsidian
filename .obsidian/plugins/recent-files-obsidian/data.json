@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "정전 유도 장해",
+      "path": "04. Practice Notes/정전 유도 장해.md"
+    },
+    {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
+      "basename": "댐퍼",
+      "path": "03. Permanent Notes/댐퍼.md"
     },
     {
       "basename": "기본 템플릿",
@@ -11,10 +19,6 @@
     {
       "basename": "캘빈의 법칙",
       "path": "03. Permanent Notes/캘빈의 법칙.md"
-    },
-    {
-      "basename": "댐퍼",
-      "path": "03. Permanent Notes/댐퍼.md"
     },
     {
       "basename": "연선",
@@ -95,10 +99,6 @@
     {
       "basename": "Raft",
       "path": "03. Permanent Notes/Raft.md"
-    },
-    {
-      "basename": "Process 컨텍스트 스위칭",
-      "path": "03. Permanent Notes/Process 컨텍스트 스위칭.md"
     }
   ],
   "omittedPaths": [],

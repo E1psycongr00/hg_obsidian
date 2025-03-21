@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전력공학 MOC.md",
-                "mode": "preview",
+                "file": "04. Practice Notes/정전 유도 장해.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전력공학 MOC"
+              "title": "정전 유도 장해"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전력공학 MOC.md"
+                "file": "04. Practice Notes/정전 유도 장해.md"
               },
               "icon": "lucide-info",
-              "title": "전력공학 MOC 의 파일 속성"
+              "title": "정전 유도 장해 의 파일 속성"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/전력공학 MOC.md",
+                "file": "04. Practice Notes/정전 유도 장해.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전력공학 MOC 그래프"
+              "title": "정전 유도 장해 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전력공학 MOC.md",
+                "file": "04. Practice Notes/정전 유도 장해.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전력공학 MOC 의 개요"
+              "title": "정전 유도 장해 의 개요"
             }
           }
         ]
@@ -314,11 +314,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/공기 절연 파괴.md",
     "02. MOC/전력공학 MOC.md",
-    "03. Permanent Notes/댐퍼.md",
-    "templaters/기본 템플릿.md",
+    "04. Practice Notes/정전 유도 장해.md",
     "03. Permanent Notes/캘빈의 법칙.md",
+    "03. Permanent Notes/댐퍼.md",
+    "03. Permanent Notes/공기 절연 파괴.md",
+    "templaters/기본 템플릿.md",
     "동선의 종류.md",
     "04. Practice Notes/연선.md",
     "03. Permanent Notes/자기 회전력 식 유도하기.md",
@@ -342,7 +343,6 @@
     "hello world.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/전계.md",
-    "03. Permanent Notes/전기장 에너지 밀도.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
