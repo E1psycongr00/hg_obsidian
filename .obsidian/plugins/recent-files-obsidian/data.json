@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "단선",
-      "path": "04. Practice Notes/단선.md"
+      "basename": "연선",
+      "path": "04. Practice Notes/연선.md"
     },
     {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
+      "basename": "단선",
+      "path": "03. Permanent Notes/단선.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "기본 템플릿",
@@ -15,10 +23,6 @@
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "전자기학 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "LLM chain 라우팅",
       "path": "03. Permanent Notes/LLM chain 라우팅.md"
-    },
-    {
-      "basename": "Java Duration",
-      "path": "03. Permanent Notes/Java Duration.md"
     }
   ],
   "omittedPaths": [],

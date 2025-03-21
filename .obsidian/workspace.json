@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/단선.md",
+                "file": "04. Practice Notes/연선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "단선"
+              "title": "연선"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/단선.md"
+                "file": "04. Practice Notes/연선.md"
               },
               "icon": "lucide-info",
-              "title": "단선 의 파일 속성"
+              "title": "연선 의 파일 속성"
             }
           },
           {
@@ -355,12 +355,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20250321120806.png",
+    "attachments/screenshot/Pasted image 20250321121644.png",
     "02. MOC/전력공학 MOC.md",
-    "04. Practice Notes/단선.md",
+    "03. Permanent Notes/단선.md",
+    "04. Practice Notes/연선.md",
+    "templaters/commander/MoveFileByFrontMatter.md",
+    "attachments/screenshot/Pasted image 20250321120806.png",
     "templaters/기본 템플릿.md",
     "templaters/MOC 템플릿.md",
-    "templaters/commander/MoveFileByFrontMatter.md",
     "02. MOC/전자기학 MOC.md",
     "04. Practice Notes/Git 핵심 명령어.md",
     "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md",
@@ -380,7 +382,6 @@
     "03. Permanent Notes/Write Ahead Logging.md",
     "03. Permanent Notes/Raft.md",
     "03. Permanent Notes/Process 컨텍스트 스위칭.md",
-    "03. Permanent Notes/Process 메모리 구조.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
@@ -401,7 +402,6 @@
     "Excalidraw/고온에 의한 절연 파괴 (draw).svg",
     "attachments/images/custom gradle plugin type.png",
     "attachments/images/search_insert_position_2d_graph.png",
-    "attachments/images/Rotated Sorted Array.png",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",
