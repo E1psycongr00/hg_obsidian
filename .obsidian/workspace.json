@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/시변 자기장과 정지 루프 기전력.md",
+                "file": "04. Practice Notes/정자기장과 운동 루프 기전력.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "시변 자기장과 정지 루프 기전력"
+              "title": "정자기장과 운동 루프 기전력"
             }
           },
           {
@@ -114,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/시변 자기장과 정지 루프 기전력.md"
+                "file": "04. Practice Notes/정자기장과 운동 루프 기전력.md"
               },
               "icon": "lucide-info",
-              "title": "시변 자기장과 정지 루프 기전력 의 파일 속성"
+              "title": "정자기장과 운동 루프 기전력 의 파일 속성"
             }
           },
           {
@@ -213,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/시변 자기장과 정지 루프 기전력.md",
+                "file": "04. Practice Notes/정자기장과 운동 루프 기전력.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -241,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "시변 자기장과 정지 루프 기전력 그래프"
+              "title": "정자기장과 운동 루프 기전력 그래프"
             }
           },
           {
@@ -288,13 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/시변 자기장과 정지 루프 기전력.md",
+                "file": "04. Practice Notes/정자기장과 운동 루프 기전력.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "시변 자기장과 정지 루프 기전력 의 개요"
+              "title": "정자기장과 운동 루프 기전력 의 개요"
             }
           }
         ]
@@ -328,9 +328,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
-    "04. Practice Notes/시변 자기장과 정지 루프 기전력.md",
     "02. MOC/전자기학 MOC.md",
+    "04. Practice Notes/정자기장과 운동 루프 기전력.md",
+    "04. Practice Notes/시변 자기장과 정지 루프 기전력.md",
+    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "03. Permanent Notes/전류 소자가 받는 힘.md",
     "03. Permanent Notes/하전 입자가 받는 힘.md",
     "03. Permanent Notes/큐리 온도.md",
@@ -356,7 +357,6 @@
     "templaters/commander/MoveFileByFrontMatter.md",
     "attachments/screenshot/Pasted image 20250321120806.png",
     "templaters/MOC 템플릿.md",
-    "04. Practice Notes/Git 핵심 명령어.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
