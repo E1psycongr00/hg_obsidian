@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "02237403b137fe5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "절연 파괴 1단계 정상 조건 (draw)"
+            }
+          },
+          {
             "id": "6fec0a252f9a2335",
             "type": "leaf",
             "state": {
@@ -329,8 +341,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전자기학 MOC.md",
+    "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md",
+    "Excalidraw/절연 파괴 1단계 정상 조건 (draw).svg",
     "04. Practice Notes/절연 파괴.md",
+    "02. MOC/전자기학 MOC.md",
     "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
@@ -355,8 +369,6 @@
     "Excalidraw/연선 구조 (draw).md",
     "Excalidraw/연선 구조 (draw).svg",
     "attachments/screenshot/Pasted image 20250321121644.png",
-    "03. Permanent Notes/단선.md",
-    "templaters/commander/MoveFileByFrontMatter.md",
     "attachments/screenshot/Pasted image 20250321120806.png",
     "templaters",
     "templates/templater",
@@ -375,7 +387,6 @@
     "Excalidraw/소호 리액터 접지 (draw).svg",
     "Excalidraw/접지로 지락 전류 차단 과정 (draw).svg",
     "Excalidraw/직접 접지 (draw).svg",
-    "Excalidraw/고온에 의한 절연 파괴 (draw).svg",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",

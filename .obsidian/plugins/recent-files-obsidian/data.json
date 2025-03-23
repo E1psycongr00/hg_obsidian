@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/절연 파괴.md"
     },
     {
+      "basename": "절연 파괴 1단계 정상 조건 (draw)",
+      "path": "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md"
+    },
+    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "OpenAI 프롬프팅 엔지니어링 기법",
       "path": "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md"
-    },
-    {
-      "basename": "Spring Modulith",
-      "path": "04. Practice Notes/Spring Modulith.md"
     }
   ],
   "omittedPaths": [],
