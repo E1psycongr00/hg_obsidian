@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "자기 에너지",
+      "path": "04. Practice Notes/자기 에너지.md"
+    },
+    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Write Ahead Logging",
       "path": "03. Permanent Notes/Write Ahead Logging.md"
-    },
-    {
-      "basename": "Raft",
-      "path": "03. Permanent Notes/Raft.md"
     }
   ],
   "omittedPaths": [],
