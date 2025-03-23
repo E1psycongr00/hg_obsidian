@@ -2,8 +2,9 @@
 tags:
   - Guide
 aliases: 
-date:
-title: "Tag Guide Lines"
+created: 2025-03-24
+title: Tag Guide Lines
+note-type: GUIDE
 ---
 
 

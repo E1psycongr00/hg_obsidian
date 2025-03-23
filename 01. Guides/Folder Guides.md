@@ -2,8 +2,9 @@
 tags:
   - Guide
 aliases: 
-date:
-title: "Folder Guides"
+created: 
+title: Folder Guides
+note-type: GUIDE
 ---
 
 

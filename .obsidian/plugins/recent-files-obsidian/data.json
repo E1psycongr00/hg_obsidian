@@ -1,32 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
     },
     {
       "basename": "웹 인증 보안 MOC",
       "path": "02. MOC/웹 인증 보안 MOC.md"
     },
     {
-      "basename": "웹 기초 MOC",
-      "path": "02. MOC/웹 기초 MOC.md"
-    },
-    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
     },
     {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Tag Guide Lines",
+      "path": "01. Guides/Tag Guide Lines.md"
+    },
+    {
+      "basename": "@chain과 Runnable",
+      "path": "03. Permanent Notes/@chain과 Runnable.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Faraday 전자기 유도 법칙",
@@ -83,22 +99,6 @@
     {
       "basename": "전속",
       "path": "03. Permanent Notes/전속.md"
-    },
-    {
-      "basename": "인덕터에 저장된 자기 에너지",
-      "path": "03. Permanent Notes/인덕터에 저장된 자기 에너지.md"
-    },
-    {
-      "basename": "자기 에너지",
-      "path": "03. Permanent Notes/자기 에너지.md"
-    },
-    {
-      "basename": "정전 유도 장해",
-      "path": "04. Practice Notes/정전 유도 장해.md"
-    },
-    {
-      "basename": "댐퍼",
-      "path": "03. Permanent Notes/댐퍼.md"
     }
   ],
   "omittedPaths": [],
