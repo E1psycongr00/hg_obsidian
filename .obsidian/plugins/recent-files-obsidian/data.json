@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "절연 파괴",
+      "path": "04. Practice Notes/절연 파괴.md"
+    },
+    {
       "basename": "절연 파괴 3단계 충돌 이온화 (draw)",
       "path": "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md"
     },
     {
-      "basename": "절연 파괴",
-      "path": "04. Practice Notes/절연 파괴.md"
+      "basename": "절연 파괴 1단계 정상 조건 (draw)",
+      "path": "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md"
     },
     {
       "basename": "절연 파괴 2단계 임계점 도달 (draw)",
       "path": "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md"
     },
     {
-      "basename": "절연 파괴 1단계 정상 조건 (draw)",
-      "path": "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md"
+      "basename": "절연 파괴 4단계 전도 경로 형성 (draw)",
+      "path": "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).md"
     },
     {
       "basename": "전자기학 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "단선",
       "path": "03. Permanent Notes/단선.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
     }
   ],
   "omittedPaths": [],
