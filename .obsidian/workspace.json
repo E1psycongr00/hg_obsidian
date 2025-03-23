@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/절연 파괴.md",
+                "file": "03. Permanent Notes/공기 절연 파괴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "절연 파괴"
+              "title": "공기 절연 파괴"
             }
           },
           {
@@ -328,10 +328,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f91662c1cdca98e2",
   "lastOpenFiles": [
-    "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).md",
+    "03. Permanent Notes/공기 절연 파괴.md",
     "04. Practice Notes/절연 파괴.md",
+    "02. MOC/전자기학 MOC.md",
+    "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).md",
+    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md",
     "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md",
     "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md",
@@ -339,12 +342,10 @@
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
     "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
     "Excalidraw/절연 파괴 1단계 정상 조건 (draw).svg",
-    "02. MOC/전자기학 MOC.md",
     "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "03. Permanent Notes/하전 입자가 받는 힘.md",
-    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "03. Permanent Notes/전류 소자가 받는 힘.md",
     "03. Permanent Notes/큐리 온도.md",
     "자화.md",
@@ -356,7 +357,6 @@
     "03. Permanent Notes/도체와 절연체의 전하 분포.md",
     "03. Permanent Notes/캘빈의 법칙.md",
     "03. Permanent Notes/댐퍼.md",
-    "03. Permanent Notes/공기 절연 파괴.md",
     "templaters/기본 템플릿.md",
     "동선의 종류.md",
     "Excalidraw/연선 구조 (draw).svg",
