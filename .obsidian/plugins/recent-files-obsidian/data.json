@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "정자기장과 운동 루프 기전력",
-      "path": "04. Practice Notes/정자기장과 운동 루프 기전력.md"
-    },
-    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
     },
     {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
       "basename": "시변 자기장과 정지 루프 기전력",
-      "path": "04. Practice Notes/시변 자기장과 정지 루프 기전력.md"
+      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
+    },
+    {
+      "basename": "정자기장과 운동 루프 기전력",
+      "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
     },
     {
       "basename": "Faraday 전자기 유도 법칙",
@@ -35,10 +39,6 @@
     {
       "basename": "전속",
       "path": "03. Permanent Notes/전속.md"
-    },
-    {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "인덕터에 저장된 자기 에너지",
