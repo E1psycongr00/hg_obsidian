@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
     },
     {
       "basename": "Faraday 전자기 유도 법칙",
