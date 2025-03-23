@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "자화",
+      "path": "자화.md"
+    },
+    {
+      "basename": "전속",
+      "path": "03. Permanent Notes/전속.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "인덕터에 저장된 자기 에너지",
@@ -81,10 +89,6 @@
       "path": "04. Practice Notes/응집도 높은 모듈 설계 방법론.md"
     },
     {
-      "basename": "자화",
-      "path": "자화.md"
-    },
-    {
       "basename": "hello",
       "path": "hello.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "정전용량",
-      "path": "03. Permanent Notes/정전용량.md"
     }
   ],
   "omittedPaths": [],
