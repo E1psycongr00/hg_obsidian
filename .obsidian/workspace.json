@@ -23,7 +23,19 @@
             }
           },
           {
-            "id": "53f5ef89ffc6f6bb",
+            "id": "777b083e24c123a9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "절연 파괴 1단계 정상 조건 (draw)"
+            }
+          },
+          {
+            "id": "a4bbaa57bb4810fa",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,22 +52,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md"
+                "file": "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-23 19.43.01.excalidraw"
-            }
-          },
-          {
-            "id": "44ee3566df4747c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "절연 파괴 1단계 정상 조건 (draw)"
+              "title": "절연 파괴 3단계 충돌 이온화 (draw)"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,10 +152,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md"
+                "file": "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-03-23 19.43.01.excalidraw 의 파일 속성"
+              "title": "절연 파괴 3단계 충돌 이온화 (draw) 의 파일 속성"
             }
           },
           {
@@ -251,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md",
+                "file": "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-03-23 19.43.01.excalidraw 그래프"
+              "title": "절연 파괴 3단계 충돌 이온화 (draw) 그래프"
             }
           },
           {
@@ -326,13 +326,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md",
+                "file": "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-03-23 19.43.01.excalidraw 의 개요"
+              "title": "절연 파괴 3단계 충돌 이온화 (draw) 의 개요"
             }
           }
         ]
@@ -367,11 +367,12 @@
   },
   "active": "0e7c19c8c4a742e6",
   "lastOpenFiles": [
-    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md",
-    "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md",
     "04. Practice Notes/절연 파괴.md",
-    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
+    "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md",
+    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md",
     "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md",
+    "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
+    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
     "Excalidraw/절연 파괴 1단계 정상 조건 (draw).svg",
     "02. MOC/전자기학 MOC.md",
     "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
@@ -394,7 +395,6 @@
     "templaters/기본 템플릿.md",
     "동선의 종류.md",
     "04. Practice Notes/연선.md",
-    "03. Permanent Notes/자기 회전력 식 유도하기.md",
     "Excalidraw/연선 구조 (draw).svg",
     "attachments/screenshot/Pasted image 20250321121644.png",
     "attachments/screenshot/Pasted image 20250321120806.png",
@@ -413,7 +413,6 @@
     "Excalidraw/%Z 임피던스 사고 후 (draw).svg",
     "Excalidraw/%Z 임피던스 사고전(draw).svg",
     "Excalidraw/소호 리액터 접지 (draw).svg",
-    "Excalidraw/접지로 지락 전류 차단 과정 (draw).svg",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",
