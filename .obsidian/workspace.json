@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전자기학 MOC.md",
+                "file": "04. Practice Notes/Faraday 법칙.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전자기학 MOC"
+              "title": "Faraday 법칙"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전자기학 MOC.md"
+                "file": "04. Practice Notes/Faraday 법칙.md"
               },
               "icon": "lucide-info",
-              "title": "전자기학 MOC 의 파일 속성"
+              "title": "Faraday 법칙 의 파일 속성"
             }
           },
           {
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/전자기학 MOC.md",
+                "file": "04. Practice Notes/Faraday 법칙.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -226,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전자기학 MOC 그래프"
+              "title": "Faraday 법칙 그래프"
             }
           },
           {
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전자기학 MOC.md",
+                "file": "04. Practice Notes/Faraday 법칙.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전자기학 MOC 의 개요"
+              "title": "Faraday 법칙 의 개요"
             }
           }
         ]
@@ -313,8 +313,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/큐리 온도.md",
     "02. MOC/전자기학 MOC.md",
+    "04. Practice Notes/Faraday 법칙.md",
+    "03. Permanent Notes/큐리 온도.md",
     "자화.md",
     "03. Permanent Notes/전속.md",
     "02. MOC/전력공학 MOC.md",
@@ -341,7 +342,6 @@
     "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md",
     "04. Practice Notes/Spring Modulith.md",
     "04. Practice Notes/Spring Rest Docs with Kotlin DSL.md",
-    "04. Practice Notes/Spring Transaction.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
