@@ -313,8 +313,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "자화.md",
+    "03. Permanent Notes/큐리 온도.md",
     "02. MOC/전자기학 MOC.md",
+    "자화.md",
     "03. Permanent Notes/전속.md",
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/인덕터에 저장된 자기 에너지.md",
@@ -341,7 +342,6 @@
     "04. Practice Notes/Spring Modulith.md",
     "04. Practice Notes/Spring Rest Docs with Kotlin DSL.md",
     "04. Practice Notes/Spring Transaction.md",
-    "04. Practice Notes/Thread 컨텍스트 스위칭.md",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",

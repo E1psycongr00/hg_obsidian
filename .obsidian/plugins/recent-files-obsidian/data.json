@@ -5,6 +5,10 @@
       "path": "02. MOC/전자기학 MOC.md"
     },
     {
+      "basename": "큐리 온도",
+      "path": "03. Permanent Notes/큐리 온도.md"
+    },
+    {
       "basename": "자화",
       "path": "자화.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "hello world",
       "path": "hello world.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     }
   ],
   "omittedPaths": [],
