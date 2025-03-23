@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "웹 인증 보안 MOC",
+      "path": "02. MOC/웹 인증 보안 MOC.md"
+    },
+    {
       "basename": "웹 기초 MOC",
       "path": "02. MOC/웹 기초 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "기본 템플릿",
       "path": "templaters/기본 템플릿.md"
-    },
-    {
-      "basename": "캘빈의 법칙",
-      "path": "03. Permanent Notes/캘빈의 법칙.md"
     }
   ],
   "omittedPaths": [],
