@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
       "basename": "정전 유도 장해",
       "path": "04. Practice Notes/정전 유도 장해.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
     },
     {
       "basename": "OpenAI 프롬프팅 엔지니어링 기법",
