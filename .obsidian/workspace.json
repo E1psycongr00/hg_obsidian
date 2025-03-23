@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. MOC/전기기기 MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "새 탭"
             }
           }
         ]
@@ -99,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02. MOC/전기기기 MOC.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -325,8 +318,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전력공학 MOC.md",
     "02. MOC/전기기기 MOC.md",
+    "02. MOC/전력공학 MOC.md",
     "02. MOC/전자기학 MOC.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
