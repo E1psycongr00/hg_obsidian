@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/공기 절연 파괴.md",
+                "file": "02. MOC/전자기학 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "공기 절연 파괴"
+              "title": "전자기학 MOC"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/절연 파괴.md"
+                "file": "02. MOC/전자기학 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "절연 파괴 의 파일 속성"
+              "title": "전자기학 MOC 의 파일 속성"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/절연 파괴.md",
+                "file": "02. MOC/전자기학 MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -242,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "절연 파괴 그래프"
+              "title": "전자기학 MOC 그래프"
             }
           },
           {
@@ -289,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/절연 파괴.md",
+                "file": "02. MOC/전자기학 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "절연 파괴 의 개요"
+              "title": "전자기학 MOC 의 개요"
             }
           }
         ]
@@ -328,10 +328,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f91662c1cdca98e2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/공기 절연 파괴.md",
     "04. Practice Notes/절연 파괴.md",
+    "03. Permanent Notes/공기 절연 파괴.md",
     "02. MOC/전자기학 MOC.md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).md",
     "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
