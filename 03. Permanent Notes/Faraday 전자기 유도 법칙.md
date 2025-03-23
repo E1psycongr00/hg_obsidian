@@ -7,7 +7,7 @@ aliases:
 created: 2025-03-23
 title: Faraday 전자기 유도 법칙
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
