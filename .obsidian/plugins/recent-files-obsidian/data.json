@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "절연 파괴",
+      "path": "04. Practice Notes/절연 파괴.md"
+    },
+    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
     },
     {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
       "basename": "시변 자기장과 정지 루프 기전력",
       "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "정자기장과 운동 루프 기전력",
@@ -95,10 +99,6 @@
     {
       "basename": "Spring Modulith",
       "path": "04. Practice Notes/Spring Modulith.md"
-    },
-    {
-      "basename": "Spring Rest Docs with Kotlin DSL",
-      "path": "04. Practice Notes/Spring Rest Docs with Kotlin DSL.md"
     }
   ],
   "omittedPaths": [],
