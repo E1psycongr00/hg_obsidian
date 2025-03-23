@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
       "basename": "웹 인증 보안 MOC",
       "path": "02. MOC/웹 인증 보안 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "댐퍼",
       "path": "03. Permanent Notes/댐퍼.md"
-    },
-    {
-      "basename": "기본 템플릿",
-      "path": "templaters/기본 템플릿.md"
     }
   ],
   "omittedPaths": [],
