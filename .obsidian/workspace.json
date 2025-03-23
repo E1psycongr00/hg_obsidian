@@ -23,7 +23,31 @@
             }
           },
           {
-            "id": "02237403b137fe5e",
+            "id": "53f5ef89ffc6f6bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "절연 파괴 2단계 임계점 도달 (draw)"
+            }
+          },
+          {
+            "id": "0e7c19c8c4a742e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-23 19.43.01.excalidraw"
+            }
+          },
+          {
+            "id": "44ee3566df4747c7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -49,7 +73,8 @@
               "title": "Faraday 전자기 유도 법칙"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,10 +152,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/절연 파괴.md"
+                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "절연 파괴 의 파일 속성"
+              "title": "Drawing 2025-03-23 19.43.01.excalidraw 의 파일 속성"
             }
           },
           {
@@ -226,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/절연 파괴.md",
+                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -254,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "절연 파괴 그래프"
+              "title": "Drawing 2025-03-23 19.43.01.excalidraw 그래프"
             }
           },
           {
@@ -301,20 +326,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/절연 파괴.md",
+                "file": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "절연 파괴 의 개요"
+              "title": "Drawing 2025-03-23 19.43.01.excalidraw 의 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 497.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,11 +365,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0e7c19c8c4a742e6",
   "lastOpenFiles": [
+    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md",
+    "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md",
+    "04. Practice Notes/절연 파괴.md",
+    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
     "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md",
     "Excalidraw/절연 파괴 1단계 정상 조건 (draw).svg",
-    "04. Practice Notes/절연 파괴.md",
     "02. MOC/전자기학 MOC.md",
     "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
     "02. MOC/전력공학 MOC.md",
@@ -366,7 +395,6 @@
     "동선의 종류.md",
     "04. Practice Notes/연선.md",
     "03. Permanent Notes/자기 회전력 식 유도하기.md",
-    "Excalidraw/연선 구조 (draw).md",
     "Excalidraw/연선 구조 (draw).svg",
     "attachments/screenshot/Pasted image 20250321121644.png",
     "attachments/screenshot/Pasted image 20250321120806.png",
@@ -386,7 +414,6 @@
     "Excalidraw/%Z 임피던스 사고전(draw).svg",
     "Excalidraw/소호 리액터 접지 (draw).svg",
     "Excalidraw/접지로 지락 전류 차단 과정 (draw).svg",
-    "Excalidraw/직접 접지 (draw).svg",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-03-23 19.43.01.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-23 19.43.01.excalidraw.md"
+    },
+    {
+      "basename": "절연 파괴 2단계 임계점 도달 (draw)",
+      "path": "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md"
+    },
+    {
       "basename": "절연 파괴",
       "path": "04. Practice Notes/절연 파괴.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "MOC 템플릿",
-      "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "OpenAI 프롬프팅 엔지니어링 기법",
-      "path": "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md"
     }
   ],
   "omittedPaths": [],
