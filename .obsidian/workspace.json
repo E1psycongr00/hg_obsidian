@@ -28,13 +28,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-25 14.17.51.excalidraw.md"
+                "file": "Excalidraw/전기자 반작용 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-25 14.17.51.excalidraw"
+              "title": "전기자 반작용 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/전기자 반작용.md"
+                "file": "Excalidraw/전기자 반작용 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "전기자 반작용 의 파일 속성"
+              "title": "전기자 반작용 (draw) 의 파일 속성"
             }
           },
           {
@@ -355,12 +356,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f9a24839d1317284",
   "lastOpenFiles": [
+    "Excalidraw/전기자 반작용 (draw).svg",
+    "04. Practice Notes/전기자 반작용.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/직류 발전기.md",
-    "04. Practice Notes/전기자 반작용.md",
-    "Excalidraw/Drawing 2025-03-25 14.17.51.excalidraw.md",
+    "Excalidraw/전기자 반작용 (draw).md",
     "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md",
     "Excalidraw/직류 발전기 요소 (draw).md",
     "Excalidraw/직류 발전기 정류자 확대 모습 (draw).svg",
@@ -384,7 +386,6 @@
     "04. Practice Notes/절연 파괴.md",
     "03. Permanent Notes/공기 절연 파괴.md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).md",
-    "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).svg",
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
     "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
