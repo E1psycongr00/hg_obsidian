@@ -13,37 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/직류 발전기.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "직류 발전기"
-            }
-          },
-          {
-            "id": "109c6bf989d92bdf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "직류 발전기 정류자 확대 모습 (draw)"
-            }
-          },
-          {
-            "id": "7ef458a77bbe1c2c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/직류 발전기 요소 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "직류 발전기 요소 (draw)"
+              "title": "전기기기 MOC"
             }
           }
         ]
@@ -124,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/직류 발전기.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "직류 발전기 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -369,9 +345,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/직류 발전기 요소 (draw).md",
-    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md",
     "04. Practice Notes/직류 발전기.md",
+    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md",
+    "Excalidraw/직류 발전기 요소 (draw).md",
     "Excalidraw/직류 발전기 정류자 확대 모습 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "Excalidraw/직류 발전기 요소 (draw).svg",
