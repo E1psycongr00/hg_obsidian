@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "정류"
             }
+          },
+          {
+            "id": "c9c35d001eb28b9f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/정류 종류 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "정류 종류 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/정류.md"
+                "file": "Excalidraw/정류 종류 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "정류 의 파일 속성"
+              "title": "정류 종류 (draw) 의 파일 속성"
             }
           },
           {
@@ -343,11 +356,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9384f580f274d3ae",
+  "active": "c9c35d001eb28b9f",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/정류 종류 (draw).svg",
     "04. Practice Notes/정류.md",
     "Excalidraw/정류 구간 (draw).md",
+    "Excalidraw/정류 종류 (draw).md",
+    "02. MOC/전기기기 MOC.md",
     "Excalidraw/정류 구간 (draw).svg",
     "Excalidraw/전기자 반작용으로 인한 중성축 이동 (draw).md",
     "Excalidraw/전기자 반작용 (draw).md",
@@ -374,7 +389,6 @@
     "02. MOC/웹 인증 보안 MOC.md",
     "02. MOC/Home.md",
     "01. Guides/Folder Guides.md",
-    "01. Guides/MOC Guides.md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).svg",
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
     "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
