@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "웹 인증 보안 MOC",
-      "path": "02. MOC/웹 인증 보안 MOC.md"
     },
     {
       "basename": "웹 기초 MOC",
       "path": "02. MOC/웹 기초 MOC.md"
     },
     {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
+      "basename": "웹 인증 보안 MOC",
+      "path": "02. MOC/웹 인증 보안 MOC.md"
+    },
+    {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Folder Guides",
@@ -39,10 +43,6 @@
     {
       "basename": "@chain과 Runnable",
       "path": "03. Permanent Notes/@chain과 Runnable.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Faraday 전자기 유도 법칙",
