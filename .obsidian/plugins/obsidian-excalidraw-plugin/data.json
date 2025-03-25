@@ -103,6 +103,222 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
     "libraryItems": [
       {
+        "id": "PjgP85ExrPutQKSQqAYgl",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "xIrAiRElFqzhJBD9ZAaSK",
+            "type": "line",
+            "x": 438.4029862367959,
+            "y": -186.92783907717308,
+            "width": 43.41724463472957,
+            "height": 97.40619004649005,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "aJ",
+            "roundness": null,
+            "seed": 2141542855,
+            "version": 494,
+            "versionNonce": 2022286535,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1742901243175,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                0.8082628033255621,
+                26.055153716139323
+              ],
+              [
+                28.32494647614472,
+                33.934009555094974
+              ],
+              [
+                -13.442158477349468,
+                40.05009955532761
+              ],
+              [
+                29.00704841688241,
+                53.06829535107821
+              ],
+              [
+                -14.410196217847162,
+                58.08600220307734
+              ],
+              [
+                27.702558451416557,
+                70.14415306768122
+              ],
+              [
+                3.4014075262177648,
+                77.38192779130316
+              ],
+              [
+                3.4014075262177648,
+                97.40619004649005
+              ]
+            ],
+            "lastCommittedPoint": [
+              3.279311100905943,
+              189.35763345037662
+            ],
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          }
+        ],
+        "created": 1742901247775
+      },
+      {
+        "id": "e_4TijPY6nCU5OZ-yFZvU",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "1d2XPh_KwJ7i29YsvbmXm",
+            "type": "line",
+            "x": -23.314714920417778,
+            "y": -109.43150506182803,
+            "width": 28.73311037666062,
+            "height": 170.41424506391775,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "aA",
+            "roundness": {
+              "type": 2
+            },
+            "seed": 1848523847,
+            "version": 2437,
+            "versionNonce": 975837159,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1742901094826,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                1.4041980531134435,
+                22.766339003764784
+              ],
+              [
+                13.177328553238958,
+                42.8364663866889
+              ],
+              [
+                3.7851284749751093,
+                63.071286089685564
+              ],
+              [
+                -10.109841282536557,
+                53.83008672527095
+              ],
+              [
+                2.2698112949772167,
+                43.25353986688694
+              ],
+              [
+                15.428713392862868,
+                67.99916437204253
+              ],
+              [
+                4.607559856092962,
+                82.91826192583515
+              ],
+              [
+                -5.2616167173212745,
+                75.87578662913691
+              ],
+              [
+                8.719716761682228,
+                73.31488652124663
+              ],
+              [
+                18.26254432023243,
+                90.98802105899327
+              ],
+              [
+                11.094171905806993,
+                104.4522022818254
+              ],
+              [
+                1.8516856836608024,
+                103.56268140291603
+              ],
+              [
+                -3.9870910918177196,
+                94.76053316297138
+              ],
+              [
+                11.652466056681902,
+                93.57225047227296
+              ],
+              [
+                18.623269094124062,
+                114.62846121205659
+              ],
+              [
+                -1.074261460222329,
+                124.64574345507602
+              ],
+              [
+                -4.646347877689503,
+                113.70681250879684
+              ],
+              [
+                11.8780027559141,
+                113.32122986636868
+              ],
+              [
+                14.088871793200221,
+                130.95847016208788
+              ],
+              [
+                -0.07614743051363959,
+                141.54399808232506
+              ],
+              [
+                -1.6211891632806328,
+                170.41424506391775
+              ]
+            ],
+            "lastCommittedPoint": [
+              5,
+              205
+            ],
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          }
+        ],
+        "created": 1742901107741
+      },
+      {
         "id": "HBwXbfxRSoAeku8xuf80P",
         "status": "unpublished",
         "elements": [
