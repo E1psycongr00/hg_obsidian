@@ -129,7 +129,7 @@
             "version": 494,
             "versionNonce": 2022286535,
             "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1742901243175,
             "link": null,
             "locked": false,
@@ -171,10 +171,7 @@
                 97.40619004649005
               ]
             ],
-            "lastCommittedPoint": [
-              3.279311100905943,
-              189.35763345037662
-            ],
+            "lastCommittedPoint": null,
             "startBinding": null,
             "endBinding": null,
             "startArrowhead": null,
@@ -212,7 +209,7 @@
             "version": 2437,
             "versionNonce": 975837159,
             "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1742901094826,
             "link": null,
             "locked": false,
@@ -306,10 +303,7 @@
                 170.41424506391775
               ]
             ],
-            "lastCommittedPoint": [
-              5,
-              205
-            ],
+            "lastCommittedPoint": null,
             "startBinding": null,
             "endBinding": null,
             "startArrowhead": null,
