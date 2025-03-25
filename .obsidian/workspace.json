@@ -33,9 +33,20 @@
               "icon": "excalidraw-icon",
               "title": "분권 발전기 등가 회로 (draw)"
             }
+          },
+          {
+            "id": "bb9c5a4194c95135",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/직권 발전기 등가 회로 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "직권 발전기 등가 회로 (draw)"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/분권 발전기 등가 회로 (draw).md"
+                "file": "04. Practice Notes/분권 발전기.md"
               },
               "icon": "lucide-info",
-              "title": "분권 발전기 등가 회로 (draw) 의 파일 속성"
+              "title": "분권 발전기 의 파일 속성"
             }
           },
           {
@@ -356,17 +367,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9a893ba20e113096",
+  "active": "9384f580f274d3ae",
   "lastOpenFiles": [
+    "02. MOC/전기기기 MOC.md",
+    "03. Permanent Notes/타여자 발전기.md",
+    "03. Permanent Notes/직권 발전기.md",
     "04. Practice Notes/분권 발전기.md",
     "Excalidraw/분권 발전기 등가 회로 (draw).md",
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/분권 발전기 등가 회로 (draw).svg",
+    "Excalidraw/직권 발전기 등가 회로 (draw).md",
     "03. Permanent Notes/전기자 반작용.md",
     "Excalidraw/타여자 발전기 등가 회로 (draw).md",
-    "Excalidraw/직권 발전기 등가 회로 (draw).md",
-    "03. Permanent Notes/직권 발전기.md",
     "Excalidraw/직권 발전기 등가 회로 (draw).svg",
-    "03. Permanent Notes/타여자 발전기.md",
     "Excalidraw/타여자 발전기 등가 회로 (draw).svg",
     "Excalidraw/정류 종류 (draw).md",
     "04. Practice Notes/정류.md",
@@ -391,9 +403,7 @@
     "03. Permanent Notes/댐퍼.md",
     "03. Permanent Notes/캘빈의 법칙.md",
     "04. Practice Notes/연선.md",
-    "03. Permanent Notes/단선.md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).svg",
-    "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
