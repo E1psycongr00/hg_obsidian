@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전력공학 MOC.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전력공학 MOC"
+              "title": "전기기기 MOC"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전력공학 MOC.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "전력공학 MOC 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -345,8 +345,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/댐퍼.md",
     "02. MOC/전력공학 MOC.md",
+    "03. Permanent Notes/댐퍼.md",
     "03. Permanent Notes/캘빈의 법칙.md",
     "04. Practice Notes/연선.md",
     "03. Permanent Notes/단선.md",
