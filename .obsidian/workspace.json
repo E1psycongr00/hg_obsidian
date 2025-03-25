@@ -46,8 +46,7 @@
               "title": "타여자 발전기 등가 회로 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/직권 발전기 등가 회로 (draw).md"
+                "file": "04. Practice Notes/직권 발전기.md"
               },
               "icon": "lucide-info",
-              "title": "직권 발전기 등가 회로 (draw) 의 파일 속성"
+              "title": "직권 발전기 의 파일 속성"
             }
           },
           {
@@ -368,11 +367,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9d1ec1c1de88dcad",
+  "active": "9384f580f274d3ae",
   "lastOpenFiles": [
+    "Excalidraw/직권 발전기 등가 회로 (draw).md",
     "Excalidraw/직권 발전기 등가 회로 (draw).svg",
     "Excalidraw/타여자 발전기 등가 회로 (draw).md",
-    "Excalidraw/직권 발전기 등가 회로 (draw).md",
     "04. Practice Notes/직권 발전기.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/타여자 발전기.md",
@@ -405,7 +404,6 @@
     "04. Practice Notes/정전 유도 장해.md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).svg",
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
-    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
