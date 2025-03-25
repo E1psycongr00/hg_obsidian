@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "109c6bf989d92bdf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "직류 발전기 정류자 확대 모습 (draw)"
+            }
+          },
+          {
             "id": "7ef458a77bbe1c2c",
             "type": "leaf",
             "state": {
@@ -34,7 +46,8 @@
               "title": "직류 발전기 요소 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/직류 발전기.md"
+                "file": "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "직류 발전기 의 파일 속성"
+              "title": "직류 발전기 정류자 확대 모습 (draw) 의 파일 속성"
             }
           },
           {
@@ -355,10 +368,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "109c6bf989d92bdf",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).svg",
     "04. Practice Notes/직류 발전기.md",
+    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md",
+    "02. MOC/전기기기 MOC.md",
     "Excalidraw/직류 발전기 요소 (draw).md",
     "Excalidraw/직류 발전기 요소 (draw).svg",
     "02. MOC/전력공학 MOC.md",
@@ -382,7 +397,6 @@
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).md",
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).md",
     "Excalidraw/절연 파괴 1단계 정상 조건 (draw).md",
-    "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).svg",
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
     "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
