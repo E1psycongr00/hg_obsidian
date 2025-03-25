@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
+      "basename": "타여자 발전기 등가 회로 (draw)",
+      "path": "Excalidraw/타여자 발전기 등가 회로 (draw).md"
     },
     {
       "basename": "타여자 발전기",
       "path": "04. Practice Notes/타여자 발전기.md"
     },
     {
-      "basename": "정류",
-      "path": "04. Practice Notes/정류.md"
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "정류 종류 (draw)",
       "path": "Excalidraw/정류 종류 (draw).md"
+    },
+    {
+      "basename": "정류",
+      "path": "04. Practice Notes/정류.md"
     },
     {
       "basename": "정류 구간 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "웹 인증 보안 MOC",
       "path": "02. MOC/웹 인증 보안 MOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     }
   ],
   "omittedPaths": [],

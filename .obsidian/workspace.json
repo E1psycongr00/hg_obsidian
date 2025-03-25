@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/타여자 발전기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "타여자 발전기"
             }
           },
           {
-            "id": "c9c35d001eb28b9f",
+            "id": "75e7e5a8fcca758e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/정류 종류 (draw).md"
+                "file": "Excalidraw/타여자 발전기 등가 회로 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "정류 종류 (draw)"
+              "title": "타여자 발전기 등가 회로 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "Excalidraw/타여자 발전기 등가 회로 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "타여자 발전기 등가 회로 (draw) 의 파일 속성"
             }
           },
           {
@@ -355,12 +356,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9384f580f274d3ae",
+  "active": "75e7e5a8fcca758e",
   "lastOpenFiles": [
+    "Excalidraw/타여자 발전기 등가 회로 (draw).svg",
     "04. Practice Notes/타여자 발전기.md",
+    "Excalidraw/타여자 발전기 등가 회로 (draw).md",
     "02. MOC/전기기기 MOC.md",
-    "04. Practice Notes/정류.md",
     "Excalidraw/정류 종류 (draw).md",
+    "04. Practice Notes/정류.md",
     "Excalidraw/정류 종류 (draw).svg",
     "Excalidraw/정류 구간 (draw).md",
     "Excalidraw/정류 구간 (draw).svg",
@@ -387,8 +390,6 @@
     "04. Practice Notes/정전 유도 장해.md",
     "02. MOC/웹 기초 MOC.md",
     "02. MOC/웹 인증 보안 MOC.md",
-    "02. MOC/Home.md",
-    "01. Guides/Folder Guides.md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).svg",
     "Excalidraw/절연 파괴 3단계 충돌 이온화 (draw).svg",
     "Excalidraw/절연 파괴 2단계 임계점 도달 (draw).svg",
