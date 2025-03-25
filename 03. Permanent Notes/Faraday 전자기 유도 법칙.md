@@ -3,7 +3,8 @@ tags:
   - 전자기학
   - 시변전자기장
   - 기전력
-aliases: 
+aliases:
+  - 페러데이 전자기 유도 법칙
 created: 2025-03-23
 title: Faraday 전자기 유도 법칙
 note-type: COMMON

@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/분권 발전기.md"
     },
     {
+      "basename": "Faraday 전자기 유도 법칙",
+      "path": "03. Permanent Notes/Faraday 전자기 유도 법칙.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "전기자 반작용 (draw)",
       "path": "Excalidraw/전기자 반작용 (draw).md"
-    },
-    {
-      "basename": "Faraday 전자기 유도 법칙",
-      "path": "03. Permanent Notes/Faraday 전자기 유도 법칙.md"
     },
     {
       "basename": "전자기학 MOC",
