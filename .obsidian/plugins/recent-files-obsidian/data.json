@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "분권 발전기",
-      "path": "04. Practice Notes/분권 발전기.md"
-    },
-    {
-      "basename": "Faraday 전자기 유도 법칙",
-      "path": "03. Permanent Notes/Faraday 전자기 유도 법칙.md"
+      "basename": "직권 발전기",
+      "path": "03. Permanent Notes/직권 발전기.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
-      "basename": "타여자 발전기",
-      "path": "03. Permanent Notes/타여자 발전기.md"
+      "basename": "복권 발전기",
+      "path": "04. Practice Notes/복권 발전기.md"
     },
     {
-      "basename": "직권 발전기",
-      "path": "03. Permanent Notes/직권 발전기.md"
+      "basename": "분권 발전기",
+      "path": "03. Permanent Notes/분권 발전기.md"
     },
     {
       "basename": "분권 발전기 등가 회로 (draw)",
@@ -27,6 +23,14 @@
     {
       "basename": "직권 발전기 등가 회로 (draw)",
       "path": "Excalidraw/직권 발전기 등가 회로 (draw).md"
+    },
+    {
+      "basename": "Faraday 전자기 유도 법칙",
+      "path": "03. Permanent Notes/Faraday 전자기 유도 법칙.md"
+    },
+    {
+      "basename": "타여자 발전기",
+      "path": "03. Permanent Notes/타여자 발전기.md"
     },
     {
       "basename": "전기자 반작용",
@@ -95,10 +99,6 @@
     {
       "basename": "캘빈의 법칙",
       "path": "03. Permanent Notes/캘빈의 법칙.md"
-    },
-    {
-      "basename": "연선",
-      "path": "04. Practice Notes/연선.md"
     }
   ],
   "omittedPaths": [],
