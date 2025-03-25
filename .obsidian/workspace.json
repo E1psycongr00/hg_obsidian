@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/분권 발전기.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "분권 발전기"
+              "title": "전기기기 MOC"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/분권 발전기.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "분권 발전기 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -345,10 +345,11 @@
   },
   "active": "9384f580f274d3ae",
   "lastOpenFiles": [
-    "Excalidraw/타여자 발전기 등가 회로 (draw).md",
-    "04. Practice Notes/분권 발전기.md",
-    "Excalidraw/직권 발전기 등가 회로 (draw).md",
+    "03. Permanent Notes/전기자 반작용.md",
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/분권 발전기.md",
+    "Excalidraw/타여자 발전기 등가 회로 (draw).md",
+    "Excalidraw/직권 발전기 등가 회로 (draw).md",
     "03. Permanent Notes/직권 발전기.md",
     "Excalidraw/직권 발전기 등가 회로 (draw).svg",
     "03. Permanent Notes/타여자 발전기.md",
@@ -365,7 +366,6 @@
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
     "03. Permanent Notes/자기 인덕턴스.md",
-    "03. Permanent Notes/전기자 반작용.md",
     "Excalidraw/전기자 반작용으로 인한 중성축 이동 (draw).svg",
     "Excalidraw/전기자 반작용 (draw).svg",
     "03. Permanent Notes/직류 발전기.md",
