@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "직권 발전기",
-      "path": "03. Permanent Notes/직권 발전기.md"
+      "basename": "DC 발전기 병렬 운전",
+      "path": "04. Practice Notes/DC 발전기 병렬 운전.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "직권 발전기",
+      "path": "03. Permanent Notes/직권 발전기.md"
     },
     {
       "basename": "복권 발전기",
@@ -95,10 +99,6 @@
     {
       "basename": "댐퍼",
       "path": "03. Permanent Notes/댐퍼.md"
-    },
-    {
-      "basename": "캘빈의 법칙",
-      "path": "03. Permanent Notes/캘빈의 법칙.md"
     }
   ],
   "omittedPaths": [],
