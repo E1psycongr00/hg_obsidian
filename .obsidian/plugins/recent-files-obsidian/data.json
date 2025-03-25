@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/발전기의 유기 기전력.md"
     },
     {
+      "basename": "전기자 면적 (draw)",
+      "path": "Excalidraw/전기자 면적 (draw).md"
+    },
+    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전기자 반작용 (draw)",
       "path": "Excalidraw/전기자 반작용 (draw).md"
-    },
-    {
-      "basename": "자기 인덕턴스",
-      "path": "03. Permanent Notes/자기 인덕턴스.md"
     }
   ],
   "omittedPaths": [],
