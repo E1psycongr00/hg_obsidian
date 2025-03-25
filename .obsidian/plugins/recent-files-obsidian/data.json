@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "타여자 발전기",
+      "path": "04. Practice Notes/타여자 발전기.md"
+    },
+    {
       "basename": "정류",
       "path": "04. Practice Notes/정류.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "정류 구간 (draw)",
       "path": "Excalidraw/정류 구간 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "전기자 반작용으로 인한 중성축 이동 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
     }
   ],
   "omittedPaths": [],
