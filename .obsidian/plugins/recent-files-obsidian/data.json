@@ -5,6 +5,26 @@
       "path": "02. MOC/전력공학 MOC.md"
     },
     {
+      "basename": "댐퍼",
+      "path": "03. Permanent Notes/댐퍼.md"
+    },
+    {
+      "basename": "캘빈의 법칙",
+      "path": "03. Permanent Notes/캘빈의 법칙.md"
+    },
+    {
+      "basename": "연선",
+      "path": "04. Practice Notes/연선.md"
+    },
+    {
+      "basename": "단선",
+      "path": "03. Permanent Notes/단선.md"
+    },
+    {
+      "basename": "정전 유도 장해",
+      "path": "04. Practice Notes/정전 유도 장해.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "정자기장과 운동 루프 기전력",
       "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
-    },
-    {
-      "basename": "전류 소자가 받는 힘",
-      "path": "03. Permanent Notes/전류 소자가 받는 힘.md"
-    },
-    {
-      "basename": "하전 입자가 받는 힘",
-      "path": "03. Permanent Notes/하전 입자가 받는 힘.md"
-    },
-    {
-      "basename": "큐리 온도",
-      "path": "03. Permanent Notes/큐리 온도.md"
-    },
-    {
-      "basename": "자화",
-      "path": "자화.md"
-    },
-    {
-      "basename": "전속",
-      "path": "03. Permanent Notes/전속.md"
     }
   ],
   "omittedPaths": [],
