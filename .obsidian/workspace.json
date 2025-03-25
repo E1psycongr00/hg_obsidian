@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9384f580f274d3ae",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02. MOC/전기기기 MOC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -285,6 +284,16 @@
             "id": "adefdd58762556f3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "9aadc3c68d87023a",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -292,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "7d466e57ea240c21",
@@ -344,10 +353,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9384f580f274d3ae",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/직류 발전기.md",
+    "02. MOC/Home.md",
     "02. MOC/전기기기 MOC.md",
+    "03. Permanent Notes/직류 발전기.md",
     "04. Practice Notes/잔류 자기와 자여자 발전 관계.md",
     "03. Permanent Notes/DC 발전기 병렬 운전.md",
     "03. Permanent Notes/직권 발전기.md",
@@ -380,7 +390,6 @@
     "Excalidraw/직류 발전기 요소 (draw).md",
     "Excalidraw/직류 발전기 정류자 확대 모습 (draw).svg",
     "Excalidraw/직류 발전기 요소 (draw).svg",
-    "03. Permanent Notes/댐퍼.md",
     "Excalidraw/절연 파괴 4단계 전도 경로 형성 (draw).svg",
     "templaters",
     "templates/templater",

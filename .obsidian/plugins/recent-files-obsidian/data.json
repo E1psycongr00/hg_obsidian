@@ -5,6 +5,10 @@
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "직류 발전기",
       "path": "03. Permanent Notes/직류 발전기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "직류 발전기 정류자 확대 모습 (draw)",
       "path": "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md"
-    },
-    {
-      "basename": "직류 발전기 요소 (draw)",
-      "path": "Excalidraw/직류 발전기 요소 (draw).md"
     }
   ],
   "omittedPaths": [],
