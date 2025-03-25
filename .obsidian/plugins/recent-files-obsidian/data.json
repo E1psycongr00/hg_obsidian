@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/발전기의 유기 기전력.md"
     },
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "전기자가 받는 자기장의 선형성 (draw)",
       "path": "Excalidraw/전기자가 받는 자기장의 선형성 (draw).md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "시변 자기장과 정지 루프 기전력",
       "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "Home",
