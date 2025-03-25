@@ -7,7 +7,7 @@ aliases:
 created: 2025-03-25
 title: DC 발전기 병렬 운전
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)

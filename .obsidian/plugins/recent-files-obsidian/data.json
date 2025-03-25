@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "잔류 자기와 자여자 발전 관계",
-      "path": "04. Practice Notes/잔류 자기와 자여자 발전 관계.md"
-    },
-    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
-      "basename": "DC 발전기 병렬 운전",
-      "path": "04. Practice Notes/DC 발전기 병렬 운전.md"
+      "basename": "잔류 자기와 자여자 발전 관계",
+      "path": "04. Practice Notes/잔류 자기와 자여자 발전 관계.md"
     },
     {
-      "basename": "직권 발전기",
-      "path": "03. Permanent Notes/직권 발전기.md"
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "DC 발전기 병렬 운전",
+      "path": "03. Permanent Notes/DC 발전기 병렬 운전.md"
     },
     {
       "basename": "복권 발전기",
       "path": "04. Practice Notes/복권 발전기.md"
+    },
+    {
+      "basename": "직권 발전기",
+      "path": "03. Permanent Notes/직권 발전기.md"
     },
     {
       "basename": "분권 발전기",
@@ -69,10 +77,6 @@
       "path": "Excalidraw/전기자 반작용 (draw).md"
     },
     {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
       "basename": "정자기장과 운동 루프 기전력",
       "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "직류 발전기 요소 (draw)",
       "path": "Excalidraw/직류 발전기 요소 (draw).md"
-    },
-    {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
     }
   ],
   "omittedPaths": [],
