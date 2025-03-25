@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "발전기의 유도 기전력",
+      "path": "04. Practice Notes/발전기의 유도 기전력.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "정자기장과 운동 루프 기전력",
+      "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
+    },
+    {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "시변 자기장과 정지 루프 기전력",
+      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
     },
     {
       "basename": "직류 발전기",
@@ -31,10 +47,6 @@
     {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
     },
     {
       "basename": "DC 발전기 병렬 운전",
@@ -85,20 +97,8 @@
       "path": "Excalidraw/전기자 반작용 (draw).md"
     },
     {
-      "basename": "정자기장과 운동 루프 기전력",
-      "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
-    },
-    {
-      "basename": "시변 자기장과 정지 루프 기전력",
-      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
-    },
-    {
       "basename": "자기 인덕턴스",
       "path": "03. Permanent Notes/자기 인덕턴스.md"
-    },
-    {
-      "basename": "직류 발전기 정류자 확대 모습 (draw)",
-      "path": "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md"
     }
   ],
   "omittedPaths": [],
