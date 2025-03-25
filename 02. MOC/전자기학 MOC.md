@@ -3,7 +3,8 @@ tags:
   - 전기기사
   - 전자기학
   - 전기
-aliases: 
+aliases:
+  - 유도기전력
 created: 2025-03-21
 title: 전자기학 MOC
 note-type: MOC

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "발전기의 유도 기전력",
-      "path": "04. Practice Notes/발전기의 유도 기전력.md"
+      "basename": "발전기의 유기 기전력",
+      "path": "04. Practice Notes/발전기의 유기 기전력.md"
+    },
+    {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "정자기장과 운동 루프 기전력",
+      "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
+    },
+    {
+      "basename": "시변 자기장과 정지 루프 기전력",
+      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
     },
     {
       "basename": "전기기기 MOC",
@@ -11,18 +23,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "정자기장과 운동 루프 기전력",
-      "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "시변 자기장과 정지 루프 기전력",
-      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
     },
     {
       "basename": "직류 발전기",
