@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "DC 발전기 병렬 운전",
-      "path": "04. Practice Notes/DC 발전기 병렬 운전.md"
+      "basename": "잔류 자기와 자여자 발전 관계",
+      "path": "04. Practice Notes/잔류 자기와 자여자 발전 관계.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "DC 발전기 병렬 운전",
+      "path": "04. Practice Notes/DC 발전기 병렬 운전.md"
     },
     {
       "basename": "직권 발전기",
@@ -95,10 +99,6 @@
     {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
-      "basename": "댐퍼",
-      "path": "03. Permanent Notes/댐퍼.md"
     }
   ],
   "omittedPaths": [],
