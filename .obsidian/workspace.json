@@ -34,7 +34,8 @@
               "title": "타여자 발전기 등가 회로 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/타여자 발전기.md"
+                "file": "Excalidraw/타여자 발전기 등가 회로 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "타여자 발전기 의 파일 속성"
+              "title": "타여자 발전기 등가 회로 (draw) 의 파일 속성"
             }
           },
           {
@@ -355,11 +356,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9384f580f274d3ae",
+  "active": "75e7e5a8fcca758e",
   "lastOpenFiles": [
+    "04. Practice Notes/타여자 발전기.md",
     "Excalidraw/타여자 발전기 등가 회로 (draw).md",
     "Excalidraw/타여자 발전기 등가 회로 (draw).svg",
-    "04. Practice Notes/타여자 발전기.md",
     "02. MOC/전기기기 MOC.md",
     "Excalidraw/정류 종류 (draw).md",
     "04. Practice Notes/정류.md",
