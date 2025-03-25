@@ -46,8 +46,7 @@
               "title": "직류 발전기 요소 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md"
+                "file": "04. Practice Notes/직류 발전기.md"
               },
               "icon": "lucide-info",
-              "title": "직류 발전기 정류자 확대 모습 (draw) 의 파일 속성"
+              "title": "직류 발전기 의 파일 속성"
             }
           },
           {
@@ -368,13 +367,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "109c6bf989d92bdf",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).svg",
-    "04. Practice Notes/직류 발전기.md",
-    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md",
-    "02. MOC/전기기기 MOC.md",
     "Excalidraw/직류 발전기 요소 (draw).md",
+    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md",
+    "04. Practice Notes/직류 발전기.md",
+    "Excalidraw/직류 발전기 정류자 확대 모습 (draw).svg",
+    "02. MOC/전기기기 MOC.md",
     "Excalidraw/직류 발전기 요소 (draw).svg",
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/댐퍼.md",
@@ -416,7 +415,6 @@
     "templates/scripts/moveMOC.js",
     "Excalidraw/MOC 상향식 (draw).svg",
     "index.canvas",
-    "Excalidraw/%Z 임피던스 사고 후 (draw).svg",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
     "명언 모음.canvas",
