@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02. MOC/전기기기 MOC.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -346,12 +346,13 @@
   },
   "active": "9384f580f274d3ae",
   "lastOpenFiles": [
-    "03. Permanent Notes/DC 발전기 병렬 운전.md",
+    "03. Permanent Notes/직류 발전기.md",
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/잔류 자기와 자여자 발전 관계.md",
+    "03. Permanent Notes/DC 발전기 병렬 운전.md",
     "03. Permanent Notes/직권 발전기.md",
     "03. Permanent Notes/분권 발전기.md",
     "04. Practice Notes/복권 발전기.md",
-    "04. Practice Notes/잔류 자기와 자여자 발전 관계.md",
     "02. MOC/전력공학 MOC.md",
     "02. MOC/전자기학 MOC.md",
     "03. Permanent Notes/전기자 반작용.md",
@@ -375,7 +376,6 @@
     "03. Permanent Notes/자기 인덕턴스.md",
     "Excalidraw/전기자 반작용으로 인한 중성축 이동 (draw).svg",
     "Excalidraw/전기자 반작용 (draw).svg",
-    "03. Permanent Notes/직류 발전기.md",
     "Excalidraw/직류 발전기 정류자 확대 모습 (draw).md",
     "Excalidraw/직류 발전기 요소 (draw).md",
     "Excalidraw/직류 발전기 정류자 확대 모습 (draw).svg",

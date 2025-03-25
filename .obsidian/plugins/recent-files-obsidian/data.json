@@ -5,6 +5,14 @@
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
+      "basename": "직류 발전기",
+      "path": "03. Permanent Notes/직류 발전기.md"
+    },
+    {
+      "basename": "잔류 자기와 자여자 발전 관계",
+      "path": "04. Practice Notes/잔류 자기와 자여자 발전 관계.md"
+    },
+    {
       "basename": "직권 발전기",
       "path": "03. Permanent Notes/직권 발전기.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "복권 발전기",
       "path": "04. Practice Notes/복권 발전기.md"
-    },
-    {
-      "basename": "잔류 자기와 자여자 발전 관계",
-      "path": "04. Practice Notes/잔류 자기와 자여자 발전 관계.md"
     },
     {
       "basename": "전력공학 MOC",
@@ -87,10 +91,6 @@
     {
       "basename": "자기 인덕턴스",
       "path": "03. Permanent Notes/자기 인덕턴스.md"
-    },
-    {
-      "basename": "직류 발전기",
-      "path": "03. Permanent Notes/직류 발전기.md"
     },
     {
       "basename": "직류 발전기 정류자 확대 모습 (draw)",
