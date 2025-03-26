@@ -5,6 +5,14 @@
       "path": "04. Practice Notes/분권 전동기.md"
     },
     {
+      "basename": "타여자 전동기",
+      "path": "03. Permanent Notes/타여자 전동기.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "분권 전동기 등가 회로 (draw)",
       "path": "Excalidraw/분권 전동기 등가 회로 (draw).md"
     },
@@ -39,14 +47,6 @@
     {
       "basename": "전속",
       "path": "03. Permanent Notes/전속.md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
-      "basename": "타여자 전동기",
-      "path": "03. Permanent Notes/타여자 전동기.md"
     },
     {
       "basename": "타여자 발전기",
