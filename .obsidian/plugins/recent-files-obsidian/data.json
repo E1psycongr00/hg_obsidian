@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "토크 특성 곡선 (draw)",
+      "path": "Excalidraw/토크 특성 곡선 (draw).md"
+    },
+    {
+      "basename": "토크 특성 곡선",
+      "path": "04. Practice Notes/토크 특성 곡선.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "전기자 면적 (draw)",
       "path": "Excalidraw/전기자 면적 (draw).md"
-    },
-    {
-      "basename": "직권 발전기",
-      "path": "03. Permanent Notes/직권 발전기.md"
-    },
-    {
-      "basename": "전기자 반작용",
-      "path": "03. Permanent Notes/전기자 반작용.md"
     }
   ],
   "omittedPaths": [],
