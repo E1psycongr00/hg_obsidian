@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "타여자 전동기 등가 회로 (draw)",
-      "path": "Excalidraw/타여자 전동기 등가 회로 (draw).md"
+      "basename": "타여자 전동기",
+      "path": "04. Practice Notes/타여자 전동기.md"
+    },
+    {
+      "basename": "타여자 발전기",
+      "path": "03. Permanent Notes/타여자 발전기.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
     },
     {
       "basename": "타여자 발전기 등가 회로 (draw)",
       "path": "Excalidraw/타여자 발전기 등가 회로 (draw).md"
     },
     {
-      "basename": "타여자 전동기",
-      "path": "04. Practice Notes/타여자 전동기.md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
+      "basename": "타여자 전동기 등가 회로 (draw)",
+      "path": "Excalidraw/타여자 전동기 등가 회로 (draw).md"
     },
     {
       "basename": "직류 전동기 토크와 회전수",
@@ -41,10 +49,6 @@
       "path": "03. Permanent Notes/직권 발전기.md"
     },
     {
-      "basename": "타여자 발전기",
-      "path": "03. Permanent Notes/타여자 발전기.md"
-    },
-    {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "전기자가 받는 자기장의 선형성 (draw)",
       "path": "Excalidraw/전기자가 받는 자기장의 선형성 (draw).md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
     },
     {
       "basename": "시변 자기장과 정지 루프 기전력",
