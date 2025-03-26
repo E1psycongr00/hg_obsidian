@@ -23,6 +23,30 @@
             }
           },
           {
+            "id": "e7102af47fec6a91",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/분권 발전기 등가 회로 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "분권 발전기 등가 회로 (draw)"
+            }
+          },
+          {
+            "id": "a6118c666219e9b8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-26 12.01.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-26 12.01.06.excalidraw"
+            }
+          },
+          {
             "id": "411c37c1ed5f76c0",
             "type": "leaf",
             "state": {
@@ -37,7 +61,8 @@
               "title": "전자기학 MOC"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "타여자 발",
+                "query": "분권 발전기",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,10 +139,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/분권 전동기.md"
+                "file": "Excalidraw/Drawing 2025-03-26 12.01.06.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "분권 전동기 의 파일 속성"
+              "title": "Drawing 2025-03-26 12.01.06.excalidraw 의 파일 속성"
             }
           },
           {
@@ -367,10 +392,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a6118c666219e9b8",
   "lastOpenFiles": [
-    "02. MOC/전자기학 MOC.md",
+    "Excalidraw/분권 발전기 등가 회로 (draw).md",
+    "Excalidraw/Drawing 2025-03-26 12.01.06.excalidraw.md",
     "04. Practice Notes/분권 전동기.md",
+    "02. MOC/전자기학 MOC.md",
+    "04. Practice Notes/절연 파괴.md",
+    "03. Permanent Notes/공기 절연 파괴.md",
+    "03. Permanent Notes/끝단 효과.md",
+    "03. Permanent Notes/전계.md",
+    "03. Permanent Notes/전속.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/타여자 전동기.md",
     "03. Permanent Notes/타여자 발전기.md",
@@ -392,13 +424,6 @@
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).md",
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).svg",
     "Excalidraw/전기자 면적 (draw).svg",
-    "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
-    "02. MOC/Home.md",
-    "03. Permanent Notes/직류 발전기.md",
-    "03. Permanent Notes/DC 발전기 병렬 운전.md",
-    "03. Permanent Notes/분권 발전기.md",
-    "04. Practice Notes/복권 발전기.md",
-    "02. MOC/전력공학 MOC.md",
     "Excalidraw/분권 발전기 등가 회로 (draw).svg",
     "Excalidraw/직권 발전기 등가 회로 (draw).svg",
     "Excalidraw/타여자 발전기 등가 회로 (draw).svg",

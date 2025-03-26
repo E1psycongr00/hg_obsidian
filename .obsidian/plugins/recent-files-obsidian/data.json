@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-03-26 12.01.06.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-26 12.01.06.excalidraw.md"
+    },
+    {
+      "basename": "분권 발전기 등가 회로 (draw)",
+      "path": "Excalidraw/분권 발전기 등가 회로 (draw).md"
+    },
+    {
       "basename": "분권 전동기",
       "path": "04. Practice Notes/분권 전동기.md"
     },
     {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "절연 파괴",
+      "path": "04. Practice Notes/절연 파괴.md"
+    },
+    {
+      "basename": "공기 절연 파괴",
+      "path": "03. Permanent Notes/공기 절연 파괴.md"
+    },
+    {
+      "basename": "끝단 효과",
+      "path": "03. Permanent Notes/끝단 효과.md"
+    },
+    {
+      "basename": "전계",
+      "path": "03. Permanent Notes/전계.md"
+    },
+    {
+      "basename": "전속",
+      "path": "03. Permanent Notes/전속.md"
     },
     {
       "basename": "전기기기 MOC",
@@ -71,34 +99,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "직류 발전기",
-      "path": "03. Permanent Notes/직류 발전기.md"
-    },
-    {
-      "basename": "잔류 자기와 자여자 발전 관계",
-      "path": "04. Practice Notes/잔류 자기와 자여자 발전 관계.md"
-    },
-    {
-      "basename": "분권 발전기",
-      "path": "03. Permanent Notes/분권 발전기.md"
-    },
-    {
-      "basename": "복권 발전기",
-      "path": "04. Practice Notes/복권 발전기.md"
-    },
-    {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
-      "basename": "DC 발전기 병렬 운전",
-      "path": "03. Permanent Notes/DC 발전기 병렬 운전.md"
-    },
-    {
-      "basename": "분권 발전기 등가 회로 (draw)",
-      "path": "Excalidraw/분권 발전기 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
