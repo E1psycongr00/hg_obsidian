@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "벡터 항등식",
+      "path": "03. Permanent Notes/벡터 항등식.md"
+    },
+    {
+      "basename": "벡터의 외적",
+      "path": "03. Permanent Notes/벡터의 외적.md"
+    },
+    {
+      "basename": "기본 벡터 연산",
+      "path": "기본 벡터 연산.md"
+    },
+    {
       "basename": "분권 전동기",
       "path": "04. Practice Notes/분권 전동기.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "중권 회로 (draw)",
       "path": "Excalidraw/중권 회로 (draw).md"
-    },
-    {
-      "basename": "전기자가 받는 자기장의 선형성 (draw)",
-      "path": "Excalidraw/전기자가 받는 자기장의 선형성 (draw).md"
-    },
-    {
-      "basename": "시변 자기장과 정지 루프 기전력",
-      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     }
   ],
   "omittedPaths": [],
