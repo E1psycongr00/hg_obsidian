@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/발전기의 유기 기전력.md",
+                "file": "04. Practice Notes/직류 전동기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "발전기의 유기 기전력"
+              "title": "직류 전동기"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/발전기의 유기 기전력.md"
+                "file": "04. Practice Notes/직류 전동기.md"
               },
               "icon": "lucide-info",
-              "title": "발전기의 유기 기전력 의 파일 속성"
+              "title": "직류 전동기 의 파일 속성"
             }
           },
           {
@@ -370,8 +370,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/직류 전동기.md",
     "03. Permanent Notes/발전기의 유기 기전력.md",
+    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
+    "03. Permanent Notes/하전 입자가 받는 힘.md",
+    "04. Practice Notes/직류 전동기.md",
     "Excalidraw/전기자 면적 (draw).md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/직권 발전기.md",
@@ -384,11 +386,9 @@
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).md",
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).svg",
     "Excalidraw/전기자 면적 (draw).svg",
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "02. MOC/전자기학 MOC.md",
     "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
     "02. MOC/Home.md",
-    "03. Permanent Notes/하전 입자가 받는 힘.md",
     "03. Permanent Notes/직류 발전기.md",
     "03. Permanent Notes/DC 발전기 병렬 운전.md",
     "03. Permanent Notes/분권 발전기.md",
