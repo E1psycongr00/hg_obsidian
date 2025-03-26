@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "f2c58049d1a3f730",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/전기자 면적 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "전기자 면적 (draw)"
-            }
-          },
-          {
             "id": "411c37c1ed5f76c0",
             "type": "leaf",
             "state": {
@@ -382,8 +370,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/전기자 면적 (draw).md",
     "04. Practice Notes/직류 전동기.md",
+    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/직권 발전기.md",
     "04. Practice Notes/잔류 자기와 자여자 발전 관계.md",
     "03. Permanent Notes/타여자 발전기.md",
@@ -394,7 +383,6 @@
     "Excalidraw/중권 회로 (draw).svg",
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).md",
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).svg",
-    "Excalidraw/전기자 면적 (draw).md",
     "Excalidraw/전기자 면적 (draw).svg",
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "02. MOC/전자기학 MOC.md",

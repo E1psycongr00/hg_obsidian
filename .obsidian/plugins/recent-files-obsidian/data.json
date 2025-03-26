@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/직류 전동기.md"
     },
     {
+      "basename": "전기자 면적 (draw)",
+      "path": "Excalidraw/전기자 면적 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "전기자가 받는 자기장의 선형성 (draw)",
       "path": "Excalidraw/전기자가 받는 자기장의 선형성 (draw).md"
-    },
-    {
-      "basename": "전기자 면적 (draw)",
-      "path": "Excalidraw/전기자 면적 (draw).md"
     },
     {
       "basename": "전자기학 MOC",
