@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "동기 발전기",
+      "path": "04. Practice Notes/동기 발전기.md"
+    },
+    {
       "basename": "동기 발전기 구조 (draw)",
       "path": "Excalidraw/동기 발전기 구조 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "타여자 발전기",
       "path": "03. Permanent Notes/타여자 발전기.md"
-    },
-    {
-      "basename": "타여자 발전기 등가 회로 (draw)",
-      "path": "Excalidraw/타여자 발전기 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
