@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "84067daf67163a3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/동기 발전기 구조 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "동기 발전기 구조 (draw)"
+            }
+          },
+          {
             "id": "10a86473d61dd3e1",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "벡터 항등식"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "Excalidraw/동기 발전기 구조 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "동기 발전기 구조 (draw) 의 파일 속성"
             }
           },
           {
@@ -368,12 +381,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "41d84a6fec52bf07",
+  "active": "84067daf67163a3a",
   "lastOpenFiles": [
+    "Excalidraw/동기 발전기 구조 (draw).svg",
+    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/동기 발전기 구조 (draw).md",
     "03. Permanent Notes/속도 특성 곡선.md",
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
     "Excalidraw/속도 특성 곡선 (draw).md",
-    "02. MOC/전기기기 MOC.md",
     "Excalidraw/토크 특성 곡선 (draw).md",
     "Excalidraw/속도 특성 곡선 (draw).svg",
     "03. Permanent Notes/토크 특성 곡선.md",
@@ -400,7 +415,6 @@
     "03. Permanent Notes/끝단 효과.md",
     "03. Permanent Notes/전계.md",
     "03. Permanent Notes/전속.md",
-    "03. Permanent Notes/타여자 발전기.md",
     "Excalidraw/타여자 전동기 등가 회로 (draw).svg",
     "Excalidraw/중권 회로 (draw).svg",
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).svg",

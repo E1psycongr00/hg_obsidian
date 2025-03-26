@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "동기 발전기 구조 (draw)",
+      "path": "Excalidraw/동기 발전기 구조 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "타여자 발전기 등가 회로 (draw)",
       "path": "Excalidraw/타여자 발전기 등가 회로 (draw).md"
-    },
-    {
-      "basename": "직류 전동기 토크와 회전수",
-      "path": "03. Permanent Notes/직류 전동기 토크와 회전수.md"
     }
   ],
   "omittedPaths": [],
