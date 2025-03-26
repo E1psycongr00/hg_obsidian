@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "토크 특성 곡선",
-      "path": "03. Permanent Notes/토크 특성 곡선.md"
+      "basename": "속도 특성 곡선",
+      "path": "04. Practice Notes/속도 특성 곡선.md"
+    },
+    {
+      "basename": "속도 특성 곡선 (draw)",
+      "path": "Excalidraw/속도 특성 곡선 (draw).md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
-      "basename": "속도 특성 곡선",
-      "path": "04. Practice Notes/속도 특성 곡선.md"
+      "basename": "토크 특성 곡선 (draw)",
+      "path": "Excalidraw/토크 특성 곡선 (draw).md"
+    },
+    {
+      "basename": "토크 특성 곡선",
+      "path": "03. Permanent Notes/토크 특성 곡선.md"
     },
     {
       "basename": "복권 발전기 등가 회로 (draw)",
       "path": "Excalidraw/복권 발전기 등가 회로 (draw).md"
-    },
-    {
-      "basename": "토크 특성 곡선 (draw)",
-      "path": "Excalidraw/토크 특성 곡선 (draw).md"
     },
     {
       "basename": "벡터 항등식",
@@ -95,10 +99,6 @@
     {
       "basename": "직류 전동기 토크와 회전수",
       "path": "03. Permanent Notes/직류 전동기 토크와 회전수.md"
-    },
-    {
-      "basename": "직류 전동기",
-      "path": "03. Permanent Notes/직류 전동기.md"
     }
   ],
   "omittedPaths": [],
