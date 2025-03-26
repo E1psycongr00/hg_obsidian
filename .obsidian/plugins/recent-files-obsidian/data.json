@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "직류 전동기 토크와 회전수",
+      "path": "04. Practice Notes/직류 전동기 토크와 회전수.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "직류 전동기",
       "path": "04. Practice Notes/직류 전동기.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "전기자 면적 (draw)",
       "path": "Excalidraw/전기자 면적 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "직권 발전기",
@@ -95,10 +99,6 @@
     {
       "basename": "정류 종류 (draw)",
       "path": "Excalidraw/정류 종류 (draw).md"
-    },
-    {
-      "basename": "정류",
-      "path": "04. Practice Notes/정류.md"
     }
   ],
   "omittedPaths": [],
