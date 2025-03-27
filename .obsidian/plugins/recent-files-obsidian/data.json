@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "동기 발전기",
       "path": "04. Practice Notes/동기 발전기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전속",
       "path": "03. Permanent Notes/전속.md"
-    },
-    {
-      "basename": "타여자 발전기",
-      "path": "03. Permanent Notes/타여자 발전기.md"
     }
   ],
   "omittedPaths": [],
