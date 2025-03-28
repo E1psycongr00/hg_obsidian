@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "수소 냉각 방식",
+      "path": "04. Practice Notes/수소 냉각 방식.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "동기 발전기 구조 (draw)",
       "path": "Excalidraw/동기 발전기 구조 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "속도 특성 곡선",
@@ -95,10 +99,6 @@
     {
       "basename": "전계",
       "path": "03. Permanent Notes/전계.md"
-    },
-    {
-      "basename": "전속",
-      "path": "03. Permanent Notes/전속.md"
     }
   ],
   "omittedPaths": [],
