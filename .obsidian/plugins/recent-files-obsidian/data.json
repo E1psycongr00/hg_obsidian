@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "풍손",
+      "path": "04. Practice Notes/풍손.md"
+    },
+    {
       "basename": "수소 냉각 방식",
       "path": "04. Practice Notes/수소 냉각 방식.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "끝단 효과",
       "path": "03. Permanent Notes/끝단 효과.md"
-    },
-    {
-      "basename": "전계",
-      "path": "03. Permanent Notes/전계.md"
     }
   ],
   "omittedPaths": [],
