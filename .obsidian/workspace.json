@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/수소 냉각 방식.md",
+                "file": "03. Permanent Notes/수소 냉각 방식.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -37,8 +37,7 @@
               "title": "수소 냉각 방식"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/수소 냉각 방식.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "수소 냉각 방식 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -389,10 +388,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fcce734ad5cb097b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/수소 냉각 방식.md",
     "02. MOC/전기기기 MOC.md",
-    "04. Practice Notes/수소 냉각 방식.md",
     "03. Permanent Notes/풍손.md",
     "02. MOC/Home.md",
     "04. Practice Notes/동기 발전기.md",
