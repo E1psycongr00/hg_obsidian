@@ -304,6 +304,16 @@
             "id": "99d1c7427cb05b4e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "8f3060a0002c2406",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -311,7 +321,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "7d466e57ea240c21",
@@ -365,6 +375,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
     "04. Practice Notes/동기 발전기.md",
     "Excalidraw/동기 발전기 구조 (draw).md",
     "02. MOC/전기기기 MOC.md",
@@ -397,7 +408,6 @@
     "03. Permanent Notes/공기 절연 파괴.md",
     "03. Permanent Notes/끝단 효과.md",
     "03. Permanent Notes/전계.md",
-    "03. Permanent Notes/전속.md",
     "Excalidraw/타여자 전동기 등가 회로 (draw).svg",
     "Excalidraw/중권 회로 (draw).svg",
     "Excalidraw/전기자가 받는 자기장의 선형성 (draw).svg",
