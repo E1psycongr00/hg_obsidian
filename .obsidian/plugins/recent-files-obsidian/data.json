@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/동기 발전기 권선법.md"
     },
     {
+      "basename": "동기 전동기 분포권 계수 유도 과정",
+      "path": "동기 전동기 분포권 계수 유도 과정.md"
+    },
+    {
       "basename": "집중권 (draw)",
       "path": "Excalidraw/집중권 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "수소 냉각 방식",
       "path": "03. Permanent Notes/수소 냉각 방식.md"
-    },
-    {
-      "basename": "풍손",
-      "path": "03. Permanent Notes/풍손.md"
     }
   ],
   "omittedPaths": [],
