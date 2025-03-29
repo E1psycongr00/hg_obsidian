@@ -9,6 +9,14 @@
       "path": "동기 전동기 분포권 계수 유도 과정.md"
     },
     {
+      "basename": "전절권 (draw)",
+      "path": "Excalidraw/전절권 (draw).md"
+    },
+    {
+      "basename": "단절권 (draw)",
+      "path": "Excalidraw/단절권 (draw).md"
+    },
+    {
       "basename": "집중권 (draw)",
       "path": "Excalidraw/집중권 (draw).md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "웹 인증 보안 MOC",
       "path": "02. MOC/웹 인증 보안 MOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "수소 냉각 방식",
-      "path": "03. Permanent Notes/수소 냉각 방식.md"
     }
   ],
   "omittedPaths": [],
