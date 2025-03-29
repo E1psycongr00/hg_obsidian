@@ -5,12 +5,12 @@
       "path": "04. Practice Notes/단락비.md"
     },
     {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
       "basename": "%Z법",
       "path": "03. Permanent Notes/%Z법.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "기기와 부하 회로 단락 사고 후 (draw)",
