@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/돌극형.md",
+                "file": "04. Practice Notes/비돌극형.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "돌극형"
+              "title": "비돌극형"
             }
           },
           {
@@ -33,9 +33,21 @@
               "icon": "excalidraw-icon",
               "title": "돌극형 (draw)"
             }
+          },
+          {
+            "id": "2da0fb5af1e77df3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-29 15.20.23.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -112,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/돌극형 (draw).md"
+                "file": "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "돌극형 (draw) 의 파일 속성"
+              "title": "Drawing 2025-03-29 15.20.23.excalidraw 의 파일 속성"
             }
           },
           {
@@ -395,12 +408,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "edbcd2f44286fc6b",
+  "active": "2da0fb5af1e77df3",
   "lastOpenFiles": [
-    "04. Practice Notes/돌극형.md",
+    "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.svg",
     "Excalidraw/돌극형 (draw).md",
-    "Excalidraw/돌극형 (draw).svg",
+    "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.md",
+    "04. Practice Notes/비돌극형.md",
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/돌극형.md",
+    "Excalidraw/돌극형 (draw).svg",
     "04. Practice Notes/동기 발전기.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
@@ -424,9 +440,7 @@
     "Excalidraw/동기 발전기 구조 (draw).svg",
     "03. Permanent Notes/속도 특성 곡선.md",
     "Excalidraw/속도 특성 곡선 (draw).md",
-    "Excalidraw/토크 특성 곡선 (draw).md",
     "Excalidraw/속도 특성 곡선 (draw).svg",
-    "03. Permanent Notes/토크 특성 곡선.md",
     "Excalidraw/복권 발전기 등가 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250326163742.png",
     "Excalidraw/토크 특성 곡선 (draw).svg",
