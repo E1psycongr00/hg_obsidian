@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
-      "basename": "직류 전동기",
-      "path": "03. Permanent Notes/직류 전동기.md"
-    },
-    {
       "basename": "동기 발전기 권선법",
       "path": "04. Practice Notes/동기 발전기 권선법.md"
     },
     {
       "basename": "집중권 (draw)",
       "path": "Excalidraw/집중권 (draw).md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
+      "basename": "직류 전동기",
+      "path": "03. Permanent Notes/직류 전동기.md"
     },
     {
       "basename": "돌극형",
@@ -47,10 +51,6 @@
     {
       "basename": "직류 발전기의 유기 기전력",
       "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
-    },
-    {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "%Z법",
