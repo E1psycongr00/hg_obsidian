@@ -11,24 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/%Z 임피던스 사고전(draw).md"
+                "file": "03. Permanent Notes/%Z법.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "%Z 임피던스 사고전(draw)"
-            }
-          },
-          {
-            "id": "318751cfb8c202e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "%Z 임피던스 사고 후 (draw)"
+              "icon": "lucide-file",
+              "title": "%Z법"
             }
           },
           {
@@ -55,8 +46,7 @@
               "title": "기기와 부하 회로 단락 사고 후 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
+                "file": "03. Permanent Notes/%Z법.md"
               },
               "icon": "lucide-info",
-              "title": "%Z 임피던스 사고 후 (draw) 의 파일 속성"
+              "title": "%Z법 의 파일 속성"
             }
           },
           {
@@ -417,7 +407,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "318751cfb8c202e8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Excalidraw/%Z 임피던스 사고전(draw).md",
     "Excalidraw/%Z 임피던스 사고 후 (draw).md",
