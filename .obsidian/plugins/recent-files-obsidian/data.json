@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-03-29 15.06.04.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-29 15.06.04.excalidraw.md"
+    },
+    {
+      "basename": "돌극형",
+      "path": "04. Practice Notes/돌극형.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "벡터 항등식",
       "path": "03. Permanent Notes/벡터 항등식.md"
-    },
-    {
-      "basename": "복권 발전기",
-      "path": "03. Permanent Notes/복권 발전기.md"
-    },
-    {
-      "basename": "분권 전동기 등가 회로 (draw)",
-      "path": "Excalidraw/분권 전동기 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
