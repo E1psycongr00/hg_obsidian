@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "동기 발전기 권선법",
-      "path": "04. Practice Notes/동기 발전기 권선법.md"
+      "path": "03. Permanent Notes/동기 발전기 권선법.md"
     },
     {
       "basename": "동기 전동기 분포권 계수 유도 과정",
@@ -23,10 +27,6 @@
     {
       "basename": "분포권 (draw)",
       "path": "Excalidraw/분포권 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "전력공학 MOC",
