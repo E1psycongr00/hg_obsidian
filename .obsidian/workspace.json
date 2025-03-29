@@ -28,10 +28,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/기기와 부하 회로 (draw).md"
+                "file": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "기기와 부하 회로 (draw)"
+              "title": "기기와 부하 회로 단락 사고 전 (draw)"
+            }
+          },
+          {
+            "id": "1aad223a3df7a38b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "기기와 부하 회로 단락 사고 후 (draw)"
             }
           }
         ]
@@ -396,10 +408,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/기기와 부하 회로 (draw).md",
+    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
+    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
+    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",
     "03. Permanent Notes/%Z법.md",
     "02. MOC/전력공학 MOC.md",
-    "Excalidraw/기기와 부하 회로 (draw).svg",
+    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).svg",
     "03. Permanent Notes/정격 전류.md",
     "02. MOC/전기기기 MOC.md",
     "02. MOC/웹 인증 보안 MOC.md",
@@ -427,10 +441,8 @@
     "Excalidraw/직권 전동기 등가 회로 (draw).md",
     "Excalidraw/직권 전동기 등가 회로 (draw).svg",
     "기본 벡터 연산.md",
-    "03. Permanent Notes/벡터의 외적.md",
     "Excalidraw/분권 전동기 등가 회로 (draw).svg",
     "Excalidraw/타여자 전동기 등가 회로 (draw).svg",
-    "Excalidraw/중권 회로 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
