@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "318751cfb8c202e8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "%Z 임피던스 사고 후 (draw)"
+            }
+          },
+          {
             "id": "be8789af52aafb72",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               "title": "기기와 부하 회로 단락 사고 후 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "임피던스 사고 전",
+                "query": "임피던스 사고 후",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -121,10 +134,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/%Z 임피던스 사고전(draw).md"
+                "file": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "%Z 임피던스 사고전(draw) 의 파일 속성"
+              "title": "%Z 임피던스 사고 후 (draw) 의 파일 속성"
             }
           },
           {
@@ -404,11 +417,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "318751cfb8c202e8",
   "lastOpenFiles": [
-    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
     "Excalidraw/%Z 임피던스 사고전(draw).md",
+    "Excalidraw/%Z 임피던스 사고 후 (draw).md",
     "03. Permanent Notes/%Z법.md",
+    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
     "03. Permanent Notes/단락비.md",
     "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
     "03. Permanent Notes/정격 전류.md",
@@ -438,7 +452,6 @@
     "Excalidraw/토크 특성 곡선 (draw).svg",
     "04. Practice Notes/직권 전동기.md",
     "03. Permanent Notes/분권 전동기.md",
-    "Excalidraw/직권 전동기 등가 회로 (draw).md",
     "Excalidraw/직권 전동기 등가 회로 (draw).svg",
     "Excalidraw/분권 전동기 등가 회로 (draw).svg",
     "Excalidraw/타여자 전동기 등가 회로 (draw).svg",

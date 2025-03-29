@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "%Z 임피던스 사고 후 (draw)",
+      "path": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
+    },
+    {
       "basename": "%Z 임피던스 사고전(draw)",
       "path": "Excalidraw/%Z 임피던스 사고전(draw).md"
     },
     {
-      "basename": "기기와 부하 회로 단락 사고 전 (draw)",
-      "path": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
-    },
-    {
       "basename": "%Z법",
       "path": "03. Permanent Notes/%Z법.md"
+    },
+    {
+      "basename": "기기와 부하 회로 단락 사고 전 (draw)",
+      "path": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
     },
     {
       "basename": "단락비",
@@ -95,10 +99,6 @@
     {
       "basename": "분권 전동기",
       "path": "03. Permanent Notes/분권 전동기.md"
-    },
-    {
-      "basename": "직권 전동기 등가 회로 (draw)",
-      "path": "Excalidraw/직권 전동기 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
