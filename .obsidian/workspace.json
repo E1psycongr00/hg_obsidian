@@ -28,14 +28,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-29 15.06.04.excalidraw.md"
+                "file": "Excalidraw/돌극형 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-29 15.06.04.excalidraw"
+              "title": "돌극형 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-29 15.06.04.excalidraw.md"
+                "file": "04. Practice Notes/돌극형.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-03-29 15.06.04.excalidraw 의 파일 속성"
+              "title": "돌극형 의 파일 속성"
             }
           },
           {
@@ -395,11 +394,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "edbcd2f44286fc6b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-29 15.06.04.excalidraw.svg",
+    "Excalidraw/돌극형 (draw).md",
+    "Excalidraw/돌극형 (draw).svg",
     "04. Practice Notes/돌극형.md",
-    "Excalidraw/Drawing 2025-03-29 15.06.04.excalidraw.md",
     "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/동기 발전기.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
@@ -432,7 +431,6 @@
     "Excalidraw/토크 특성 곡선 (draw).svg",
     "Excalidraw/직권 전동기 등가 회로 (draw).svg",
     "Excalidraw/분권 전동기 등가 회로 (draw).svg",
-    "Excalidraw/타여자 전동기 등가 회로 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
