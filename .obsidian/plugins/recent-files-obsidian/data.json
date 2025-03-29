@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "돌극형",
       "path": "04. Practice Notes/돌극형.md"
     },
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
+      "basename": "동기 발전기 유기 기전력",
+      "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
     },
     {
       "basename": "동기 속도",
@@ -27,10 +31,6 @@
     {
       "basename": "동기 발전기",
       "path": "04. Practice Notes/동기 발전기.md"
-    },
-    {
-      "basename": "동기 발전기 유기 기전력",
-      "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
     },
     {
       "basename": "직류 발전기의 유기 기전력",
