@@ -5,12 +5,12 @@
       "path": "03. Permanent Notes/%Z법.md"
     },
     {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
       "basename": "기기와 부하 회로 (draw)",
       "path": "Excalidraw/기기와 부하 회로 (draw).md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "정격 전류",
