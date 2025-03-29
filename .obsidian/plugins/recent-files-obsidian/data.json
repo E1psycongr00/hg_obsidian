@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "%Z법",
+      "path": "03. Permanent Notes/%Z법.md"
+    },
+    {
+      "basename": "정격 전류",
+      "path": "03. Permanent Notes/정격 전류.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "웹 인증 보안 MOC",
+      "path": "02. MOC/웹 인증 보안 MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "수소 냉각 방식",
@@ -11,10 +31,6 @@
     {
       "basename": "풍손",
       "path": "03. Permanent Notes/풍손.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "동기 발전기",
@@ -83,22 +99,6 @@
     {
       "basename": "분권 발전기 등가 회로 (draw)",
       "path": "Excalidraw/분권 발전기 등가 회로 (draw).md"
-    },
-    {
-      "basename": "타여자 전동기 등가 회로 (draw)",
-      "path": "Excalidraw/타여자 전동기 등가 회로 (draw).md"
-    },
-    {
-      "basename": "절연 파괴",
-      "path": "04. Practice Notes/절연 파괴.md"
-    },
-    {
-      "basename": "공기 절연 파괴",
-      "path": "03. Permanent Notes/공기 절연 파괴.md"
-    },
-    {
-      "basename": "끝단 효과",
-      "path": "03. Permanent Notes/끝단 효과.md"
     }
   ],
   "omittedPaths": [],
