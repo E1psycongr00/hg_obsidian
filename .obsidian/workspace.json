@@ -21,30 +21,6 @@
               "icon": "lucide-file",
               "title": "%Z법"
             }
-          },
-          {
-            "id": "be8789af52aafb72",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "기기와 부하 회로 단락 사고 전 (draw)"
-            }
-          },
-          {
-            "id": "4396a4f704d16a8e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "기기와 부하 회로 단락 사고 후 (draw)"
-            }
           }
         ]
       }
@@ -409,12 +385,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
+    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
+    "03. Permanent Notes/%Z법.md",
     "Excalidraw/%Z 임피던스 사고전(draw).md",
     "Excalidraw/%Z 임피던스 사고 후 (draw).md",
-    "03. Permanent Notes/%Z법.md",
-    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
     "03. Permanent Notes/단락비.md",
-    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
     "03. Permanent Notes/정격 전류.md",
     "02. MOC/전력공학 MOC.md",
     "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",

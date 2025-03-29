@@ -5,6 +5,14 @@
       "path": "03. Permanent Notes/%Z법.md"
     },
     {
+      "basename": "기기와 부하 회로 단락 사고 전 (draw)",
+      "path": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
+    },
+    {
+      "basename": "기기와 부하 회로 단락 사고 후 (draw)",
+      "path": "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md"
+    },
+    {
       "basename": "%Z 임피던스 사고전(draw)",
       "path": "Excalidraw/%Z 임피던스 사고전(draw).md"
     },
@@ -13,16 +21,8 @@
       "path": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
     },
     {
-      "basename": "기기와 부하 회로 단락 사고 전 (draw)",
-      "path": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
-    },
-    {
       "basename": "단락비",
       "path": "03. Permanent Notes/단락비.md"
-    },
-    {
-      "basename": "기기와 부하 회로 단락 사고 후 (draw)",
-      "path": "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md"
     },
     {
       "basename": "전력공학 MOC",
