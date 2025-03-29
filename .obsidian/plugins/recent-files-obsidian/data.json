@@ -5,6 +5,18 @@
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
+      "basename": "직류 전동기",
+      "path": "03. Permanent Notes/직류 전동기.md"
+    },
+    {
+      "basename": "동기 발전기 권선법",
+      "path": "04. Practice Notes/동기 발전기 권선법.md"
+    },
+    {
+      "basename": "집중권 (draw)",
+      "path": "Excalidraw/집중권 (draw).md"
+    },
+    {
       "basename": "돌극형",
       "path": "04. Practice Notes/돌극형.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "동기 발전기 구조 (draw)",
       "path": "Excalidraw/동기 발전기 구조 (draw).md"
-    },
-    {
-      "basename": "속도 특성 곡선",
-      "path": "03. Permanent Notes/속도 특성 곡선.md"
-    },
-    {
-      "basename": "속도 특성 곡선 (draw)",
-      "path": "Excalidraw/속도 특성 곡선 (draw).md"
-    },
-    {
-      "basename": "토크 특성 곡선 (draw)",
-      "path": "Excalidraw/토크 특성 곡선 (draw).md"
     }
   ],
   "omittedPaths": [],
