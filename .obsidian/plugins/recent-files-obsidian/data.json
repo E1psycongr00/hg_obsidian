@@ -9,6 +9,10 @@
       "path": "Excalidraw/집중권 (draw).md"
     },
     {
+      "basename": "분포권 (draw)",
+      "path": "Excalidraw/분포권 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "풍손",
       "path": "03. Permanent Notes/풍손.md"
-    },
-    {
-      "basename": "동기 발전기 구조 (draw)",
-      "path": "Excalidraw/동기 발전기 구조 (draw).md"
     }
   ],
   "omittedPaths": [],

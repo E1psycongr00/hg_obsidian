@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "동기 발전기 권선법"
             }
-          },
-          {
-            "id": "74fc35025b96bcf0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/집중권 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "집중권 (draw)"
-            }
           }
         ]
       }
@@ -398,6 +386,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Excalidraw/집중권 (draw).md",
+    "Excalidraw/분포권 (draw).md",
+    "Excalidraw/분포권 (draw).svg",
     "04. Practice Notes/동기 발전기 권선법.md",
     "02. MOC/전기기기 MOC.md",
     "02. MOC/전력공학 MOC.md",
@@ -426,13 +416,10 @@
     "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",
     "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).svg",
     "02. MOC/웹 인증 보안 MOC.md",
-    "02. MOC/Home.md",
-    "03. Permanent Notes/수소 냉각 방식.md",
     "Excalidraw/동기 발전기 구조 (draw).svg",
     "Excalidraw/속도 특성 곡선 (draw).svg",
     "Excalidraw/복권 발전기 등가 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250326163742.png",
-    "Excalidraw/토크 특성 곡선 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
