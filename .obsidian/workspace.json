@@ -13,41 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/비돌극형.md",
+                "file": "04. Practice Notes/동기 속도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "비돌극형"
-            }
-          },
-          {
-            "id": "edbcd2f44286fc6b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/돌극형 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "돌극형 (draw)"
-            }
-          },
-          {
-            "id": "2da0fb5af1e77df3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-29 15.20.23.excalidraw"
+              "title": "동기 속도"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -125,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.md"
+                "file": "04. Practice Notes/동기 속도.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-03-29 15.20.23.excalidraw 의 파일 속성"
+              "title": "동기 속도 의 파일 속성"
             }
           },
           {
@@ -408,14 +383,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2da0fb5af1e77df3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.svg",
-    "Excalidraw/돌극형 (draw).md",
-    "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.md",
-    "04. Practice Notes/비돌극형.md",
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/동기 속도.md",
     "04. Practice Notes/돌극형.md",
+    "03. Permanent Notes/비돌극형.md",
+    "Excalidraw/돌극형 (draw).md",
+    "Excalidraw/비돌극형 (draw).md",
+    "Excalidraw/비돌극형 (draw).svg",
     "Excalidraw/돌극형 (draw).svg",
     "04. Practice Notes/동기 발전기.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
@@ -445,7 +421,6 @@
     "attachments/screenshot/Pasted image 20250326163742.png",
     "Excalidraw/토크 특성 곡선 (draw).svg",
     "Excalidraw/직권 전동기 등가 회로 (draw).svg",
-    "Excalidraw/분권 전동기 등가 회로 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",

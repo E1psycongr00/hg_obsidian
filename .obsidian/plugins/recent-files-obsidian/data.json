@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2025-03-29 15.20.23.excalidraw",
-      "path": "Excalidraw/Drawing 2025-03-29 15.20.23.excalidraw.md"
-    },
-    {
-      "basename": "돌극형 (draw)",
-      "path": "Excalidraw/돌극형 (draw).md"
-    },
-    {
-      "basename": "비돌극형",
-      "path": "04. Practice Notes/비돌극형.md"
+      "basename": "동기 속도",
+      "path": "04. Practice Notes/동기 속도.md"
     },
     {
       "basename": "전기기기 MOC",
@@ -19,6 +11,18 @@
     {
       "basename": "돌극형",
       "path": "04. Practice Notes/돌극형.md"
+    },
+    {
+      "basename": "비돌극형",
+      "path": "03. Permanent Notes/비돌극형.md"
+    },
+    {
+      "basename": "돌극형 (draw)",
+      "path": "Excalidraw/돌극형 (draw).md"
+    },
+    {
+      "basename": "비돌극형 (draw)",
+      "path": "Excalidraw/비돌극형 (draw).md"
     },
     {
       "basename": "동기 발전기",
@@ -95,10 +99,6 @@
     {
       "basename": "토크 특성 곡선 (draw)",
       "path": "Excalidraw/토크 특성 곡선 (draw).md"
-    },
-    {
-      "basename": "토크 특성 곡선",
-      "path": "03. Permanent Notes/토크 특성 곡선.md"
     }
   ],
   "omittedPaths": [],
