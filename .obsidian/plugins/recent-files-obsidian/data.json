@@ -9,6 +9,10 @@
       "path": "02. MOC/전력공학 MOC.md"
     },
     {
+      "basename": "기기와 부하 회로 (draw)",
+      "path": "Excalidraw/기기와 부하 회로 (draw).md"
+    },
+    {
       "basename": "정격 전류",
       "path": "03. Permanent Notes/정격 전류.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "분권 발전기 등가 회로 (draw)",
-      "path": "Excalidraw/분권 발전기 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],

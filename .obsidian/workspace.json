@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "%Z법"
             }
+          },
+          {
+            "id": "7b02eafce324ef6b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/기기와 부하 회로 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "기기와 부하 회로 (draw)"
+            }
           }
         ]
       }
@@ -386,6 +398,8 @@
   "lastOpenFiles": [
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/%Z법.md",
+    "Excalidraw/기기와 부하 회로 (draw).md",
+    "Excalidraw/기기와 부하 회로 (draw).svg",
     "03. Permanent Notes/정격 전류.md",
     "02. MOC/전기기기 MOC.md",
     "02. MOC/웹 인증 보안 MOC.md",
@@ -414,12 +428,9 @@
     "Excalidraw/직권 전동기 등가 회로 (draw).svg",
     "기본 벡터 연산.md",
     "03. Permanent Notes/벡터의 외적.md",
-    "03. Permanent Notes/타여자 전동기.md",
-    "02. MOC/전자기학 MOC.md",
     "Excalidraw/분권 전동기 등가 회로 (draw).svg",
     "Excalidraw/타여자 전동기 등가 회로 (draw).svg",
     "Excalidraw/중권 회로 (draw).svg",
-    "Excalidraw/전기자가 받는 자기장의 선형성 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
