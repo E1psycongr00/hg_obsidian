@@ -11,15 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03. Permanent Notes/%Z법.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/%Z 임피던스 사고전(draw).md"
               },
-              "icon": "lucide-file",
-              "title": "%Z법"
+              "icon": "excalidraw-icon",
+              "title": "%Z 임피던스 사고전(draw)"
+            }
+          },
+          {
+            "id": "be8789af52aafb72",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "기기와 부하 회로 단락 사고 전 (draw)"
             }
           },
           {
@@ -54,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "임피던스 사고 전",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -112,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/%Z법.md"
+                "file": "Excalidraw/%Z 임피던스 사고전(draw).md"
               },
               "icon": "lucide-info",
-              "title": "%Z법 의 파일 속성"
+              "title": "%Z 임피던스 사고전(draw) 의 파일 속성"
             }
           },
           {
@@ -398,9 +407,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
-    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
-    "03. Permanent Notes/단락비.md",
+    "Excalidraw/%Z 임피던스 사고전(draw).md",
     "03. Permanent Notes/%Z법.md",
+    "03. Permanent Notes/단락비.md",
+    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
     "03. Permanent Notes/정격 전류.md",
     "02. MOC/전력공학 MOC.md",
     "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",
@@ -430,7 +440,6 @@
     "03. Permanent Notes/분권 전동기.md",
     "Excalidraw/직권 전동기 등가 회로 (draw).md",
     "Excalidraw/직권 전동기 등가 회로 (draw).svg",
-    "기본 벡터 연산.md",
     "Excalidraw/분권 전동기 등가 회로 (draw).svg",
     "Excalidraw/타여자 전동기 등가 회로 (draw).svg",
     "templaters",
