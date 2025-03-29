@@ -45,9 +45,24 @@
               "icon": "excalidraw-icon",
               "title": "기기와 부하 회로 단락 사고 후 (draw)"
             }
+          },
+          {
+            "id": "4396a4f704d16a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/단락비.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "단락비"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +126,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -124,10 +140,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md"
+                "file": "04. Practice Notes/단락비.md"
               },
               "icon": "lucide-info",
-              "title": "기기와 부하 회로 단락 사고 후 (draw) 의 파일 속성"
+              "title": "단락비 의 파일 속성"
             }
           },
           {
@@ -407,13 +423,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1aad223a3df7a38b",
+  "active": "4396a4f704d16a8e",
   "lastOpenFiles": [
-    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
-    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
-    "03. Permanent Notes/%Z법.md",
-    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",
     "02. MOC/전력공학 MOC.md",
+    "04. Practice Notes/단락비.md",
+    "03. Permanent Notes/%Z법.md",
+    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md",
+    "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md",
+    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",
     "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).svg",
     "03. Permanent Notes/정격 전류.md",
     "02. MOC/전기기기 MOC.md",
