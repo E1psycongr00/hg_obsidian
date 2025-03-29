@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
       "basename": "%Z법",
       "path": "03. Permanent Notes/%Z법.md"
     },
@@ -25,16 +33,8 @@
       "path": "03. Permanent Notes/단락비.md"
     },
     {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
       "basename": "정격 전류",
       "path": "03. Permanent Notes/정격 전류.md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "웹 인증 보안 MOC",
