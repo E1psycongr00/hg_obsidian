@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/동기 발전기.md",
+                "file": "04. Practice Notes/동기 발전기 유기 기전력.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "동기 발전기"
+              "title": "동기 발전기 유기 기전력"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "임피던스 사고 후",
+                "query": "발전기",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/동기 발전기.md"
+                "file": "04. Practice Notes/동기 발전기 유기 기전력.md"
               },
               "icon": "lucide-info",
-              "title": "동기 발전기 의 파일 속성"
+              "title": "동기 발전기 유기 기전력 의 파일 속성"
             }
           },
           {
@@ -385,7 +384,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
+    "04. Practice Notes/동기 발전기 유기 기전력.md",
+    "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/동기 발전기.md",
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/%Z법.md",
@@ -401,7 +404,6 @@
     "02. MOC/Home.md",
     "03. Permanent Notes/수소 냉각 방식.md",
     "03. Permanent Notes/풍손.md",
-    "04. Practice Notes/동기 발전기.md",
     "Excalidraw/동기 발전기 구조 (draw).md",
     "Excalidraw/동기 발전기 구조 (draw).svg",
     "03. Permanent Notes/속도 특성 곡선.md",
@@ -412,12 +414,9 @@
     "Excalidraw/복권 발전기 등가 회로 (draw).md",
     "03. Permanent Notes/벡터 항등식.md",
     "03. Permanent Notes/복권 발전기.md",
-    "Excalidraw/분권 전동기 등가 회로 (draw).md",
     "Excalidraw/복권 발전기 등가 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250326163742.png",
     "Excalidraw/토크 특성 곡선 (draw).svg",
-    "04. Practice Notes/직권 전동기.md",
-    "03. Permanent Notes/분권 전동기.md",
     "Excalidraw/직권 전동기 등가 회로 (draw).svg",
     "Excalidraw/분권 전동기 등가 회로 (draw).svg",
     "Excalidraw/타여자 전동기 등가 회로 (draw).svg",
