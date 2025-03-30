@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/동기 발전기 유기 기전력.md",
+                "file": "04. Practice Notes/동기 발전기의 전기자 반작용.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "동기 발전기 유기 기전력"
-            }
-          },
-          {
-            "id": "f67e5de6172697dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/동기 발전기 유기 기전력.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "동기 발전기 유기 기전력"
+              "title": "동기 발전기의 전기자 반작용"
             }
           }
         ]
@@ -115,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/동기 발전기 유기 기전력.md"
+                "file": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
               },
               "icon": "lucide-info",
-              "title": "동기 발전기 유기 기전력 의 파일 속성"
+              "title": "동기 발전기의 전기자 반작용 의 파일 속성"
             }
           },
           {
@@ -369,13 +354,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/동기 발전기 유기 기전력.md",
+                "file": "04. Practice Notes/동기 발전기의 전기자 반작용.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "동기 발전기 유기 기전력 의 개요"
+              "title": "동기 발전기의 전기자 반작용 의 개요"
             }
           }
         ]
@@ -410,9 +395,11 @@
   },
   "active": "783eb71a0f79430c",
   "lastOpenFiles": [
-    "04. Practice Notes/발전기의 기전력 파형이 사인파인 이유.md",
-    "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/동기 속도.md",
+    "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md",
+    "04. Practice Notes/동기 발전기의 전기자 반작용.md",
+    "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).md",
     "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "02. MOC/전자기학 MOC.md",
@@ -438,9 +425,7 @@
     "03. Permanent Notes/직류 전동기.md",
     "Excalidraw/집중권 (draw).svg",
     "03. Permanent Notes/단락비.md",
-    "04. Practice Notes/동기 속도.md",
     "03. Permanent Notes/비돌극형.md",
-    "Excalidraw/비돌극형 (draw).md",
     "Excalidraw/비돌극형 (draw).svg",
     "Excalidraw/돌극형 (draw).svg",
     "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",

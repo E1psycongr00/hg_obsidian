@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "동기 발전기 유기 기전력",
-      "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
+      "basename": "동기 발전기의 전기자 반작용",
+      "path": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
+      "basename": "동기 속도",
+      "path": "04. Practice Notes/동기 속도.md"
+    },
+    {
       "basename": "발전기의 기전력 파형이 사인파인 이유",
-      "path": "04. Practice Notes/발전기의 기전력 파형이 사인파인 이유.md"
+      "path": "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md"
+    },
+    {
+      "basename": "동기 발전기 유기 기전력",
+      "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
     },
     {
       "basename": "동기 발전기의 전기자 폐루프 구성 (draw)",
@@ -85,20 +93,12 @@
       "path": "03. Permanent Notes/직류 전동기.md"
     },
     {
-      "basename": "동기 속도",
-      "path": "04. Practice Notes/동기 속도.md"
-    },
-    {
       "basename": "비돌극형",
       "path": "03. Permanent Notes/비돌극형.md"
     },
     {
       "basename": "비돌극형 (draw)",
       "path": "Excalidraw/비돌극형 (draw).md"
-    },
-    {
-      "basename": "동기 발전기",
-      "path": "04. Practice Notes/동기 발전기.md"
     }
   ],
   "omittedPaths": [],
