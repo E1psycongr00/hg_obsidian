@@ -49,7 +49,8 @@
               "title": "Drawing 2025-03-30 12.06.21.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전자기학 MOC.md"
+                "file": "Excalidraw/Drawing 2025-03-30 12.06.21.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "전자기학 MOC 의 파일 속성"
+              "title": "Drawing 2025-03-30 12.06.21.excalidraw 의 파일 속성"
             }
           },
           {
@@ -420,10 +421,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783eb71a0f79430c",
+  "active": "43c605be76924280",
   "lastOpenFiles": [
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "02. MOC/전자기학 MOC.md",
+    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "03. Permanent Notes/하전 입자가 받는 힘.md",
     "03. Permanent Notes/전류 소자가 받는 힘.md",
     "02. MOC/전기기기 MOC.md",
