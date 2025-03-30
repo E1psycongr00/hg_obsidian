@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "발전기의 기전력 파형이 사인파인 이유",
+      "path": "04. Practice Notes/발전기의 기전력 파형이 사인파인 이유.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "전력공학 MOC",
+      "path": "02. MOC/전력공학 MOC.md"
+    },
+    {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "동기 발전기 권선법",
@@ -27,10 +43,6 @@
     {
       "basename": "분포권 (draw)",
       "path": "Excalidraw/분포권 (draw).md"
-    },
-    {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
     },
     {
       "basename": "직류 전동기",
@@ -87,18 +99,6 @@
     {
       "basename": "%Z 임피던스 사고 후 (draw)",
       "path": "Excalidraw/%Z 임피던스 사고 후 (draw).md"
-    },
-    {
-      "basename": "단락비",
-      "path": "03. Permanent Notes/단락비.md"
-    },
-    {
-      "basename": "정격 전류",
-      "path": "03. Permanent Notes/정격 전류.md"
-    },
-    {
-      "basename": "웹 인증 보안 MOC",
-      "path": "02. MOC/웹 인증 보안 MOC.md"
     }
   ],
   "omittedPaths": [],
