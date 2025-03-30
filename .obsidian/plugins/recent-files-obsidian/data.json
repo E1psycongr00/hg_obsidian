@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "동기 발전기 유기 기전력",
+      "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
+    },
+    {
+      "basename": "Faraday 전자기 유도 법칙",
+      "path": "03. Permanent Notes/Faraday 전자기 유도 법칙.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "발전기의 기전력 파형이 사인파인 이유",
+      "path": "04. Practice Notes/발전기의 기전력 파형이 사인파인 이유.md"
+    },
+    {
       "basename": "Drawing 2025-03-30 12.06.21.excalidraw",
       "path": "Excalidraw/Drawing 2025-03-30 12.06.21.excalidraw.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "Drawing 2025-03-30 12.05.39.excalidraw",
       "path": "Excalidraw/Drawing 2025-03-30 12.05.39.excalidraw.md"
-    },
-    {
-      "basename": "발전기의 기전력 파형이 사인파인 이유",
-      "path": "04. Practice Notes/발전기의 기전력 파형이 사인파인 이유.md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "전력공학 MOC",
@@ -65,10 +73,6 @@
       "path": "03. Permanent Notes/직류 전동기.md"
     },
     {
-      "basename": "동기 발전기 유기 기전력",
-      "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
-    },
-    {
       "basename": "동기 속도",
       "path": "04. Practice Notes/동기 속도.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "기기와 부하 회로 단락 사고 전 (draw)",
       "path": "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).md"
-    },
-    {
-      "basename": "기기와 부하 회로 단락 사고 후 (draw)",
-      "path": "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).md"
     }
   ],
   "omittedPaths": [],
