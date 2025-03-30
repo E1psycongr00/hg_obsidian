@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/동기 발전기 유기 기전력.md"
+                "file": "Excalidraw/Drawing 2025-03-30 12.06.21.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "동기 발전기 유기 기전력 의 파일 속성"
+              "title": "Drawing 2025-03-30 12.06.21.excalidraw 의 파일 속성"
             }
           },
           {
@@ -420,10 +420,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f67e5de6172697dd",
+  "active": "43c605be76924280",
   "lastOpenFiles": [
-    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
+    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/발전기의 기전력 파형이 사인파인 이유.md",
     "Excalidraw/Drawing 2025-03-30 12.06.21.excalidraw.md",
