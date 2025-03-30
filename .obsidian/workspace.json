@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "전기적 각도"
             }
+          },
+          {
+            "id": "6efb8a4348514f77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-30 19.25.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-30 19.25.08.excalidraw"
+            }
+          },
+          {
+            "id": "d17706d1ed6fcf69",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/돌극형 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "돌극형 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "돌극형 (draw",
+                "query": "돌극형",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +111,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/전기적 각도.md"
+                "file": "Excalidraw/Drawing 2025-03-30 19.25.08.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "전기적 각도 의 파일 속성"
+              "title": "Drawing 2025-03-30 19.25.08.excalidraw 의 파일 속성"
             }
           },
           {
@@ -354,13 +378,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/전기적 각도.md",
+                "file": "Excalidraw/Drawing 2025-03-30 19.25.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기적 각도 의 개요"
+              "title": "Drawing 2025-03-30 19.25.08.excalidraw 의 개요"
             }
           }
         ]
@@ -393,13 +417,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "783eb71a0f79430c",
+  "active": "6efb8a4348514f77",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/돌극형 (draw).md",
+    "Excalidraw/Drawing 2025-03-30 19.25.08.excalidraw.svg",
+    "Excalidraw/Drawing 2025-03-30 19.25.08.excalidraw.md",
     "04. Practice Notes/전기적 각도.md",
+    "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md",
+    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/동기 발전기의 전기자 반작용.md",
     "04. Practice Notes/동기 속도.md",
-    "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).md",
     "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
@@ -408,7 +435,6 @@
     "03. Permanent Notes/하전 입자가 받는 힘.md",
     "03. Permanent Notes/전류 소자가 받는 힘.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).svg",
-    "Excalidraw/돌극형 (draw).md",
     "04. Practice Notes/돌극형.md",
     "Excalidraw/Drawing 2025-03-30 12.05.39.excalidraw.md",
     "02. MOC/전력공학 MOC.md",
@@ -423,14 +449,11 @@
     "Excalidraw/분포권 (draw).md",
     "Excalidraw/분포권 (draw).svg",
     "03. Permanent Notes/직류 발전기.md",
-    "03. Permanent Notes/직류 전동기.md",
     "Excalidraw/집중권 (draw).svg",
-    "03. Permanent Notes/단락비.md",
     "Excalidraw/비돌극형 (draw).svg",
     "Excalidraw/돌극형 (draw).svg",
     "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",
     "Excalidraw/기기와 부하 회로 단락 사고 전 (draw).svg",
-    "Excalidraw/동기 발전기 구조 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
