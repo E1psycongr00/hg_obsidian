@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "동기 발전기의 전기자 반작용",
-      "path": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
+      "basename": "전기적 각도",
+      "path": "04. Practice Notes/전기적 각도.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "동기 발전기의 전기자 반작용",
+      "path": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
     },
     {
       "basename": "동기 속도",
@@ -95,10 +99,6 @@
     {
       "basename": "비돌극형",
       "path": "03. Permanent Notes/비돌극형.md"
-    },
-    {
-      "basename": "비돌극형 (draw)",
-      "path": "Excalidraw/비돌극형 (draw).md"
     }
   ],
   "omittedPaths": [],
