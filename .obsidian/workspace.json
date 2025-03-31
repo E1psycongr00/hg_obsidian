@@ -45,9 +45,20 @@
               "icon": "excalidraw-icon",
               "title": "L부하 전기자 반작용 (draw)"
             }
+          },
+          {
+            "id": "127387d19321861d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/C 부하 전기자 반작용 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "C 부하 전기자 반작용 (draw)"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +136,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/L부하 전기자 반작용 (draw).md"
+                "file": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
               },
               "icon": "lucide-info",
-              "title": "L부하 전기자 반작용 (draw) 의 파일 속성"
+              "title": "동기 발전기의 전기자 반작용 의 파일 속성"
             }
           },
           {
@@ -428,12 +439,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3da3311d96b86642",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/C 부하 전기자 반작용 (draw).md",
+    "Excalidraw/C 부하 전기자 반작용 (draw).svg",
     "Excalidraw/R부하 전기자 반작용 (draw).md",
     "Excalidraw/L부하 전기자 반작용 (draw).md",
-    "Excalidraw/L부하 전기자 반작용 (draw).svg",
     "04. Practice Notes/동기 발전기의 전기자 반작용.md",
+    "Excalidraw/L부하 전기자 반작용 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "02. MOC/Home.md",
     "Excalidraw/R부하 전기자 반작용 (draw).svg",
@@ -459,12 +472,10 @@
     "02. MOC/전력공학 MOC.md",
     "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md",
     "Excalidraw/전절권 (draw).md",
-    "Excalidraw/단절권 (draw).md",
     "Excalidraw/단절권 (draw).svg",
     "Excalidraw/전절권 (draw).svg",
     "Excalidraw/분포권 (draw).svg",
     "Excalidraw/집중권 (draw).svg",
-    "Excalidraw/비돌극형 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",

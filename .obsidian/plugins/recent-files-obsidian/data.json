@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "L부하 전기자 반작용 (draw)",
-      "path": "Excalidraw/L부하 전기자 반작용 (draw).md"
+      "basename": "동기 발전기의 전기자 반작용",
+      "path": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
+    },
+    {
+      "basename": "C 부하 전기자 반작용 (draw)",
+      "path": "Excalidraw/C 부하 전기자 반작용 (draw).md"
     },
     {
       "basename": "R부하 전기자 반작용 (draw)",
       "path": "Excalidraw/R부하 전기자 반작용 (draw).md"
     },
     {
-      "basename": "동기 발전기의 전기자 반작용",
-      "path": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
+      "basename": "L부하 전기자 반작용 (draw)",
+      "path": "Excalidraw/L부하 전기자 반작용 (draw).md"
     },
     {
       "basename": "전기기기 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "전절권 (draw)",
       "path": "Excalidraw/전절권 (draw).md"
-    },
-    {
-      "basename": "단절권 (draw)",
-      "path": "Excalidraw/단절권 (draw).md"
     }
   ],
   "omittedPaths": [],
