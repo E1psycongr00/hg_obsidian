@@ -33,9 +33,21 @@
               "icon": "excalidraw-icon",
               "title": "R부하 전기자 반작용 (draw)"
             }
+          },
+          {
+            "id": "3da3311d96b86642",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/L부하 전기자 반작용 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "L부하 전기자 반작용 (draw)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/R부하 전기자 반작용 (draw).md"
+                "file": "Excalidraw/L부하 전기자 반작용 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "R부하 전기자 반작용 (draw) 의 파일 속성"
+              "title": "L부하 전기자 반작용 (draw) 의 파일 속성"
             }
           },
           {
@@ -416,10 +428,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "093522fefe7ea640",
+  "active": "3da3311d96b86642",
   "lastOpenFiles": [
-    "04. Practice Notes/동기 발전기의 전기자 반작용.md",
     "Excalidraw/R부하 전기자 반작용 (draw).md",
+    "Excalidraw/L부하 전기자 반작용 (draw).md",
+    "Excalidraw/L부하 전기자 반작용 (draw).svg",
+    "04. Practice Notes/동기 발전기의 전기자 반작용.md",
     "02. MOC/전기기기 MOC.md",
     "02. MOC/Home.md",
     "Excalidraw/R부하 전기자 반작용 (draw).svg",
@@ -448,11 +462,9 @@
     "Excalidraw/단절권 (draw).md",
     "Excalidraw/단절권 (draw).svg",
     "Excalidraw/전절권 (draw).svg",
-    "Excalidraw/집중권 (draw).md",
     "Excalidraw/분포권 (draw).svg",
     "Excalidraw/집중권 (draw).svg",
     "Excalidraw/비돌극형 (draw).svg",
-    "Excalidraw/돌극형 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
