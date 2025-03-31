@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/동기 발전기의 전기자 반작용.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "동기 발전기의 전기자 반작용"
             }
           },
           {
@@ -34,7 +34,8 @@
               "title": "Drawing 2025-03-31 20.38.04.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "Excalidraw/Drawing 2025-03-31 20.38.04.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "Drawing 2025-03-31 20.38.04.excalidraw 의 파일 속성"
             }
           },
           {
@@ -415,17 +416,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "093522fefe7ea640",
   "lastOpenFiles": [
+    "04. Practice Notes/동기 발전기의 전기자 반작용.md",
+    "02. MOC/전기기기 MOC.md",
     "02. MOC/Home.md",
     "Excalidraw/Drawing 2025-03-31 20.38.04.excalidraw.md",
     "Excalidraw/Drawing 2025-03-31 20.38.04.excalidraw.svg",
-    "04. Practice Notes/동기 발전기의 전기자 반작용.md",
     "Excalidraw/동기 발전기 전기적 각도 (draw).md",
     "Excalidraw/동기 발전기 R부하 사인 파형 (draw).md",
     "Excalidraw/돌극형 (draw).md",
     "Excalidraw/동기 발전기 R부하 사인 파형 (draw).svg",
-    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 발전기 권선법.md",
     "03. Permanent Notes/전기적 각도.md",
     "Excalidraw/동기 발전기 전기적 각도 (draw).svg",
