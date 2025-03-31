@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "전기기기 MOC"
             }
           },
           {
@@ -34,8 +34,7 @@
               "title": "Drawing 2025-03-31 20.38.04.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-31 20.38.04.excalidraw.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-03-31 20.38.04.excalidraw 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -415,11 +415,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "093522fefe7ea640",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-31 20.38.04.excalidraw.svg",
     "02. MOC/Home.md",
     "Excalidraw/Drawing 2025-03-31 20.38.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-31 20.38.04.excalidraw.svg",
     "04. Practice Notes/동기 발전기의 전기자 반작용.md",
     "Excalidraw/동기 발전기 전기적 각도 (draw).md",
     "Excalidraw/동기 발전기 R부하 사인 파형 (draw).md",
@@ -452,7 +452,6 @@
     "Excalidraw/집중권 (draw).svg",
     "Excalidraw/비돌극형 (draw).svg",
     "Excalidraw/돌극형 (draw).svg",
-    "Excalidraw/기기와 부하 회로 단락 사고 후 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
