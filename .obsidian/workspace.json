@@ -34,8 +34,7 @@
               "title": "동기 발전기 등가 회로 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/동기 발전기 등가 회로 (draw).md"
+                "file": "04. Practice Notes/동기 임피던스.md"
               },
               "icon": "lucide-info",
-              "title": "동기 발전기 등가 회로 (draw) 의 파일 속성"
+              "title": "동기 임피던스 의 파일 속성"
             }
           },
           {
@@ -426,12 +425,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "59e507d5544fff2a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/동기 발전기 등가 회로 (draw).svg",
+    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/동기 임피던스.md",
     "Excalidraw/동기 발전기 등가 회로 (draw).md",
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/동기 발전기 등가 회로 (draw).svg",
     "03. Permanent Notes/풍손.md",
     "03. Permanent Notes/동기 발전기 권선법.md",
     "02. MOC/Home.md",
@@ -463,7 +462,6 @@
     "Excalidraw/단절권 (draw).svg",
     "Excalidraw/전절권 (draw).svg",
     "Excalidraw/분포권 (draw).svg",
-    "Excalidraw/집중권 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
