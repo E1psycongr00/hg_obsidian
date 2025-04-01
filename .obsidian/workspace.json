@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "동기 임피던스"
             }
+          },
+          {
+            "id": "59e507d5544fff2a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/동기 발전기 등가 회로 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "동기 발전기 등가 회로 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/동기 임피던스.md"
+                "file": "Excalidraw/동기 발전기 등가 회로 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "동기 임피던스 의 파일 속성"
+              "title": "동기 발전기 등가 회로 (draw) 의 파일 속성"
             }
           },
           {
@@ -413,10 +426,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "59e507d5544fff2a",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/동기 발전기 등가 회로 (draw).svg",
     "04. Practice Notes/동기 임피던스.md",
+    "Excalidraw/동기 발전기 등가 회로 (draw).md",
+    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/풍손.md",
     "03. Permanent Notes/동기 발전기 권선법.md",
     "02. MOC/Home.md",
@@ -445,8 +460,6 @@
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).svg",
     "04. Practice Notes/돌극형.md",
     "Excalidraw/Drawing 2025-03-30 12.05.39.excalidraw.md",
-    "02. MOC/전력공학 MOC.md",
-    "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md",
     "Excalidraw/단절권 (draw).svg",
     "Excalidraw/전절권 (draw).svg",
     "Excalidraw/분포권 (draw).svg",
