@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "돌극형"
             }
-          },
-          {
-            "id": "fe2ca953f646f4e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "유효 순환 전류 기하학적 해석 (draw)"
-            }
           }
         ]
       }
@@ -427,10 +415,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md",
+    "04. Practice Notes/돌극형.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md",
-    "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md",
     "무제.md",
     "Excalidraw/유효 순환 전류 기하학적 해석 (draw).svg",
     "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).svg",

@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/돌극형.md"
     },
     {
+      "basename": "유효 순환 전류 기하학적 해석 (draw)",
+      "path": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "동기 발전기 병렬 운전 중 순환 전류 (draw)",
       "path": "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md"
-    },
-    {
-      "basename": "유효 순환 전류 기하학적 해석 (draw)",
-      "path": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
     },
     {
       "basename": "무제",
