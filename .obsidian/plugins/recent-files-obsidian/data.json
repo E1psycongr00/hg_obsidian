@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "동기 발전기 병렬 운전 조건",
-      "path": "04. Practice Notes/동기 발전기 병렬 운전 조건.md"
+      "basename": "돌극형",
+      "path": "04. Practice Notes/돌극형.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "동기 발전기 병렬 운전 조건",
+      "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
     },
     {
       "basename": "동기 발전기 병렬 운전 중 순환 전류 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "동기 발전기 유기 기전력",
       "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
-    },
-    {
-      "basename": "동기 발전기의 전기자 폐루프 구성 (draw)",
-      "path": "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).md"
     }
   ],
   "omittedPaths": [],
