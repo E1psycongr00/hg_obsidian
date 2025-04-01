@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "동기 발전기의 전기자 반작용",
-      "path": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "동기 발전기 권선법",
+      "path": "03. Permanent Notes/동기 발전기 권선법.md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "동기 발전기의 전기자 반작용",
+      "path": "03. Permanent Notes/동기 발전기의 전기자 반작용.md"
     },
     {
       "basename": "R부하 전기자 반작용 (draw)",
@@ -21,10 +29,6 @@
       "path": "Excalidraw/C 부하 전기자 반작용 (draw).md"
     },
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
       "basename": "동기 발전기 전기적 각도 (draw)",
       "path": "Excalidraw/동기 발전기 전기적 각도 (draw).md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "돌극형 (draw)",
       "path": "Excalidraw/돌극형 (draw).md"
-    },
-    {
-      "basename": "동기 발전기 권선법",
-      "path": "03. Permanent Notes/동기 발전기 권선법.md"
     },
     {
       "basename": "전기적 각도",
