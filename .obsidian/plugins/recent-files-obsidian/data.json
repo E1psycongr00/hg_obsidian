@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "유효 순환 전류 기하학적 해석 (draw)",
+      "path": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "동기 발전기 병렬 운전 조건",
       "path": "04. Practice Notes/동기 발전기 병렬 운전 조건.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "동기 발전기의 전기자 폐루프 구성 (draw)",
       "path": "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "정자기장과 운동 루프 기전력",
-      "path": "03. Permanent Notes/정자기장과 운동 루프 기전력.md"
     }
   ],
   "omittedPaths": [],

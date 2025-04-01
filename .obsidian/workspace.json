@@ -38,14 +38,31 @@
             "id": "da061f7e27991556",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "무제"
+            }
+          },
+          {
+            "id": "fe2ca953f646f4e5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "유효 순환 전류 기하학적 해석 (draw)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,9 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "유효 순환 전류 기하학적 해석 (draw) 의 파일 속성"
             }
           },
           {
@@ -434,8 +453,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da061f7e27991556",
+  "active": "fe2ca953f646f4e5",
   "lastOpenFiles": [
+    "Excalidraw/유효 순환 전류 기하학적 해석 (draw).svg",
+    "무제.md",
+    "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md",
     "04. Practice Notes/동기 발전기 병렬 운전 조건.md",
     "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md",
     "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).svg",
@@ -467,8 +489,6 @@
     "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md",
     "04. Practice Notes/동기 속도.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
-    "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).md",
-    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).svg",
     "Excalidraw/단절권 (draw).svg",
     "templaters",
