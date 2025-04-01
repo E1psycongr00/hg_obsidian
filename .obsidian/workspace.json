@@ -21,42 +21,6 @@
               "icon": "lucide-file",
               "title": "동기 발전기의 전기자 반작용"
             }
-          },
-          {
-            "id": "093522fefe7ea640",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/R부하 전기자 반작용 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "R부하 전기자 반작용 (draw)"
-            }
-          },
-          {
-            "id": "3da3311d96b86642",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/L부하 전기자 반작용 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "L부하 전기자 반작용 (draw)"
-            }
-          },
-          {
-            "id": "127387d19321861d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/C 부하 전기자 반작용 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "C 부하 전기자 반작용 (draw)"
-            }
           }
         ]
       }
@@ -441,11 +405,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/C 부하 전기자 반작용 (draw).md",
-    "Excalidraw/C 부하 전기자 반작용 (draw).svg",
     "Excalidraw/R부하 전기자 반작용 (draw).md",
     "Excalidraw/L부하 전기자 반작용 (draw).md",
+    "Excalidraw/C 부하 전기자 반작용 (draw).md",
     "04. Practice Notes/동기 발전기의 전기자 반작용.md",
+    "Excalidraw/C 부하 전기자 반작용 (draw).svg",
     "Excalidraw/L부하 전기자 반작용 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "02. MOC/Home.md",
