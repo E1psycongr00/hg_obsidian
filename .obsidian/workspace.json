@@ -33,8 +33,21 @@
               "icon": "excalidraw-icon",
               "title": "동기 발전기 등가 회로 (draw)"
             }
+          },
+          {
+            "id": "37752c628320b677",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-01 13.31.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-01 13.31.08.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/동기 발전기 특성 곡선.md"
+                "file": "Excalidraw/Drawing 2025-04-01 13.31.08.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "동기 발전기 특성 곡선 의 파일 속성"
+              "title": "Drawing 2025-04-01 13.31.08.excalidraw 의 파일 속성"
             }
           },
           {
@@ -425,10 +438,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "37752c628320b677",
   "lastOpenFiles": [
-    "Excalidraw/동기 발전기 등가 회로 (draw).md",
+    "Excalidraw/Drawing 2025-04-01 13.31.08.excalidraw.md",
     "04. Practice Notes/동기 발전기 특성 곡선.md",
+    "Excalidraw/동기 발전기 등가 회로 (draw).md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/풍손.md",
     "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
@@ -459,7 +473,6 @@
     "03. Permanent Notes/전류 소자가 받는 힘.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).svg",
     "04. Practice Notes/돌극형.md",
-    "Excalidraw/Drawing 2025-03-30 12.05.39.excalidraw.md",
     "Excalidraw/단절권 (draw).svg",
     "Excalidraw/전절권 (draw).svg",
     "Excalidraw/분포권 (draw).svg",
