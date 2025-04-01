@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "1f3dd808f62da850",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "동기 발전기 병렬 운전 중 순환 전류 (draw)"
-            }
-          },
-          {
             "id": "fe2ca953f646f4e5",
             "type": "leaf",
             "state": {
@@ -439,15 +427,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md",
-    "무제.md",
-    "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md",
+    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/동기 발전기 병렬 운전 조건.md",
+    "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md",
+    "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md",
+    "무제.md",
     "Excalidraw/유효 순환 전류 기하학적 해석 (draw).svg",
     "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).svg",
     "Excalidraw/동기 발전기 등가 회로 (draw).md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
-    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 발전기 특성 곡선.md",
     "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).svg",

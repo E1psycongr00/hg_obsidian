@@ -5,16 +5,20 @@
       "path": "04. Practice Notes/동기 발전기 병렬 운전 조건.md"
     },
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "동기 발전기 병렬 운전 중 순환 전류 (draw)",
       "path": "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md"
     },
     {
-      "basename": "무제",
-      "path": "무제.md"
-    },
-    {
       "basename": "유효 순환 전류 기하학적 해석 (draw)",
       "path": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
       "basename": "동기 발전기 등가 회로 (draw)",
@@ -23,10 +27,6 @@
     {
       "basename": "동기 발전기 무부하 특성 곡선 (draw)",
       "path": "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "동기 발전기 특성 곡선",
