@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -344,6 +344,16 @@
             "id": "449b8951a03b7dcb",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "579a0ac310651d3b",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -351,7 +361,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       },
       {
         "id": "7d466e57ea240c21",
@@ -405,14 +415,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/하전 입자가 받는 힘.md",
+    "04. Practice Notes/동기 발전기의 전기자 반작용.md",
+    "02. MOC/Home.md",
     "Excalidraw/R부하 전기자 반작용 (draw).md",
     "Excalidraw/L부하 전기자 반작용 (draw).md",
     "Excalidraw/C 부하 전기자 반작용 (draw).md",
-    "04. Practice Notes/동기 발전기의 전기자 반작용.md",
     "Excalidraw/C 부하 전기자 반작용 (draw).svg",
     "Excalidraw/L부하 전기자 반작용 (draw).svg",
     "02. MOC/전기기기 MOC.md",
-    "02. MOC/Home.md",
     "Excalidraw/R부하 전기자 반작용 (draw).svg",
     "Excalidraw/동기 발전기 전기적 각도 (draw).md",
     "Excalidraw/동기 발전기 R부하 사인 파형 (draw).md",
@@ -428,7 +439,6 @@
     "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
     "02. MOC/전자기학 MOC.md",
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
-    "03. Permanent Notes/하전 입자가 받는 힘.md",
     "03. Permanent Notes/전류 소자가 받는 힘.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).svg",
     "04. Practice Notes/돌극형.md",

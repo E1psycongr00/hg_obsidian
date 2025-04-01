@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/동기 발전기의 전기자 반작용.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "R부하 전기자 반작용 (draw)",
       "path": "Excalidraw/R부하 전기자 반작용 (draw).md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "동기 발전기 전기적 각도 (draw)",
