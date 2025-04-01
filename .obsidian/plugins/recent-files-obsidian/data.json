@@ -5,6 +5,10 @@
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
+      "basename": "풍손",
+      "path": "03. Permanent Notes/풍손.md"
+    },
+    {
       "basename": "동기 발전기 권선법",
       "path": "03. Permanent Notes/동기 발전기 권선법.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동기 전동기 분포권 계수 유도 과정",
       "path": "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md"
-    },
-    {
-      "basename": "전절권 (draw)",
-      "path": "Excalidraw/전절권 (draw).md"
     }
   ],
   "omittedPaths": [],
