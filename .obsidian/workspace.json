@@ -21,8 +21,31 @@
               "icon": "lucide-file",
               "title": "동기 발전기 병렬 운전 조건"
             }
+          },
+          {
+            "id": "1f3dd808f62da850",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "동기 발전기 병렬 운전 중 순환 전류 (draw)"
+            }
+          },
+          {
+            "id": "da061f7e27991556",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,11 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "04. Practice Notes/동기 발전기 병렬 운전 조건.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "동기 발전기 병렬 운전 조건 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -413,11 +434,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "da061f7e27991556",
   "lastOpenFiles": [
+    "04. Practice Notes/동기 발전기 병렬 운전 조건.md",
+    "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md",
+    "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).svg",
     "Excalidraw/동기 발전기 등가 회로 (draw).md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
-    "04. Practice Notes/동기 발전기 병렬 운전 조건.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 발전기 특성 곡선.md",
     "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
@@ -446,11 +469,8 @@
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).md",
     "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
-    "02. MOC/전자기학 MOC.md",
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "Excalidraw/동기 발전기의 전기자 폐루프 구성 (draw).svg",
     "Excalidraw/단절권 (draw).svg",
-    "Excalidraw/전절권 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
