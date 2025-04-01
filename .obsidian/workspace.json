@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도"
+              "title": "전기기기 MOC"
             }
           },
           {
@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -439,9 +439,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/동기 발전기 특성 곡선.md",
-    "04. Practice Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
+    "03. Permanent Notes/동기 발전기 특성 곡선.md",
     "02. MOC/전기기기 MOC.md",
+    "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
     "Excalidraw/동기 발전기 등가 회로 (draw).md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).svg",
