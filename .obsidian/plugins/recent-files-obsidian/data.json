@@ -5,6 +5,14 @@
       "path": "04. Practice Notes/동기 발전기 병렬 운전 조건.md"
     },
     {
+      "basename": "동기 발전기 등가 회로 (draw)",
+      "path": "Excalidraw/동기 발전기 등가 회로 (draw).md"
+    },
+    {
+      "basename": "동기 발전기 무부하 특성 곡선 (draw)",
+      "path": "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도",
       "path": "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md"
-    },
-    {
-      "basename": "동기 발전기 등가 회로 (draw)",
-      "path": "Excalidraw/동기 발전기 등가 회로 (draw).md"
-    },
-    {
-      "basename": "동기 발전기 무부하 특성 곡선 (draw)",
-      "path": "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md"
     },
     {
       "basename": "동기 임피던스",
