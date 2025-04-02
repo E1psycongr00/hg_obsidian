@@ -45,8 +45,21 @@
               "icon": "excalidraw-icon",
               "title": "변압기 호흡작용 개선 (draw)"
             }
+          },
+          {
+            "id": "f3aa664cbba6012c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 냉각 방식 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 냉각 방식 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,10 +137,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/변압기 냉각 방식.md"
+                "file": "Excalidraw/변압기 냉각 방식 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "변압기 냉각 방식 의 파일 속성"
+              "title": "변압기 냉각 방식 (draw) 의 파일 속성"
             }
           },
           {
@@ -408,13 +421,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/변압기 냉각 방식.md",
+                "file": "Excalidraw/변압기 냉각 방식 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "변압기 냉각 방식 의 개요"
+              "title": "변압기 냉각 방식 (draw) 의 개요"
             }
           }
         ]
@@ -447,13 +460,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f3aa664cbba6012c",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
-    "03. Permanent Notes/변압기 호흡작용.md",
-    "04. Practice Notes/변압기 냉각 방식.md",
+    "Excalidraw/변압기 냉각 방식 (draw).svg",
     "Excalidraw/변압기 호흡작용 (draw).md",
     "Excalidraw/변압기 호흡작용 개선 (draw).md",
+    "Excalidraw/변압기 냉각 방식 (draw).md",
+    "04. Practice Notes/변압기 냉각 방식.md",
+    "02. MOC/전기기기 MOC.md",
+    "03. Permanent Notes/변압기 호흡작용.md",
     "Excalidraw/변압기 호흡작용 개선 (draw).svg",
     "Excalidraw/변압기 호흡작용 (draw).svg",
     "03. Permanent Notes/변압기 절연.md",
@@ -481,8 +496,6 @@
     "03. Permanent Notes/동기 발전기 권선법.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/하전 입자가 받는 힘.md",
-    "Excalidraw/R부하 전기자 반작용 (draw).md",
-    "Excalidraw/L부하 전기자 반작용 (draw).md",
     "Excalidraw/C 부하 전기자 반작용 (draw).svg",
     "Excalidraw/L부하 전기자 반작용 (draw).svg",
     "templaters",
