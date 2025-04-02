@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 호흡작용 개선 (draw)",
+      "path": "Excalidraw/변압기 호흡작용 개선 (draw).md"
+    },
+    {
       "basename": "변압기 호흡작용 (draw)",
       "path": "Excalidraw/변압기 호흡작용 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "C 부하 전기자 반작용 (draw)",
       "path": "Excalidraw/C 부하 전기자 반작용 (draw).md"
-    },
-    {
-      "basename": "동기 발전기 전기적 각도 (draw)",
-      "path": "Excalidraw/동기 발전기 전기적 각도 (draw).md"
     }
   ],
   "omittedPaths": [],
