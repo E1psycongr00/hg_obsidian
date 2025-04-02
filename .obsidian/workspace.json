@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "변압기 절연"
             }
-          },
-          {
-            "id": "306efd698080bf2b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/번압기 절연 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "번압기 절연 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/번압기 절연 (draw).md"
+                "file": "04. Practice Notes/변압기 절연.md"
               },
               "icon": "lucide-info",
-              "title": "번압기 절연 (draw) 의 파일 속성"
+              "title": "변압기 절연 의 파일 속성"
             }
           },
           {
@@ -397,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/동기 발전기의 전기자 반작용.md",
+                "file": "04. Practice Notes/변압기 절연.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "동기 발전기의 전기자 반작용 의 개요"
+              "title": "변압기 절연 의 개요"
             }
           }
         ]
@@ -436,10 +423,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "306efd698080bf2b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/변압기 절연.md",
     "Excalidraw/번압기 절연 (draw).md",
+    "04. Practice Notes/변압기 절연.md",
     "Excalidraw/번압기 절연 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/비돌극형.md",
