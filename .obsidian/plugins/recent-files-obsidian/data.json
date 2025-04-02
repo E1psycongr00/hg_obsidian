@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 호흡작용",
+      "path": "04. Practice Notes/변압기 호흡작용.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "변압기 절연",
-      "path": "04. Practice Notes/변압기 절연.md"
+      "path": "03. Permanent Notes/변압기 절연.md"
     },
     {
       "basename": "변압기 절연 유 (draw)",
@@ -11,10 +19,6 @@
     {
       "basename": "번압기 절연 (draw)",
       "path": "Excalidraw/번압기 절연 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "비돌극형",
@@ -95,10 +99,6 @@
     {
       "basename": "동기 발전기 R부하 사인 파형 (draw)",
       "path": "Excalidraw/동기 발전기 R부하 사인 파형 (draw).md"
-    },
-    {
-      "basename": "돌극형 (draw)",
-      "path": "Excalidraw/돌극형 (draw).md"
     }
   ],
   "omittedPaths": [],
