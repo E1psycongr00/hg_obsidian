@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 냉각 방식",
+      "path": "04. Practice Notes/변압기 냉각 방식.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "변압기 호흡작용",
-      "path": "04. Practice Notes/변압기 호흡작용.md"
-    },
-    {
-      "basename": "변압기 호흡작용 개선 (draw)",
-      "path": "Excalidraw/변압기 호흡작용 개선 (draw).md"
+      "path": "03. Permanent Notes/변압기 호흡작용.md"
     },
     {
       "basename": "변압기 호흡작용 (draw)",
       "path": "Excalidraw/변압기 호흡작용 (draw).md"
+    },
+    {
+      "basename": "변압기 호흡작용 개선 (draw)",
+      "path": "Excalidraw/변압기 호흡작용 개선 (draw).md"
     },
     {
       "basename": "변압기 절연",
@@ -95,10 +99,6 @@
     {
       "basename": "L부하 전기자 반작용 (draw)",
       "path": "Excalidraw/L부하 전기자 반작용 (draw).md"
-    },
-    {
-      "basename": "C 부하 전기자 반작용 (draw)",
-      "path": "Excalidraw/C 부하 전기자 반작용 (draw).md"
     }
   ],
   "omittedPaths": [],

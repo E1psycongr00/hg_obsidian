@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/변압기 냉각 방식.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "변압기 냉각 방식"
             }
           },
           {
@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "04. Practice Notes/변압기 냉각 방식.md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "변압기 냉각 방식 의 파일 속성"
             }
           },
           {
@@ -408,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/변압기 냉각 방식.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기기기 MOC 의 개요"
+              "title": "변압기 냉각 방식 의 개요"
             }
           }
         ]
@@ -449,10 +449,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/변압기 호흡작용.md",
     "02. MOC/전기기기 MOC.md",
-    "Excalidraw/변압기 호흡작용 개선 (draw).md",
+    "03. Permanent Notes/변압기 호흡작용.md",
+    "04. Practice Notes/변압기 냉각 방식.md",
     "Excalidraw/변압기 호흡작용 (draw).md",
+    "Excalidraw/변압기 호흡작용 개선 (draw).md",
     "Excalidraw/변압기 호흡작용 개선 (draw).svg",
     "Excalidraw/변압기 호흡작용 (draw).svg",
     "03. Permanent Notes/변압기 절연.md",
