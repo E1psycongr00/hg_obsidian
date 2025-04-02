@@ -21,8 +21,25 @@
               "icon": "lucide-file",
               "title": "전기기기 MOC"
             }
+          },
+          {
+            "id": "8433dffa32519a51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+                "page": 2,
+                "left": 11,
+                "top": 776,
+                "zoom": 1.4464285714285716
+              },
+              "icon": "lucide-file-text",
+              "title": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +117,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018 의 파일 속성"
             }
           },
           {
@@ -236,8 +253,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -251,116 +268,6 @@
             }
           },
           {
-            "id": "54afe0dcb52dc3a1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "b3890ce9f76bec10",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "c77f173c44dc5cf1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "adefdd58762556f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "9aadc3c68d87023a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "99d1c7427cb05b4e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "8f3060a0002c2406",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "4fca6c546510a1b0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "f8cd27eccab2c0cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "449b8951a03b7dcb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "579a0ac310651d3b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "b4be5805c7f1c5b7",
             "type": "leaf",
             "state": {
@@ -371,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -384,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기기기 MOC 의 개요"
+              "title": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018 의 개요"
             }
           }
         ]
@@ -423,10 +330,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8433dffa32519a51",
   "lastOpenFiles": [
-    "03. Permanent Notes/변압기 냉각 방식.md",
     "02. MOC/전기기기 MOC.md",
+    "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+    "03. Permanent Notes/변압기 냉각 방식.md",
     "Excalidraw/변압기 호흡작용 (draw).md",
     "Excalidraw/변압기 호흡작용 개선 (draw).md",
     "Excalidraw/변압기 냉각 방식 (draw).md",
@@ -469,7 +377,6 @@
     "MOC",
     "templates/scripts/moveFileByTag.js",
     "templaters/commander",
-    "templates/scripts/moveMOC.js",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
