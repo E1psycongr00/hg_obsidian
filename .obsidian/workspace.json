@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "변압기 절연"
             }
+          },
+          {
+            "id": "9c2ef4f031da6ff7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 절연 유 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 절연 유 (draw)"
+            }
+          },
+          {
+            "id": "c233356847d72181",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/번압기 절연 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "번압기 절연 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/변압기 절연.md"
+                "file": "Excalidraw/변압기 절연 유 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "변압기 절연 의 파일 속성"
+              "title": "변압기 절연 유 (draw) 의 파일 속성"
             }
           },
           {
@@ -384,13 +409,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/변압기 절연.md",
+                "file": "Excalidraw/변압기 절연 유 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "변압기 절연 의 개요"
+              "title": "변압기 절연 유 (draw) 의 개요"
             }
           }
         ]
@@ -423,9 +448,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9c2ef4f031da6ff7",
   "lastOpenFiles": [
+    "Excalidraw/변압기 절연 유 (draw).svg",
     "Excalidraw/번압기 절연 (draw).md",
+    "Excalidraw/변압기 절연 유 (draw).md",
     "04. Practice Notes/변압기 절연.md",
     "Excalidraw/번압기 절연 (draw).svg",
     "02. MOC/전기기기 MOC.md",
@@ -457,7 +484,6 @@
     "Excalidraw/R부하 전기자 반작용 (draw).svg",
     "Excalidraw/동기 발전기 전기적 각도 (draw).md",
     "Excalidraw/동기 발전기 R부하 사인 파형 (draw).md",
-    "Excalidraw/돌극형 (draw).md",
     "Excalidraw/동기 발전기 R부하 사인 파형 (draw).svg",
     "Excalidraw/동기 발전기 전기적 각도 (draw).svg",
     "templaters",
