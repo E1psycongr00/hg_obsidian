@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "변압기 호흡작용"
             }
+          },
+          {
+            "id": "3e04f702aaeed2ba",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 호흡작용 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 호흡작용 (draw)"
+            }
           }
         ]
       }
@@ -425,8 +437,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/변압기 호흡작용 (draw).md",
+    "Excalidraw/변압기 호흡작용 (draw).svg",
     "04. Practice Notes/변압기 호흡작용.md",
+    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 절연.md",
     "Excalidraw/변압기 절연 유 (draw).md",
     "Excalidraw/변압기 절연 유 (draw).svg",
@@ -458,9 +472,6 @@
     "Excalidraw/C 부하 전기자 반작용 (draw).svg",
     "Excalidraw/L부하 전기자 반작용 (draw).svg",
     "Excalidraw/R부하 전기자 반작용 (draw).svg",
-    "Excalidraw/동기 발전기 전기적 각도 (draw).md",
-    "Excalidraw/동기 발전기 R부하 사인 파형 (draw).md",
-    "Excalidraw/동기 발전기 R부하 사인 파형 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
