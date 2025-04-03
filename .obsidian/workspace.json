@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "돌극형",
+                "query": "변압이",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -324,9 +324,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/변압이 Y-Y 결선.md",
-    "02. MOC/전기기기 MOC.md",
     "02. MOC/전자기학 MOC.md",
+    "04. Practice Notes/변압기 Y-Y 결선.md",
+    "02. MOC/전기기기 MOC.md",
+    "변압기 Y-Y 결선.md",
     "03. Permanent Notes/와류.md",
     "03. Permanent Notes/자기 이력 곡선.md",
     "03. Permanent Notes/자기 에너지.md",
@@ -358,7 +359,6 @@
     "Excalidraw/동기 발전기 등가 회로 (draw).md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
     "03. Permanent Notes/동기 발전기 특성 곡선.md",
-    "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).svg",
     "Excalidraw/동기 발전기 등가 회로 (draw).svg",
     "templaters",

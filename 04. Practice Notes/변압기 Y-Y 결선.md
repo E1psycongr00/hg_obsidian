@@ -5,7 +5,7 @@ tags:
   - 결선방식
 aliases: 
 created: 2025-04-03
-title: 변압이 Y-Y 결선
+title: 변압기 Y-Y 결선
 note-type: COMMON
 completed: false
 ---
