@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "와류",
+      "path": "04. Practice Notes/와류.md"
+    },
+    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도",
       "path": "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md"
-    },
-    {
-      "basename": "동기 임피던스",
-      "path": "03. Permanent Notes/동기 임피던스.md"
     }
   ],
   "omittedPaths": [],
