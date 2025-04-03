@@ -5,6 +5,10 @@
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
+      "basename": "변압기 절연",
+      "path": "03. Permanent Notes/변압기 절연.md"
+    },
+    {
       "basename": "Drawing 2025-04-02 21.25.54.excalidraw",
       "path": "Excalidraw/Drawing 2025-04-02 21.25.54.excalidraw.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "변압기 호흡작용",
       "path": "03. Permanent Notes/변압기 호흡작용.md"
-    },
-    {
-      "basename": "변압기 절연",
-      "path": "03. Permanent Notes/변압기 절연.md"
     },
     {
       "basename": "변압기 절연 유 (draw)",
