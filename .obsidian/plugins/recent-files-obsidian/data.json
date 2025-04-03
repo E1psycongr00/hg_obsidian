@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
-      "path": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
-    },
-    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "Drawing 2025-04-02 21.25.54.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-02 21.25.54.excalidraw.md"
+    },
+    {
+      "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
+      "path": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
     },
     {
       "basename": "변압기 냉각 방식",
@@ -95,10 +99,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "동기 발전기의 전기자 반작용",
-      "path": "03. Permanent Notes/동기 발전기의 전기자 반작용.md"
     }
   ],
   "omittedPaths": [],
