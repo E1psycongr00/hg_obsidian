@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "자기 이력 곡선"
             }
+          },
+          {
+            "id": "2814b34235d89281",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/자기 이력 곡선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "자기 이력 곡선 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/자기 이력 곡선.md"
+                "file": "Excalidraw/자기 이력 곡선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "자기 이력 곡선 의 파일 속성"
+              "title": "자기 이력 곡선 (draw) 의 파일 속성"
             }
           },
           {
@@ -322,10 +335,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2814b34235d89281",
   "lastOpenFiles": [
-    "02. MOC/전자기학 MOC.md",
+    "Excalidraw/자기 이력 곡선 (draw).svg",
     "04. Practice Notes/자기 이력 곡선.md",
+    "Excalidraw/자기 이력 곡선 (draw).md",
+    "02. MOC/전자기학 MOC.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 절연.md",
     "Excalidraw/Drawing 2025-04-02 21.25.54.excalidraw.md",
@@ -357,9 +372,7 @@
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).svg",
     "03. Permanent Notes/풍손.md",
     "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
-    "03. Permanent Notes/동기 임피던스.md",
     "Excalidraw/동기 발전기 등가 회로 (draw).svg",
-    "03. Permanent Notes/동기 발전기 권선법.md",
     "Excalidraw/C 부하 전기자 반작용 (draw).svg",
     "templaters",
     "templates/templater",

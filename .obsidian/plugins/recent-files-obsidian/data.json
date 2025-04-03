@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "자기 이력 곡선 (draw)",
+      "path": "Excalidraw/자기 이력 곡선 (draw).md"
+    },
+    {
       "basename": "자기 이력 곡선",
       "path": "04. Practice Notes/자기 이력 곡선.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동기 임피던스",
       "path": "03. Permanent Notes/동기 임피던스.md"
-    },
-    {
-      "basename": "풍손",
-      "path": "03. Permanent Notes/풍손.md"
     }
   ],
   "omittedPaths": [],
