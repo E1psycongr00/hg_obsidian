@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/단권 변압기.md",
+                "file": "변압기 Y-Y 결선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "단권 변압기"
+              "title": "변압기 Y-Y 결선"
             }
           },
           {
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/단권 변압기.md"
+                "file": "변압기 Y-Y 결선.md"
               },
               "icon": "lucide-info",
-              "title": "단권 변압기 의 파일 속성"
+              "title": "변압기 Y-Y 결선 의 파일 속성"
             }
           },
           {
@@ -356,10 +356,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/단권 변압기 Y결선.md",
     "02. MOC/전기기기 MOC.md",
-    "03. Permanent Notes/단권 변압기 V결선.md",
+    "04. Practice Notes/단권 변압기 Y결선.md",
     "03. Permanent Notes/단권 변압기.md",
+    "03. Permanent Notes/단권 변압기 V결선.md",
     "Excalidraw/단권 변압기 (draw).md",
     "Excalidraw/단권 변압기 V 결선 (draw).md",
     "Excalidraw/단권 변압기 V 결선 (draw).svg",

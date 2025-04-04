@@ -1,0 +1,22 @@
+---
+tags:
+  - 전기기기
+  - 변압기
+aliases: 
+created: 2025-04-04
+title: 변압기 Y-Y 결선
+note-type: COMMON
+completed: false
+---
+
+## 내용(Content)
+
+
+## 질문 & 확장
+
+(없음)
+
+## 연결 노트
+
+## 출처(링크)
+
