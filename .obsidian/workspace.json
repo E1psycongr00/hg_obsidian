@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/단권 변압기.md",
+                "file": "04. Practice Notes/단권 변압기 V결선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "단권 변압기"
+              "title": "단권 변압기 V결선"
             }
           },
           {
@@ -33,8 +33,21 @@
               "icon": "excalidraw-icon",
               "title": "단권 변압기 (draw)"
             }
+          },
+          {
+            "id": "483543e9f64a65f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/단권 변압기 V 결선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "단권 변압기 V 결선 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/단권 변압기.md"
+                "file": "Excalidraw/단권 변압기 V 결선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "단권 변압기 의 파일 속성"
+              "title": "단권 변압기 V 결선 (draw) 의 파일 속성"
             }
           },
           {
@@ -354,12 +367,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "483543e9f64a65f5",
   "lastOpenFiles": [
-    "Excalidraw/단권 변압기 (draw).md",
-    "04. Practice Notes/단권 변압기.md",
-    "Excalidraw/단권 변압기 (draw).svg",
+    "Excalidraw/단권 변압기 V 결선 (draw).svg",
+    "Excalidraw/단권 변압기 V 결선 (draw).md",
+    "04. Practice Notes/단권 변압기 V결선.md",
     "02. MOC/전기기기 MOC.md",
+    "03. Permanent Notes/단권 변압기.md",
+    "Excalidraw/단권 변압기 (draw).md",
+    "Excalidraw/단권 변압기 (draw).svg",
     "04. Practice Notes/변압기 감극성과 가극성.md",
     "Excalidraw/변압기 가극성 (draw).md",
     "Excalidraw/변압기 감극성 (draw).md",
@@ -386,8 +402,6 @@
     "03. Permanent Notes/자기 에너지.md",
     "Excalidraw/자기 이력 곡선 (draw).md",
     "Excalidraw/자기 이력 곡선 (draw).svg",
-    "03. Permanent Notes/변압기 절연.md",
-    "Excalidraw/Drawing 2025-04-02 21.25.54.excalidraw.md",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Excalidraw/변압기 냉각 방식 (draw).svg",
     "Excalidraw/변압기 호흡작용 개선 (draw).svg",
