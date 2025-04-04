@@ -33,9 +33,20 @@
               "icon": "excalidraw-icon",
               "title": "변압기 감극성 (draw)"
             }
+          },
+          {
+            "id": "32ac70bff677cb77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 가극성 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 가극성 (draw)"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/변압기 감극성 (draw).md"
+                "file": "04. Practice Notes/변압기 감극성과 가극성.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 감극성 (draw) 의 파일 속성"
+              "title": "변압기 감극성과 가극성 의 파일 속성"
             }
           },
           {
@@ -355,11 +366,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "486bb2b4a7b2478f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/변압기 감극성 (draw).md",
+    "Excalidraw/변압기 가극성 (draw).md",
+    "Excalidraw/변압기 가극성 (draw).svg",
     "Excalidraw/변압기 감극성 (draw).svg",
     "04. Practice Notes/변압기 감극성과 가극성.md",
-    "Excalidraw/변압기 감극성 (draw).md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 효율.md",
     "03. Permanent Notes/변압기의 철손.md",
@@ -387,13 +400,10 @@
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "03. Permanent Notes/변압기 냉각 방식.md",
     "Excalidraw/변압기 호흡작용 (draw).md",
-    "Excalidraw/변압기 호흡작용 개선 (draw).md",
     "Excalidraw/변압기 냉각 방식 (draw).svg",
     "Excalidraw/변압기 호흡작용 개선 (draw).svg",
     "Excalidraw/변압기 호흡작용 (draw).svg",
     "Excalidraw/변압기 절연 유 (draw).svg",
-    "Excalidraw/번압기 절연 (draw).svg",
-    "Excalidraw/유효 순환 전류 기하학적 해석 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
