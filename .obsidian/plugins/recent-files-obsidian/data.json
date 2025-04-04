@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "벡엔드 엔지니어링 MOC",
+      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
+    },
+    {
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
+    },
+    {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
       "basename": "변압기 병렬 운전 조건",
       "path": "04. Practice Notes/변압기 병렬 운전 조건.md"
+    },
+    {
+      "basename": "단권 변압기 V 결선 (draw)",
+      "path": "Excalidraw/단권 변압기 V 결선 (draw).md"
     },
     {
       "basename": "전기기기 MOC",
@@ -31,10 +47,6 @@
     {
       "basename": "단권 변압기 (draw)",
       "path": "Excalidraw/단권 변압기 (draw).md"
-    },
-    {
-      "basename": "단권 변압기 V 결선 (draw)",
-      "path": "Excalidraw/단권 변압기 V 결선 (draw).md"
     },
     {
       "basename": "변압기 감극성과 가극성",
@@ -87,18 +99,6 @@
     {
       "basename": "변압기 Y-Y 결선",
       "path": "04. Practice Notes/변압기 Y-Y 결선.md"
-    },
-    {
-      "basename": "와류",
-      "path": "03. Permanent Notes/와류.md"
-    },
-    {
-      "basename": "자기 이력 곡선",
-      "path": "03. Permanent Notes/자기 이력 곡선.md"
-    },
-    {
-      "basename": "자기 이력 곡선 (draw)",
-      "path": "Excalidraw/자기 이력 곡선 (draw).md"
     }
   ],
   "omittedPaths": [],
