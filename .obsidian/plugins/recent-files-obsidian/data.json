@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기의 철손",
-      "path": "04. Practice Notes/변압기의 철손.md"
+      "basename": "변압기 효율",
+      "path": "04. Practice Notes/변압기 효율.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "변압기 Y-Y 결선",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 절연 유 (draw)",
       "path": "Excalidraw/변압기 절연 유 (draw).md"
-    },
-    {
-      "basename": "번압기 절연 (draw)",
-      "path": "Excalidraw/번압기 절연 (draw).md"
     }
   ],
   "omittedPaths": [],
