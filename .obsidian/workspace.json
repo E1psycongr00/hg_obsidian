@@ -34,8 +34,7 @@
               "title": "변압기 무부하 시험 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/변압기 무부하 시험 (draw).md"
+                "file": "04. Practice Notes/변압기 무부하 시험.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 무부하 시험 (draw) 의 파일 속성"
+              "title": "변압기 무부하 시험 의 파일 속성"
             }
           },
           {
@@ -355,11 +354,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "57f61c6227db3fea",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/변압기 무부하 시험 (draw).md",
     "Excalidraw/변압기 무부하 시험 (draw).svg",
     "04. Practice Notes/변압기 무부하 시험.md",
-    "Excalidraw/변압기 무부하 시험 (draw).md",
     "02. MOC/전기기기 MOC.md",
     "02. MOC/Home.md",
     "02. MOC/전자기학 MOC.md",
@@ -393,7 +392,6 @@
     "Excalidraw/유효 순환 전류 기하학적 해석 (draw).svg",
     "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).svg",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).svg",
-    "Excalidraw/동기 발전기 등가 회로 (draw).svg",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
