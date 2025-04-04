@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "변압기 Y-Y 결선.md",
+                "file": "04. Practice Notes/변압기 병렬 운전 조건.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "변압기 Y-Y 결선"
+              "title": "변압기 병렬 운전 조건"
             }
           },
           {
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "변압기 Y-Y 결선.md"
+                "file": "04. Practice Notes/변압기 병렬 운전 조건.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 Y-Y 결선 의 파일 속성"
+              "title": "변압기 병렬 운전 조건 의 파일 속성"
             }
           },
           {
@@ -357,6 +357,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/변압기 병렬 운전 조건.md",
+    "03. Permanent Notes/변압기의 철손.md",
+    "변압기 Y-Y 결선.md",
     "04. Practice Notes/단권 변압기 Y결선.md",
     "03. Permanent Notes/단권 변압기.md",
     "03. Permanent Notes/단권 변압기 V결선.md",
@@ -370,9 +373,7 @@
     "Excalidraw/변압기 가극성 (draw).svg",
     "Excalidraw/변압기 감극성 (draw).svg",
     "03. Permanent Notes/변압기 효율.md",
-    "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
-    "변압기 Y-Y 결선.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
     "03. Permanent Notes/변압기 무부하 시험.md",
@@ -388,7 +389,6 @@
     "03. Permanent Notes/와류.md",
     "03. Permanent Notes/자기 이력 곡선.md",
     "03. Permanent Notes/자기 에너지.md",
-    "Excalidraw/자기 이력 곡선 (draw).md",
     "Excalidraw/자기 이력 곡선 (draw).svg",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Excalidraw/변압기 냉각 방식 (draw).svg",

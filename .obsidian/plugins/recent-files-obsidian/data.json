@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기 Y-Y 결선",
-      "path": "변압기 Y-Y 결선.md"
+      "basename": "변압기 병렬 운전 조건",
+      "path": "04. Practice Notes/변압기 병렬 운전 조건.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
+      "basename": "변압기 Y-Y 결선",
+      "path": "변압기 Y-Y 결선.md"
     },
     {
       "basename": "단권 변압기 Y결선",
@@ -43,10 +51,6 @@
     {
       "basename": "변압기 효율",
       "path": "03. Permanent Notes/변압기 효율.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "변압기 전압 변동률",
@@ -95,10 +99,6 @@
     {
       "basename": "자기 이력 곡선 (draw)",
       "path": "Excalidraw/자기 이력 곡선 (draw).md"
-    },
-    {
-      "basename": "변압기 절연",
-      "path": "03. Permanent Notes/변압기 절연.md"
     }
   ],
   "omittedPaths": [],
