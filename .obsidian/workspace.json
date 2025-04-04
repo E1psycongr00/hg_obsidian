@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/변압기 전압 변동률.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "변압기 전압 변동률"
+              "title": "전기기기 MOC"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/변압기 전압 변동률.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 전압 변동률 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -359,8 +359,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "변압기 Y-Y 결선.md",
     "02. MOC/전기기기 MOC.md",
-    "04. Practice Notes/변압기 전압 변동률.md",
+    "04. Practice Notes/변압기의 철손.md",
+    "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
     "03. Permanent Notes/변압기 무부하 시험.md",
     "Excalidraw/변압기 무부하 시험 (draw).md",
@@ -372,7 +374,6 @@
     "02. MOC/Home.md",
     "02. MOC/전자기학 MOC.md",
     "04. Practice Notes/변압기 Y-Y 결선.md",
-    "변압기 Y-Y 결선.md",
     "03. Permanent Notes/와류.md",
     "03. Permanent Notes/자기 이력 곡선.md",
     "03. Permanent Notes/자기 에너지.md",
@@ -394,7 +395,6 @@
     "Excalidraw/번압기 절연 (draw).md",
     "Excalidraw/번압기 절연 (draw).svg",
     "03. Permanent Notes/비돌극형.md",
-    "04. Practice Notes/돌극형.md",
     "Excalidraw/유효 순환 전류 기하학적 해석 (draw).svg",
     "templaters",
     "templates/templater",

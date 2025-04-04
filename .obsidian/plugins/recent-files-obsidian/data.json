@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기 전압 변동률",
-      "path": "04. Practice Notes/변압기 전압 변동률.md"
-    },
-    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "변압기 Y-Y 결선",
+      "path": "변압기 Y-Y 결선.md"
+    },
+    {
+      "basename": "변압기의 철손",
+      "path": "04. Practice Notes/변압기의 철손.md"
+    },
+    {
+      "basename": "변압기 전압 변동률",
+      "path": "03. Permanent Notes/변압기 전압 변동률.md"
     },
     {
       "basename": "변압기 단락 시험",
@@ -39,10 +47,6 @@
     {
       "basename": "변압기 Y-Y 결선",
       "path": "04. Practice Notes/변압기 Y-Y 결선.md"
-    },
-    {
-      "basename": "변압기 Y-Y 결선",
-      "path": "변압기 Y-Y 결선.md"
     },
     {
       "basename": "와류",
@@ -95,10 +99,6 @@
     {
       "basename": "번압기 절연 (draw)",
       "path": "Excalidraw/번압기 절연 (draw).md"
-    },
-    {
-      "basename": "비돌극형",
-      "path": "03. Permanent Notes/비돌극형.md"
     }
   ],
   "omittedPaths": [],
