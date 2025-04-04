@@ -5,16 +5,24 @@
       "path": "04. Practice Notes/변압기 단락 시험.md"
     },
     {
+      "basename": "변압기 무부하 시험 (draw)",
+      "path": "Excalidraw/변압기 무부하 시험 (draw).md"
+    },
+    {
+      "basename": "변압기 단락 시험 (darw)",
+      "path": "Excalidraw/변압기 단락 시험 (darw).md"
+    },
+    {
+      "basename": "변압기 단락 등가 회로 (draw)",
+      "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "변압기 무부하 시험",
       "path": "03. Permanent Notes/변압기 무부하 시험.md"
-    },
-    {
-      "basename": "변압기 무부하 시험 (draw)",
-      "path": "Excalidraw/변압기 무부하 시험 (draw).md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "돌극형",
       "path": "04. Practice Notes/돌극형.md"
-    },
-    {
-      "basename": "유효 순환 전류 기하학적 해석 (draw)",
-      "path": "Excalidraw/유효 순환 전류 기하학적 해석 (draw).md"
-    },
-    {
-      "basename": "동기 발전기 병렬 운전 조건",
-      "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
     }
   ],
   "omittedPaths": [],
