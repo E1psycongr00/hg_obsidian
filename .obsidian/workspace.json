@@ -13,41 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/변압기 감극성과 가극성.md",
+                "file": "04. Practice Notes/단권 변압기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "변압기 감극성과 가극성"
-            }
-          },
-          {
-            "id": "486bb2b4a7b2478f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 감극성 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 감극성 (draw)"
-            }
-          },
-          {
-            "id": "32ac70bff677cb77",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 가극성 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 가극성 (draw)"
+              "title": "단권 변압기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -125,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/변압기 감극성 (draw).md"
+                "file": "04. Practice Notes/단권 변압기.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 감극성 (draw) 의 파일 속성"
+              "title": "단권 변압기 의 파일 속성"
             }
           },
           {
@@ -367,14 +342,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "486bb2b4a7b2478f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/단권 변압기.md",
     "04. Practice Notes/변압기 감극성과 가극성.md",
-    "Excalidraw/변압기 감극성 (draw).md",
     "Excalidraw/변압기 가극성 (draw).md",
+    "Excalidraw/변압기 감극성 (draw).md",
     "Excalidraw/변압기 가극성 (draw).svg",
     "Excalidraw/변압기 감극성 (draw).svg",
-    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 효율.md",
     "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
