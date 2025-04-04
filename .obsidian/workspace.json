@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/변압기 감극성과 가극성.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "변압기 감극성과 가극성"
+            }
+          },
+          {
+            "id": "486bb2b4a7b2478f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 감극성 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 감극성 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "Excalidraw/변압기 감극성 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "변압기 감극성 (draw) 의 파일 속성"
             }
           },
           {
@@ -342,9 +355,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "486bb2b4a7b2478f",
   "lastOpenFiles": [
+    "Excalidraw/변압기 감극성 (draw).svg",
     "04. Practice Notes/변압기 감극성과 가극성.md",
+    "Excalidraw/변압기 감극성 (draw).md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 효율.md",
     "03. Permanent Notes/변압기의 철손.md",
@@ -373,9 +388,7 @@
     "03. Permanent Notes/변압기 냉각 방식.md",
     "Excalidraw/변압기 호흡작용 (draw).md",
     "Excalidraw/변압기 호흡작용 개선 (draw).md",
-    "Excalidraw/변압기 냉각 방식 (draw).md",
     "Excalidraw/변압기 냉각 방식 (draw).svg",
-    "03. Permanent Notes/변압기 호흡작용.md",
     "Excalidraw/변압기 호흡작용 개선 (draw).svg",
     "Excalidraw/변압기 호흡작용 (draw).svg",
     "Excalidraw/변압기 절연 유 (draw).svg",

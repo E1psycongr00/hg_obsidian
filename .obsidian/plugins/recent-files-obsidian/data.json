@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
+      "basename": "변압기 감극성 (draw)",
+      "path": "Excalidraw/변압기 감극성 (draw).md"
     },
     {
       "basename": "변압기 감극성과 가극성",
       "path": "04. Practice Notes/변압기 감극성과 가극성.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "변압기 효율",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 냉각 방식 (draw)",
       "path": "Excalidraw/변압기 냉각 방식 (draw).md"
-    },
-    {
-      "basename": "변압기 호흡작용",
-      "path": "03. Permanent Notes/변압기 호흡작용.md"
     }
   ],
   "omittedPaths": [],
