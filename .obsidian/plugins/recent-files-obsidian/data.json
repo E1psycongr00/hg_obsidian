@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 무부하 시험 (draw)",
+      "path": "Excalidraw/변압기 무부하 시험 (draw).md"
+    },
+    {
       "basename": "변압기 무부하 시험",
-      "path": "변압기 무부하 시험.md"
+      "path": "04. Practice Notes/변압기 무부하 시험.md"
     },
     {
       "basename": "전기기기 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "동기 발전기 병렬 운전 중 순환 전류 (draw)",
       "path": "Excalidraw/동기 발전기 병렬 운전 중 순환 전류 (draw).md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
     }
   ],
   "omittedPaths": [],
