@@ -4,7 +4,7 @@ tags:
   - 변압기
 aliases: 
 created: 2025-04-04
-title: 단권 변압기 V결선
+title: 단권 변압기 Y결선
 note-type: COMMON
 completed: false
 ---
@@ -13,13 +13,11 @@ completed: false
 
 ### 형태
 
-
-
-[[단권 변압기#정의|단권 변압기]]를 V결선한 것이다.
+[[단권 변압기#정의|단권 변압기]] 3대를 Y 결선한 것이다.
 
 ### 특징
 
-![[단권 변압기 V 결선 (draw).svg]]
+부하 용량 대비 자기 용량은 단권 변압기와 똑같다.
 
 
 ## 질문 & 확장
