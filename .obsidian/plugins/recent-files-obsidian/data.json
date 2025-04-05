@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "lec4",
-      "path": "06. 공부 자료/pdf/lec4.pdf"
-    },
-    {
-      "basename": "lec4",
-      "path": "06. 공부 자료/pdf/lec4.md"
-    },
-    {
-      "basename": "RAG from scratch_ Overview",
-      "path": "06. 공부 자료/pdf/RAG from scratch_ Overview.pdf"
+      "basename": "Distributed_Systems_3rd",
+      "path": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf"
     },
     {
       "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
@@ -95,10 +87,6 @@
     {
       "basename": "단권 변압기 Y결선",
       "path": "04. Practice Notes/단권 변압기 Y결선.md"
-    },
-    {
-      "basename": "단권 변압기",
-      "path": "03. Permanent Notes/단권 변압기.md"
     }
   ],
   "omittedPaths": [],
