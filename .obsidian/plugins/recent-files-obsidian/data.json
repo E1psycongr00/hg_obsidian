@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "04. Practice Notes/변압기 병렬 운전 조건.md"
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
     },
     {
-      "basename": "변압기 병렬 운전 임피던스 강하가 다른 경우 (draw)",
-      "path": "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md"
+      "basename": "변압기 병렬 운전 조건",
+      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
     },
     {
       "basename": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md"
+    },
+    {
+      "basename": "변압기 병렬 운전 임피던스 강하가 다른 경우 (draw)",
+      "path": "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md"
     },
     {
       "basename": "변압기 병렬 운전 극성 일치 (draw)",
@@ -23,10 +27,6 @@
     {
       "basename": "변압기 병렬 운전 권수비가 다른 경우 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "Home",
