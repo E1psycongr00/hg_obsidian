@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
+      "path": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
+    },
+    {
+      "basename": "An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze",
+      "path": "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf"
+    },
+    {
+      "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
+      "path": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
+    },
+    {
+      "basename": "Designing_Data_Intensive_Applications",
+      "path": "attachments/pdf/book/Designing_Data_Intensive_Applications.pdf"
+    },
+    {
+      "basename": "introducing-eventstorming",
+      "path": "attachments/pdf/book/introducing-eventstorming.pdf"
+    },
+    {
+      "basename": "Distributed Systems Principles and Paradigms 2 edition",
+      "path": "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "변압기 병렬 운전 조건",
       "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
     },
@@ -37,10 +65,6 @@
       "path": "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "벡엔드 엔지니어링 MOC",
       "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
     },
@@ -75,26 +99,6 @@
     {
       "basename": "변압기 감극성과 가극성",
       "path": "04. Practice Notes/변압기 감극성과 가극성.md"
-    },
-    {
-      "basename": "변압기 가극성 (draw)",
-      "path": "Excalidraw/변압기 가극성 (draw).md"
-    },
-    {
-      "basename": "변압기 감극성 (draw)",
-      "path": "Excalidraw/변압기 감극성 (draw).md"
-    },
-    {
-      "basename": "변압기 효율",
-      "path": "03. Permanent Notes/변압기 효율.md"
-    },
-    {
-      "basename": "변압기 전압 변동률",
-      "path": "03. Permanent Notes/변압기 전압 변동률.md"
-    },
-    {
-      "basename": "변압기 단락 시험",
-      "path": "03. Permanent Notes/변압기 단락 시험.md"
     }
   ],
   "omittedPaths": [],

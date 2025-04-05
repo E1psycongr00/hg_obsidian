@@ -11,27 +11,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03. Permanent Notes/변압기 병렬 운전 조건.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
+                "page": 181,
+                "left": -6,
+                "top": 381,
+                "zoom": 2.4979608482871125
               },
-              "icon": "lucide-file",
-              "title": "변압기 병렬 운전 조건"
-            }
-          },
-          {
-            "id": "13d9635f9a75c759",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw)"
+              "icon": "lucide-file-text",
+              "title": "Andrew-S.-Tanenbaum-Modern-Operating-Systems"
             }
           }
         ]
@@ -112,10 +101,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/변압기 병렬 운전 조건.md"
+                "file": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
               },
               "icon": "lucide-info",
-              "title": "변압기 병렬 운전 조건 의 파일 속성"
+              "title": "Andrew-S.-Tanenbaum-Modern-Operating-Systems 의 파일 속성"
             }
           },
           {
@@ -306,6 +295,16 @@
             "id": "e4196d799a1566af",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "ae83ac21b61667f4",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -313,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
         "id": "7d466e57ea240c21",
@@ -366,13 +365,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
+    "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+    "attachments/pdf/book/Designing_Data-Intensive_Applications_TH.pdf",
+    "attachments/pdf/book/Computer Networking _ A Top Down Approach, 7th, converted.pdf",
+    "attachments/pdf/book/Designing_Data_Intensive_Applications.pdf",
+    "attachments/pdf/book/introducing-eventstorming.pdf",
+    "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 효율.md",
     "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "04. Practice Notes/변압기 Y-Y 결선.md",
     "변압기 Y-Y 결선.md",
-    "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md",
     "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md",
     "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).svg",
@@ -383,7 +390,6 @@
     "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
-    "02. MOC/Home.md",
     "02. MOC/벡엔드 엔지니어링 MOC.md",
     "02. MOC/웹 기초 MOC.md",
     "01. Guides/MOC Guides.md",
@@ -400,18 +406,11 @@
     "Excalidraw/변압기 가극성 (draw).svg",
     "Excalidraw/변압기 감극성 (draw).svg",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
-    "03. Permanent Notes/변압기 단락 시험.md",
     "Excalidraw/변압기 단락 등가 회로 (draw).svg",
-    "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "templaters",
     "templates/templater",
     "templaters/scripts/moveFileToTarget.js",
     "templates/scripts/moveFileTarget.js",
-    "templaters/scripts/checkFrontMatter.js",
-    "2. MOC",
-    "MOC",
-    "templates/scripts/moveFileByTag.js",
-    "templaters/commander",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
