@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 병렬 운전 조건",
+      "path": "04. Practice Notes/변압기 병렬 운전 조건.md"
+    },
+    {
+      "basename": "변압기 병렬 운전 권수비가 다른 경우 (draw)",
+      "path": "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md"
+    },
+    {
       "basename": "변압기 병렬 운전 극성 불일치 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).md"
     },
     {
       "basename": "변압기 병렬 운전 극성 일치 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md"
-    },
-    {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "04. Practice Notes/변압기 병렬 운전 조건.md"
     },
     {
       "basename": "전기기기 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 단락 시험 (darw)",
       "path": "Excalidraw/변압기 단락 시험 (darw).md"
-    },
-    {
-      "basename": "변압기 단락 등가 회로 (draw)",
-      "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
