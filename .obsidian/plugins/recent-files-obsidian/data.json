@@ -5,12 +5,20 @@
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
+      "basename": "변압기 Y-Y 결선",
+      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
     },
     {
       "basename": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md"
+    },
+    {
+      "basename": "변압기 병렬 운전 조건",
+      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
     },
     {
       "basename": "변압기 병렬 운전 임피던스 강하가 다른 경우 (draw)",
@@ -47,14 +55,6 @@
     {
       "basename": "단권 변압기 V 결선 (draw)",
       "path": "Excalidraw/단권 변압기 V 결선 (draw).md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
-    },
-    {
-      "basename": "변압기 Y-Y 결선",
-      "path": "변압기 Y-Y 결선.md"
     },
     {
       "basename": "단권 변압기 Y결선",
@@ -95,10 +95,6 @@
     {
       "basename": "변압기 단락 시험",
       "path": "03. Permanent Notes/변압기 단락 시험.md"
-    },
-    {
-      "basename": "변압기 무부하 시험",
-      "path": "03. Permanent Notes/변압기 무부하 시험.md"
     }
   ],
   "omittedPaths": [],
