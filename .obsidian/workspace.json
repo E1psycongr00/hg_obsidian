@@ -23,18 +23,15 @@
             }
           },
           {
-            "id": "c856a8bae0dee600",
+            "id": "16e04283955a52b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "02. MOC/벡엔드 엔지니어링 MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md"
               },
-              "icon": "lucide-file",
-              "title": "벡엔드 엔지니어링 MOC"
+              "icon": "excalidraw-icon",
+              "title": "변압기 병렬 운전 극성 일치 (draw)"
             }
           }
         ],
@@ -116,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/벡엔드 엔지니어링 MOC.md"
+                "file": "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "벡엔드 엔지니어링 MOC 의 파일 속성"
+              "title": "변압기 병렬 운전 극성 일치 (draw) 의 파일 속성"
             }
           },
           {
@@ -300,6 +297,16 @@
             "id": "2d7defeb36a4c85a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "e4196d799a1566af",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -307,7 +314,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "7d466e57ea240c21",
@@ -358,14 +365,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c856a8bae0dee600",
+  "active": "16e04283955a52b9",
   "lastOpenFiles": [
-    "02. MOC/웹 기초 MOC.md",
-    "02. MOC/벡엔드 엔지니어링 MOC.md",
-    "01. Guides/MOC Guides.md",
+    "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
     "04. Practice Notes/변압기 병렬 운전 조건.md",
-    "Excalidraw/단권 변압기 V 결선 (draw).md",
+    "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md",
     "02. MOC/전기기기 MOC.md",
+    "02. MOC/Home.md",
+    "02. MOC/벡엔드 엔지니어링 MOC.md",
+    "02. MOC/웹 기초 MOC.md",
+    "01. Guides/MOC Guides.md",
+    "Excalidraw/단권 변압기 V 결선 (draw).md",
     "03. Permanent Notes/변압기의 철손.md",
     "변압기 Y-Y 결선.md",
     "04. Practice Notes/단권 변압기 Y결선.md",
@@ -390,9 +400,6 @@
     "Excalidraw/변압기 단락 등가 회로 (draw).svg",
     "Excalidraw/변압기 단락 시험 (darw).svg",
     "Excalidraw/변압기 무부하 시험 (draw).svg",
-    "02. MOC/Home.md",
-    "02. MOC/전자기학 MOC.md",
-    "04. Practice Notes/변압기 Y-Y 결선.md",
     "Excalidraw/자기 이력 곡선 (draw).svg",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "Excalidraw/변압기 냉각 방식 (draw).svg",

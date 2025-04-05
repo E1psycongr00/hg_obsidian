@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 병렬 운전 극성 일치 (draw)",
+      "path": "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md"
+    },
+    {
+      "basename": "변압기 병렬 운전 조건",
+      "path": "04. Practice Notes/변압기 병렬 운전 조건.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "벡엔드 엔지니어링 MOC",
       "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
     },
@@ -13,16 +29,8 @@
       "path": "01. Guides/MOC Guides.md"
     },
     {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "04. Practice Notes/변압기 병렬 운전 조건.md"
-    },
-    {
       "basename": "단권 변압기 V 결선 (draw)",
       "path": "Excalidraw/단권 변압기 V 결선 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "변압기의 철손",
@@ -89,16 +97,8 @@
       "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "변압기 Y-Y 결선",
-      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
     }
   ],
   "omittedPaths": [],
