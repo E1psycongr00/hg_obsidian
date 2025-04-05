@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "dab15776800adad3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 병렬 운전 임피던스 강하가 다른 경우 (draw)"
-            }
-          },
-          {
             "id": "13d9635f9a75c759",
             "type": "leaf",
             "state": {
@@ -46,8 +34,7 @@
               "title": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md"
+                "file": "04. Practice Notes/변압기 병렬 운전 조건.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw) 의 파일 속성"
+              "title": "변압기 병렬 운전 조건 의 파일 속성"
             }
           },
           {
@@ -377,11 +364,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "13d9635f9a75c759",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md",
     "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md",
+    "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).svg",
     "04. Practice Notes/변압기 병렬 운전 조건.md",
     "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md",
@@ -414,7 +401,6 @@
     "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
     "Excalidraw/변압기 단락 등가 회로 (draw).svg",
-    "Excalidraw/변압기 단락 시험 (darw).svg",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "templaters",
     "templates/templater",
