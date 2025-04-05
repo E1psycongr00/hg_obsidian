@@ -14,32 +14,49 @@
               "type": "pdf",
               "state": {
                 "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
-                "page": 179,
+                "page": 1,
                 "left": -15,
-                "top": 112,
+                "top": 670,
                 "zoom": 0.9847222222222223
               },
               "icon": "lucide-file-text",
               "title": "Distributed_Systems_3rd"
             }
-          }
-        ]
-      },
-      {
-        "id": "119de5141be69e36",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a770bf1fab66b016",
+            "id": "ba0e5be2e3770154",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "pdf",
+              "state": {
+                "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
+                "page": 1,
+                "left": -8,
+                "top": 670,
+                "zoom": 1.8472222222222223
+              },
+              "icon": "lucide-file-text",
+              "title": "Distributed_Systems_3rd"
+            }
+          },
+          {
+            "id": "7b147b91e93295fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
+                "page": 590,
+                "left": -8,
+                "top": 4,
+                "zoom": 1.8472222222222223
+              },
+              "icon": "lucide-file-text",
+              "title": "Distributed_Systems_3rd"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -379,8 +396,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7b147b91e93295fd",
   "lastOpenFiles": [
+    "06. 공부 자료/pdf/book/Distributed_Systems_3rd 1.pdf",
+    "06. 공부 자료/pdf/book/introducing-eventstorming.pdf",
+    "06. 공부 자료/pdf/book/Distributed_Systems_3rd 2.pdf",
+    "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
+    "06. 공부 자료/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
     "06. 공부 자료/pdf/RAG from scratch_ Overview.pdf",
     "06. 공부 자료/pdf/lec4.pdf",
     "06. 공부 자료/pdf/lec4.md",
@@ -388,10 +410,6 @@
     "06. 공부 자료",
     "06. 공부 자료/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
     "06. 공부 자료/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
-    "06. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
-    "attachments/pdf/book/Designing_Data-Intensive_Applications_TH.pdf",
-    "06. 공부 자료/pdf/book/Computer Networking _ A Top Down Approach, 7th, converted.pdf",
-    "06. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf",
     "02. MOC/Home.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "02. MOC/전기기기 MOC.md",
