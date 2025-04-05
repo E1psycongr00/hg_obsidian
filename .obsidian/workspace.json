@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "변압기 병렬 운전 조건"
             }
+          },
+          {
+            "id": "dab15776800adad3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 병렬 운전 임피던스 강하가 다른 경우 (draw)"
+            }
+          },
+          {
+            "id": "13d9635f9a75c759",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/변압기 병렬 운전 조건.md"
+                "file": "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "변압기 병렬 운전 조건 의 파일 속성"
+              "title": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw) 의 파일 속성"
             }
           },
           {
@@ -352,12 +377,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "13d9635f9a75c759",
   "lastOpenFiles": [
+    "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).svg",
+    "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md",
+    "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md",
+    "04. Practice Notes/변압기 병렬 운전 조건.md",
+    "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md",
     "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).md",
     "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md",
-    "04. Practice Notes/변압기 병렬 운전 조건.md",
     "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
@@ -384,11 +413,8 @@
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
-    "03. Permanent Notes/변압기 무부하 시험.md",
-    "Excalidraw/변압기 무부하 시험 (draw).md",
     "Excalidraw/변압기 단락 등가 회로 (draw).svg",
     "Excalidraw/변압기 단락 시험 (darw).svg",
-    "Excalidraw/변압기 무부하 시험 (draw).svg",
     "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "templaters",
     "templates/templater",
