@@ -21,42 +21,6 @@
               "icon": "lucide-file",
               "title": "변압기 병렬 운전 조건"
             }
-          },
-          {
-            "id": "16e04283955a52b9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 병렬 운전 극성 일치 (draw)"
-            }
-          },
-          {
-            "id": "cb3ddd7a5ce15e62",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 병렬 운전 극성 불일치 (draw)"
-            }
-          },
-          {
-            "id": "7c724cc313219d7c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 병렬 운전 권수비가 다른 경우 (draw)"
-            }
           }
         ]
       }
@@ -390,11 +354,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md",
-    "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).md",
-    "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md",
+    "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).md",
+    "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md",
     "04. Practice Notes/변압기 병렬 운전 조건.md",
+    "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
     "02. MOC/전기기기 MOC.md",
