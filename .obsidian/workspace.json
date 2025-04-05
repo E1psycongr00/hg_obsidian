@@ -13,14 +13,35 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
-                "page": 181,
-                "left": -6,
-                "top": 381,
-                "zoom": 2.4979608482871125
+                "file": "06. 공부 자료/pdf/lec4.pdf",
+                "page": 10,
+                "left": -10,
+                "top": 169,
+                "zoom": 1.4655421885981232
               },
               "icon": "lucide-file-text",
-              "title": "Andrew-S.-Tanenbaum-Modern-Operating-Systems"
+              "title": "lec4"
+            }
+          }
+        ]
+      },
+      {
+        "id": "119de5141be69e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a770bf1fab66b016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. 공부 자료/pdf/lec4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lec4"
             }
           }
         ]
@@ -101,10 +122,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
+                "file": "06. 공부 자료/pdf/lec4.md"
               },
               "icon": "lucide-info",
-              "title": "Andrew-S.-Tanenbaum-Modern-Operating-Systems 의 파일 속성"
+              "title": "lec4 의 파일 속성"
             }
           },
           {
@@ -363,15 +384,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a770bf1fab66b016",
   "lastOpenFiles": [
-    "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
-    "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+    "06. 공부 자료/pdf/lec4.pdf",
+    "06. 공부 자료/pdf/lec4.md",
+    "06. 공부 자료/pdf/RAG from scratch_ Overview.pdf",
+    "06. 공부 자료",
+    "06. 공부 자료/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf",
+    "06. 공부 자료/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf",
+    "06. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "attachments/pdf/book/Designing_Data-Intensive_Applications_TH.pdf",
-    "attachments/pdf/book/Computer Networking _ A Top Down Approach, 7th, converted.pdf",
-    "attachments/pdf/book/Designing_Data_Intensive_Applications.pdf",
-    "attachments/pdf/book/introducing-eventstorming.pdf",
-    "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf",
+    "06. 공부 자료/pdf/book/Computer Networking _ A Top Down Approach, 7th, converted.pdf",
+    "06. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf",
+    "06. 공부 자료/pdf/book/introducing-eventstorming.pdf",
     "02. MOC/Home.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "02. MOC/전기기기 MOC.md",
@@ -405,12 +430,7 @@
     "Excalidraw/변압기 감극성 (draw).md",
     "Excalidraw/변압기 가극성 (draw).svg",
     "Excalidraw/변압기 감극성 (draw).svg",
-    "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "Excalidraw/변압기 단락 등가 회로 (draw).svg",
-    "templaters",
-    "templates/templater",
-    "templaters/scripts/moveFileToTarget.js",
-    "templates/scripts/moveFileTarget.js",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",

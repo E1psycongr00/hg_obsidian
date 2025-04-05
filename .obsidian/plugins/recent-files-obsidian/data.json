@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "lec4",
+      "path": "06. 공부 자료/pdf/lec4.md"
+    },
+    {
+      "basename": "lec4",
+      "path": "06. 공부 자료/pdf/lec4.pdf"
+    },
+    {
+      "basename": "RAG from scratch_ Overview",
+      "path": "06. 공부 자료/pdf/RAG from scratch_ Overview.pdf"
+    },
+    {
       "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
-      "path": "attachments/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
+      "path": "06. 공부 자료/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
     },
     {
       "basename": "An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze",
-      "path": "attachments/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf"
+      "path": "06. 공부 자료/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf"
     },
     {
       "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
-      "path": "attachments/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
+      "path": "06. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
     },
     {
       "basename": "Designing_Data_Intensive_Applications",
-      "path": "attachments/pdf/book/Designing_Data_Intensive_Applications.pdf"
+      "path": "06. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf"
     },
     {
       "basename": "introducing-eventstorming",
-      "path": "attachments/pdf/book/introducing-eventstorming.pdf"
+      "path": "06. 공부 자료/pdf/book/introducing-eventstorming.pdf"
     },
     {
       "basename": "Distributed Systems Principles and Paradigms 2 edition",
-      "path": "attachments/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf"
+      "path": "06. 공부 자료/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf"
     },
     {
       "basename": "Home",
@@ -87,18 +99,6 @@
     {
       "basename": "단권 변압기",
       "path": "03. Permanent Notes/단권 변압기.md"
-    },
-    {
-      "basename": "단권 변압기 V결선",
-      "path": "03. Permanent Notes/단권 변압기 V결선.md"
-    },
-    {
-      "basename": "단권 변압기 (draw)",
-      "path": "Excalidraw/단권 변압기 (draw).md"
-    },
-    {
-      "basename": "변압기 감극성과 가극성",
-      "path": "04. Practice Notes/변압기 감극성과 가극성.md"
     }
   ],
   "omittedPaths": [],
