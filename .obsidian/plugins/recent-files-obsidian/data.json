@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 병렬 운전 극성 불일치 (draw)",
+      "path": "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).md"
+    },
+    {
       "basename": "변압기 병렬 운전 극성 일치 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 극성 일치 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 단락 등가 회로 (draw)",
       "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
     }
   ],
   "omittedPaths": [],
