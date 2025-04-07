@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
     },
     {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
     },
     {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
     },
     {
       "basename": "동기 발전기",

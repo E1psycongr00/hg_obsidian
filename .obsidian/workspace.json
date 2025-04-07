@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templaters/Code 템플릿.md",
+                "file": "templaters/commander/MoveFileByFrontMatter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Code 템플릿"
+              "title": "MoveFileByFrontMatter"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/Solution 템플릿.md"
+                "file": "templaters/commander/MoveFileByFrontMatter.md"
               },
               "icon": "lucide-info",
-              "title": "Solution 템플릿 의 파일 속성"
+              "title": "MoveFileByFrontMatter 의 파일 속성"
             }
           },
           {
@@ -289,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templaters/Solution 템플릿.md",
+                "file": "templaters/commander/MoveFileByFrontMatter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Solution 템플릿 의 개요"
+              "title": "MoveFileByFrontMatter 의 개요"
             }
           }
         ]
@@ -328,11 +329,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3f50c35615897c3d",
   "lastOpenFiles": [
     "templaters/Code 템플릿.md",
-    "templaters/Common 템플릿.md",
     "templaters/Solution 템플릿.md",
+    "06. Code Notes/Archive",
+    "06. Code Notes/Area",
+    "06. Code Notes",
+    "templaters/Common 템플릿.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "04. Practice Notes/동기 발전기.md",
     "04. Practice Notes/단권 변압기 Y결선.md",
@@ -355,7 +359,6 @@
     "04. Practice Notes/동기 속도.md",
     "03. Permanent Notes/돌극형.md",
     "01. Guides/Note Guides.md",
-    "templaters/Review 템플릿.md",
     "05. Reference Notes/undefined",
     "05. Reference Notes/paper",
     "05. Reference Notes/video",
@@ -363,9 +366,6 @@
     "05. Reference Notes/book",
     "05. Reference Notes/blog/무제",
     "05. Reference Notes/blog",
-    "06. 공부 자료/pdf/book/java-performance-the-definitive-guide.pdf",
-    "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
-    "06. 공부 자료/pdf/book/Distributed_Systems_3rd 1.pdf",
     "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).svg",
