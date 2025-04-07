@@ -14,7 +14,9 @@ from: <%
 %>
 ---
 <%*
-await tp.user.moveFileToTarget(tp, "05. Reference Notes");
+const selectedType = tp.frontmatter.from.toLowerCase(); // 'from' 값 가져오기
+const targetFolder = `05. Reference Notes/${selectedType}`; // 동적 폴더 경로 설정
+await tp.user.moveFileToTarget(tp, targetFolder); // 파일 이동
 %>
 
 ## 출처
