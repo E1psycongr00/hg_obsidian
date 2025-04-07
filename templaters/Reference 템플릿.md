@@ -11,13 +11,15 @@ const selectedType = await tp.system.suggester(
 	false,
 	"Reference Note 유형을 선택하세요"
 	);
-const lowerCase = selectedType.toLowerCase();
-const targetFolder = `05. Reference Notes/${lowerCase}`;
-await tp.user.moveFileToTarget(tp, targetFolder); // 파일 이동
+tp.config.selectedType = selectedType.toLowerCase();
 tR += selectedType;
 %>
 ---
-
+<%*
+const selectedType = tp.config.selectedType;
+const targetFolder = `05. Reference Notes/${selectedType}`;
+await tp.user.moveFileToTarget(tp, targetFolder); // 파일 이동
+%>
 ## 출처
 
 ## 요약

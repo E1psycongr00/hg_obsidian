@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05. Reference Notes/book/hello.md"
+                "file": "templaters/Reference 템플릿.md"
               },
               "icon": "lucide-info",
-              "title": "hello 의 파일 속성"
+              "title": "Reference 템플릿 의 파일 속성"
             }
           },
           {
@@ -320,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05. Reference Notes/book/hello.md",
+                "file": "templaters/Reference 템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hello 의 개요"
+              "title": "Reference 템플릿 의 개요"
             }
           }
         ]
@@ -359,11 +359,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "232b2415072932cd",
+  "active": "d650661d3455f1d8",
   "lastOpenFiles": [
+    "05. Reference Notes/book/hello.md",
     "templaters/Reference 템플릿.md",
     "01. Guides/Note Guides.md",
-    "05. Reference Notes/book/hello.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "03. Permanent Notes/변압기의 철손.md",
     "05. Reference Notes/undefined",
