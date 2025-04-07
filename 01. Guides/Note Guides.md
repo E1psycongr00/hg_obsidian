@@ -163,6 +163,14 @@ created: 2025-04-06
 title: 머신러닝 기초
 note-type: COMMON
 ---
+
+## 내용
+- 1. 지도 학습: 정의와 예시 (회귀, 분류)
+- 2. 비지도 학습: 클러스터링
+
+## 질문 & 확장
+- 오버피팅 방지 방법은?
+
 ```
 
 
@@ -297,12 +305,38 @@ note-type: REF
 #### 템플릿
 
 ```markdown
+---
+tags:
+aliases: 
+created: 2025-04-06
+title: 제목
+note-type: CODE
+---
+
 
 ```
 
 #### 예시
 
 ```
+---
+tags:
+aliases: 
+created: 2025-04-06
+title: 간단한 합계 함수
+note-type: CODE
+---
+
+## 코드
+
+\```python
+def calculate_sum(a, b):
+    return a + b
+\'''    
+
+## 결과
+
+calculate(3, 7) = 7
 ```
 
 ---
