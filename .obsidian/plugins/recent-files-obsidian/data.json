@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
+    },
+    {
+      "basename": "q-4",
+      "path": "q-4.md"
     },
     {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
     },
     {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "Review 템플릿",
@@ -39,10 +43,6 @@
     {
       "basename": "자화",
       "path": "자화.md"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
     },
     {
       "basename": "MOC 템플릿",

@@ -1,3 +1,7 @@
+<%*
+const date = tp
+%>
+
 ---
 tags:
 aliases: 
@@ -7,7 +11,7 @@ note-type: COMMON
 completed: false
 ---
 <%*
-await tp.user.moveFileToTarget(tp, "04. Practice Notes");
+await tp.user.moveFileToTarget(tp, "04. Practice Notes");<%
 %>
 ## 내용(Content)
 
