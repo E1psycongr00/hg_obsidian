@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 감극성과 가극성",
       "path": "03. Permanent Notes/변압기 감극성과 가극성.md"
-    },
-    {
-      "basename": "메타 러닝의 계산도가 높은 이유",
-      "path": "04. Practice Notes/메타 러닝의 계산도가 높은 이유.md"
     }
   ],
   "omittedPaths": [],
