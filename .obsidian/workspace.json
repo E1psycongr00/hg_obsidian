@@ -11,62 +11,18 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
-                "page": 1,
-                "left": -15,
-                "top": 670,
-                "zoom": 0.9847222222222223
+                "file": "02. MOC/Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Distributed_Systems_3rd"
-            }
-          },
-          {
-            "id": "ba0e5be2e3770154",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
-                "page": 1,
-                "left": -8,
-                "top": 670,
-                "zoom": 1.8472222222222223
-              },
-              "icon": "lucide-file-text",
-              "title": "Distributed_Systems_3rd"
-            }
-          },
-          {
-            "id": "7b147b91e93295fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Distributed_Systems_3rd"
-            }
-          },
-          {
-            "id": "47374068c6fee135",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
-                "page": 1,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Distributed_Systems_3rd"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf"
+                "file": "02. MOC/Home.md"
               },
               "icon": "lucide-info",
-              "title": "Distributed_Systems_3rd 의 파일 속성"
+              "title": "Home 의 파일 속성"
             }
           },
           {
@@ -348,6 +304,16 @@
             "id": "ae83ac21b61667f4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "310930618c37b9a3",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -355,7 +321,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "7d466e57ea240c21",
@@ -406,11 +372,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7b147b91e93295fd",
+  "active": "310930618c37b9a3",
   "lastOpenFiles": [
+    "06. 공부 자료/pdf/book/java-performance-the-definitive-guide.pdf",
+    "02. MOC/Home.md",
+    "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
     "06. 공부 자료/pdf/book/Distributed_Systems_3rd 1.pdf",
     "06. 공부 자료/pdf/book/hello.md",
-    "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
     "무제 1.md",
     "06. 공부 자료/pdf/book/Distributed_Systems_3rd 1 1.pdf",
     "06. 공부 자료/pdf/book/Distributed_Systems_3rd 2.pdf",
@@ -421,7 +389,6 @@
     "06. 공부 자료/pdf/lec4.md",
     "06. 공부 자료/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
     "06. 공부 자료",
-    "02. MOC/Home.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 효율.md",

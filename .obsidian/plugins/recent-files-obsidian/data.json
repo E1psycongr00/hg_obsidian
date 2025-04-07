@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "Distributed_Systems_3rd",
       "path": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Designing_Data_Intensive_Applications",
       "path": "06. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "변압기 병렬 운전 조건",
