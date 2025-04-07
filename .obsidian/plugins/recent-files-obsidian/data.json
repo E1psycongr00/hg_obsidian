@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "hello",
       "path": "05. Reference Notes/lecture/hello.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
