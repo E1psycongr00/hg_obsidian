@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "돌극형",
-      "path": "04. Practice Notes/돌극형.md"
-    },
-    {
-      "basename": "단권 변압기 Y결선",
-      "path": "04. Practice Notes/단권 변압기 Y결선.md"
-    },
-    {
-      "basename": "코테 풀이",
-      "path": "04. Practice Notes/코테 풀이.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
     },
     {
       "basename": "Common 템플릿",
@@ -33,72 +17,88 @@
       "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
+      "basename": "동기 발전기",
+      "path": "04. Practice Notes/동기 발전기.md"
+    },
+    {
+      "basename": "단권 변압기 Y결선",
+      "path": "04. Practice Notes/단권 변압기 Y결선.md"
+    },
+    {
+      "basename": "OpenAI 프롬프팅 엔지니어링 기법",
+      "path": "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md"
+    },
+    {
+      "basename": "Meta Learning",
+      "path": "04. Practice Notes/Meta Learning.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "04. Practice Notes/Spring Modulith.md"
+    },
+    {
+      "basename": "chain of Thought",
+      "path": "04. Practice Notes/chain of Thought.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "04. Practice Notes/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "직권 전동기",
+      "path": "03. Permanent Notes/직권 전동기.md"
+    },
+    {
+      "basename": "정전 유도 장해",
+      "path": "03. Permanent Notes/정전 유도 장해.md"
+    },
+    {
+      "basename": "절연 파괴",
+      "path": "03. Permanent Notes/절연 파괴.md"
+    },
+    {
+      "basename": "연선",
+      "path": "03. Permanent Notes/연선.md"
+    },
+    {
+      "basename": "응집도 높은 모듈 설계 방법론",
+      "path": "04. Practice Notes/응집도 높은 모듈 설계 방법론.md"
+    },
+    {
+      "basename": "변압기 Y-Y 결선",
+      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
+    },
+    {
+      "basename": "변압기 감극성과 가극성",
+      "path": "03. Permanent Notes/변압기 감극성과 가극성.md"
+    },
+    {
+      "basename": "메타 러닝의 계산도가 높은 이유",
+      "path": "04. Practice Notes/메타 러닝의 계산도가 높은 이유.md"
+    },
+    {
+      "basename": "동기 속도",
+      "path": "04. Practice Notes/동기 속도.md"
+    },
+    {
+      "basename": "돌극형",
+      "path": "03. Permanent Notes/돌극형.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Review 템플릿",
+      "path": "templaters/Review 템플릿.md"
+    },
+    {
       "basename": "변압기의 철손",
       "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
-    },
-    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Reference 템플릿",
-      "path": "templaters/Reference 템플릿.md"
-    },
-    {
-      "basename": "자화",
-      "path": "자화.md"
-    },
-    {
-      "basename": "MOC 템플릿",
-      "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "벡엔드 엔지니어링 MOC",
-      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
-    },
-    {
-      "basename": "웹 기초 MOC",
-      "path": "02. MOC/웹 기초 MOC.md"
-    },
-    {
-      "basename": "웹 인증 보안 MOC",
-      "path": "02. MOC/웹 인증 보안 MOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "Distributed_Systems_3rd",
-      "path": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf"
-    },
-    {
-      "basename": "introducing-eventstorming",
-      "path": "06. 공부 자료/pdf/book/introducing-eventstorming.pdf"
-    },
-    {
-      "basename": "Distributed Systems Principles and Paradigms 2 edition",
-      "path": "06. 공부 자료/pdf/book/Distributed Systems Principles and Paradigms 2 edition.pdf"
-    },
-    {
-      "basename": "Andrew-S.-Tanenbaum-Modern-Operating-Systems",
-      "path": "06. 공부 자료/pdf/book/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf"
-    },
-    {
-      "basename": "An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze",
-      "path": "06. 공부 자료/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf"
     }
   ],
   "omittedPaths": [],

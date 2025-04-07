@@ -4,7 +4,12 @@ aliases:
 created: <% tp.date.now("YYYY-MM-DD") %>
 title: <% tp.file.title %>
 note-type: SOLUTION
+completed: false
 ---
+
+<%*
+await tp.user.moveFileToTarget(tp, "04. Practice Notes");
+%>
 
 ## 문제 정의
 - [문제 설명]
