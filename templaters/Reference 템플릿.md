@@ -5,13 +5,12 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 title: <% tp.file.title %>
 note-type: REF
 from: <%
-	const selectedType = await tp.system.suggester(
+await tp.system.suggester(
 	["Video", "Lecture", "Book", "Blog", "Paper"],
 	["Video", "Lecture", "Book", "Blog", "Paper"],
 	false,
 	"Reference Note 유형을 선택하세요"
 	);
-	selectedType = selectedType.toLowerCase();
 %>
 ---
 <%*
