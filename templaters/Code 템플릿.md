@@ -16,6 +16,7 @@ created: ${date}
 title: ${newTitle}
 note-type: CODE
 completed: false
+archive: false
 ---
 `;
   

@@ -9,12 +9,24 @@
       "path": "templaters/Code 템플릿.md"
     },
     {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
-    },
-    {
       "basename": "Common 템플릿",
       "path": "templaters/Common 템플릿.md"
+    },
+    {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "Reference 템플릿",
+      "path": "templaters/Reference 템플릿.md"
+    },
+    {
+      "basename": "Review 템플릿",
+      "path": "templaters/Review 템플릿.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "동기 발전기",
@@ -87,18 +99,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
     }
   ],
   "omittedPaths": [],
