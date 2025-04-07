@@ -3,6 +3,19 @@ tags:
 aliases: 
 created: <% tp.date.now("YYYY-MM-DD") %>
 title: <% tp.file.title %>
-note-type: COMMON
-completed: false
+note-type: REF
+from: <%
+	await tp.system.suggester(
+	["Video", "Lecture", "Book", "Blog", "Paper"],
+	["Video", "Lecture", "Book", "Blog", "Paper"],
+	false,
+	"Reference Note 유형을 선택하세요"
+	)
+%>
 ---
+
+## 출처
+
+## 요약
+
+## 코멘트

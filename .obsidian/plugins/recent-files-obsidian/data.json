@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "Common 템플릿",
@@ -11,14 +19,6 @@
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
     },
     {
       "basename": "변압기의 철손",
