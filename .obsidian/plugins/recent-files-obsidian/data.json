@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "슬립",
-      "path": "03. Permanent Notes/슬립.md"
+      "basename": "농형 유도 전동기",
+      "path": "농형 유도 전동기.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "슬립",
+      "path": "03. Permanent Notes/슬립.md"
     },
     {
       "basename": "유도기 회전 자계 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "프롬프트 엔지니어링",
       "path": "04. Practice Notes/프롬프트 엔지니어링.md"
-    },
-    {
-      "basename": "직권 전동기",
-      "path": "03. Permanent Notes/직권 전동기.md"
     }
   ],
   "omittedPaths": [],
