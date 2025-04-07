@@ -23,18 +23,19 @@
             }
           },
           {
-            "id": "e91c9443b5456285",
+            "id": "4a4cc3b140d879b1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/아라고 원판 (draw).md"
+                "file": "Excalidraw/유도기 회전 자계 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "아라고 원판 (draw)"
+              "title": "유도기 회전 자계 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/3상 유도 전동기 원리.md"
+                "file": "Excalidraw/유도기 회전 자계 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "3상 유도 전동기 원리 의 파일 속성"
+              "title": "유도기 회전 자계 (draw) 의 파일 속성"
             }
           },
           {
@@ -285,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/3상 유도 전동기 원리.md",
+                "file": "Excalidraw/유도기 회전 자계 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3상 유도 전동기 원리 의 개요"
+              "title": "유도기 회전 자계 (draw) 의 개요"
             }
           }
         ]
@@ -324,11 +325,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9990f907a94e7987",
+  "active": "4a4cc3b140d879b1",
   "lastOpenFiles": [
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
+    "Excalidraw/유도기 회전 자계 (draw).svg",
+    "Excalidraw/유도기 회전 자계 (draw).md",
     "04. Practice Notes/3상 유도 전동기 원리.md",
     "Excalidraw/아라고 원판 (draw).md",
+    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "Excalidraw/아라고 원판 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 속도.md",
@@ -354,8 +357,6 @@
     "04. Practice Notes/Meta Learning.md",
     "04. Practice Notes/Spring Modulith.md",
     "04. Practice Notes/chain of Thought.md",
-    "04. Practice Notes/asdf.md",
-    "04. Practice Notes/프롬프트 엔지니어링.md",
     "05. Reference Notes/undefined",
     "05. Reference Notes/paper",
     "05. Reference Notes/video",

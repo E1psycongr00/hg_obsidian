@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "유도기 회전 자계 (draw)",
+      "path": "Excalidraw/유도기 회전 자계 (draw).md"
+    },
+    {
       "basename": "3상 유도 전동기 원리",
       "path": "04. Practice Notes/3상 유도 전동기 원리.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "정전 유도 장해",
       "path": "03. Permanent Notes/정전 유도 장해.md"
-    },
-    {
-      "basename": "절연 파괴",
-      "path": "03. Permanent Notes/절연 파괴.md"
     }
   ],
   "omittedPaths": [],
