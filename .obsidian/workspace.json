@@ -86,7 +86,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -312,7 +313,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9990f907a94e7987",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
     "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/권선형 유도 전동기.md",
