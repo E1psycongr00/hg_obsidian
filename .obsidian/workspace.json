@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/슬립.md",
+                "file": "03. Permanent Notes/슬립.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "슬립"
-            }
-          },
-          {
-            "id": "4a4cc3b140d879b1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/유도기 회전 자계 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "유도기 회전 자계 (draw)"
             }
           }
         ]
@@ -111,7 +99,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/슬립.md"
+                "file": "03. Permanent Notes/슬립.md"
               },
               "icon": "lucide-info",
               "title": "슬립 의 파일 속성"
@@ -285,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/슬립.md",
+                "file": "03. Permanent Notes/슬립.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -327,9 +315,9 @@
   "active": "9990f907a94e7987",
   "lastOpenFiles": [
     "02. MOC/전기기기 MOC.md",
-    "04. Practice Notes/슬립.md",
-    "03. Permanent Notes/3상 유도 전동기 원리.md",
+    "03. Permanent Notes/슬립.md",
     "Excalidraw/유도기 회전 자계 (draw).md",
+    "03. Permanent Notes/3상 유도 전동기 원리.md",
     "Excalidraw/유도기 회전 자계 (draw).svg",
     "Excalidraw/아라고 원판 (draw).md",
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
