@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "COMMON 템플릿",
+      "path": "templaters/COMMON 템플릿.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 병렬 운전 권수비가 다른 경우 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md"
-    },
-    {
-      "basename": "단권 변압기 V 결선 (draw)",
-      "path": "Excalidraw/단권 변압기 V 결선 (draw).md"
     }
   ],
   "omittedPaths": [],
