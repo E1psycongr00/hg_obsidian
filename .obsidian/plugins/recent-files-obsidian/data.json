@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "유도기 회전 자계 (draw)",
-      "path": "Excalidraw/유도기 회전 자계 (draw).md"
-    },
-    {
-      "basename": "3상 유도 전동기 원리",
-      "path": "04. Practice Notes/3상 유도 전동기 원리.md"
-    },
-    {
-      "basename": "아라고 원판 (draw)",
-      "path": "Excalidraw/아라고 원판 (draw).md"
+      "basename": "슬립",
+      "path": "04. Practice Notes/슬립.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "3상 유도 전동기 원리",
+      "path": "03. Permanent Notes/3상 유도 전동기 원리.md"
+    },
+    {
+      "basename": "유도기 회전 자계 (draw)",
+      "path": "Excalidraw/유도기 회전 자계 (draw).md"
+    },
+    {
+      "basename": "아라고 원판 (draw)",
+      "path": "Excalidraw/아라고 원판 (draw).md"
     },
     {
       "basename": "동기 속도",
@@ -95,10 +99,6 @@
     {
       "basename": "직권 전동기",
       "path": "03. Permanent Notes/직권 전동기.md"
-    },
-    {
-      "basename": "정전 유도 장해",
-      "path": "03. Permanent Notes/정전 유도 장해.md"
     }
   ],
   "omittedPaths": [],
