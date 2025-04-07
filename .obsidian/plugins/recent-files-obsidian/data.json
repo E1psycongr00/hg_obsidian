@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전기적 각도",
+      "path": "03. Permanent Notes/전기적 각도.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 Y-Y 결선",
       "path": "04. Practice Notes/변압기 Y-Y 결선.md"
-    },
-    {
-      "basename": "변압기 감극성과 가극성",
-      "path": "03. Permanent Notes/변압기 감극성과 가극성.md"
     }
   ],
   "omittedPaths": [],
