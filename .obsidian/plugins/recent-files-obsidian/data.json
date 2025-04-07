@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
+      "basename": "돌극형",
+      "path": "04. Practice Notes/돌극형.md"
     },
     {
-      "basename": "q-4",
-      "path": "q-4.md"
+      "basename": "단권 변압기 Y결선",
+      "path": "04. Practice Notes/단권 변압기 Y결선.md"
     },
     {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
+      "basename": "코테 풀이",
+      "path": "04. Practice Notes/코테 풀이.md"
     },
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
     {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
+    },
+    {
       "basename": "Review 템플릿",
       "path": "templaters/Review 템플릿.md"
+    },
+    {
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "Solution 템플릿",
@@ -29,16 +45,8 @@
       "path": "01. Guides/MOC Guides.md"
     },
     {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "자화",
@@ -91,14 +99,6 @@
     {
       "basename": "An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze",
       "path": "06. 공부 자료/pdf/book/An Introduction to Information Retrieval - Christopher D. Manning Prabhakar Raghavan Hinrich Schütze.pdf"
-    },
-    {
-      "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
-      "path": "06. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
-    },
-    {
-      "basename": "Designing_Data_Intensive_Applications",
-      "path": "06. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf"
     }
   ],
   "omittedPaths": [],
