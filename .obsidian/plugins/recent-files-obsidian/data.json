@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "아라고 원리 (draw)",
+      "path": "Excalidraw/아라고 원리 (draw).md"
+    },
+    {
+      "basename": "3상 유도 전동기 원리",
+      "path": "04. Practice Notes/3상 유도 전동기 원리.md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "절연 파괴",
       "path": "03. Permanent Notes/절연 파괴.md"
-    },
-    {
-      "basename": "연선",
-      "path": "03. Permanent Notes/연선.md"
-    },
-    {
-      "basename": "응집도 높은 모듈 설계 방법론",
-      "path": "04. Practice Notes/응집도 높은 모듈 설계 방법론.md"
     }
   ],
   "omittedPaths": [],
