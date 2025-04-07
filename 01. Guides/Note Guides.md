@@ -60,7 +60,11 @@ note-type: GUIDE
 
 ```markdown
 ---
-title: 웹사이트 로딩 속도 느림 [문제 제목]
+tags:
+aliases:
+created:YYYY-MM-DD
+title: [문제 제목]
+note-type: SOLUTION
 ---
 
 ## 문제 정의
@@ -83,7 +87,11 @@ title: 웹사이트 로딩 속도 느림 [문제 제목]
 
 ```markdown
 ---
+tags:
+aliases:
+created:YYYY-MM-DD
 title: 웹사이트 로딩 속도 느림
+note-type: SOLUTION
 ---
 
 ## 문제 정의
@@ -115,6 +123,8 @@ title: 웹사이트 로딩 속도 느림
 - **가이드**: Common이라는 이름이 너무 포괄적이라 "공부 노트"로 한정. 일상 기록(Daily)이나 프로젝트와 구분되도록 학습 중심으로.
 
 ```markdown
+---
+
 
 ## 내용
 
@@ -140,7 +150,11 @@ title: 웹사이트 로딩 속도 느림
 
 ```markdown
 ---
+tags:
+aliases:
+created:YYYY-MM-DD
 title: [프로젝트 이름]
+note-type: PROJECT
 ---
 
 ## 목표
@@ -194,7 +208,11 @@ title: [프로젝트 이름]
 
 ```markdown
 ---
+tags:
+aliases:
+created:YYYY-MM-DD
 title: 참고 자료 제목
+note-type: REF
 ---
 
 ## 출처
@@ -211,7 +229,11 @@ title: 참고 자료 제목
 
 ```markdown
 ---
+tags:
+aliases:
+created: 2015-04-10
 title: AI Ethics (2024)
+note-type: REF
 ---
 
 ## 출처
@@ -267,7 +289,11 @@ title: AI Ethics (2024)
 
 ```markdown
 ---
+tags:
+aliases:
+created: YYYY-MM-DD
 title: 검토 대상
+note-type: REVIEW
 ---
 
 ## 분석
@@ -277,7 +303,11 @@ title: 검토 대상
 
 ```markdown
 ---
+tags:
+aliases:
+created: 2015-04-10
 title: 3월 프로젝트
+note-type: REVIEW
 ---
 
 ## 분석
