@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "전기적 각도",
-      "path": "03. Permanent Notes/전기적 각도.md"
+      "basename": "동기 속도",
+      "path": "04. Practice Notes/동기 속도.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "전기적 각도",
+      "path": "03. Permanent Notes/전기적 각도.md"
     },
     {
       "basename": "Reference 템플릿",
@@ -95,10 +99,6 @@
     {
       "basename": "응집도 높은 모듈 설계 방법론",
       "path": "04. Practice Notes/응집도 높은 모듈 설계 방법론.md"
-    },
-    {
-      "basename": "변압기 Y-Y 결선",
-      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
     }
   ],
   "omittedPaths": [],
