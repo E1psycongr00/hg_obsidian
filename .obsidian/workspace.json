@@ -11,15 +11,16 @@
             "id": "9990f907a94e7987",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "04. Practice Notes/권선형 유도 전동기.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
+                "page": 1,
+                "left": -7,
+                "top": 665,
+                "zoom": 2.1875
               },
-              "icon": "lucide-file",
-              "title": "권선형 유도 전동기"
+              "icon": "lucide-file-text",
+              "title": "websocket-lightweight-client-server-communications_compress"
             }
           }
         ]
@@ -100,10 +101,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/권선형 유도 전동기.md"
+                "file": "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf"
               },
               "icon": "lucide-info",
-              "title": "권선형 유도 전동기 의 파일 속성"
+              "title": "websocket-lightweight-client-server-communications_compress 의 파일 속성"
             }
           },
           {
@@ -274,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/권선형 유도 전동기.md",
+                "file": "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "권선형 유도 전동기 의 개요"
+              "title": "websocket-lightweight-client-server-communications_compress 의 개요"
             }
           }
         ]
@@ -313,10 +314,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "9990f907a94e7987",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/권선형 유도 전동기.md",
+    "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
+    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/농형 유도 전동기.md",
     "attachments/screenshot/Pasted image 20250407235005.png",
     "03. Permanent Notes/슬립.md",
@@ -346,14 +348,12 @@
     "04. Practice Notes/동기 발전기.md",
     "04. Practice Notes/단권 변압기 Y결선.md",
     "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md",
-    "04. Practice Notes/Meta Learning.md",
     "05. Reference Notes/undefined",
     "05. Reference Notes/paper",
     "05. Reference Notes/video",
     "05. Reference Notes/lecture",
     "05. Reference Notes/book",
     "05. Reference Notes/blog/무제",
-    "05. Reference Notes/blog",
     "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).svg",

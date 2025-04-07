@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "websocket-lightweight-client-server-communications_compress",
+      "path": "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf"
+    },
+    {
       "basename": "권선형 유도 전동기",
       "path": "04. Practice Notes/권선형 유도 전동기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Spring Modulith",
       "path": "04. Practice Notes/Spring Modulith.md"
-    },
-    {
-      "basename": "chain of Thought",
-      "path": "04. Practice Notes/chain of Thought.md"
     }
   ],
   "omittedPaths": [],
