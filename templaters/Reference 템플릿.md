@@ -16,8 +16,7 @@ tR += selectedType;
 %>
 ---
 <%*
-const selectedType = tp.config.selectedType;
-const targetFolder = `05. Reference Notes/${selectedType}`;
+const targetFolder = `05. Reference Notes/${selectedType.toLowerCase()}`;
 await tp.user.moveFileToTarget(tp, targetFolder); // 파일 이동
 %>
 ## 출처

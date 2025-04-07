@@ -5,8 +5,12 @@
       "path": "templaters/Reference 템플릿.md"
     },
     {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
       "basename": "hello",
-      "path": "05. Reference Notes/book/hello.md"
+      "path": "05. Reference Notes/lecture/hello.md"
     },
     {
       "basename": "Note Guides",
@@ -15,10 +19,6 @@
     {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "자화",
