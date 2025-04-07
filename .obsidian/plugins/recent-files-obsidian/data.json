@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "농형 유도 전동기",
-      "path": "04. Practice Notes/농형 유도 전동기.md"
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
     },
     {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "농형 유도 전동기",
+      "path": "03. Permanent Notes/농형 유도 전동기.md"
     },
     {
       "basename": "슬립",
@@ -95,10 +99,6 @@
     {
       "basename": "chain of Thought",
       "path": "04. Practice Notes/chain of Thought.md"
-    },
-    {
-      "basename": "프롬프트 엔지니어링",
-      "path": "04. Practice Notes/프롬프트 엔지니어링.md"
     }
   ],
   "omittedPaths": [],
