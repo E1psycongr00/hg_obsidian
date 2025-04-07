@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "hello",
+      "path": "05. Reference Notes/book/hello.md"
+    },
+    {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
     },
     {
-      "basename": "hello",
-      "path": "05. Reference Notes/undefined/hello.md"
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
@@ -27,10 +31,6 @@
     {
       "basename": "Common 템플릿",
       "path": "templaters/Common 템플릿.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "MOC 템플릿",

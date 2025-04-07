@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Reference Notes/undefined/hello.md",
+                "file": "05. Reference Notes/book/hello.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/Reference 템플릿.md"
+                "file": "05. Reference Notes/book/hello.md"
               },
               "icon": "lucide-info",
-              "title": "Reference 템플릿 의 파일 속성"
+              "title": "hello 의 파일 속성"
             }
           },
           {
@@ -320,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templaters/Reference 템플릿.md",
+                "file": "05. Reference Notes/book/hello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Reference 템플릿 의 개요"
+              "title": "hello 의 개요"
             }
           }
         ]
@@ -359,10 +359,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d650661d3455f1d8",
+  "active": "232b2415072932cd",
   "lastOpenFiles": [
-    "05. Reference Notes/undefined/hello.md",
     "templaters/Reference 템플릿.md",
+    "01. Guides/Note Guides.md",
+    "05. Reference Notes/book/hello.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "03. Permanent Notes/변압기의 철손.md",
     "05. Reference Notes/undefined",
@@ -376,7 +377,6 @@
     "05. Reference Notes/book",
     "05. Reference Notes/blog/무제",
     "05. Reference Notes/blog",
-    "01. Guides/Note Guides.md",
     "templaters/MOC 템플릿.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "01. Guides/MOC Guides.md",
