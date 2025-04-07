@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Guides/Note Guides.md",
+                "file": "templaters/Reference 템플릿.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Note Guides"
+              "title": "Reference 템플릿"
             }
           },
           {
@@ -130,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01. Guides/Note Guides.md"
+                "file": "templaters/Reference 템플릿.md"
               },
               "icon": "lucide-info",
-              "title": "Note Guides 의 파일 속성"
+              "title": "Reference 템플릿 의 파일 속성"
             }
           },
           {
@@ -304,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Guides/Note Guides.md",
+                "file": "templaters/Reference 템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Note Guides 의 개요"
+              "title": "Reference 템플릿 의 개요"
             }
           }
         ]
@@ -344,10 +344,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templaters/Common 템플릿.md",
+    "templaters/Reference 템플릿.md",
+    "templaters/MOC 템플릿.md",
+    "01. Guides/Note Guides.md",
     "무제.md",
     "03. Permanent Notes/변압기의 철손.md",
-    "01. Guides/Note Guides.md",
-    "templaters/COMMON 템플릿.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Folder Guides.md",
@@ -383,8 +385,6 @@
     "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).svg",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
-    "Excalidraw/단권 변압기 V 결선 (draw).md",
-    "04. Practice Notes/단권 변압기 Y결선.md",
     "Excalidraw/단권 변압기 V 결선 (draw).svg",
     "Excalidraw/단권 변압기 (draw).svg",
     "Excalidraw/변압기 가극성 (draw).svg",

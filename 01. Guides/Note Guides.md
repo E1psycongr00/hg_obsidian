@@ -246,10 +246,10 @@ title: [프로젝트 이름]
 
 #### 제목 규칙
 
-- **형식**: [유형] 자료 제목 (출처 정보)
-    - [유형]: 자료의 형태를 나타냄 (예: [Video], [Book], [Blog], [Paper], [Lecture] 등).
+- **형식**: 자료 제목 (출처 정보)
     - 자료 제목: 자료의 실제 제목이나 주제를 간략히 요약.
     - (출처 정보): 출처의 구체적인 이름, 저자, 플랫폼 등 간단히 포함.
+- **from:** - [유형]: 자료의 형태를 나타냄 (예: Video, Book, Blog, Paper, Lecture 등)
 - **목적**: 제목만 봐도 자료 유형과 출처를 파악할 수 있도록 함.
 - **추가 고려사항**:
     - 연도나 버전이 중요한 경우 (출처 정보) 뒤에 (YYYY) 추가 가능.
@@ -314,7 +314,7 @@ type: Video
 
 ```markdown
 ---
-tags: [reference]
+tags:
 aliases: 
 created: 2025-04-06
 title: Machine Learning Basics (Coursera - Andrew Ng)
@@ -384,7 +384,7 @@ tags: [reference]
 aliases: 
 created: icycles: 
 created: 2025-04-06
-title: [Paper] Attention Is All You Need (Vaswani et al., 2017)
+title: Attention Is All You Need (Vaswani et al., 2017)
 note-type: REFERENCE
 from: Paper
 ---
