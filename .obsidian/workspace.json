@@ -28,10 +28,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/아라고 원리 (draw).md"
+                "file": "Excalidraw/아라고 원판 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "아라고 원리 (draw)"
+              "title": "아라고 원판 (draw)"
             }
           }
         ],
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/아라고 원리 (draw).md"
+                "file": "Excalidraw/아라고 원판 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "아라고 원리 (draw) 의 파일 속성"
+              "title": "아라고 원판 (draw) 의 파일 속성"
             }
           },
           {
@@ -286,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/아라고 원리 (draw).md",
+                "file": "Excalidraw/아라고 원판 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "아라고 원리 (draw) 의 개요"
+              "title": "아라고 원판 (draw) 의 개요"
             }
           }
         ]
@@ -328,7 +328,8 @@
   "active": "e91c9443b5456285",
   "lastOpenFiles": [
     "04. Practice Notes/3상 유도 전동기 원리.md",
-    "Excalidraw/아라고 원리 (draw).md",
+    "Excalidraw/아라고 원판 (draw).md",
+    "Excalidraw/아라고 원판 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 속도.md",
     "03. Permanent Notes/전기적 각도.md",
@@ -355,7 +356,6 @@
     "04. Practice Notes/chain of Thought.md",
     "04. Practice Notes/asdf.md",
     "04. Practice Notes/프롬프트 엔지니어링.md",
-    "04. Practice Notes/팩토리 패턴.md",
     "05. Reference Notes/undefined",
     "05. Reference Notes/paper",
     "05. Reference Notes/video",
@@ -372,7 +372,6 @@
     "Excalidraw/단권 변압기 (draw).svg",
     "Excalidraw/변압기 가극성 (draw).svg",
     "Excalidraw/변압기 감극성 (draw).svg",
-    "Excalidraw/변압기 단락 등가 회로 (draw).svg",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
