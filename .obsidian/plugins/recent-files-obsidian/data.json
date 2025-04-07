@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MoveArchive",
+      "path": "templaters/commander/MoveArchive.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "동기 속도",
       "path": "04. Practice Notes/동기 속도.md"
-    },
-    {
-      "basename": "돌극형",
-      "path": "03. Permanent Notes/돌극형.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     }
   ],
   "omittedPaths": [],

@@ -423,6 +423,8 @@ aliases:
 created: 2025-04-06
 title: 제목
 note-type: CODE
+completed: false
+archive: false
 ---
 
 ## 코드
@@ -443,6 +445,8 @@ aliases:
 created: 2025-04-06
 title: 간단한 합계 함수
 note-type: CODE
+completed: false
+archive: false
 ---
 
 ## 코드
@@ -485,6 +489,7 @@ aliases:
 created: YYYY-MM-DD
 title: 검토 대상
 note-type: REVIEW
+completed: false
 ---
 
 ## 분석
@@ -499,6 +504,7 @@ aliases:
 created: 2015-04-10
 title: 3월 프로젝트
 note-type: REVIEW
+completed: true
 ---
 
 ## 분석
