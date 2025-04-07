@@ -2,7 +2,7 @@
 tags:
   - Guide
 aliases: 
-created: 
+created: 2025-04-07
 title: Folder Guides
 note-type: GUIDE
 ---

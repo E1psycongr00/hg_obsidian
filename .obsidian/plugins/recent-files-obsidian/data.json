@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "벡엔드 엔지니어링 MOC",
+      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
+    },
+    {
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
+    },
+    {
+      "basename": "웹 인증 보안 MOC",
+      "path": "02. MOC/웹 인증 보안 MOC.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -73,24 +97,8 @@
       "path": "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md"
     },
     {
-      "basename": "벡엔드 엔지니어링 MOC",
-      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
-    },
-    {
-      "basename": "웹 기초 MOC",
-      "path": "02. MOC/웹 기초 MOC.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
-    },
-    {
       "basename": "단권 변압기 V 결선 (draw)",
       "path": "Excalidraw/단권 변압기 V 결선 (draw).md"
-    },
-    {
-      "basename": "단권 변압기 Y결선",
-      "path": "04. Practice Notes/단권 변압기 Y결선.md"
     }
   ],
   "omittedPaths": [],
