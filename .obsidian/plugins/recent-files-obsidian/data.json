@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Reference 템플릿",
+      "path": "templaters/Reference 템플릿.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
       "basename": "MoveArchive",
       "path": "templaters/commander/MoveArchive.md"
     },
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "Code 템플릿",
@@ -25,16 +37,8 @@
       "path": "templaters/MOC 템플릿.md"
     },
     {
-      "basename": "Reference 템플릿",
-      "path": "templaters/Reference 템플릿.md"
-    },
-    {
       "basename": "Review 템플릿",
       "path": "templaters/Review 템플릿.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "동기 발전기",
@@ -95,10 +99,6 @@
     {
       "basename": "메타 러닝의 계산도가 높은 이유",
       "path": "04. Practice Notes/메타 러닝의 계산도가 높은 이유.md"
-    },
-    {
-      "basename": "동기 속도",
-      "path": "04. Practice Notes/동기 속도.md"
     }
   ],
   "omittedPaths": [],

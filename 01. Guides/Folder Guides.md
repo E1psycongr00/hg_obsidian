@@ -31,3 +31,6 @@ note-type: GUIDE
 	- 완성이 안되고 작성 중인 노트 모음
 - 05. Reference Notes
 	- 인터넷, 신문, 블로그, 논문 글 등 다른 사람들이 작성한 지식 일부를 발췌한 노트 모음
+	- "Video", "Lecture", "Book", "Blog", "Paper"의 각 폴더 별로 관리
+- 06. Code Notes
+	- 지속적으로 쓰이거나 유지보수할만한 코드들은 Area, 폐기하거나 더 이상 불필요해질 것 같은 코드는 Archive로 관리한다.
