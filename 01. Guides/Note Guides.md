@@ -25,7 +25,14 @@ note-type: GUIDE
 #### 템플릿
 
 ```markdown
-# Daily Notes - [날짜: YYYY.MM.DD]
+---
+tags: 
+  - daily
+aliases: 
+created: YYYY-MM-DD
+title: Daily Notes - YYYY.MM.DD
+note-type: DAILY
+---
 
 - **[시간]**: [생각/감정/할 일/아이디어]
 - **[시간]**: [생각/감정/할 일/아이디어]
@@ -35,7 +42,14 @@ note-type: GUIDE
 #### 예시
 
 ```markdown
-# Daily Notes - 2025.04.06
+---
+tags: 
+  - daily
+aliases: 
+created: 2025-04-06
+title: Daily Notes - 2025.04.06
+note-type: DAILY
+---
 
 - **08:30**: 아침 커피 마시며 앱 UI 개선 아이디어 떠올림
 - **12:00**: 점심 약속 후 팀워크의 중요성 느낌
@@ -89,7 +103,7 @@ note-type: SOLUTION
 ---
 tags:
 aliases:
-created:YYYY-MM-DD
+created:2015-02-11
 title: 웹사이트 로딩 속도 느림
 note-type: SOLUTION
 ---
@@ -119,21 +133,41 @@ note-type: SOLUTION
 - **예시**:
     - 주제: "머신러닝 기초."
     - 내용: "1. 지도 학습: 정의와 예시 (회귀, 분류). 2. 비지도 학습: 클러스터링."
-    - 키워드: "Gradient Descent, Overfitting."
 - **가이드**: Common이라는 이름이 너무 포괄적이라 "공부 노트"로 한정. 일상 기록(Daily)이나 프로젝트와 구분되도록 학습 중심으로.
 
 ```markdown
 ---
-
+tags:
+aliases:
+created:YYYY-MM-DD
+title: [문제 제목]
+note-type: COMMON
+---
 
 ## 내용
+- [주요 학습 내용]
 
 ## 질문 & 확장
+- [궁금한 점 또는 추가 탐구 방향]
 
 ## 출처
 ```
 
+#### 예시
+
+```
 ---
+tags:
+aliases:
+created: 2025-04-06
+title: 머신러닝 기초
+note-type: COMMON
+---
+```
+
+
+---
+
 
 ### 🚀 Project Notes (프로젝트 노트)
 
