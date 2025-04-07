@@ -5,6 +5,14 @@
       "path": "01. Guides/Note Guides.md"
     },
     {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
+      "basename": "변압기 병렬 운전 조건",
+      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
+    },
+    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
     },
@@ -61,16 +69,8 @@
       "path": "06. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf"
     },
     {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
-    },
-    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "변압기 Y-Y 결선",

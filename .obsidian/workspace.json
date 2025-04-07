@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "Note Guides"
             }
+          },
+          {
+            "id": "95de58659a97a803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/변압기의 철손.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "변압기의 철손"
+            }
           }
         ]
       }
@@ -312,9 +327,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d4d5b1da2fa85337",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/변압기의 철손.md",
     "01. Guides/Note Guides.md",
+    "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Folder Guides.md",
     "02. MOC/벡엔드 엔지니어링 MOC.md",
@@ -334,10 +351,8 @@
     "06. 공부 자료/pdf/lec4.pdf",
     "06. 공부 자료/pdf/lec4.md",
     "06. 공부 자료/pdf/Difference between DFA and NFA - GeeksforGeeks.pdf",
-    "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/변압기 효율.md",
-    "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "04. Practice Notes/변압기 Y-Y 결선.md",
     "변압기 Y-Y 결선.md",
