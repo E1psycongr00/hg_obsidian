@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -312,14 +312,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d4d5b1da2fa85337",
   "lastOpenFiles": [
+    "01. Guides/Note Guides.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Folder Guides.md",
     "02. MOC/벡엔드 엔지니어링 MOC.md",
     "02. MOC/웹 기초 MOC.md",
     "02. MOC/웹 인증 보안 MOC.md",
-    "01. Guides/Note Guides.md",
     "02. MOC/Home.md",
     "06. 공부 자료/pdf/book/java-performance-the-definitive-guide.pdf",
     "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf",
