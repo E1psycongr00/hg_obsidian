@@ -425,7 +425,13 @@ title: 제목
 note-type: CODE
 ---
 
+## 코드
 
+### Code
+
+### 결과
+
+## 설명
 ```
 
 #### 예시
@@ -441,14 +447,19 @@ note-type: CODE
 
 ## 코드
 
+### Code
+
 \```python
 def calculate_sum(a, b):
     return a + b
 \'''    
 
-## 결과
+### 결과
 
-calculate(3, 7) = 7
+calculate_sum(3, 7) = 7
+
+## 설명
+calculate_sum 함수를 만들어 호출하면 정상적으로 7을 얻는다.
 ```
 
 ---

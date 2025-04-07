@@ -82,8 +82,7 @@
               "title": "MoveFileByFrontMatter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,10 +160,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/Code 템플릿.md"
+                "file": "01. Guides/Note Guides.md"
               },
               "icon": "lucide-info",
-              "title": "Code 템플릿 의 파일 속성"
+              "title": "Note Guides 의 파일 속성"
             }
           },
           {
@@ -335,13 +334,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templaters/Code 템플릿.md",
+                "file": "01. Guides/Note Guides.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Code 템플릿 의 개요"
+              "title": "Note Guides 의 개요"
             }
           }
         ]
@@ -373,12 +372,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ecd6e80c4b322e8c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "templaters/Common 템플릿.md",
     "templaters/Code 템플릿.md",
-    "templaters/Review 템플릿.md",
+    "templaters/Common 템플릿.md",
     "01. Guides/Note Guides.md",
+    "templaters/Review 템플릿.md",
     "templaters/Solution 템플릿.md",
     "templaters/MOC 템플릿.md",
     "01. Guides/MOC Guides.md",

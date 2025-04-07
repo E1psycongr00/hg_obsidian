@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Review 템플릿",
       "path": "templaters/Review 템플릿.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "Solution 템플릿",
