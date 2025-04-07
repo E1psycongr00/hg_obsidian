@@ -5,12 +5,16 @@
       "path": "01. Guides/Note Guides.md"
     },
     {
-      "basename": "COMMON 템플릿",
-      "path": "templaters/COMMON 템플릿.md"
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
       "basename": "변압기의 철손",
       "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
+      "basename": "COMMON 템플릿",
+      "path": "templaters/COMMON 템플릿.md"
     },
     {
       "basename": "변압기 병렬 운전 조건",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 병렬 운전 극성 불일치 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 극성 불일치 (draw).md"
-    },
-    {
-      "basename": "변압기 병렬 운전 권수비가 다른 경우 (draw)",
-      "path": "Excalidraw/변압기 병렬 운전 권수비가 다른 경우 (draw).md"
     }
   ],
   "omittedPaths": [],

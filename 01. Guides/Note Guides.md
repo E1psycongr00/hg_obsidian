@@ -242,11 +242,29 @@ title: [프로젝트 이름]
 
 - **역할**: 외부 자료(인터넷, 논문, 블로그 등)에서 발췌한 내용을 기록. 출처와 함께 간략한 요약 포함.
 - **특징**: 원문 인용 + 내 생각 추가. 나중에 다시 참고할 수 있도록 정리.
-- **예시**:
-    - 출처: "논문 - AI Ethics (2024)."
-    - 요약: "AI의 윤리적 문제: 데이터 편향성 주의."
-    - 코멘트: "내 프로젝트에서도 고려해야 할 부분."
 - **가이드**: 공부 노트와 달리, 내 창작이 아닌 외부 지식의 저장소 역할. 반드시 출처 명시.
+
+#### 제목 규칙
+
+- **형식**: [유형] 자료 제목 (출처 정보)
+    - [유형]: 자료의 형태를 나타냄 (예: [Video], [Book], [Blog], [Paper], [Lecture] 등).
+    - 자료 제목: 자료의 실제 제목이나 주제를 간략히 요약.
+    - (출처 정보): 출처의 구체적인 이름, 저자, 플랫폼 등 간단히 포함.
+- **목적**: 제목만 봐도 자료 유형과 출처를 파악할 수 있도록 함.
+- **추가 고려사항**:
+    - 연도나 버전이 중요한 경우 (출처 정보) 뒤에 (YYYY) 추가 가능.
+    - 제목이 너무 길면 핵심만 남기고 축약.
+
+#### 제목 예시
+
+1. **유튜브 동영상**: [Video] AI Ethics Explained (TED Talks)
+2. **강의**: [Lecture] Machine Learning Basics (Coursera - Andrew Ng)
+3. **책**: [Book] Deep Work (Cal Newport)
+4. **블로그**: [Blog] Git Best Practices (Medium - John Doe)
+5. **논문**: [Paper] Attention Is All You Need (Vaswani et al., 2017)
+6. **기타 웹사이트**: [Web] Python Tips (Real Python)
+
+
 
 ```markdown
 ---
@@ -269,23 +287,70 @@ note-type: REF
 
 #### 예시
 
+##### 1. 유튜브 동영상
+
 ```markdown
 ---
 tags:
-aliases:
-created: 2015-04-10
-title: AI Ethics (2024)
-note-type: REF
+aliases: 
+created: 2025-04-06
+title: AI Ethics Explained (TED Talks)
+note-type: REFERENCE
+type: Video
 ---
 
 ## 출처
-- 논문: "AI Ethics" (2024), DOI: xxx
+- https://www.youtube.com/watch?v=xxxx
 
 ## 요약
-- AI의 윤리적 문제: 데이터 편향성 주의 필요
+- AI 윤리 문제와 실질적인 해결 방안 제시
 
 ## 코멘트
-- 내 프로젝트에서도 데이터 편향성 점검 필요
+- 내 프로젝트에서 윤리적 데이터 사용 고민 필요
+```
+
+##### 2. 강의
+
+```markdown
+---
+tags: [reference]
+aliases: 
+created: 2025-04-06
+title: Machine Learning Basics (Coursera - Andrew Ng)
+note-type: REFERENCE
+from: Lecture
+---
+
+## 출처
+- Coursera 강의: Machine Learning by Andrew Ng
+
+## 요약
+- 지도 학습과 비지도 학습의 기본 개념 설명
+
+## 코멘트
+- 오버피팅 방지법 추가 학습 필요
+```
+
+##### 책
+
+```markdown
+---
+tags:
+aliases: 
+created: 2025-04-06
+title: Deep Work (Cal Newport)
+note-type: REFERENCE
+from: book
+---
+
+## 출처
+- Deep Work by Cal Newport, ISBN: 978-1455586691
+
+## 요약
+- 집중력을 높이는 작업 방식 제안
+
+## 코멘트
+- 노트 작성 시 Deep Work 원칙 적용 가능성
 ```
 
 ---
