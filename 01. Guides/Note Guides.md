@@ -273,6 +273,7 @@ aliases:
 created:YYYY-MM-DD
 title: 참고 자료 제목
 note-type: REF
+from:
 ---
 
 ## 출처
@@ -331,7 +332,7 @@ from: Lecture
 - 오버피팅 방지법 추가 학습 필요
 ```
 
-##### 책
+##### 3. 책
 
 ```markdown
 ---
@@ -340,7 +341,7 @@ aliases:
 created: 2025-04-06
 title: Deep Work (Cal Newport)
 note-type: REFERENCE
-from: book
+from: Book
 ---
 
 ## 출처
@@ -352,6 +353,52 @@ from: book
 ## 코멘트
 - 노트 작성 시 Deep Work 원칙 적용 가능성
 ```
+
+##### 4. 블로그
+
+```markdown
+---
+tags:
+aliases: 
+created: 2025-04-06
+title: Git Best Practices (Medium - John Doe)
+note-type: REFERENCE
+from: Blog
+---
+
+## 출처
+- https://medium.com/@johndoe/git-best-practices
+
+## 요약
+- Git 커밋 메시지 작성법과 브랜치 전략
+
+## 코멘트
+- 팀 프로젝트에서 브랜치 전략 참고
+```
+
+##### 5. 논문
+
+```markdown
+---
+tags: [reference]
+aliases: 
+created: icycles: 
+created: 2025-04-06
+title: [Paper] Attention Is All You Need (Vaswani et al., 2017)
+note-type: REFERENCE
+from: Paper
+---
+
+## 출처
+- 논문: "Attention Is All You Need", DOI: 10.48550/arXiv.1706.03762
+
+## 요약
+- Transformer 모델의 Attention 메커니즘 소개
+
+## 코멘트
+- NLP 프로젝트에 적용 가능성 탐구
+```
+
 
 ---
 
