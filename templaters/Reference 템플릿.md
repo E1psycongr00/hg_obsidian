@@ -13,6 +13,9 @@ from: <%
 	)
 %>
 ---
+<%*
+await tp.user.moveFileToTarget(tp, "05. Reference Notes");
+%>
 
 ## 출처
 
