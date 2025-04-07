@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "hello",
+      "path": "hello.md"
+    },
+    {
+      "basename": "자화",
+      "path": "자화.md"
+    },
+    {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "변압기 병렬 운전 조건",
@@ -51,10 +63,6 @@
     {
       "basename": "Distributed_Systems_3rd",
       "path": "06. 공부 자료/pdf/book/Distributed_Systems_3rd.pdf"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
     },
     {
       "basename": "introducing-eventstorming",
@@ -91,10 +99,6 @@
     {
       "basename": "변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw)",
       "path": "Excalidraw/변압기 병렬 운전 저항 리액턴스 비가 다른 경우 (draw).md"
-    },
-    {
-      "basename": "변압기 병렬 운전 임피던스 강하가 다른 경우 (draw)",
-      "path": "Excalidraw/변압기 병렬 운전 임피던스 강하가 다른 경우 (draw).md"
     }
   ],
   "omittedPaths": [],
