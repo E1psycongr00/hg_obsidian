@@ -34,8 +34,7 @@
               "title": "아라고 원판 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/아라고 원판 (draw).md"
+                "file": "04. Practice Notes/3상 유도 전동기 원리.md"
               },
               "icon": "lucide-info",
-              "title": "아라고 원판 (draw) 의 파일 속성"
+              "title": "3상 유도 전동기 원리 의 파일 속성"
             }
           },
           {
@@ -286,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/아라고 원판 (draw).md",
+                "file": "04. Practice Notes/3상 유도 전동기 원리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "아라고 원판 (draw) 의 개요"
+              "title": "3상 유도 전동기 원리 의 개요"
             }
           }
         ]
@@ -325,10 +324,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e91c9443b5456285",
+  "active": "9990f907a94e7987",
   "lastOpenFiles": [
-    "04. Practice Notes/3상 유도 전동기 원리.md",
     "Excalidraw/아라고 원판 (draw).md",
+    "04. Practice Notes/3상 유도 전동기 원리.md",
     "Excalidraw/아라고 원판 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 속도.md",
