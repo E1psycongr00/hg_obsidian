@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templaters/Code 템플릿.md",
+                "file": "templaters/commander/MoveFileByFrontMatter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Code 템플릿"
+              "title": "MoveFileByFrontMatter"
             }
           }
         ],
@@ -116,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/Code 템플릿.md"
+                "file": "templaters/commander/MoveFileByFrontMatter.md"
               },
               "icon": "lucide-info",
-              "title": "Code 템플릿 의 파일 속성"
+              "title": "MoveFileByFrontMatter 의 파일 속성"
             }
           },
           {
@@ -350,8 +350,8 @@
   },
   "active": "7ae2105b9c60d473",
   "lastOpenFiles": [
-    "templaters/scripts/무제.md",
     "templaters/Code 템플릿.md",
+    "templaters/scripts/무제.md",
     "01. Guides/Note Guides.md",
     "01. Guides/Folder Guides.md",
     "06. Code Notes/Area/최대 출력 슬립 구하기 2025-04-09.md",

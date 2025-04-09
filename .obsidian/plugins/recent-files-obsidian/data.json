@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
     },
