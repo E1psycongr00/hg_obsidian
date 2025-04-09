@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "유도 전동기 등가 회로",
       "path": "유도 전동기 등가 회로.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "websocket-lightweight-client-server-communications_compress",
