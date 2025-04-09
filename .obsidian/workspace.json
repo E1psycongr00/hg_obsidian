@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/유도 전동기와 토크 특성.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "유도 전동기와 토크 특성"
+              "title": "전기기기 MOC"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/유도 전동기와 토크 특성.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "유도 전동기와 토크 특성 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -349,8 +349,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/유도 전동기와 토크 특성.md",
+    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/유도 전동기 출력비.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
     "Excalidraw/유도 전동기 등가 회로 (draw).md",
