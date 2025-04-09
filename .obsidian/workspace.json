@@ -36,18 +36,6 @@
               "icon": "lucide-file",
               "title": "유도 전동기 등가 회로"
             }
-          },
-          {
-            "id": "86f1927bed90ef4a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/유도 전동기 등가 회로 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "유도 전동기 등가 회로 (draw)"
-            }
           }
         ]
       }
