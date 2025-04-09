@@ -2,9 +2,9 @@
 tags:
 aliases: 
 created: 2025-04-10
-title: Python_asdasd 2025-04-10
+title: hello world_py (2025-04-10)
 note-type: CODE
-language: Python
+language: py
 completed: false
 archive: false
 ---

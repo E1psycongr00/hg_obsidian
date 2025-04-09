@@ -1,10 +1,11 @@
 <%*
   const LANGUAGES = ["JS","TS", "Python", "Java", "C++", "Ruby", "Go", "PHP", "Kotlin", "CSharp"];
+  const LANGUAGES_VAL = ["js","ts", "py", "java", "cpp","c", "ruby", "go", "php", "kotlin", "cs"];
   // 현재 날짜를 YYYY-MM-DD 형식으로 가져오기
   const date = tp.date.now("YYYY-MM-DD");
   const selectedLanguage = await tp.system.suggester(
 	  LANGUAGES, // 선택지 배열
-	  LANGUAGES, // 값 배열
+	  LANGUAGES_VAL, // 값 배열
 	  false, // 다중 선택 비활성화
 	  "언어를 선택해 주세요"
   )
@@ -13,7 +14,7 @@
   const originalTitle = tp.file.title;
   
   // 새로운 제목 생성 (기존 제목 + 날짜)
-  const newTitle = `${selectedLanguage}_${originalTitle} ${date}`;
+  const newTitle = `${originalTitle}_${selectedLanguage} (${date})`;
   
   // frontmatter에 title 업데이트
   tR += `---
