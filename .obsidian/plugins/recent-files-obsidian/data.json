@@ -13,6 +13,10 @@
       "path": "Excalidraw/최대 토크와 최대 출력 비교 (draw).md"
     },
     {
+      "basename": "최대 출력 슬립 구하기 2025-04-09",
+      "path": "06. Code Notes/Area/최대 출력 슬립 구하기 2025-04-09.md"
+    },
+    {
       "basename": "비례 추이 (draw)",
       "path": "Excalidraw/비례 추이 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "유도기 회전 자계 (draw)",
       "path": "Excalidraw/유도기 회전 자계 (draw).md"
-    },
-    {
-      "basename": "3상 유도 전동기 원리",
-      "path": "03. Permanent Notes/3상 유도 전동기 원리.md"
     }
   ],
   "omittedPaths": [],
