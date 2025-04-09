@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "유도 전동기 등가 회로",
+      "path": "04. Practice Notes/유도 전동기 등가 회로.md"
+    },
+    {
       "basename": "유도 전동기의 출력 저항을 표현한 등가 회로 (draw)",
       "path": "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).md"
+    },
+    {
+      "basename": "유도 전동기 2차 입력 등가 회로 (draw)",
+      "path": "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).md"
     },
     {
       "basename": "유도 전동기 등가 회로 (draw)",
@@ -11,10 +19,6 @@
     {
       "basename": "기계적 출력과 토크 관계",
       "path": "03. Permanent Notes/기계적 출력과 토크 관계.md"
-    },
-    {
-      "basename": "유도 전동기 등가 회로",
-      "path": "04. Practice Notes/유도 전동기 등가 회로.md"
     },
     {
       "basename": "기계적 출력과 토크 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "MoveArchive",
-      "path": "templaters/commander/MoveArchive.md"
     }
   ],
   "omittedPaths": [],
