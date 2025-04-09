@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "f43f3a0692be0b3d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/비례 추이 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "비례 추이 (draw)"
+            }
+          },
+          {
             "id": "f78904313a850901",
             "type": "leaf",
             "state": {
@@ -36,8 +48,21 @@
               "icon": "lucide-file",
               "title": "유도 전동기 등가 회로"
             }
+          },
+          {
+            "id": "4e5474bb33b41d78",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 22.41.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 22.41.53.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -115,10 +140,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
+                "file": "Excalidraw/Drawing 2025-04-09 22.41.53.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "유도 전동기 2차 저항 제어 의 파일 속성"
+              "title": "Drawing 2025-04-09 22.41.53.excalidraw 의 파일 속성"
             }
           },
           {
@@ -347,11 +372,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4e5474bb33b41d78",
   "lastOpenFiles": [
-    "03. Permanent Notes/유도 전동기 등가 회로.md",
+    "Excalidraw/Drawing 2025-04-09 22.41.53.excalidraw.svg",
+    "Excalidraw/Drawing 2025-04-09 22.41.53.excalidraw.md",
     "Excalidraw/비례 추이 (draw).md",
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
+    "03. Permanent Notes/유도 전동기 등가 회로.md",
     "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
@@ -382,9 +409,7 @@
     "03. Permanent Notes/3상 유도 전동기 원리.md",
     "Excalidraw/유도기 회전 자계 (draw).svg",
     "Excalidraw/아라고 원판 (draw).md",
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "Excalidraw/아라고 원판 (draw).svg",
-    "03. Permanent Notes/동기 속도.md",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",
     "06. Code Notes",

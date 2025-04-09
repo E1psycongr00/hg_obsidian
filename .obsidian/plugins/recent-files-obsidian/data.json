@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-04-09 22.41.53.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-09 22.41.53.excalidraw.md"
+    },
+    {
+      "basename": "비례 추이 (draw)",
+      "path": "Excalidraw/비례 추이 (draw).md"
+    },
+    {
       "basename": "유도 전동기 2차 저항 제어",
       "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
     },
     {
       "basename": "유도 전동기 등가 회로",
       "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
-    },
-    {
-      "basename": "비례 추이 (draw)",
-      "path": "Excalidraw/비례 추이 (draw).md"
     },
     {
       "basename": "전기기기 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "3상 유도 전동기 원리",
       "path": "03. Permanent Notes/3상 유도 전동기 원리.md"
-    },
-    {
-      "basename": "아라고 원판 (draw)",
-      "path": "Excalidraw/아라고 원판 (draw).md"
     }
   ],
   "omittedPaths": [],
