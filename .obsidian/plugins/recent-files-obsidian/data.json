@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "유도 전동기 출력비",
+      "path": "04. Practice Notes/유도 전동기 출력비.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "유도 전동기 등가 회로",
-      "path": "04. Practice Notes/유도 전동기 등가 회로.md"
+      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
     },
     {
       "basename": "유도 전동기 등가 회로 (draw)",
@@ -31,10 +39,6 @@
     {
       "basename": "변압기 단락 등가 회로 (draw)",
       "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "동기 와트",
@@ -95,10 +99,6 @@
     {
       "basename": "Solution 템플릿",
       "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
     }
   ],
   "omittedPaths": [],

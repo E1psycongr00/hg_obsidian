@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/유도 전동기 등가 회로.md",
+                "file": "04. Practice Notes/유도 전동기 출력비.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "유도 전동기 등가 회로"
+              "title": "유도 전동기 출력비"
             }
           },
           {
@@ -148,10 +148,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/유도 전동기 등가 회로.md"
+                "file": "04. Practice Notes/유도 전동기 출력비.md"
               },
               "icon": "lucide-info",
-              "title": "유도 전동기 등가 회로 의 파일 속성"
+              "title": "유도 전동기 출력비 의 파일 속성"
             }
           },
           {
@@ -382,11 +382,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/유도 전동기 출력비.md",
+    "03. Permanent Notes/유도 전동기 등가 회로.md",
     "Excalidraw/유도 전동기 등가 회로 (draw).md",
     "Excalidraw/유도 전동기 1차측 환산 등가 회로 (draw).md",
     "Excalidraw/유도 전동기 1차측 환산 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).md",
-    "04. Practice Notes/유도 전동기 등가 회로.md",
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).md",
     "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).svg",
@@ -394,7 +396,6 @@
     "Excalidraw/기계적 출력과 토크 (draw).md",
     "Excalidraw/유도 전동기 등가 회로 (draw).svg",
     "Excalidraw/변압기 단락 등가 회로 (draw).md",
-    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/동기 와트.md",
     "Excalidraw/기계적 출력과 토크 (draw).svg",
     "02. MOC/Home.md",
