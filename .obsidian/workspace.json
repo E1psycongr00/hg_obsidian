@@ -36,18 +36,6 @@
               "icon": "lucide-file",
               "title": "유도 전동기 등가 회로"
             }
-          },
-          {
-            "id": "bff35d81d2c15646",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/비례 추이 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "비례 추이 (draw)"
-            }
           }
         ]
       }
@@ -361,12 +349,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
-    "04. Practice Notes/유도 전동기와 토크 특성.md",
-    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
-    "03. Permanent Notes/유도 전동기의 비례추이.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
     "Excalidraw/비례 추이 (draw).md",
+    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
+    "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/유도 전동기와 토크 특성.md",
+    "03. Permanent Notes/유도 전동기의 비례추이.md",
     "Excalidraw/비례 추이 (draw).svg",
     "03. Permanent Notes/유도 전동기 출력비.md",
     "Excalidraw/유도 전동기 등가 회로 (draw).md",

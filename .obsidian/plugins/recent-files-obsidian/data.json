@@ -5,6 +5,14 @@
       "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
     },
     {
+      "basename": "유도 전동기 등가 회로",
+      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
+    },
+    {
+      "basename": "비례 추이 (draw)",
+      "path": "Excalidraw/비례 추이 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "유도 전동기의 비례추이",
       "path": "03. Permanent Notes/유도 전동기의 비례추이.md"
-    },
-    {
-      "basename": "유도 전동기 등가 회로",
-      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
-    },
-    {
-      "basename": "비례 추이 (draw)",
-      "path": "Excalidraw/비례 추이 (draw).md"
     },
     {
       "basename": "유도 전동기 출력비",
