@@ -5,12 +5,12 @@
       "path": "04. Practice Notes/유도 전동기 출력비.md"
     },
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
       "basename": "유도 전동기 등가 회로",
       "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "유도 전동기 등가 회로 (draw)",
