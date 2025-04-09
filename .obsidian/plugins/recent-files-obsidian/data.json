@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "최대 출력 슬립 구하기 2025-04-09",
+      "path": "06. Code Notes/Area/최대 출력 슬립 구하기 2025-04-09.md"
+    },
+    {
       "basename": "유도 전동기 2차 저항 제어",
       "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "최대 토크와 최대 출력 비교 (draw)",
       "path": "Excalidraw/최대 토크와 최대 출력 비교 (draw).md"
-    },
-    {
-      "basename": "최대 출력 슬립 구하기 2025-04-09",
-      "path": "06. Code Notes/Area/최대 출력 슬립 구하기 2025-04-09.md"
     },
     {
       "basename": "비례 추이 (draw)",
@@ -87,18 +99,6 @@
     {
       "basename": "권선형 유도 전동기",
       "path": "04. Practice Notes/권선형 유도 전동기.md"
-    },
-    {
-      "basename": "농형 유도 전동기",
-      "path": "03. Permanent Notes/농형 유도 전동기.md"
-    },
-    {
-      "basename": "슬립",
-      "path": "03. Permanent Notes/슬립.md"
-    },
-    {
-      "basename": "유도기 회전 자계 (draw)",
-      "path": "Excalidraw/유도기 회전 자계 (draw).md"
     }
   ],
   "omittedPaths": [],
