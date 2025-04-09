@@ -22,11 +22,9 @@ archive: false
   
   // 파일 이름도 동일하게 변경
   await tp.file.rename(newTitle);
-  await tp.user.moveFileToTarget(tp, "04. Practice Notes");
+  // await tp.user.moveFileToTarget(tp, "04. Practice Notes");
 %>
-<%*
 
-%>
 ## 코드
 
 ### Code

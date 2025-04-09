@@ -1,6 +1,6 @@
 // moveFileToTarget.js
-module.exports = async function (tp, targetFolder, targetFile) {
-  const file = targetFile || tp.file; // targetFile이 없으면 tp.file 사용
+module.exports = async function (tp, targetFolder) {
+  const file = tp.file; // 현재 파일 객체
   const app = tp.app; // Obsidian app 객체
 
   // 입력값 검증
