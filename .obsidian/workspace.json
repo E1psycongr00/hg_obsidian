@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "유도 전동기 등가 회로"
             }
+          },
+          {
+            "id": "bff35d81d2c15646",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-09 18.17.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-09 18.17.01.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/유도 전동기의 비례추이.md"
+                "file": "Excalidraw/Drawing 2025-04-09 18.17.01.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "유도 전동기의 비례추이 의 파일 속성"
+              "title": "Drawing 2025-04-09 18.17.01.excalidraw 의 파일 속성"
             }
           },
           {
@@ -347,10 +360,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bff35d81d2c15646",
   "lastOpenFiles": [
-    "02. MOC/전기기기 MOC.md",
+    "Excalidraw/Drawing 2025-04-09 18.17.01.excalidraw.svg",
+    "Excalidraw/Drawing 2025-04-09 18.17.01.excalidraw.md",
     "04. Practice Notes/유도 전동기의 비례추이.md",
+    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/유도 전동기 출력비.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
@@ -382,8 +397,6 @@
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "Excalidraw/아라고 원판 (draw).svg",
     "03. Permanent Notes/동기 속도.md",
-    "03. Permanent Notes/전기적 각도.md",
-    "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",
     "06. Code Notes",
