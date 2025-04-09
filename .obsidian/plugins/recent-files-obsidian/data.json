@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-04-09 11.30.21.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-09 11.30.21.excalidraw.md"
+    },
+    {
       "basename": "동기 와트",
       "path": "04. Practice Notes/동기 와트.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
     }
   ],
   "omittedPaths": [],
