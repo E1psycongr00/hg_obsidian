@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "유도 전동기 등가 회로 (draw)",
+      "path": "Excalidraw/유도 전동기 등가 회로 (draw).md"
+    },
+    {
+      "basename": "변압기 단락 등가 회로 (draw)",
+      "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
+    },
+    {
       "basename": "유도 전동기 등가 회로",
       "path": "04. Practice Notes/유도 전동기 등가 회로.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
     }
   ],
   "omittedPaths": [],
