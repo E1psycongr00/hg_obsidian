@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "유도 전동기 등가 회로",
+      "path": "유도 전동기 등가 회로.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
       "basename": "동기 와트",
-      "path": "04. Practice Notes/동기 와트.md"
+      "path": "03. Permanent Notes/동기 와트.md"
     },
     {
       "basename": "기계적 출력과 토크 관계",
@@ -13,16 +21,8 @@
       "path": "Excalidraw/기계적 출력과 토크 (draw).md"
     },
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "유도 전동기 등가 회로",
-      "path": "유도 전동기 등가 회로.md"
     },
     {
       "basename": "전자기학 MOC",
