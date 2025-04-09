@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
+    },
+    {
+      "basename": "asd",
+      "path": "04. Practice Notes/asd.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "Note Guides",
@@ -95,10 +99,6 @@
     {
       "basename": "전력공학 MOC",
       "path": "02. MOC/전력공학 MOC.md"
-    },
-    {
-      "basename": "websocket-lightweight-client-server-communications_compress",
-      "path": "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf"
     }
   ],
   "omittedPaths": [],
