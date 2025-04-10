@@ -80,6 +80,8 @@ aliases:
 created:YYYY-MM-DD
 title: [문제 제목]
 note-type: SOLUTION
+completed: false
+archive: false
 ---
 
 ## 문제 정의
@@ -107,6 +109,8 @@ aliases:
 created:2015-02-11
 title: 웹사이트 로딩 속도 느림
 note-type: SOLUTION
+completed: true
+archive: false
 ---
 
 ## 문제 정의
