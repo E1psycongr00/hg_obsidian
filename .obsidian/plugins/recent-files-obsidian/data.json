@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
+      "path": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+    },
+    {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
       "basename": "Solution 템플릿",
       "path": "templaters/Solution 템플릿.md"
     },
@@ -13,10 +21,6 @@
       "path": "01. Guides/Note Guides.md"
     },
     {
-      "basename": "토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "04. Practice Notes/토크 곡선과 부하 토크 곡선 해석 방법.md"
-    },
-    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "농형 유도 전동기",
       "path": "03. Permanent Notes/농형 유도 전동기.md"
-    },
-    {
-      "basename": "권선형 유도 전동기",
-      "path": "04. Practice Notes/권선형 유도 전동기.md"
     },
     {
       "basename": "유도 전동기 2차 저항 제어",

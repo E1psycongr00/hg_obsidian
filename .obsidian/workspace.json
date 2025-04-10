@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/토크 곡선과 부하 토크 곡선 해석 방법.md",
+                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "토크 곡선과 부하 토크 곡선 해석 방법"
-            }
-          },
-          {
-            "id": "1622233f46417a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templaters/Solution 템플릿.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Solution 템플릿"
+              "title": "🔬토크 곡선과 부하 토크 곡선 해석 방법"
             }
           },
           {
@@ -82,8 +67,7 @@
               "title": "권선형 유도 전동기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,10 +145,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/Solution 템플릿.md"
+                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
               },
               "icon": "lucide-info",
-              "title": "Solution 템플릿 의 파일 속성"
+              "title": "🔬토크 곡선과 부하 토크 곡선 해석 방법 의 파일 속성"
             }
           },
           {
@@ -260,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templaters/Solution 템플릿.md",
+                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -288,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Solution 템플릿 그래프"
+              "title": "🔬토크 곡선과 부하 토크 곡선 해석 방법 그래프"
             }
           },
           {
@@ -335,13 +319,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templaters/Solution 템플릿.md",
+                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Solution 템플릿 의 개요"
+              "title": "🔬토크 곡선과 부하 토크 곡선 해석 방법 의 개요"
             }
           }
         ]
@@ -373,16 +357,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1622233f46417a7f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04. Practice Notes/권선형 유도 전동기.md",
+    "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
+    "templaters/Solution 템플릿.md",
     "templaters/Code 템플릿.md",
     "01. Guides/Note Guides.md",
-    "templaters/Solution 템플릿.md",
-    "04. Practice Notes/토크 곡선과 부하 토크 곡선 해석 방법.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/부하 토크 곡선.md",
     "03. Permanent Notes/농형 유도 전동기.md",
-    "04. Practice Notes/권선형 유도 전동기.md",
     "04. Practice Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/토크 특성 곡선.md",
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
