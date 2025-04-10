@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/부하 토크 곡선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "부하 토크 곡선"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "04. Practice Notes/부하 토크 곡선.md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "부하 토크 곡선 의 파일 속성"
             }
           },
           {
@@ -214,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/부하 토크 곡선.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -242,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전기기기 MOC 그래프"
+              "title": "부하 토크 곡선 그래프"
             }
           },
           {
@@ -289,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/부하 토크 곡선.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기기기 MOC 의 개요"
+              "title": "부하 토크 곡선 의 개요"
             }
           }
         ]
@@ -329,11 +329,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/권선형 유도 전동기.md",
+    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/농형 유도 전동기.md",
+    "04. Practice Notes/부하 토크 곡선.md",
+    "04. Practice Notes/권선형 유도 전동기.md",
     "04. Practice Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/토크 특성 곡선.md",
-    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
@@ -359,7 +360,6 @@
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).svg",
     "Excalidraw/비례 추이 (draw).svg",
     "03. Permanent Notes/유도 전동기 출력비.md",
-    "Excalidraw/유도 전동기 등가 회로 (draw).md",
     "Excalidraw/유도 전동기 1차측 환산 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).svg",
