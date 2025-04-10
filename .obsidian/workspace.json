@@ -4,52 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "2f2c4dda865e34e5",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "23c8ab40af35c62b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. Guides/Note Guides.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Note Guides"
-            }
-          },
-          {
-            "id": "7ae2105b9c60d473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templaters/Code 템플릿.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Code 템플릿"
-            }
-          },
-          {
-            "id": "8e3ec1d390db7e52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Practice Notes/hello world_py (2025-04-10).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "hello world_py (2025-04-10)"
+              "title": "새 탭"
             }
           }
         ]
@@ -117,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -129,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01. Guides/Note Guides.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Note Guides 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -229,7 +192,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/전자기학 MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -257,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전자기학 MOC 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -311,7 +273,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -336,8 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5,
-    "collapsed": true
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,18 +323,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "23c8ab40af35c62b",
   "lastOpenFiles": [
+    "01. Guides/Note Guides.md",
+    "06. Code Notes/Area/최대 출력 슬립 구하기_py (2025-04-09).md",
+    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "templaters/Code 템플릿.md",
     "04. Practice Notes/hello world_py (2025-04-10).md",
-    "01. Guides/Note Guides.md",
     "04. Practice Notes/asd.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "templaters/scripts/무제.md",
     "01. Guides/Folder Guides.md",
-    "06. Code Notes/Area/최대 출력 슬립 구하기 2025-04-09.md",
     "04. Practice Notes/무제.md",
-    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).md",
     "attachments/screenshot/Pasted image 20250409225216.png",

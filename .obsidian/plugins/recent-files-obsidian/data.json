@@ -5,12 +5,16 @@
       "path": "01. Guides/Note Guides.md"
     },
     {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
+      "basename": "최대 출력 슬립 구하기_py (2025-04-09)",
+      "path": "06. Code Notes/Area/최대 출력 슬립 구하기_py (2025-04-09).md"
     },
     {
-      "basename": "hello world_py (2025-04-10)",
-      "path": "04. Practice Notes/hello world_py (2025-04-10).md"
+      "basename": "유도 전동기 2차 저항 제어",
+      "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
+    },
+    {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
@@ -19,14 +23,6 @@
     {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "최대 출력 슬립 구하기 2025-04-09",
-      "path": "06. Code Notes/Area/최대 출력 슬립 구하기 2025-04-09.md"
-    },
-    {
-      "basename": "유도 전동기 2차 저항 제어",
-      "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
     },
     {
       "basename": "유도 전동기 등가 회로",
