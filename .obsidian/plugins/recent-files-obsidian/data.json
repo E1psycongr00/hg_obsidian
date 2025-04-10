@@ -5,6 +5,10 @@
       "path": "02. MOC/전기기기 MOC.md"
     },
     {
+      "basename": "유도 전동기 2차 저항 제어",
+      "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
+    },
+    {
       "basename": "권선형 유도 전동기",
       "path": "04. Practice Notes/권선형 유도 전동기.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "최대 출력 슬립 구하기_py (2025-04-09)",
       "path": "06. Code Notes/Area/최대 출력 슬립 구하기_py (2025-04-09).md"
-    },
-    {
-      "basename": "유도 전동기 2차 저항 제어",
-      "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
     },
     {
       "basename": "Code 템플릿",

@@ -116,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "유도 전동기 2차 저항 제어 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/유도 전동기 2차 저항 제어.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "유도 전동기 2차 저항 제어 그래프"
+              "title": "전기기기 MOC 그래프"
             }
           },
           {
@@ -290,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/유도 전동기 2차 저항 제어.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "유도 전동기 2차 저항 제어 의 개요"
+              "title": "전기기기 MOC 의 개요"
             }
           }
         ]
@@ -328,9 +328,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8b9a65ba08f480ac",
+  "active": "c04282efa1b79080",
   "lastOpenFiles": [
+    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "02. MOC/전기기기 MOC.md",
+    "03. Permanent Notes/유도 전동기의 비례추이.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "03. Permanent Notes/농형 유도 전동기.md",
@@ -344,7 +346,6 @@
     "02. MOC/Home.md",
     "01. Guides/Note Guides.md",
     "06. Code Notes/Area/최대 출력 슬립 구하기_py (2025-04-09).md",
-    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "templaters/Code 템플릿.md",
     "04. Practice Notes/hello world_py (2025-04-10).md",
     "04. Practice Notes/asd.md",
@@ -356,7 +357,6 @@
     "attachments/screenshot/Pasted image 20250409225216.png",
     "Excalidraw/비례 추이 (draw).md",
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).svg",
-    "03. Permanent Notes/유도 전동기의 비례추이.md",
     "Excalidraw/비례 추이 (draw).svg",
     "03. Permanent Notes/유도 전동기 출력비.md",
     "Excalidraw/유도 전동기 등가 회로 (draw).md",
