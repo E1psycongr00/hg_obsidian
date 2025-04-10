@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "03. Permanent Notes/농형 유도 전동기.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -52,7 +52,8 @@
               "title": "농형 유도 전동기"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "03. Permanent Notes/농형 유도 전동기.md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "농형 유도 전동기 의 파일 속성"
             }
           },
           {
@@ -229,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "03. Permanent Notes/농형 유도 전동기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -257,7 +258,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전기기기 MOC 그래프"
+              "title": "농형 유도 전동기 그래프"
             }
           },
           {
@@ -304,13 +305,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "03. Permanent Notes/농형 유도 전동기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기기기 MOC 의 개요"
+              "title": "농형 유도 전동기 의 개요"
             }
           }
         ]
@@ -342,10 +343,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1febf829aee8b244",
   "lastOpenFiles": [
-    "04. Practice Notes/권선형 유도 전동기.md",
+    "03. Permanent Notes/토크 특성 곡선.md",
     "03. Permanent Notes/농형 유도 전동기.md",
+    "04. Practice Notes/권선형 유도 전동기.md",
     "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
@@ -374,7 +376,6 @@
     "Excalidraw/비례 추이 (draw).svg",
     "03. Permanent Notes/유도 전동기 출력비.md",
     "Excalidraw/유도 전동기 등가 회로 (draw).md",
-    "Excalidraw/유도 전동기 1차측 환산 등가 회로 (draw).md",
     "Excalidraw/유도 전동기 1차측 환산 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).svg",
