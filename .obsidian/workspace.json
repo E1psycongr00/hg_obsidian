@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/유도 전동기와 토크 특성.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "유도 전동기와 토크 특성"
+              "title": "전기기기 MOC"
             }
           },
           {
@@ -157,8 +157,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "tree-pine",
+              "title": "Tree view"
             }
           }
         ]
@@ -267,36 +267,6 @@
             }
           },
           {
-            "id": "310930618c37b9a3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "14e9873b0347e7eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "6144dc47cefc6eac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "1542f5ee59f2854d",
             "type": "leaf",
             "state": {
@@ -307,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       },
       {
         "id": "7d466e57ea240c21",
@@ -360,11 +330,12 @@
   },
   "active": "02b169acacf435ae",
   "lastOpenFiles": [
-    "04. Practice Notes/유도 전동기와 토크 특성.md",
+    "03. Permanent Notes/단권 변압기.md",
     "03. Permanent Notes/농형 유도 전동기.md",
+    "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/유도 전동기와 토크 특성.md",
     "Excalidraw/Y-delta 결선 (draw).md",
     "Excalidraw/Y-delta 결선 (draw).svg",
-    "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "02. MOC/Home.md",
     "01. Guides/Note Guides.md",
