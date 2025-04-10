@@ -66,8 +66,33 @@
               "icon": "lucide-file",
               "title": "권선형 유도 전동기"
             }
+          },
+          {
+            "id": "ff8440411a4dcf0e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-10 21.38.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-10 21.38.04.excalidraw"
+            }
+          },
+          {
+            "id": "9498e3774ad46afb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/비례 추이 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "비례 추이 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -87,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "단권 변압기",
+                "query": "비례 추이",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -144,11 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "🔬토크 곡선과 부하 토크 곡선 해석 방법 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -244,7 +267,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -272,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🔬토크 곡선과 부하 토크 곡선 해석 방법 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -319,13 +341,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🔬토크 곡선과 부하 토크 곡선 해석 방법 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -357,10 +378,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "22f85eeea11021ed",
   "lastOpenFiles": [
-    "04. Practice Notes/권선형 유도 전동기.md",
+    "Excalidraw/비례 추이 (draw).md",
+    "Excalidraw/Drawing 2025-04-10 21.38.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-10 21.38.04.excalidraw.svg",
     "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
+    "Excalidraw/토크 특성 곡선 (draw).md",
+    "04. Practice Notes/권선형 유도 전동기.md",
     "templaters/Solution 템플릿.md",
     "templaters/Code 템플릿.md",
     "01. Guides/Note Guides.md",
@@ -384,9 +409,6 @@
     "04. Practice Notes/asd.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "templaters/scripts/무제.md",
-    "01. Guides/Folder Guides.md",
-    "04. Practice Notes/무제.md",
-    "Excalidraw/최대 토크와 최대 출력 비교 (draw).md",
     "attachments/screenshot/Pasted image 20250409225216.png",
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).svg",
     "Excalidraw/비례 추이 (draw).svg",
@@ -394,7 +416,6 @@
     "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기 등가 회로 (draw).svg",
-    "Excalidraw/기계적 출력과 토크 (draw).svg",
     "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",
