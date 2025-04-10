@@ -52,8 +52,7 @@
               "title": "농형 유도 전동기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/권선형 유도 전동기.md"
+                "file": "02. MOC/전기기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "권선형 유도 전동기 의 파일 속성"
+              "title": "전기기기 MOC 의 파일 속성"
             }
           },
           {
@@ -230,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/권선형 유도 전동기.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -258,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "권선형 유도 전동기 그래프"
+              "title": "전기기기 MOC 그래프"
             }
           },
           {
@@ -305,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/권선형 유도 전동기.md",
+                "file": "02. MOC/전기기기 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "권선형 유도 전동기 의 개요"
+              "title": "전기기기 MOC 의 개요"
             }
           }
         ]
@@ -343,10 +342,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7c216ac33b431e84",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/농형 유도 전동기.md",
     "04. Practice Notes/권선형 유도 전동기.md",
+    "03. Permanent Notes/농형 유도 전동기.md",
     "02. MOC/전기기기 MOC.md",
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
