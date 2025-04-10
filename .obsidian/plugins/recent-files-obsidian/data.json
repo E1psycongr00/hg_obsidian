@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "농형 유도 전동기",
+      "path": "03. Permanent Notes/농형 유도 전동기.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "비례 추이 (draw)",
       "path": "Excalidraw/비례 추이 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "유도 전동기와 토크 특성",
@@ -85,16 +97,8 @@
       "path": "03. Permanent Notes/동기 와트.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "전력공학 MOC",
-      "path": "02. MOC/전력공학 MOC.md"
     }
   ],
   "omittedPaths": [],
