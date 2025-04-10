@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
+      "path": "07. Solution Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
     {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "03. Permanent Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
     },
     {
-      "basename": "권선형 유도 전동기",
-      "path": "04. Practice Notes/권선형 유도 전동기.md"
+      "basename": "MoveArchive",
+      "path": "templaters/commander/MoveArchive.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "토크 곡선과 부하 토크 곡선 관계 (draw)",
@@ -23,14 +43,6 @@
     {
       "basename": "토크 특성 곡선 (draw)",
       "path": "Excalidraw/토크 특성 곡선 (draw).md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
     },
     {
       "basename": "전기기기 MOC",
@@ -73,10 +85,6 @@
       "path": "06. Code Notes/Area/최대 출력 슬립 구하기_py (2025-04-09).md"
     },
     {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "유도 전동기의 비례추이",
       "path": "03. Permanent Notes/유도 전동기의 비례추이.md"
-    },
-    {
-      "basename": "유도 전동기 출력비",
-      "path": "03. Permanent Notes/유도 전동기 출력비.md"
-    },
-    {
-      "basename": "유도 전동기 등가 회로 (draw)",
-      "path": "Excalidraw/유도 전동기 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],

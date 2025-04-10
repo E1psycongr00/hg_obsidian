@@ -1,6 +1,7 @@
 <%*
 const conditionSets = [
     { conditions: { "note-type": "CODE", completed: true, archive: true }, targetFolder: "06. Code Notes/Archive" },
+    { conditions: { "note-type": "SOLUTION", completed: true, archive: true }, targetFolder: "07. Solution Notes/Archive" },
 
 ];
 
