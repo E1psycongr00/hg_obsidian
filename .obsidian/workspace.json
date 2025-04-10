@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/권선형 유도 전동기.md",
+                "file": "03. Permanent Notes/농형 유도 전동기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "권선형 유도 전동기"
+              "title": "농형 유도 전동기"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "전기기기 MOC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "03. Permanent Notes/농형 유도 전동기.md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "농형 유도 전동기 의 파일 속성"
             }
           },
           {
@@ -215,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "03. Permanent Notes/농형 유도 전동기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전기기기 MOC 그래프"
+              "title": "농형 유도 전동기 그래프"
             }
           },
           {
@@ -290,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "03. Permanent Notes/농형 유도 전동기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기기기 MOC 의 개요"
+              "title": "농형 유도 전동기 의 개요"
             }
           }
         ]
@@ -328,13 +327,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c04282efa1b79080",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "02. MOC/전기기기 MOC.md",
+    "04. Practice Notes/권선형 유도 전동기.md",
+    "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
-    "04. Practice Notes/권선형 유도 전동기.md",
     "03. Permanent Notes/농형 유도 전동기.md",
     "Excalidraw/기동 보상 기법 (draw).md",
     "Excalidraw/단권 변압기 (draw).md",
