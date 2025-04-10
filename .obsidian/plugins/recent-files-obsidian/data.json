@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "기동 보상 기법 (draw)",
+      "path": "Excalidraw/기동 보상 기법 (draw).md"
+    },
+    {
+      "basename": "단권 변압기 (draw)",
+      "path": "Excalidraw/단권 변압기 (draw).md"
+    },
+    {
       "basename": "농형 유도 전동기",
       "path": "03. Permanent Notes/농형 유도 전동기.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "기계적 출력과 토크 (draw)",
       "path": "Excalidraw/기계적 출력과 토크 (draw).md"
-    },
-    {
-      "basename": "변압기 단락 등가 회로 (draw)",
-      "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
-    },
-    {
-      "basename": "동기 와트",
-      "path": "03. Permanent Notes/동기 와트.md"
     }
   ],
   "omittedPaths": [],
