@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
+    },
+    {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "농형 유도 전동기",
+      "path": "03. Permanent Notes/농형 유도 전동기.md"
+    },
+    {
       "basename": "기동 보상 기법 (draw)",
       "path": "Excalidraw/기동 보상 기법 (draw).md"
     },
@@ -9,24 +21,12 @@
       "path": "Excalidraw/단권 변압기 (draw).md"
     },
     {
-      "basename": "농형 유도 전동기",
-      "path": "03. Permanent Notes/농형 유도 전동기.md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
-    },
-    {
       "basename": "유도 전동기와 토크 특성",
       "path": "04. Practice Notes/유도 전동기와 토크 특성.md"
     },
     {
       "basename": "Y-delta 결선 (draw)",
       "path": "Excalidraw/Y-delta 결선 (draw).md"
-    },
-    {
-      "basename": "권선형 유도 전동기",
-      "path": "04. Practice Notes/권선형 유도 전동기.md"
     },
     {
       "basename": "Home",
