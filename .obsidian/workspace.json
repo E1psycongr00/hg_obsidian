@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "농형 유도 전동기"
             }
+          },
+          {
+            "id": "12ea153130bc94c1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-10 17.45.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-10 17.45.39.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/농형 유도 전동기.md"
+                "file": "Excalidraw/Drawing 2025-04-10 17.45.39.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "농형 유도 전동기 의 파일 속성"
+              "title": "Drawing 2025-04-10 17.45.39.excalidraw 의 파일 속성"
             }
           },
           {
@@ -215,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/농형 유도 전동기.md",
+                "file": "Excalidraw/Drawing 2025-04-10 17.45.39.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "농형 유도 전동기 그래프"
+              "title": "Drawing 2025-04-10 17.45.39.excalidraw 그래프"
             }
           },
           {
@@ -320,13 +332,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/농형 유도 전동기.md",
+                "file": "Excalidraw/Drawing 2025-04-10 17.45.39.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "농형 유도 전동기 의 개요"
+              "title": "Drawing 2025-04-10 17.45.39.excalidraw 의 개요"
             }
           }
         ]
@@ -358,11 +370,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "02b169acacf435ae",
+  "active": "12ea153130bc94c1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-10 17.45.39.excalidraw.svg",
+    "03. Permanent Notes/농형 유도 전동기.md",
+    "Excalidraw/Drawing 2025-04-10 17.45.39.excalidraw.md",
     "04. Practice Notes/유도 전동기와 토크 특성.md",
     "02. MOC/전기기기 MOC.md",
-    "03. Permanent Notes/농형 유도 전동기.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "02. MOC/Home.md",
     "01. Guides/Note Guides.md",
@@ -390,8 +404,6 @@
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).md",
     "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).svg",
-    "03. Permanent Notes/기계적 출력과 토크 관계.md",
-    "Excalidraw/기계적 출력과 토크 (draw).md",
     "Excalidraw/유도 전동기 등가 회로 (draw).svg",
     "Excalidraw/기계적 출력과 토크 (draw).svg",
     "07. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
