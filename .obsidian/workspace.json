@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
+                "file": "03. Permanent Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -66,21 +66,9 @@
               "icon": "lucide-file",
               "title": "권선형 유도 전동기"
             }
-          },
-          {
-            "id": "ff8440411a4dcf0e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "토크 곡선과 부하 토크 곡선 관계 (draw)"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md"
+                "file": "01. Guides/Note Guides.md"
               },
               "icon": "lucide-info",
-              "title": "토크 곡선과 부하 토크 곡선 관계 (draw) 의 파일 속성"
+              "title": "Note Guides 의 파일 속성"
             }
           },
           {
@@ -257,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md",
+                "file": "01. Guides/Note Guides.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -285,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "토크 곡선과 부하 토크 곡선 관계 (draw) 그래프"
+              "title": "Note Guides 그래프"
             }
           },
           {
@@ -332,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md",
+                "file": "01. Guides/Note Guides.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "토크 곡선과 부하 토크 곡선 관계 (draw) 의 개요"
+              "title": "Note Guides 의 개요"
             }
           }
         ]
@@ -370,14 +358,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ff8440411a4dcf0e",
+  "active": "d6f6e534161dfff8",
   "lastOpenFiles": [
-    "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
+    "03. Permanent Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
+    "04. Practice Notes/권선형 유도 전동기.md",
     "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md",
     "Excalidraw/비례 추이 (draw).md",
     "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).svg",
     "Excalidraw/토크 특성 곡선 (draw).md",
-    "04. Practice Notes/권선형 유도 전동기.md",
     "templaters/Solution 템플릿.md",
     "templaters/Code 템플릿.md",
     "01. Guides/Note Guides.md",

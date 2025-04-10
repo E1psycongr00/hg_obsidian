@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "토크 곡선과 부하 토크 곡선 관계 (draw)",
-      "path": "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md"
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "04. Practice Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+      "path": "03. Permanent Notes/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+    },
+    {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "토크 곡선과 부하 토크 곡선 관계 (draw)",
+      "path": "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md"
     },
     {
       "basename": "비례 추이 (draw)",
@@ -17,20 +25,12 @@
       "path": "Excalidraw/토크 특성 곡선 (draw).md"
     },
     {
-      "basename": "권선형 유도 전동기",
-      "path": "04. Practice Notes/권선형 유도 전동기.md"
-    },
-    {
       "basename": "Solution 템플릿",
       "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "전기기기 MOC",
