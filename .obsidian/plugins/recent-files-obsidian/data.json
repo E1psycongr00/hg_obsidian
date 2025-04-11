@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TRIAC",
+      "path": "04. Practice Notes/TRIAC.md"
+    },
+    {
       "basename": "전기 기기 MOC",
       "path": "02. MOC/전기 기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
     }
   ],
   "omittedPaths": [],

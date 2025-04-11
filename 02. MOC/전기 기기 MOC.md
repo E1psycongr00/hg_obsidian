@@ -200,6 +200,6 @@ cssclasses:
 	- [[PN 접합 다이오드]]
 	- [[사이리스터(SCR)]]
 	- [[GTO]]
-	- TRIAC
+	- [[TRIAC]]
 	
 	- IGBT

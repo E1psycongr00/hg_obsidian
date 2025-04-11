@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기 기기 MOC.md",
+                "file": "04. Practice Notes/TRIAC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기 기기 MOC"
+              "title": "TRIAC"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기 기기 MOC.md"
+                "file": "04. Practice Notes/TRIAC.md"
               },
               "icon": "lucide-info",
-              "title": "전기 기기 MOC 의 파일 속성"
+              "title": "TRIAC 의 파일 속성"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기 기기 MOC.md",
+                "file": "04. Practice Notes/TRIAC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기 기기 MOC 의 개요"
+              "title": "TRIAC 의 개요"
             }
           }
         ]
@@ -315,6 +315,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/전기 기기 MOC.md",
+    "04. Practice Notes/TRIAC.md",
     "03. Permanent Notes/GTO.md",
     "Excalidraw/다이오드 정류 곡선 (draw).md",
     "Excalidraw/SCR (draw).md",
@@ -322,7 +324,6 @@
     "Excalidraw/GTO (draw).svg",
     "03. Permanent Notes/사이리스터(SCR).md",
     "Excalidraw/SCR 정류 곡선 (draw).md",
-    "02. MOC/전기 기기 MOC.md",
     "Excalidraw/SCR 정류 곡선 (draw).svg",
     "Excalidraw/SCR (draw).svg",
     "Excalidraw/PN 접합 다이오드 (draw).md",
