@@ -5,7 +5,7 @@ tags:
   - 전기
 aliases: 
 created: 2025-03-23
-title: 전기기기 MOC
+title: 전기 기기 MOC
 note-type: MOC
 cssclasses:
   - dashboard
@@ -200,4 +200,5 @@ cssclasses:
 	- 📖ON / OFF 분류
 		- ON,OFF 불가능: 다이오드
 		- ON 가능, OFF 불가능: SCR, TRIAC
-		- ON, OFF 가능
+		- ON, OFF 가능: GTO, BJT, MOSFET, IGBT
+	- 방향성에 따라

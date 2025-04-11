@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "전자기학 MOC",
+      "path": "02. MOC/전자기학 MOC.md"
+    },
+    {
+      "basename": "전력 공학 MOC",
+      "path": "02. MOC/전력 공학 MOC.md"
+    },
+    {
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
+    },
+    {
+      "basename": "웹 인증 보안 MOC",
+      "path": "02. MOC/웹 인증 보안 MOC.md"
+    },
+    {
+      "basename": "전기 기기 MOC",
+      "path": "02. MOC/전기 기기 MOC.md"
+    },
+    {
+      "basename": "전기 기사 MOC",
+      "path": "02. MOC/전기 기사 MOC.md"
     },
     {
       "basename": "수은 정류기의 역호 현상",
@@ -75,30 +99,6 @@
     {
       "basename": "부하 토크 곡선",
       "path": "03. Permanent Notes/부하 토크 곡선.md"
-    },
-    {
-      "basename": "농형 유도 전동기",
-      "path": "03. Permanent Notes/농형 유도 전동기.md"
-    },
-    {
-      "basename": "유도 전동기 2차 저항 제어",
-      "path": "04. Practice Notes/유도 전동기 2차 저항 제어.md"
-    },
-    {
-      "basename": "기동 보상 기법 (draw)",
-      "path": "Excalidraw/기동 보상 기법 (draw).md"
-    },
-    {
-      "basename": "단권 변압기 (draw)",
-      "path": "Excalidraw/단권 변압기 (draw).md"
-    },
-    {
-      "basename": "유도 전동기와 토크 특성",
-      "path": "04. Practice Notes/유도 전동기와 토크 특성.md"
-    },
-    {
-      "basename": "Y-delta 결선 (draw)",
-      "path": "Excalidraw/Y-delta 결선 (draw).md"
     }
   ],
   "omittedPaths": [],

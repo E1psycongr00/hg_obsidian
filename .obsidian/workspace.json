@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "02. MOC/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "Home"
             }
           }
         ]
@@ -86,7 +86,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -99,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "02. MOC/Home.md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "Home 의 파일 속성"
             }
           },
           {
@@ -273,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "02. MOC/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기기기 MOC 의 개요"
+              "title": "Home 의 개요"
             }
           }
         ]
@@ -314,8 +315,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/전자기학 MOC.md",
+    "02. MOC/Home.md",
+    "02. MOC/전력 공학 MOC.md",
+    "02. MOC/웹 기초 MOC.md",
+    "02. MOC/웹 인증 보안 MOC.md",
+    "02. MOC/전기 기기 MOC.md",
+    "02. MOC/전기 기사 MOC.md",
     "03. Permanent Notes/수은 정류기의 역호 현상.md",
-    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/수은 정류기.md",
     "attachments/screenshot/Pasted image 20250411175559.png",
     "Excalidraw/회전 변류기 (draw).md",
@@ -342,11 +349,6 @@
     "Excalidraw/비례 추이 (draw).md",
     "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).svg",
     "Excalidraw/토크 특성 곡선 (draw).md",
-    "03. Permanent Notes/부하 토크 곡선.md",
-    "03. Permanent Notes/농형 유도 전동기.md",
-    "04. Practice Notes/유도 전동기와 토크 특성.md",
-    "03. Permanent Notes/토크 특성 곡선.md",
-    "03. Permanent Notes/유도 전동기 등가 회로.md",
     "Excalidraw/기동 보상 기법 (draw).svg",
     "Excalidraw/Y-delta 결선 (draw).svg",
     "attachments/screenshot/Pasted image 20250409225216.png",

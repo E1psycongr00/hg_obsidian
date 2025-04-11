@@ -5,7 +5,7 @@ tags:
   - 전기
 aliases: 
 created: 2025-03-21
-title: 전력공학
+title: 전력 공학 MOC
 note-type: MOC
 cssclasses:
   - dashboard
