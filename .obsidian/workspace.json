@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/회전 변류기.md",
+                "file": "04. Practice Notes/수은 정류기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "회전 변류기"
+              "title": "수은 정류기"
             }
           },
           {
@@ -33,8 +33,21 @@
               "icon": "excalidraw-icon",
               "title": "회전 변류기 (draw)"
             }
+          },
+          {
+            "id": "9824a7c2d44296ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-11 16.27.30.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/회전 변류기.md"
+                "file": "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "회전 변류기 의 파일 속성"
+              "title": "Drawing 2025-04-11 16.27.30.excalidraw 의 파일 속성"
             }
           },
           {
@@ -285,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/회전 변류기.md",
+                "file": "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "회전 변류기 의 개요"
+              "title": "Drawing 2025-04-11 16.27.30.excalidraw 의 개요"
             }
           }
         ]
@@ -324,14 +337,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9824a7c2d44296ed",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.svg",
+    "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md",
     "Excalidraw/회전 변류기 (draw).md",
+    "04. Practice Notes/수은 정류기.md",
+    "02. MOC/전기기기 MOC.md",
+    "03. Permanent Notes/회전 변류기.md",
     "Excalidraw/회전 변류기 원리 (draw).md",
-    "04. Practice Notes/회전 변류기.md",
     "Excalidraw/회전 변류기 (draw).svg",
     "Excalidraw/회전 변류기 원리 (draw).svg",
-    "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "04. Practice Notes/권선형 유도 전동기.md",
@@ -355,9 +371,7 @@
     "03. Permanent Notes/토크 특성 곡선.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
     "Excalidraw/기동 보상 기법 (draw).md",
-    "Excalidraw/단권 변압기 (draw).md",
     "Excalidraw/기동 보상 기법 (draw).svg",
-    "03. Permanent Notes/단권 변압기.md",
     "Excalidraw/Y-delta 결선 (draw).svg",
     "attachments/screenshot/Pasted image 20250409225216.png",
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).svg",
