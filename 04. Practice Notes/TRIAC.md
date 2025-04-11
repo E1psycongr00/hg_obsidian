@@ -13,7 +13,7 @@ completed: false
 
 ### 정의
 
-tri 
+trielec
 
 ## 질문 & 확장
 
