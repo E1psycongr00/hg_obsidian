@@ -23,15 +23,15 @@
             }
           },
           {
-            "id": "6d2d88f4df5d125f",
+            "id": "61163009060e395d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/PN 접합 다이오드 (draw).md"
+                "file": "Excalidraw/다이오드 정류 곡선 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "PN 접합 다이오드 (draw)"
+              "title": "다이오드 정류 곡선 (draw)"
             }
           }
         ],
@@ -113,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/PN 접합 다이오드 (draw).md"
+                "file": "Excalidraw/다이오드 정류 곡선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "PN 접합 다이오드 (draw) 의 파일 속성"
+              "title": "다이오드 정류 곡선 (draw) 의 파일 속성"
             }
           },
           {
@@ -287,13 +287,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/PN 접합 다이오드 (draw).md",
+                "file": "Excalidraw/다이오드 정류 곡선 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PN 접합 다이오드 (draw) 의 개요"
+              "title": "다이오드 정류 곡선 (draw) 의 개요"
             }
           }
         ]
@@ -326,11 +326,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d2d88f4df5d125f",
+  "active": "61163009060e395d",
   "lastOpenFiles": [
-    "Excalidraw/PN 접합 다이오드 (draw).svg",
-    "04. Practice Notes/PN 접합 다이오드.md",
+    "Excalidraw/다이오드 정류 곡선 (draw).svg",
+    "Excalidraw/다이오드 정류 곡선 (draw).md",
     "Excalidraw/PN 접합 다이오드 (draw).md",
+    "04. Practice Notes/PN 접합 다이오드.md",
+    "Excalidraw/PN 접합 다이오드 (draw).svg",
     "02. MOC/전기 기기 MOC.md",
     "02. MOC/Home.md",
     "02. MOC/전자기학 MOC.md",
@@ -360,13 +362,11 @@
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
-    "templaters/Solution 템플릿.md",
     "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).svg",
     "Excalidraw/기동 보상 기법 (draw).svg",
     "Excalidraw/Y-delta 결선 (draw).svg",
     "attachments/screenshot/Pasted image 20250409225216.png",
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).svg",
-    "Excalidraw/비례 추이 (draw).svg",
     "08. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",

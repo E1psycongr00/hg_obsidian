@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "PN 접합 다이오드 (draw)",
-      "path": "Excalidraw/PN 접합 다이오드 (draw).md"
-    },
-    {
       "basename": "PN 접합 다이오드",
       "path": "04. Practice Notes/PN 접합 다이오드.md"
+    },
+    {
+      "basename": "다이오드 정류 곡선 (draw)",
+      "path": "Excalidraw/다이오드 정류 곡선 (draw).md"
+    },
+    {
+      "basename": "PN 접합 다이오드 (draw)",
+      "path": "Excalidraw/PN 접합 다이오드 (draw).md"
     },
     {
       "basename": "전기 기기 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "토크 곡선과 부하 토크 곡선 관계 (draw)",
       "path": "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md"
-    },
-    {
-      "basename": "비례 추이 (draw)",
-      "path": "Excalidraw/비례 추이 (draw).md"
     }
   ],
   "omittedPaths": [],
