@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/회전 변류기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기기기 MOC"
+              "title": "회전 변류기"
+            }
+          },
+          {
+            "id": "9c5c68bbb86c9d59",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/회전 변류기 원리 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "회전 변류기 원리 (draw)"
             }
           }
         ]
@@ -100,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md"
+                "file": "04. Practice Notes/회전 변류기.md"
               },
               "icon": "lucide-info",
-              "title": "전기기기 MOC 의 파일 속성"
+              "title": "회전 변류기 의 파일 속성"
             }
           },
           {
@@ -274,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기기기 MOC.md",
+                "file": "04. Practice Notes/회전 변류기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기기기 MOC 의 개요"
+              "title": "회전 변류기 의 개요"
             }
           }
         ]
@@ -314,6 +326,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/회전 변류기 원리 (draw).md",
+    "Excalidraw/회전 변류기 원리 (draw).svg",
+    "04. Practice Notes/회전 변류기.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
@@ -343,16 +358,12 @@
     "03. Permanent Notes/단권 변압기.md",
     "Excalidraw/Y-delta 결선 (draw).md",
     "Excalidraw/Y-delta 결선 (draw).svg",
-    "02. MOC/Home.md",
-    "06. Code Notes/Area/최대 출력 슬립 구하기_py (2025-04-09).md",
-    "04. Practice Notes/hello world_py (2025-04-10).md",
     "attachments/screenshot/Pasted image 20250409225216.png",
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).svg",
     "Excalidraw/비례 추이 (draw).svg",
     "Excalidraw/유도 전동기 1차측 환산 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).svg",
     "Excalidraw/유도 전동기의 출력 저항을 표현한 등가 회로 (draw).svg",
-    "Excalidraw/유도 전동기 등가 회로 (draw).svg",
     "08. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",

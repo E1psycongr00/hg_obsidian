@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "회전 변류기",
+      "path": "04. Practice Notes/회전 변류기.md"
+    },
+    {
+      "basename": "회전 변류기 원리 (draw)",
+      "path": "Excalidraw/회전 변류기 원리 (draw).md"
+    },
+    {
       "basename": "전기기기 MOC",
       "path": "02. MOC/전기기기 MOC.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "유도 전동기 등가 회로",
       "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
-    },
-    {
-      "basename": "최대 토크와 최대 출력 비교 (draw)",
-      "path": "Excalidraw/최대 토크와 최대 출력 비교 (draw).md"
-    },
-    {
-      "basename": "유도 전동기의 비례추이",
-      "path": "03. Permanent Notes/유도 전동기의 비례추이.md"
     }
   ],
   "omittedPaths": [],
