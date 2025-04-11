@@ -5,6 +5,22 @@
       "path": "02. MOC/전기 기기 MOC.md"
     },
     {
+      "basename": "3상 유도 전동기 원리",
+      "path": "03. Permanent Notes/3상 유도 전동기 원리.md"
+    },
+    {
+      "basename": "부하 토크 곡선",
+      "path": "03. Permanent Notes/부하 토크 곡선.md"
+    },
+    {
+      "basename": "유도 전동기 등가 회로",
+      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "TRIAC",
       "path": "03. Permanent Notes/TRIAC.md"
     },
@@ -45,10 +61,6 @@
       "path": "04. Practice Notes/PN 접합 다이오드.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "회전 변류기",
       "path": "03. Permanent Notes/회전 변류기.md"
-    },
-    {
-      "basename": "회전 변류기 원리 (draw)",
-      "path": "Excalidraw/회전 변류기 원리 (draw).md"
-    },
-    {
-      "basename": "권선형 유도 전동기",
-      "path": "04. Practice Notes/권선형 유도 전동기.md"
-    },
-    {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "07. Solution Notes/Area/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
     }
   ],
   "omittedPaths": [],
