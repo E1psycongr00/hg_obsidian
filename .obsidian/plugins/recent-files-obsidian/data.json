@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "수은 정류기의 역호 현상",
+      "path": "04. Practice Notes/수은 정류기의 역호 현상.md"
+    },
+    {
       "basename": "수은 정류기",
       "path": "04. Practice Notes/수은 정류기.md"
+    },
+    {
+      "basename": "전기기기 MOC",
+      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "회전 변류기 (draw)",
@@ -11,10 +19,6 @@
     {
       "basename": "수은 정류기 (draw)",
       "path": "Excalidraw/수은 정류기 (draw).md"
-    },
-    {
-      "basename": "전기기기 MOC",
-      "path": "02. MOC/전기기기 MOC.md"
     },
     {
       "basename": "회전 변류기",
@@ -95,10 +99,6 @@
     {
       "basename": "Y-delta 결선 (draw)",
       "path": "Excalidraw/Y-delta 결선 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     }
   ],
   "omittedPaths": [],
