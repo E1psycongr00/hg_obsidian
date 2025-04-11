@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/회전 변류기.md"
     },
     {
+      "basename": "회전 변류기 (draw)",
+      "path": "Excalidraw/회전 변류기 (draw).md"
+    },
+    {
       "basename": "회전 변류기 원리 (draw)",
       "path": "Excalidraw/회전 변류기 원리 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "유도 전동기 등가 회로",
-      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
     }
   ],
   "omittedPaths": [],
