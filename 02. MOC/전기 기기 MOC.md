@@ -197,8 +197,9 @@ cssclasses:
 	- [[수은 정류기]]
 	- [[수은 정류기의 역호 현상]]
 - 📖 **전력용 반도체 소자**
-	- 📖ON / OFF 분류
-		- ON,OFF 불가능: 다이오드
-		- ON 가능, OFF 불가능: SCR, TRIAC
-		- ON, OFF 가능: GTO, BJT, MOSFET, IGBT
-	- 방향성에 따라
+	- [[PN 접합 다이오드]]
+	- 트랜지스터
+	- 사이리스터
+	- TRIAC
+	- GTO
+	- IGBT

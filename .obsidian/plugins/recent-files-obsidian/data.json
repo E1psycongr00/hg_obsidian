@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "PN 접합 다이오드 (draw)",
+      "path": "Excalidraw/PN 접합 다이오드 (draw).md"
+    },
+    {
+      "basename": "PN 접합 다이오드",
+      "path": "04. Practice Notes/PN 접합 다이오드.md"
+    },
+    {
+      "basename": "전기 기기 MOC",
+      "path": "02. MOC/전기 기기 MOC.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "웹 인증 보안 MOC",
       "path": "02. MOC/웹 인증 보안 MOC.md"
-    },
-    {
-      "basename": "전기 기기 MOC",
-      "path": "02. MOC/전기 기기 MOC.md"
     },
     {
       "basename": "전기 기사 MOC",
@@ -91,14 +99,6 @@
     {
       "basename": "비례 추이 (draw)",
       "path": "Excalidraw/비례 추이 (draw).md"
-    },
-    {
-      "basename": "토크 특성 곡선 (draw)",
-      "path": "Excalidraw/토크 특성 곡선 (draw).md"
-    },
-    {
-      "basename": "부하 토크 곡선",
-      "path": "03. Permanent Notes/부하 토크 곡선.md"
     }
   ],
   "omittedPaths": [],

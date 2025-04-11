@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "04. Practice Notes/PN 접합 다이오드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "PN 접합 다이오드"
+            }
+          },
+          {
+            "id": "6d2d88f4df5d125f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/PN 접합 다이오드 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "PN 접합 다이오드 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "Excalidraw/PN 접합 다이오드 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "PN 접합 다이오드 (draw) 의 파일 속성"
             }
           },
           {
@@ -274,13 +287,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "Excalidraw/PN 접합 다이오드 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 의 개요"
+              "title": "PN 접합 다이오드 (draw) 의 개요"
             }
           }
         ]
@@ -313,14 +326,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6d2d88f4df5d125f",
   "lastOpenFiles": [
-    "02. MOC/전자기학 MOC.md",
+    "Excalidraw/PN 접합 다이오드 (draw).svg",
+    "04. Practice Notes/PN 접합 다이오드.md",
+    "Excalidraw/PN 접합 다이오드 (draw).md",
+    "02. MOC/전기 기기 MOC.md",
     "02. MOC/Home.md",
+    "02. MOC/전자기학 MOC.md",
     "02. MOC/전력 공학 MOC.md",
     "02. MOC/웹 기초 MOC.md",
     "02. MOC/웹 인증 보안 MOC.md",
-    "02. MOC/전기 기기 MOC.md",
     "02. MOC/전기 기사 MOC.md",
     "03. Permanent Notes/수은 정류기의 역호 현상.md",
     "03. Permanent Notes/수은 정류기.md",
@@ -345,10 +361,7 @@
     "07. Solution Notes/Area",
     "07. Solution Notes",
     "templaters/Solution 템플릿.md",
-    "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).md",
-    "Excalidraw/비례 추이 (draw).md",
     "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).svg",
-    "Excalidraw/토크 특성 곡선 (draw).md",
     "Excalidraw/기동 보상 기법 (draw).svg",
     "Excalidraw/Y-delta 결선 (draw).svg",
     "attachments/screenshot/Pasted image 20250409225216.png",
