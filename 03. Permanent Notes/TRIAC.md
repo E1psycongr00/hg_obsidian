@@ -6,14 +6,16 @@ aliases:
 created: 2025-04-11
 title: TRIAC
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
 
 ### 정의
 
-trielec
+![[TRIAC (draw).svg]]
+
+Tri-electronode AC로 양방향성 3단자 사이리스터이다. 양 방향을 모두 Gate 전류로 제어가 가능하며 AC기기에 널리 이용된다. 
 
 ## 질문 & 확장
 

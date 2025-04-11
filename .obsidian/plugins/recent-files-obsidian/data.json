@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "TRIAC",
-      "path": "04. Practice Notes/TRIAC.md"
-    },
-    {
       "basename": "전기 기기 MOC",
       "path": "02. MOC/전기 기기 MOC.md"
     },
     {
-      "basename": "GTO",
-      "path": "03. Permanent Notes/GTO.md"
+      "basename": "TRIAC",
+      "path": "03. Permanent Notes/TRIAC.md"
+    },
+    {
+      "basename": "TRIAC (draw)",
+      "path": "Excalidraw/TRIAC (draw).md"
     },
     {
       "basename": "다이오드 정류 곡선 (draw)",
       "path": "Excalidraw/다이오드 정류 곡선 (draw).md"
+    },
+    {
+      "basename": "GTO",
+      "path": "03. Permanent Notes/GTO.md"
     },
     {
       "basename": "SCR (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
       "path": "07. Solution Notes/Area/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     }
   ],
   "omittedPaths": [],
