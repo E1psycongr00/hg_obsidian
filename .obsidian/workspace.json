@@ -21,33 +21,8 @@
               "icon": "lucide-file",
               "title": "수은 정류기"
             }
-          },
-          {
-            "id": "cf7bb26ee689d253",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/회전 변류기 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "회전 변류기 (draw)"
-            }
-          },
-          {
-            "id": "9824a7c2d44296ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-11 16.27.30.excalidraw"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md"
+                "file": "04. Practice Notes/수은 정류기.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-04-11 16.27.30.excalidraw 의 파일 속성"
+              "title": "수은 정류기 의 파일 속성"
             }
           },
           {
@@ -298,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md",
+                "file": "04. Practice Notes/수은 정류기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-04-11 16.27.30.excalidraw 의 개요"
+              "title": "수은 정류기 의 개요"
             }
           }
         ]
@@ -337,11 +312,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9824a7c2d44296ed",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.svg",
-    "Excalidraw/Drawing 2025-04-11 16.27.30.excalidraw.md",
     "Excalidraw/회전 변류기 (draw).md",
+    "Excalidraw/수은 정류기 (draw).md",
+    "Excalidraw/수은 정류기 (draw).svg",
     "04. Practice Notes/수은 정류기.md",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/회전 변류기.md",
@@ -377,7 +352,6 @@
     "Excalidraw/최대 토크와 최대 출력 비교 (draw).svg",
     "Excalidraw/비례 추이 (draw).svg",
     "Excalidraw/유도 전동기 1차측 환산 등가 회로 (draw).svg",
-    "Excalidraw/유도 전동기 2차 입력 등가 회로 (draw).svg",
     "08. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",
