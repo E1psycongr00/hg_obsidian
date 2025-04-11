@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/사이리스터(SCR).md",
+                "file": "04. Practice Notes/GTO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "사이리스터(SCR)"
+              "title": "GTO"
             }
           },
           {
@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/사이리스터(SCR).md"
+                "file": "04. Practice Notes/GTO.md"
               },
               "icon": "lucide-info",
-              "title": "사이리스터(SCR) 의 파일 속성"
+              "title": "GTO 의 파일 속성"
             }
           },
           {
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/사이리스터(SCR).md",
+                "file": "04. Practice Notes/GTO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "사이리스터(SCR) 의 개요"
+              "title": "GTO 의 개요"
             }
           }
         ]
@@ -339,14 +339,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/전기 기기 MOC.md",
+    "04. Practice Notes/GTO.md",
+    "03. Permanent Notes/사이리스터(SCR).md",
     "Excalidraw/SCR (draw).md",
     "Excalidraw/SCR 정류 곡선 (draw).md",
     "Excalidraw/SCR 정류 곡선 (draw).svg",
     "Excalidraw/다이오드 정류 곡선 (draw).md",
-    "04. Practice Notes/사이리스터(SCR).md",
     "Excalidraw/SCR (draw).svg",
     "Excalidraw/PN 접합 다이오드 (draw).md",
-    "02. MOC/전기 기기 MOC.md",
     "04. Practice Notes/PN 접합 다이오드.md",
     "Excalidraw/다이오드 정류 곡선 (draw).svg",
     "Excalidraw/PN 접합 다이오드 (draw).svg",

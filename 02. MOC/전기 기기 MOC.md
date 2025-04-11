@@ -199,6 +199,7 @@ cssclasses:
 - 📖 **전력용 반도체 소자**
 	- [[PN 접합 다이오드]]
 	- [[사이리스터(SCR)]]
+	- [[GTO]]
 	- TRIAC
-	- GTO
+	
 	- IGBT

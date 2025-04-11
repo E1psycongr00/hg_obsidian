@@ -9,7 +9,7 @@ aliases:
 created: 2025-04-11
 title: 사이리스터(SCR)
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
