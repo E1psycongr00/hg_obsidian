@@ -33,18 +33,6 @@
               "icon": "excalidraw-icon",
               "title": "회전 변류기 (draw)"
             }
-          },
-          {
-            "id": "9c5c68bbb86c9d59",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/회전 변류기 원리 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "회전 변류기 원리 (draw)"
-            }
           }
         ]
       }
@@ -66,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "비례 추이",
+                "query": "난조",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -110,8 +98,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -340,9 +327,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Excalidraw/회전 변류기 (draw).md",
-    "Excalidraw/회전 변류기 (draw).svg",
-    "04. Practice Notes/회전 변류기.md",
     "Excalidraw/회전 변류기 원리 (draw).md",
+    "04. Practice Notes/회전 변류기.md",
+    "Excalidraw/회전 변류기 (draw).svg",
     "Excalidraw/회전 변류기 원리 (draw).svg",
     "02. MOC/전기기기 MOC.md",
     "03. Permanent Notes/유도 전동기의 비례추이.md",
