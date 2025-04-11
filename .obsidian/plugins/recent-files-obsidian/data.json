@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "GTO",
-      "path": "04. Practice Notes/GTO.md"
-    },
-    {
       "basename": "전기 기기 MOC",
       "path": "02. MOC/전기 기기 MOC.md"
     },
     {
-      "basename": "사이리스터(SCR)",
-      "path": "03. Permanent Notes/사이리스터(SCR).md"
+      "basename": "GTO",
+      "path": "03. Permanent Notes/GTO.md"
+    },
+    {
+      "basename": "다이오드 정류 곡선 (draw)",
+      "path": "Excalidraw/다이오드 정류 곡선 (draw).md"
     },
     {
       "basename": "SCR (draw)",
       "path": "Excalidraw/SCR (draw).md"
     },
     {
-      "basename": "SCR 정류 곡선 (draw)",
-      "path": "Excalidraw/SCR 정류 곡선 (draw).md"
+      "basename": "GTO (draw)",
+      "path": "Excalidraw/GTO (draw).md"
     },
     {
-      "basename": "다이오드 정류 곡선 (draw)",
-      "path": "Excalidraw/다이오드 정류 곡선 (draw).md"
+      "basename": "사이리스터(SCR)",
+      "path": "03. Permanent Notes/사이리스터(SCR).md"
+    },
+    {
+      "basename": "SCR 정류 곡선 (draw)",
+      "path": "Excalidraw/SCR 정류 곡선 (draw).md"
     },
     {
       "basename": "PN 접합 다이오드 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
     }
   ],
   "omittedPaths": [],

@@ -13,37 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/GTO.md",
+                "file": "02. MOC/전기 기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GTO"
-            }
-          },
-          {
-            "id": "83cfddac9be51cad",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/다이오드 정류 곡선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "다이오드 정류 곡선 (draw)"
-            }
-          },
-          {
-            "id": "6c68d8ddc7d9c0ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SCR 정류 곡선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "SCR 정류 곡선 (draw)"
+              "title": "전기 기기 MOC"
             }
           }
         ]
@@ -124,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/GTO.md"
+                "file": "02. MOC/전기 기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "GTO 의 파일 속성"
+              "title": "전기 기기 MOC 의 파일 속성"
             }
           },
           {
@@ -298,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/GTO.md",
+                "file": "02. MOC/전기 기기 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GTO 의 개요"
+              "title": "전기 기기 MOC 의 개요"
             }
           }
         ]
@@ -339,13 +315,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/전기 기기 MOC.md",
-    "04. Practice Notes/GTO.md",
-    "03. Permanent Notes/사이리스터(SCR).md",
-    "Excalidraw/SCR (draw).md",
-    "Excalidraw/SCR 정류 곡선 (draw).md",
-    "Excalidraw/SCR 정류 곡선 (draw).svg",
+    "03. Permanent Notes/GTO.md",
     "Excalidraw/다이오드 정류 곡선 (draw).md",
+    "Excalidraw/SCR (draw).md",
+    "Excalidraw/GTO (draw).md",
+    "Excalidraw/GTO (draw).svg",
+    "03. Permanent Notes/사이리스터(SCR).md",
+    "Excalidraw/SCR 정류 곡선 (draw).md",
+    "02. MOC/전기 기기 MOC.md",
+    "Excalidraw/SCR 정류 곡선 (draw).svg",
     "Excalidraw/SCR (draw).svg",
     "Excalidraw/PN 접합 다이오드 (draw).md",
     "04. Practice Notes/PN 접합 다이오드.md",
@@ -371,13 +349,10 @@
     "04. Practice Notes/유도 전동기 2차 저항 제어.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "07. Solution Notes/Area/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
-    "01. Guides/Note Guides.md",
-    "templaters/commander/MoveFileByFrontMatter.md",
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
     "Excalidraw/토크 곡선과 부하 토크 곡선 관계 (draw).svg",
-    "Excalidraw/기동 보상 기법 (draw).svg",
     "08. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",
