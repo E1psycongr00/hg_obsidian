@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "전기 기기 MOC",

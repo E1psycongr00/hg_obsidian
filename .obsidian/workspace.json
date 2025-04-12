@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Guides/Note Guides.md",
+                "file": "02. MOC/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Note Guides"
+              "title": "Home"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01. Guides/Note Guides.md"
+                "file": "02. MOC/Home.md"
               },
               "icon": "lucide-info",
-              "title": "Note Guides 의 파일 속성"
+              "title": "Home 의 파일 속성"
             }
           },
           {
@@ -345,10 +345,10 @@
   },
   "active": "3d7e247749bedb17",
   "lastOpenFiles": [
+    "01. Guides/Note Guides.md",
     "06. Reference Notes/Book/📚 ㅁㄴㅇㄹ.md",
     "06. Reference Notes/Book",
     "06. Reference Notes",
-    "01. Guides/Note Guides.md",
     "templaters/Reference 템플릿.md",
     "templaters/Code 템플릿.md",
     "templaters/Solution 템플릿.md",
