@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Guides/Note Guides.md",
-                "mode": "preview",
+                "file": "templaters/MOC 템플릿.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Note Guides"
+              "title": "MOC 템플릿"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01. Guides/Note Guides.md"
+                "file": "templaters/MOC 템플릿.md"
               },
               "icon": "lucide-info",
-              "title": "Note Guides 의 파일 속성"
+              "title": "MOC 템플릿 의 파일 속성"
             }
           },
           {
@@ -345,6 +345,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "templaters/Common 템플릿.md",
     "01. Guides/Note Guides.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Folder Guides.md",
@@ -376,7 +377,6 @@
     "02. MOC/웹 인증 보안 MOC.md",
     "02. MOC/전기 기사 MOC.md",
     "03. Permanent Notes/수은 정류기의 역호 현상.md",
-    "03. Permanent Notes/수은 정류기.md",
     "attachments/screenshot/Pasted image 20250411175559.png",
     "Excalidraw/수은 정류기 (draw).svg",
     "Excalidraw/회전 변류기 (draw).svg",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "전기 기사 MOC",
       "path": "02. MOC/전기 기사 MOC.md"
-    },
-    {
-      "basename": "수은 정류기의 역호 현상",
-      "path": "03. Permanent Notes/수은 정류기의 역호 현상.md"
-    },
-    {
-      "basename": "수은 정류기",
-      "path": "03. Permanent Notes/수은 정류기.md"
     }
   ],
   "omittedPaths": [],
