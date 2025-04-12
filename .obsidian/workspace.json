@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기 기기 MOC.md",
-                "mode": "preview",
+                "file": "01. Guides/Note Guides.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전기 기기 MOC"
+              "title": "Note Guides"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기 기기 MOC.md"
+                "file": "01. Guides/Note Guides.md"
               },
               "icon": "lucide-info",
-              "title": "전기 기기 MOC 의 파일 속성"
+              "title": "Note Guides 의 파일 속성"
             }
           },
           {
@@ -264,6 +264,16 @@
             "id": "d0950f6b6e46c7d7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "0425803e8f088ef7",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -271,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "7d466e57ea240c21",
@@ -325,12 +335,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/3상 유도 전동기 원리.md",
+    "01. Guides/MOC Guides.md",
+    "01. Guides/Folder Guides.md",
+    "02. MOC/Home.md",
     "02. MOC/전기 기기 MOC.md",
+    "03. Permanent Notes/3상 유도 전동기 원리.md",
     "03. Permanent Notes/부하 토크 곡선.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
     "03. Permanent Notes/동기 와트.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/TRIAC.md",
     "Excalidraw/TRIAC (draw).md",
     "Excalidraw/다이오드 정류 곡선 (draw).md",
@@ -356,9 +368,7 @@
     "03. Permanent Notes/수은 정류기.md",
     "attachments/screenshot/Pasted image 20250411175559.png",
     "Excalidraw/회전 변류기 (draw).md",
-    "Excalidraw/수은 정류기 (draw).md",
     "Excalidraw/수은 정류기 (draw).svg",
-    "03. Permanent Notes/회전 변류기.md",
     "Excalidraw/회전 변류기 (draw).svg",
     "Excalidraw/회전 변류기 원리 (draw).svg",
     "07. Solution Notes/Archive",

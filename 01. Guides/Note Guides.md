@@ -418,7 +418,7 @@ from: Paper
     - 주석: "간단한 합계 함수."
     - 결과: "calculate_sum(3, 4) → 7."
 - **가이드**: 프로젝트 노트와 달리, 특정 기능 구현이나 코드 학습에 초점. 가독성을 위해 주석 필수.
-- **제목 형식:** `제목_{언어} (날짜)`
+- **제목 형식:** `💻 제목_{언어} (날짜)`
 
 #### 템플릿
 
@@ -427,7 +427,7 @@ from: Paper
 tags:
 aliases: 
 created: 2025-04-06
-title: 제목
+title: 💻 제목
 note-type: CODE
 language: py
 completed: false
@@ -450,7 +450,7 @@ archive: false
 tags:
 aliases: 
 created: 2025-04-10
-title: hello world_py (2025-04-10)
+title: 💻 hello world_py (2025-04-10)
 note-type: CODE
 language: py
 completed: false
