@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01. Guides/Note Guides.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -274,6 +274,16 @@
             "id": "0425803e8f088ef7",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "c6edab8bd40026f3",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -281,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "7d466e57ea240c21",
@@ -335,6 +345,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01. Guides/Note Guides.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Folder Guides.md",
     "02. MOC/Home.md",
@@ -367,7 +378,6 @@
     "03. Permanent Notes/수은 정류기의 역호 현상.md",
     "03. Permanent Notes/수은 정류기.md",
     "attachments/screenshot/Pasted image 20250411175559.png",
-    "Excalidraw/회전 변류기 (draw).md",
     "Excalidraw/수은 정류기 (draw).svg",
     "Excalidraw/회전 변류기 (draw).svg",
     "Excalidraw/회전 변류기 원리 (draw).svg",
