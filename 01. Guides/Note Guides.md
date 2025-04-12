@@ -276,7 +276,7 @@ title: [프로젝트 이름]
 tags:
 aliases:
 created:YYYY-MM-DD
-title: 참고 자료 제목
+title: 📚 참고 자료 제목
 note-type: REF
 from:
 ---
@@ -300,7 +300,7 @@ from:
 tags:
 aliases: 
 created: 2025-04-06
-title: AI Ethics Explained (TED Talks)
+title: 📚 AI Ethics Explained (TED Talks)
 note-type: REFERENCE
 type: Video
 ---
@@ -322,7 +322,7 @@ type: Video
 tags:
 aliases: 
 created: 2025-04-06
-title: Machine Learning Basics (Coursera - Andrew Ng)
+title: 📚 Machine Learning Basics (Coursera - Andrew Ng)
 note-type: REFERENCE
 from: Lecture
 ---
@@ -344,7 +344,7 @@ from: Lecture
 tags:
 aliases: 
 created: 2025-04-12
-title: 아토믹 해비츠 - 제1장 요약
+title: 📚 아토믹 해비츠 - 제1장 요약
 note-type: REFERENCE
 from: Book
 ---
@@ -379,7 +379,7 @@ from: Book
 tags:
 aliases: 
 created: 2025-04-06
-title: Git Best Practices (Medium - John Doe)
+title: 📚 Git Best Practices (Medium - John Doe)
 note-type: REFERENCE
 from: Blog
 ---
@@ -402,7 +402,7 @@ tags: [reference]
 aliases: 
 created: icycles: 
 created: 2025-04-06
-title: Attention Is All You Need (Vaswani et al., 2017)
+title: 📚 Attention Is All You Need (Vaswani et al., 2017)
 note-type: REFERENCE
 from: Paper
 ---
