@@ -301,7 +301,7 @@ tags:
 aliases: 
 created: 2025-04-06
 title: 📚 AI Ethics Explained (TED Talks)
-note-type: REFERENCE
+note-type: REF
 type: Video
 ---
 
@@ -323,7 +323,7 @@ tags:
 aliases: 
 created: 2025-04-06
 title: 📚 Machine Learning Basics (Coursera - Andrew Ng)
-note-type: REFERENCE
+note-type: REF
 from: Lecture
 ---
 
@@ -345,7 +345,7 @@ tags:
 aliases: 
 created: 2025-04-12
 title: 📚 아토믹 해비츠 - 제1장 요약
-note-type: REFERENCE
+note-type: REF
 from: Book
 ---
 
@@ -380,7 +380,7 @@ tags:
 aliases: 
 created: 2025-04-06
 title: 📚 Git Best Practices (Medium - John Doe)
-note-type: REFERENCE
+note-type: REF
 from: Blog
 ---
 
@@ -400,10 +400,9 @@ from: Blog
 ---
 tags: [reference]
 aliases: 
-created: icycles: 
 created: 2025-04-06
 title: 📚 Attention Is All You Need (Vaswani et al., 2017)
-note-type: REFERENCE
+note-type: REF
 from: Paper
 ---
 

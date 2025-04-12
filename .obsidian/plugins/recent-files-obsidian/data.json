@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "📚 ㅁㄴㅇㄹ",
+      "path": "06. Reference Notes/Book/📚 ㅁㄴㅇㄹ.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전자기학 MOC",
       "path": "02. MOC/전자기학 MOC.md"
-    },
-    {
-      "basename": "전력 공학 MOC",
-      "path": "02. MOC/전력 공학 MOC.md"
     }
   ],
   "omittedPaths": [],
