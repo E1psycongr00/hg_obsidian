@@ -4,25 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "bf32edb66a48b2d9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7e247749bedb17",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "01. Guides/Note Guides.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Note Guides"
+            }
+          },
+          {
+            "id": "87860383358ee371",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+                "page": 29,
+                "left": 28,
+                "top": 574,
+                "zoom": 1.9791666666666667
+              },
+              "icon": "lucide-file-text",
+              "title": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018"
+            }
+          },
+          {
+            "id": "621e35742623520f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "📚 프로그래밍 패러다임 (오브젝트 - 조용호)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,10 +132,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호).md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "📚 프로그래밍 패러다임 (오브젝트 - 조용호) 의 파일 속성"
             }
           },
           {
@@ -284,6 +316,16 @@
             "id": "c6edab8bd40026f3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "c50f99db3fc0783f",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -291,7 +333,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "7d466e57ea240c21",
@@ -343,9 +385,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3d7e247749bedb17",
+  "active": "621e35742623520f",
   "lastOpenFiles": [
+    "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
+    "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호).md",
     "01. Guides/Note Guides.md",
+    "01. Guides/Folder Guides.md",
+    "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 ㅁㄴㅇㄹ.md",
     "06. Reference Notes/Book",
     "06. Reference Notes",
@@ -355,8 +401,6 @@
     "templaters/MOC 템플릿.md",
     "templaters/Common 템플릿.md",
     "01. Guides/MOC Guides.md",
-    "01. Guides/Folder Guides.md",
-    "02. MOC/Home.md",
     "02. MOC/전기 기기 MOC.md",
     "03. Permanent Notes/3상 유도 전동기 원리.md",
     "03. Permanent Notes/부하 토크 곡선.md",
@@ -375,7 +419,6 @@
     "Excalidraw/SCR 정류 곡선 (draw).svg",
     "Excalidraw/SCR (draw).svg",
     "Excalidraw/PN 접합 다이오드 (draw).md",
-    "04. Practice Notes/PN 접합 다이오드.md",
     "Excalidraw/다이오드 정류 곡선 (draw).svg",
     "Excalidraw/PN 접합 다이오드 (draw).svg",
     "attachments/screenshot/Pasted image 20250411175559.png",
@@ -389,7 +432,6 @@
     "06. Code Notes/Archive",
     "06. Code Notes/Area",
     "06. Code Notes",
-    "05. Reference Notes/undefined",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",

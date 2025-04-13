@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호)",
+      "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호).md"
+    },
+    {
+      "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
+      "path": "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
     },
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Reference 템플릿",
@@ -31,10 +43,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
     },
     {
       "basename": "전기 기기 MOC",
@@ -91,10 +99,6 @@
     {
       "basename": "PN 접합 다이오드",
       "path": "04. Practice Notes/PN 접합 다이오드.md"
-    },
-    {
-      "basename": "전자기학 MOC",
-      "path": "02. MOC/전자기학 MOC.md"
     }
   ],
   "omittedPaths": [],
