@@ -35,5 +35,6 @@
   "obsidian-linter",
   "homepage",
   "cmdr",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "callout-manager"
 ]
