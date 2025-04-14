@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
       "basename": "전기 기기 MOC",
       "path": "02. MOC/전기 기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "PN 접합 다이오드 (draw)",
       "path": "Excalidraw/PN 접합 다이오드 (draw).md"
-    },
-    {
-      "basename": "PN 접합 다이오드",
-      "path": "04. Practice Notes/PN 접합 다이오드.md"
     }
   ],
   "omittedPaths": [],
