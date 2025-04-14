@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전기 기기 MOC",
+      "path": "02. MOC/전기 기기 MOC.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "전기 기기 MOC",
-      "path": "02. MOC/전기 기기 MOC.md"
     },
     {
       "basename": "3상 유도 전동기 원리",
