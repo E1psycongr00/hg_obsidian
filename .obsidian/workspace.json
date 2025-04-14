@@ -340,20 +340,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "📚 객체, 설계 (오브젝트 - 조용호) 의 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 497.5,
-    "collapsed": true
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
