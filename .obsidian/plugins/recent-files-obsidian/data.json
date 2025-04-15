@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
+      "path": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
+    },
+    {
       "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
       "path": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Spring Modulith",
       "path": "04. Practice Notes/Spring Modulith.md"
-    },
-    {
-      "basename": "Tag Guides",
-      "path": "01. Guides/Tag Guides.md"
     }
   ],
   "omittedPaths": [],
