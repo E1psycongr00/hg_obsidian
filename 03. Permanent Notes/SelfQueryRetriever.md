@@ -7,7 +7,7 @@ tags:
 aliases:
   - 셀프 쿼리 검색기
 title: SelfQueryRetriever
-created: 2027-09-27T00:00:00.000Z
+created: 2024-09-27
 note-type: COMMON
 completed: true
 ---
