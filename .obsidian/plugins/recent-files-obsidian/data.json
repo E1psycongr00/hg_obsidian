@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "04. Practice Notes/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "04. Practice Notes/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "변압기 Y-Y 결선",
+      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
+    },
+    {
+      "basename": "PN 접합 다이오드",
+      "path": "04. Practice Notes/PN 접합 다이오드.md"
+    },
+    {
+      "basename": "OpenAI 프롬프팅 엔지니어링 기법",
+      "path": "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md"
+    },
+    {
+      "basename": "Meta Learning",
+      "path": "04. Practice Notes/Meta Learning.md"
+    },
+    {
+      "basename": "JacksonModule & Std(De)Serializer",
+      "path": "04. Practice Notes/JacksonModule & Std(De)Serializer.md"
+    },
+    {
+      "basename": "잔류 자기와 자여자 발전 관계",
+      "path": "03. Permanent Notes/잔류 자기와 자여자 발전 관계.md"
+    },
+    {
+      "basename": "유도 전동기와 토크 특성",
+      "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
+    },
+    {
+      "basename": "유도 전동기 2차 저항 제어",
+      "path": "03. Permanent Notes/유도 전동기 2차 저항 제어.md"
+    },
+    {
+      "basename": "동기 발전기",
+      "path": "04. Practice Notes/동기 발전기.md"
     },
     {
       "basename": "권선형 유도 전동기",
       "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "단권 변압기 Y결선",
+      "path": "04. Practice Notes/단권 변압기 Y결선.md"
+    },
+    {
+      "basename": "정류",
+      "path": "03. Permanent Notes/정류.md"
+    },
+    {
+      "basename": "Spring Modulith",
+      "path": "04. Practice Notes/Spring Modulith.md"
+    },
+    {
+      "basename": "Spring State Machine",
+      "path": "04. Practice Notes/Spring State Machine.md"
+    },
+    {
+      "basename": "Spring Transaction",
+      "path": "04. Practice Notes/Spring Transaction.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Tag Guides",
@@ -35,70 +99,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "Abraham-Silberschatz-Operating-System-Concepts-10th-2018",
-      "path": "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "Reference 템플릿",
-      "path": "templaters/Reference 템플릿.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "MOC 템플릿",
-      "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "3상 유도 전동기 원리",
-      "path": "03. Permanent Notes/3상 유도 전동기 원리.md"
-    },
-    {
-      "basename": "부하 토크 곡선",
-      "path": "03. Permanent Notes/부하 토크 곡선.md"
-    },
-    {
-      "basename": "유도 전동기 등가 회로",
-      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
-    },
-    {
-      "basename": "TRIAC",
-      "path": "03. Permanent Notes/TRIAC.md"
-    },
-    {
-      "basename": "TRIAC (draw)",
-      "path": "Excalidraw/TRIAC (draw).md"
-    },
-    {
-      "basename": "다이오드 정류 곡선 (draw)",
-      "path": "Excalidraw/다이오드 정류 곡선 (draw).md"
-    },
-    {
-      "basename": "GTO",
-      "path": "03. Permanent Notes/GTO.md"
-    },
-    {
-      "basename": "SCR (draw)",
-      "path": "Excalidraw/SCR (draw).md"
     }
   ],
   "omittedPaths": [],

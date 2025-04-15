@@ -3,8 +3,10 @@ tags:
   - 미완
   - 프롬프트엔지니어링
 aliases: 
-created: 
+created: 2025-04-15
 title: OpenAI 프롬프팅 엔지니어링 기법
+note-type: COMMON
+completed: false
 ---
 
 ---
