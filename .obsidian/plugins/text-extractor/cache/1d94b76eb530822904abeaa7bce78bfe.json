@@ -1,0 +1,1 @@
+{"path":"attachments/screenshot/Pasted image 20250415181728.png","text":"[ X N ] 12 public long hold(Ticket ticket) { 13 if (hasInvitation()) { 14 Hdpld Cdguld 9N 15 return OL; 16 } 17 setTicket(ticket); 18 minusAmount (ticket.fee()); 19 return ticket.fee(); 20 } 21","libVersion":"0.3.2","langs":"eng+kor"}
