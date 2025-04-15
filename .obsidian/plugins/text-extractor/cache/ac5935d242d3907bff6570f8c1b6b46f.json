@@ -1,0 +1,1 @@
+{"path":"attachments/screenshot/Pasted image 20250415182000.png","text":"[ X N ] 3 public 61355 Audience { 4 private Bag bag; 5 3 public Audience(Bag bag) { 7 다 15.038 = 8638; 8 } ) 10 public long buy(Ticket ticket) { 11 return bag.hold(ticket); 12 } 13 }","libVersion":"0.3.2","langs":"eng+kor"}
