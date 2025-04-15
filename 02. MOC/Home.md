@@ -37,7 +37,8 @@ const chartData = {
             borderColor: 'rgba(54, 162, 235, 1)',
             borderWidth: 1,
             fill: false,
-       
+
+window.renderChart(chartData, this.container);
 ```
 
 
