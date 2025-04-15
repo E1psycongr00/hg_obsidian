@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 1.md",
+                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제 1"
+              "title": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)"
             }
           }
         ],
@@ -116,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 1.md"
+                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
               },
               "icon": "lucide-info",
-              "title": "무제 1 의 파일 속성"
+              "title": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15) 의 파일 속성"
             }
           },
           {
@@ -340,13 +340,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 1.md",
+                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 1 의 개요"
+              "title": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15) 의 개요"
             }
           }
         ]
@@ -381,8 +381,10 @@
   },
   "active": "8d9414c4a7b93351",
   "lastOpenFiles": [
+    "01. Guides/Note Guides.md",
+    "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
+    "templaters/Code 템플릿.md",
     "02. MOC/전기 기사 MOC.md",
-    "무제 1.md",
     "02. MOC/전기 기기 MOC.md",
     "02. MOC/전력 공학 MOC.md",
     "02. MOC/Home.md",
@@ -405,8 +407,6 @@
     "04. Practice Notes/Chain of Thought는 모든 유형에 효과적인가.md",
     "04. Practice Notes/chain of Thought.md",
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
-    "04. Practice Notes/응집도 높은 모듈 설계 방법론.md",
-    "04. Practice Notes/동기 발전기.md",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "06. Reference Notes/Book",
     "06. Reference Notes",

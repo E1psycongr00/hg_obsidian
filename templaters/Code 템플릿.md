@@ -14,7 +14,7 @@
   const originalTitle = tp.file.title;
   
   // 새로운 제목 생성 (기존 제목 + 날짜)
-  const newTitle = `${originalTitle}_${selectedLanguage} (${date})`;
+  const newTitle = `⌨️ ${originalTitle}_${selectedLanguage} (${date})`;
   
   // frontmatter에 title 업데이트
   tR += `---

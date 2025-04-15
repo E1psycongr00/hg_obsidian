@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 1",
-      "path": "무제 1.md"
+      "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
+      "path": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
     },
     {
       "basename": "전기 기사 MOC",
@@ -91,14 +99,6 @@
     {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
-    },
-    {
-      "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
-      "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
     }
   ],
   "omittedPaths": [],
