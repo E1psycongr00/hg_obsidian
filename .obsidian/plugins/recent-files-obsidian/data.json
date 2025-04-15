@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
       "basename": "전기 기사 MOC",
       "path": "02. MOC/전기 기사 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
       "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     }
   ],
   "omittedPaths": [],

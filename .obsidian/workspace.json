@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "전기 기사 MOC"
             }
+          },
+          {
+            "id": "8d9414c4a7b93351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/전기 기사 MOC.md"
+                "file": "무제 1.md"
               },
               "icon": "lucide-info",
-              "title": "전기 기사 MOC 의 파일 속성"
+              "title": "무제 1 의 파일 속성"
             }
           },
           {
@@ -324,13 +340,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/전기 기사 MOC.md",
+                "file": "무제 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전기 기사 MOC 의 개요"
+              "title": "무제 1 의 개요"
             }
           }
         ]
@@ -363,10 +379,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "3273ad22ecb322b7",
+  "active": "8d9414c4a7b93351",
   "lastOpenFiles": [
-    "02. MOC/전기 기기 MOC.md",
     "02. MOC/전기 기사 MOC.md",
+    "무제 1.md",
+    "02. MOC/전기 기기 MOC.md",
     "02. MOC/전력 공학 MOC.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/SelfQueryRetriever.md",
@@ -390,7 +407,6 @@
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "04. Practice Notes/응집도 높은 모듈 설계 방법론.md",
     "04. Practice Notes/동기 발전기.md",
-    "04. Practice Notes/권선형 유도 전동기.md",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "06. Reference Notes/Book",
     "06. Reference Notes",
