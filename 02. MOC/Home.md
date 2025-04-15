@@ -10,6 +10,11 @@ cssclasses:
 
 ## 노트 리스트
 
+- 📖 **작성 현황**
+```charts
+
+```
+
 - 📖 **작성 노트 갯수**
 ```dataview
 TABLE length(rows) AS "총 갯수"
