@@ -1,14 +1,3 @@
----
-tags:
-aliases: 
-created: <% tp.date.now("YYYY-MM-DD") %>
-title: <% 🏛️ tp.file.title %>
-note-type: MOC
-cssclasses:
-  - dashboard
----
-
-
 <%*
   // 현재 날짜를 YYYY-MM-DD 형식으로 가져오기
   const date = tp.date.now("YYYY-MM-DD");

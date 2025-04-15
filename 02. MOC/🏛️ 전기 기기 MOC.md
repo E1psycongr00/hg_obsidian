@@ -5,7 +5,7 @@ tags:
   - 전기
 aliases: 
 created: 2025-03-23
-title: 전기 기기 MOC
+title: 🏛️ 전기 기기 MOC
 note-type: MOC
 cssclasses:
   - dashboard

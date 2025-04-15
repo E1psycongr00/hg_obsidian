@@ -4,7 +4,7 @@ tags:
   - 보안
 aliases: 
 created: 2025-03-24
-title: 웹 인증 보안 MOC
+title: 🏛️ 웹 인증 보안 MOC
 note-type: MOC
 cssclasses:
   - dashboard

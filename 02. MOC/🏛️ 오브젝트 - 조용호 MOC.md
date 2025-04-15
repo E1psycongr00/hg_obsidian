@@ -3,7 +3,7 @@ tags:
   - 객체지향
 aliases: 
 created: 2025-04-15
-title: 오브젝트 - 조용호 MOC
+title: 🏛️ 오브젝트 - 조용호 MOC
 note-type: MOC
 cssclasses:
   - dashboard

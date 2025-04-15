@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "📚 객체지향 프로그래밍 (오브젝트 - 조용호)",
+      "path": "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md"
+    },
+    {
+      "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
+      "path": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
+    },
+    {
+      "basename": "🏛️ 오브젝트 - 조용호 MOC",
+      "path": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학 MOC",
+      "path": "02. MOC/🏛️ 전력 공학 MOC.md"
+    },
+    {
+      "basename": "Review 템플릿",
+      "path": "templaters/Review 템플릿.md"
+    },
+    {
+      "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
+      "path": "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+    },
+    {
+      "basename": "🏛️ 웹 인증 보안 MOC",
+      "path": "02. MOC/🏛️ 웹 인증 보안 MOC.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사 MOC",
+      "path": "02. MOC/🏛️ 전기 기사 MOC.md"
+    },
+    {
+      "basename": "🏛️ 전기 기기 MOC",
+      "path": "02. MOC/🏛️ 전기 기기 MOC.md"
+    },
+    {
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
+    },
+    {
+      "basename": "벡엔드 엔지니어링 MOC",
+      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
+    },
+    {
+      "basename": "🏛️ 전자기학 MOC",
+      "path": "02. MOC/🏛️ 전자기학 MOC.md"
+    },
+    {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
     },
     {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
-    },
-    {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
     },
     {
       "basename": "MOC Guides",
@@ -21,32 +69,12 @@
       "path": "01. Guides/Note Guides.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "오브젝트 - 조용호 MOC",
-      "path": "02. MOC/오브젝트 - 조용호 MOC.md"
-    },
-    {
-      "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
-      "path": "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
-    },
-    {
       "basename": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)",
       "path": "06. Code Notes/Area/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
     },
     {
-      "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
-    },
-    {
       "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
       "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
-    },
-    {
-      "basename": "벡엔드 엔지니어링 MOC",
-      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
     },
     {
       "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
@@ -55,10 +83,6 @@
     {
       "basename": "무제 1",
       "path": "무제 1.canvas"
-    },
-    {
-      "basename": "전기 기사 MOC",
-      "path": "02. MOC/전기 기사 MOC.md"
     },
     {
       "basename": "무제",
@@ -75,30 +99,6 @@
     {
       "basename": "Spring Transaction",
       "path": "04. Practice Notes/Spring Transaction.md"
-    },
-    {
-      "basename": "Spring State Machine",
-      "path": "04. Practice Notes/Spring State Machine.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "04. Practice Notes/Flyway 사용하기 with Gradle.md"
-    },
-    {
-      "basename": "프롬프트 엔지니어링",
-      "path": "04. Practice Notes/프롬프트 엔지니어링.md"
-    },
-    {
-      "basename": "변압기 Y-Y 결선",
-      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
-    },
-    {
-      "basename": "PN 접합 다이오드",
-      "path": "04. Practice Notes/PN 접합 다이오드.md"
-    },
-    {
-      "basename": "OpenAI 프롬프팅 엔지니어링 기법",
-      "path": "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md"
     }
   ],
   "omittedPaths": [],
