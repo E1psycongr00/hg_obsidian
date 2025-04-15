@@ -10,37 +10,6 @@ cssclasses:
 
 ## 노트 리스트
 
-- 📖 **작성 현황**
-```dataviewjs
-// 데이터 수집: completed = true인 파일을 created 날짜 기준으로 주 단위 그룹화
-const pages = dv.pages("")
-  .where(p => p.completed === true && p.created != null);
-
-// 주 단위로 그룹화 (yyyy-WW 포맷)
-const grouped = pages
-  .groupBy(p => dv.date(p.created).toFormat("yyyy-WW"))
-  .sort(g => g.key, "asc");
-
-// 라벨 (날짜: yyyy-WW)과 데이터 (완료된 파일 수) 준비
-const weekLabels = grouped.map(g => g.key).values;
-const noteCounts = grouped.map(g => g.rows.length).values;
-
-// 차트 데이터 구성
-const chartData = {
-    type: 'line',
-    data: {
-        labels: weekLabels,
-        datasets: [{
-            label: '완료된 노트 수',
-            data: noteCounts,
-            backgroundColor: 'rgba(54, 162, 235, 0.2)',
-            borderColor: 'rgba(54, 162, 235, 1)',
-            borderWidth: 1,
-            fill: false,
-
-window.renderChart(chartData, this.container);
-```
-
 
 - 📖 **작성 노트 갯수**
 ```dataview
