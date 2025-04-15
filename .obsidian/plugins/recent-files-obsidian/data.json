@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)",
+      "path": "04. Practice Notes/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+    },
+    {
       "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
-      "path": "06. Code Notes/Area/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+      "path": "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
     },
     {
       "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
@@ -95,10 +99,6 @@
     {
       "basename": "단권 변압기 Y결선",
       "path": "04. Practice Notes/단권 변압기 Y결선.md"
-    },
-    {
-      "basename": "정류",
-      "path": "03. Permanent Notes/정류.md"
     }
   ],
   "omittedPaths": [],
