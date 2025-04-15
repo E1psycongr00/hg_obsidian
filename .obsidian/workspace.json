@@ -23,52 +23,52 @@
             }
           },
           {
-            "id": "369f0e203a89eb45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06. Code Notes/Area/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)"
-            }
-          },
-          {
             "id": "0f50049b378cbf5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/오브젝트 - 조용호 MOC.md",
+                "file": "templaters/MOC 템플릿.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "오브젝트 - 조용호 MOC"
+              "title": "MOC 템플릿"
             }
           },
           {
-            "id": "ad84e4964f9828a2",
+            "id": "ee6fa84299b04863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
-                "mode": "preview",
+                "file": "templaters/Reference 템플릿.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📚 객체, 설계 (오브젝트 - 조용호)"
+              "title": "Reference 템플릿"
+            }
+          },
+          {
+            "id": "c6fd6d6acf3fd6c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templaters/Review 템플릿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Review 템플릿"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/오브젝트 - 조용호 MOC.md"
+                "file": "templaters/MOC 템플릿.md"
               },
               "icon": "lucide-info",
-              "title": "오브젝트 - 조용호 MOC 의 파일 속성"
+              "title": "MOC 템플릿 의 파일 속성"
             }
           },
           {
@@ -370,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/오브젝트 - 조용호 MOC.md",
+                "file": "templaters/MOC 템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "오브젝트 - 조용호 MOC 의 개요"
+              "title": "MOC 템플릿 의 개요"
             }
           }
         ]
@@ -412,24 +412,28 @@
   },
   "active": "0f50049b378cbf5c",
   "lastOpenFiles": [
-    "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
+    "templaters/Reference 템플릿.md",
+    "templaters/Review 템플릿.md",
+    "templaters/MOC 템플릿.md",
+    "templaters/Code 템플릿.md",
+    "01. Guides/MOC Guides.md",
+    "01. Guides/Note Guides.md",
+    "02. MOC/Home.md",
     "02. MOC/오브젝트 - 조용호 MOC.md",
-    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
-    "02. MOC/벡엔드 엔지니어링 MOC.md",
+    "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Code Notes/Area/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
+    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
+    "02. MOC/벡엔드 엔지니어링 MOC.md",
     "attachments/screenshot/Pasted image 20250415182330.png",
     "attachments/screenshot/Pasted image 20250415182000.png",
     "attachments/screenshot/Pasted image 20250415181728.png",
-    "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Code Notes/Area/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md",
     "무제 1.canvas",
     "02. MOC/전기 기사 MOC.md",
     "무제.canvas",
-    "01. Guides/Note Guides.md",
-    "templaters/Code 템플릿.md",
     "02. MOC/전기 기기 MOC.md",
     "02. MOC/전력 공학 MOC.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/SelfQueryRetriever.md",
     "03. Permanent Notes/Blocking IO.md",
     "03. Permanent Notes/상태 복제.md",
@@ -439,10 +443,6 @@
     "04. Practice Notes/Spring State Machine.md",
     "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "04. Practice Notes/JacksonModule & Std(De)Serializer.md",
-    "04. Practice Notes/프롬프트 엔지니어링.md",
-    "04. Practice Notes/변압기 Y-Y 결선.md",
-    "04. Practice Notes/PN 접합 다이오드.md",
-    "04. Practice Notes/메타 러닝의 계산도가 높은 이유.md",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "06. Reference Notes/Book",
     "06. Reference Notes",
