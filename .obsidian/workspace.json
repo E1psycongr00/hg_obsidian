@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/Flyway 사용하기 with Gradle.md",
+                "file": "02. MOC/Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Flyway 사용하기 with Gradle"
+              "title": "Home"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/Flyway 사용하기 with Gradle.md"
+                "file": "02. MOC/Home.md"
               },
               "icon": "lucide-info",
-              "title": "Flyway 사용하기 with Gradle 의 파일 속성"
+              "title": "Home 의 파일 속성"
             }
           },
           {
@@ -324,13 +324,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/Flyway 사용하기 with Gradle.md",
+                "file": "02. MOC/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Flyway 사용하기 with Gradle 의 개요"
+              "title": "Home 의 개요"
             }
           }
         ]
@@ -366,30 +366,30 @@
   },
   "active": "3273ad22ecb322b7",
   "lastOpenFiles": [
+    "04. Practice Notes/Spring Transaction.md",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/유도 전동기 2차 저항 제어.md",
+    "04. Practice Notes/Spring State Machine.md",
+    "04. Practice Notes/Flyway 사용하기 with Gradle.md",
+    "04. Practice Notes/JacksonModule & Std(De)Serializer.md",
     "04. Practice Notes/프롬프트 엔지니어링.md",
     "04. Practice Notes/변압기 Y-Y 결선.md",
     "04. Practice Notes/PN 접합 다이오드.md",
     "04. Practice Notes/메타 러닝의 계산도가 높은 이유.md",
     "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md",
     "04. Practice Notes/Meta Learning.md",
-    "04. Practice Notes/JacksonModule & Std(De)Serializer.md",
-    "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "03. Permanent Notes/잔류 자기와 자여자 발전 관계.md",
     "04. Practice Notes/Chain of Thought는 모든 유형에 효과적인가.md",
     "04. Practice Notes/chain of Thought.md",
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "04. Practice Notes/응집도 높은 모듈 설계 방법론.md",
-    "03. Permanent Notes/유도 전동기 2차 저항 제어.md",
     "04. Practice Notes/동기 발전기.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "04. Practice Notes/단권 변압기 Y결선.md",
     "03. Permanent Notes/정류.md",
     "04. Practice Notes/k6와 그라파나를 활용해 테스트 시각화하기.md",
     "04. Practice Notes/Spring Modulith.md",
-    "04. Practice Notes/Spring State Machine.md",
     "04. Practice Notes/Spring Rest Docs with Kotlin DSL.md",
-    "04. Practice Notes/Spring Transaction.md",
-    "02. MOC/Home.md",
     "04. Practice Notes/Thread 컨텍스트 스위칭.md",
     "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",

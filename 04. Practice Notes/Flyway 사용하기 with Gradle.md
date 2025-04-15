@@ -8,10 +8,9 @@ tags:
 aliases: 
 created: 2024-11-13
 title: Flyway 사용하기 with Gradle
-note-type:
+note-type: COMMON
+completed: false
 ---
-작성 날짜: 2024-11-13
-작성 시간: 22:32
 
 
 ----

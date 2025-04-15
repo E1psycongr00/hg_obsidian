@@ -7,9 +7,9 @@ tags:
 aliases: 
 created: 2024-12-04
 title: Spring State Machine
+note-type: COMMON
+completed: false
 ---
-작성 날짜: 2024-12-04
-작성 시간: 23:44
 
 
 ----

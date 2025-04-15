@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "Spring Transaction",
+      "path": "04. Practice Notes/Spring Transaction.md"
+    },
+    {
+      "basename": "Spring State Machine",
+      "path": "04. Practice Notes/Spring State Machine.md"
+    },
+    {
       "basename": "Flyway 사용하기 with Gradle",
       "path": "04. Practice Notes/Flyway 사용하기 with Gradle.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Meta Learning",
       "path": "04. Practice Notes/Meta Learning.md"
-    },
-    {
-      "basename": "JacksonModule & Std(De)Serializer",
-      "path": "04. Practice Notes/JacksonModule & Std(De)Serializer.md"
     },
     {
       "basename": "잔류 자기와 자여자 발전 관계",
@@ -59,18 +67,6 @@
     {
       "basename": "Spring Modulith",
       "path": "04. Practice Notes/Spring Modulith.md"
-    },
-    {
-      "basename": "Spring State Machine",
-      "path": "04. Practice Notes/Spring State Machine.md"
-    },
-    {
-      "basename": "Spring Transaction",
-      "path": "04. Practice Notes/Spring Transaction.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Tag Guides",

@@ -9,9 +9,9 @@ aliases:
   - 스프링 트랜잭션
 created: 2024-12-04
 title: Spring Transaction
+note-type: COMMON
+completed: false
 ---
-작성 날짜: 2024-12-04
-작성 시간: 10:25
 
 
 ----
