@@ -5,6 +5,14 @@
       "path": "02. MOC/Home.md"
     },
     {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "Tag Guides",
+      "path": "01. Guides/Tag Guides.md"
+    },
+    {
       "basename": "전기 기기 MOC",
       "path": "02. MOC/전기 기기 MOC.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "SCR (draw)",
       "path": "Excalidraw/SCR (draw).md"
-    },
-    {
-      "basename": "GTO (draw)",
-      "path": "Excalidraw/GTO (draw).md"
     }
   ],
   "omittedPaths": [],

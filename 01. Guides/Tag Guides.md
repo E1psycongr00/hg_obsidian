@@ -3,7 +3,7 @@ tags:
   - Guide
 aliases: 
 created: 2025-03-24
-title: Tag Guide Lines
+title: Tag Guides
 note-type: GUIDE
 ---
 

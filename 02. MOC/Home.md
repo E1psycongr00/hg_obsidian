@@ -10,17 +10,23 @@ cssclasses:
 
 ## 노트 리스트
 
-- 작성해야 할 노트
-- 최근 작성 완료된 노트
+- **작성해야 할 노트**
+```dataview
+list file.name
+WHERE !completed
+SORT file.mtime DESC
+LIMIT 9
+```
+
+- **최근 작성 완료된 노트**
 ```dataview
 
 ```
-- 노트 작성 및 관리 가이드
+- 📖 **노트 작성 및 관리 가이드**
 ```dataview
-
+LIST file.name
+where contains(file.name, "Guides")
 ```
-- 노트 템플릿 종류
-
 
 
 ## 학습 가이드
