@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
-                "mode": "preview",
+                "file": "06. Code Notes/Area/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -100,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+                "file": "06. Code Notes/Area/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
               },
               "icon": "lucide-info",
               "title": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15) 의 파일 속성"
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
+                "file": "06. Code Notes/Area/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -366,8 +366,9 @@
   },
   "active": "3273ad22ecb322b7",
   "lastOpenFiles": [
+    "06. Code Notes/Area/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md",
+    "06. Code Notes/Area/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
-    "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "무제 1.canvas",
     "02. MOC/전기 기사 MOC.md",
@@ -393,7 +394,6 @@
     "04. Practice Notes/OpenAI 프롬프팅 엔지니어링 기법.md",
     "04. Practice Notes/Meta Learning.md",
     "03. Permanent Notes/잔류 자기와 자여자 발전 관계.md",
-    "04. Practice Notes/Chain of Thought는 모든 유형에 효과적인가.md",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "06. Reference Notes/Book",
     "06. Reference Notes",
