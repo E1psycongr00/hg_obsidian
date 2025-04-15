@@ -13,21 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/전기 기사 MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "전기 기사 MOC"
-            }
-          },
-          {
-            "id": "8d9414c4a7b93351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
                 "mode": "source",
                 "source": false,
@@ -36,26 +21,8 @@
               "icon": "lucide-file",
               "title": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)"
             }
-          },
-          {
-            "id": "cfcc1b52df27a269",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "무제 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "무제 1"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -133,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 1.canvas"
+                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
               },
               "icon": "lucide-info",
-              "title": "무제 1 의 파일 속성"
+              "title": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15) 의 파일 속성"
             }
           },
           {
@@ -357,13 +324,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 1.canvas",
+                "file": "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 1 의 개요"
+              "title": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15) 의 개요"
             }
           }
         ]
@@ -397,14 +364,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cfcc1b52df27a269",
+  "active": "3273ad22ecb322b7",
   "lastOpenFiles": [
     "무제 1.canvas",
     "04. Practice Notes/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
+    "02. MOC/전기 기사 MOC.md",
     "무제.canvas",
     "01. Guides/Note Guides.md",
     "templaters/Code 템플릿.md",
-    "02. MOC/전기 기사 MOC.md",
     "02. MOC/전기 기기 MOC.md",
     "02. MOC/전력 공학 MOC.md",
     "02. MOC/Home.md",
@@ -453,7 +420,6 @@
     "Resources/IT/운영체제/네트워크 IO Models.canvas",
     "Resources/IT/운영체제/동기화 모음.canvas",
     "Resources/명언/명언 모음.canvas",
-    "Java 공부.canvas",
-    "Java 에 대하여.canvas"
+    "Java 공부.canvas"
   ]
 }
