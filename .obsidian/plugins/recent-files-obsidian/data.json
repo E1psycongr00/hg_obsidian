@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "도표 적분법",
+      "path": "03. Permanent Notes/도표 적분법.md"
+    },
+    {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "상태 복제",
-      "path": "03. Permanent Notes/상태 복제.md"
     }
   ],
   "omittedPaths": [],
