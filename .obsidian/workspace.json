@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
+                "file": "02. MOC/🏛️ 전기 기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 오브젝트 - 조용호 MOC"
+              "title": "🏛️ 전기 기기 MOC"
             }
           },
           {
@@ -43,17 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Reference Notes/Book/ㄴ 객체에 관해 아는 것.md",
+                "file": "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ㄴ 객체에 관해 아는 것"
+              "title": "📚 역할, 책임, 협력 (오브젝트 - 조용호)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. Reference Notes/Book/ㄴ 객체에 관해 아는 것.md"
+                "file": "02. MOC/🏛️ 전기 기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "ㄴ 객체에 관해 아는 것 의 파일 속성"
+              "title": "🏛️ 전기 기기 MOC 의 파일 속성"
             }
           },
           {
@@ -405,11 +404,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "19bfd6bdb5fcd0f0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
-    "06. Reference Notes/Book/ㄴ 객체에 관해 아는 것.md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
+    "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
     "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md",
