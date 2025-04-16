@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
+                "file": "06. Reference Notes/Book/ㄴ 객체에 관해 아는 것.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📚 역할, 책임, 협력 (오브젝트 - 조용호)"
+              "title": "ㄴ 객체에 관해 아는 것"
             }
           }
         ],
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md"
+                "file": "06. Reference Notes/Book/ㄴ 객체에 관해 아는 것.md"
               },
               "icon": "lucide-info",
-              "title": "📚 역할, 책임, 협력 (오브젝트 - 조용호) 의 파일 속성"
+              "title": "ㄴ 객체에 관해 아는 것 의 파일 속성"
             }
           },
           {
@@ -408,7 +408,7 @@
   "active": "19bfd6bdb5fcd0f0",
   "lastOpenFiles": [
     "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
-    "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/ㄴ 객체에 관해 아는 것.md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
     "02. MOC/Home.md",
