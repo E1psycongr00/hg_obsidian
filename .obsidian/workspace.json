@@ -38,15 +38,15 @@
             }
           },
           {
-            "id": "a3cf0c1673359134",
+            "id": "ede23b94140f8e74",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/높은 응집도와 낮은 응집도 (draw).md"
+                "file": "Excalidraw/높은 결합도와 낮은 결합도 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "높은 응집도와 낮은 응집도 (draw)"
+              "title": "높은 결합도와 낮은 결합도 (draw)"
             }
           }
         ],
@@ -414,12 +414,14 @@
   },
   "active": "c2c96a3694a6c5fd",
   "lastOpenFiles": [
+    "Excalidraw/높은 결합도와 낮은 결합도 (draw).md",
+    "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
+    "02. MOC/Home.md",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).md",
     "06. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
-    "02. MOC/Home.md",
     "03. Permanent Notes/도표 적분법.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
@@ -442,7 +444,6 @@
     "attachments/screenshot/Pasted image 20250415182330.png",
     "attachments/screenshot/Pasted image 20250415182000.png",
     "attachments/screenshot/Pasted image 20250415181728.png",
-    "06. Code Notes/Area/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
@@ -453,7 +454,6 @@
     "Excalidraw/SCR 정류 곡선 (draw).svg",
     "Excalidraw/SCR (draw).svg",
     "Excalidraw/다이오드 정류 곡선 (draw).svg",
-    "Excalidraw/PN 접합 다이오드 (draw).svg",
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
