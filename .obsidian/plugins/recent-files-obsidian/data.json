@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ 오브젝트 - 조용호 MOC",
-      "path": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
+      "basename": "📚 책임 할당하기 (오브젝트 - 조용호)",
+      "path": "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md"
     },
     {
       "basename": "📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md"
+    },
+    {
+      "basename": "🏛️ 오브젝트 - 조용호 MOC",
+      "path": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
     },
     {
       "basename": "높은 결합도와 낮은 결합도 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
       "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
-    },
-    {
-      "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
-      "path": "06. Code Notes/Area/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md"
     }
   ],
   "omittedPaths": [],
