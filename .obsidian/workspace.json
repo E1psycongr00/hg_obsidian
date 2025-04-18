@@ -51,21 +51,9 @@
               "icon": "lucide-file",
               "title": "📚 메시지와 인터페이스 (오브젝트 - 조용호)"
             }
-          },
-          {
-            "id": "bf1e0c974f9d96e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "메시지, 오퍼레이션, 메서드 관계 (draw)"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).md"
+                "file": "06. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md"
               },
               "icon": "lucide-info",
-              "title": "메시지, 오퍼레이션, 메서드 관계 (draw) 의 파일 속성"
+              "title": "📚 메시지와 인터페이스 (오브젝트 - 조용호) 의 파일 속성"
             }
           },
           {
@@ -437,11 +425,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "bf1e0c974f9d96e9",
+  "active": "ae17ca3fbcc567b9",
   "lastOpenFiles": [
+    "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).md",
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).md",
     "06. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
@@ -479,7 +467,6 @@
     "Excalidraw/GTO (draw).svg",
     "Excalidraw/SCR 정류 곡선 (draw).svg",
     "Excalidraw/SCR (draw).svg",
-    "Excalidraw/다이오드 정류 곡선 (draw).svg",
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
