@@ -38,18 +38,18 @@
             }
           },
           {
-            "id": "ae17ca3fbcc567b9",
+            "id": "ceb1b49964bd21af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md",
+                "file": "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📚 메시지와 인터페이스 (오브젝트 - 조용호)"
+              "title": "📚 객체 분해 (오브젝트 - 조용호)"
             }
           }
         ],
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md"
+                "file": "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md"
               },
               "icon": "lucide-info",
-              "title": "📚 메시지와 인터페이스 (오브젝트 - 조용호) 의 파일 속성"
+              "title": "📚 객체 분해 (오브젝트 - 조용호) 의 파일 속성"
             }
           },
           {
@@ -425,14 +425,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ae17ca3fbcc567b9",
+  "active": "ceb1b49964bd21af",
   "lastOpenFiles": [
+    "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md",
+    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
+    "06. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md",
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).md",
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).svg",
     "02. MOC/Home.md",
-    "06. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md",
-    "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md",
-    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "06. Code Notes/Area/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "04. Practice Notes/PN 접합 다이오드.md",
     "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
