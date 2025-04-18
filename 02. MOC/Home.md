@@ -24,9 +24,9 @@ group by "완료하지 못한 노트"
 TABLE file.name AS "파일명", file.mtime AS "수정 시간" FROM "" WHERE completed = false SORT file.mtime DESC LIMIT 9
 ```
 
-- 📖 **최근 작성했된 노트**
+- 📖 **최근 작성한 노트**
 ```dataview
-TABLE file.name AS "파일명", created AS "작성 완료 날짜" FROM "" WHERE completed = true SORT created DESC LIMIT 5
+TABLE file.name AS "파일명", created AS "작성 완료 날짜" FROM "" SORT created DESC LIMIT 5
 ```
 
 - 📖 **노트 작성 및 관리 가이드**
