@@ -52,8 +52,7 @@
               "title": "📚 객체 분해 (오브젝트 - 조용호)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md"
+                "file": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "📚 객체 분해 (오브젝트 - 조용호) 의 파일 속성"
+              "title": "🏛️ 오브젝트 - 조용호 MOC 의 파일 속성"
             }
           },
           {
@@ -425,10 +424,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ceb1b49964bd21af",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "06. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md",
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).md",
