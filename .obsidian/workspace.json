@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/변압기 무부하 시험.md",
+                "file": "03. Permanent Notes/변압기 단락 시험.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "변압기 무부하 시험"
+              "title": "변압기 단락 시험"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/변압기 무부하 시험.md"
+                "file": "03. Permanent Notes/변압기 단락 시험.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 무부하 시험 의 파일 속성"
+              "title": "변압기 단락 시험 의 파일 속성"
             }
           },
           {
@@ -407,6 +407,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기 기기 MOC.md",
+    "03. Permanent Notes/변압기 무부하 시험.md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md",
@@ -434,7 +435,6 @@
     "02. MOC/웹 기초 MOC.md",
     "02. MOC/벡엔드 엔지니어링 MOC.md",
     "02. MOC/🏛️ 전자기학 MOC.md",
-    "templaters/MOC 템플릿.md",
     "attachments/screenshot/Pasted image 20250415182330.png",
     "attachments/screenshot/Pasted image 20250415182000.png",
     "attachments/screenshot/Pasted image 20250415181728.png",

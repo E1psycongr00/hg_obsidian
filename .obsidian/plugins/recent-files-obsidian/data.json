@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기 무부하 시험",
-      "path": "03. Permanent Notes/변압기 무부하 시험.md"
+      "basename": "변압기 단락 시험",
+      "path": "03. Permanent Notes/변압기 단락 시험.md"
     },
     {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
+    },
+    {
+      "basename": "변압기 무부하 시험",
+      "path": "03. Permanent Notes/변압기 무부하 시험.md"
     },
     {
       "basename": "🏛️ 오브젝트 - 조용호 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "Reference 템플릿",
-      "path": "templaters/Reference 템플릿.md"
     }
   ],
   "omittedPaths": [],
