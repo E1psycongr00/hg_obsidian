@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-04-21 19.07.54.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.md"
+    },
+    {
+      "basename": "변압기 병렬 운전 조건",
+      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "변압기 부하 분담",
       "path": "04. Practice Notes/변압기 부하 분담.md"
     },
     {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
-    },
-    {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
     },
     {
       "basename": "변압기 전압 변동률",
@@ -31,10 +39,6 @@
     {
       "basename": "변압기 2차측 기준 환산 회로 시나리오 (draw)",
       "path": "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "변압기 보호 장치",
@@ -95,10 +99,6 @@
     {
       "basename": "높은 응집도와 낮은 응집도 (draw)",
       "path": "Excalidraw/높은 응집도와 낮은 응집도 (draw).md"
-    },
-    {
-      "basename": "📚 역할, 책임, 협력 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md"
     }
   ],
   "omittedPaths": [],

@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "e20241f3c9d13663",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-21 19.07.54.excalidraw"
+            }
+          },
+          {
             "id": "7335e46adfb463d3",
             "type": "leaf",
             "state": {
@@ -52,7 +64,8 @@
               "title": "변압기 전압 변동률"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/변압기 부하 분담.md"
+                "file": "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 부하 분담 의 파일 속성"
+              "title": "Drawing 2025-04-21 19.07.54.excalidraw 의 파일 속성"
             }
           },
           {
@@ -433,18 +446,20 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e20241f3c9d13663",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
-    "03. Permanent Notes/변압기 전압 변동률.md",
+    "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.svg",
+    "02. MOC/Home.md",
     "04. Practice Notes/변압기 부하 분담.md",
+    "02. MOC/🏛️ 전기 기기 MOC.md",
+    "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).md",
     "Excalidraw/변압기 환산법 시나리오 (draw).md",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 환산법 시나리오 (draw).svg",
     "04. Practice Notes/변압기 환산법.md",
@@ -463,8 +478,6 @@
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).svg",
     "06. Code Notes/Area/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "04. Practice Notes/PN 접합 다이오드.md",
-    "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
-    "06. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md",
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
     "attachments/screenshot/Pasted image 20250415182330.png",
@@ -475,7 +488,6 @@
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "06. Reference Notes/Book",
     "06. Reference Notes",
-    "Excalidraw/TRIAC (draw).svg",
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
