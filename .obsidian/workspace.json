@@ -70,14 +70,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).md"
+                "file": "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "1차측 기준 환산 회로 시나리오 (draw)"
+              "title": "변압기 1차측 기준 환산 회로 시나리오 (draw)"
+            }
+          },
+          {
+            "id": "21875385e9b303dc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 2차측 기준 환산 회로 시나리오 (draw)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).md"
+                "file": "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "1차측 기준 환산 회로 시나리오 (draw) 의 파일 속성"
+              "title": "변압기 2차측 기준 환산 회로 시나리오 (draw) 의 파일 속성"
             }
           },
           {
@@ -458,13 +470,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "3fe87293befa8182",
+  "active": "21875385e9b303dc",
   "lastOpenFiles": [
-    "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).svg",
-    "Excalidraw/변압기 환산법 시나리오 (draw).md",
-    "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).md",
+    "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
+    "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).md",
+    "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md",
     "02. MOC/Home.md",
     "03. Permanent Notes/변압기 단락 시험.md",
+    "Excalidraw/변압기 환산법 시나리오 (draw).md",
+    "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 환산법 시나리오 (draw).svg",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
@@ -487,7 +501,6 @@
     "04. Practice Notes/PN 접합 다이오드.md",
     "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md",
-    "Excalidraw/높은 결합도와 낮은 결합도 (draw).md",
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
     "attachments/screenshot/Pasted image 20250415182330.png",
@@ -500,7 +513,6 @@
     "06. Reference Notes",
     "Excalidraw/TRIAC (draw).svg",
     "Excalidraw/GTO (draw).svg",
-    "Excalidraw/SCR 정류 곡선 (draw).svg",
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
