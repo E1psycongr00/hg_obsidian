@@ -28,10 +28,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.md"
+                "file": "Excalidraw/변압기 부하 분담 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-21 19.07.54.excalidraw"
+              "title": "변압기 부하 분담 (draw)"
             }
           },
           {
@@ -64,8 +64,7 @@
               "title": "변압기 전압 변동률"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,10 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.md"
+                "file": "04. Practice Notes/변압기 부하 분담.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-04-21 19.07.54.excalidraw 의 파일 속성"
+              "title": "변압기 부하 분담 의 파일 속성"
             }
           },
           {
@@ -446,11 +445,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e20241f3c9d13663",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/변압기 부하 분담 (draw).md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
-    "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-21 19.07.54.excalidraw.svg",
+    "Excalidraw/변압기 부하 분담 (draw).svg",
     "02. MOC/Home.md",
     "04. Practice Notes/변압기 부하 분담.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
