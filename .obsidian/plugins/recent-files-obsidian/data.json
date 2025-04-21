@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기 단락 등가 회로 (draw)",
-      "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
+      "basename": "변압기 환산법",
+      "path": "04. Practice Notes/변압기 환산법.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "변압기 단락 시험",
-      "path": "03. Permanent Notes/변압기 단락 시험.md"
-    },
-    {
-      "basename": "변압기 전압 변동률",
-      "path": "03. Permanent Notes/변압기 전압 변동률.md"
+      "basename": "🏛️ 전기 기기 MOC",
+      "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
     {
       "basename": "변압기 보호 장치",
       "path": "03. Permanent Notes/변압기 보호 장치.md"
     },
     {
-      "basename": "🏛️ 전기 기기 MOC",
-      "path": "02. MOC/🏛️ 전기 기기 MOC.md"
+      "basename": "변압기 전압 변동률",
+      "path": "03. Permanent Notes/변압기 전압 변동률.md"
+    },
+    {
+      "basename": "변압기 단락 시험",
+      "path": "03. Permanent Notes/변압기 단락 시험.md"
+    },
+    {
+      "basename": "변압기 단락 등가 회로 (draw)",
+      "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "변압기의 철손",
@@ -95,10 +99,6 @@
     {
       "basename": "🏛️ 전력 공학 MOC",
       "path": "02. MOC/🏛️ 전력 공학 MOC.md"
-    },
-    {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
     }
   ],
   "omittedPaths": [],
