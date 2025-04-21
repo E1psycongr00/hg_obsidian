@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/변압기 보호 장치.md",
+                "file": "03. Permanent Notes/변압기 보호 장치.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/변압기 보호 장치.md"
+                "file": "03. Permanent Notes/변압기 단락 시험.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 보호 장치 의 파일 속성"
+              "title": "변압기 단락 시험 의 파일 속성"
             }
           },
           {
@@ -450,11 +450,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cee85e84c1368c70",
+  "active": "3f5efa52129b3ea1",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전기 기기 MOC.md",
-    "04. Practice Notes/변압기 보호 장치.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
+    "03. Permanent Notes/변압기 보호 장치.md",
+    "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/변압기 단락 시험.md",
     "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/단권 변압기 V결선.md",
