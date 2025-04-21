@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "단권 변압기 V결선",
-      "path": "03. Permanent Notes/단권 변압기 V결선.md"
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
     },
     {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
+    },
+    {
+      "basename": "단권 변압기 V결선",
+      "path": "03. Permanent Notes/단권 변압기 V결선.md"
+    },
+    {
+      "basename": "변압기 단락 시험",
+      "path": "03. Permanent Notes/변압기 단락 시험.md"
     },
     {
       "basename": "단권 변압기",
@@ -19,10 +27,6 @@
     {
       "basename": "변압기 전압 변동률",
       "path": "03. Permanent Notes/변압기 전압 변동률.md"
-    },
-    {
-      "basename": "변압기 단락 시험",
-      "path": "03. Permanent Notes/변압기 단락 시험.md"
     },
     {
       "basename": "변압기 무부하 시험",
@@ -95,10 +99,6 @@
     {
       "basename": "🏛️ 웹 인증 보안 MOC",
       "path": "02. MOC/🏛️ 웹 인증 보안 MOC.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사 MOC",
-      "path": "02. MOC/🏛️ 전기 기사 MOC.md"
     }
   ],
   "omittedPaths": [],
