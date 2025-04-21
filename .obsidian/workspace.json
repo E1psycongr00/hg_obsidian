@@ -36,60 +36,8 @@
               "icon": "lucide-file",
               "title": "변압기 전압 변동률"
             }
-          },
-          {
-            "id": "3f5efa52129b3ea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/변압기 단락 시험.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "변압기 단락 시험"
-            }
-          },
-          {
-            "id": "8fd1a7a417a2bdd2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 환산법 시나리오 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 환산법 시나리오 (draw)"
-            }
-          },
-          {
-            "id": "3fe87293befa8182",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 1차측 기준 환산 회로 시나리오 (draw)"
-            }
-          },
-          {
-            "id": "21875385e9b303dc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "변압기 2차측 기준 환산 회로 시나리오 (draw)"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md"
+                "file": "02. MOC/🏛️ 전기 기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 2차측 기준 환산 회로 시나리오 (draw) 의 파일 속성"
+              "title": "🏛️ 전기 기기 MOC 의 파일 속성"
             }
           },
           {
@@ -470,17 +418,17 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "21875385e9b303dc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
-    "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).md",
-    "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md",
-    "02. MOC/Home.md",
+    "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
+    "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).md",
     "Excalidraw/변압기 환산법 시나리오 (draw).md",
+    "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md",
+    "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
+    "02. MOC/Home.md",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 환산법 시나리오 (draw).svg",
-    "03. Permanent Notes/변압기 전압 변동률.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "04. Practice Notes/변압기 환산법.md",
     "03. Permanent Notes/변압기 보호 장치.md",
@@ -512,7 +460,6 @@
     "06. Reference Notes/Book",
     "06. Reference Notes",
     "Excalidraw/TRIAC (draw).svg",
-    "Excalidraw/GTO (draw).svg",
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
