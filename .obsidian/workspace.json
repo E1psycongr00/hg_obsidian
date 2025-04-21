@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/변압기 환산법.md",
+                "file": "02. MOC/🏛️ 전기 기기 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "변압기 환산법"
+              "title": "🏛️ 전기 기기 MOC"
             }
           },
           {
@@ -67,7 +67,8 @@
               "title": "변압기 단락 시험"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,10 +145,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/변압기 환산법.md"
+                "file": "03. Permanent Notes/변압기 단락 시험.md"
               },
               "icon": "lucide-info",
-              "title": "변압기 환산법 의 파일 속성"
+              "title": "변압기 단락 시험 의 파일 속성"
             }
           },
           {
@@ -448,13 +449,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3f5efa52129b3ea1",
   "lastOpenFiles": [
+    "03. Permanent Notes/변압기 전압 변동률.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "04. Practice Notes/변압기 환산법.md",
-    "03. Permanent Notes/변압기 보호 장치.md",
-    "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
+    "03. Permanent Notes/변압기 보호 장치.md",
     "Excalidraw/변압기 단락 등가 회로 (draw).md",
     "02. MOC/Home.md",
     "03. Permanent Notes/변압기의 철손.md",

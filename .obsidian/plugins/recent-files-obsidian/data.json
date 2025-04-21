@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기 환산법",
-      "path": "04. Practice Notes/변압기 환산법.md"
+      "basename": "변압기 단락 시험",
+      "path": "03. Permanent Notes/변압기 단락 시험.md"
+    },
+    {
+      "basename": "변압기 전압 변동률",
+      "path": "03. Permanent Notes/변압기 전압 변동률.md"
     },
     {
       "basename": "🏛️ 전기 기기 MOC",
@@ -11,14 +15,6 @@
     {
       "basename": "변압기 보호 장치",
       "path": "03. Permanent Notes/변압기 보호 장치.md"
-    },
-    {
-      "basename": "변압기 전압 변동률",
-      "path": "03. Permanent Notes/변압기 전압 변동률.md"
-    },
-    {
-      "basename": "변압기 단락 시험",
-      "path": "03. Permanent Notes/변압기 단락 시험.md"
     },
     {
       "basename": "변압기 단락 등가 회로 (draw)",
