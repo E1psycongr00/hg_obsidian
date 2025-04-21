@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기 MOC.md",
+                "file": "04. Practice Notes/변압기 부하 분담.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기 기기 MOC"
+              "title": "변압기 부하 분담"
             }
           },
           {
@@ -114,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기 MOC.md"
+                "file": "04. Practice Notes/변압기 부하 분담.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기 기기 MOC 의 파일 속성"
+              "title": "변압기 부하 분담 의 파일 속성"
             }
           },
           {
@@ -420,6 +420,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전기 기기 MOC.md",
+    "04. Practice Notes/변압기 부하 분담.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 단락 시험.md",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).md",
@@ -429,7 +431,6 @@
     "02. MOC/Home.md",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 환산법 시나리오 (draw).svg",
-    "02. MOC/🏛️ 전기 기기 MOC.md",
     "04. Practice Notes/변압기 환산법.md",
     "03. Permanent Notes/변압기 보호 장치.md",
     "Excalidraw/변압기 단락 등가 회로 (draw).md",
