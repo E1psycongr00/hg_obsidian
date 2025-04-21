@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "cee85e84c1368c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/변압기 보호 장치.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "변압기 보호 장치"
-            }
-          },
-          {
             "id": "c3ae42fcd6162396",
             "type": "leaf",
             "state": {
@@ -66,9 +51,33 @@
               "icon": "lucide-file",
               "title": "변압기 단락 시험"
             }
+          },
+          {
+            "id": "8fd1a7a417a2bdd2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/변압기 환산법 시나리오 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "변압기 환산법 시나리오 (draw)"
+            }
+          },
+          {
+            "id": "3fe87293befa8182",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1차측 기준 환산 회로 시나리오 (draw)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,10 +154,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/변압기 단락 시험.md"
+                "file": "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "변압기 단락 시험 의 파일 속성"
+              "title": "1차측 기준 환산 회로 시나리오 (draw) 의 파일 속성"
             }
           },
           {
@@ -449,15 +458,19 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "3f5efa52129b3ea1",
+  "active": "3fe87293befa8182",
   "lastOpenFiles": [
+    "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).svg",
+    "Excalidraw/변압기 환산법 시나리오 (draw).md",
+    "Excalidraw/1차측 기준 환산 회로 시나리오 (draw).md",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/변압기 단락 시험.md",
+    "Excalidraw/변압기 환산법 시나리오 (draw).svg",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "04. Practice Notes/변압기 환산법.md",
-    "03. Permanent Notes/변압기 단락 시험.md",
     "03. Permanent Notes/변압기 보호 장치.md",
     "Excalidraw/변압기 단락 등가 회로 (draw).md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/단권 변압기 V결선.md",
     "03. Permanent Notes/단권 변압기.md",
@@ -476,10 +489,7 @@
     "06. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md",
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).md",
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
-    "Excalidraw/높은 응집도와 낮은 응집도 (draw).md",
-    "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
-    "03. Permanent Notes/도표 적분법.md",
     "attachments/screenshot/Pasted image 20250415182330.png",
     "attachments/screenshot/Pasted image 20250415182000.png",
     "attachments/screenshot/Pasted image 20250415181728.png",
@@ -491,7 +501,6 @@
     "Excalidraw/TRIAC (draw).svg",
     "Excalidraw/GTO (draw).svg",
     "Excalidraw/SCR 정류 곡선 (draw).svg",
-    "Excalidraw/SCR (draw).svg",
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
