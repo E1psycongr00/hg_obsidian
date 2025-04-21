@@ -5,6 +5,10 @@
       "path": "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
     },
     {
+      "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
+      "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
+    },
+    {
       "basename": "🏛️ 오브젝트 - 조용호 MOC",
       "path": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "높은 결합도와 낮은 결합도 (draw)",
-      "path": "Excalidraw/높은 결합도와 낮은 결합도 (draw).md"
     }
   ],
   "omittedPaths": [],
