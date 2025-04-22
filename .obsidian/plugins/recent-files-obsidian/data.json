@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-04-22 19.14.38.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-22 19.14.38.excalidraw.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "동기 전동기 V 곡선",
       "path": "04. Practice Notes/동기 전동기 V 곡선.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "동기 발전기 병렬 운전 조건",
       "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기기 MOC",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 부하 분담 (draw)",
       "path": "Excalidraw/변압기 부하 분담 (draw).md"
-    },
-    {
-      "basename": "변압기 단락 시험",
-      "path": "03. Permanent Notes/변압기 단락 시험.md"
     }
   ],
   "omittedPaths": [],

@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "8a993feae4b8e417",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-22 19.14.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-22 19.14.38.excalidraw"
+            }
+          },
+          {
             "id": "6346dc2313f27635",
             "type": "leaf",
             "state": {
@@ -52,7 +64,8 @@
               "title": "단락비"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/동기 전동기 V 곡선.md"
+                "file": "Excalidraw/Drawing 2025-04-22 19.14.38.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "동기 전동기 V 곡선 의 파일 속성"
+              "title": "Drawing 2025-04-22 19.14.38.excalidraw 의 파일 속성"
             }
           },
           {
@@ -444,13 +457,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8a993feae4b8e417",
   "lastOpenFiles": [
-    "Excalidraw/동기 전동기 V 곡선 (draw).md",
+    "Excalidraw/Drawing 2025-04-22 19.14.38.excalidraw.svg",
+    "02. MOC/Home.md",
+    "Excalidraw/Drawing 2025-04-22 19.14.38.excalidraw.md",
     "04. Practice Notes/동기 전동기 V 곡선.md",
+    "Excalidraw/동기 전동기 V 곡선 (draw).md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "Excalidraw/동기 전동기 V 곡선 (draw).svg",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/단락비.md",
     "03. Permanent Notes/동기기의 단락비 특성.md",
@@ -472,7 +487,6 @@
     "03. Permanent Notes/동기 발전기 특성 곡선.md",
     "03. Permanent Notes/변압기 무부하 시험.md",
     "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md",
-    "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
     "Excalidraw/변압기 부하 분담 (draw).svg",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
