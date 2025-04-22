@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "1dcbac1a5360d9d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/동기 전동기 V 곡선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "동기 전동기 V 곡선 (draw)"
-            }
-          },
-          {
             "id": "6346dc2313f27635",
             "type": "leaf",
             "state": {
@@ -64,8 +52,7 @@
               "title": "단락비"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/동기 전동기 V 곡선 (draw).md"
+                "file": "04. Practice Notes/동기 전동기 V 곡선.md"
               },
               "icon": "lucide-info",
-              "title": "동기 전동기 V 곡선 (draw) 의 파일 속성"
+              "title": "동기 전동기 V 곡선 의 파일 속성"
             }
           },
           {
@@ -457,12 +444,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "1dcbac1a5360d9d0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/Home.md",
     "Excalidraw/동기 전동기 V 곡선 (draw).md",
     "04. Practice Notes/동기 전동기 V 곡선.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
+    "Excalidraw/동기 전동기 V 곡선 (draw).svg",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/단락비.md",
     "03. Permanent Notes/동기기의 단락비 특성.md",
@@ -485,7 +473,6 @@
     "03. Permanent Notes/변압기 무부하 시험.md",
     "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
-    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "Excalidraw/변압기 부하 분담 (draw).svg",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
@@ -494,7 +481,6 @@
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
     "attachments/screenshot/Pasted image 20250415182330.png",
-    "attachments/screenshot/Pasted image 20250415182000.png",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
