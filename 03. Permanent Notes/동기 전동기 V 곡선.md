@@ -7,7 +7,7 @@ aliases:
 created: 2025-04-22
 title: 동기 전동기 V 곡선
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
