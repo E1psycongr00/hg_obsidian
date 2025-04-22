@@ -36,8 +36,19 @@
               "icon": "lucide-file",
               "title": "단락비"
             }
+          },
+          {
+            "id": "50a0b71e1e382c0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,11 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02. MOC/🏛️ 전기 기기 MOC.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "🏛️ 전기 기기 MOC 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -428,10 +437,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "50a0b71e1e382c0b",
   "lastOpenFiles": [
-    "03. Permanent Notes/동기 임피던스.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
+    "03. Permanent Notes/동기 임피던스.md",
     "03. Permanent Notes/동기 발전기 권선법.md",
     "03. Permanent Notes/비돌극형.md",
     "03. Permanent Notes/돌극형.md",
