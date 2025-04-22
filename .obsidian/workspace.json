@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "04. Practice Notes/동기기의 단락비 특성.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -62,7 +62,8 @@
               "title": "새 탭"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +140,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/동기 발전기의 전기자 반작용.md"
+                "file": "04. Practice Notes/동기기의 단락비 특성.md"
               },
               "icon": "lucide-info",
-              "title": "동기 발전기의 전기자 반작용 의 파일 속성"
+              "title": "동기기의 단락비 특성 의 파일 속성"
             }
           },
           {
@@ -453,8 +454,9 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "583f06659670582e",
   "lastOpenFiles": [
+    "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "04. Practice Notes/동기기의 단락비 특성.md",
     "03. Permanent Notes/%Z법.md",
@@ -484,7 +486,6 @@
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 환산법 시나리오 (draw).svg",
-    "04. Practice Notes/변압기 환산법.md",
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).svg",
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
