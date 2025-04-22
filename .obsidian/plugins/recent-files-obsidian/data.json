@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "동기기의 단락비 특성",
-      "path": "04. Practice Notes/동기기의 단락비 특성.md"
+      "basename": "동기 발전기의 전기자 반작용",
+      "path": "03. Permanent Notes/동기 발전기의 전기자 반작용.md"
     },
     {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
+    },
+    {
+      "basename": "동기기의 단락비 특성",
+      "path": "04. Practice Notes/동기기의 단락비 특성.md"
     },
     {
       "basename": "동기 발전기 권선법",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기의 철손",
       "path": "03. Permanent Notes/변압기의 철손.md"
-    },
-    {
-      "basename": "단권 변압기 V결선",
-      "path": "03. Permanent Notes/단권 변압기 V결선.md"
     }
   ],
   "omittedPaths": [],
