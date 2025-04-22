@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "53f27f5be1988dc6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/난조 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "난조 (draw)"
-            }
-          },
-          {
             "id": "54af40a45bc8567c",
             "type": "leaf",
             "state": {
@@ -59,8 +47,7 @@
               "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -137,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/난조 (draw).md"
+                "file": "04. Practice Notes/동기기 난조.md"
               },
               "icon": "lucide-info",
-              "title": "난조 (draw) 의 파일 속성"
+              "title": "동기기 난조 의 파일 속성"
             }
           },
           {
@@ -451,15 +439,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "53f27f5be1988dc6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/난조 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/난조 (draw).md",
+    "02. MOC/Home.md",
     "04. Practice Notes/동기기 난조.md",
+    "03. Permanent Notes/단락비.md",
+    "Excalidraw/난조 (draw).svg",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
-    "03. Permanent Notes/단락비.md",
     "04. Practice Notes/동기기의 단락비 특성.md",
     "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/자기 이력 곡선.md",
@@ -488,7 +476,6 @@
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
     "attachments/screenshot/Pasted image 20250415182330.png",
     "attachments/screenshot/Pasted image 20250415182000.png",
-    "attachments/screenshot/Pasted image 20250415181728.png",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
