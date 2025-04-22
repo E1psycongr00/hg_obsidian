@@ -5,6 +5,10 @@
       "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
     },
     {
+      "basename": "단락비",
+      "path": "03. Permanent Notes/단락비.md"
+    },
+    {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "단락비",
-      "path": "03. Permanent Notes/단락비.md"
     },
     {
       "basename": "동기 발전기의 전기자 반작용",

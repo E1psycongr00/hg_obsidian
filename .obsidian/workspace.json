@@ -36,16 +36,6 @@
               "icon": "lucide-file",
               "title": "단락비"
             }
-          },
-          {
-            "id": "50a0b71e1e382c0b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
           }
         ]
       }
@@ -441,13 +431,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전기 기기 MOC.md",
+    "03. Permanent Notes/단락비.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
+    "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/동기기의 단락비 특성.md",
     "03. Permanent Notes/동기기 난조.md",
     "Excalidraw/난조 (draw).md",
     "02. MOC/Home.md",
-    "03. Permanent Notes/단락비.md",
     "Excalidraw/난조 (draw).svg",
     "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
     "03. Permanent Notes/변압기의 철손.md",
