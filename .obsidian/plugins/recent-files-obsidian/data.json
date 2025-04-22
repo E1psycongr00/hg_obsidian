@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "동기기 난조",
+      "path": "동기기 난조.md"
+    },
+    {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 보호 장치",
       "path": "03. Permanent Notes/변압기 보호 장치.md"
-    },
-    {
-      "basename": "변압기 단락 등가 회로 (draw)",
-      "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
