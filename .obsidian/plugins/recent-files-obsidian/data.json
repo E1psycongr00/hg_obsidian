@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/동기기의 단락비 특성.md"
     },
     {
+      "basename": "전기자 반작용",
+      "path": "03. Permanent Notes/전기자 반작용.md"
+    },
+    {
       "basename": "동기 발전기의 전기자 반작용",
       "path": "03. Permanent Notes/동기 발전기의 전기자 반작용.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 단락 등가 회로 (draw)",
       "path": "Excalidraw/변압기 단락 등가 회로 (draw).md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
     }
   ],
   "omittedPaths": [],
