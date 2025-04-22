@@ -6,6 +6,7 @@ tags:
 aliases:
   - "%Z 임피던스"
   - 퍼센트 Z 임피던스
+  - 퍼센트 임피던스
 title: "%Z법"
 note-type: COMMON
 completed: true
