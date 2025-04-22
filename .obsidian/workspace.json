@@ -37,8 +37,7 @@
               "title": "단락비"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/단락비.md"
+                "file": "03. Permanent Notes/풍손.md"
               },
               "icon": "lucide-info",
-              "title": "단락비 의 파일 속성"
+              "title": "풍손 의 파일 속성"
             }
           },
           {
@@ -429,12 +428,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "54af40a45bc8567c",
+  "active": "d38dd180dd8c9fdf",
   "lastOpenFiles": [
-    "03. Permanent Notes/%Z법.md",
-    "03. Permanent Notes/단락비.md",
-    "03. Permanent Notes/변압기 무부하 시험.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
+    "03. Permanent Notes/동기 발전기 특성 곡선.md",
+    "03. Permanent Notes/단락비.md",
+    "03. Permanent Notes/%Z법.md",
+    "03. Permanent Notes/변압기 무부하 시험.md",
     "03. Permanent Notes/동기 임피던스.md",
     "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md",
@@ -460,7 +460,6 @@
     "03. Permanent Notes/단권 변압기.md",
     "03. Permanent Notes/변압기 효율.md",
     "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md",
-    "06. Reference Notes/Book/📚 책임 할당하기 (오브젝트 - 조용호).md",
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).svg",
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
