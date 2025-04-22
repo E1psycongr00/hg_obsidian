@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "동기 발전기 권선법",
       "path": "03. Permanent Notes/동기 발전기 권선법.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "동기 전동기 V 곡선",
       "path": "03. Permanent Notes/동기 전동기 V 곡선.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "동기 전동기 V 곡선 (draw)",
