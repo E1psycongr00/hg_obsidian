@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ 전기 기기 MOC.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -114,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/풍손.md"
+                "file": "02. MOC/🏛️ 전기 기기 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "풍손 의 파일 속성"
+              "title": "🏛️ 전기 기기 MOC 의 파일 속성"
             }
           },
           {
@@ -428,14 +428,20 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "d38dd180dd8c9fdf",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/동기 임피던스.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
+    "03. Permanent Notes/동기 발전기 권선법.md",
+    "03. Permanent Notes/비돌극형.md",
+    "03. Permanent Notes/돌극형.md",
+    "04. Practice Notes/동기 발전기.md",
+    "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md",
+    "03. Permanent Notes/풍손.md",
     "03. Permanent Notes/동기 발전기 특성 곡선.md",
     "03. Permanent Notes/단락비.md",
     "03. Permanent Notes/%Z법.md",
     "03. Permanent Notes/변압기 무부하 시험.md",
-    "03. Permanent Notes/동기 임피던스.md",
     "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
@@ -454,12 +460,6 @@
     "Excalidraw/변압기 환산법 시나리오 (draw).svg",
     "04. Practice Notes/변압기 환산법.md",
     "03. Permanent Notes/변압기 보호 장치.md",
-    "Excalidraw/변압기 단락 등가 회로 (draw).md",
-    "03. Permanent Notes/변압기의 철손.md",
-    "03. Permanent Notes/단권 변압기 V결선.md",
-    "03. Permanent Notes/단권 변압기.md",
-    "03. Permanent Notes/변압기 효율.md",
-    "06. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md",
     "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).svg",
     "Excalidraw/높은 결합도와 낮은 결합도 (draw).svg",
     "Excalidraw/높은 응집도와 낮은 응집도 (draw).svg",
