@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "난조 (draw)",
+      "path": "Excalidraw/난조 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "동기기 난조",
-      "path": "동기기 난조.md"
+      "path": "04. Practice Notes/동기기 난조.md"
     },
     {
       "basename": "🏛️ 전기 기기 MOC",
@@ -49,10 +57,6 @@
       "path": "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "📚 의존성 관리하기 (오브젝트 -조용호)",
       "path": "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 2차측 기준 환산 회로 시나리오 (draw)",
       "path": "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).md"
-    },
-    {
-      "basename": "변압기 보호 장치",
-      "path": "03. Permanent Notes/변압기 보호 장치.md"
     }
   ],
   "omittedPaths": [],

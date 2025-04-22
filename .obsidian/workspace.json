@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동기기 난조.md",
+                "file": "04. Practice Notes/동기기 난조.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "동기기 난조"
+            }
+          },
+          {
+            "id": "53f27f5be1988dc6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/난조 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "난조 (draw)"
             }
           },
           {
@@ -47,7 +59,8 @@
               "title": "새 탭"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,10 +137,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "동기기 난조.md"
+                "file": "Excalidraw/난조 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "동기기 난조 의 파일 속성"
+              "title": "난조 (draw) 의 파일 속성"
             }
           },
           {
@@ -438,10 +451,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "53f27f5be1988dc6",
   "lastOpenFiles": [
+    "Excalidraw/난조 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/난조 (draw).md",
+    "04. Practice Notes/동기기 난조.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
-    "동기기 난조.md",
     "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
     "03. Permanent Notes/단락비.md",
     "04. Practice Notes/동기기의 단락비 특성.md",
@@ -458,14 +474,11 @@
     "03. Permanent Notes/풍손.md",
     "03. Permanent Notes/동기 발전기 특성 곡선.md",
     "03. Permanent Notes/변압기 무부하 시험.md",
-    "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
-    "03. Permanent Notes/변압기 부하 분담.md",
-    "Excalidraw/변압기 부하 분담 (draw).md",
     "Excalidraw/변압기 부하 분담 (draw).svg",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
