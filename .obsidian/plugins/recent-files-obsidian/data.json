@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "유도성 부하의 평활화",
+      "path": "04. Practice Notes/유도성 부하의 평활화.md"
+    },
+    {
       "basename": "환류 다이오드",
       "path": "03. Permanent Notes/환류 다이오드.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "비돌극형",
       "path": "03. Permanent Notes/비돌극형.md"
-    },
-    {
-      "basename": "돌극형",
-      "path": "03. Permanent Notes/돌극형.md"
     }
   ],
   "omittedPaths": [],
