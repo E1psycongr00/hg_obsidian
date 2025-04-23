@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md",
+                "file": "03. Permanent Notes/사이리스터(SCR).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23)"
+              "title": "사이리스터(SCR)"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md"
+                "file": "03. Permanent Notes/사이리스터(SCR).md"
               },
               "icon": "lucide-info",
-              "title": "⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23) 의 파일 속성"
+              "title": "사이리스터(SCR) 의 파일 속성"
             }
           },
           {
@@ -426,10 +426,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/유도성 부하의 평활화.md",
-    "04. Practice Notes/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md",
-    "attachments/screenshot/Pasted image 20250423094655.png",
+    "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/환류 다이오드.md",
+    "03. Permanent Notes/유도성 부하의 평활화.md",
+    "06. Code Notes/Area/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md",
+    "03. Permanent Notes/Faraday 전자기 유도 법칙.md",
+    "attachments/screenshot/Pasted image 20250423095151.png",
+    "attachments/screenshot/Pasted image 20250423094655.png",
     "03. Permanent Notes/자기 인덕턴스.md",
     "Excalidraw/환류 다이오드 (draw).md",
     "Excalidraw/환류 다이오드 ON (draw).md",
@@ -438,7 +441,6 @@
     "Excalidraw/환류 다이오드 ON (draw).svg",
     "02. MOC/Home.md",
     "Excalidraw/환류 다이오드 (draw).svg",
-    "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/사이리스터(SCR).md",
     "03. Permanent Notes/수은 정류기.md",
     "03. Permanent Notes/회전 변류기.md",
@@ -458,10 +460,8 @@
     "Excalidraw/난조 (draw).svg",
     "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
     "03. Permanent Notes/변압기의 철손.md",
-    "03. Permanent Notes/자기 이력 곡선.md",
     "Excalidraw/변압기 부하 분담 (draw).svg",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
-    "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
