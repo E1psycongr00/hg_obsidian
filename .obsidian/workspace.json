@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "환류 다이오드"
             }
+          },
+          {
+            "id": "7770e78145247126",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/환류 다이오드 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "환류 다이오드 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/환류 다이오드.md"
+                "file": "Excalidraw/환류 다이오드 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "환류 다이오드 의 파일 속성"
+              "title": "환류 다이오드 (draw) 의 파일 속성"
             }
           },
           {
@@ -424,14 +437,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "7770e78145247126",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전기 기기 MOC.md",
+    "02. MOC/Home.md",
+    "Excalidraw/환류 다이오드 (draw).md",
     "04. Practice Notes/환류 다이오드.md",
+    "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/사이리스터(SCR).md",
     "03. Permanent Notes/수은 정류기.md",
     "03. Permanent Notes/회전 변류기.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/동기 발전기 권선법.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md",
@@ -454,7 +468,6 @@
     "03. Permanent Notes/동기 임피던스.md",
     "03. Permanent Notes/비돌극형.md",
     "03. Permanent Notes/돌극형.md",
-    "04. Practice Notes/동기 발전기.md",
     "Excalidraw/변압기 부하 분담 (draw).svg",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",

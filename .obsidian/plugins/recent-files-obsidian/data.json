@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "환류 다이오드 (draw)",
+      "path": "Excalidraw/환류 다이오드 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "환류 다이오드",
       "path": "04. Practice Notes/환류 다이오드.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "회전 변류기",
       "path": "03. Permanent Notes/회전 변류기.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "동기 발전기 권선법",
@@ -95,10 +99,6 @@
     {
       "basename": "발전기의 기전력 파형이 사인파인 이유",
       "path": "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md"
-    },
-    {
-      "basename": "📚 의존성 관리하기 (오브젝트 -조용호)",
-      "path": "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
     }
   ],
   "omittedPaths": [],
