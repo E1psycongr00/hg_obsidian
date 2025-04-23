@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "환류 다이오드 OFF (draw)",
+      "path": "Excalidraw/환류 다이오드 OFF (draw).md"
+    },
+    {
+      "basename": "환류 다이오드 ON (draw)",
+      "path": "Excalidraw/환류 다이오드 ON (draw).md"
+    },
+    {
       "basename": "환류 다이오드 (draw)",
       "path": "Excalidraw/환류 다이오드 (draw).md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "돌극형",
       "path": "03. Permanent Notes/돌극형.md"
-    },
-    {
-      "basename": "동기 발전기",
-      "path": "04. Practice Notes/동기 발전기.md"
-    },
-    {
-      "basename": "발전기의 기전력 파형이 사인파인 이유",
-      "path": "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md"
     }
   ],
   "omittedPaths": [],
