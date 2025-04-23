@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/사이리스터(SCR).md",
-                "mode": "preview",
+                "file": "04. Practice Notes/환류 다이오드.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "사이리스터(SCR)"
+              "title": "환류 다이오드"
             }
           }
         ]
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/사이리스터(SCR).md"
+                "file": "04. Practice Notes/환류 다이오드.md"
               },
               "icon": "lucide-info",
-              "title": "사이리스터(SCR) 의 파일 속성"
+              "title": "환류 다이오드 의 파일 속성"
             }
           },
           {
@@ -424,9 +424,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기 기기 MOC.md",
+    "04. Practice Notes/환류 다이오드.md",
+    "03. Permanent Notes/사이리스터(SCR).md",
     "03. Permanent Notes/수은 정류기.md",
     "03. Permanent Notes/회전 변류기.md",
     "02. MOC/Home.md",
@@ -453,8 +455,6 @@
     "03. Permanent Notes/비돌극형.md",
     "03. Permanent Notes/돌극형.md",
     "04. Practice Notes/동기 발전기.md",
-    "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md",
-    "03. Permanent Notes/풍손.md",
     "Excalidraw/변압기 부하 분담 (draw).svg",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
