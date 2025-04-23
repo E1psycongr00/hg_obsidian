@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "단상 반파 정류 회로",
+      "path": "04. Practice Notes/단상 반파 정류 회로.md"
+    },
+    {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
-    },
-    {
-      "basename": "동기 임피던스",
-      "path": "03. Permanent Notes/동기 임피던스.md"
     }
   ],
   "omittedPaths": [],
