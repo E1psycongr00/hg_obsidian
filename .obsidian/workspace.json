@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기 MOC.md",
+                "file": "03. Permanent Notes/사이리스터(SCR).md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기 기기 MOC"
+              "title": "사이리스터(SCR)"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/회전 변류기.md"
+                "file": "03. Permanent Notes/사이리스터(SCR).md"
               },
               "icon": "lucide-info",
-              "title": "회전 변류기 의 파일 속성"
+              "title": "사이리스터(SCR) 의 파일 속성"
             }
           },
           {
@@ -424,9 +424,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "a44812e9011e1c38",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기 기기 MOC.md",
+    "03. Permanent Notes/수은 정류기.md",
+    "03. Permanent Notes/회전 변류기.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/동기 발전기 권선법.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
@@ -453,8 +455,6 @@
     "04. Practice Notes/동기 발전기.md",
     "03. Permanent Notes/발전기의 기전력 파형이 사인파인 이유.md",
     "03. Permanent Notes/풍손.md",
-    "03. Permanent Notes/동기 발전기 특성 곡선.md",
-    "03. Permanent Notes/변압기 무부하 시험.md",
     "Excalidraw/변압기 부하 분담 (draw).svg",
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
