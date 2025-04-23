@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/환류 다이오드.md",
+                "file": "03. Permanent Notes/환류 다이오드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -21,45 +21,8 @@
               "icon": "lucide-file",
               "title": "환류 다이오드"
             }
-          },
-          {
-            "id": "397435dc3b680f16",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/환류 다이오드 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "환류 다이오드 (draw)"
-            }
-          },
-          {
-            "id": "5b8f67eebec708c9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/환류 다이오드 ON (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "환류 다이오드 ON (draw)"
-            }
-          },
-          {
-            "id": "debc8a4ca11db094",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/환류 다이오드 OFF (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "환류 다이오드 OFF (draw)"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/환류 다이오드 OFF (draw).md"
+                "file": "03. Permanent Notes/환류 다이오드.md"
               },
               "icon": "lucide-info",
-              "title": "환류 다이오드 OFF (draw) 의 파일 속성"
+              "title": "환류 다이오드 의 파일 속성"
             }
           },
           {
@@ -461,15 +424,16 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "debc8a4ca11db094",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/환류 다이오드 OFF (draw).svg",
-    "Excalidraw/환류 다이오드 ON (draw).md",
+    "03. Permanent Notes/자기 인덕턴스.md",
+    "03. Permanent Notes/환류 다이오드.md",
     "Excalidraw/환류 다이오드 (draw).md",
+    "Excalidraw/환류 다이오드 ON (draw).md",
     "Excalidraw/환류 다이오드 OFF (draw).md",
+    "Excalidraw/환류 다이오드 OFF (draw).svg",
     "Excalidraw/환류 다이오드 ON (draw).svg",
     "02. MOC/Home.md",
-    "04. Practice Notes/환류 다이오드.md",
     "Excalidraw/환류 다이오드 (draw).svg",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/사이리스터(SCR).md",
@@ -498,7 +462,6 @@
     "Excalidraw/변압기 2차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 1차측 기준 환산 회로 시나리오 (draw).svg",
     "Excalidraw/변압기 환산법 시나리오 (draw).svg",
-    "Excalidraw/메시지, 오퍼레이션, 메서드 관계 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
