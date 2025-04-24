@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전기 기기 MOC",
       "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "환류 다이오드 OFF (draw)",
       "path": "Excalidraw/환류 다이오드 OFF (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "수은 정류기",
