@@ -26,12 +26,15 @@
             "id": "f561a73d8f6fbf69",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "📚 역할, 책임, 협력 (오브젝트 - 조용호)"
             }
           }
         ],
@@ -99,7 +102,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -111,9 +115,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "📚 역할, 책임, 협력 (오브젝트 - 조용호) 의 파일 속성"
             }
           },
           {
@@ -446,6 +452,10 @@
   },
   "active": "f561a73d8f6fbf69",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
+    "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
     "03. Permanent Notes/단상 반파 정류 회로.md",
@@ -477,9 +487,6 @@
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).svg",
     "Excalidraw/동기 전동기 V 곡선 (draw).md",
     "Excalidraw/동기 전동기 V 곡선 (draw).svg",
-    "03. Permanent Notes/단락비.md",
-    "03. Permanent Notes/동기기의 단락비 특성.md",
-    "03. Permanent Notes/동기기 난조.md",
     "Excalidraw/난조 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
