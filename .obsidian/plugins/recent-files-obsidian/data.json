@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "📚 유연한 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md"
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 오브젝트 - 조용호",
+      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
     },
     {
       "basename": "📚 의존성 관리하기 (오브젝트 -조용호)",
       "path": "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
     },
     {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
+      "basename": "📚 유연한 설계 (오브젝트 - 조용호)",
+      "path": "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md"
     },
     {
-      "basename": "🏛️ 오브젝트 - 조용호",
-      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "🔍 혼자서하는 틱택토v1 리뷰",
@@ -29,20 +37,12 @@
       "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "웹 기초 MOC",
       "path": "02. MOC/웹 기초 MOC.md"
     },
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
       "basename": "🏛️ 전자기학",
