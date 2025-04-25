@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "직류 발전기 손실",
+      "path": "04. Practice Notes/직류 발전기 손실.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Tag Guides",
       "path": "01. Guides/Tag Guides.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
     }
   ],
   "omittedPaths": [],
