@@ -9,6 +9,10 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "속도 특성 곡선",
+      "path": "03. Permanent Notes/속도 특성 곡선.md"
+    },
+    {
       "basename": "직류 발전기 손실",
       "path": "03. Permanent Notes/직류 발전기 손실.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
     }
   ],
   "omittedPaths": [],
