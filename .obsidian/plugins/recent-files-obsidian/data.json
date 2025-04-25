@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "직류 발전기의 유기 기전력",
+      "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
+    },
+    {
       "basename": "분권 발전기",
       "path": "03. Permanent Notes/분권 발전기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "Reference 템플릿",
-      "path": "templaters/Reference 템플릿.md"
     }
   ],
   "omittedPaths": [],
