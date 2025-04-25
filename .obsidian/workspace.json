@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Guides/Note Guides.md",
+                "file": "01. Guides/MOC Guides.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Note Guides"
+              "title": "MOC Guides"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "Review 템플릿"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/Review 템플릿.md"
+                "file": "01. Guides/MOC Guides.md"
               },
               "icon": "lucide-info",
-              "title": "Review 템플릿 의 파일 속성"
+              "title": "MOC Guides 의 파일 속성"
             }
           },
           {
@@ -215,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templaters/Review 템플릿.md",
+                "file": "01. Guides/MOC Guides.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Review 템플릿 그래프"
+              "title": "MOC Guides 그래프"
             }
           },
           {
@@ -290,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templaters/Review 템플릿.md",
+                "file": "01. Guides/MOC Guides.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Review 템플릿 의 개요"
+              "title": "MOC Guides 의 개요"
             }
           }
         ]
@@ -329,10 +328,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "6d6ad7dfb495f785",
+  "active": "12f9b9fe2d5b1ab6",
   "lastOpenFiles": [
     "01. Guides/Note Guides.md",
+    "01. Guides/MOC Guides.md",
+    "01. Guides/Folder Guides.md",
+    "01. Guides/Tag Guides.md",
     "templaters/Review 템플릿.md",
+    "templaters/Code 템플릿.md",
+    "templaters/Reference 템플릿.md",
     "02. MOC/Home.md",
     "06. Code Notes/Area/⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25).md",
     "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
@@ -359,11 +363,6 @@
     "Excalidraw/환류 다이오드 OFF (draw).svg",
     "Excalidraw/환류 다이오드 ON (draw).svg",
     "Excalidraw/환류 다이오드 (draw).svg",
-    "03. Permanent Notes/수은 정류기.md",
-    "03. Permanent Notes/회전 변류기.md",
-    "03. Permanent Notes/동기 발전기 권선법.md",
-    "03. Permanent Notes/동기 발전기 유기 기전력.md",
-    "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md",
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).svg",
     "Excalidraw/동기 전동기 V 곡선 (draw).svg",
     "Excalidraw/난조 (draw).svg",
