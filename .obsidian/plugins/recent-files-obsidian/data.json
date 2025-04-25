@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "직류 발전기",
+      "path": "03. Permanent Notes/직류 발전기.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "정류",
+      "path": "03. Permanent Notes/정류.md"
+    },
+    {
+      "basename": "전기자 반작용",
+      "path": "03. Permanent Notes/전기자 반작용.md"
     },
     {
       "basename": "Home",
@@ -87,18 +99,6 @@
     {
       "basename": "📚 역할, 책임, 협력 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "단상 반파 정류 회로",
-      "path": "03. Permanent Notes/단상 반파 정류 회로.md"
-    },
-    {
-      "basename": "단상 반파 정류 회로 (draw)",
-      "path": "Excalidraw/단상 반파 정류 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
