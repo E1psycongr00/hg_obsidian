@@ -507,7 +507,7 @@ calculate_sum 함수를 만들어 호출하면 정상적으로 7을 얻는다.
 tags:
 aliases:
 created: YYYY-MM-DD
-title: 검토 대상
+title: 🔍 검토 대상
 note-type: REVIEW
 completed: false
 ---
@@ -522,7 +522,7 @@ completed: false
 tags:
 aliases:
 created: 2015-04-10
-title: 3월 프로젝트
+title: 🔍 3월 프로젝트
 note-type: REVIEW
 completed: true
 ---
