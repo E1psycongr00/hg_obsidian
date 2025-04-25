@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "🏛️ 오브젝트 - 조용호 MOC"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "🏛️ 오브젝트 - 조용호 MOC 의 파일 속성"
             }
           },
           {
@@ -446,9 +446,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
+    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
-    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "02. MOC/🏛️ 전기 기기 MOC.md",
@@ -479,7 +480,6 @@
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).md",
     "03. Permanent Notes/동기 전동기 V 곡선.md",
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).svg",
-    "Excalidraw/동기 전동기 V 곡선 (draw).md",
     "Excalidraw/동기 전동기 V 곡선 (draw).svg",
     "Excalidraw/난조 (draw).svg",
     "무제 1.canvas",
