@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "수하 특성",
+      "path": "04. Practice Notes/수하 특성.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "Tag Guides",
-      "path": "01. Guides/Tag Guides.md"
     }
   ],
   "omittedPaths": [],
