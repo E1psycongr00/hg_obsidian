@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e197088b6738949c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2e315348d544e03b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
-                "mode": "preview",
+                "file": "04. Practice Notes/⌨️ 혼자서 하는 틱택토_py (2025-04-25).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 오브젝트 - 조용호 MOC"
+              "title": "⌨️ 혼자서 하는 틱택토_py (2025-04-25)"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
+                "file": "04. Practice Notes/⌨️ 혼자서 하는 틱택토_py (2025-04-25).md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 오브젝트 - 조용호 MOC 의 파일 속성"
+              "title": "⌨️ 혼자서 하는 틱택토_py (2025-04-25) 의 파일 속성"
             }
           },
           {
@@ -444,11 +444,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2e315348d544e03b",
   "lastOpenFiles": [
-    "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
-    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
     "02. MOC/Home.md",
+    "04. Practice Notes/⌨️ 혼자서 하는 틱택토_py (2025-04-25).md",
+    "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md",
+    "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Reference Notes/Book/📚 역할, 책임, 협력 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
@@ -478,7 +479,6 @@
     "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).md",
-    "03. Permanent Notes/동기 전동기 V 곡선.md",
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).svg",
     "Excalidraw/동기 전동기 V 곡선 (draw).svg",
     "Excalidraw/난조 (draw).svg",
