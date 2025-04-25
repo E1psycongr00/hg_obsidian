@@ -9,6 +9,10 @@
       "path": "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
     },
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
       "basename": "🏛️ 오브젝트 - 조용호",
       "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "Folder Guides",
