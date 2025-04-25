@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
     },
     {
+      "basename": "⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25)",
+      "path": "06. Code Notes/Area/⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25).md"
+    },
+    {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
-    },
-    {
-      "basename": "⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25)",
-      "path": "06. Code Notes/Area/⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25).md"
     },
     {
       "basename": "📚 역할, 책임, 협력 (오브젝트 - 조용호)",
