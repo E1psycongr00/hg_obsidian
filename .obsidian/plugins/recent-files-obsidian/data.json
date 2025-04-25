@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "🔍 혼자서하는 틱택토v1 리뷰",
+      "path": "04. Practice Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "🏛️ 오브젝트 - 조용호",
+      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "벡엔드 엔지니어링 MOC",
+      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "🏛️ 웹 인증 보안",
+      "path": "02. MOC/🏛️ 웹 인증 보안.md"
+    },
+    {
+      "basename": "Review 템플릿",
+      "path": "templaters/Review 템플릿.md"
+    },
+    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
     },
@@ -17,10 +65,6 @@
       "path": "01. Guides/Tag Guides.md"
     },
     {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
-    },
-    {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
     },
@@ -29,16 +73,8 @@
       "path": "templaters/Reference 템플릿.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25)",
       "path": "06. Code Notes/Area/⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25).md"
-    },
-    {
-      "basename": "🏛️ 오브젝트 - 조용호 MOC",
-      "path": "02. MOC/🏛️ 오브젝트 - 조용호 MOC.md"
     },
     {
       "basename": "📚 역할, 책임, 협력 (오브젝트 - 조용호)",
@@ -47,10 +83,6 @@
     {
       "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "🏛️ 전기 기기 MOC",
-      "path": "02. MOC/🏛️ 전기 기기 MOC.md"
     },
     {
       "basename": "단상 반파 정류 회로",
@@ -67,38 +99,6 @@
     {
       "basename": "환류 다이오드",
       "path": "03. Permanent Notes/환류 다이오드.md"
-    },
-    {
-      "basename": "유도성 부하의 평활화",
-      "path": "03. Permanent Notes/유도성 부하의 평활화.md"
-    },
-    {
-      "basename": "⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23)",
-      "path": "06. Code Notes/Area/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md"
-    },
-    {
-      "basename": "환류 다이오드 (draw)",
-      "path": "Excalidraw/환류 다이오드 (draw).md"
-    },
-    {
-      "basename": "환류 다이오드 ON (draw)",
-      "path": "Excalidraw/환류 다이오드 ON (draw).md"
-    },
-    {
-      "basename": "환류 다이오드 OFF (draw)",
-      "path": "Excalidraw/환류 다이오드 OFF (draw).md"
-    },
-    {
-      "basename": "수은 정류기",
-      "path": "03. Permanent Notes/수은 정류기.md"
-    },
-    {
-      "basename": "회전 변류기",
-      "path": "03. Permanent Notes/회전 변류기.md"
-    },
-    {
-      "basename": "동기 발전기 권선법",
-      "path": "03. Permanent Notes/동기 발전기 권선법.md"
     }
   ],
   "omittedPaths": [],
