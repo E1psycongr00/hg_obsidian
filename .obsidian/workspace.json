@@ -49,8 +49,7 @@
               "title": "3전류계법 (draw)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/3전류계법 (draw).md"
+                "file": "04. Practice Notes/3전류계법.md"
               },
               "icon": "lucide-info",
-              "title": "3전류계법 (draw) 의 파일 속성"
+              "title": "3전류계법 의 파일 속성"
             }
           },
           {
@@ -227,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/3전류계법 (draw).md",
+                "file": "04. Practice Notes/3전류계법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -255,7 +254,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "3전류계법 (draw) 그래프"
+              "title": "3전류계법 그래프"
             }
           },
           {
@@ -312,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/3전류계법 (draw).md",
+                "file": "04. Practice Notes/3전류계법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3전류계법 (draw) 의 개요"
+              "title": "3전류계법 의 개요"
             }
           }
         ]
@@ -351,7 +350,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cfa4ba13f79a3d24",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "03. Permanent Notes/3전압계법.md",
     "04. Practice Notes/3전류계법.md",
