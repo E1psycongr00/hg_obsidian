@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -325,10 +325,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
+    "Excalidraw/배율기 (draw).md",
     "04. Practice Notes/배율기.md",
-    "templaters/MOC 템플릿.md",
+    "Excalidraw/배율기 (draw).svg",
     "02. MOC/Home.md",
+    "무제 1.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "templaters/MOC 템플릿.md",
     "02. MOC/🏛️ 제어 공학.md",
     "02. MOC/🏛️ 전기 기기.md",
     "templaters/Common 템플릿.md",
@@ -348,9 +351,6 @@
     "03. Permanent Notes/토크 특성 곡선.md",
     "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "03. Permanent Notes/분권 발전기.md",
-    "03. Permanent Notes/정류.md",
-    "03. Permanent Notes/직류 발전기.md",
-    "03. Permanent Notes/전기자 반작용.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",
@@ -360,7 +360,6 @@
     "Excalidraw/환류 다이오드 (draw).svg",
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).svg",
     "Excalidraw/동기 전동기 V 곡선 (draw).svg",
-    "Excalidraw/난조 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",

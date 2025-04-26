@@ -5,16 +5,20 @@
       "path": "04. Practice Notes/배율기.md"
     },
     {
+      "basename": "배율기 (draw)",
+      "path": "Excalidraw/배율기 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 제어 공학",
@@ -95,10 +99,6 @@
     {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "웹 기초 MOC",
-      "path": "02. MOC/웹 기초 MOC.md"
     }
   ],
   "omittedPaths": [],
