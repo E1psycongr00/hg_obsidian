@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "칼로리",
+      "path": "03. Permanent Notes/칼로리.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -91,14 +95,6 @@
     {
       "basename": "📚 유연한 설계 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "🔍 혼자서하는 틱택토v1 리뷰",
-      "path": "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
     }
   ],
   "omittedPaths": [],
