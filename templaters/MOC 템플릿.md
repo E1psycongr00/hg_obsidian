@@ -17,6 +17,7 @@ title: ${newTitle}
 note-type: MOC
 cssclasses:
   - dashboard
+---
 `;
   
   // 파일 이름도 동일하게 변경

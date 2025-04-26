@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -91,14 +99,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
-    },
-    {
-      "basename": "벡엔드 엔지니어링 MOC",
-      "path": "02. MOC/벡엔드 엔지니어링 MOC.md"
     }
   ],
   "omittedPaths": [],
