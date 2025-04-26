@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "03. Permanent Notes/3전압계법.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -48,19 +48,9 @@
               "icon": "excalidraw-icon",
               "title": "3전류계법 (draw)"
             }
-          },
-          {
-            "id": "01cfb544142111f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,9 +127,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Excalidraw/3전류계법 (draw).md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "3전류계법 (draw) 의 파일 속성"
             }
           },
           {
@@ -235,6 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/3전류계법 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -262,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "3전류계법 (draw) 그래프"
             }
           },
           {
@@ -319,12 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/3전류계법 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "3전류계법 (draw) 의 개요"
             }
           }
         ]
@@ -357,12 +351,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "01cfb544142111f7",
+  "active": "cfa4ba13f79a3d24",
   "lastOpenFiles": [
+    "03. Permanent Notes/3전압계법.md",
+    "04. Practice Notes/3전류계법.md",
     "Excalidraw/3전류계법 (draw).md",
     "Excalidraw/3전류계법 (draw).svg",
-    "04. Practice Notes/3전류계법.md",
-    "03. Permanent Notes/3전압계법.md",
     "Excalidraw/3전압계법 벡터 (draw).md",
     "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기기.md",
