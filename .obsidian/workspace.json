@@ -23,21 +23,19 @@
             }
           },
           {
-            "id": "836641c679bd252a",
+            "id": "593612c144ca7f96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03. Permanent Notes/화력 발전 효율.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/휘트스톤 브릿지 (draw).md"
               },
-              "icon": "lucide-file",
-              "title": "화력 발전 효율"
+              "icon": "excalidraw-icon",
+              "title": "휘트스톤 브릿지 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/휘스톤 브릿지.md"
+                "file": "Excalidraw/휘트스톤 브릿지 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "휘스톤 브릿지 의 파일 속성"
+              "title": "휘트스톤 브릿지 (draw) 의 파일 속성"
             }
           },
           {
@@ -213,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/휘스톤 브릿지.md",
+                "file": "Excalidraw/휘트스톤 브릿지 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -241,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "휘스톤 브릿지 그래프"
+              "title": "휘트스톤 브릿지 (draw) 그래프"
             }
           },
           {
@@ -298,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/휘스톤 브릿지.md",
+                "file": "Excalidraw/휘트스톤 브릿지 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "휘스톤 브릿지 의 개요"
+              "title": "휘트스톤 브릿지 (draw) 의 개요"
             }
           }
         ]
@@ -337,11 +335,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "62d96583bb3c34ce",
+  "active": "593612c144ca7f96",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
+    "Excalidraw/휘트스톤 브릿지 (draw).svg",
     "04. Practice Notes/휘스톤 브릿지.md",
+    "Excalidraw/휘트스톤 브릿지 (draw).md",
     "03. Permanent Notes/화력 발전 효율.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/칼로리.md",
     "열량.md",
     "03. Permanent Notes/분류기.md",
@@ -365,8 +365,6 @@
     "04. Practice Notes/Spring Transaction.md",
     "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
-    "03. Permanent Notes/돌림힘.md",
-    "03. Permanent Notes/타여자 발전기.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",
