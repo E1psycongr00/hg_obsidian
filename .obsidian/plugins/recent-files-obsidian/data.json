@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "배율기",
+      "path": "04. Practice Notes/배율기.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "웹 기초 MOC",
       "path": "02. MOC/웹 기초 MOC.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
     }
   ],
   "omittedPaths": [],
