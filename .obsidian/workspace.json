@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md",
+                "file": "04. Practice Notes/3전압계법.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 회로 이론"
+              "title": "3전압계법"
+            }
+          },
+          {
+            "id": "9d7f8b41d973afa1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/3전압계법 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3전압계법 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md"
+                "file": "Excalidraw/3전압계법 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 회로 이론 의 파일 속성"
+              "title": "3전압계법 (draw) 의 파일 속성"
             }
           },
           {
@@ -199,7 +212,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md",
+                "file": "Excalidraw/3전압계법 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +240,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 회로 이론 그래프"
+              "title": "3전압계법 (draw) 그래프"
             }
           },
           {
@@ -284,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md",
+                "file": "Excalidraw/3전압계법 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 회로 이론 의 개요"
+              "title": "3전압계법 (draw) 의 개요"
             }
           }
         ]
@@ -323,15 +336,17 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9d7f8b41d973afa1",
   "lastOpenFiles": [
+    "04. Practice Notes/3전압계법.md",
+    "Excalidraw/3전압계법 (draw).md",
+    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/휘스톤 브릿지.md",
     "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).md",
     "Excalidraw/휘트스톤 브릿지 (draw).md",
     "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).svg",
     "Excalidraw/휘트스톤 브릿지 (draw).svg",
     "03. Permanent Notes/화력 발전 효율.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/칼로리.md",
     "열량.md",
     "03. Permanent Notes/분류기.md",
@@ -353,7 +368,6 @@
     "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md",
     "04. Practice Notes/Spring State Machine.md",
     "04. Practice Notes/Spring Transaction.md",
-    "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",

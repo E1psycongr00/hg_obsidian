@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "3전압계법 (draw)",
+      "path": "Excalidraw/3전압계법 (draw).md"
+    },
+    {
+      "basename": "3전압계법",
+      "path": "04. Practice Notes/3전압계법.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "정류",
       "path": "03. Permanent Notes/정류.md"
-    },
-    {
-      "basename": "직류 발전기",
-      "path": "03. Permanent Notes/직류 발전기.md"
-    },
-    {
-      "basename": "전기자 반작용",
-      "path": "03. Permanent Notes/전기자 반작용.md"
     }
   ],
   "omittedPaths": [],
