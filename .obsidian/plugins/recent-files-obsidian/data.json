@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3전류계법 (draw)",
+      "path": "Excalidraw/3전류계법 (draw).md"
+    },
+    {
       "basename": "3전류계법",
       "path": "04. Practice Notes/3전류계법.md"
+    },
+    {
+      "basename": "3전압계법",
+      "path": "03. Permanent Notes/3전압계법.md"
     },
     {
       "basename": "3전압계법 벡터 (draw)",
@@ -65,10 +73,6 @@
       "path": "01. Guides/Folder Guides.md"
     },
     {
-      "basename": "3전압계법",
-      "path": "03. Permanent Notes/3전압계법.md"
-    },
-    {
       "basename": "3전압계법 (draw)",
       "path": "Excalidraw/3전압계법 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "분류기",
       "path": "03. Permanent Notes/분류기.md"
-    },
-    {
-      "basename": "배율기 (draw)",
-      "path": "Excalidraw/배율기 (draw).md"
     }
   ],
   "omittedPaths": [],
