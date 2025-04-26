@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
-                "mode": "preview",
+                "file": "02. MOC/🏛️ 제어 공학.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "🏛️ 제어 공학"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Home 그래프"
+              "title": "🏛️ 제어 공학 그래프"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 의 개요"
+              "title": "🏛️ 제어 공학 의 개요"
             }
           }
         ]
@@ -325,32 +325,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/직류 전동기 전압을 이용한 속도 제어.md",
+    "02. MOC/Home.md",
+    "02. MOC/🏛️ 전기 기기.md",
+    "02. MOC/🏛️ 제어 공학.md",
+    "templaters/Common 템플릿.md",
+    "04. Practice Notes/PN 접합 다이오드.md",
+    "04. Practice Notes/권선형 유도 전동기.md",
+    "03. Permanent Notes/직류 발전기 손실.md",
+    "04. Practice Notes/변압기 Y-Y 결선.md",
+    "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md",
+    "04. Practice Notes/Spring State Machine.md",
+    "04. Practice Notes/Spring Transaction.md",
+    "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
     "03. Permanent Notes/돌림힘.md",
-    "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/타여자 발전기.md",
     "03. Permanent Notes/수하 특성.md",
     "03. Permanent Notes/속도 특성 곡선.md",
-    "03. Permanent Notes/직류 발전기 손실.md",
     "03. Permanent Notes/토크 특성 곡선.md",
     "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "03. Permanent Notes/분권 발전기.md",
     "03. Permanent Notes/정류.md",
     "03. Permanent Notes/직류 발전기.md",
     "03. Permanent Notes/전기자 반작용.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 오브젝트 - 조용호.md",
     "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md",
     "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md",
-    "01. Guides/Note Guides.md",
-    "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md",
-    "06. Code Notes/Area/⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25).md",
-    "templaters/commander/MoveFileByFrontMatter.md",
-    "02. MOC/웹 기초 MOC.md",
-    "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/🏛️ 전자기학.md",
-    "02. MOC/벡엔드 엔지니어링 MOC.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",
