@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "분류기"
             }
-          },
-          {
-            "id": "861b0f0957f9b752",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "04. Practice Notes/분류기.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "분류기 의 파일 속성"
             }
           },
           {
@@ -208,6 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04. Practice Notes/분류기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -235,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "분류기 그래프"
             }
           },
           {
@@ -292,12 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04. Practice Notes/분류기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "분류기 의 개요"
             }
           }
         ]
@@ -330,12 +323,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "861b0f0957f9b752",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/배율기 (draw).md",
     "04. Practice Notes/분류기.md",
+    "Excalidraw/분류기 (draw).md",
+    "Excalidraw/분류기 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/배율기.md",
-    "Excalidraw/배율기 (draw).md",
     "Excalidraw/배율기 (draw).svg",
     "02. MOC/Home.md",
     "무제 1.md",
@@ -357,8 +352,6 @@
     "03. Permanent Notes/수하 특성.md",
     "03. Permanent Notes/속도 특성 곡선.md",
     "03. Permanent Notes/토크 특성 곡선.md",
-    "03. Permanent Notes/직류 발전기의 유기 기전력.md",
-    "03. Permanent Notes/분권 발전기.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",
@@ -367,7 +360,6 @@
     "Excalidraw/환류 다이오드 ON (draw).svg",
     "Excalidraw/환류 다이오드 (draw).svg",
     "Excalidraw/동기 전동기 V 곡선 원리 (draw).svg",
-    "Excalidraw/동기 전동기 V 곡선 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
