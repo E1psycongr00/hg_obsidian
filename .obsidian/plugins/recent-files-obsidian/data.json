@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "직류 전동기 전압을 이용한 속도 제어",
       "path": "04. Practice Notes/직류 전동기 전압을 이용한 속도 제어.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 오브젝트 - 조용호",
