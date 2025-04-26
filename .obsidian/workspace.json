@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md",
+                "file": "04. Practice Notes/휘스톤 브릿지.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 회로 이론"
+              "title": "휘스톤 브릿지"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/칼로리.md",
+                "file": "03. Permanent Notes/화력 발전 효율.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "칼로리"
+              "title": "화력 발전 효율"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/칼로리.md"
+                "file": "04. Practice Notes/휘스톤 브릿지.md"
               },
               "icon": "lucide-info",
-              "title": "칼로리 의 파일 속성"
+              "title": "휘스톤 브릿지 의 파일 속성"
             }
           },
           {
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/칼로리.md",
+                "file": "04. Practice Notes/휘스톤 브릿지.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -242,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "칼로리 그래프"
+              "title": "휘스톤 브릿지 그래프"
             }
           },
           {
@@ -251,8 +250,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -286,7 +285,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -299,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/칼로리.md",
+                "file": "04. Practice Notes/휘스톤 브릿지.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "칼로리 의 개요"
+              "title": "휘스톤 브릿지 의 개요"
             }
           }
         ]
@@ -338,11 +337,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "836641c679bd252a",
+  "active": "62d96583bb3c34ce",
   "lastOpenFiles": [
     "02. MOC/🏛️ 회로 이론.md",
-    "열량.md",
+    "04. Practice Notes/휘스톤 브릿지.md",
+    "03. Permanent Notes/화력 발전 효율.md",
     "03. Permanent Notes/칼로리.md",
+    "열량.md",
     "03. Permanent Notes/분류기.md",
     "Excalidraw/배율기 (draw).md",
     "Excalidraw/분류기 (draw).md",
@@ -366,8 +367,6 @@
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
     "03. Permanent Notes/돌림힘.md",
     "03. Permanent Notes/타여자 발전기.md",
-    "03. Permanent Notes/수하 특성.md",
-    "03. Permanent Notes/속도 특성 곡선.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "칼로리",
-      "path": "03. Permanent Notes/칼로리.md"
+      "basename": "휘스톤 브릿지",
+      "path": "04. Practice Notes/휘스톤 브릿지.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "화력 발전 효율",
+      "path": "03. Permanent Notes/화력 발전 효율.md"
+    },
+    {
+      "basename": "칼로리",
+      "path": "03. Permanent Notes/칼로리.md"
     },
     {
       "basename": "분류기",
@@ -91,10 +99,6 @@
     {
       "basename": "📚 의존성 관리하기 (오브젝트 -조용호)",
       "path": "06. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
-    },
-    {
-      "basename": "📚 유연한 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md"
     }
   ],
   "omittedPaths": [],
