@@ -1,20 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "3전압계법",
-      "path": "03. Permanent Notes/3전압계법.md"
+      "basename": "3전류계법",
+      "path": "04. Practice Notes/3전류계법.md"
     },
     {
       "basename": "3전압계법 벡터 (draw)",
       "path": "Excalidraw/3전압계법 벡터 (draw).md"
     },
     {
-      "basename": "3전압계법 (draw)",
-      "path": "Excalidraw/3전압계법 (draw).md"
-    },
-    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "🏛️ 웹 인증 보안",
+      "path": "02. MOC/🏛️ 웹 인증 보안.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "🏛️ 오브젝트 - 조용호",
+      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
+    },
+    {
+      "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
+      "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Tag Guides",
+      "path": "01. Guides/Tag Guides.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "3전압계법",
+      "path": "03. Permanent Notes/3전압계법.md"
+    },
+    {
+      "basename": "3전압계법 (draw)",
+      "path": "Excalidraw/3전압계법 (draw).md"
     },
     {
       "basename": "휘스톤 브릿지",
@@ -43,62 +99,6 @@
     {
       "basename": "배율기 (draw)",
       "path": "Excalidraw/배율기 (draw).md"
-    },
-    {
-      "basename": "분류기 (draw)",
-      "path": "Excalidraw/분류기 (draw).md"
-    },
-    {
-      "basename": "배율기",
-      "path": "03. Permanent Notes/배율기.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "MOC 템플릿",
-      "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
-    },
-    {
-      "basename": "직류 전동기 전압을 이용한 속도 제어",
-      "path": "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md"
-    },
-    {
-      "basename": "직류 전동기 토크와 회전수",
-      "path": "03. Permanent Notes/직류 전동기 토크와 회전수.md"
-    },
-    {
-      "basename": "타여자 발전기",
-      "path": "03. Permanent Notes/타여자 발전기.md"
-    },
-    {
-      "basename": "수하 특성",
-      "path": "03. Permanent Notes/수하 특성.md"
-    },
-    {
-      "basename": "속도 특성 곡선",
-      "path": "03. Permanent Notes/속도 특성 곡선.md"
-    },
-    {
-      "basename": "직류 발전기 손실",
-      "path": "03. Permanent Notes/직류 발전기 손실.md"
-    },
-    {
-      "basename": "직류 발전기의 유기 기전력",
-      "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
-    },
-    {
-      "basename": "분권 발전기",
-      "path": "03. Permanent Notes/분권 발전기.md"
     }
   ],
   "omittedPaths": [],
