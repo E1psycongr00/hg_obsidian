@@ -13,16 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/배율기.md",
+                "file": "04. Practice Notes/분류기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "배율기"
+              "title": "분류기"
+            }
+          },
+          {
+            "id": "861b0f0957f9b752",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,11 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "04. Practice Notes/배율기.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "배율기 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -199,7 +208,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/배율기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "배율기 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -284,13 +292,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/배율기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "배율기 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -323,14 +330,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "861b0f0957f9b752",
   "lastOpenFiles": [
+    "04. Practice Notes/분류기.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/배율기.md",
     "Excalidraw/배율기 (draw).md",
-    "04. Practice Notes/배율기.md",
     "Excalidraw/배율기 (draw).svg",
     "02. MOC/Home.md",
     "무제 1.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "templaters/MOC 템플릿.md",
     "02. MOC/🏛️ 제어 공학.md",
     "02. MOC/🏛️ 전기 기기.md",

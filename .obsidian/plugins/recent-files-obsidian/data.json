@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-04-26 13.59.48.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-26 13.59.48.excalidraw.md"
+    },
+    {
+      "basename": "분류기",
+      "path": "04. Practice Notes/분류기.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
       "basename": "배율기",
-      "path": "04. Practice Notes/배율기.md"
+      "path": "03. Permanent Notes/배율기.md"
     },
     {
       "basename": "배율기 (draw)",
@@ -11,10 +23,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "MOC 템플릿",
@@ -91,14 +99,6 @@
     {
       "basename": "🔍 혼자서하는 틱택토v1 리뷰",
       "path": "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
-    },
-    {
-      "basename": "⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25)",
-      "path": "06. Code Notes/Area/⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25).md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
     }
   ],
   "omittedPaths": [],
