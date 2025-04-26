@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/3전류계법.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3전류계법"
+              "title": "🏛️ 회로 이론"
             }
           },
           {
@@ -127,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/3전류계법.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "3전류계법 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -226,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/3전류계법.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -254,7 +254,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "3전류계법 그래프"
+              "title": "🏛️ 회로 이론 그래프"
             }
           },
           {
@@ -311,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/3전류계법.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3전류계법 의 개요"
+              "title": "🏛️ 회로 이론 의 개요"
             }
           }
         ]
@@ -352,12 +352,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/3전류계법.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/3전압계법.md",
-    "04. Practice Notes/3전류계법.md",
     "Excalidraw/3전류계법 (draw).md",
     "Excalidraw/3전류계법 (draw).svg",
     "Excalidraw/3전압계법 벡터 (draw).md",
-    "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 제어 공학.md",
