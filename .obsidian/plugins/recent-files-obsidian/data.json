@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "3전압계법 (draw)",
-      "path": "Excalidraw/3전압계법 (draw).md"
-    },
-    {
       "basename": "3전압계법",
       "path": "04. Practice Notes/3전압계법.md"
+    },
+    {
+      "basename": "3전압계법 벡터 (draw)",
+      "path": "Excalidraw/3전압계법 벡터 (draw).md"
+    },
+    {
+      "basename": "3전압계법 (draw)",
+      "path": "Excalidraw/3전압계법 (draw).md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -95,10 +99,6 @@
     {
       "basename": "분권 발전기",
       "path": "03. Permanent Notes/분권 발전기.md"
-    },
-    {
-      "basename": "정류",
-      "path": "03. Permanent Notes/정류.md"
     }
   ],
   "omittedPaths": [],

@@ -23,19 +23,18 @@
             }
           },
           {
-            "id": "9d7f8b41d973afa1",
+            "id": "aba224ec987636bf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/3전압계법 (draw).md"
+                "file": "Excalidraw/3전압계법 벡터 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "3전압계법 (draw)"
+              "title": "3전압계법 벡터 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/3전압계법 (draw).md"
+                "file": "04. Practice Notes/3전압계법.md"
               },
               "icon": "lucide-info",
-              "title": "3전압계법 (draw) 의 파일 속성"
+              "title": "3전압계법 의 파일 속성"
             }
           },
           {
@@ -212,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/3전압계법 (draw).md",
+                "file": "04. Practice Notes/3전압계법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -240,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "3전압계법 (draw) 그래프"
+              "title": "3전압계법 그래프"
             }
           },
           {
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/3전압계법 (draw).md",
+                "file": "04. Practice Notes/3전압계법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3전압계법 (draw) 의 개요"
+              "title": "3전압계법 의 개요"
             }
           }
         ]
@@ -336,11 +335,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "9d7f8b41d973afa1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/3전압계법 (draw).svg",
+    "Excalidraw/3전압계법 벡터 (draw).md",
+    "Excalidraw/3전압계법 벡터 (draw).svg",
     "04. Practice Notes/3전압계법.md",
     "Excalidraw/3전압계법 (draw).md",
+    "Excalidraw/3전압계법 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/휘스톤 브릿지.md",
     "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).md",
@@ -367,13 +368,10 @@
     "03. Permanent Notes/직류 발전기 손실.md",
     "04. Practice Notes/변압기 Y-Y 결선.md",
     "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md",
-    "04. Practice Notes/Spring State Machine.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",
     "attachments/screenshot/Pasted image 20250423094655.png",
-    "Excalidraw/환류 다이오드 OFF (draw).svg",
-    "Excalidraw/환류 다이오드 ON (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
