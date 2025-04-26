@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "휘스톤 브릿지"
             }
-          },
-          {
-            "id": "593612c144ca7f96",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/휘트스톤 브릿지 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "휘트스톤 브릿지 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -112,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/휘트스톤 브릿지 (draw).md"
+                "file": "04. Practice Notes/휘스톤 브릿지.md"
               },
               "icon": "lucide-info",
-              "title": "휘트스톤 브릿지 (draw) 의 파일 속성"
+              "title": "휘스톤 브릿지 의 파일 속성"
             }
           },
           {
@@ -211,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/휘트스톤 브릿지 (draw).md",
+                "file": "04. Practice Notes/휘스톤 브릿지.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -239,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "휘트스톤 브릿지 (draw) 그래프"
+              "title": "휘스톤 브릿지 그래프"
             }
           },
           {
@@ -296,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/휘트스톤 브릿지 (draw).md",
+                "file": "04. Practice Notes/휘스톤 브릿지.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "휘트스톤 브릿지 (draw) 의 개요"
+              "title": "휘스톤 브릿지 의 개요"
             }
           }
         ]
@@ -335,11 +323,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "593612c144ca7f96",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/휘트스톤 브릿지 (draw).svg",
-    "04. Practice Notes/휘스톤 브릿지.md",
+    "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).md",
     "Excalidraw/휘트스톤 브릿지 (draw).md",
+    "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).svg",
+    "04. Practice Notes/휘스톤 브릿지.md",
+    "Excalidraw/휘트스톤 브릿지 (draw).svg",
     "03. Permanent Notes/화력 발전 효율.md",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/칼로리.md",
@@ -364,15 +354,12 @@
     "04. Practice Notes/Spring State Machine.md",
     "04. Practice Notes/Spring Transaction.md",
     "04. Practice Notes/Flyway 사용하기 with Gradle.md",
-    "03. Permanent Notes/직류 전동기 토크와 회전수.md",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",
     "attachments/screenshot/Pasted image 20250423094655.png",
     "Excalidraw/환류 다이오드 OFF (draw).svg",
     "Excalidraw/환류 다이오드 ON (draw).svg",
-    "Excalidraw/환류 다이오드 (draw).svg",
-    "Excalidraw/동기 전동기 V 곡선 원리 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",

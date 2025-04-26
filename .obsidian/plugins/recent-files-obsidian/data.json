@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "휘트스톤 브릿지 (draw)",
-      "path": "Excalidraw/휘트스톤 브릿지 (draw).md"
-    },
-    {
       "basename": "휘스톤 브릿지",
       "path": "04. Practice Notes/휘스톤 브릿지.md"
+    },
+    {
+      "basename": "휘트스톤 브릿지 등가 회로 (draw)",
+      "path": "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).md"
+    },
+    {
+      "basename": "휘트스톤 브릿지 (draw)",
+      "path": "Excalidraw/휘트스톤 브릿지 (draw).md"
     },
     {
       "basename": "화력 발전 효율",
@@ -95,10 +99,6 @@
     {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
-    },
-    {
-      "basename": "🏛️ 오브젝트 - 조용호",
-      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
     }
   ],
   "omittedPaths": [],
