@@ -48,9 +48,19 @@
               "icon": "excalidraw-icon",
               "title": "3전류계법 (draw)"
             }
+          },
+          {
+            "id": "01cfb544142111f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,11 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Excalidraw/3전류계법 (draw).md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "3전류계법 (draw) 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -227,7 +235,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/3전류계법 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -250,12 +257,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.3628873693012141,
+                  "scale": 0.5087618855792623,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "3전류계법 (draw) 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -312,13 +319,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/3전류계법 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3전류계법 (draw) 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -351,11 +357,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cfa4ba13f79a3d24",
+  "active": "01cfb544142111f7",
   "lastOpenFiles": [
+    "Excalidraw/3전류계법 (draw).md",
     "Excalidraw/3전류계법 (draw).svg",
     "04. Practice Notes/3전류계법.md",
-    "Excalidraw/3전류계법 (draw).md",
     "03. Permanent Notes/3전압계법.md",
     "Excalidraw/3전압계법 벡터 (draw).md",
     "02. MOC/🏛️ 회로 이론.md",
@@ -388,7 +394,6 @@
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "attachments/screenshot/Pasted image 20250423095151.png",
-    "attachments/screenshot/Pasted image 20250423094655.png",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
