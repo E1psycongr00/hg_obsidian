@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/3전압계법.md",
+                "file": "03. Permanent Notes/3전압계법.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/3전압계법.md"
+                "file": "03. Permanent Notes/3전압계법.md"
               },
               "icon": "lucide-info",
               "title": "3전압계법 의 파일 속성"
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/3전압계법.md",
+                "file": "03. Permanent Notes/3전압계법.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/3전압계법.md",
+                "file": "03. Permanent Notes/3전압계법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -339,7 +339,7 @@
   "lastOpenFiles": [
     "Excalidraw/3전압계법 벡터 (draw).md",
     "Excalidraw/3전압계법 벡터 (draw).svg",
-    "04. Practice Notes/3전압계법.md",
+    "03. Permanent Notes/3전압계법.md",
     "Excalidraw/3전압계법 (draw).md",
     "Excalidraw/3전압계법 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
