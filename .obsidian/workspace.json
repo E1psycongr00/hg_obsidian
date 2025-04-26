@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/분류기.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "분류기"
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/분류기.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "분류기 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/분류기.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "분류기 그래프"
+              "title": "🏛️ 회로 이론 그래프"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/분류기.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "분류기 의 개요"
+              "title": "🏛️ 회로 이론 의 개요"
             }
           }
         ]
@@ -325,8 +325,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/분류기.md",
     "Excalidraw/배율기 (draw).md",
-    "04. Practice Notes/분류기.md",
     "Excalidraw/분류기 (draw).md",
     "Excalidraw/분류기 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
