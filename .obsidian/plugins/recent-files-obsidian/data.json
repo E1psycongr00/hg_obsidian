@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "delta 결선",
-      "path": "04. Practice Notes/delta 결선.md"
-    },
-    {
       "basename": "Y 결선",
       "path": "04. Practice Notes/Y 결선.md"
     },
     {
+      "basename": "delta 결선",
+      "path": "04. Practice Notes/delta 결선.md"
+    },
+    {
       "basename": "delta 결선 (draw)",
       "path": "Excalidraw/delta 결선 (draw).md"
+    },
+    {
+      "basename": "delta 결선 벡터 (draw)",
+      "path": "Excalidraw/delta 결선 벡터 (draw).md"
     },
     {
       "basename": "Y 결선 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "3전압계법 (draw)",
       "path": "Excalidraw/3전압계법 (draw).md"
-    },
-    {
-      "basename": "휘스톤 브릿지",
-      "path": "03. Permanent Notes/휘스톤 브릿지.md"
     }
   ],
   "omittedPaths": [],

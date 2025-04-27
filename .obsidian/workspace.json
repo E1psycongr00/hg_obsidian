@@ -36,20 +36,9 @@
               "icon": "lucide-file",
               "title": "Y 결선"
             }
-          },
-          {
-            "id": "b266c64dc293e68d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/delta 결선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "delta 결선 (draw)"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/delta 결선.md"
+                "file": "04. Practice Notes/Y 결선.md"
               },
               "icon": "lucide-info",
-              "title": "delta 결선 의 파일 속성"
+              "title": "Y 결선 의 파일 속성"
             }
           },
           {
@@ -311,13 +300,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/delta 결선.md",
+                "file": "04. Practice Notes/Y 결선.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "delta 결선 의 개요"
+              "title": "Y 결선 의 개요"
             }
           }
         ]
@@ -351,11 +340,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "195be123fad65957",
   "lastOpenFiles": [
-    "04. Practice Notes/Y 결선.md",
     "04. Practice Notes/delta 결선.md",
+    "04. Practice Notes/Y 결선.md",
     "Excalidraw/delta 결선 (draw).md",
+    "Excalidraw/delta 결선 벡터 (draw).md",
+    "Excalidraw/delta 결선 벡터 (draw).svg",
     "Excalidraw/delta 결선 (draw).svg",
     "Excalidraw/Y 결선 (draw).md",
     "02. MOC/Home.md",
@@ -383,11 +374,9 @@
     "Excalidraw/3전압계법 벡터 (draw).svg",
     "Excalidraw/3전압계법 (draw).md",
     "Excalidraw/3전압계법 (draw).svg",
-    "03. Permanent Notes/휘스톤 브릿지.md",
     "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).svg",
     "Excalidraw/휘트스톤 브릿지 (draw).svg",
     "Excalidraw/분류기 (draw).svg",
-    "Excalidraw/배율기 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
