@@ -6,7 +6,7 @@ aliases:
 created: 2025-04-27
 title: n상 대칭 결선
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
@@ -36,7 +36,7 @@ $$
 [[delta 결선#모형|환형 결선]]의 경우 전류 벡터에서 n상 형태로 나타내서 길이를 구하면 다음과 같은 식을 얻을 수 있다.
 
 $$
-2 \sin \frac{\pi}{n}\cdot I_{p} \angle 
+2 \sin \frac{\pi}{n}\cdot I_{p} \angle -\left( \frac{\pi}{2} - \frac{\pi}{n} \right)
 $$
 
 ## 질문 & 확장
