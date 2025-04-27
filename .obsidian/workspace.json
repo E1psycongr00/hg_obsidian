@@ -264,6 +264,16 @@
             "id": "69ac7806ddb0ef92",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "26019c1a23152237",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -271,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       },
       {
         "id": "7d466e57ea240c21",
@@ -326,7 +336,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 회로 이론.md",
+    "04. Practice Notes/n상 대칭 결선.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/전기적 각도.md",
     "02. MOC/🏛️ 전기 기사.md",
@@ -339,7 +351,6 @@
     "hello world.md",
     "무제.md",
     "무제 1.canvas",
-    "04. Practice Notes/n상 대칭 결선.md",
     "03. Permanent Notes/delta 결선.md",
     "04. Practice Notes/Y 결선.md",
     "Excalidraw/delta 결선 (draw).md",
@@ -347,7 +358,6 @@
     "Excalidraw/delta 결선 벡터 (draw).svg",
     "Excalidraw/delta 결선 (draw).svg",
     "Excalidraw/Y 결선 (draw).md",
-    "02. MOC/Home.md",
     "Excalidraw/Y 결선 전압 벡터도 (draw).md",
     "Excalidraw/Y 결선 전압 벡터도 (draw).svg",
     "Excalidraw/Y 결선 (draw).svg",

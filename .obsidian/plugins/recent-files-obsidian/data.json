@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/n상 대칭 결선.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Y 결선 (draw)",
       "path": "Excalidraw/Y 결선 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Y 결선 전압 벡터도 (draw)",
