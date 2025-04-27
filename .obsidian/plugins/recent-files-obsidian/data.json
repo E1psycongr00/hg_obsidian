@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "3전류계법",
       "path": "03. Permanent Notes/3전류계법.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Note Guides",
