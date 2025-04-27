@@ -14,7 +14,9 @@ completed: false
 ### 정의
 
 - $Y: V_{l} = 2 \sin \frac{\pi}{n} \cdot V_{p} \angle \frac{\pi}{2}\left( 1 - \frac{2}{n} \right)$
-- $I_{l} = 2\sin \frac{\pi}{n}$
+- $\Delta$ : $I_{l} = 2\sin \frac{\pi}{n} \cdot I_{p} \angle {-\frac{\pi}{2}\left( 1 -\frac{2}{n} \right)}$
+
+
 
 ## 질문 & 확장
 
