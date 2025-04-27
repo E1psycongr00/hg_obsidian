@@ -13,7 +13,7 @@ completed: false
 
 ### 모형
 
-
+![[delta 결선 (draw).svg]]
 
 ## 질문 & 확장
 
