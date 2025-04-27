@@ -11,7 +11,10 @@ completed: false
 
 ## 내용(Content)
 
-### 
+### 정의
+
+- $Y: V_{l} = 2 \sin \frac{\pi}{n} \cdot V_{p} \angle \frac{\pi}{2}\left( 1 - \frac{2}{n} \right)$
+- $I_{l} = 2\sin \frac{\pi}{n}$
 
 ## 질문 & 확장
 
