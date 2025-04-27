@@ -6,7 +6,7 @@ aliases:
 created: 2025-04-27
 title: delta 결선
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
@@ -22,7 +22,11 @@ completed: false
 - $V_{l} = V_{p}$
 - $V_{l} = \sqrt{ 3 }V_{p} \angle -30 \degree$
 
-### 
+### 전력
+
+- 유효 전력: $3I_{p}^{2}R = 3V_{p}I_{p}\cos\theta = \sqrt{ 3 }V_{l}I_{l}\cos\theta$
+- 무효 전력: $3I_{p}^{2}X = 3V_{p}I_{p}\sin\theta = \sqrt{ 3 }V_{l}I_{l}\sin\theta$
+- 피상 전력: $3I_{p}^{2}Z = 3V_{p}I_{p} = \sqrt{ 3 }V_{l}I_{l}$
 
 
 ## 질문 & 확장
