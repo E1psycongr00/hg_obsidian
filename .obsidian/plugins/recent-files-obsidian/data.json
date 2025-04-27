@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Y 결선 (draw)",
+      "path": "Excalidraw/Y 결선 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "Y 결선",
       "path": "04. Practice Notes/Y 결선.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "3전류계법",
@@ -95,10 +99,6 @@
     {
       "basename": "화력 발전 효율",
       "path": "03. Permanent Notes/화력 발전 효율.md"
-    },
-    {
-      "basename": "칼로리",
-      "path": "03. Permanent Notes/칼로리.md"
     }
   ],
   "omittedPaths": [],

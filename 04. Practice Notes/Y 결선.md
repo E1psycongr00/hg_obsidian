@@ -1,6 +1,9 @@
 ---
 tags:
-aliases: 
+  - 회로이론
+  - 평형3상교류
+aliases:
+  - 성형 결선
 created: 2025-04-27
 title: Y 결선
 note-type: COMMON
@@ -8,6 +11,10 @@ completed: false
 ---
 
 ## 내용(Content)
+
+### 특징
+
+
 
 
 ## 질문 & 확장

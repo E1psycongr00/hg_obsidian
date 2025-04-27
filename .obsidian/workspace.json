@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Y 결선"
             }
+          },
+          {
+            "id": "88a95dcf99aba58c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Y 결선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Y 결선 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/Y 결선.md"
+                "file": "Excalidraw/Y 결선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "Y 결선 의 파일 속성"
+              "title": "Y 결선 (draw) 의 파일 속성"
             }
           },
           {
@@ -284,20 +297,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/Y 결선.md",
+                "file": "Excalidraw/Y 결선 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y 결선 의 개요"
+              "title": "Y 결선 (draw) 의 개요"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 497.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,11 +337,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "88a95dcf99aba58c",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
-    "04. Practice Notes/Y 결선.md",
+    "Excalidraw/Y 결선 (draw).svg",
     "02. MOC/Home.md",
+    "Excalidraw/Y 결선 (draw).md",
+    "04. Practice Notes/Y 결선.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 제어 공학.md",
@@ -354,8 +370,6 @@
     "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).svg",
     "Excalidraw/휘트스톤 브릿지 (draw).svg",
     "03. Permanent Notes/화력 발전 효율.md",
-    "03. Permanent Notes/칼로리.md",
-    "열량.md",
     "Excalidraw/분류기 (draw).svg",
     "Excalidraw/배율기 (draw).svg",
     "attachments/screenshot/Pasted image 20250423151150.png",
