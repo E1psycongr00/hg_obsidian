@@ -21,33 +21,8 @@
               "icon": "lucide-file",
               "title": "Y 결선"
             }
-          },
-          {
-            "id": "88a95dcf99aba58c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Y 결선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Y 결선 (draw)"
-            }
-          },
-          {
-            "id": "e42dd6e1eb3a6911",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-27 21.33.47.excalidraw"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md"
+                "file": "04. Practice Notes/Y 결선.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-04-27 21.33.47.excalidraw 의 파일 속성"
+              "title": "Y 결선 의 파일 속성"
             }
           },
           {
@@ -309,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md",
+                "file": "04. Practice Notes/Y 결선.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-04-27 21.33.47.excalidraw 의 개요"
+              "title": "Y 결선 의 개요"
             }
           }
         ]
@@ -349,11 +324,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e42dd6e1eb3a6911",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Excalidraw/Y 결선 (draw).md",
+    "Excalidraw/Y 결선 전압 벡터도 (draw).md",
+    "Excalidraw/Y 결선 전압 벡터도 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md",
     "04. Practice Notes/Y 결선.md",
     "Excalidraw/Y 결선 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
@@ -382,11 +358,9 @@
     "Excalidraw/휘트스톤 브릿지 (draw).md",
     "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).svg",
     "Excalidraw/휘트스톤 브릿지 (draw).svg",
-    "03. Permanent Notes/화력 발전 효율.md",
     "Excalidraw/분류기 (draw).svg",
     "Excalidraw/배율기 (draw).svg",
     "attachments/screenshot/Pasted image 20250423151150.png",
-    "Excalidraw/단상 반파 정류 회로 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
