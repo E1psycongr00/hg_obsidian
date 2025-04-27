@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Y 결선",
-      "path": "04. Practice Notes/Y 결선.md"
+      "basename": "delta 결선 (draw)",
+      "path": "Excalidraw/delta 결선 (draw).md"
     },
     {
       "basename": "Y 결선 (draw)",
       "path": "Excalidraw/Y 결선 (draw).md"
     },
     {
-      "basename": "Y 결선 전압 벡터도 (draw)",
-      "path": "Excalidraw/Y 결선 전압 벡터도 (draw).md"
-    },
-    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
     {
+      "basename": "delta 결선",
+      "path": "04. Practice Notes/delta 결선.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "Y 결선",
+      "path": "04. Practice Notes/Y 결선.md"
+    },
+    {
+      "basename": "Y 결선 전압 벡터도 (draw)",
+      "path": "Excalidraw/Y 결선 전압 벡터도 (draw).md"
     },
     {
       "basename": "3전류계법",
@@ -91,14 +99,6 @@
     {
       "basename": "휘스톤 브릿지",
       "path": "03. Permanent Notes/휘스톤 브릿지.md"
-    },
-    {
-      "basename": "휘트스톤 브릿지 등가 회로 (draw)",
-      "path": "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).md"
-    },
-    {
-      "basename": "휘트스톤 브릿지 (draw)",
-      "path": "Excalidraw/휘트스톤 브릿지 (draw).md"
     }
   ],
   "omittedPaths": [],

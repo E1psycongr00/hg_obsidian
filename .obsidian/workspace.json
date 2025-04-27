@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/Y 결선.md",
+                "file": "04. Practice Notes/delta 결선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Y 결선"
+              "title": "delta 결선"
+            }
+          },
+          {
+            "id": "b266c64dc293e68d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/delta 결선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "delta 결선 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/Y 결선.md"
+                "file": "Excalidraw/delta 결선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "Y 결선 의 파일 속성"
+              "title": "delta 결선 (draw) 의 파일 속성"
             }
           },
           {
@@ -284,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/Y 결선.md",
+                "file": "Excalidraw/delta 결선 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y 결선 의 개요"
+              "title": "delta 결선 (draw) 의 개요"
             }
           }
         ]
@@ -324,15 +337,18 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b266c64dc293e68d",
   "lastOpenFiles": [
+    "Excalidraw/delta 결선 (draw).svg",
     "Excalidraw/Y 결선 (draw).md",
+    "02. MOC/Home.md",
+    "Excalidraw/delta 결선 (draw).md",
+    "04. Practice Notes/delta 결선.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "04. Practice Notes/Y 결선.md",
     "Excalidraw/Y 결선 전압 벡터도 (draw).md",
     "Excalidraw/Y 결선 전압 벡터도 (draw).svg",
-    "02. MOC/Home.md",
-    "04. Practice Notes/Y 결선.md",
     "Excalidraw/Y 결선 (draw).svg",
-    "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 제어 공학.md",
@@ -354,8 +370,6 @@
     "Excalidraw/3전압계법 (draw).md",
     "Excalidraw/3전압계법 (draw).svg",
     "03. Permanent Notes/휘스톤 브릿지.md",
-    "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).md",
-    "Excalidraw/휘트스톤 브릿지 (draw).md",
     "Excalidraw/휘트스톤 브릿지 등가 회로 (draw).svg",
     "Excalidraw/휘트스톤 브릿지 (draw).svg",
     "Excalidraw/분류기 (draw).svg",
