@@ -33,9 +33,21 @@
               "icon": "excalidraw-icon",
               "title": "Y 결선 (draw)"
             }
+          },
+          {
+            "id": "e42dd6e1eb3a6911",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-27 21.33.47.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Y 결선 (draw).md"
+                "file": "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "Y 결선 (draw) 의 파일 속성"
+              "title": "Drawing 2025-04-27 21.33.47.excalidraw 의 파일 속성"
             }
           },
           {
@@ -297,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Y 결선 (draw).md",
+                "file": "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Y 결선 (draw) 의 개요"
+              "title": "Drawing 2025-04-27 21.33.47.excalidraw 의 개요"
             }
           }
         ]
@@ -337,12 +349,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "88a95dcf99aba58c",
+  "active": "e42dd6e1eb3a6911",
   "lastOpenFiles": [
-    "Excalidraw/Y 결선 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/Y 결선 (draw).md",
+    "02. MOC/Home.md",
+    "Excalidraw/Drawing 2025-04-27 21.33.47.excalidraw.md",
     "04. Practice Notes/Y 결선.md",
+    "Excalidraw/Y 결선 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기 기사.md",
@@ -374,7 +387,6 @@
     "Excalidraw/배율기 (draw).svg",
     "attachments/screenshot/Pasted image 20250423151150.png",
     "Excalidraw/단상 반파 정류 회로 (draw).svg",
-    "attachments/screenshot/Pasted image 20250423095151.png",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
