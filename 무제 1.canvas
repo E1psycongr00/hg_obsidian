@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"b405006ee0b0a659","x":-480,"y":-240,"width":429,"height":440,"color":"6","type":"text","text":"Audience.java\n\n```java\npublic class Audience {\n    private Bag bag;\n\n    public Audience(Bag bag) {\n        this.bag = bag;\n    }\n\n    public Bag getBag() {\n        return bag;\n    }\n}\n\n```"}
-	],
-	"edges":[]
-}
