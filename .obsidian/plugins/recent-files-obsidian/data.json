@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2전력계법",
+      "path": "04. Practice Notes/2전력계법.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "Y 결선",
+      "path": "04. Practice Notes/Y 결선.md"
+    },
+    {
+      "basename": "n상 대칭 결선",
+      "path": "03. Permanent Notes/n상 대칭 결선.md"
     },
     {
       "basename": "delta 결선",
@@ -27,10 +39,6 @@
     {
       "basename": "delta 결선 (draw)",
       "path": "Excalidraw/delta 결선 (draw).md"
-    },
-    {
-      "basename": "n상 대칭 결선",
-      "path": "03. Permanent Notes/n상 대칭 결선.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -65,10 +73,6 @@
       "path": "두개의 무한 평판의 전계.md"
     },
     {
-      "basename": "Y 결선",
-      "path": "04. Practice Notes/Y 결선.md"
-    },
-    {
       "basename": "delta 결선 벡터 (draw)",
       "path": "Excalidraw/delta 결선 벡터 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "3전압계법 벡터 (draw)",
       "path": "Excalidraw/3전압계법 벡터 (draw).md"
-    },
-    {
-      "basename": "🏛️ 웹 인증 보안",
-      "path": "02. MOC/🏛️ 웹 인증 보안.md"
     }
   ],
   "omittedPaths": [],
