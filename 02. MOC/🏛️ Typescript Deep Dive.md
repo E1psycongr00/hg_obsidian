@@ -14,4 +14,5 @@ cssclasses:
 
 ### 학습
 
-[[📚 왜 타입스크립트인가 (Typescript Deep Dive)]]
+- [[📚 왜 타입스크립트인가 (Typescript Deep Dive)]]
+- 

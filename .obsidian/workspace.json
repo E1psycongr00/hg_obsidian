@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -361,9 +361,9 @@
   },
   "active": "a307dde53de4b5a0",
   "lastOpenFiles": [
-    "06. Reference Notes/Web",
     "02. MOC/🏛️ Typescript Deep Dive.md",
     "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md",
+    "06. Reference Notes/Web",
     "02. MOC/🏛️ 오브젝트 - 조용호.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 회로 이론.md",
@@ -408,7 +408,6 @@
     "08. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
     "06. Code Notes/Archive",
     "06. Code Notes/Area",
-    "06. Code Notes",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
