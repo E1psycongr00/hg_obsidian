@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
+      "path": "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
+    },
+    {
+      "basename": "🏛️ Typescript Deep Dive",
+      "path": "02. MOC/🏛️ Typescript Deep Dive.md"
+    },
+    {
+      "basename": "🏛️ 오브젝트 - 조용호",
+      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "2전력계법 벡터도 (draw)",
       "path": "Excalidraw/2전력계법 벡터도 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "델타-델타 결선 (draw)",
@@ -87,18 +99,6 @@
     {
       "basename": "Y 결선 (draw)",
       "path": "Excalidraw/Y 결선 (draw).md"
-    },
-    {
-      "basename": "Y 결선 전압 벡터도 (draw)",
-      "path": "Excalidraw/Y 결선 전압 벡터도 (draw).md"
-    },
-    {
-      "basename": "3전류계법",
-      "path": "03. Permanent Notes/3전류계법.md"
-    },
-    {
-      "basename": "3전압계법",
-      "path": "03. Permanent Notes/3전압계법.md"
     }
   ],
   "omittedPaths": [],
