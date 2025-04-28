@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "V 결선"
             }
+          },
+          {
+            "id": "52dec9d7ef266de4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/V 결선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "V 결선 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/V 결선.md"
+                "file": "Excalidraw/V 결선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "V 결선 의 파일 속성"
+              "title": "V 결선 (draw) 의 파일 속성"
             }
           },
           {
@@ -334,11 +347,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "52dec9d7ef266de4",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
-    "04. Practice Notes/V 결선.md",
+    "Excalidraw/V 결선 (draw).svg",
+    "Excalidraw/delta 결선 (draw).md",
     "02. MOC/Home.md",
+    "Excalidraw/V 결선 (draw).md",
+    "04. Practice Notes/V 결선.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기 기기.md",
@@ -358,7 +374,6 @@
     "무제 1.canvas",
     "03. Permanent Notes/delta 결선.md",
     "04. Practice Notes/Y 결선.md",
-    "Excalidraw/delta 결선 (draw).md",
     "Excalidraw/delta 결선 벡터 (draw).md",
     "Excalidraw/delta 결선 벡터 (draw).svg",
     "Excalidraw/delta 결선 (draw).svg",
@@ -370,8 +385,6 @@
     "03. Permanent Notes/3전압계법.md",
     "Excalidraw/3전류계법 (draw).md",
     "Excalidraw/3전류계법 (draw).svg",
-    "Excalidraw/3전압계법 벡터 (draw).md",
-    "02. MOC/🏛️ 웹 인증 보안.md",
     "Excalidraw/3전압계법 벡터 (draw).svg",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",

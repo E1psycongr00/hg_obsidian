@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "V 결선 (draw)",
+      "path": "Excalidraw/V 결선 (draw).md"
+    },
+    {
+      "basename": "delta 결선 (draw)",
+      "path": "Excalidraw/delta 결선 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "V 결선",
       "path": "04. Practice Notes/V 결선.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "n상 대칭 결선",
@@ -57,10 +65,6 @@
       "path": "04. Practice Notes/Y 결선.md"
     },
     {
-      "basename": "delta 결선 (draw)",
-      "path": "Excalidraw/delta 결선 (draw).md"
-    },
-    {
       "basename": "delta 결선 벡터 (draw)",
       "path": "Excalidraw/delta 결선 벡터 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "🏛️ 오브젝트 - 조용호",
       "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
-    },
-    {
-      "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
-      "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
     }
   ],
   "omittedPaths": [],
