@@ -3,6 +3,7 @@ tags:
   - 회로이론
 aliases:
   - 환형 결선
+  - 델타 결선
 created: 2025-04-27
 title: delta 결선
 note-type: COMMON

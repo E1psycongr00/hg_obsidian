@@ -6,7 +6,7 @@ aliases:
 created: 2025-04-28
 title: V 결선
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
@@ -45,7 +45,7 @@ $$
 **이용률:**
 
 $$
-\text{이용률} = \frac{\text{V결선 허용 용량}}{\Delta \text{결선 허용 용량}} = \frac{\sqrt{ 3 }}{2} = 86.6 \
+\text{이용률} = \frac{\text{V결선 허용 용량}}{\Delta \text{결선 허용 용량}} = \frac{\sqrt{ 3 }}{2} = 86.6 \%
 $$
 
 ## 질문 & 확장

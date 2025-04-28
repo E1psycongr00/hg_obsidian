@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/V 결선.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "V 결선"
+              "title": "🏛️ 회로 이론"
             }
           },
           {
@@ -124,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/V 결선.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "V 결선 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -361,14 +361,14 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "03. Permanent Notes/delta 결선.md",
-    "04. Practice Notes/V 결선.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/V 결선.md",
     "Excalidraw/V결선 (draw).md",
     "Excalidraw/델타-델타 결선 (draw).md",
     "Excalidraw/V결선 (draw).svg",
     "02. MOC/Home.md",
     "Excalidraw/델타-델타 결선 (draw).svg",
     "Excalidraw/delta 결선 (draw).md",
-    "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기 기기.md",
