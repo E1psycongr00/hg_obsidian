@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "23715df8afe0601d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2전력계법 벡터도 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2전력계법 벡터도 (draw)"
+            }
+          },
+          {
             "id": "52dec9d7ef266de4",
             "type": "leaf",
             "state": {
@@ -46,7 +58,8 @@
               "title": "2전력계법 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,10 +137,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/2전력계법.md"
+                "file": "Excalidraw/2전력계법 벡터도 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "2전력계법 의 파일 속성"
+              "title": "2전력계법 벡터도 (draw) 의 파일 속성"
             }
           },
           {
@@ -358,14 +371,16 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "23715df8afe0601d",
   "lastOpenFiles": [
+    "Excalidraw/2전력계법 벡터도 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/2전력계법 벡터도 (draw).md",
+    "04. Practice Notes/2전력계법.md",
     "Excalidraw/델타-델타 결선 (draw).md",
     "Excalidraw/V결선 (draw).md",
     "Excalidraw/2전력계법 (draw).md",
     "Excalidraw/2전력계법 (draw).svg",
-    "02. MOC/Home.md",
-    "04. Practice Notes/2전력계법.md",
     "02. MOC/🏛️ 회로 이론.md",
     "04. Practice Notes/Y 결선.md",
     "03. Permanent Notes/n상 대칭 결선.md",
@@ -394,7 +409,6 @@
     "Excalidraw/delta 결선 벡터 (draw).svg",
     "Excalidraw/delta 결선 (draw).svg",
     "Excalidraw/Y 결선 (draw).md",
-    "Excalidraw/Y 결선 전압 벡터도 (draw).md",
     "Excalidraw/Y 결선 전압 벡터도 (draw).svg",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",

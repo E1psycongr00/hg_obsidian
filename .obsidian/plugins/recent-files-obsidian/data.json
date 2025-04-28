@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2전력계법 벡터도 (draw)",
+      "path": "Excalidraw/2전력계법 벡터도 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "2전력계법",
       "path": "04. Practice Notes/2전력계법.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2전력계법 (draw)",
       "path": "Excalidraw/2전력계법 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -95,10 +99,6 @@
     {
       "basename": "3전압계법",
       "path": "03. Permanent Notes/3전압계법.md"
-    },
-    {
-      "basename": "3전류계법 (draw)",
-      "path": "Excalidraw/3전류계법 (draw).md"
     }
   ],
   "omittedPaths": [],
