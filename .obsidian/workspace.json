@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "04. Practice Notes/V 결선.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -46,8 +46,7 @@
               "title": "V결선 (draw)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/V결선 (draw).md"
+                "file": "04. Practice Notes/V 결선.md"
               },
               "icon": "lucide-info",
-              "title": "V결선 (draw) 의 파일 속성"
+              "title": "V 결선 의 파일 속성"
             }
           },
           {
@@ -359,11 +358,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "4d306a675b9d70a5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/V결선 (draw).svg",
-    "Excalidraw/델타-델타 결선 (draw).md",
     "Excalidraw/V결선 (draw).md",
+    "Excalidraw/델타-델타 결선 (draw).md",
+    "Excalidraw/V결선 (draw).svg",
     "02. MOC/Home.md",
     "04. Practice Notes/V 결선.md",
     "Excalidraw/델타-델타 결선 (draw).svg",
@@ -397,7 +396,6 @@
     "Excalidraw/Y 결선 (draw).svg",
     "03. Permanent Notes/3전류계법.md",
     "03. Permanent Notes/3전압계법.md",
-    "Excalidraw/3전류계법 (draw).svg",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "06. Reference Notes/Book",

@@ -24,6 +24,7 @@ completed: false
 
 **한 상에 고장이 나 V 결선:**
 
+![[V결선 (draw).svg|600]]
 
 ## 질문 & 확장
 
