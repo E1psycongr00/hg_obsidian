@@ -1,6 +1,5 @@
 ---
 tags:
-  - 미완
   - JAVA
   - Spring
   - Transaction
@@ -10,7 +9,7 @@ aliases:
 created: 2024-12-04
 title: Spring Transaction
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 
