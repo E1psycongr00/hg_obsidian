@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "V 결선 (draw)",
-      "path": "Excalidraw/V 결선 (draw).md"
+      "basename": "V결선 (draw)",
+      "path": "Excalidraw/V결선 (draw).md"
     },
     {
-      "basename": "delta 결선 (draw)",
-      "path": "Excalidraw/delta 결선 (draw).md"
+      "basename": "델타-델타 결선 (draw)",
+      "path": "Excalidraw/델타-델타 결선 (draw).md"
     },
     {
       "basename": "Home",
@@ -15,6 +15,10 @@
     {
       "basename": "V 결선",
       "path": "04. Practice Notes/V 결선.md"
+    },
+    {
+      "basename": "delta 결선 (draw)",
+      "path": "Excalidraw/delta 결선 (draw).md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -95,10 +99,6 @@
     {
       "basename": "🏛️ 웹 인증 보안",
       "path": "02. MOC/🏛️ 웹 인증 보안.md"
-    },
-    {
-      "basename": "🏛️ 오브젝트 - 조용호",
-      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
     }
   ],
   "omittedPaths": [],
