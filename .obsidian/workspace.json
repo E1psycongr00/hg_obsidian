@@ -13,37 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/2전력계법.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2전력계법"
-            }
-          },
-          {
-            "id": "52dec9d7ef266de4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/델타-델타 결선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "델타-델타 결선 (draw)"
-            }
-          },
-          {
-            "id": "42581c57b0b83546",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2전력계법 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2전력계법 (draw)"
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -124,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/2전력계법.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "2전력계법 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -360,10 +336,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/2전력계법.md",
     "Excalidraw/2전력계법 벡터도 (draw).md",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "02. MOC/Home.md",
-    "04. Practice Notes/2전력계법.md",
     "Excalidraw/델타-델타 결선 (draw).md",
     "Excalidraw/V결선 (draw).md",
     "Excalidraw/2전력계법 (draw).md",
