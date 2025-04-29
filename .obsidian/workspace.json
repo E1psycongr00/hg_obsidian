@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ Typescript Deep Dive.md",
+                "file": "02. MOC/🏛️ 오브젝트 - 조용호.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ Typescript Deep Dive"
+              "title": "🏛️ 오브젝트 - 조용호"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ Typescript Deep Dive.md"
+                "file": "02. MOC/🏛️ 오브젝트 - 조용호.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ Typescript Deep Dive 의 파일 속성"
+              "title": "🏛️ 오브젝트 - 조용호 의 파일 속성"
             }
           },
           {
@@ -319,13 +319,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ Typescript Deep Dive.md",
+                "file": "02. MOC/🏛️ 오브젝트 - 조용호.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ Typescript Deep Dive 의 개요"
+              "title": "🏛️ 오브젝트 - 조용호 의 개요"
             }
           }
         ]
@@ -360,16 +360,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 회로 이론.md",
+    "02. MOC/🏛️ Typescript Deep Dive.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 오브젝트 - 조용호.md",
     "03. Permanent Notes/Spring Transaction.md",
     "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "03. Permanent Notes/OpenAI 프롬프팅 엔지니어링 기법.md",
     "templaters/Common 템플릿.md",
-    "02. MOC/🏛️ Typescript Deep Dive.md",
     "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md",
     "06. Reference Notes/Web",
-    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/2전력계법.md",
     "Excalidraw/2전력계법 벡터도 (draw).md",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
