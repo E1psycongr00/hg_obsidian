@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "📚 상속과 코드 재사용 (오브젝트 -조용호)",
       "path": "06. Reference Notes/Book/📚 상속과 코드 재사용 (오브젝트 -조용호).md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "🏛️ Typescript Deep Dive",
       "path": "02. MOC/🏛️ Typescript Deep Dive.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
