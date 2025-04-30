@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "introducing-eventstorming",
+      "path": "08. 공부 자료/pdf/book/introducing-eventstorming.pdf"
+    },
+    {
+      "basename": "Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi",
+      "path": "08. 공부 자료/pdf/book/Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi.pdf"
+    },
+    {
+      "basename": "Designing_Data_Intensive_Applications",
+      "path": "08. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "📚 상속과 코드 재사용 (오브젝트 -조용호)",
@@ -87,18 +99,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "자화",
-      "path": "자화.md"
-    },
-    {
-      "basename": "이해도 분석 가이드",
-      "path": "이해도 분석 가이드.md"
-    },
-    {
-      "basename": "두개의 무한 평판의 전계",
-      "path": "두개의 무한 평판의 전계.md"
     }
   ],
   "omittedPaths": [],
