@@ -99,11 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02. MOC/Home.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -304,13 +302,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -345,6 +342,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 상속과 코드 재사용 (오브젝트 -조용호).md",
     "attachments/screenshot/Pasted image 20250429180549.png",
     "attachments/screenshot/Pasted image 20250429180353.png",
@@ -352,7 +350,6 @@
     "02. MOC/🏛️ 오브젝트 - 조용호.md",
     "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ Typescript Deep Dive.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/Spring Transaction.md",
     "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "03. Permanent Notes/OpenAI 프롬프팅 엔지니어링 기법.md",
