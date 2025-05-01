@@ -113,16 +113,16 @@ $$
 
 $$
 \begin{bmatrix}
-1 & Z_{1} \\
+1 & 0 \\
+Y_{1} & 1
+\end{bmatrix}
+\begin{bmatrix}
+1 & Z_{2} \\
 0 & 1
 \end{bmatrix}
 \begin{bmatrix}
 1 & 0 \\
 Y_{3} & 1
-\end{bmatrix}
-\begin{bmatrix}
-1 & Z_{2} \\
-0 & 1
 \end{bmatrix}
 $$
 

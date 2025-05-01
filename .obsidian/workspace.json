@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/ABCD 파라미터.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ABCD 파라미터"
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/ABCD 파라미터.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "ABCD 파라미터 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/ABCD 파라미터.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ABCD 파라미터 의 개요"
+              "title": "🏛️ 회로 이론 의 개요"
             }
           }
         ]
@@ -325,9 +325,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/ABCD 파라미터.md",
     "Excalidraw/T 형 회로 (draw).md",
     "Excalidraw/pi형 회로 (draw).md",
-    "03. Permanent Notes/ABCD 파라미터.md",
     "Excalidraw/pi형 회로 (draw).svg",
     "02. MOC/Home.md",
     "Excalidraw/T 형 회로 (draw).svg",
