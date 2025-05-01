@@ -141,8 +141,8 @@
             "state": {
               "type": "bc-tree-view",
               "state": {},
-              "icon": "tree-pine",
-              "title": "Tree view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -236,8 +236,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
