@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "정저항 회로",
+      "path": "04. Practice Notes/정저항 회로.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "n상 대칭 결선",
       "path": "03. Permanent Notes/n상 대칭 결선.md"
-    },
-    {
-      "basename": "delta 결선",
-      "path": "03. Permanent Notes/delta 결선.md"
     }
   ],
   "omittedPaths": [],

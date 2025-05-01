@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md",
+                "file": "04. Practice Notes/정저항 회로.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 회로 이론"
+              "title": "정저항 회로"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md"
+                "file": "04. Practice Notes/정저항 회로.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 회로 이론 의 파일 속성"
+              "title": "정저항 회로 의 파일 속성"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md",
+                "file": "04. Practice Notes/정저항 회로.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 회로 이론 의 개요"
+              "title": "정저항 회로 의 개요"
             }
           }
         ]
@@ -325,11 +325,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 회로 이론.md",
+    "04. Practice Notes/정저항 회로.md",
     "03. Permanent Notes/2단자망.md",
     "Excalidraw/2단자망 (draw).md",
     "Excalidraw/2단자망 (draw).svg",
     "02. MOC/Home.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "03. Permanent Notes/동기 속도.md",
     "02. MOC/🏛️ 전기 기기.md",
