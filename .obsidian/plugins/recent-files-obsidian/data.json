@@ -5,6 +5,14 @@
       "path": "04. Practice Notes/정저항 회로.md"
     },
     {
+      "basename": "정저항 회로 (draw)",
+      "path": "Excalidraw/정저항 회로 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2단자망 (draw)",
       "path": "Excalidraw/2단자망 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "동기 발전기 병렬 운전 조건",
@@ -95,10 +99,6 @@
     {
       "basename": "Y 결선",
       "path": "04. Practice Notes/Y 결선.md"
-    },
-    {
-      "basename": "n상 대칭 결선",
-      "path": "03. Permanent Notes/n상 대칭 결선.md"
     }
   ],
   "omittedPaths": [],

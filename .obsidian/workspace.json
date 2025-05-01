@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "정저항 회로"
             }
+          },
+          {
+            "id": "3c34d8b445b87c04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/정저항 회로 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "정저항 회로 (draw)"
+            }
           }
         ]
       }
@@ -325,12 +337,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
+    "Excalidraw/정저항 회로 (draw).md",
+    "Excalidraw/정저항 회로 (draw).svg",
+    "02. MOC/Home.md",
     "04. Practice Notes/정저항 회로.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/2단자망.md",
     "Excalidraw/2단자망 (draw).md",
     "Excalidraw/2단자망 (draw).svg",
-    "02. MOC/Home.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "03. Permanent Notes/동기 속도.md",
     "02. MOC/🏛️ 전기 기기.md",
@@ -357,14 +371,11 @@
     "Excalidraw/2전력계법 벡터도 (draw).md",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/델타-델타 결선 (draw).md",
-    "Excalidraw/V결선 (draw).md",
-    "Excalidraw/2전력계법 (draw).md",
     "Excalidraw/2전력계법 (draw).svg",
     "Excalidraw/V결선 (draw).svg",
     "Excalidraw/델타-델타 결선 (draw).svg",
     "attachments/screenshot/Pasted image 20250428075524.png",
     "attachments/screenshot/Pasted image 20250428075516.png",
-    "attachments/screenshot/Pasted image 20250428075442.png",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
