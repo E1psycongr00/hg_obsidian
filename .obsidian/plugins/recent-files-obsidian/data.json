@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "정저항 회로",
-      "path": "04. Practice Notes/정저항 회로.md"
-    },
-    {
-      "basename": "정저항 회로 (draw)",
-      "path": "Excalidraw/정저항 회로 (draw).md"
+      "basename": "Drawing 2025-05-01 20.10.26.excalidraw",
+      "path": "Excalidraw/Drawing 2025-05-01 20.10.26.excalidraw.md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
     {
+      "basename": "역회로",
+      "path": "04. Practice Notes/역회로.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "정저항 회로",
+      "path": "03. Permanent Notes/정저항 회로.md"
+    },
+    {
+      "basename": "정저항 회로 (draw)",
+      "path": "Excalidraw/정저항 회로 (draw).md"
     },
     {
       "basename": "2단자망",
@@ -91,14 +99,6 @@
     {
       "basename": "V결선 (draw)",
       "path": "Excalidraw/V결선 (draw).md"
-    },
-    {
-      "basename": "2전력계법 (draw)",
-      "path": "Excalidraw/2전력계법 (draw).md"
-    },
-    {
-      "basename": "Y 결선",
-      "path": "04. Practice Notes/Y 결선.md"
     }
   ],
   "omittedPaths": [],

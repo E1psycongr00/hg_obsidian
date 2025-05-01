@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/정저항 회로.md",
+                "file": "04. Practice Notes/역회로.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "정저항 회로"
+              "title": "역회로"
+            }
+          },
+          {
+            "id": "27c1e41da53fde88",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-01 20.10.26.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-01 20.10.26.excalidraw"
             }
           },
           {
@@ -34,7 +46,8 @@
               "title": "정저항 회로 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/정저항 회로.md"
+                "file": "Excalidraw/Drawing 2025-05-01 20.10.26.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "정저항 회로 의 파일 속성"
+              "title": "Drawing 2025-05-01 20.10.26.excalidraw 의 파일 속성"
             }
           },
           {
@@ -296,13 +309,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/정저항 회로.md",
+                "file": "Excalidraw/Drawing 2025-05-01 20.10.26.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정저항 회로 의 개요"
+              "title": "Drawing 2025-05-01 20.10.26.excalidraw 의 개요"
             }
           }
         ]
@@ -335,13 +348,15 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "27c1e41da53fde88",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
+    "Excalidraw/Drawing 2025-05-01 20.10.26.excalidraw.md",
+    "04. Practice Notes/역회로.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/정저항 회로.md",
     "Excalidraw/정저항 회로 (draw).md",
     "Excalidraw/정저항 회로 (draw).svg",
-    "02. MOC/Home.md",
-    "04. Practice Notes/정저항 회로.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/2단자망.md",
     "Excalidraw/2단자망 (draw).md",
     "Excalidraw/2단자망 (draw).svg",
@@ -370,7 +385,6 @@
     "03. Permanent Notes/2전력계법.md",
     "Excalidraw/2전력계법 벡터도 (draw).md",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
-    "Excalidraw/델타-델타 결선 (draw).md",
     "Excalidraw/2전력계법 (draw).svg",
     "Excalidraw/V결선 (draw).svg",
     "Excalidraw/델타-델타 결선 (draw).svg",
