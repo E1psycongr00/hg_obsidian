@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ABCD 파라미터",
+      "path": "03. Permanent Notes/ABCD 파라미터.md"
+    },
+    {
       "basename": "T 형 회로 (draw)",
       "path": "Excalidraw/T 형 회로 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "pi형 회로 (draw)",
+      "path": "Excalidraw/pi형 회로 (draw).md"
     },
     {
-      "basename": "ABCD 파라미터",
-      "path": "03. Permanent Notes/ABCD 파라미터.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -95,10 +99,6 @@
     {
       "basename": "2전력계법",
       "path": "03. Permanent Notes/2전력계법.md"
-    },
-    {
-      "basename": "2전력계법 벡터도 (draw)",
-      "path": "Excalidraw/2전력계법 벡터도 (draw).md"
     }
   ],
   "omittedPaths": [],

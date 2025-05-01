@@ -89,6 +89,28 @@ $$
 
 ### T형과  pi형 회로
 
+#### T형 회로
+
+![[T 형 회로 (draw).svg|400]]
+$$
+\begin{bmatrix}
+1 & Z_{1} \\
+0 & 1
+\end{bmatrix}
+\begin{bmatrix}
+1 & 0 \\
+Y_{3} & 1
+\end{bmatrix}
+\begin{bmatrix}
+1 & Z_{2} \\
+0 & 1
+\end{bmatrix}
+$$
+
+#### pi형 회로
+
+![[pi형 회로 (draw).svg|400]]
+
 $$
 \begin{bmatrix}
 1 & Z_{1} \\
