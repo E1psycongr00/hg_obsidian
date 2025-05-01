@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "2단자망"
             }
-          },
-          {
-            "id": "cc90b7e7e60fe3d1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2단자망 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "2단자망 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/2단자망 (draw).md"
+                "file": "04. Practice Notes/2단자망.md"
               },
               "icon": "lucide-info",
-              "title": "2단자망 (draw) 의 파일 속성"
+              "title": "2단자망 의 파일 속성"
             }
           },
           {
@@ -297,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/2단자망 (draw).md",
+                "file": "04. Practice Notes/2단자망.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2단자망 (draw) 의 개요"
+              "title": "2단자망 의 개요"
             }
           }
         ]
@@ -336,11 +323,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cc90b7e7e60fe3d1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/2단자망 (draw).md",
     "04. Practice Notes/2단자망.md",
     "Excalidraw/2단자망 (draw).svg",
-    "Excalidraw/2단자망 (draw).md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
