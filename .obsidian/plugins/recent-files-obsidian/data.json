@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Z형 파라미터",
-      "path": "04. Practice Notes/Z형 파라미터.md"
+      "basename": "Y형 파라미터",
+      "path": "04. Practice Notes/Y형 파라미터.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "Z형 파라미터",
+      "path": "04. Practice Notes/Z형 파라미터.md"
     },
     {
       "basename": "ABCD 파라미터",
@@ -95,10 +99,6 @@
     {
       "basename": "📚 유연한 설계 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "🏛️ Typescript Deep Dive",
-      "path": "02. MOC/🏛️ Typescript Deep Dive.md"
     }
   ],
   "omittedPaths": [],
