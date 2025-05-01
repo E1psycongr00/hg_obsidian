@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "ABCD 파라미터",
+      "path": "03. Permanent Notes/ABCD 파라미터.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
-      "basename": "ABCD 파라미터",
-      "path": "03. Permanent Notes/ABCD 파라미터.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "T 형 회로 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
       "path": "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
-    },
-    {
-      "basename": "2전력계법",
-      "path": "03. Permanent Notes/2전력계법.md"
     }
   ],
   "omittedPaths": [],
