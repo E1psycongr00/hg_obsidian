@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/Y형 파라미터.md"
     },
     {
+      "basename": "pi형 회로 (draw)",
+      "path": "Excalidraw/pi형 회로 (draw).md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "T 형 회로 (draw)",
       "path": "Excalidraw/T 형 회로 (draw).md"
-    },
-    {
-      "basename": "pi형 회로 (draw)",
-      "path": "Excalidraw/pi형 회로 (draw).md"
     },
     {
       "basename": "정저항 회로",
