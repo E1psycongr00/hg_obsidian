@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f320a0bcfb83fb5",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "774770bc179d9d0b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -254,6 +254,16 @@
             "id": "8c203fc9fb1280a0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "ceb16fad35716c42",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -261,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "7d466e57ea240c21",
@@ -313,13 +323,13 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "774770bc179d9d0b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
     "08. 공부 자료/pdf/book/introducing-eventstorming.pdf",
     "08. 공부 자료/pdf/book/Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi.pdf",
     "08. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf",
     "02. MOC/🏛️ 회로 이론.md",
-    "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 상속과 코드 재사용 (오브젝트 -조용호).md",
     "attachments/screenshot/Pasted image 20250429180549.png",
     "attachments/screenshot/Pasted image 20250429180353.png",
@@ -362,7 +372,6 @@
     "07. Solution Notes/Archive",
     "07. Solution Notes/Area",
     "07. Solution Notes",
-    "08. 공부 자료/pdf/book/websocket-lightweight-client-server-communications_compress.pdf",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
