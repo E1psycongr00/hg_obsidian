@@ -87,6 +87,22 @@ $$
 
 ![[Pasted image 20250221144734.png]]
 
+### T형과  pi형 회로
+
+$$
+\begin{bmatrix}
+1 & Z_{1} \\
+0 & 1
+\end{bmatrix}
+\begin{bmatrix}
+1 & 0 \\
+Y_{3} & 1
+\end{bmatrix}
+\begin{bmatrix}
+1 & Z_{2} \\
+0 & 1
+\end{bmatrix}
+$$
 
 
 ## 질문 & 확장

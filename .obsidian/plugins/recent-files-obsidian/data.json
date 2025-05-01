@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "역회로",
-      "path": "04. Practice Notes/역회로.md"
-    },
-    {
-      "basename": "역회로 (draw)",
-      "path": "Excalidraw/역회로 (draw).md"
+      "basename": "T 형 회로 (draw)",
+      "path": "Excalidraw/T 형 회로 (draw).md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "ABCD 파라미터",
+      "path": "03. Permanent Notes/ABCD 파라미터.md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -19,6 +19,14 @@
     {
       "basename": "정저항 회로",
       "path": "03. Permanent Notes/정저항 회로.md"
+    },
+    {
+      "basename": "역회로",
+      "path": "03. Permanent Notes/역회로.md"
+    },
+    {
+      "basename": "역회로 (draw)",
+      "path": "Excalidraw/역회로 (draw).md"
     },
     {
       "basename": "정저항 회로 (draw)",
@@ -91,14 +99,6 @@
     {
       "basename": "2전력계법 벡터도 (draw)",
       "path": "Excalidraw/2전력계법 벡터도 (draw).md"
-    },
-    {
-      "basename": "델타-델타 결선 (draw)",
-      "path": "Excalidraw/델타-델타 결선 (draw).md"
-    },
-    {
-      "basename": "V결선 (draw)",
-      "path": "Excalidraw/V결선 (draw).md"
     }
   ],
   "omittedPaths": [],
