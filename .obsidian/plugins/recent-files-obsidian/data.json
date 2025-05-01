@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "영상 파라미터",
+      "path": "영상 파라미터.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Designing_Data_Intensive_Applications",
       "path": "08. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf"
-    },
-    {
-      "basename": "📚 유연한 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md"
     }
   ],
   "omittedPaths": [],
