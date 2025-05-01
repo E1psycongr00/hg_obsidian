@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2단자망 (draw)",
+      "path": "Excalidraw/2단자망 (draw).md"
+    },
+    {
+      "basename": "2단자망",
+      "path": "04. Practice Notes/2단자망.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
       "basename": "동기 발전기 병렬 운전 조건",
       "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "🏛️ 제어 공학",
@@ -31,10 +43,6 @@
     {
       "basename": "📚 합성과 유연한 설계 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 합성과 유연한 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "introducing-eventstorming",
@@ -91,14 +99,6 @@
     {
       "basename": "delta 결선",
       "path": "03. Permanent Notes/delta 결선.md"
-    },
-    {
-      "basename": "V 결선",
-      "path": "03. Permanent Notes/V 결선.md"
-    },
-    {
-      "basename": "delta 결선 (draw)",
-      "path": "Excalidraw/delta 결선 (draw).md"
     }
   ],
   "omittedPaths": [],
