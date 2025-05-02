@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "정재파",
-      "path": "04. Practice Notes/정재파.md"
-    },
-    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -14,7 +10,11 @@
     },
     {
       "basename": "분포 정수 회로",
-      "path": "04. Practice Notes/분포 정수 회로.md"
+      "path": "03. Permanent Notes/분포 정수 회로.md"
+    },
+    {
+      "basename": "정재파",
+      "path": "04. Practice Notes/정재파.md"
     },
     {
       "basename": "전파 정수",

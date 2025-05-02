@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/정재파.md",
-                "mode": "preview",
+                "file": "02. MOC/🏛️ 회로 이론.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "정재파"
-            }
-          },
-          {
-            "id": "cdccef0171bd075c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/정재파비 개념 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "정재파비 개념 (draw)"
+              "title": "🏛️ 회로 이론"
             }
           },
           {
@@ -127,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/정재파.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "정재파 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -281,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/정재파.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정재파 의 개요"
+              "title": "🏛️ 회로 이론 의 개요"
             }
           }
         ]
@@ -322,11 +310,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
-    "04. Practice Notes/정재파.md",
     "Excalidraw/정재파비 개념 (draw).md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/분포 정수 회로.md",
+    "04. Practice Notes/정재파.md",
     "Excalidraw/정재파비 개념 (draw).svg",
-    "04. Practice Notes/분포 정수 회로.md",
     "03. Permanent Notes/전파 정수.md",
     "Excalidraw/분포 정수 회로 (draw).md",
     "Excalidraw/분포 정수 회로 (draw).svg",
