@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영상 파라미터.md",
+                "file": "04. Practice Notes/영상 파라미터.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,18 +23,15 @@
             }
           },
           {
-            "id": "c8fe9fd52d2df2db",
+            "id": "ad463eee8a7a41e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "04. Practice Notes/Y형 파라미터.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/영상 임피던스 (draw).md"
               },
-              "icon": "lucide-file",
-              "title": "Y형 파라미터"
+              "icon": "excalidraw-icon",
+              "title": "영상 임피던스 (draw)"
             }
           },
           {
@@ -52,7 +49,8 @@
               "title": "🏛️ 전력 공학"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "영상 파라미터.md"
+                "file": "Excalidraw/영상 임피던스 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "영상 파라미터 의 파일 속성"
+              "title": "영상 임피던스 (draw) 의 파일 속성"
             }
           },
           {
@@ -284,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영상 파라미터.md",
+                "file": "Excalidraw/영상 임피던스 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "영상 파라미터 의 개요"
+              "title": "영상 임피던스 (draw) 의 개요"
             }
           }
         ]
@@ -323,16 +321,18 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ad463eee8a7a41e4",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
-    "영상 파라미터.md",
+    "Excalidraw/영상 임피던스 (draw).svg",
+    "04. Practice Notes/영상 파라미터.md",
+    "Excalidraw/영상 임피던스 (draw).md",
+    "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/Y형 파라미터.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/Z형 파라미터.md",
     "Excalidraw/pi형 회로 (draw).md",
     "03. Permanent Notes/ABCD 파라미터.md",
     "02. MOC/Home.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/T 형 회로 (draw).md",
     "Excalidraw/pi형 회로 (draw).svg",
     "Excalidraw/T 형 회로 (draw).svg",
@@ -359,8 +359,6 @@
     "08. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf",
     "attachments/screenshot/Pasted image 20250429180549.png",
     "attachments/screenshot/Pasted image 20250429180353.png",
-    "06. Reference Notes/Book/📚 유연한 설계 (오브젝트 - 조용호).md",
-    "02. MOC/🏛️ Typescript Deep Dive.md",
     "06. Reference Notes/Web",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
