@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "분포 정수 회로 (draw)",
+      "path": "Excalidraw/분포 정수 회로 (draw).md"
+    },
+    {
+      "basename": "분포 정수 회로",
+      "path": "04. Practice Notes/분포 정수 회로.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "📚 상속과 코드 재사용 (오브젝트 -조용호)",
       "path": "06. Reference Notes/Book/📚 상속과 코드 재사용 (오브젝트 -조용호).md"
-    },
-    {
-      "basename": "📚 합성과 유연한 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 합성과 유연한 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "introducing-eventstorming",
-      "path": "08. 공부 자료/pdf/book/introducing-eventstorming.pdf"
     }
   ],
   "omittedPaths": [],
