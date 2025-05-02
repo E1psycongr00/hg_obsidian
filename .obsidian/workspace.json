@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/영상 파라미터.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "영상 파라미터"
+              "title": "🏛️ 회로 이론"
             }
           },
           {
@@ -127,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/영상 파라미터.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "영상 파라미터 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -281,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/영상 파라미터.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "영상 파라미터 의 개요"
+              "title": "🏛️ 회로 이론 의 개요"
             }
           }
         ]
@@ -323,11 +323,11 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Excalidraw/영상 임피던스 (draw).md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/영상 임피던스.md",
     "Excalidraw/영상 임피던스 (draw).svg",
-    "04. Practice Notes/영상 파라미터.md",
     "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/Y형 파라미터.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/Z형 파라미터.md",
     "Excalidraw/pi형 회로 (draw).md",
     "03. Permanent Notes/ABCD 파라미터.md",
