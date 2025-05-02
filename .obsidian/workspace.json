@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "cdccef0171bd075c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/정재파비 개념 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "정재파비 개념 (draw)"
+            }
+          },
+          {
             "id": "f4c1dad7e72147cf",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "🏛️ 전력 공학"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/정재파.md"
+                "file": "Excalidraw/정재파비 개념 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "정재파 의 파일 속성"
+              "title": "정재파비 개념 (draw) 의 파일 속성"
             }
           },
           {
@@ -269,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/정재파.md",
+                "file": "Excalidraw/정재파비 개념 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정재파 의 개요"
+              "title": "정재파비 개념 (draw) 의 개요"
             }
           }
         ]
@@ -308,10 +321,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cdccef0171bd075c",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
+    "Excalidraw/정재파비 개념 (draw).svg",
     "04. Practice Notes/정재파.md",
+    "Excalidraw/정재파비 개념 (draw).md",
+    "02. MOC/🏛️ 회로 이론.md",
     "04. Practice Notes/분포 정수 회로.md",
     "03. Permanent Notes/전파 정수.md",
     "Excalidraw/분포 정수 회로 (draw).md",
@@ -341,8 +356,6 @@
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "03. Permanent Notes/동기 속도.md",
     "02. MOC/🏛️ 전기 기기.md",
-    "03. Permanent Notes/전기자 반작용.md",
-    "03. Permanent Notes/정류.md",
     "08. 공부 자료/pdf/book/introducing-eventstorming.pdf",
     "08. 공부 자료/pdf/book/Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi.pdf",
     "08. 공부 자료/pdf/book/Designing_Data_Intensive_Applications.pdf",
