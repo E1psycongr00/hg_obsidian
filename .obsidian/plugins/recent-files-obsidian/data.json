@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "영상 전달 정수",
-      "path": "04. Practice Notes/영상 전달 정수.md"
-    },
-    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
-      "basename": "영상 임피던스 (draw)",
-      "path": "Excalidraw/영상 임피던스 (draw).md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "Y형 파라미터",
+      "path": "04. Practice Notes/Y형 파라미터.md"
     },
     {
       "basename": "영상 임피던스",
       "path": "03. Permanent Notes/영상 임피던스.md"
     },
     {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
+      "basename": "영상 전달 정수",
+      "path": "04. Practice Notes/영상 전달 정수.md"
     },
     {
-      "basename": "Y형 파라미터",
-      "path": "04. Practice Notes/Y형 파라미터.md"
+      "basename": "영상 임피던스 (draw)",
+      "path": "Excalidraw/영상 임피던스 (draw).md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "Z형 파라미터",
@@ -35,10 +39,6 @@
     {
       "basename": "ABCD 파라미터",
       "path": "03. Permanent Notes/ABCD 파라미터.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "T 형 회로 (draw)",
