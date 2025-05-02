@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "영상 전달 정수",
+      "path": "04. Practice Notes/영상 전달 정수.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "introducing-eventstorming",
       "path": "08. 공부 자료/pdf/book/introducing-eventstorming.pdf"
-    },
-    {
-      "basename": "Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi",
-      "path": "08. 공부 자료/pdf/book/Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi.pdf"
     }
   ],
   "omittedPaths": [],
