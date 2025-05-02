@@ -49,8 +49,7 @@
               "title": "🏛️ 전력 공학"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/영상 임피던스 (draw).md"
+                "file": "04. Practice Notes/영상 파라미터.md"
               },
               "icon": "lucide-info",
-              "title": "영상 임피던스 (draw) 의 파일 속성"
+              "title": "영상 파라미터 의 파일 속성"
             }
           },
           {
@@ -282,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/영상 임피던스 (draw).md",
+                "file": "04. Practice Notes/영상 파라미터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "영상 임피던스 (draw) 의 개요"
+              "title": "영상 파라미터 의 개요"
             }
           }
         ]
@@ -321,11 +320,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ad463eee8a7a41e4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/영상 임피던스 (draw).md",
     "Excalidraw/영상 임피던스 (draw).svg",
     "04. Practice Notes/영상 파라미터.md",
-    "Excalidraw/영상 임피던스 (draw).md",
     "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/Y형 파라미터.md",
     "02. MOC/🏛️ 회로 이론.md",
@@ -362,7 +361,6 @@
     "06. Reference Notes/Web",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
-    "Excalidraw/V결선 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
