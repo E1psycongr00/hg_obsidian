@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "81aaf59fbe59812b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/분포 정수 회로 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "분포 정수 회로 (draw)"
-            }
-          },
-          {
             "id": "f4c1dad7e72147cf",
             "type": "leaf",
             "state": {
@@ -49,8 +37,7 @@
               "title": "🏛️ 전력 공학"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/분포 정수 회로 (draw).md"
+                "file": "04. Practice Notes/분포 정수 회로.md"
               },
               "icon": "lucide-info",
-              "title": "분포 정수 회로 (draw) 의 파일 속성"
+              "title": "분포 정수 회로 의 파일 속성"
             }
           },
           {
@@ -282,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/분포 정수 회로 (draw).md",
+                "file": "04. Practice Notes/분포 정수 회로.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "분포 정수 회로 (draw) 의 개요"
+              "title": "분포 정수 회로 의 개요"
             }
           }
         ]
@@ -321,11 +308,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "81aaf59fbe59812b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/분포 정수 회로 (draw).md",
     "Excalidraw/분포 정수 회로 (draw).svg",
     "04. Practice Notes/분포 정수 회로.md",
-    "Excalidraw/분포 정수 회로 (draw).md",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/영상 전달 정수.md",
     "03. Permanent Notes/영상 임피던스.md",
@@ -362,7 +349,6 @@
     "attachments/screenshot/Pasted image 20250429180353.png",
     "06. Reference Notes/Web",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
-    "Excalidraw/2전력계법 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "08. 공부 자료/pdf/book/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
