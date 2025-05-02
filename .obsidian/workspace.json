@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/분포 정수 회로.md",
+                "file": "03. Permanent Notes/전파 정수.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "분포 정수 회로"
+              "title": "전파 정수"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/분포 정수 회로.md"
+                "file": "03. Permanent Notes/전파 정수.md"
               },
               "icon": "lucide-info",
-              "title": "분포 정수 회로 의 파일 속성"
+              "title": "전파 정수 의 파일 속성"
             }
           },
           {
@@ -269,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/분포 정수 회로.md",
+                "file": "03. Permanent Notes/전파 정수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "분포 정수 회로 의 개요"
+              "title": "전파 정수 의 개요"
             }
           }
         ]
@@ -310,9 +310,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04. Practice Notes/분포 정수 회로.md",
     "Excalidraw/분포 정수 회로 (draw).md",
     "Excalidraw/분포 정수 회로 (draw).svg",
-    "04. Practice Notes/분포 정수 회로.md",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/영상 전달 정수.md",
     "03. Permanent Notes/영상 임피던스.md",
