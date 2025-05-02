@@ -6,7 +6,7 @@ aliases:
 created: 2025-05-02
 title: Y형 파라미터
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
