@@ -62,5 +62,8 @@
   "blue-topaz-theme@@table-width": "table-width-100",
   "blue-topaz-theme@@clutter-free-headings": false,
   "blue-topaz-theme@@funny-header-anim": false,
-  "blue-topaz-theme@@show-border-table": true
+  "blue-topaz-theme@@show-border-table": true,
+  "blue-topaz-theme@@h2-line-height": 2,
+  "blue-topaz-theme@@header-3-background": false,
+  "blue-topaz-theme@@h3-toggle-short-underline": false
 }
