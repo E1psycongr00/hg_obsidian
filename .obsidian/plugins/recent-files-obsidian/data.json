@@ -13,6 +13,10 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "전속",
+      "path": "03. Permanent Notes/전속.md"
+    },
+    {
       "basename": "절연 파괴",
       "path": "03. Permanent Notes/절연 파괴.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "pi형 회로 (draw)",
       "path": "Excalidraw/pi형 회로 (draw).md"
-    },
-    {
-      "basename": "ABCD 파라미터",
-      "path": "03. Permanent Notes/ABCD 파라미터.md"
     }
   ],
   "omittedPaths": [],
