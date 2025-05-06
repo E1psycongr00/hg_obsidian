@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "전도 전류",
       "path": "03. Permanent Notes/전도 전류.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "무한 평면과 점전하 영상법 (draw)",
       "path": "Excalidraw/무한 평면과 점전하 영상법 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "맥스웰 방정식",

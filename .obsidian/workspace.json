@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ 전자기학.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "내압",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -233,6 +233,16 @@
             "id": "fc29daafa1fd77e3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "8ea35c0bc38b84a5",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -240,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "7d466e57ea240c21",
@@ -293,9 +303,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/전도 전류.md",
+    "03. Permanent Notes/전자기 에너지.md",
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/전자기파.md",
+    "03. Permanent Notes/전기장 에너지 밀도.md",
     "03. Permanent Notes/내압.md",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/전도 전류.md",
     "03. Permanent Notes/절연 파괴.md",
     "03. Permanent Notes/저항과 정전용량 관계.md",
     "03. Permanent Notes/전위.md",
@@ -304,7 +318,6 @@
     "Excalidraw/무한 평면과 선전하 영상법 (draw).md",
     "Excalidraw/무한 평면과 선전하 영상법 (draw).svg",
     "Excalidraw/무한 평면과 점전하 영상법 (draw).md",
-    "02. MOC/Home.md",
     "Excalidraw/접지된 구도체 전하 영상법 (draw).svg",
     "Excalidraw/무한 평면과 점전하 영상법 (draw).svg",
     "03. Permanent Notes/맥스웰 방정식.md",
@@ -316,7 +329,6 @@
     "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).svg",
     "Excalidraw/경계면 유전체에 수직으로 전계가 받는 경우 힘(draw).svg",
     "Excalidraw/경계면 유전체가 받는 힘 (draw).svg",
-    "03. Permanent Notes/전기장 에너지 밀도.md",
     "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/전속 밀도와 유전율 관계 (draw).md",
     "03. Permanent Notes/유전체 경계 조건.md",
@@ -326,9 +338,7 @@
     "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).svg",
     "Excalidraw/유전체 경계 조건 (draw).md",
     "Excalidraw/전계의 유전체 경계 조건 (draw).svg",
-    "무제.md",
     "Excalidraw/유전체 경계 조건 (draw).svg",
-    "02. MOC/🏛️ 전기 기기.md",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
