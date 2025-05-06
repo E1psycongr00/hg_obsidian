@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "07e2f9487dd866a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "전속 밀도와 유전체 경계 조건 (draw)"
-            }
-          },
-          {
             "id": "f03f51c066852f4e",
             "type": "leaf",
             "state": {
@@ -61,8 +49,7 @@
               "title": "전계의 유전체 경계 조건 (draw)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).md"
+                "file": "04. Practice Notes/유전체 경계 조건.md"
               },
               "icon": "lucide-info",
-              "title": "전속 밀도와 유전체 경계 조건 (draw) 의 파일 속성"
+              "title": "유전체 경계 조건 의 파일 속성"
             }
           },
           {
@@ -229,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).md",
+                "file": "04. Practice Notes/유전체 경계 조건.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -257,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전속 밀도와 유전체 경계 조건 (draw) 그래프"
+              "title": "유전체 경계 조건 그래프"
             }
           },
           {
@@ -304,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).md",
+                "file": "04. Practice Notes/유전체 경계 조건.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "전속 밀도와 유전체 경계 조건 (draw) 의 개요"
+              "title": "유전체 경계 조건 의 개요"
             }
           }
         ]
@@ -343,13 +330,13 @@
       "audio-recorder:녹음 시작/정지": false
     }
   },
-  "active": "07e2f9487dd866a7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전자기학.md",
+    "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).md",
     "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).svg",
     "Excalidraw/전계의 유전체 경계 조건 (draw).md",
     "02. MOC/Home.md",
-    "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).md",
-    "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/유전체 경계 조건.md",
     "Excalidraw/유전체 경계 조건 (draw).md",
     "Excalidraw/전계의 유전체 경계 조건 (draw).svg",
@@ -385,7 +372,6 @@
     "Excalidraw/T 형 회로 (draw).svg",
     "Excalidraw/역회로 (draw).svg",
     "Excalidraw/정저항 회로 (draw).svg",
-    "Excalidraw/2단자망 (draw).svg",
     "08. 공부 자료/pdf/book/컴퓨터 과학/introducing-eventstorming.pdf",
     "08. 공부 자료/pdf/book/컴퓨터 과학/Concepts, Techniques, and Models of Computer Programming by Peter Van Roy and Seif Haridi.pdf",
     "08. 공부 자료/pdf/book/컴퓨터 과학/Designing_Data_Intensive_Applications.pdf",
