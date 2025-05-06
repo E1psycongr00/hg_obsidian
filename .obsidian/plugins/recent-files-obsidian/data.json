@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "전기 영상법",
-      "path": "04. Practice Notes/전기 영상법.md"
-    },
-    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "전위",
+      "path": "03. Permanent Notes/전위.md"
+    },
+    {
+      "basename": "전기 영상법",
+      "path": "03. Permanent Notes/전기 영상법.md"
     },
     {
       "basename": "접지된 구도체 전하 영상법 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "전속",
       "path": "03. Permanent Notes/전속.md"
-    },
-    {
-      "basename": "분극",
-      "path": "03. Permanent Notes/분극.md"
     }
   ],
   "omittedPaths": [],
