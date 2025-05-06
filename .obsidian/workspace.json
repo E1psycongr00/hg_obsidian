@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/분극.md",
+                "file": "04. Practice Notes/전속 밀도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "분극"
+              "title": "전속 밀도"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/분극.md"
+                "file": "04. Practice Notes/전속 밀도.md"
               },
               "icon": "lucide-info",
-              "title": "분극 의 파일 속성"
+              "title": "전속 밀도 의 파일 속성"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/분극.md",
+                "file": "04. Practice Notes/전속 밀도.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "분극 의 개요"
+              "title": "전속 밀도 의 개요"
             }
           }
         ]
@@ -307,6 +307,7 @@
   "lastOpenFiles": [
     "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/분극.md",
+    "04. Practice Notes/전속 밀도.md",
     "03. Permanent Notes/2022 4월 전기기사 4번.md",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
@@ -338,7 +339,6 @@
     "Excalidraw/영상 임피던스 (draw).svg",
     "03. Permanent Notes/Z형 파라미터.md",
     "Excalidraw/pi형 회로 (draw).md",
-    "03. Permanent Notes/ABCD 파라미터.md",
     "Excalidraw/pi형 회로 (draw).svg",
     "Excalidraw/T 형 회로 (draw).svg",
     "Excalidraw/역회로 (draw).svg",
