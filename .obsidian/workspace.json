@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/전기장 에너지 밀도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전자기학"
+              "title": "전기장 에너지 밀도"
             }
           }
         ],
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md"
+                "file": "03. Permanent Notes/전기장 에너지 밀도.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전자기학 의 파일 속성"
+              "title": "전기장 에너지 밀도 의 파일 속성"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/전기장 에너지 밀도.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전자기학 그래프"
+              "title": "전기장 에너지 밀도 그래프"
             }
           },
           {
@@ -279,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/전기장 에너지 밀도.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전자기학 의 개요"
+              "title": "전기장 에너지 밀도 의 개요"
             }
           }
         ]
@@ -320,8 +320,8 @@
   },
   "active": "80c33adad7c7f67c",
   "lastOpenFiles": [
-    "Excalidraw/전속 밀도와 유전율 관계 (draw).md",
     "02. MOC/🏛️ 전자기학.md",
+    "Excalidraw/전속 밀도와 유전율 관계 (draw).md",
     "03. Permanent Notes/유전체 경계 조건.md",
     "Excalidraw/전속 밀도와 유전율 관계 (draw).svg",
     "02. MOC/Home.md",
