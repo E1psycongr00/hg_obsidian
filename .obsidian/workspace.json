@@ -99,11 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02. MOC/🏛️ 전자기학.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "🏛️ 전자기학 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -251,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "7d466e57ea240c21",
@@ -264,13 +262,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전자기학 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -299,13 +296,14 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "audio-recorder:녹음 시작/정지": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ceb16fad35716c42",
   "lastOpenFiles": [
-    "03. Permanent Notes/대류 전류.md",
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/대류 전류.md",
     "02. MOC/Home.md",
     "06. Reference Notes/Book/📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 합성과 유연한 설계 (오브젝트 - 조용호).md",
