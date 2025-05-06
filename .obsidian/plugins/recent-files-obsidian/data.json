@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/전기 영상법.md"
     },
     {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
       "basename": "접지된 구도체 전하 영상법 (draw)",
       "path": "Excalidraw/접지된 구도체 전하 영상법 (draw).md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "맥스웰 방정식",
