@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -249,7 +249,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -300,7 +300,7 @@
       "audio-recorder:녹음 시작/정지": false
     }
   },
-  "active": "ceb16fad35716c42",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/대류 전류.md",
