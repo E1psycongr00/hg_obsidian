@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "전기장 에너지 밀도",
-      "path": "03. Permanent Notes/전기장 에너지 밀도.md"
+      "basename": "경계면 유전체가 받는 힘 (draw)",
+      "path": "Excalidraw/경계면 유전체가 받는 힘 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "유전체 경계면이 받는 힘",
+      "path": "04. Practice Notes/유전체 경계면이 받는 힘.md"
     },
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "전기장 에너지 밀도",
+      "path": "03. Permanent Notes/전기장 에너지 밀도.md"
     },
     {
       "basename": "전속 밀도와 유전율 관계 (draw)",
@@ -15,10 +27,6 @@
     {
       "basename": "유전체 경계 조건",
       "path": "03. Permanent Notes/유전체 경계 조건.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "전계의 유전체 경계 조건 (draw)",
@@ -91,14 +99,6 @@
     {
       "basename": "🏛️ 오브젝트 - 조용호",
       "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
-    },
-    {
-      "basename": "Y형 파라미터",
-      "path": "03. Permanent Notes/Y형 파라미터.md"
-    },
-    {
-      "basename": "정재파비 개념 (draw)",
-      "path": "Excalidraw/정재파비 개념 (draw).md"
     }
   ],
   "omittedPaths": [],
