@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "물질의 자화",
+      "path": "04. Practice Notes/물질의 자화.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "자기 회로",
+      "path": "03. Permanent Notes/자기 회로.md"
+    },
+    {
+      "basename": "정전용량",
+      "path": "03. Permanent Notes/정전용량.md"
     },
     {
       "basename": "내압",
@@ -49,10 +61,6 @@
       "path": "03. Permanent Notes/맥스웰 방정식.md"
     },
     {
-      "basename": "자기 회로",
-      "path": "03. Permanent Notes/자기 회로.md"
-    },
-    {
       "basename": "유전체 경계면이 받는 힘",
       "path": "03. Permanent Notes/유전체 경계면이 받는 힘.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "유전체 경계 조건 (draw)",
       "path": "Excalidraw/유전체 경계 조건 (draw).md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
     }
   ],
   "omittedPaths": [],
