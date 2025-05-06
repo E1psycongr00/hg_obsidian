@@ -9,12 +9,16 @@
       "path": "Excalidraw/접지된 구도체 전하 영상법 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "무한 평면과 선전하 영상법 (draw)",
+      "path": "Excalidraw/무한 평면과 선전하 영상법 (draw).md"
     },
     {
       "basename": "무한 평면과 점전하 영상법 (draw)",
       "path": "Excalidraw/무한 평면과 점전하 영상법 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전자기학",
@@ -95,10 +99,6 @@
     {
       "basename": "분극",
       "path": "03. Permanent Notes/분극.md"
-    },
-    {
-      "basename": "🔬분극과 전속 밀도 관계 증명",
-      "path": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md"
     }
   ],
   "omittedPaths": [],
