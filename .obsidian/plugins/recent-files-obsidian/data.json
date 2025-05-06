@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "전속 밀도",
-      "path": "04. Practice Notes/전속 밀도.md"
+      "basename": "🔬분극과 전속 밀도 관계 증명",
+      "path": "04. Practice Notes/🔬분극과 전속 밀도 관계 증명.md"
     },
     {
       "basename": "분극",
@@ -11,6 +11,14 @@
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "절연 파괴",
+      "path": "03. Permanent Notes/절연 파괴.md"
+    },
+    {
+      "basename": "전속 밀도",
+      "path": "04. Practice Notes/전속 밀도.md"
     },
     {
       "basename": "2022 4월 전기기사 4번",
@@ -91,14 +99,6 @@
     {
       "basename": "ABCD 파라미터",
       "path": "03. Permanent Notes/ABCD 파라미터.md"
-    },
-    {
-      "basename": "T 형 회로 (draw)",
-      "path": "Excalidraw/T 형 회로 (draw).md"
-    },
-    {
-      "basename": "정저항 회로",
-      "path": "03. Permanent Notes/정저항 회로.md"
     }
   ],
   "omittedPaths": [],
