@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "유전체 경계 조건",
-      "path": "04. Practice Notes/유전체 경계 조건.md"
+      "basename": "전계의 유전체 경계 조건 (draw)",
+      "path": "Excalidraw/전계의 유전체 경계 조건 (draw).md"
     },
     {
       "basename": "유전체 경계 조건 (draw)",
@@ -11,6 +11,10 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "유전체 경계 조건",
+      "path": "04. Practice Notes/유전체 경계 조건.md"
     },
     {
       "basename": "🏛️ 전자기학",
@@ -95,10 +99,6 @@
     {
       "basename": "전파 정수",
       "path": "03. Permanent Notes/전파 정수.md"
-    },
-    {
-      "basename": "분포 정수 회로 (draw)",
-      "path": "Excalidraw/분포 정수 회로 (draw).md"
     }
   ],
   "omittedPaths": [],

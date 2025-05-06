@@ -48,8 +48,21 @@
               "icon": "excalidraw-icon",
               "title": "유전체 경계 조건 (draw)"
             }
+          },
+          {
+            "id": "6eabc72ee086c72d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/전계의 유전체 경계 조건 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "전계의 유전체 경계 조건 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,10 +140,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/유전체 경계 조건.md"
+                "file": "Excalidraw/전계의 유전체 경계 조건 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "유전체 경계 조건 의 파일 속성"
+              "title": "전계의 유전체 경계 조건 (draw) 의 파일 속성"
             }
           },
           {
@@ -216,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/유전체 경계 조건.md",
+                "file": "Excalidraw/전계의 유전체 경계 조건 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -244,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "유전체 경계 조건 그래프"
+              "title": "전계의 유전체 경계 조건 (draw) 그래프"
             }
           },
           {
@@ -291,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/유전체 경계 조건.md",
+                "file": "Excalidraw/전계의 유전체 경계 조건 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "유전체 경계 조건 의 개요"
+              "title": "전계의 유전체 경계 조건 (draw) 의 개요"
             }
           }
         ]
@@ -330,12 +343,15 @@
       "audio-recorder:녹음 시작/정지": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6eabc72ee086c72d",
   "lastOpenFiles": [
+    "Excalidraw/전계의 유전체 경계 조건 (draw).svg",
     "Excalidraw/유전체 경계 조건 (draw).md",
-    "Excalidraw/유전체 경계 조건 (draw).svg",
+    "Excalidraw/전계의 유전체 경계 조건 (draw).md",
     "02. MOC/Home.md",
+    "무제.md",
     "04. Practice Notes/유전체 경계 조건.md",
+    "Excalidraw/유전체 경계 조건 (draw).svg",
     "02. MOC/🏛️ 전자기학.md",
     "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/🏛️ 전기 기기.md",
@@ -361,8 +377,6 @@
     "자화.md",
     "03. Permanent Notes/대류 전류.md",
     "03. Permanent Notes/벡터 항등식.md",
-    "06. Reference Notes/Book/📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호).md",
-    "06. Reference Notes/Book/📚 합성과 유연한 설계 (오브젝트 - 조용호).md",
     "Excalidraw/정재파비 개념 (draw).svg",
     "Excalidraw/분포 정수 회로 (draw).svg",
     "Excalidraw/영상 임피던스 (draw).svg",
