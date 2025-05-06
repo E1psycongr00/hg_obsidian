@@ -21,18 +21,6 @@
               "icon": "lucide-file",
               "title": "물질의 자화"
             }
-          },
-          {
-            "id": "5d4c469509cd84f9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/원자 주위를 회전하는 전자 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "원자 주위를 회전하는 전자 (draw)"
-            }
           }
         ]
       }
@@ -315,9 +303,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/원자 주위를 회전하는 전자 (draw).md",
-    "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
+    "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).md",
+    "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md",
+    "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
+    "02. MOC/Home.md",
     "04. Practice Notes/물질의 자화.md",
+    "Excalidraw/원자 주위를 회전하는 전자 (draw).md",
+    "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
+    "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
     "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/자기 회로.md",
     "03. Permanent Notes/정전용량.md",
@@ -326,7 +319,6 @@
     "03. Permanent Notes/전자기 에너지.md",
     "03. Permanent Notes/전자기파.md",
     "03. Permanent Notes/전기장 에너지 밀도.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/전도 전류.md",
     "03. Permanent Notes/절연 파괴.md",
     "03. Permanent Notes/저항과 정전용량 관계.md",
@@ -342,14 +334,10 @@
     "03. Permanent Notes/유전체 경계면이 받는 힘.md",
     "Excalidraw/경계면 유전체가 받는 힘 (draw).md",
     "Excalidraw/경계면 유전체에 수직으로 전계가 받는 경우 힘(draw).md",
-    "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).md",
     "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).svg",
     "Excalidraw/경계면 유전체에 수직으로 전계가 받는 경우 힘(draw).svg",
     "Excalidraw/경계면 유전체가 받는 힘 (draw).svg",
-    "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/전속 밀도와 유전율 관계 (draw).svg",
-    "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).svg",
-    "Excalidraw/전계의 유전체 경계 조건 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",

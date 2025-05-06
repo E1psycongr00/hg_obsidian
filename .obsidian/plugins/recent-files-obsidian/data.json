@@ -5,6 +5,18 @@
       "path": "04. Practice Notes/물질의 자화.md"
     },
     {
+      "basename": "정렬된 자기 쌍극자 모멘트 (draw)",
+      "path": "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).md"
+    },
+    {
+      "basename": "정렬되지 않는 자기 쌍극자 (draw)",
+      "path": "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "원자 주위를 회전하는 전자 (draw)",
       "path": "Excalidraw/원자 주위를 회전하는 전자 (draw).md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "내압",
       "path": "03. Permanent Notes/내압.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "전도 전류",
@@ -91,14 +99,6 @@
     {
       "basename": "유전체 경계 조건",
       "path": "03. Permanent Notes/유전체 경계 조건.md"
-    },
-    {
-      "basename": "전계의 유전체 경계 조건 (draw)",
-      "path": "Excalidraw/전계의 유전체 경계 조건 (draw).md"
-    },
-    {
-      "basename": "전속 밀도와 유전체 경계 조건 (draw)",
-      "path": "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).md"
     }
   ],
   "omittedPaths": [],
