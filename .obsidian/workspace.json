@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md",
+                "file": "04. Practice Notes/전속 밀도.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 회로 이론 그래프"
+              "title": "전속 밀도 그래프"
             }
           },
           {
@@ -251,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -305,9 +305,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전자기학.md",
-    "03. Permanent Notes/분극.md",
     "04. Practice Notes/전속 밀도.md",
+    "03. Permanent Notes/분극.md",
+    "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/2022 4월 전기기사 4번.md",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
