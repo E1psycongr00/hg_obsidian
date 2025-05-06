@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/물질의 자화.md",
+                "file": "03. Permanent Notes/분극.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "물질의 자화"
+              "title": "분극"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/물질의 자화.md"
+                "file": "03. Permanent Notes/분극.md"
               },
               "icon": "lucide-info",
-              "title": "물질의 자화 의 파일 속성"
+              "title": "분극 의 파일 속성"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/물질의 자화.md",
+                "file": "03. Permanent Notes/분극.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "물질의 자화 그래프"
+              "title": "분극 그래프"
             }
           },
           {
@@ -263,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/물질의 자화.md",
+                "file": "03. Permanent Notes/분극.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "물질의 자화 의 개요"
+              "title": "분극 의 개요"
             }
           }
         ]
@@ -303,8 +303,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/물질의 자화.md",
+    "02. MOC/🏛️ 전자기학.md",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",

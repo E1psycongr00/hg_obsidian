@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "분극",
+      "path": "03. Permanent Notes/분극.md"
+    },
+    {
       "basename": "물질의 자화",
       "path": "04. Practice Notes/물질의 자화.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전속 밀도와 유전율 관계 (draw)",
       "path": "Excalidraw/전속 밀도와 유전율 관계 (draw).md"
-    },
-    {
-      "basename": "유전체 경계 조건",
-      "path": "03. Permanent Notes/유전체 경계 조건.md"
     }
   ],
   "omittedPaths": [],
