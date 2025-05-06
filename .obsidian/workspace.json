@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
-                "mode": "preview",
+                "file": "04. Practice Notes/유전체 경계 조건.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전자기학"
+              "title": "유전체 경계 조건"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md"
+                "file": "04. Practice Notes/유전체 경계 조건.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전자기학 의 파일 속성"
+              "title": "유전체 경계 조건 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "04. Practice Notes/유전체 경계 조건.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전자기학 그래프"
+              "title": "유전체 경계 조건 그래프"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "04. Practice Notes/유전체 경계 조건.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전자기학 의 개요"
+              "title": "유전체 경계 조건 의 개요"
             }
           }
         ]
@@ -305,8 +305,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/전류 소자가 받는 힘.md",
     "02. MOC/🏛️ 전자기학.md",
+    "04. Practice Notes/유전체 경계 조건.md",
+    "03. Permanent Notes/전류 소자가 받는 힘.md",
     "03. Permanent Notes/전속.md",
     "03. Permanent Notes/분극.md",
     "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md",
@@ -336,7 +337,6 @@
     "04. Practice Notes/정재파.md",
     "Excalidraw/정재파비 개념 (draw).svg",
     "03. Permanent Notes/전파 정수.md",
-    "Excalidraw/분포 정수 회로 (draw).md",
     "Excalidraw/분포 정수 회로 (draw).svg",
     "Excalidraw/영상 임피던스 (draw).svg",
     "Excalidraw/pi형 회로 (draw).svg",

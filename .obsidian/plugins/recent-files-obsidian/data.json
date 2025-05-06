@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "유전체 경계 조건",
+      "path": "04. Practice Notes/유전체 경계 조건.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Z형 파라미터",
       "path": "03. Permanent Notes/Z형 파라미터.md"
-    },
-    {
-      "basename": "pi형 회로 (draw)",
-      "path": "Excalidraw/pi형 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
