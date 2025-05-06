@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유전체 경계 조건",
+                "query": "내압",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -240,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -293,8 +293,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/저항과 정전용량 관계.md",
+    "03. Permanent Notes/내압.md",
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/절연 파괴.md",
+    "03. Permanent Notes/저항과 정전용량 관계.md",
     "03. Permanent Notes/전위.md",
     "03. Permanent Notes/전기 영상법.md",
     "Excalidraw/접지된 구도체 전하 영상법 (draw).md",
@@ -327,8 +329,6 @@
     "Excalidraw/유전체 경계 조건 (draw).svg",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/🏛️ 제어 공학.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
