@@ -9,6 +9,26 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
       "basename": "전속",
       "path": "03. Permanent Notes/전속.md"
     },
@@ -57,14 +77,6 @@
       "path": "03. Permanent Notes/Y형 파라미터.md"
     },
     {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
       "basename": "정재파비 개념 (draw)",
       "path": "Excalidraw/정재파비 개념 (draw).md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "영상 전달 정수",
       "path": "03. Permanent Notes/영상 전달 정수.md"
-    },
-    {
-      "basename": "영상 임피던스",
-      "path": "03. Permanent Notes/영상 임피던스.md"
-    },
-    {
-      "basename": "영상 임피던스 (draw)",
-      "path": "Excalidraw/영상 임피던스 (draw).md"
-    },
-    {
-      "basename": "Z형 파라미터",
-      "path": "03. Permanent Notes/Z형 파라미터.md"
     }
   ],
   "omittedPaths": [],
