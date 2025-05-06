@@ -5,6 +5,10 @@
       "path": "03. Permanent Notes/분극.md"
     },
     {
+      "basename": "2022 4월 전기기사 4번",
+      "path": "03. Permanent Notes/2022 4월 전기기사 4번.md"
+    },
+    {
       "basename": "David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999)",
       "path": "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "역회로",
       "path": "03. Permanent Notes/역회로.md"
-    },
-    {
-      "basename": "역회로 (draw)",
-      "path": "Excalidraw/역회로 (draw).md"
     }
   ],
   "omittedPaths": [],
