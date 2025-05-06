@@ -245,16 +245,6 @@
             }
           },
           {
-            "id": "fc29daafa1fd77e3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "8ea35c0bc38b84a5",
             "type": "leaf",
             "state": {
@@ -265,7 +255,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "7d466e57ea240c21",
@@ -316,10 +306,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "da686ca83a9dd244",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/자성 재료 분류.md",
+    "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/물질의 자화.md",
     "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
     "03. Permanent Notes/분극.md",
