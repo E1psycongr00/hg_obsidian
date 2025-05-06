@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/🔬분극과 전속 밀도 관계 증명.md",
+                "file": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -37,8 +37,7 @@
               "title": "🔬분극과 전속 밀도 관계 증명"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/🔬분극과 전속 밀도 관계 증명.md"
+                "file": "03. Permanent Notes/분극.md"
               },
               "icon": "lucide-info",
-              "title": "🔬분극과 전속 밀도 관계 증명 의 파일 속성"
+              "title": "분극 의 파일 속성"
             }
           },
           {
@@ -205,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/🔬분극과 전속 밀도 관계 증명.md",
+                "file": "03. Permanent Notes/분극.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -228,12 +227,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.3628873693012143,
+                  "scale": 0.7132754626224475,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🔬분극과 전속 밀도 관계 증명 그래프"
+              "title": "분극 그래프"
             }
           },
           {
@@ -280,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/🔬분극과 전속 밀도 관계 증명.md",
+                "file": "03. Permanent Notes/분극.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🔬분극과 전속 밀도 관계 증명 의 개요"
+              "title": "분극 의 개요"
             }
           }
         ]
@@ -319,10 +318,10 @@
       "audio-recorder:녹음 시작/정지": false
     }
   },
-  "active": "2739511d0e745e52",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md",
     "03. Permanent Notes/분극.md",
-    "04. Practice Notes/🔬분극과 전속 밀도 관계 증명.md",
     "04. Practice Notes/전속 밀도.md",
     "03. Permanent Notes/정전용량.md",
     "02. MOC/🏛️ 전자기학.md",
