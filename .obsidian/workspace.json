@@ -28,14 +28,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md"
+                "file": "Excalidraw/원자 주위를 회전하는 전자 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-07 07.21.00.excalidraw"
+              "title": "원자 주위를 회전하는 전자 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md"
+                "file": "04. Practice Notes/물질의 자화.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-05-07 07.21.00.excalidraw 의 파일 속성"
+              "title": "물질의 자화 의 파일 속성"
             }
           },
           {
@@ -201,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md",
+                "file": "04. Practice Notes/물질의 자화.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -229,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-05-07 07.21.00.excalidraw 그래프"
+              "title": "물질의 자화 그래프"
             }
           },
           {
@@ -276,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md",
+                "file": "04. Practice Notes/물질의 자화.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-05-07 07.21.00.excalidraw 의 개요"
+              "title": "물질의 자화 의 개요"
             }
           }
         ]
@@ -314,9 +313,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5d4c469509cd84f9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md",
+    "Excalidraw/원자 주위를 회전하는 전자 (draw).md",
+    "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
     "04. Practice Notes/물질의 자화.md",
     "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/자기 회로.md",
@@ -347,11 +347,9 @@
     "Excalidraw/경계면 유전체에 수직으로 전계가 받는 경우 힘(draw).svg",
     "Excalidraw/경계면 유전체가 받는 힘 (draw).svg",
     "02. MOC/🏛️ 전력 공학.md",
-    "Excalidraw/전속 밀도와 유전율 관계 (draw).md",
     "Excalidraw/전속 밀도와 유전율 관계 (draw).svg",
     "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).svg",
     "Excalidraw/전계의 유전체 경계 조건 (draw).svg",
-    "Excalidraw/유전체 경계 조건 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
