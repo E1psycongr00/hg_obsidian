@@ -5,6 +5,18 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "맥스웰 방정식",
+      "path": "03. Permanent Notes/맥스웰 방정식.md"
+    },
+    {
+      "basename": "자기 회로",
+      "path": "03. Permanent Notes/자기 회로.md"
+    },
+    {
+      "basename": "전기 영상법",
+      "path": "04. Practice Notes/전기 영상법.md"
+    },
+    {
       "basename": "유전체 경계면이 받는 힘",
       "path": "03. Permanent Notes/유전체 경계면이 받는 힘.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "전속 밀도",
       "path": "04. Practice Notes/전속 밀도.md"
-    },
-    {
-      "basename": "2022 4월 전기기사 4번",
-      "path": "03. Permanent Notes/2022 4월 전기기사 4번.md"
-    },
-    {
-      "basename": "David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999)",
-      "path": "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf"
-    },
-    {
-      "basename": "📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호).md"
     }
   ],
   "omittedPaths": [],
