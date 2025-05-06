@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "분극",
-      "path": "03. Permanent Notes/분극.md"
+      "basename": "자성 재료 분류",
+      "path": "04. Practice Notes/자성 재료 분류.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "물질의 자화",
       "path": "04. Practice Notes/물질의 자화.md"
     },
     {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
+      "basename": "🔬자기장과 자화 관계 증명",
+      "path": "04. Practice Notes/🔬자기장과 자화 관계 증명.md"
+    },
+    {
+      "basename": "분극",
+      "path": "03. Permanent Notes/분극.md"
     },
     {
       "basename": "정렬된 자기 쌍극자 모멘트 (draw)",
@@ -91,14 +99,6 @@
     {
       "basename": "경계면 유전체에 평행하게 받는 힘 (draw)",
       "path": "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).md"
-    },
-    {
-      "basename": "전기장 에너지 밀도",
-      "path": "03. Permanent Notes/전기장 에너지 밀도.md"
-    },
-    {
-      "basename": "전속 밀도와 유전율 관계 (draw)",
-      "path": "Excalidraw/전속 밀도와 유전율 관계 (draw).md"
     }
   ],
   "omittedPaths": [],
