@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "유전체 경계 조건",
-      "path": "04. Practice Notes/유전체 경계 조건.md"
+      "basename": "유전체 경계 조건 (draw)",
+      "path": "Excalidraw/유전체 경계 조건 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "유전체 경계 조건",
+      "path": "04. Practice Notes/유전체 경계 조건.md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -57,10 +65,6 @@
       "path": "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호)",
       "path": "06. Reference Notes/Book/📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "분포 정수 회로 (draw)",
       "path": "Excalidraw/분포 정수 회로 (draw).md"
-    },
-    {
-      "basename": "영상 전달 정수",
-      "path": "03. Permanent Notes/영상 전달 정수.md"
     }
   ],
   "omittedPaths": [],
