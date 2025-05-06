@@ -314,8 +314,7 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
-      "callout-manager:Insert Callout": false,
-      "audio-recorder:녹음 시작/정지": false
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "80c33adad7c7f67c",
