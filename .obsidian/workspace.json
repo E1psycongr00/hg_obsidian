@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "물질의 자화"
             }
+          },
+          {
+            "id": "5d4c469509cd84f9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-07 07.21.00.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/물질의 자화.md"
+                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "물질의 자화 의 파일 속성"
+              "title": "Drawing 2025-05-07 07.21.00.excalidraw 의 파일 속성"
             }
           },
           {
@@ -188,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/물질의 자화.md",
+                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "물질의 자화 그래프"
+              "title": "Drawing 2025-05-07 07.21.00.excalidraw 그래프"
             }
           },
           {
@@ -263,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/물질의 자화.md",
+                "file": "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "물질의 자화 의 개요"
+              "title": "Drawing 2025-05-07 07.21.00.excalidraw 의 개요"
             }
           }
         ]
@@ -301,10 +314,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5d4c469509cd84f9",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전자기학.md",
+    "Excalidraw/Drawing 2025-05-07 07.21.00.excalidraw.md",
     "04. Practice Notes/물질의 자화.md",
+    "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/자기 회로.md",
     "03. Permanent Notes/정전용량.md",
     "03. Permanent Notes/내압.md",
@@ -334,7 +348,6 @@
     "Excalidraw/경계면 유전체가 받는 힘 (draw).svg",
     "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/전속 밀도와 유전율 관계 (draw).md",
-    "03. Permanent Notes/유전체 경계 조건.md",
     "Excalidraw/전속 밀도와 유전율 관계 (draw).svg",
     "Excalidraw/전속 밀도와 유전체 경계 조건 (draw).svg",
     "Excalidraw/전계의 유전체 경계 조건 (draw).svg",
