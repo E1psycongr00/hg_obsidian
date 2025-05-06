@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "무한 평면과 점전하 영상법 (draw)",
+      "path": "Excalidraw/무한 평면과 점전하 영상법 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "전기 영상법",
+      "path": "04. Practice Notes/전기 영상법.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "자기 회로",
       "path": "03. Permanent Notes/자기 회로.md"
-    },
-    {
-      "basename": "전기 영상법",
-      "path": "04. Practice Notes/전기 영상법.md"
     },
     {
       "basename": "유전체 경계면이 받는 힘",
@@ -31,10 +39,6 @@
     {
       "basename": "경계면 유전체에 평행하게 받는 힘 (draw)",
       "path": "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "전기장 에너지 밀도",
@@ -95,10 +99,6 @@
     {
       "basename": "절연 파괴",
       "path": "03. Permanent Notes/절연 파괴.md"
-    },
-    {
-      "basename": "전속 밀도",
-      "path": "04. Practice Notes/전속 밀도.md"
     }
   ],
   "omittedPaths": [],
