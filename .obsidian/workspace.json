@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "등가 반지름"
             }
+          },
+          {
+            "id": "b7872f0f544315e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/다도체의 등가 반지름 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "다도체의 등가 반지름 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/등가 반지름.md"
+                "file": "Excalidraw/다도체의 등가 반지름 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "등가 반지름 의 파일 속성"
+              "title": "다도체의 등가 반지름 (draw) 의 파일 속성"
             }
           },
           {
@@ -188,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/등가 반지름.md",
+                "file": "Excalidraw/다도체의 등가 반지름 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "등가 반지름 그래프"
+              "title": "다도체의 등가 반지름 (draw) 그래프"
             }
           },
           {
@@ -253,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/등가 반지름.md",
+                "file": "Excalidraw/다도체의 등가 반지름 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "등가 반지름 의 개요"
+              "title": "다도체의 등가 반지름 (draw) 의 개요"
             }
           },
           {
@@ -272,8 +285,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -304,15 +316,17 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b7872f0f544315e2",
   "lastOpenFiles": [
-    "03. Permanent Notes/등가 선간 거리.md",
+    "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "04. Practice Notes/등가 반지름.md",
+    "Excalidraw/다도체의 등가 반지름 (draw).md",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/등가 선간 거리.md",
     "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
     "03. Permanent Notes/아크.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
-    "02. MOC/Home.md",
     "03. Permanent Notes/코로나 현상.md",
     "02. MOC/🏛️ 전자기학.md",
     "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md",
@@ -334,8 +348,6 @@
     "03. Permanent Notes/포인팅 벡터.md",
     "03. Permanent Notes/맥스웰 방정식.md",
     "03. Permanent Notes/경계 다루기.md",
-    "09. PARA/3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md",
-    "03. Permanent Notes/자성 재료 분류.md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
