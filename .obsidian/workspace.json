@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ab3abe88b6415540",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "778da7a4e45d5fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ 전자기학.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -211,7 +211,7 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.36288736930121485,
+                  "scale": 0.362887369301215,
                   "close": true
                 }
               },
@@ -240,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7d466e57ea240c21",
@@ -291,17 +291,17 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "778da7a4e45d5fc0",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
+    "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/자성 재료 분류.md",
     "04. Practice Notes/물질의 자화.md",
-    "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
     "03. Permanent Notes/분극.md",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).md",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",

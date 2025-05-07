@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "자성 재료 분류",
       "path": "03. Permanent Notes/자성 재료 분류.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "정렬되지 않는 자기 쌍극자 (draw)",
       "path": "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "원자 주위를 회전하는 전자 (draw)",
