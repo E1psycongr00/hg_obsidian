@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "선간 인덕턴스와 정전용량",
-      "path": "04. Practice Notes/선간 인덕턴스와 정전용량.md"
-    },
-    {
       "basename": "옵시디언 글쓰기 규칙",
       "path": "Rule/옵시디언 글쓰기 규칙.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "Faraday 전자기 유도 법칙",
+      "path": "03. Permanent Notes/Faraday 전자기 유도 법칙.md"
+    },
+    {
+      "basename": "전자기 에너지",
+      "path": "03. Permanent Notes/전자기 에너지.md"
+    },
+    {
+      "basename": "정전용량",
+      "path": "03. Permanent Notes/정전용량.md"
+    },
+    {
+      "basename": "전속",
+      "path": "03. Permanent Notes/전속.md"
+    },
+    {
+      "basename": "유전체 경계 조건",
+      "path": "03. Permanent Notes/유전체 경계 조건.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
+      "basename": "단선",
+      "path": "03. Permanent Notes/단선.md"
+    },
+    {
       "basename": "등가 반지름",
       "path": "03. Permanent Notes/등가 반지름.md"
+    },
+    {
+      "basename": "선간 인덕턴스와 정전용량",
+      "path": "03. Permanent Notes/선간 인덕턴스와 정전용량.md"
     },
     {
       "basename": "글쓰기 프롬프트",
@@ -53,10 +85,6 @@
       "path": "03. Permanent Notes/코로나 현상.md"
     },
     {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
-    },
-    {
       "basename": "🔬유한한 길이의 선전류 자계 구하기",
       "path": "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md"
     },
@@ -71,34 +99,6 @@
     {
       "basename": "원형 고리 자계 (draw)",
       "path": "Excalidraw/원형 고리 자계 (draw).md"
-    },
-    {
-      "basename": "내압",
-      "path": "03. Permanent Notes/내압.md"
-    },
-    {
-      "basename": "비오 사바트의 법칙",
-      "path": "03. Permanent Notes/비오 사바트의 법칙.md"
-    },
-    {
-      "basename": "🔬원형 고리 전계 구하기",
-      "path": "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md"
-    },
-    {
-      "basename": "원형 고리 전계 (draw)",
-      "path": "Excalidraw/원형 고리 전계 (draw).md"
-    },
-    {
-      "basename": "전위",
-      "path": "03. Permanent Notes/전위.md"
-    },
-    {
-      "basename": "전자기파",
-      "path": "03. Permanent Notes/전자기파.md"
-    },
-    {
-      "basename": "전파 정수",
-      "path": "03. Permanent Notes/전파 정수.md"
     }
   ],
   "omittedPaths": [],
