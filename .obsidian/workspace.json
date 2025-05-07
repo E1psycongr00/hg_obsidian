@@ -34,8 +34,7 @@
               "title": "다도체의 등가 반지름 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/다도체의 등가 반지름 (draw).md"
+                "file": "04. Practice Notes/등가 반지름.md"
               },
               "icon": "lucide-info",
-              "title": "다도체의 등가 반지름 (draw) 의 파일 속성"
+              "title": "등가 반지름 의 파일 속성"
             }
           },
           {
@@ -201,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/다도체의 등가 반지름 (draw).md",
+                "file": "04. Practice Notes/등가 반지름.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -229,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "다도체의 등가 반지름 (draw) 그래프"
+              "title": "등가 반지름 그래프"
             }
           },
           {
@@ -266,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/다도체의 등가 반지름 (draw).md",
+                "file": "04. Practice Notes/등가 반지름.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "다도체의 등가 반지름 (draw) 의 개요"
+              "title": "등가 반지름 의 개요"
             }
           },
           {
@@ -285,7 +284,8 @@
               "title": "Smart composer chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -316,11 +316,11 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "b7872f0f544315e2",
+  "active": "45345ff9535e2956",
   "lastOpenFiles": [
+    "Excalidraw/다도체의 등가 반지름 (draw).md",
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "04. Practice Notes/등가 반지름.md",
-    "Excalidraw/다도체의 등가 반지름 (draw).md",
     "02. MOC/Home.md",
     "03. Permanent Notes/등가 선간 거리.md",
     "02. MOC/🏛️ 전력 공학.md",
@@ -353,7 +353,6 @@
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
     "Excalidraw/무한 평면과 선전하 영상법 (draw).svg",
     "Excalidraw/접지된 구도체 전하 영상법 (draw).svg",
-    "Excalidraw/무한 평면과 점전하 영상법 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
