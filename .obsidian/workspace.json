@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/등가 선간 거리.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "등가 선간 거리"
+              "title": "🏛️ 전력 공학"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/등가 선간 거리.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "등가 선간 거리 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -304,8 +304,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/등가 선간 거리.md",
+    "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
     "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md",
