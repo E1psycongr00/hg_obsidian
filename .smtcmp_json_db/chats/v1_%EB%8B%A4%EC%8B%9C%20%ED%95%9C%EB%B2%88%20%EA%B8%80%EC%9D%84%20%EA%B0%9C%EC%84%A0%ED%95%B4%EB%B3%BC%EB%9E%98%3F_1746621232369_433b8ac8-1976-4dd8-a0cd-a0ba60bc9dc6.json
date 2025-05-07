@@ -45,7 +45,7 @@
       "mentionables": [
         {
           "type": "current-file",
-          "file": "04. Practice Notes/등가 선간 거리.md"
+          "file": "등가 반지름.md"
         }
       ]
     },
@@ -69,6 +69,6 @@
     }
   ],
   "createdAt": 1746620747606,
-  "updatedAt": 1746620855781,
+  "updatedAt": 1746621232369,
   "schemaVersion": 1
 }

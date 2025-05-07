@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "등가 선간 거리",
-      "path": "04. Practice Notes/등가 선간 거리.md"
+      "basename": "등가 반지름",
+      "path": "04. Practice Notes/등가 반지름.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
-      "basename": "아크",
-      "path": "03. Permanent Notes/아크.md"
+      "basename": "등가 선간 거리",
+      "path": "03. Permanent Notes/등가 선간 거리.md"
     },
     {
       "basename": "정 사각 배열의 선간 거리 (draw)",
       "path": "Excalidraw/정 사각 배열의 선간 거리 (draw).md"
+    },
+    {
+      "basename": "아크",
+      "path": "03. Permanent Notes/아크.md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "🔬자기장과 자화 관계 증명",
       "path": "04. Practice Notes/🔬자기장과 자화 관계 증명.md"
-    },
-    {
-      "basename": "분극",
-      "path": "03. Permanent Notes/분극.md"
     }
   ],
   "omittedPaths": [],
