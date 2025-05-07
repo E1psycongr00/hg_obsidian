@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "유한한 길이의 선전류 자계 구하기",
+      "path": "유한한 길이의 선전류 자계 구하기.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
       "basename": "🔬원형 고리 자계 구하기",
-      "path": "04. Practice Notes/🔬원형 고리 자계 구하기.md"
+      "path": "07. Solution Notes/Area/🔬원형 고리 자계 구하기.md"
     },
     {
       "basename": "원형 고리 자계 (draw)",
@@ -11,10 +19,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "내압",
@@ -95,10 +99,6 @@
     {
       "basename": "전도 전류",
       "path": "03. Permanent Notes/전도 전류.md"
-    },
-    {
-      "basename": "절연 파괴",
-      "path": "03. Permanent Notes/절연 파괴.md"
     }
   ],
   "omittedPaths": [],
