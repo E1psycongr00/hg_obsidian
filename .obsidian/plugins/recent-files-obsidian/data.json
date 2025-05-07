@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "경계 다루기",
+      "path": "03. Permanent Notes/경계 다루기.md"
+    },
+    {
+      "basename": "3. Spring Bean Validation 총정리",
+      "path": "09. PARA/3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "경계면 유전체가 받는 힘 (draw)",
       "path": "Excalidraw/경계면 유전체가 받는 힘 (draw).md"
-    },
-    {
-      "basename": "경계면 유전체에 수직으로 전계가 받는 경우 힘(draw)",
-      "path": "Excalidraw/경계면 유전체에 수직으로 전계가 받는 경우 힘(draw).md"
-    },
-    {
-      "basename": "경계면 유전체에 평행하게 받는 힘 (draw)",
-      "path": "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).md"
     }
   ],
   "omittedPaths": [],
