@@ -34,8 +34,7 @@
               "title": "정 사각 배열의 선간 거리 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md"
+                "file": "04. Practice Notes/등가 선간 거리.md"
               },
               "icon": "lucide-info",
-              "title": "정 사각 배열의 선간 거리 (draw) 의 파일 속성"
+              "title": "등가 선간 거리 의 파일 속성"
             }
           },
           {
@@ -201,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
+                "file": "04. Practice Notes/등가 선간 거리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -229,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "정 사각 배열의 선간 거리 (draw) 그래프"
+              "title": "등가 선간 거리 그래프"
             }
           },
           {
@@ -243,16 +242,6 @@
             }
           },
           {
-            "id": "8ea35c0bc38b84a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "21d0bfc9d3b73a5c",
             "type": "leaf",
             "state": {
@@ -261,9 +250,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "45345ff9535e2956",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "7d466e57ea240c21",
@@ -276,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
+                "file": "04. Practice Notes/등가 선간 거리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정 사각 배열의 선간 거리 (draw) 의 개요"
+              "title": "등가 선간 거리 의 개요"
             }
           }
         ]
@@ -311,14 +310,15 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "3ec1e9d5f339c7de",
+  "active": "45345ff9535e2956",
   "lastOpenFiles": [
+    "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
     "04. Practice Notes/등가 선간 거리.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/코로나 현상.md",
@@ -351,7 +351,6 @@
     "Excalidraw/무한 평면과 선전하 영상법 (draw).svg",
     "Excalidraw/접지된 구도체 전하 영상법 (draw).svg",
     "Excalidraw/무한 평면과 점전하 영상법 (draw).svg",
-    "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",

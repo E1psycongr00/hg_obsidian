@@ -11,7 +11,8 @@
     },
     {
       "type": "gemini",
-      "id": "gemini"
+      "id": "gemini",
+      "apiKey": "AIzaSyDbCICoXWRmjLrnxtdTw9LbR8k862QOlYc"
     },
     {
       "type": "deepseek",
@@ -262,8 +263,8 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gpt-4.1",
-  "applyModelId": "gpt-4o-mini",
+  "chatModelId": "gemini-2.5-pro",
+  "applyModelId": "gemini-2.5-pro",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
   "ragOptions": {
