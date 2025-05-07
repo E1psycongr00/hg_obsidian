@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab3abe88b6415540",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "778da7a4e45d5fc0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -234,6 +234,16 @@
             "id": "8ea35c0bc38b84a5",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "21d0bfc9d3b73a5c",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -241,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "7d466e57ea240c21",
@@ -293,10 +303,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "778da7a4e45d5fc0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
+    "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md",
     "Excalidraw/원형 고리 전계 (draw).md",
     "Excalidraw/원형 고리 전계 (draw).svg",
     "03. Permanent Notes/전위.md",
@@ -308,7 +319,6 @@
     "03. Permanent Notes/맥스웰 방정식.md",
     "03. Permanent Notes/경계 다루기.md",
     "09. PARA/3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/자성 재료 분류.md",
     "04. Practice Notes/물질의 자화.md",
     "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
