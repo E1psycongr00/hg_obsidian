@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "등가 반지름",
-      "path": "04. Practice Notes/등가 반지름.md"
+      "path": "03. Permanent Notes/등가 반지름.md"
+    },
+    {
+      "basename": "선간 인덕턴스와 정전용량",
+      "path": "선간 인덕턴스와 정전용량.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "다도체의 등가 반지름 (draw)",
@@ -11,10 +19,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "등가 선간 거리",
@@ -95,10 +99,6 @@
     {
       "basename": "자성 재료 분류",
       "path": "03. Permanent Notes/자성 재료 분류.md"
-    },
-    {
-      "basename": "물질의 자화",
-      "path": "04. Practice Notes/물질의 자화.md"
     }
   ],
   "omittedPaths": [],

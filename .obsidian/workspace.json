@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/등가 반지름.md",
+                "file": "03. Permanent Notes/등가 반지름.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,15 +23,18 @@
             }
           },
           {
-            "id": "b7872f0f544315e2",
+            "id": "66e85dff3afe136b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/다도체의 등가 반지름 (draw).md"
+                "file": "선간 인덕턴스와 정전용량.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "다도체의 등가 반지름 (draw)"
+              "icon": "lucide-file",
+              "title": "선간 인덕턴스와 정전용량"
             }
           }
         ]
@@ -98,7 +101,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -111,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/등가 반지름.md"
+                "file": "03. Permanent Notes/등가 반지름.md"
               },
               "icon": "lucide-info",
               "title": "등가 반지름 의 파일 속성"
@@ -200,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/등가 반지름.md",
+                "file": "03. Permanent Notes/등가 반지름.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -265,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/등가 반지름.md",
+                "file": "03. Permanent Notes/등가 반지름.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -318,12 +322,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "선간 인덕턴스와 정전용량.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/등가 반지름.md",
     "Excalidraw/다도체의 등가 반지름 (draw).md",
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
-    "04. Practice Notes/등가 반지름.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/등가 선간 거리.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
     "03. Permanent Notes/아크.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
