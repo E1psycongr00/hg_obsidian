@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "선간 인덕턴스와 정전용량",
       "path": "04. Practice Notes/선간 인덕턴스와 정전용량.md"
     },
@@ -91,14 +95,6 @@
     {
       "basename": "전파 정수",
       "path": "03. Permanent Notes/전파 정수.md"
-    },
-    {
-      "basename": "포인팅 벡터",
-      "path": "03. Permanent Notes/포인팅 벡터.md"
-    },
-    {
-      "basename": "경계 다루기",
-      "path": "03. Permanent Notes/경계 다루기.md"
     }
   ],
   "omittedPaths": [],

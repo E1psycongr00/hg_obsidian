@@ -272,7 +272,10 @@
     "thresholdTokens": 8192,
     "minSimilarity": 0,
     "limit": 10,
-    "excludePatterns": [],
+    "excludePatterns": [
+      "09. PARA/**",
+      "templaters/**"
+    ],
     "includePatterns": []
   },
   "mcp": {

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "선간 인덕턴스와 정전용량"
+              "title": "README"
             }
           },
           {
@@ -130,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "선간 인덕턴스와 정전용량 의 파일 속성"
+              "title": "README 의 파일 속성"
             }
           },
           {
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -247,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "선간 인덕턴스와 정전용량 그래프"
+              "title": "README 그래프"
             }
           },
           {
@@ -284,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "선간 인덕턴스와 정전용량 의 개요"
+              "title": "README 의 개요"
             }
           },
           {
@@ -337,8 +337,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/markdown에 커스텀 문법 적용하기.md",
+    "자화.md",
+    "README.md",
     "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+    "03. Permanent Notes/markdown에 커스텀 문법 적용하기.md",
     "03. Permanent Notes/등가 반지름.md",
     "09. PARA/2.Area/글쓰기 프롬프트.md",
     "이해도 분석 가이드.md",
@@ -366,8 +368,6 @@
     "Excalidraw/원형 고리 전계 (draw).svg",
     "03. Permanent Notes/전위.md",
     "03. Permanent Notes/전하(Elecric Charge).md",
-    "03. Permanent Notes/전계.md",
-    "03. Permanent Notes/전자기파.md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
