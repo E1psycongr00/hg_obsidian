@@ -5,6 +5,18 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "전자기파",
+      "path": "03. Permanent Notes/전자기파.md"
+    },
+    {
+      "basename": "전파 정수",
+      "path": "03. Permanent Notes/전파 정수.md"
+    },
+    {
+      "basename": "포인팅 벡터",
+      "path": "03. Permanent Notes/포인팅 벡터.md"
+    },
+    {
       "basename": "경계 다루기",
       "path": "03. Permanent Notes/경계 다루기.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "무한 평면과 점전하 영상법 (draw)",
       "path": "Excalidraw/무한 평면과 점전하 영상법 (draw).md"
-    },
-    {
-      "basename": "맥스웰 방정식",
-      "path": "03. Permanent Notes/맥스웰 방정식.md"
-    },
-    {
-      "basename": "유전체 경계면이 받는 힘",
-      "path": "03. Permanent Notes/유전체 경계면이 받는 힘.md"
-    },
-    {
-      "basename": "경계면 유전체가 받는 힘 (draw)",
-      "path": "Excalidraw/경계면 유전체가 받는 힘 (draw).md"
     }
   ],
   "omittedPaths": [],
