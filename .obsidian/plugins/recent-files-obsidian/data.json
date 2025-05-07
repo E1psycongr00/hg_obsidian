@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "등가 선간 거리",
+      "path": "04. Practice Notes/등가 선간 거리.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "원자 주위를 회전하는 전자 (draw)",
       "path": "Excalidraw/원자 주위를 회전하는 전자 (draw).md"
-    },
-    {
-      "basename": "자기 회로",
-      "path": "03. Permanent Notes/자기 회로.md"
     }
   ],
   "omittedPaths": [],
