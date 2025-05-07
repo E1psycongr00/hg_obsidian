@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/전위.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전자기학"
+              "title": "전위"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md"
+                "file": "03. Permanent Notes/전위.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전자기학 의 파일 속성"
+              "title": "전위 의 파일 속성"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/전위.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전자기학 그래프"
+              "title": "전위 그래프"
             }
           },
           {
@@ -253,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/전위.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전자기학 의 개요"
+              "title": "전위 의 개요"
             }
           }
         ]
@@ -294,8 +294,8 @@
   },
   "active": "778da7a4e45d5fc0",
   "lastOpenFiles": [
-    "03. Permanent Notes/전하(Elecric Charge).md",
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/전하(Elecric Charge).md",
     "03. Permanent Notes/전계.md",
     "03. Permanent Notes/전자기파.md",
     "03. Permanent Notes/전파 정수.md",
