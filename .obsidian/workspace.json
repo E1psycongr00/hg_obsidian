@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/등가 선간 거리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전력 공학"
+              "title": "등가 선간 거리"
             }
           },
           {
@@ -111,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md"
+                "file": "04. Practice Notes/등가 선간 거리.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전력 공학 의 파일 속성"
+              "title": "등가 선간 거리 의 파일 속성"
             }
           },
           {
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/등가 선간 거리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전력 공학 그래프"
+              "title": "등가 선간 거리 그래프"
             }
           },
           {
@@ -265,13 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/등가 선간 거리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전력 공학 의 개요"
+              "title": "등가 선간 거리 의 개요"
             }
           },
           {
@@ -315,10 +315,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "45345ff9535e2956",
   "lastOpenFiles": [
-    "03. Permanent Notes/아크.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/아크.md",
     "04. Practice Notes/등가 선간 거리.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
