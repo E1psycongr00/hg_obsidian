@@ -274,7 +274,7 @@
     "limit": 10,
     "excludePatterns": [
       "09. PARA/**",
-      "templaters/**"
+      "templates/**"
     ],
     "includePatterns": []
   },
