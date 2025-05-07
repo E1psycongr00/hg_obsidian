@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "정 사각 배열의 선간 거리 (draw)",
+      "path": "Excalidraw/정 사각 배열의 선간 거리 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "등가 선간 거리",
       "path": "04. Practice Notes/등가 선간 거리.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "코로나 현상",
       "path": "03. Permanent Notes/코로나 현상.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전자기학",
@@ -95,10 +99,6 @@
     {
       "basename": "정렬된 자기 쌍극자 모멘트 (draw)",
       "path": "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).md"
-    },
-    {
-      "basename": "정렬되지 않는 자기 쌍극자 (draw)",
-      "path": "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md"
     }
   ],
   "omittedPaths": [],

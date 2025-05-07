@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "등가 선간 거리"
             }
+          },
+          {
+            "id": "3ec1e9d5f339c7de",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "정 사각 배열의 선간 거리 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/등가 선간 거리.md"
+                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "등가 선간 거리 의 파일 속성"
+              "title": "정 사각 배열의 선간 거리 (draw) 의 파일 속성"
             }
           },
           {
@@ -188,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/등가 선간 거리.md",
+                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "등가 선간 거리 그래프"
+              "title": "정 사각 배열의 선간 거리 (draw) 그래프"
             }
           },
           {
@@ -263,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/등가 선간 거리.md",
+                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "등가 선간 거리 의 개요"
+              "title": "정 사각 배열의 선간 거리 (draw) 의 개요"
             }
           }
         ]
@@ -301,12 +314,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3ec1e9d5f339c7de",
   "lastOpenFiles": [
+    "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
+    "04. Practice Notes/등가 선간 거리.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/코로나 현상.md",
-    "04. Practice Notes/등가 선간 거리.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
     "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md",
     "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).md",
@@ -330,8 +345,6 @@
     "09. PARA/3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md",
     "03. Permanent Notes/자성 재료 분류.md",
     "04. Practice Notes/물질의 자화.md",
-    "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
-    "03. Permanent Notes/분극.md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
