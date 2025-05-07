@@ -145,8 +145,24 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
+          },
+          {
+            "id": "1aaa38f27764a613",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04. Practice Notes/등가 선간 거리.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "등가 선간 거리 의 개요"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,7 +175,6 @@
       {
         "id": "1838285c49809bd3",
         "type": "tabs",
-        "dimension": 50.38461538461539,
         "children": [
           {
             "id": "fbb43720530e7e29",
@@ -263,28 +278,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "7d466e57ea240c21",
-        "type": "tabs",
-        "dimension": 49.61538461538461,
-        "children": [
-          {
-            "id": "1aaa38f27764a613",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "04. Practice Notes/등가 선간 거리.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "등가 선간 거리 의 개요"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
