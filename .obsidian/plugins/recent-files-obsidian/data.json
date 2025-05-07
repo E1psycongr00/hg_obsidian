@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
+      "basename": "코로나 현상",
+      "path": "03. Permanent Notes/코로나 현상.md"
+    },
+    {
       "basename": "등가 선간 거리",
       "path": "04. Practice Notes/등가 선간 거리.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "정렬되지 않는 자기 쌍극자 (draw)",
       "path": "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md"
-    },
-    {
-      "basename": "원자 주위를 회전하는 전자 (draw)",
-      "path": "Excalidraw/원자 주위를 회전하는 전자 (draw).md"
     }
   ],
   "omittedPaths": [],
