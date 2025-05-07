@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "🔬원형 고리 자계 구하기"
             }
-          },
-          {
-            "id": "8c18e7c332c51c90",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/원형 고리 자계 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "원형 고리 자계 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/원형 고리 자계 (draw).md"
+                "file": "04. Practice Notes/🔬원형 고리 자계 구하기.md"
               },
               "icon": "lucide-info",
-              "title": "원형 고리 자계 (draw) 의 파일 속성"
+              "title": "🔬원형 고리 자계 구하기 의 파일 속성"
             }
           },
           {
@@ -316,12 +303,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "8c18e7c332c51c90",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/원형 고리 자계 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/원형 고리 자계 (draw).md",
     "04. Practice Notes/🔬원형 고리 자계 구하기.md",
+    "Excalidraw/원형 고리 자계 (draw).svg",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/내압.md",
     "03. Permanent Notes/비오 사바트의 법칙.md",
@@ -353,7 +340,6 @@
     "Excalidraw/무한 평면과 점전하 영상법 (draw).svg",
     "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).svg",
     "Excalidraw/경계면 유전체에 수직으로 전계가 받는 경우 힘(draw).svg",
-    "Excalidraw/경계면 유전체가 받는 힘 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
