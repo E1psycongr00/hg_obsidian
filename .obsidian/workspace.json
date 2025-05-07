@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유한한 길이의 선전류 자계 구하기.md",
+                "file": "04. Practice Notes/🔬유한한 길이의 선전류 자계 구하기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "유한한 길이의 선전류 자계 구하기"
+              "title": "🔬유한한 길이의 선전류 자계 구하기"
+            }
+          },
+          {
+            "id": "e86389335e1bdc2d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "유한한 선전류의 특정 위치의 자계  (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "유한한 길이의 선전류 자계 구하기.md"
+                "file": "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).md"
               },
               "icon": "lucide-info",
-              "title": "유한한 길이의 선전류 자계 구하기 의 파일 속성"
+              "title": "유한한 선전류의 특정 위치의 자계  (draw) 의 파일 속성"
             }
           },
           {
@@ -303,14 +316,16 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e86389335e1bdc2d",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
+    "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).md",
+    "04. Practice Notes/🔬유한한 길이의 선전류 자계 구하기.md",
+    "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).svg",
     "02. MOC/🏛️ 전자기학.md",
-    "유한한 길이의 선전류 자계 구하기.md",
     "07. Solution Notes/Area/🔬원형 고리 자계 구하기.md",
     "Excalidraw/원형 고리 자계 (draw).md",
     "Excalidraw/원형 고리 자계 (draw).svg",
-    "02. MOC/Home.md",
     "03. Permanent Notes/내압.md",
     "03. Permanent Notes/비오 사바트의 법칙.md",
     "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md",
@@ -332,15 +347,12 @@
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
-    "Excalidraw/원자 주위를 회전하는 전자 (draw).md",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
-    "03. Permanent Notes/자기 회로.md",
     "Excalidraw/무한 평면과 선전하 영상법 (draw).svg",
     "Excalidraw/접지된 구도체 전하 영상법 (draw).svg",
     "Excalidraw/무한 평면과 점전하 영상법 (draw).svg",
     "Excalidraw/경계면 유전체에 평행하게 받는 힘 (draw).svg",
-    "Excalidraw/경계면 유전체에 수직으로 전계가 받는 경우 힘(draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
