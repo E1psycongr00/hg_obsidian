@@ -34,8 +34,7 @@
               "title": "정 사각 배열의 선간 거리 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md"
+                "file": "04. Practice Notes/등가 선간 거리.md"
               },
               "icon": "lucide-info",
-              "title": "정 사각 배열의 선간 거리 (draw) 의 파일 속성"
+              "title": "등가 선간 거리 의 파일 속성"
             }
           },
           {
@@ -146,24 +145,8 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
-          },
-          {
-            "id": "1aaa38f27764a613",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "정 사각 배열의 선간 거리 (draw) 의 개요"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,6 +159,7 @@
       {
         "id": "1838285c49809bd3",
         "type": "tabs",
+        "dimension": 41.25,
         "children": [
           {
             "id": "fbb43720530e7e29",
@@ -216,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
+                "file": "04. Practice Notes/등가 선간 거리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -239,12 +223,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.5087618855792639,
+                  "scale": 0.71327546262245,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "정 사각 배열의 선간 거리 (draw) 그래프"
+              "title": "등가 선간 거리 그래프"
             }
           },
           {
@@ -266,6 +250,29 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "92582217f19033e7",
+        "type": "tabs",
+        "dimension": 58.75,
+        "children": [
+          {
+            "id": "1aaa38f27764a613",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04. Practice Notes/등가 선간 거리.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "등가 선간 거리 의 개요"
+            }
           },
           {
             "id": "45345ff9535e2956",
@@ -278,7 +285,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -308,10 +315,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "3ec1e9d5f339c7de",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/등가 선간 거리.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
+    "04. Practice Notes/등가 선간 거리.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전력 공학.md",

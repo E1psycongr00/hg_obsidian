@@ -266,7 +266,7 @@
   "chatModelId": "gemini-2.5-pro",
   "applyModelId": "gemini-2.5-pro",
   "embeddingModelId": "openai/text-embedding-3-small",
-  "systemPrompt": "",
+  "systemPrompt": "글을 쓸 때 문어체로 쓰고 \"하다\", \"이다\", \"있다\" 이런식으로 끝 문장을 만들어줘.",
   "ragOptions": {
     "chunkSize": 1000,
     "thresholdTokens": 8192,
