@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "글쓰기 프롬프트",
+      "path": "09. PARA/2.Area/글쓰기 프롬프트.md"
+    },
+    {
+      "basename": "markdown에 커스텀 문법 적용하기",
+      "path": "03. Permanent Notes/markdown에 커스텀 문법 적용하기.md"
+    },
+    {
       "basename": "선간 인덕턴스와 정전용량",
       "path": "04. Practice Notes/선간 인덕턴스와 정전용량.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "경계 다루기",
       "path": "03. Permanent Notes/경계 다루기.md"
-    },
-    {
-      "basename": "3. Spring Bean Validation 총정리",
-      "path": "09. PARA/3.Resources/IT/java/framework_library/spring/3. Spring Bean Validation 총정리.md"
-    },
-    {
-      "basename": "자성 재료 분류",
-      "path": "03. Permanent Notes/자성 재료 분류.md"
     }
   ],
   "omittedPaths": [],

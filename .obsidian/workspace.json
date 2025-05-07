@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "7012c1f4037a28bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. PARA/2.Area/글쓰기 프롬프트.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "글쓰기 프롬프트"
+            }
+          },
+          {
             "id": "66e85dff3afe136b",
             "type": "leaf",
             "state": {
@@ -37,7 +52,8 @@
               "title": "선간 인덕턴스와 정전용량"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md"
+                "file": "09. PARA/2.Area/글쓰기 프롬프트.md"
               },
               "icon": "lucide-info",
-              "title": "선간 인덕턴스와 정전용량 의 파일 속성"
+              "title": "글쓰기 프롬프트 의 파일 속성"
             }
           },
           {
@@ -204,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "09. PARA/2.Area/글쓰기 프롬프트.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -232,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "선간 인덕턴스와 정전용량 그래프"
+              "title": "글쓰기 프롬프트 그래프"
             }
           },
           {
@@ -269,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "09. PARA/2.Area/글쓰기 프롬프트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "선간 인덕턴스와 정전용량 의 개요"
+              "title": "글쓰기 프롬프트 의 개요"
             }
           },
           {
@@ -320,11 +336,15 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7012c1f4037a28bb",
   "lastOpenFiles": [
+    "03. Permanent Notes/markdown에 커스텀 문법 적용하기.md",
+    "09. PARA/2.Area/글쓰기 프롬프트.md",
+    "이해도 분석 가이드.md",
+    "09. PARA/2.Area/공학 글쓰기 프롬프트 (claude).md",
+    "04. Practice Notes/선간 인덕턴스와 정전용량.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/등가 반지름.md",
-    "04. Practice Notes/선간 인덕턴스와 정전용량.md",
     "Excalidraw/다도체의 등가 반지름 (draw).md",
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "02. MOC/Home.md",
@@ -349,10 +369,6 @@
     "03. Permanent Notes/전하(Elecric Charge).md",
     "03. Permanent Notes/전계.md",
     "03. Permanent Notes/전자기파.md",
-    "03. Permanent Notes/전파 정수.md",
-    "03. Permanent Notes/포인팅 벡터.md",
-    "03. Permanent Notes/맥스웰 방정식.md",
-    "03. Permanent Notes/경계 다루기.md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
