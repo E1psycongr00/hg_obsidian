@@ -1,0 +1,74 @@
+{
+  "id": "d2e86dc2-ff54-43cf-9f6a-8f3806927dbd",
+  "title": "등가 반지름에 대한 글을 작성해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "등가 반지름에 대한 글을 작성해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n등가 반지름에 대한 글을 작성해줘\n\n"
+        }
+      ],
+      "id": "d6c80fd1-e99a-4669-b2f5-703da4676ae1",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04. Practice Notes/등가 반지름.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "알겠습니다. 등가 반지름에 대한 내용을 채워 넣겠습니다.\n\n전력 공학에서 '등가 반지름'이라는 개념은 꽤 유용하게 쓰인다. 특히 여러 가닥의 전선으로 이루어진 복도체나 다도체 송전선로를 다룰 때 말이다. 이런 선로들은 한 가닥의 굵은 전선을 사용하는 것보다 여러 이점이 있어서 자주 사용되는데, 문제는 계산이 복잡해진다는 점이다. 이때, 이 여러 가닥의 전선을 마치 하나의 전선인 것처럼 취급해서 계산을 단순화하기 위해 도입된 것이 바로 등가 반지름이다.\n\n<smtcmp_block filename=\"04. Practice Notes/등가 반지름.md\" language=\"markdown\">\n---\ntags:\naliases: \ncreated: 2025-05-07\ntitle: 등가 반지름\nnote-type: COMMON\ncompleted: false\n---\n\n## 내용(Content)\n\n### 정의\n등가 반지름(Equivalent Radius)이란, 복도체나 다도체와 같이 여러 가닥의 전선으로 구성된 송전선로를 계산상의 편의를 위해 단일 도체로 가정할 때, 이 단일 도체가 갖는 가상적인 반지름을 의미한다. 실제 전선은 여러 가닥이지만, 전기적인 특성을 계산할 때는 마치 하나의 굵은 전선이 있는 것처럼 취급하여 계산을 간편하게 하려는 목적이다.\n\n### 식\n소도체(각각의 얇은 전선)의 반지름을 $r$, 소도체의 가닥수를 $n$, 소도체 간의 간격을 $S$라고 할 때, 복도체의 등가 반지름 $r_e$는 다음과 같이 표현된다.\n\n- **2도체(쌍도체)의 경우**:\n  $r_e = \\sqrt{r \\cdot S}$\n\n- **n도체 복도체의 일반적인 경우**:\n  $r_e = \\sqrt[n]{n \\cdot r \\cdot S_1 \\cdot S_2 \\cdots S_{n-1}}$ (근사적으로 $S_1 \\approx S_2 \\approx \\cdots \\approx S_{n-1} \\approx S$ 로 가정하면)\n  $r_e = \\sqrt[n]{n \\cdot r \\cdot S^{n-1}}$\n  여기서 $S$는 각 소도체들이 이루는 정다각형의 중심에서 각 소도체까지의 거리(배치 반경) 혹은 소도체간 평균 거리 등을 의미할 수 있으며, 배치에 따라 정확한 식은 달라질 수 있다. 가장 일반적으로 사용되는 형태는 소도체가 정 $n$각형의 꼭짓점에 배치되어 있고, $S$가 이 정 $n$각형의 외접원 반지름일 때의 식이다.\n  혹은, 소도체의 반지름이 $r$이고, 소도체간 거리가 $d$인 $n$가닥의 복도체의 경우, 등가 반지름 $r'$은 다음과 같이 표현되기도 한다:\n  $r' = \\sqrt[n]{r \\cdot d_1 \\cdot d_2 \\cdots d_{n-1}}$\n  여기서 $d_1, d_2, \\dots, d_{n-1}$은 한 소도체로부터 다른 $(n-1)$개의 소도체까지의 거리들이다.\n\n  (가장 흔히 접하는 2도체의 경우 $r_e = \\sqrt{rS}$ 에서 $S$는 두 소도체 사이의 거리를 의미한다.)\n\n### 활용\n등가 반지름은 주로 다음과 같은 분야에서 활용된다.\n\n1.  **송전선로의 인덕턴스 및 정전용량 계산**:\n    복도체나 다도체 선로의 인덕턴스와 정전용량을 계산할 때, 등가 반지름을 사용하면 단도체 선로와 유사한 형태로 공식을 적용할 수 있어 계산이 간편해진다. 등가 반지름이 커질수록 선로의 인덕턴스는 감소하고 정전용량은 증가하는 경향이 있다. 이는 송전 용량 증대 및 전압 안정도 향상에 기여한다.\n\n2.  **코로나 현상 분석 및 방지**:\n    전선 표면의 전위 경도를 낮추는 것은 코로나 발생을 억제하는 중요한 요소다. 복도체를 사용하면 전하가 분산되어 전위 경도가 낮아지는데, 이는",
+      "id": "9574c113-8ec6-405d-aa2d-e404676b666d",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-pro",
+          "model": "gemini-2.5-pro-exp-03-25"
+        },
+        "usage": {
+          "prompt_tokens": 678,
+          "completion_tokens": 975,
+          "total_tokens": 2116
+        }
+      }
+    }
+  ],
+  "createdAt": 1746622722157,
+  "updatedAt": 1746622739170,
+  "schemaVersion": 1
+}
