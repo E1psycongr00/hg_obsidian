@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "09. Rule/무제.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "선간 인덕턴스와 정전용량"
+              "title": "무제"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md"
+                "file": "09. Rule/무제.md"
               },
               "icon": "lucide-info",
-              "title": "선간 인덕턴스와 정전용량 의 파일 속성"
+              "title": "무제 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "09. Rule/무제.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "선간 인덕턴스와 정전용량 그래프"
+              "title": "무제 그래프"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+                "file": "09. Rule/무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "선간 인덕턴스와 정전용량 의 개요"
+              "title": "무제 의 개요"
             }
           },
           {
@@ -307,19 +307,22 @@
   },
   "active": "66e85dff3afe136b",
   "lastOpenFiles": [
+    "04. Practice Notes/선간 인덕턴스와 정전용량.md",
+    "09. Rule/무제.md",
+    "04. Practice Notes/옵시디언 글쓰기 Rule.md",
+    "09. Rule",
+    "03. Permanent Notes/등가 반지름.md",
+    "03. Permanent Notes/등가 선간 거리.md",
     "09. PARA/2.Area/글쓰기 프롬프트.md",
     "README.md",
     "자화.md",
-    "04. Practice Notes/선간 인덕턴스와 정전용량.md",
     "03. Permanent Notes/markdown에 커스텀 문법 적용하기.md",
-    "03. Permanent Notes/등가 반지름.md",
     "이해도 분석 가이드.md",
     "09. PARA/2.Area/공학 글쓰기 프롬프트 (claude).md",
     "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/다도체의 등가 반지름 (draw).md",
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "02. MOC/Home.md",
-    "03. Permanent Notes/등가 선간 거리.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).md",
     "03. Permanent Notes/아크.md",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
@@ -336,8 +339,6 @@
     "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md",
     "Excalidraw/원형 고리 전계 (draw).md",
     "Excalidraw/원형 고리 전계 (draw).svg",
-    "03. Permanent Notes/전위.md",
-    "03. Permanent Notes/전하(Elecric Charge).md",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
@@ -354,7 +355,6 @@
     "06. Reference Notes/Web",
     "무제 1.canvas",
     "무제.canvas",
-    "08. 공부 자료/pdf/book/컴퓨터 과학/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf",
     "index.canvas",
     "3.Resources/IT/운영체제/OS.canvas",
     "연습노트/직류기.canvas",
