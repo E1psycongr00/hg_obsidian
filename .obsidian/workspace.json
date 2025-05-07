@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "등가 반지름"
             }
-          },
-          {
-            "id": "d97d68a7ecdcaec6",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 등가 반지름.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,7 +304,7 @@
       "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "d97d68a7ecdcaec6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "03. Permanent Notes/등가 선간 거리.md",
     "04. Practice Notes/등가 반지름.md",
