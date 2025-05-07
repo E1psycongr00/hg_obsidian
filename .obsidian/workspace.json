@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "🔬유한한 길이의 선전류 자계 구하기"
             }
-          },
-          {
-            "id": "e86389335e1bdc2d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "유한한 선전류의 특정 위치의 자계  (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).md"
+                "file": "04. Practice Notes/🔬유한한 길이의 선전류 자계 구하기.md"
               },
               "icon": "lucide-info",
-              "title": "유한한 선전류의 특정 위치의 자계  (draw) 의 파일 속성"
+              "title": "🔬유한한 길이의 선전류 자계 구하기 의 파일 속성"
             }
           },
           {
@@ -316,10 +303,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "e86389335e1bdc2d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/Home.md",
     "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).md",
+    "02. MOC/Home.md",
     "04. Practice Notes/🔬유한한 길이의 선전류 자계 구하기.md",
     "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).svg",
     "02. MOC/🏛️ 전자기학.md",
