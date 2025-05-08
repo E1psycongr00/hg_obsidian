@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "피뢰기",
-      "path": "04. Practice Notes/피뢰기.md"
-    },
-    {
       "basename": "가공 지선",
       "path": "04. Practice Notes/가공 지선.md"
+    },
+    {
+      "basename": "피뢰기 동작 원리 (draw)",
+      "path": "Excalidraw/피뢰기 동작 원리 (draw).md"
+    },
+    {
+      "basename": "피뢰기",
+      "path": "04. Practice Notes/피뢰기.md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -19,10 +23,6 @@
     {
       "basename": "이상 전압",
       "path": "03. Permanent Notes/이상 전압.md"
-    },
-    {
-      "basename": "피뢰기 동작 원리 (draw)",
-      "path": "Excalidraw/피뢰기 동작 원리 (draw).md"
     },
     {
       "basename": "Home",
