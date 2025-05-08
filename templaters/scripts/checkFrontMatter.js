@@ -2,10 +2,6 @@
 module.exports = async function(tp, conditions) {
     const frontmatter = tp.frontmatter; // YAML frontmatter 데이터
 
-    // 입력값 검증
-    if (!isValidConditions(conditions)) {
-        return false;
-    }
     
     // 모든 조건이 충족되는지 확인
     if (!areAllConditionsMet(frontmatter, conditions)) {
@@ -14,15 +10,6 @@ module.exports = async function(tp, conditions) {
     
     return true;
 };
-
-/**
- * 조건 객체의 유효성을 검사하는 함수
- * @param {Object} conditions - 검증할 조건 객체
- * @returns {boolean} 조건 객체가 유효한지 여부
- */
-function isValidConditions(conditions) {
-    return conditions && typeof conditions === "object";
-}
 
 /**
  * 프론트매터가 모든 조건을 충족하는지 확인하는 함수
