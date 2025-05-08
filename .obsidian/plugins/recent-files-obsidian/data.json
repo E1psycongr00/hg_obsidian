@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "피뢰기",
+      "path": "04. Practice Notes/피뢰기.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
       "basename": "이상 전압",
       "path": "04. Practice Notes/이상 전압.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "Note Guides",
@@ -95,10 +99,6 @@
     {
       "basename": "선간 정전용량",
       "path": "03. Permanent Notes/선간 정전용량.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
     }
   ],
   "omittedPaths": [],
