@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "MoveArchiveFolder",
-      "path": "templaters/commander/MoveArchiveFolder.md"
-    },
-    {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "MoveArchiveFolder",
+      "path": "templaters/commander/MoveArchiveFolder.md"
     },
     {
       "basename": "Code 템플릿",

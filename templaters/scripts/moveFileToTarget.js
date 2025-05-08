@@ -5,7 +5,7 @@ module.exports = async function (tp, targetFolder) {
 
   // 입력값 검증
   if (!targetFolder) {
-    return "목표 폴더가 지정되지 않았습니다.";
+    return { success: false, message: "목표 폴더가 지정되지 않았습니다." };
   }
 
   try {
@@ -18,8 +18,8 @@ module.exports = async function (tp, targetFolder) {
     // 파일 이동
     const newPath = `${targetFolder}/${file.title}`;
     await tp.file.move(newPath);
-    return true;
+    return { success: true, path: newPath };
   } catch (error) {
-    return `이동 실패: ${error.message}`;
+    return { success: false, message: `이동 실패: ${error.message}` };
   }
 };
