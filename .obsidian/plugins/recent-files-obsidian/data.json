@@ -9,16 +9,16 @@
       "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
+      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
+      "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+    },
+    {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
     },
     {
       "basename": "Solution 템플릿",
       "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
     },
     {
       "basename": "🔬유한한 길이의 선전류 자계 구하기",
