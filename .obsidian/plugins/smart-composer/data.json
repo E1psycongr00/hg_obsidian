@@ -284,6 +284,6 @@
   "chatOptions": {
     "includeCurrentFileContent": true,
     "enableTools": true,
-    "maxAutoIterations": 1
+    "maxAutoIterations": 3
   }
 }
