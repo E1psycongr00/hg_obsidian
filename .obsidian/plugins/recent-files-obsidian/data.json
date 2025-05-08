@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "피뢰기",
-      "path": "04. Practice Notes/피뢰기.md"
+      "basename": "가공 지선",
+      "path": "04. Practice Notes/가공 지선.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
-      "basename": "가공 지선",
-      "path": "04. Practice Notes/가공 지선.md"
+      "basename": "피뢰기",
+      "path": "04. Practice Notes/피뢰기.md"
+    },
+    {
+      "basename": "속류",
+      "path": "03. Permanent Notes/속류.md"
     },
     {
       "basename": "이상 전압",
@@ -95,10 +99,6 @@
     {
       "basename": "🔬분극과 전속 밀도 관계 증명",
       "path": "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md"
-    },
-    {
-      "basename": "연가",
-      "path": "04. Practice Notes/연가.md"
     }
   ],
   "omittedPaths": [],
