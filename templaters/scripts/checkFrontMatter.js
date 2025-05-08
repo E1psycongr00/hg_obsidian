@@ -4,13 +4,11 @@ module.exports = async function(tp, conditions) {
 
     // 입력값 검증
     if (!isValidConditions(conditions)) {
-        showError("조건 객체가 올바르게 지정되지 않았습니다.");
         return false;
     }
     
     // 모든 조건이 충족되는지 확인
     if (!areAllConditionsMet(frontmatter, conditions)) {
-        showError("프론트매터 조건이 모두 충족되지 않았습니다.");
         return false;
     }
     
@@ -54,13 +52,5 @@ function isConditionMet(actualValue, expectedValue) {
         return actualValue.includes(expectedValue);
     }
     return actualValue === expectedValue;
-}
-
-/**
- * 오류 메시지를 표시하는 함수
- * @param {string} message - 표시할 오류 메시지
- */
-function showError(message) {
-    new window.Notice(message);
 }
 
