@@ -5,7 +5,7 @@ created: 2025-05-08
 title: 🔬hello
 note-type: SOLUTION
 completed: true
-archive: false
+archive: true
 area-reason:
 ---
 

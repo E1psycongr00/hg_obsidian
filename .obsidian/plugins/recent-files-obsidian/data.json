@@ -5,12 +5,12 @@
       "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
-      "basename": "MoveArchiveFolder",
-      "path": "templaters/commander/MoveArchiveFolder.md"
-    },
-    {
       "basename": "🔬hello",
       "path": "04. Practice Notes/🔬hello.md"
+    },
+    {
+      "basename": "MoveArchiveFolder",
+      "path": "templaters/commander/MoveArchiveFolder.md"
     },
     {
       "basename": "Code 템플릿",
