@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/동작 시한에 따른 분류.md",
+                "file": "단로기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "동작 시한에 따른 분류"
+              "title": "단로기"
             }
           },
           {
@@ -28,14 +28,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-08 21.38.14.excalidraw.md"
+                "file": "Excalidraw/동작 시한에 따른 분류 그래프 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-08 21.38.14.excalidraw"
+              "title": "동작 시한에 따른 분류 그래프 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-08 21.38.14.excalidraw.md"
+                "file": "단로기.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-05-08 21.38.14.excalidraw 의 파일 속성"
+              "title": "단로기 의 파일 속성"
             }
           },
           {
@@ -202,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-08 21.38.14.excalidraw.md",
+                "file": "단로기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -230,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-05-08 21.38.14.excalidraw 그래프"
+              "title": "단로기 그래프"
             }
           },
           {
@@ -317,12 +316,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "a25d2510bca5c878",
+  "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-05-08 21.38.14.excalidraw.svg",
-    "Excalidraw/Drawing 2025-05-08 21.38.14.excalidraw.md",
-    "04. Practice Notes/동작 시한에 따른 분류.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "단로기.md",
+    "03. Permanent Notes/동작 시한에 따른 분류.md",
+    "Excalidraw/동작 시한에 따른 분류 그래프 (draw).md",
+    "Excalidraw/동작 시한에 따른 분류 그래프 (draw).svg",
     "04. Practice Notes/보호 계전 방식.md",
     "03. Permanent Notes/차단기.md",
     "Excalidraw/보호 계전 방식 예시 (draw).md",
@@ -358,7 +358,6 @@
     "attachments/screenshot/Pasted image 20250508000155.png",
     "Rule",
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
-    "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",

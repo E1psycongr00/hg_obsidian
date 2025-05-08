@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2025-05-08 21.38.14.excalidraw",
-      "path": "Excalidraw/Drawing 2025-05-08 21.38.14.excalidraw.md"
-    },
-    {
-      "basename": "동작 시한에 따른 분류",
-      "path": "04. Practice Notes/동작 시한에 따른 분류.md"
+      "basename": "단로기",
+      "path": "단로기.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "동작 시한에 따른 분류",
+      "path": "03. Permanent Notes/동작 시한에 따른 분류.md"
+    },
+    {
+      "basename": "동작 시한에 따른 분류 그래프 (draw)",
+      "path": "Excalidraw/동작 시한에 따른 분류 그래프 (draw).md"
     },
     {
       "basename": "보호 계전 방식",
@@ -95,10 +99,6 @@
     {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
-    },
-    {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
     }
   ],
   "omittedPaths": [],
