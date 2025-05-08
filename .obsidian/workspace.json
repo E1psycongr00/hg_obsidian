@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Guides/Folder Guides.md",
+                "file": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Folder Guides"
+              "title": "🔬분극과 전속 밀도 관계 증명"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01. Guides/Folder Guides.md"
+                "file": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md"
               },
               "icon": "lucide-info",
-              "title": "Folder Guides 의 파일 속성"
+              "title": "🔬분극과 전속 밀도 관계 증명 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01. Guides/Folder Guides.md",
+                "file": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Folder Guides 그래프"
+              "title": "🔬분극과 전속 밀도 관계 증명 그래프"
             }
           },
           {
@@ -306,6 +306,7 @@
   },
   "active": "b39408ca3360b3ec",
   "lastOpenFiles": [
+    "01. Guides/Folder Guides.md",
     "04. Practice Notes/연가.md",
     "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/Home.md",
@@ -334,7 +335,6 @@
     "03. Permanent Notes/markdown에 커스텀 문법 적용하기.md",
     "이해도 분석 가이드.md",
     "09. PARA/2.Area/공학 글쓰기 프롬프트 (claude).md",
-    "Excalidraw/다도체의 등가 반지름 (draw).md",
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
     "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).svg",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "🔬분극과 전속 밀도 관계 증명",
+      "path": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md"
+    },
+    {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "코로나 현상",
       "path": "03. Permanent Notes/코로나 현상.md"
-    },
-    {
-      "basename": "🔬유한한 길이의 선전류 자계 구하기",
-      "path": "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md"
     }
   ],
   "omittedPaths": [],

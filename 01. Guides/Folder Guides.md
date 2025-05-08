@@ -34,3 +34,5 @@ note-type: GUIDE
 	- "Video", "Lecture", "Book", "Blog", "Paper"의 각 폴더 별로 관리
 - 06. Code Notes
 	- 지속적으로 쓰이거나 유지보수할만한 코드들은 Area, 폐기하거나 더 이상 불필요해질 것 같은 코드는 Archive로 관리한다.
+- 07. Solution Notes
+	- 여전히 유효한 
