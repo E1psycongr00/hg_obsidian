@@ -9,6 +9,10 @@
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
+      "basename": "가공 지선",
+      "path": "04. Practice Notes/가공 지선.md"
+    },
+    {
       "basename": "이상 전압",
       "path": "03. Permanent Notes/이상 전압.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "연가",
       "path": "04. Practice Notes/연가.md"
-    },
-    {
-      "basename": "선간 인덕턴스",
-      "path": "03. Permanent Notes/선간 인덕턴스.md"
     }
   ],
   "omittedPaths": [],
