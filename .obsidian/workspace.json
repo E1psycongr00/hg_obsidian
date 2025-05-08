@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단로기.md",
+                "file": "04. Practice Notes/단로기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,15 +23,15 @@
             }
           },
           {
-            "id": "a25d2510bca5c878",
+            "id": "a5cba95e8f7023c2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/동작 시한에 따른 분류 그래프 (draw).md"
+                "file": "Excalidraw/차단기와 단로기 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "동작 시한에 따른 분류 그래프 (draw)"
+              "title": "차단기와 단로기 (draw)"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "단로기.md"
+                "file": "04. Practice Notes/단로기.md"
               },
               "icon": "lucide-info",
               "title": "단로기 의 파일 속성"
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "단로기.md",
+                "file": "04. Practice Notes/단로기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -318,10 +318,12 @@
   },
   "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전력 공학.md",
-    "단로기.md",
-    "03. Permanent Notes/동작 시한에 따른 분류.md",
+    "Excalidraw/차단기와 단로기 (draw).md",
+    "04. Practice Notes/단로기.md",
+    "Excalidraw/차단기와 단로기 (draw).svg",
     "Excalidraw/동작 시한에 따른 분류 그래프 (draw).md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/동작 시한에 따른 분류.md",
     "Excalidraw/동작 시한에 따른 분류 그래프 (draw).svg",
     "04. Practice Notes/보호 계전 방식.md",
     "03. Permanent Notes/차단기.md",
@@ -349,15 +351,12 @@
     "01. Guides/MOC Guides.md",
     "01. Guides/Folder Guides.md",
     "templaters/Review 템플릿.md",
-    "templaters/Reference 템플릿.md",
-    "templaters/Common 템플릿.md",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
     "attachments/screenshot/Pasted image 20250508000213.png",
     "attachments/screenshot/Pasted image 20250508000155.png",
     "Rule",
-    "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",

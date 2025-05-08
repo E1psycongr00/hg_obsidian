@@ -1,0 +1,92 @@
+{
+  "id": "5055b8fe-5ebc-4712-b6b8-6dc1d7e4c029",
+  "title": "@Rule 단로기에 대해서 작성해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@Rule",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Rule",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "Rule"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 단로기에 대해서 작성해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "```Rule/옵시디언 글쓰기 규칙.md\n\n## 기본 역할\n\n혼자 공부하며 정리하는 형태로 글을 작성한다. 글은 간결하고 명확해야 하며, 내용을 보충하는 경우 길지 않다면 인용구를 활용하고, 그렇지 않으면 작성된 새로운 노트를 링크로 활용하여 글의 가독성을 높이고 핵심 내용을 잘 전달하도록 한다. 글의 세부 주제에 대해서는 마크다운의 헤더를 이용해 계층적으로 적극적으로 분리해서 작성한다. 글은 500자 내외로 작성되야 한다.\n\n\n## 세부 규칙\n\n### 수식\n큰 수식의 경우 수식을 작성하고, 아래에 - 형태의 리스트 형태로 각 요소들에 대해서 설명한다. 그리고 수식이 의미하는 바에 대해서 간단하게 작성한다.\n\n### 글 스타일\n- 혼자 독백하는 형태로 글을 작성한다.\n- 간결하고 이해하기 쉬워야 한다.\n- \"합니다\", \"됩니다\", \"입니다\"와 같은 격식체를 사용하지 않는다.\n- 반말을 사용하지 않는다.\n\n### 보충 설명\n내용에 보충 설명이 필요한 경우 옵시디언의 콜아웃 기능을 활용한다. 콜아웃은 다음과 같은 패턴으로 작성한다.\n\n>[!example] Example: 주제\n>설명\n\n콜아웃 종류는 아래 그림을 참고한다.\n\n![[Pasted image 20250508000155.png]]\n![[Pasted image 20250508000213.png]]\n\n\n### 링크 스타일\n\n옵시디언 링크 스타일을 사용하는데 만약 해당 문서가 존재하지 않으면 `[[링크]]` 형태로 사용하고, 존재한다면 링크를 탐색해서 주제에 적합한 헤더가 있는지 찾아본 다음 다음과 같이 링크를 작성한다.\n\n```text\n[[링크#주제|이름]]\n```\n\n```\n\n\n@Rule 단로기에 대해서 작성해줘\n\n"
+        }
+      ],
+      "id": "e431c183-d83d-4683-9b81-412436054118",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04. Practice Notes/단로기.md"
+        },
+        {
+          "type": "folder",
+          "folder": "Rule"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "알겠습니다. \"단로기\" 파일에 내용을 추가하겠습니다. \"옵시디언 글쓰기 규칙\"에 따라 작성합니다.\n\n<smtcmp_block filename=\"04. Practice Notes/단로기.md\" language=\"markdown\">\n---\ntags:\n  - 전력공학\n  - 이상전압\n  - 보호계전\naliases: \ncreated: 2025-05-08\ntitle: 단로기\nnote-type: COMMON\ncompleted: false\n---\n\n## 내용(Content)\n### 정의\n단로기(DS: Disconnecting Switch)는 전기 회로를 확실하게 열거나 닫기 위해 사용되는 개폐 장치다. 주로 부하 전류가 흐르지 않을 때, 즉 무부하 상태에서 회로를 분리하거나 계통을 변경하는 데 사용된다. 차단기가 사고 전류나 부하 전류를 차단하는 기능을 하는 반면, 단로기는 전류가 흐르지 않는 상태에서 선로나 기기의 점검 및 수리를 위해 작업 구간을 안전하게 분리하는 역할을 한다.\n\n>[!warning] 주의: 부하 전류 개폐 불가\n>단로기는 소호 능력이 없어 부하 전류나 고장 전류가 흐르는 중에 개폐하면 아크가 발생하여 매우 위험하다.\n\n### 차단기와 단로기 개폐순서\n전력 계통에서 차단기(CB)와 단로기(DS)를 조작할 때는 정해진 순서를 따라야 한다. 이는 작업자의 안전을 확보하고 설비를 보호하기 위함이다.\n\n*   **투입 시**: 단로기 먼저 닫고 -> 차단기 닫는다.\n    *   양쪽 단로기 (선로측, 모선측) -> 차단기 순으로 투입한다.\n*   **차단 시**: 차단기 먼저 열고 -> 단로기 연다.\n    *   차단기 -> 양쪽 단로기 순으로 개방한다.\n\n![[차단기와 단로기 (draw).svg]]\n\n이는 부하 전류가 흐르는 상태에서 단로기를 조작하여 아크가 발생하는 것을 방지하기 위함이다. 차단기가 먼저 전류를 끊거나 연결한 후, 단로기는 전류가 흐르지 않는 상태에서 회로를 분리하거나 연결하는 것이다.\n\n## 질문 & 확장\n\n(없음)\n\n## 연결 노트\n- [[차단기]]\n\n## 출처(링크)\n</smtcmp_block>",
+      "id": "5ecdad9f-d742-4247-a039-3f7070f928c2",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-pro",
+          "model": "gemini-2.5-pro-exp-03-25"
+        },
+        "usage": {
+          "prompt_tokens": 993,
+          "completion_tokens": 541,
+          "total_tokens": 1790
+        }
+      }
+    }
+  ],
+  "createdAt": 1746708566731,
+  "updatedAt": 1746708577318,
+  "schemaVersion": 1
+}
