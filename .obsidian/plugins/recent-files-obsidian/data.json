@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "매설 지선",
+      "path": "04. Practice Notes/매설 지선.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
       "basename": "가공 지선",
-      "path": "04. Practice Notes/가공 지선.md"
+      "path": "03. Permanent Notes/가공 지선.md"
     },
     {
       "basename": "차폐각 (draw)",
@@ -23,10 +31,6 @@
     {
       "basename": "피뢰기",
       "path": "04. Practice Notes/피뢰기.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "속류",
@@ -95,10 +99,6 @@
     {
       "basename": "🔬유한한 길이의 선전류 자계 구하기",
       "path": "07. Solution Notes/Archive/🔬유한한 길이의 선전류 자계 구하기.md"
-    },
-    {
-      "basename": "🔬원형 고리 자계 구하기",
-      "path": "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md"
     }
   ],
   "omittedPaths": [],
