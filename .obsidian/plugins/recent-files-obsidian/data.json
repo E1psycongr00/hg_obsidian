@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "차단기",
+      "path": "04. Practice Notes/차단기.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
       "basename": "보호 계전 방식",
       "path": "04. Practice Notes/보호 계전 방식.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "역섬락",
       "path": "04. Practice Notes/역섬락.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "매설 지선",
@@ -95,10 +99,6 @@
     {
       "basename": "Solution 템플릿",
       "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "MoveArchiveFolder",
-      "path": "templaters/commander/MoveArchiveFolder.md"
     }
   ],
   "omittedPaths": [],

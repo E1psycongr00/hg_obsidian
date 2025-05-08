@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/보호 계전 방식.md",
+                "file": "04. Practice Notes/차단기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "보호 계전 방식"
+              "title": "차단기"
             }
           },
           {
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/보호 계전 방식.md"
+                "file": "04. Practice Notes/차단기.md"
               },
               "icon": "lucide-info",
-              "title": "보호 계전 방식 의 파일 속성"
+              "title": "차단기 의 파일 속성"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/보호 계전 방식.md",
+                "file": "04. Practice Notes/차단기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -229,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "보호 계전 방식 그래프"
+              "title": "차단기 그래프"
             }
           },
           {
@@ -318,11 +318,12 @@
   },
   "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/차단기.md",
+    "04. Practice Notes/보호 계전 방식.md",
     "Excalidraw/보호 계전 방식 예시 (draw).md",
     "Excalidraw/보호 계전 방식 예시 (draw).svg",
-    "04. Practice Notes/보호 계전 방식.md",
     "04. Practice Notes/역섬락.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/매설 지선.md",
     "03. Permanent Notes/가공 지선.md",
     "Excalidraw/차폐각 (draw).md",
