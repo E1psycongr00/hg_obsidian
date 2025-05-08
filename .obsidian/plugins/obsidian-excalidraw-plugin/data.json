@@ -104,6 +104,148 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.11.0",
     "libraryItems": [
       {
+        "id": "0FC6xTCZTnnC4usloKN9L",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "brQhtubwRkU4uW0_ATMot",
+            "type": "line",
+            "x": -162.25,
+            "y": 171.0078125,
+            "width": 56,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "GJN_TjEiXvTjCpgfB73DI"
+            ],
+            "frameId": null,
+            "index": "aC",
+            "roundness": null,
+            "seed": 457619105,
+            "version": 35,
+            "versionNonce": 1298873711,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1746692067853,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                56,
+                0
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          },
+          {
+            "id": "aGtF97jImzjQB0vIGjeXO",
+            "type": "line",
+            "x": -152.1976864406614,
+            "y": 184.01441317199578,
+            "width": 38,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "GJN_TjEiXvTjCpgfB73DI"
+            ],
+            "frameId": null,
+            "index": "aD",
+            "roundness": null,
+            "seed": 1219420257,
+            "version": 74,
+            "versionNonce": 1413246927,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1746692089375,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                38,
+                0
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          },
+          {
+            "id": "O033ykuKN7bHwtC7fbg4z",
+            "type": "line",
+            "x": -140.16994383027404,
+            "y": 196.0078125,
+            "width": 14,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "groupIds": [
+              "GJN_TjEiXvTjCpgfB73DI"
+            ],
+            "frameId": null,
+            "index": "aE",
+            "roundness": null,
+            "seed": 98548079,
+            "version": 35,
+            "versionNonce": 1228560097,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1746692110522,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                14,
+                0
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null
+          }
+        ],
+        "created": 1746692118013
+      },
+      {
         "id": "uqXLO17mvinEVrLT63dk2",
         "status": "unpublished",
         "elements": [

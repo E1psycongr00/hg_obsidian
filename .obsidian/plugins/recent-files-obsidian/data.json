@@ -10,15 +10,19 @@
     },
     {
       "basename": "이상 전압",
-      "path": "04. Practice Notes/이상 전압.md"
+      "path": "03. Permanent Notes/이상 전압.md"
     },
     {
-      "basename": "이상전압의 진행파 (draw)",
-      "path": "Excalidraw/이상전압의 진행파 (draw).md"
+      "basename": "피뢰기 동작 원리 (draw)",
+      "path": "Excalidraw/피뢰기 동작 원리 (draw).md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "이상전압의 진행파 (draw)",
+      "path": "Excalidraw/이상전압의 진행파 (draw).md"
     },
     {
       "basename": "Note Guides",
@@ -95,10 +99,6 @@
     {
       "basename": "선간 인덕턴스",
       "path": "03. Permanent Notes/선간 인덕턴스.md"
-    },
-    {
-      "basename": "선간 정전용량",
-      "path": "03. Permanent Notes/선간 정전용량.md"
     }
   ],
   "omittedPaths": [],

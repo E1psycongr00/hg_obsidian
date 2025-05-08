@@ -23,15 +23,15 @@
             }
           },
           {
-            "id": "2e37b5fb19e63938",
+            "id": "2bb6060c89e94dbe",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/이상전압의 진행파 (draw).md"
+                "file": "Excalidraw/피뢰기 동작 원리 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "이상전압의 진행파 (draw)"
+              "title": "피뢰기 동작 원리 (draw)"
             }
           }
         ]
@@ -320,11 +320,13 @@
   "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/이상 전압.md",
     "04. Practice Notes/피뢰기.md",
-    "04. Practice Notes/이상 전압.md",
+    "Excalidraw/피뢰기 동작 원리 (draw).md",
+    "Excalidraw/피뢰기 동작 원리 (draw).svg",
+    "02. MOC/Home.md",
     "Excalidraw/이상전압의 진행파 (draw).md",
     "Excalidraw/이상전압의 진행파 (draw).svg",
-    "02. MOC/Home.md",
     "01. Guides/Note Guides.md",
     "01. Guides/Tag Guides.md",
     "01. Guides/MOC Guides.md",
@@ -347,8 +349,6 @@
     "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
     "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md",
     "04. Practice Notes/연가.md",
-    "03. Permanent Notes/선간 인덕턴스.md",
-    "03. Permanent Notes/선간 정전용량.md",
     "attachments/screenshot/Pasted image 20250508000213.png",
     "attachments/screenshot/Pasted image 20250508000155.png",
     "Rule",
@@ -358,7 +358,6 @@
     "Excalidraw/원형 고리 자계 (draw).svg",
     "Excalidraw/원형 고리 전계 (draw).svg",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
-    "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
