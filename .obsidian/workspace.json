@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/선간 인덕턴스와 정전용량.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "선간 인덕턴스와 정전용량"
+              "title": "🏛️ 전력 공학"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "선간 인덕턴스",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/선간 인덕턴스와 정전용량.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "선간 인덕턴스와 정전용량 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -306,11 +305,11 @@
   },
   "active": "b39408ca3360b3ec",
   "lastOpenFiles": [
-    "03. Permanent Notes/선간 정전용량.md",
-    "03. Permanent Notes/선간 인덕턴스.md",
-    "02. MOC/🏛️ 전력 공학.md",
-    "03. Permanent Notes/선간 인덕턴스와 정전용량.md",
     "02. MOC/Home.md",
+    "03. Permanent Notes/선간 인덕턴스.md",
+    "03. Permanent Notes/선간 정전용량.md",
+    "03. Permanent Notes/선간 인덕턴스와 정전용량.md",
+    "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전자기학.md",
