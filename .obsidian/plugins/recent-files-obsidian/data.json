@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "보호 계전 방식 예시 (draw)",
-      "path": "Excalidraw/보호 계전 방식 예시 (draw).md"
+      "basename": "Drawing 2025-05-08 21.38.14.excalidraw",
+      "path": "Excalidraw/Drawing 2025-05-08 21.38.14.excalidraw.md"
     },
     {
-      "basename": "차단기",
-      "path": "03. Permanent Notes/차단기.md"
-    },
-    {
-      "basename": "차단기 동작예시 (draw)",
-      "path": "Excalidraw/차단기 동작예시 (draw).md"
+      "basename": "동작 시한에 따른 분류",
+      "path": "04. Practice Notes/동작 시한에 따른 분류.md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -19,6 +15,18 @@
     {
       "basename": "보호 계전 방식",
       "path": "04. Practice Notes/보호 계전 방식.md"
+    },
+    {
+      "basename": "차단기",
+      "path": "03. Permanent Notes/차단기.md"
+    },
+    {
+      "basename": "보호 계전 방식 예시 (draw)",
+      "path": "Excalidraw/보호 계전 방식 예시 (draw).md"
+    },
+    {
+      "basename": "차단기 동작예시 (draw)",
+      "path": "Excalidraw/차단기 동작예시 (draw).md"
     },
     {
       "basename": "역섬락",
@@ -91,14 +99,6 @@
     {
       "basename": "Common 템플릿",
       "path": "templaters/Common 템플릿.md"
-    },
-    {
-      "basename": "MOC 템플릿",
-      "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
     }
   ],
   "omittedPaths": [],
