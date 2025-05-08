@@ -1,0 +1,92 @@
+{
+  "id": "afe805f1-1079-4f17-97d4-1cc32115aab9",
+  "title": "@Rule 가공 지선에 대해서 글을 써줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@Rule",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Rule",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "Rule"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 가공 지선에 대해서 글을 써줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "```Rule/옵시디언 글쓰기 규칙.md\n\n## 기본 역할\n\n혼자 공부하며 정리하는 형태로 글을 작성한다. 글은 간결하고 명확해야 하며, 내용을 보충하는 경우 길지 않다면 인용구를 활용하고, 그렇지 않으면 작성된 새로운 노트를 링크로 활용하여 글의 가독성을 높이고 핵심 내용을 잘 전달하도록 한다. 글의 세부 주제에 대해서는 마크다운의 헤더를 이용해 계층적으로 적극적으로 분리해서 작성한다. 글은 500자 내외로 작성되야 한다.\n\n\n## 세부 규칙\n\n### 수식\n큰 수식의 경우 수식을 작성하고, 아래에 - 형태의 리스트 형태로 각 요소들에 대해서 설명한다. 그리고 수식이 의미하는 바에 대해서 간단하게 작성한다.\n\n### 글 스타일\n- 혼자 독백하는 형태로 글을 작성한다.\n- 간결하고 이해하기 쉬워야 한다.\n- \"합니다\", \"됩니다\", \"입니다\"와 같은 격식체를 사용하지 않는다.\n- 반말을 사용하지 않는다.\n\n### 보충 설명\n내용에 보충 설명이 필요한 경우 옵시디언의 콜아웃 기능을 활용한다. 콜아웃은 다음과 같은 패턴으로 작성한다.\n\n>[!example] Example: 주제\n>설명\n\n콜아웃 종류는 아래 그림을 참고한다.\n\n![[Pasted image 20250508000155.png]]\n![[Pasted image 20250508000213.png]]\n\n\n### 링크 스타일\n\n옵시디언 링크 스타일을 사용하는데 만약 해당 문서가 존재하지 않으면 `[[링크]]` 형태로 사용하고, 존재한다면 링크를 탐색해서 주제에 적합한 헤더가 있는지 찾아본 다음 다음과 같이 링크를 작성한다.\n\n```text\n[[링크#주제|이름]]\n```\n\n```\n\n\n@Rule 가공 지선에 대해서 글을 써줘\n\n"
+        }
+      ],
+      "id": "473eeb26-beec-4652-a9fc-166850d32e01",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04. Practice Notes/가공 지선.md"
+        },
+        {
+          "type": "folder",
+          "folder": "Rule"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "다음은 \"가공 지선\" 파일에 대한 내용입니다.\n\n<smtcmp_block filename=\"04. Practice Notes/가공 지선.md\" language=\"markdown\">\n---\ntags:\n  - 전력공학\n  - 이상전압\naliases: \ncreated: 2025-05-08\ntitle: 가공 지선\nnote-type: COMMON\ncompleted: false\n---\n\n## 내용(Content)\n### 정의\n가공 지선(架空地線, Overhead Ground Wire 또는 Shield Wire)은 송전선로의 최상부에 설치되어 뇌격으로부터 송전선을 보호하는 접지된 금속선이다. 일반적으로 아연도강연선이나 강심알루미늄연선(ACSR)을 사용한다.\n\n### 설치 목적\n- **뇌해 방지**: 직격뢰로부터 송전 도체를 차폐하여 섬락 사고를 방지한다. 뇌격 전류를 대지로 신속히 방류시켜 전선의 전위 상승을 억제한다.\n- **유도뢰 경감**: 뇌운에 의한 유도 전하를 중화시켜 유도뢰의 발생 가능성과 크기를 줄인다.\n- **통신선 유도 장해 경감**: 전력선과 통신선 간의 전자 유도 및 정전 유도를 차폐하여 통신 장해를 줄이는 효과가 있다.\n\n## 질문 & 확장\n\n(없음)\n\n## 연결 노트\n\n## 출처(링크)\n</smtcmp_block>",
+      "id": "c7f16d8e-9309-4594-b625-dd7c0401fb6c",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-pro",
+          "model": "gemini-2.5-pro-exp-03-25"
+        },
+        "usage": {
+          "prompt_tokens": 970,
+          "completion_tokens": 333,
+          "total_tokens": 1521
+        }
+      }
+    }
+  ],
+  "createdAt": 1746700975723,
+  "updatedAt": 1746700983595,
+  "schemaVersion": 1
+}
