@@ -9,6 +9,10 @@
       "path": "templaters/commander/MoveArchiveFolder.md"
     },
     {
+      "basename": "🔬hello",
+      "path": "04. Practice Notes/🔬hello.md"
+    },
+    {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "유전체 경계 조건",
       "path": "03. Permanent Notes/유전체 경계 조건.md"
-    },
-    {
-      "basename": "단선",
-      "path": "03. Permanent Notes/단선.md"
     }
   ],
   "omittedPaths": [],
