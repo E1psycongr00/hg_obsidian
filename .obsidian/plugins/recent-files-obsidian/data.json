@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "UpdateArchiveFolder",
-      "path": "templaters/commander/UpdateArchiveFolder.md"
+      "basename": "MoveArchiveFolder",
+      "path": "templaters/commander/MoveArchiveFolder.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
