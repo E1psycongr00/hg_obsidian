@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "이상전압의 진행파 (draw)",
+      "path": "Excalidraw/이상전압의 진행파 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "이상 전압",
       "path": "04. Practice Notes/이상 전압.md"
     },
@@ -49,10 +57,6 @@
       "path": "templaters/Solution 템플릿.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "MoveArchiveFolder",
       "path": "templaters/commander/MoveArchiveFolder.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     }
   ],
   "omittedPaths": [],

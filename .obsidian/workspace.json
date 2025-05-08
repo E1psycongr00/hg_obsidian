@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "이상 전압"
             }
+          },
+          {
+            "id": "2e37b5fb19e63938",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/이상전압의 진행파 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "이상전압의 진행파 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/이상 전압.md"
+                "file": "Excalidraw/이상전압의 진행파 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "이상 전압 의 파일 속성"
+              "title": "이상전압의 진행파 (draw) 의 파일 속성"
             }
           },
           {
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/이상 전압.md",
+                "file": "Excalidraw/이상전압의 진행파 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "이상 전압 그래프"
+              "title": "이상전압의 진행파 (draw) 그래프"
             }
           },
           {
@@ -278,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 497.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,10 +318,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7d8ff96c51f11a6a",
+  "active": "2e37b5fb19e63938",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전력 공학.md",
+    "Excalidraw/이상전압의 진행파 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/이상전압의 진행파 (draw).md",
     "04. Practice Notes/이상 전압.md",
+    "02. MOC/🏛️ 전력 공학.md",
     "01. Guides/Note Guides.md",
     "01. Guides/Tag Guides.md",
     "01. Guides/MOC Guides.md",
@@ -318,7 +335,6 @@
     "templaters/MOC 템플릿.md",
     "templaters/Code 템플릿.md",
     "templaters/Solution 템플릿.md",
-    "02. MOC/Home.md",
     "templaters/commander/MoveArchiveFolder.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
@@ -333,8 +349,6 @@
     "04. Practice Notes/연가.md",
     "03. Permanent Notes/선간 인덕턴스.md",
     "03. Permanent Notes/선간 정전용량.md",
-    "03. Permanent Notes/선간 인덕턴스와 정전용량.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "attachments/screenshot/Pasted image 20250508000213.png",
     "attachments/screenshot/Pasted image 20250508000155.png",
     "Rule",
