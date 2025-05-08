@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "가공 지선"
             }
+          },
+          {
+            "id": "00c5b662468aa1a3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-08 19.48.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-08 19.48.32.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/가공 지선.md"
+                "file": "Excalidraw/Drawing 2025-05-08 19.48.32.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "가공 지선 의 파일 속성"
+              "title": "Drawing 2025-05-08 19.48.32.excalidraw 의 파일 속성"
             }
           },
           {
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/가공 지선.md",
+                "file": "Excalidraw/Drawing 2025-05-08 19.48.32.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "가공 지선 그래프"
+              "title": "Drawing 2025-05-08 19.48.32.excalidraw 그래프"
             }
           },
           {
@@ -304,16 +317,19 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7d8ff96c51f11a6a",
+  "active": "00c5b662468aa1a3",
   "lastOpenFiles": [
-    "Excalidraw/피뢰기 동작 원리 (draw).md",
+    "02. MOC/Home.md",
+    "Excalidraw/Drawing 2025-05-08 19.48.32.excalidraw.md",
     "04. Practice Notes/가공 지선.md",
+    "Excalidraw/가공 지선 (draw).md",
+    "Excalidraw/가공 지선 (draw).svg",
+    "Excalidraw/피뢰기 동작 원리 (draw).md",
     "04. Practice Notes/피뢰기.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/속류.md",
     "03. Permanent Notes/이상 전압.md",
     "Excalidraw/피뢰기 동작 원리 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/이상전압의 진행파 (draw).md",
     "Excalidraw/이상전압의 진행파 (draw).svg",
     "01. Guides/Note Guides.md",
@@ -335,8 +351,6 @@
     "templaters/config",
     "07. Solution Notes/Archive/🔬유한한 길이의 선전류 자계 구하기.md",
     "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md",
-    "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
-    "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md",
     "attachments/screenshot/Pasted image 20250508000213.png",
     "attachments/screenshot/Pasted image 20250508000155.png",
     "Rule",
@@ -345,7 +359,6 @@
     "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).svg",
     "Excalidraw/원형 고리 자계 (draw).svg",
     "Excalidraw/원형 고리 전계 (draw).svg",
-    "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-05-08 19.48.32.excalidraw",
+      "path": "Excalidraw/Drawing 2025-05-08 19.48.32.excalidraw.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "가공 지선",
       "path": "04. Practice Notes/가공 지선.md"
+    },
+    {
+      "basename": "가공 지선 (draw)",
+      "path": "Excalidraw/가공 지선 (draw).md"
     },
     {
       "basename": "피뢰기 동작 원리 (draw)",
@@ -23,10 +35,6 @@
     {
       "basename": "이상 전압",
       "path": "03. Permanent Notes/이상 전압.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "이상전압의 진행파 (draw)",
@@ -91,14 +99,6 @@
     {
       "basename": "🔬원형 고리 자계 구하기",
       "path": "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md"
-    },
-    {
-      "basename": "🔬원형 고리 전계 구하기",
-      "path": "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md"
-    },
-    {
-      "basename": "🔬분극과 전속 밀도 관계 증명",
-      "path": "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md"
     }
   ],
   "omittedPaths": [],
