@@ -37,8 +37,7 @@
               "title": "MoveFileByFrontMatter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/commander/MoveFileByFrontMatter.md"
+                "file": "templaters/commander/MoveArchiveFolder.md"
               },
               "icon": "lucide-info",
-              "title": "MoveFileByFrontMatter 의 파일 속성"
+              "title": "MoveArchiveFolder 의 파일 속성"
             }
           },
           {
@@ -205,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templaters/commander/MoveFileByFrontMatter.md",
+                "file": "templaters/commander/MoveArchiveFolder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -233,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "MoveFileByFrontMatter 그래프"
+              "title": "MoveArchiveFolder 그래프"
             }
           },
           {
@@ -321,11 +320,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7f3c2a61cc5832ee",
+  "active": "b39408ca3360b3ec",
   "lastOpenFiles": [
-    "07. Solution Notes/Archive/🔬hello.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "templaters/commander/MoveArchiveFolder.md",
+    "07. Solution Notes/Archive/🔬hello.md",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
