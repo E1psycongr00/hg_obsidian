@@ -34,8 +34,7 @@
               "title": "이상전압의 진행파 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/이상전압의 진행파 (draw).md"
+                "file": "04. Practice Notes/이상 전압.md"
               },
               "icon": "lucide-info",
-              "title": "이상전압의 진행파 (draw) 의 파일 속성"
+              "title": "이상 전압 의 파일 속성"
             }
           },
           {
@@ -202,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/이상전압의 진행파 (draw).md",
+                "file": "04. Practice Notes/이상 전압.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -230,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "이상전압의 진행파 (draw) 그래프"
+              "title": "이상 전압 그래프"
             }
           },
           {
@@ -318,11 +317,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2e37b5fb19e63938",
+  "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
+    "Excalidraw/이상전압의 진행파 (draw).md",
     "Excalidraw/이상전압의 진행파 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/이상전압의 진행파 (draw).md",
     "04. Practice Notes/이상 전압.md",
     "02. MOC/🏛️ 전력 공학.md",
     "01. Guides/Note Guides.md",
@@ -359,7 +358,6 @@
     "Excalidraw/원형 고리 전계 (draw).svg",
     "Excalidraw/정렬되지 않는 자기 쌍극자 (draw).svg",
     "Excalidraw/정렬된 자기 쌍극자 모멘트 (draw).svg",
-    "Excalidraw/원자 주위를 회전하는 전자 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
