@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "역섬락",
+      "path": "04. Practice Notes/역섬락.md"
+    },
+    {
       "basename": "매설 지선",
       "path": "04. Practice Notes/매설 지선.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
       "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
-    },
-    {
-      "basename": "🔬유한한 길이의 선전류 자계 구하기",
-      "path": "07. Solution Notes/Archive/🔬유한한 길이의 선전류 자계 구하기.md"
     }
   ],
   "omittedPaths": [],
