@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/차단기.md",
+                "file": "03. Permanent Notes/차단기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "aa42cb5933ee7119",
+            "id": "fd4ce0785e58d6cd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -112,7 +112,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/차단기.md"
+                "file": "03. Permanent Notes/차단기.md"
               },
               "icon": "lucide-info",
               "title": "차단기 의 파일 속성"
@@ -201,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/차단기.md",
+                "file": "03. Permanent Notes/차단기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -318,10 +318,12 @@
   },
   "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전력 공학.md",
-    "04. Practice Notes/차단기.md",
-    "04. Practice Notes/보호 계전 방식.md",
+    "Excalidraw/차단기 동작예시 (draw).md",
+    "Excalidraw/차단기 동작예시 (draw).svg",
     "Excalidraw/보호 계전 방식 예시 (draw).md",
+    "03. Permanent Notes/차단기.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/보호 계전 방식.md",
     "Excalidraw/보호 계전 방식 예시 (draw).svg",
     "04. Practice Notes/역섬락.md",
     "03. Permanent Notes/매설 지선.md",
@@ -347,8 +349,6 @@
     "templaters/Common 템플릿.md",
     "templaters/MOC 템플릿.md",
     "templaters/Code 템플릿.md",
-    "templaters/Solution 템플릿.md",
-    "templaters/commander/MoveArchiveFolder.md",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
@@ -357,7 +357,6 @@
     "Rule",
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
-    "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
