@@ -34,8 +34,7 @@
               "title": "보호 계전 방식 예시 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/보호 계전 방식 예시 (draw).md"
+                "file": "04. Practice Notes/보호 계전 방식.md"
               },
               "icon": "lucide-info",
-              "title": "보호 계전 방식 예시 (draw) 의 파일 속성"
+              "title": "보호 계전 방식 의 파일 속성"
             }
           },
           {
@@ -202,7 +201,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/보호 계전 방식 예시 (draw).md",
+                "file": "04. Practice Notes/보호 계전 방식.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -230,7 +229,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "보호 계전 방식 예시 (draw) 그래프"
+              "title": "보호 계전 방식 그래프"
             }
           },
           {
@@ -317,10 +316,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "aa42cb5933ee7119",
+  "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
-    "Excalidraw/보호 계전 방식 예시 (draw).svg",
     "Excalidraw/보호 계전 방식 예시 (draw).md",
+    "Excalidraw/보호 계전 방식 예시 (draw).svg",
     "04. Practice Notes/보호 계전 방식.md",
     "04. Practice Notes/역섬락.md",
     "02. MOC/🏛️ 전력 공학.md",
@@ -358,7 +357,6 @@
     "Excalidraw/다도체의 등가 반지름 (draw).svg",
     "Excalidraw/정 사각 배열의 선간 거리 (draw).svg",
     "Excalidraw/유한한 선전류의 특정 위치의 자계  (draw).svg",
-    "Excalidraw/원형 고리 자계 (draw).svg",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",

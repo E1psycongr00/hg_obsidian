@@ -1,0 +1,101 @@
+{
+  "id": "7ab1cb1a-ba19-474b-9976-b0f2e60ffb89",
+  "title": "이 파일에 알맞는 글을 채워줘. @Rule ",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "이 파일에 알맞는 글을 채워줘. ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@Rule",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Rule",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "Rule"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "```Rule/옵시디언 글쓰기 규칙.md\n\n## 기본 역할\n\n혼자 공부하며 정리하는 형태로 글을 작성한다. 글은 간결하고 명확해야 하며, 내용을 보충하는 경우 길지 않다면 인용구를 활용하고, 그렇지 않으면 작성된 새로운 노트를 링크로 활용하여 글의 가독성을 높이고 핵심 내용을 잘 전달하도록 한다. 글의 세부 주제에 대해서는 마크다운의 헤더를 이용해 계층적으로 적극적으로 분리해서 작성한다. 글은 500자 내외로 작성되야 한다.\n\n\n## 세부 규칙\n\n### 수식\n큰 수식의 경우 수식을 작성하고, 아래에 - 형태의 리스트 형태로 각 요소들에 대해서 설명한다. 그리고 수식이 의미하는 바에 대해서 간단하게 작성한다.\n\n### 글 스타일\n- 혼자 독백하는 형태로 글을 작성한다.\n- 간결하고 이해하기 쉬워야 한다.\n- \"합니다\", \"됩니다\", \"입니다\"와 같은 격식체를 사용하지 않는다.\n- 반말을 사용하지 않는다.\n\n### 보충 설명\n내용에 보충 설명이 필요한 경우 옵시디언의 콜아웃 기능을 활용한다. 콜아웃은 다음과 같은 패턴으로 작성한다.\n\n>[!example] Example: 주제\n>설명\n\n콜아웃 종류는 아래 그림을 참고한다.\n\n![[Pasted image 20250508000155.png]]\n![[Pasted image 20250508000213.png]]\n\n\n### 링크 스타일\n\n옵시디언 링크 스타일을 사용하는데 만약 해당 문서가 존재하지 않으면 `[[링크]]` 형태로 사용하고, 존재한다면 링크를 탐색해서 주제에 적합한 헤더가 있는지 찾아본 다음 다음과 같이 링크를 작성한다.\n\n```text\n[[링크#주제|이름]]\n```\n\n```\n\n\n이 파일에 알맞는 글을 채워줘. @Rule \n\n"
+        }
+      ],
+      "id": "c54d73c6-c717-448d-b4e0-a28937cea582",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04. Practice Notes/보호 계전 방식.md"
+        },
+        {
+          "type": "folder",
+          "folder": "Rule"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "알겠습니다. \"보호 계전 방식\" 파일에 대한 내용을 \"옵시디언 글쓰기 규칙\"에 맞게 작성해 드릴게요.\n\n보호 계전 방식은 전력 계통에 이상 상태가 발생했을 때, 이를 신속하게 검출하고 해당 부분을 계통으로부터 분리하여 사고의 확대를 방지하고 계통의 안정도를 유지하는 중요한 시스템이다.\n\n<smtcmp_block filename=\"04. Practice Notes/보호 계전 방식.md\" language=\"markdown\">\n---\ntags:\n  - 전력공학\n  - 이상전압\n  - 보호계전\naliases: \ncreated: 2025-05-08\ntitle: 보호 계전 방식\nnote-type: COMMON\ncompleted: false\n---\n\n## 내용(Content)\n### 개요\n보호 계전 방식은 전력 계통에 사고나 이상 상태가 발생했을 때, 이를 신속히 감지하여 고장 구간을 선택적으로 차단하고 계통의 다른 부분에 미치는 영향을 최소화하는 시스템이다. 이를 통해 설비 손상을 줄이고 전력 공급의 신뢰도를 높이는 것을 목적으로 한다.\n![[보호 계전 방식 예시 (draw).svg|350]]\n\n### 검출부\n검출부는 전력 계통의 전압이나 전류 같은 전기적 양의 변화를 감지하는 부분이다. 주로 계기용 변성기(CT, PT)를 통해 시스템의 상태를 측정하고, 이 정보를 판정부로 전달한다.\n\n>[!note] 계기용 변성기(Instrument Transformer)\n>CT(Current Transformer, 변류기)는 대전류를, PT(Potential Transformer, 계기용변압기)는 고전압을 계전기나 측정 장치가 다룰 수 있는 낮은 값으로 변환하는 장치다.\n\n### 판정부\n판정부는 검출부로부터 받은 정보를 바탕으로 계통의 정상 또는 이상 상태를 판단한다. 미리 설정된 값이나 동작 특성과 비교하여, 이상이 감지되면 동작부에 신호를 보낸다. 계전기(Relay)의 핵심 로직이 여기에 해당한다.\n\n### 동작부\n동작부는 판정부의 신호를 받아 실제로 차단기를 동작시켜 고장 구간을 분리하거나, 경보를 울리는 등의 조치를 실행하는 부분이다. 가장 대표적인 것이 차단기(Circuit Breaker)의 트립 코일을 여자시켜 차단기를 개방하는 것이다.\n\n## 질문 & 확장\n\n(없음)\n\n## 연결 노트\n- [[전력 계통]]\n- [[차단기]]\n- [[계전기]]\n\n## 출처(링크)\n</smtcmp_block>",
+      "id": "b2cb7b22-65be-4bbb-a642-4f7b879fb38d",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-pro",
+          "model": "gemini-2.5-pro-exp-03-25"
+        },
+        "usage": {
+          "prompt_tokens": 1010,
+          "completion_tokens": 591,
+          "total_tokens": 2340
+        }
+      }
+    }
+  ],
+  "createdAt": 1746706647589,
+  "updatedAt": 1746706663607,
+  "schemaVersion": 1
+}
