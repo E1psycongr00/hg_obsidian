@@ -26,6 +26,7 @@ note-type: CODE
 language: ${selectedLanguage}
 completed: false
 archive: false
+status-reason:
 ---
 `;
   

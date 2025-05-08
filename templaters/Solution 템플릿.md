@@ -15,6 +15,7 @@ title: ${newTitle}
 note-type: SOLUTION
 completed: false
 archive: false
+status-reason:
 ---
 `;
   
