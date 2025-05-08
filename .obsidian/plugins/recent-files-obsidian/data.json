@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "선간 인덕턴스와 정전용량",
-      "path": "03. Permanent Notes/선간 인덕턴스와 정전용량.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "선간 인덕턴스와 정전용량",
+      "path": "03. Permanent Notes/선간 인덕턴스와 정전용량.md"
     },
     {
       "basename": "🏛️ 전기 기사",
@@ -63,10 +67,6 @@
     {
       "basename": "다도체의 등가 반지름 (draw)",
       "path": "Excalidraw/다도체의 등가 반지름 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "등가 선간 거리",
