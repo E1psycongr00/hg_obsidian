@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Tag Guides",
+      "path": "01. Guides/Tag Guides.md"
+    },
+    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
     },
@@ -69,10 +81,6 @@
       "path": "04. Practice Notes/연가.md"
     },
     {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
       "basename": "선간 인덕턴스",
       "path": "03. Permanent Notes/선간 인덕턴스.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "옵시디언 글쓰기 규칙",
       "path": "Rule/옵시디언 글쓰기 규칙.md"
-    },
-    {
-      "basename": "Faraday 전자기 유도 법칙",
-      "path": "03. Permanent Notes/Faraday 전자기 유도 법칙.md"
-    },
-    {
-      "basename": "전자기 에너지",
-      "path": "03. Permanent Notes/전자기 에너지.md"
     }
   ],
   "omittedPaths": [],

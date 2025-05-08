@@ -58,5 +58,5 @@ Obsidian 볼트의 폴더 구조와 각 폴더의 역할을 명확히 하여 일
 
 - **`07. Solution Notes` (솔루션 노트 아카이브 - 사용 재검토 필요)**:
     - `Folder Guides.md` 원본에는 "여전히 유효한"이라는 설명이 있었으나, 현재 `Solution 템플릿`은 노트를 `04. Practice Notes`로 이동시키고, 완성된 Solution 노트는 `03. Permanent Notes`로 이동하는 흐름을 제안했습니다.
-    - 만약 별도의 Solution 노트 아카이브 폴더가 필요하다면, 이 폴더의 명확한 역할(예: 특정 기술 스택별 솔루션 모음, 자주 참조하는 해결책 패턴 등)과 `03. Permanent Notes`와의 차별점을 정의해야 합니다.
-    - **제안**: 현재로서는 `03. Permanent Notes`로 통합 관리하거나, `07. Solution Notes`를 특정 대분류(예: `07. Solution Notes/Web Performance`, `07. Solution Notes/Data Analysis`)를 위한 공간으로 활용하고, `03. Permanent Notes`에는 더 일반적이거나 작은 단위의 영구 노트를 두는 방안을 고려할 수 있습니다. 사용자의 판단에 따라 이 폴더의 활용 방안을 구체화하십시오. 만약 사용하지 않는다면 이 섹션을 삭제해도 무방합니다. 
+ 
+    -
