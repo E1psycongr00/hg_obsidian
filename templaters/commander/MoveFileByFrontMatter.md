@@ -7,6 +7,6 @@ const conditionSets = [
     { conditions: { "note-type": "SOLUTION", completed: true }, targetFolder: "07. Solution Notes/Archive" },
 ];
 
-const message = tp.user.processFileMovement(tp, conditionSets);
+const message = await tp.user.processFileMovement(tp, conditionSets);
 new window.Notice(message);
 %>

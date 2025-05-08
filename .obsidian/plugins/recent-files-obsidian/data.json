@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
       "basename": "🔬hello",
       "path": "04. Practice Notes/🔬hello.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
     },
     {
       "basename": "MoveArchiveFolder",

@@ -1,8 +1,9 @@
 module.exports = async function (tp, conditionSets) {
   for (const [conditions, targetFolder] of conditionSets) {
-    const conditionsMet = await tp.user.checkFrontMatter(tp, conditions);
+    const conditionsMet = await checkFrontMatter(tp, conditions);
+    console.log(conditionsMet);
     if (conditionsMet) {
-      const moveResult = await tp.user.moveFileToTarget(tp, targetFolder);
+      const moveResult = await moveFileToTarget(tp, targetFolder);
       if (moveResult.success) {
         return moveResult.path;
       }

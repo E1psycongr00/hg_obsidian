@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/commander/MoveFileByFrontMatter.md"
+                "file": "04. Practice Notes/🔬hello.md"
               },
               "icon": "lucide-info",
-              "title": "MoveFileByFrontMatter 의 파일 속성"
+              "title": "🔬hello 의 파일 속성"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templaters/commander/MoveFileByFrontMatter.md",
+                "file": "04. Practice Notes/🔬hello.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "MoveFileByFrontMatter 그래프"
+              "title": "🔬hello 그래프"
             }
           },
           {
@@ -336,11 +336,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7f3c2a61cc5832ee",
+  "active": "205149b5fbc67a8c",
   "lastOpenFiles": [
+    "templaters/commander/MoveFileByFrontMatter.md",
     "04. Practice Notes/🔬hello.md",
     "templaters/commander/MoveArchiveFolder.md",
-    "templaters/commander/MoveFileByFrontMatter.md",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
