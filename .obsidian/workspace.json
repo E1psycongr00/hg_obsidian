@@ -36,19 +36,8 @@
               "icon": "lucide-file",
               "title": "역섬락"
             }
-          },
-          {
-            "id": "d4ea5951b3ee50c6",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 역섬락.md"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/역섬락.md"
+                "file": "04. Practice Notes/매설 지선.md"
               },
               "icon": "lucide-info",
-              "title": "역섬락 의 파일 속성"
+              "title": "매설 지선 의 파일 속성"
             }
           },
           {
@@ -215,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/역섬락.md",
+                "file": "04. Practice Notes/매설 지선.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "역섬락 그래프"
+              "title": "매설 지선 그래프"
             }
           },
           {
@@ -330,7 +319,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d4ea5951b3ee50c6",
+  "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
     "04. Practice Notes/역섬락.md",
     "04. Practice Notes/매설 지선.md",
