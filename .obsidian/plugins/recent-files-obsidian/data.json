@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "Review 템플릿",
+      "path": "templaters/Review 템플릿.md"
+    },
+    {
+      "basename": "Reference 템플릿",
+      "path": "templaters/Reference 템플릿.md"
+    },
+    {
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
+    },
+    {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "MoveArchiveFolder",
       "path": "templaters/commander/MoveArchiveFolder.md"
     },
@@ -11,14 +47,6 @@
     {
       "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
       "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "🔬유한한 길이의 선전류 자계 구하기",
@@ -37,24 +65,12 @@
       "path": "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md"
     },
     {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
-    },
-    {
       "basename": "연가",
       "path": "04. Practice Notes/연가.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "선간 인덕턴스",
@@ -83,18 +99,6 @@
     {
       "basename": "전자기 에너지",
       "path": "03. Permanent Notes/전자기 에너지.md"
-    },
-    {
-      "basename": "정전용량",
-      "path": "03. Permanent Notes/정전용량.md"
-    },
-    {
-      "basename": "전속",
-      "path": "03. Permanent Notes/전속.md"
-    },
-    {
-      "basename": "유전체 경계 조건",
-      "path": "03. Permanent Notes/유전체 경계 조건.md"
     }
   ],
   "omittedPaths": [],

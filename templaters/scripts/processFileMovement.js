@@ -4,7 +4,7 @@ module.exports = async function (tp, conditionSets) {
     if (conditionsMet) {
       const moveResult = await tp.user.moveFileToTarget(tp, targetFolder);
       if (moveResult.success) {
-        return moveResult.path;
+        return `파일이 ${targetFolder} 폴더로 이동되었습니다.`;
       }
     }
   }
