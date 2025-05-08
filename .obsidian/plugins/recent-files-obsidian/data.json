@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "보호 계전 방식 예시 (draw)",
+      "path": "Excalidraw/보호 계전 방식 예시 (draw).md"
+    },
+    {
+      "basename": "보호 계전 방식",
+      "path": "04. Practice Notes/보호 계전 방식.md"
+    },
+    {
+      "basename": "역섬락",
+      "path": "04. Practice Notes/역섬락.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "매설 지선",
       "path": "03. Permanent Notes/매설 지선.md"
-    },
-    {
-      "basename": "역섬락",
-      "path": "04. Practice Notes/역섬락.md"
     },
     {
       "basename": "가공 지선",
@@ -91,14 +99,6 @@
     {
       "basename": "MoveArchiveFolder",
       "path": "templaters/commander/MoveArchiveFolder.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
     }
   ],
   "omittedPaths": [],
