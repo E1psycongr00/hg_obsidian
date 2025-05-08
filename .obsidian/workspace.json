@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/단로기.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "단로기"
-            }
-          },
-          {
-            "id": "a5cba95e8f7023c2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/차단기와 단로기 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "차단기와 단로기 (draw)"
+              "title": "🏛️ 전력 공학"
             }
           }
         ]
@@ -112,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/단로기.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "단로기 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -201,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/단로기.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -224,12 +212,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 1.0000000000000113,
+                  "scale": 0.7132754626224506,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "단로기 그래프"
+              "title": "🏛️ 전력 공학 그래프"
             }
           },
           {
@@ -319,10 +307,10 @@
   "active": "7d8ff96c51f11a6a",
   "lastOpenFiles": [
     "Excalidraw/차단기와 단로기 (draw).md",
+    "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/단로기.md",
     "Excalidraw/차단기와 단로기 (draw).svg",
     "Excalidraw/동작 시한에 따른 분류 그래프 (draw).md",
-    "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/동작 시한에 따른 분류.md",
     "Excalidraw/동작 시한에 따른 분류 그래프 (draw).svg",
     "04. Practice Notes/보호 계전 방식.md",
