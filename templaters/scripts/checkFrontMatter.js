@@ -4,7 +4,6 @@ module.exports = async function(tp, conditions) {
 
     for (const [key, expectedValue] of Object.entries(conditions)) {
         const actualValue = frontmatter[key];
-        
         if (!isConditionMet(actualValue, expectedValue)) {
             return false;
         }
