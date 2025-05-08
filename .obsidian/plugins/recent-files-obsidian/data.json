@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "UpdateArchiveFolder",
+      "path": "templaters/commander/UpdateArchiveFolder.md"
+    },
+    {
+      "basename": "MoveFileByFrontMatter",
+      "path": "templaters/commander/MoveFileByFrontMatter.md"
+    },
+    {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
+    },
+    {
+      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
+      "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+    },
+    {
       "basename": "🔬유한한 길이의 선전류 자계 구하기",
-      "path": "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md"
+      "path": "07. Solution Notes/Archive/🔬유한한 길이의 선전류 자계 구하기.md"
     },
     {
       "basename": "🔬원형 고리 자계 구하기",
@@ -15,18 +35,6 @@
     {
       "basename": "🔬분극과 전속 밀도 관계 증명",
       "path": "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md"
-    },
-    {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "07. Solution Notes/Area/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
     },
     {
       "basename": "Review 템플릿",
@@ -91,14 +99,6 @@
     {
       "basename": "단선",
       "path": "03. Permanent Notes/단선.md"
-    },
-    {
-      "basename": "등가 반지름",
-      "path": "03. Permanent Notes/등가 반지름.md"
-    },
-    {
-      "basename": "글쓰기 프롬프트",
-      "path": "09. PARA/2.Area/글쓰기 프롬프트.md"
     }
   ],
   "omittedPaths": [],

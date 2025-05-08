@@ -26,7 +26,7 @@ note-type: CODE
 language: ${selectedLanguage}
 completed: false
 archive: false
-area-archive-reason:
+area-reason:
 ---
 `;
   
