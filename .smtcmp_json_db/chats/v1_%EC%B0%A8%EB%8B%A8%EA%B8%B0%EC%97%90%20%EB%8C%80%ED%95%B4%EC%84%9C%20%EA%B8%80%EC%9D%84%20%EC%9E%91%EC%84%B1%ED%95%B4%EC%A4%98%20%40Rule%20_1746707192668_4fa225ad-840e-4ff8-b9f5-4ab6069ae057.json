@@ -1,0 +1,166 @@
+{
+  "id": "4fa225ad-840e-4ff8-b9f5-4ab6069ae057",
+  "title": "차단기에 대해서 글을 작성해줘 @Rule ",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "차단기에 대해서 글을 작성해줘 ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@Rule",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "Rule",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "Rule"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "```Rule/옵시디언 글쓰기 규칙.md\n\n## 기본 역할\n\n혼자 공부하며 정리하는 형태로 글을 작성한다. 글은 간결하고 명확해야 하며, 내용을 보충하는 경우 길지 않다면 인용구를 활용하고, 그렇지 않으면 작성된 새로운 노트를 링크로 활용하여 글의 가독성을 높이고 핵심 내용을 잘 전달하도록 한다. 글의 세부 주제에 대해서는 마크다운의 헤더를 이용해 계층적으로 적극적으로 분리해서 작성한다. 글은 500자 내외로 작성되야 한다.\n\n\n## 세부 규칙\n\n### 수식\n큰 수식의 경우 수식을 작성하고, 아래에 - 형태의 리스트 형태로 각 요소들에 대해서 설명한다. 그리고 수식이 의미하는 바에 대해서 간단하게 작성한다.\n\n### 글 스타일\n- 혼자 독백하는 형태로 글을 작성한다.\n- 간결하고 이해하기 쉬워야 한다.\n- \"합니다\", \"됩니다\", \"입니다\"와 같은 격식체를 사용하지 않는다.\n- 반말을 사용하지 않는다.\n\n### 보충 설명\n내용에 보충 설명이 필요한 경우 옵시디언의 콜아웃 기능을 활용한다. 콜아웃은 다음과 같은 패턴으로 작성한다.\n\n>[!example] Example: 주제\n>설명\n\n콜아웃 종류는 아래 그림을 참고한다.\n\n![[Pasted image 20250508000155.png]]\n![[Pasted image 20250508000213.png]]\n\n\n### 링크 스타일\n\n옵시디언 링크 스타일을 사용하는데 만약 해당 문서가 존재하지 않으면 `[[링크]]` 형태로 사용하고, 존재한다면 링크를 탐색해서 주제에 적합한 헤더가 있는지 찾아본 다음 다음과 같이 링크를 작성한다.\n\n```text\n[[링크#주제|이름]]\n```\n\n```\n\n\n차단기에 대해서 글을 작성해줘 @Rule \n\n"
+        }
+      ],
+      "id": "55d47c89-8028-489d-8000-9a354411c020",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04. Practice Notes/차단기.md"
+        },
+        {
+          "type": "folder",
+          "folder": "Rule"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "다음은 `04. Practice Notes/차단기.md` 파일의 내용입니다. \"가스 차단기 (GCB)\"에 대한 정보를 콜아웃 형식으로 추가하고, 정의, 동작 원리, 특징에 대한 간략한 설명을 포함했습니다.\n\n<smtcmp_block filename=\"04. Practice Notes/차단기.md\" language=\"markdown\">\n---\ntags:\n  - 전력공학\n  - 이상전압\naliases: \ncreated: 2025-05-08\ntitle: 차단기\nnote-type: COMMON\ncompleted: false\n---\n\n## 내용(Content)\n### 정의\n차단기는 전력 계통에 과부하 전류나 단락 전류와 같은 이상 전류가 흐를 때, 또는 계통의 일부를 점검하거나 보수할 필요가 있을 때, 전로를 안전하게 개폐하는 장치이다. 고장 전류를 신속히 차단하여 계통 및 기기를 보호하는 핵심적인 역할을 수행한다.\n\n### 동작 원리\n차단기는 정상 상태에서는 닫혀 있어 전류를 통전시킨다. 계통에 고장이 발생하여 보호 계전기가 이를 감지하면, 차단기에 트립 신호를 보낸다. 이 신호를 받은 차단기는 내장된 소호 매질(기름, 가스, 진공 등)을 이용하여 아크(arc)를 소멸시키고 접점을 개방하여 전류를 차단한다.\n\n### 특징\n- **차단 용량**: 차단기가 안전하게 차단할 수 있는 최대 고장 전류의 크기.\n- **정격 전압/전류**: 차단기가 정상적으로 사용될 수 있는 전압 및 전류.\n- **동작 속도**: 고장 발생 후 차단 완료까지의 시간. 빠를수록 계통 보호에 유리.\n- **소호 매질**: 아크를 소멸시키는 물질의 종류에 따라 차단기의 특성과 종류가 구분됨.\n\n>[!info] Info: 가스 차단기 (GCB: Gas Circuit Breaker)\n>가스 차단기(GCB)는 절연 성능과 소호 능력이 우수한 SF6 (육불화황) 가스를 주된 소호 및 절연 매질로 사용하는 차단기이다. SF6 가스는 아크를 효과적으로 냉각시키고 소멸시키는 능력이 뛰어나, 높은 전압과 큰 전류를 차단하는 데 적합하다. 주로 초고압 송전선로나 변전소에서 사용되며, 소형화가 가능하고 유지보수가 비교적 용이한 장점이 있다. 다만, SF6 가스는 강력한 온실가스이므로 취급 및 관리에 주의가 필요하다.\n\n## 질문 & 확장\n\n(없음)\n\n## 연결 노트\n\n## 출처(링크)\n</smtcmp_block>",
+      "id": "eed97ede-a938-4ded-9499-1813d1352f1d",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-pro",
+          "model": "gemini-2.5-pro-exp-03-25"
+        },
+        "usage": {
+          "prompt_tokens": 995,
+          "completion_tokens": 617,
+          "total_tokens": 1779
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "차단기의 정격 차단 용량과 차단기의 정격 차단 시간이 포함되어 있으면 좋겠고, SF6가 가지는 특징을 리스트 형식으로 콜아웃 내부에 나열해줘.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n차단기의 정격 차단 용량과 차단기의 정격 차단 시간이 포함되어 있으면 좋겠고, SF6가 가지는 특징을 리스트 형식으로 콜아웃 내부에 나열해줘.\n\n"
+        }
+      ],
+      "id": "cb52f706-e405-46a0-9968-e66936cee52e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "04. Practice Notes/차단기.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "알겠습니다. `04. Practice Notes/차단기.md` 파일의 \"특징\" 섹션에 정격 차단 용량과 정격 차단 시간을 추가하고, \"가스 차단기 (GCB)\" 콜아웃 내부에 SF6 가스의 특징을 리스트 형식으로 수정했습니다.\n\n<smtcmp_block filename=\"04. Practice Notes/차단기.md\" language=\"markdown\">\n<!-- ... existing content ... -->\n### 특징\n- **차단 용량**: 차단기가 안전하게 차단할 수 있는 최대 고장 전류의 크기.\n- **정격 차단 용량**: 규정된 조건 하에서 차단기가 차단할 수 있는 고장 전류의 한계치.\n- **정격 차단 시간**: 차단기에 트립 지령이 가해진 순간부터 아크가 완전히 소멸될 때까지의 시간.\n- **정격 전압/전류**: 차단기가 정상적으로 사용될 수 있는 전압 및 전류.\n- **동작 속도**: 고장 발생 후 차단 완료까지의 시간. 빠를수록 계통 보호에 유리.\n- **소호 매질**: 아크를 소멸시키는 물질의 종류에 따라 차단기의 특성과 종류가 구분됨.\n\n>[!info] Info: 가스 차단기 (GCB: Gas Circuit Breaker)\n>가스 차단기(GCB)는 SF6 (육불화황) 가스를 주된 소호 및 절연 매질로 사용하는 차단기이다. SF6 가스는 다음과 같은 특징을 가진다:\n> - 절연 성능이 매우 우수함\n> - 소호 능력이 뛰어남 (아크를 효과적으로 냉각시키고 소멸)\n> - 높은 전압과 큰 전류 차단에 적합함\n> - 차단기 소형화에 기여함\n> - 유지보수가 비교적 용이함\n> - 단, 강력한 온실가스이므로 취급 및 관리에 주의가 필요함\n>\n>이러한 특징으로 주로 초고압 송전선로나 변전소에서 사용된다.\n\n## 질문 & 확장\n<!-- ... existing content ... -->\n</smtcmp_block>",
+      "id": "e0117c63-5d56-4e27-9648-3faf7d943172",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-pro",
+          "model": "gemini-2.5-pro-exp-03-25"
+        },
+        "usage": {
+          "prompt_tokens": 1666,
+          "completion_tokens": 481,
+          "total_tokens": 2420
+        }
+      }
+    }
+  ],
+  "createdAt": 1746707091491,
+  "updatedAt": 1746707192668,
+  "schemaVersion": 1
+}
