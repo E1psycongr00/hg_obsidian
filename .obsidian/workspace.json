@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "역섬락"
             }
+          },
+          {
+            "id": "d4ea5951b3ee50c6",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 역섬락.md"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -320,7 +330,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "f29036f8da9af910",
+  "active": "d4ea5951b3ee50c6",
   "lastOpenFiles": [
     "04. Practice Notes/역섬락.md",
     "04. Practice Notes/매설 지선.md",
