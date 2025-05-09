@@ -23,18 +23,31 @@
             }
           },
           {
-            "id": "a3814854cc838a92",
+            "id": "29314ccb7838f121",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/역률 개선 (draw).md"
+                "file": "Excalidraw/병렬 콘덴서 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "역률 개선 (draw)"
+              "title": "병렬 콘덴서 (draw)"
+            }
+          },
+          {
+            "id": "8e6ddcd3b623e622",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/직렬 콘덴서 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "직렬 콘덴서 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,10 +125,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/콘덴서.md"
+                "file": "Excalidraw/직렬 콘덴서 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "콘덴서 의 파일 속성"
+              "title": "직렬 콘덴서 (draw) 의 파일 속성"
             }
           },
           {
@@ -201,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/콘덴서.md",
+                "file": "Excalidraw/직렬 콘덴서 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -229,7 +242,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "콘덴서 그래프"
+              "title": "직렬 콘덴서 (draw) 그래프"
             }
           },
           {
@@ -316,10 +329,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8e6ddcd3b623e622",
   "lastOpenFiles": [
-    "Excalidraw/역률 개선 (draw).md",
+    "Excalidraw/직렬 콘덴서 (draw).svg",
+    "Excalidraw/병렬 콘덴서 (draw).md",
+    "Excalidraw/직렬 콘덴서 (draw).md",
+    "02. MOC/Home.md",
     "04. Practice Notes/콘덴서.md",
+    "Excalidraw/병렬 콘덴서 (draw).svg",
+    "무제.md",
+    "Excalidraw/역률 개선 (draw).md",
     "04. Practice Notes/역률 개선의 필요성.md",
     "Excalidraw/역률 개선 (draw).svg",
     "02. MOC/🏛️ 전력 공학.md",
@@ -329,7 +348,6 @@
     "03. Permanent Notes/플리커 현상.md",
     "04. Practice Notes/수지식 선로와 플리커 현상.md",
     "attachments/screenshot/Pasted image 20250509124311.png",
-    "02. MOC/Home.md",
     "Excalidraw/차단기와 단로기 (draw).md",
     "04. Practice Notes/단로기.md",
     "Excalidraw/차단기와 단로기 (draw).svg",
@@ -347,13 +365,8 @@
     "03. Permanent Notes/가공 지선.md",
     "Excalidraw/차폐각 (draw).md",
     "Excalidraw/차폐각 (draw).svg",
-    "Excalidraw/가공 지선 (draw).md",
     "Excalidraw/가공 지선 (draw).svg",
-    "Excalidraw/피뢰기 동작 원리 (draw).md",
-    "04. Practice Notes/피뢰기.md",
-    "03. Permanent Notes/속류.md",
     "Excalidraw/피뢰기 동작 원리 (draw).svg",
-    "Excalidraw/이상전압의 진행파 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",

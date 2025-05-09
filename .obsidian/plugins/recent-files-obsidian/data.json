@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "직렬 콘덴서 (draw)",
+      "path": "Excalidraw/직렬 콘덴서 (draw).md"
+    },
+    {
+      "basename": "병렬 콘덴서 (draw)",
+      "path": "Excalidraw/병렬 콘덴서 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "콘덴서",
       "path": "04. Practice Notes/콘덴서.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
       "basename": "역률 개선 (draw)",
@@ -31,10 +47,6 @@
     {
       "basename": "플리커 현상",
       "path": "03. Permanent Notes/플리커 현상.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "차단기와 단로기 (draw)",
@@ -87,18 +99,6 @@
     {
       "basename": "가공 지선 (draw)",
       "path": "Excalidraw/가공 지선 (draw).md"
-    },
-    {
-      "basename": "피뢰기 동작 원리 (draw)",
-      "path": "Excalidraw/피뢰기 동작 원리 (draw).md"
-    },
-    {
-      "basename": "피뢰기",
-      "path": "04. Practice Notes/피뢰기.md"
-    },
-    {
-      "basename": "속류",
-      "path": "03. Permanent Notes/속류.md"
     }
   ],
   "omittedPaths": [],
