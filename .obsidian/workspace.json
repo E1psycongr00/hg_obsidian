@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/저압 뱅킹 방식.md",
+                "file": "04. Practice Notes/망상식.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "저압 뱅킹 방식"
+              "title": "망상식"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/저압 뱅킹 방식.md"
+                "file": "04. Practice Notes/망상식.md"
               },
               "icon": "lucide-info",
-              "title": "저압 뱅킹 방식 의 파일 속성"
+              "title": "망상식 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/저압 뱅킹 방식.md",
+                "file": "04. Practice Notes/망상식.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "저압 뱅킹 방식 그래프"
+              "title": "망상식 그래프"
             }
           },
           {
@@ -307,7 +307,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전력 공학.md",
-    "04. Practice Notes/저압 뱅킹 방식.md",
+    "04. Practice Notes/망상식.md",
+    "03. Permanent Notes/저압 뱅킹 방식.md",
     "03. Permanent Notes/수지식 선로.md",
     "03. Permanent Notes/플리커 현상.md",
     "04. Practice Notes/수지식 선로와 플리커 현상.md",
@@ -340,7 +341,6 @@
     "Excalidraw/이상전압의 진행파 (draw).md",
     "Excalidraw/이상전압의 진행파 (draw).svg",
     "01. Guides/Note Guides.md",
-    "01. Guides/Tag Guides.md",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",

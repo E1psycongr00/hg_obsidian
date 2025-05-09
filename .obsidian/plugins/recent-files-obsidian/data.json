@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "저압 뱅킹 방식",
-      "path": "04. Practice Notes/저압 뱅킹 방식.md"
+      "basename": "망상식",
+      "path": "04. Practice Notes/망상식.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "저압 뱅킹 방식",
+      "path": "03. Permanent Notes/저압 뱅킹 방식.md"
     },
     {
       "basename": "수지식 선로",
@@ -95,10 +99,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "Tag Guides",
-      "path": "01. Guides/Tag Guides.md"
     }
   ],
   "omittedPaths": [],
