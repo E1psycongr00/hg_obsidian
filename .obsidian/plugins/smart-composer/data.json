@@ -297,6 +297,20 @@
         },
         "toolOptions": {},
         "enabled": true
+      },
+      {
+        "id": "memory",
+        "parameters": {
+          "command": "npx",
+          "args": [
+            "-y",
+            "@itseasy21/mcp-knowledge-graph",
+            "--memory-path",
+            "C:\\ai_memory\\obsidian.json"
+          ]
+        },
+        "toolOptions": {},
+        "enabled": true
       }
     ]
   },
