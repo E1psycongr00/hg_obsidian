@@ -231,16 +231,6 @@
             }
           },
           {
-            "id": "2c1289dfa95a946c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "4247b009d7ed642f",
             "type": "leaf",
             "state": {
@@ -251,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "92582217f19033e7",
@@ -314,8 +304,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "45345ff9535e2956",
+  "active": "da686ca83a9dd244",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/차단기와 단로기 (draw).md",
     "04. Practice Notes/단로기.md",
@@ -334,7 +325,6 @@
     "03. Permanent Notes/가공 지선.md",
     "Excalidraw/차폐각 (draw).md",
     "Excalidraw/차폐각 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/가공 지선 (draw).md",
     "Excalidraw/가공 지선 (draw).svg",
     "Excalidraw/피뢰기 동작 원리 (draw).md",
