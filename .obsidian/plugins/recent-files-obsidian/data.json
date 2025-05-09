@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "STILL 식",
-      "path": "04. Practice Notes/STILL 식.md"
+      "basename": "페란티 현상",
+      "path": "04. Practice Notes/페란티 현상.md"
+    },
+    {
+      "basename": "옵시디언 글쓰기 규칙",
+      "path": "Rule/옵시디언 글쓰기 규칙.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "STILL 식",
+      "path": "03. Permanent Notes/STILL 식.md"
     },
     {
       "basename": "송전 전력",
@@ -91,14 +99,6 @@
     {
       "basename": "저압 뱅킹 방식",
       "path": "03. Permanent Notes/저압 뱅킹 방식.md"
-    },
-    {
-      "basename": "수지식 선로",
-      "path": "03. Permanent Notes/수지식 선로.md"
-    },
-    {
-      "basename": "플리커 현상",
-      "path": "03. Permanent Notes/플리커 현상.md"
     }
   ],
   "omittedPaths": [],
