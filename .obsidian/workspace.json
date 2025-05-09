@@ -23,6 +23,16 @@
             }
           },
           {
+            "id": "97f36a86bfffec8b",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 콘덴서.md"
+            }
+          },
+          {
             "id": "29314ccb7838f121",
             "type": "leaf",
             "state": {
@@ -46,7 +56,8 @@
               "title": "직렬 콘덴서 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,7 +339,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "97f36a86bfffec8b",
   "lastOpenFiles": [
     "Excalidraw/병렬 콘덴서 (draw).md",
     "Excalidraw/직렬 콘덴서 (draw).md",
