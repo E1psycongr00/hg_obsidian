@@ -279,7 +279,26 @@
     "includePatterns": []
   },
   "mcp": {
-    "servers": []
+    "servers": [
+      {
+        "id": "server-sequential-thinking",
+        "parameters": {
+          "command": "cmd",
+          "args": [
+            "/c",
+            "npx",
+            "-y",
+            "@smithery/cli@latest",
+            "run",
+            "@smithery-ai/server-sequential-thinking",
+            "--key",
+            "a87648db-cdb9-49b1-8c82-cf85831af17b"
+          ]
+        },
+        "toolOptions": {},
+        "enabled": true
+      }
+    ]
   },
   "chatOptions": {
     "includeCurrentFileContent": true,
