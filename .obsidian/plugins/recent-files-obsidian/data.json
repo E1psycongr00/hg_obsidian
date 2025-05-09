@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "수지식 선로",
+      "path": "04. Practice Notes/수지식 선로.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Folder Guides",
       "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
     }
   ],
   "omittedPaths": [],
