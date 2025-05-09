@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "망상식",
-      "path": "04. Practice Notes/망상식.md"
+      "basename": "역률 개선의 필요성",
+      "path": "04. Practice Notes/역률 개선의 필요성.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "망상식",
+      "path": "04. Practice Notes/망상식.md"
     },
     {
       "basename": "저압 뱅킹 방식",
@@ -95,10 +99,6 @@
     {
       "basename": "이상전압의 진행파 (draw)",
       "path": "Excalidraw/이상전압의 진행파 (draw).md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     }
   ],
   "omittedPaths": [],
