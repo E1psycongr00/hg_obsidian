@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "옵시디언 글쓰기 규칙",
-      "path": "Rule/옵시디언 글쓰기 규칙.md"
+      "basename": "물의 압력",
+      "path": "04. Practice Notes/물의 압력.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "수력 발전",
+      "path": "03. Permanent Notes/수력 발전.md"
+    },
+    {
+      "basename": "옵시디언 글쓰기 규칙",
+      "path": "Rule/옵시디언 글쓰기 규칙.md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "무제",
       "path": "무제.md"
-    },
-    {
-      "basename": "역률 개선 (draw)",
-      "path": "Excalidraw/역률 개선 (draw).md"
-    },
-    {
-      "basename": "저압 뱅킹 방식",
-      "path": "03. Permanent Notes/저압 뱅킹 방식.md"
     }
   ],
   "omittedPaths": [],
