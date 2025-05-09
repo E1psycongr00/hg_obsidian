@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/물의 압력.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "물의 압력"
+              "title": "🏛️ 전력 공학"
             }
           },
           {
@@ -51,18 +51,9 @@
               "icon": "lucide-file",
               "title": "수두"
             }
-          },
-          {
-            "id": "53e3ad2cbc8cb5e2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/물의 압력.md"
+                "file": "04. Practice Notes/수두.md"
               },
               "icon": "lucide-info",
-              "title": "물의 압력 의 파일 속성"
+              "title": "수두 의 파일 속성"
             }
           },
           {
@@ -229,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/물의 압력.md",
+                "file": "04. Practice Notes/수두.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -257,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "물의 압력 그래프"
+              "title": "수두 그래프"
             }
           },
           {
@@ -344,11 +335,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "88ccde5d24ba9595",
   "lastOpenFiles": [
-    "04. Practice Notes/물의 압력.md",
     "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/수두.md",
+    "03. Permanent Notes/물의 압력.md",
     "Excalidraw/물의 압력 (draw).md",
     "Excalidraw/물의 압력 (draw).svg",
     "02. MOC/Home.md",
