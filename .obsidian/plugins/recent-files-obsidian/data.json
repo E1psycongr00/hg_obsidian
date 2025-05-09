@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "직류 송전 방식",
-      "path": "04. Practice Notes/직류 송전 방식.md"
-    },
-    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
-      "basename": "콘덴서 충전 전류와 충전 용량",
-      "path": "04. Practice Notes/콘덴서 충전 전류와 충전 용량.md"
+      "basename": "동작 시한에 따른 분류",
+      "path": "03. Permanent Notes/동작 시한에 따른 분류.md"
+    },
+    {
+      "basename": "이상 전압",
+      "path": "03. Permanent Notes/이상 전압.md"
     },
     {
       "basename": "단거리 송전 선로",
       "path": "03. Permanent Notes/단거리 송전 선로.md"
+    },
+    {
+      "basename": "리액터",
+      "path": "03. Permanent Notes/리액터.md"
+    },
+    {
+      "basename": "직류 송전 방식",
+      "path": "03. Permanent Notes/직류 송전 방식.md"
+    },
+    {
+      "basename": "콘덴서 충전 전류와 충전 용량",
+      "path": "04. Practice Notes/콘덴서 충전 전류와 충전 용량.md"
     },
     {
       "basename": "연가",
@@ -39,10 +51,6 @@
     {
       "basename": "동기 조상기 vs 병렬 콘덴서",
       "path": "03. Permanent Notes/동기 조상기 vs 병렬 콘덴서.md"
-    },
-    {
-      "basename": "리액터",
-      "path": "03. Permanent Notes/리액터.md"
     },
     {
       "basename": "병렬 콘덴서 (draw)",
@@ -91,14 +99,6 @@
     {
       "basename": "차단기와 단로기 (draw)",
       "path": "Excalidraw/차단기와 단로기 (draw).md"
-    },
-    {
-      "basename": "단로기",
-      "path": "04. Practice Notes/단로기.md"
-    },
-    {
-      "basename": "동작 시한에 따른 분류 그래프 (draw)",
-      "path": "Excalidraw/동작 시한에 따른 분류 그래프 (draw).md"
     }
   ],
   "omittedPaths": [],
