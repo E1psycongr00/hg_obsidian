@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "역률 개선의 필요성"
             }
-          },
-          {
-            "id": "502548666882a968",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 역률 개선의 필요성.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,7 +304,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "502548666882a968",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/역률 개선의 필요성.md",
