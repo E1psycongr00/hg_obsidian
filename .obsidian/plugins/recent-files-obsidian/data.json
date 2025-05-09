@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "리액터",
-      "path": "04. Practice Notes/리액터.md"
-    },
-    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "동기 조상기 vs 병렬 콘덴서",
+      "path": "03. Permanent Notes/동기 조상기 vs 병렬 콘덴서.md"
+    },
+    {
+      "basename": "리액터",
+      "path": "03. Permanent Notes/리액터.md"
     },
     {
       "basename": "병렬 콘덴서 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "매설 지선",
       "path": "03. Permanent Notes/매설 지선.md"
-    },
-    {
-      "basename": "가공 지선",
-      "path": "03. Permanent Notes/가공 지선.md"
     }
   ],
   "omittedPaths": [],
