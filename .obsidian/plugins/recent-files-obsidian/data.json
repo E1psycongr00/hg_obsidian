@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "역률 개선의 필요성",
-      "path": "04. Practice Notes/역률 개선의 필요성.md"
+      "basename": "콘덴서",
+      "path": "04. Practice Notes/콘덴서.md"
     },
     {
       "basename": "역률 개선 (draw)",
       "path": "Excalidraw/역률 개선 (draw).md"
+    },
+    {
+      "basename": "역률 개선의 필요성",
+      "path": "04. Practice Notes/역률 개선의 필요성.md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -95,10 +99,6 @@
     {
       "basename": "속류",
       "path": "03. Permanent Notes/속류.md"
-    },
-    {
-      "basename": "이상 전압",
-      "path": "03. Permanent Notes/이상 전압.md"
     }
   ],
   "omittedPaths": [],
