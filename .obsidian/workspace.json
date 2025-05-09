@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/결선에 따른 전기 공급 방식.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전력 공학"
+              "title": "결선에 따른 전기 공급 방식"
             }
           },
           {
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md"
+                "file": "04. Practice Notes/결선에 따른 전기 공급 방식.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전력 공학 의 파일 속성"
+              "title": "결선에 따른 전기 공급 방식 의 파일 속성"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/결선에 따른 전기 공급 방식.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전력 공학 그래프"
+              "title": "결선에 따른 전기 공급 방식 그래프"
             }
           },
           {
@@ -335,10 +335,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "58f5fa4b93c97186",
+  "active": "62d96583bb3c34ce",
   "lastOpenFiles": [
-    "04. Practice Notes/콘덴서 충전 전류와 충전 용량.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/결선에 따른 전기 공급 방식.md",
+    "04. Practice Notes/망상식.md",
+    "04. Practice Notes/콘덴서 충전 전류와 충전 용량.md",
     "03. Permanent Notes/페란티 현상.md",
     "Rule/옵시디언 글쓰기 규칙.md",
     "03. Permanent Notes/STILL 식.md",
@@ -363,9 +365,7 @@
     "무제.md",
     "Excalidraw/역률 개선 (draw).md",
     "Excalidraw/역률 개선 (draw).svg",
-    "04. Practice Notes/망상식.md",
     "03. Permanent Notes/저압 뱅킹 방식.md",
-    "03. Permanent Notes/수지식 선로.md",
     "attachments/screenshot/Pasted image 20250509124311.png",
     "Excalidraw/차단기와 단로기 (draw).svg",
     "Excalidraw/동작 시한에 따른 분류 그래프 (draw).svg",
