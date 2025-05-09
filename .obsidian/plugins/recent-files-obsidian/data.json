@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "연가",
+      "path": "04. Practice Notes/연가.md"
+    },
+    {
+      "basename": "역률 개선의 필요성",
+      "path": "04. Practice Notes/역률 개선의 필요성.md"
+    },
+    {
       "basename": "콘덴서",
-      "path": "04. Practice Notes/콘덴서.md"
+      "path": "03. Permanent Notes/콘덴서.md"
     },
     {
       "basename": "병렬 콘덴서 (draw)",
@@ -23,14 +35,6 @@
     {
       "basename": "역률 개선 (draw)",
       "path": "Excalidraw/역률 개선 (draw).md"
-    },
-    {
-      "basename": "역률 개선의 필요성",
-      "path": "04. Practice Notes/역률 개선의 필요성.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "망상식",
@@ -95,10 +99,6 @@
     {
       "basename": "차폐각 (draw)",
       "path": "Excalidraw/차폐각 (draw).md"
-    },
-    {
-      "basename": "가공 지선 (draw)",
-      "path": "Excalidraw/가공 지선 (draw).md"
     }
   ],
   "omittedPaths": [],
