@@ -46,8 +46,7 @@
               "title": "직렬 콘덴서 (draw)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/직렬 콘덴서 (draw).md"
+                "file": "04. Practice Notes/콘덴서.md"
               },
               "icon": "lucide-info",
-              "title": "직렬 콘덴서 (draw) 의 파일 속성"
+              "title": "콘덴서 의 파일 속성"
             }
           },
           {
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/직렬 콘덴서 (draw).md",
+                "file": "04. Practice Notes/콘덴서.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -242,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "직렬 콘덴서 (draw) 그래프"
+              "title": "콘덴서 그래프"
             }
           },
           {
@@ -329,11 +328,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "8e6ddcd3b623e622",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).md",
     "Excalidraw/직렬 콘덴서 (draw).md",
+    "Excalidraw/직렬 콘덴서 (draw).svg",
     "02. MOC/Home.md",
     "04. Practice Notes/콘덴서.md",
     "Excalidraw/병렬 콘덴서 (draw).svg",
@@ -366,7 +365,6 @@
     "Excalidraw/차폐각 (draw).md",
     "Excalidraw/차폐각 (draw).svg",
     "Excalidraw/가공 지선 (draw).svg",
-    "Excalidraw/피뢰기 동작 원리 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
