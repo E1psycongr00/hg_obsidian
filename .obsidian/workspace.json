@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수두.md",
+                "file": "04. Practice Notes/수두.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -51,9 +51,18 @@
               "icon": "lucide-file",
               "title": "수두"
             }
+          },
+          {
+            "id": "53e3ad2cbc8cb5e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,10 +140,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "수두.md"
+                "file": "04. Practice Notes/물의 압력.md"
               },
               "icon": "lucide-info",
-              "title": "수두 의 파일 속성"
+              "title": "물의 압력 의 파일 속성"
             }
           },
           {
@@ -179,7 +188,7 @@
       {
         "id": "1838285c49809bd3",
         "type": "tabs",
-        "dimension": 41.25,
+        "dimension": 39.32692307692307,
         "children": [
           {
             "id": "fbb43720530e7e29",
@@ -220,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "수두.md",
+                "file": "04. Practice Notes/물의 압력.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -248,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "수두 그래프"
+              "title": "물의 압력 그래프"
             }
           },
           {
@@ -277,7 +286,7 @@
       {
         "id": "92582217f19033e7",
         "type": "tabs",
-        "dimension": 58.75,
+        "dimension": 60.67307692307692,
         "children": [
           {
             "id": "1aaa38f27764a613",
@@ -335,11 +344,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "88ccde5d24ba9595",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "수두.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/물의 압력.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/수두.md",
     "Excalidraw/물의 압력 (draw).md",
     "Excalidraw/물의 압력 (draw).svg",
     "02. MOC/Home.md",
