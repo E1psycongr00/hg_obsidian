@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/수지식 선로.md"
     },
     {
+      "basename": "플리커 현상",
+      "path": "03. Permanent Notes/플리커 현상.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
     }
   ],
   "omittedPaths": [],
