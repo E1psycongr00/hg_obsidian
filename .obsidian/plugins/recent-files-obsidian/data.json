@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "STILL 식",
+      "path": "04. Practice Notes/STILL 식.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "송전 전력",
+      "path": "03. Permanent Notes/송전 전력.md"
     },
     {
       "basename": "동작 시한에 따른 분류",
@@ -35,10 +43,6 @@
     {
       "basename": "코로나 현상",
       "path": "03. Permanent Notes/코로나 현상.md"
-    },
-    {
-      "basename": "송전 전력",
-      "path": "03. Permanent Notes/송전 전력.md"
     },
     {
       "basename": "유효-무효 전력 제어",
@@ -95,10 +99,6 @@
     {
       "basename": "플리커 현상",
       "path": "03. Permanent Notes/플리커 현상.md"
-    },
-    {
-      "basename": "차단기와 단로기 (draw)",
-      "path": "Excalidraw/차단기와 단로기 (draw).md"
     }
   ],
   "omittedPaths": [],
