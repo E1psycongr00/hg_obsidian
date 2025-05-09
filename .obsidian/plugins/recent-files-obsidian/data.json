@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
+      "basename": "코로나 현상",
+      "path": "03. Permanent Notes/코로나 현상.md"
+    },
+    {
       "basename": "콘덴서 충전 전류와 충전 용량",
       "path": "04. Practice Notes/콘덴서 충전 전류와 충전 용량.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "보호 계전 방식",
       "path": "04. Practice Notes/보호 계전 방식.md"
-    },
-    {
-      "basename": "차단기",
-      "path": "03. Permanent Notes/차단기.md"
     }
   ],
   "omittedPaths": [],
