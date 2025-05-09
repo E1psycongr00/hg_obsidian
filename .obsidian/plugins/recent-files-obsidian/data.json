@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "유효-무효 전력 제어",
+      "path": "04. Practice Notes/유효-무효 전력 제어.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "캘빈의 법칙",
+      "path": "03. Permanent Notes/캘빈의 법칙.md"
     },
     {
       "basename": "동기 조상기 vs 병렬 콘덴서",
@@ -91,14 +99,6 @@
     {
       "basename": "차단기 동작예시 (draw)",
       "path": "Excalidraw/차단기 동작예시 (draw).md"
-    },
-    {
-      "basename": "역섬락",
-      "path": "04. Practice Notes/역섬락.md"
-    },
-    {
-      "basename": "매설 지선",
-      "path": "03. Permanent Notes/매설 지선.md"
     }
   ],
   "omittedPaths": [],
