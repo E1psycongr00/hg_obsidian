@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "역률 개선의 필요성"
             }
+          },
+          {
+            "id": "a3814854cc838a92",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/역률 개선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "역률 개선 (draw)"
+            }
           }
         ]
       }
@@ -306,8 +318,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전력 공학.md",
+    "Excalidraw/역률 개선 (draw).md",
     "04. Practice Notes/역률 개선의 필요성.md",
+    "Excalidraw/역률 개선 (draw).svg",
+    "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/망상식.md",
     "03. Permanent Notes/저압 뱅킹 방식.md",
     "03. Permanent Notes/수지식 선로.md",
@@ -337,14 +351,11 @@
     "Excalidraw/피뢰기 동작 원리 (draw).md",
     "04. Practice Notes/피뢰기.md",
     "03. Permanent Notes/속류.md",
-    "03. Permanent Notes/이상 전압.md",
     "Excalidraw/피뢰기 동작 원리 (draw).svg",
-    "Excalidraw/이상전압의 진행파 (draw).md",
     "Excalidraw/이상전압의 진행파 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
-    "attachments/screenshot/Pasted image 20250508000213.png",
     "Rule",
     "08. 공부 자료/pdf/book/물리학/David J. Griffiths - Introduction to Electrodynamics-Prentice Hall (1999).pdf",
     "08. 공부 자료/pdf/book/물리학",
