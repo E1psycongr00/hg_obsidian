@@ -95,10 +95,6 @@
     {
       "basename": "Tag Guides",
       "path": "01. Guides/Tag Guides.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
     }
   ],
   "omittedPaths": [],
