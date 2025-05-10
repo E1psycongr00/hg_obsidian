@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "분산 부하와 집중 부하"
             }
+          },
+          {
+            "id": "b346ab8a7069e9da",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 분산 부하와 집중 부하.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,7 +315,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "fbf1465a9a37be09",
+  "active": "b346ab8a7069e9da",
   "lastOpenFiles": [
     "04. Practice Notes/분산 부하와 집중 부하.md",
     "02. MOC/Home.md",
