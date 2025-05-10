@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "적산 유량 곡선.md",
+                "file": "04. Practice Notes/적산 유량 곡선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "적산 유량 곡선.md"
+                "file": "04. Practice Notes/적산 유량 곡선.md"
               },
               "icon": "lucide-info",
               "title": "적산 유량 곡선 의 파일 속성"
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "적산 유량 곡선.md",
+                "file": "04. Practice Notes/적산 유량 곡선.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -306,13 +306,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/적선 유량 곡선 (draw).md",
+    "Excalidraw/적선 유량 곡선 (draw).svg",
+    "04. Practice Notes/적산 유량 곡선.md",
+    "Excalidraw/연평균 유량 (draw).md",
     "02. MOC/🏛️ 전력 공학.md",
-    "적산 유량 곡선.md",
     "04. Practice Notes/유황 곡선.md",
     "Rule/옵시디언 글쓰기 규칙.md",
     "Excalidraw/유황 곡선 (draw).md",
     "Excalidraw/유황 곡선 (draw).svg",
-    "Excalidraw/연평균 유량 (draw).md",
     "03. Permanent Notes/연평균 유량.md",
     "Excalidraw/연평균 유량 (draw).svg",
     "Excalidraw/물의 압력 (draw).md",
@@ -334,14 +336,11 @@
     "03. Permanent Notes/STILL 식.md",
     "03. Permanent Notes/송전 전력.md",
     "03. Permanent Notes/동작 시한에 따른 분류.md",
-    "03. Permanent Notes/이상 전압.md",
-    "03. Permanent Notes/단거리 송전 선로.md",
     "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).svg",
     "Excalidraw/역률 개선 (draw).svg",
     "attachments/screenshot/Pasted image 20250509124311.png",
     "Excalidraw/차단기와 단로기 (draw).svg",
-    "Excalidraw/동작 시한에 따른 분류 그래프 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",

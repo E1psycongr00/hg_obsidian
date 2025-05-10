@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "적산 유량 곡선",
-      "path": "적산 유량 곡선.md"
+      "path": "04. Practice Notes/적산 유량 곡선.md"
+    },
+    {
+      "basename": "적선 유량 곡선 (draw)",
+      "path": "Excalidraw/적선 유량 곡선 (draw).md"
+    },
+    {
+      "basename": "연평균 유량 (draw)",
+      "path": "Excalidraw/연평균 유량 (draw).md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -19,10 +27,6 @@
     {
       "basename": "유황 곡선 (draw)",
       "path": "Excalidraw/유황 곡선 (draw).md"
-    },
-    {
-      "basename": "연평균 유량 (draw)",
-      "path": "Excalidraw/연평균 유량 (draw).md"
     },
     {
       "basename": "연평균 유량",
@@ -95,10 +99,6 @@
     {
       "basename": "이상 전압",
       "path": "03. Permanent Notes/이상 전압.md"
-    },
-    {
-      "basename": "단거리 송전 선로",
-      "path": "03. Permanent Notes/단거리 송전 선로.md"
     }
   ],
   "omittedPaths": [],
