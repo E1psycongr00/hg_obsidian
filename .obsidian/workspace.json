@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "결선에 따른 전기 공급 방식"
             }
+          },
+          {
+            "id": "59af91cc1b18bc07",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 결선에 따른 전기 공급 방식.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,7 +315,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "59af91cc1b18bc07",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md",
