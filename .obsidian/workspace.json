@@ -13,21 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "🏛️ 전력 공학"
-            }
-          },
-          {
-            "id": "80acf0eecb6f8336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "04. Practice Notes/수차의 특유 속도.md",
                 "mode": "source",
                 "source": false,
@@ -36,8 +21,19 @@
               "icon": "lucide-file",
               "title": "수차의 특유 속도"
             }
+          },
+          {
+            "id": "e9f3ebfcece4439b",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 수차의 특유 속도.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md"
+                "file": "04. Practice Notes/수차의 특유 속도.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전력 공학 의 파일 속성"
+              "title": "수차의 특유 속도 의 파일 속성"
             }
           },
           {
@@ -204,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/수차의 특유 속도.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -232,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전력 공학 그래프"
+              "title": "수차의 특유 속도 그래프"
             }
           },
           {
@@ -319,10 +315,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e9f3ebfcece4439b",
   "lastOpenFiles": [
-    "04. Practice Notes/수차의 특유 속도.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/수차의 특유 속도.md",
     "03. Permanent Notes/등가 선간 거리.md",
     "03. Permanent Notes/페란티 현상.md",
     "03. Permanent Notes/연속의 정리.md",
