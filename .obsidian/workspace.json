@@ -41,10 +41,12 @@
             "id": "38a854cc98185bad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/유황 곡선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "유황 곡선 (draw)"
             }
           }
         ],
@@ -125,9 +127,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Excalidraw/유황 곡선 (draw).md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "유황 곡선 (draw) 의 파일 속성"
             }
           },
           {
@@ -213,6 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/유황 곡선 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -240,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "유황 곡선 (draw) 그래프"
             }
           },
           {
@@ -329,6 +334,8 @@
   },
   "active": "38a854cc98185bad",
   "lastOpenFiles": [
+    "Excalidraw/유황 곡선 (draw).svg",
+    "Excalidraw/유황 곡선 (draw).md",
     "04. Practice Notes/유황 곡선.md",
     "Rule/옵시디언 글쓰기 규칙.md",
     "Excalidraw/연평균 유량 (draw).md",
@@ -356,8 +363,6 @@
     "03. Permanent Notes/동작 시한에 따른 분류.md",
     "03. Permanent Notes/이상 전압.md",
     "03. Permanent Notes/단거리 송전 선로.md",
-    "03. Permanent Notes/리액터.md",
-    "03. Permanent Notes/직류 송전 방식.md",
     "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).svg",
     "Excalidraw/역률 개선 (draw).svg",
