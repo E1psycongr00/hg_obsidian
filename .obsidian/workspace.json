@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -231,7 +231,7 @@
             }
           },
           {
-            "id": "dadce8c5c26e2780",
+            "id": "fbf1465a9a37be09",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -241,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "92582217f19033e7",
@@ -304,12 +304,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fbf1465a9a37be09",
   "lastOpenFiles": [
+    "04. Practice Notes/분산 부하와 집중 부하.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/Home.md",
-    "04. Practice Notes/분산 부하와 집중 부하.md",
     "Excalidraw/집중 부하 (draw).md",
     "Excalidraw/분산 부하 (draw).md",
     "Excalidraw/집중 부하 (draw).svg",
