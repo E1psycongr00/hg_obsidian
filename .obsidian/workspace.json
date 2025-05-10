@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/유황 곡선.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "유황 곡선"
+              "title": "🏛️ 전력 공학"
             }
           },
           {
@@ -36,21 +36,8 @@
               "icon": "lucide-file",
               "title": "옵시디언 글쓰기 규칙"
             }
-          },
-          {
-            "id": "38a854cc98185bad",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/유황 곡선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "유황 곡선 (draw)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/유황 곡선 (draw).md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "유황 곡선 (draw) 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -217,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/유황 곡선 (draw).md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -245,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "유황 곡선 (draw) 그래프"
+              "title": "🏛️ 전력 공학 그래프"
             }
           },
           {
@@ -332,12 +319,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "38a854cc98185bad",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/유황 곡선 (draw).svg",
-    "Excalidraw/유황 곡선 (draw).md",
     "04. Practice Notes/유황 곡선.md",
     "Rule/옵시디언 글쓰기 규칙.md",
+    "Excalidraw/유황 곡선 (draw).md",
+    "Excalidraw/유황 곡선 (draw).svg",
     "Excalidraw/연평균 유량 (draw).md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/연평균 유량.md",
@@ -369,7 +356,6 @@
     "attachments/screenshot/Pasted image 20250509124311.png",
     "Excalidraw/차단기와 단로기 (draw).svg",
     "Excalidraw/동작 시한에 따른 분류 그래프 (draw).svg",
-    "Excalidraw/차단기 동작예시 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
