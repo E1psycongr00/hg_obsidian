@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/수차별 특유 속도 정리.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전력 공학"
+              "title": "수차별 특유 속도 정리"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md"
+                "file": "04. Practice Notes/수차별 특유 속도 정리.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전력 공학 의 파일 속성"
+              "title": "수차별 특유 속도 정리 의 파일 속성"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/수차별 특유 속도 정리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전력 공학 그래프"
+              "title": "수차별 특유 속도 정리 그래프"
             }
           },
           {
@@ -321,8 +321,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/수력 발전소 출력.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/수차별 특유 속도 정리.md",
+    "03. Permanent Notes/수차의 특유 속도.md",
+    "03. Permanent Notes/수력 발전소 출력.md",
     "04. Practice Notes/적산 유량 곡선.md",
     "Excalidraw/적선 유량 곡선 (draw).md",
     "Excalidraw/적선 유량 곡선 (draw).svg",
@@ -335,7 +337,6 @@
     "Excalidraw/연평균 유량 (draw).svg",
     "Excalidraw/물의 압력 (draw).md",
     "02. MOC/Home.md",
-    "03. Permanent Notes/수차의 특유 속도.md",
     "04. Practice Notes/망상식.md",
     "03. Permanent Notes/등가 선간 거리.md",
     "03. Permanent Notes/페란티 현상.md",
@@ -351,7 +352,6 @@
     "04. Practice Notes/콘덴서 충전 전류와 충전 용량.md",
     "03. Permanent Notes/STILL 식.md",
     "03. Permanent Notes/송전 전력.md",
-    "03. Permanent Notes/동작 시한에 따른 분류.md",
     "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).svg",
     "Excalidraw/역률 개선 (draw).svg",

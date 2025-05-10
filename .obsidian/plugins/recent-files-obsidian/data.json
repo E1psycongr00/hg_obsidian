@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "수차별 특유 속도 정리",
+      "path": "04. Practice Notes/수차별 특유 속도 정리.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "수차의 특유 속도",
+      "path": "03. Permanent Notes/수차의 특유 속도.md"
     },
     {
       "basename": "수력 발전소 출력",
@@ -43,10 +51,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "수차의 특유 속도",
-      "path": "03. Permanent Notes/수차의 특유 속도.md"
     },
     {
       "basename": "망상식",
@@ -95,10 +99,6 @@
     {
       "basename": "송전 전력",
       "path": "03. Permanent Notes/송전 전력.md"
-    },
-    {
-      "basename": "동작 시한에 따른 분류",
-      "path": "03. Permanent Notes/동작 시한에 따른 분류.md"
     }
   ],
   "omittedPaths": [],
