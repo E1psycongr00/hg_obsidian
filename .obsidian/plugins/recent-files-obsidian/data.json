@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-05-10 16.40.11.excalidraw",
+      "path": "Excalidraw/Drawing 2025-05-10 16.40.11.excalidraw.md"
+    },
+    {
+      "basename": "분산 부하와 집중 부하",
+      "path": "04. Practice Notes/분산 부하와 집중 부하.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "베르누이 정리",
       "path": "03. Permanent Notes/베르누이 정리.md"
-    },
-    {
-      "basename": "수두",
-      "path": "03. Permanent Notes/수두.md"
-    },
-    {
-      "basename": "물의 압력",
-      "path": "03. Permanent Notes/물의 압력.md"
     }
   ],
   "omittedPaths": [],
