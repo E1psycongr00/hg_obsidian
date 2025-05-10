@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "연속의 정리"
             }
+          },
+          {
+            "id": "6c1cd93f16795c5b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/연속의 정리 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "연속의 정리 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/연속의 정리.md"
+                "file": "Excalidraw/연속의 정리 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "연속의 정리 의 파일 속성"
+              "title": "연속의 정리 (draw) 의 파일 속성"
             }
           },
           {
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/연속의 정리.md",
+                "file": "Excalidraw/연속의 정리 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "연속의 정리 그래프"
+              "title": "연속의 정리 (draw) 그래프"
             }
           },
           {
@@ -304,17 +317,19 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6c1cd93f16795c5b",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전력 공학.md",
+    "Excalidraw/연속의 정리 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/연속의 정리 (draw).md",
     "04. Practice Notes/연속의 정리.md",
+    "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/베르누이 정리.md",
     "03. Permanent Notes/수두.md",
     "03. Permanent Notes/물의 압력.md",
     "Rule/옵시디언 글쓰기 규칙.md",
     "Excalidraw/물의 압력 (draw).md",
     "Excalidraw/물의 압력 (draw).svg",
-    "02. MOC/Home.md",
     "03. Permanent Notes/수력 발전.md",
     "04. Practice Notes/결선에 따른 전기 공급 방식.md",
     "04. Practice Notes/망상식.md",
@@ -331,8 +346,6 @@
     "03. Permanent Notes/코로나 현상.md",
     "03. Permanent Notes/유효-무효 전력 제어.md",
     "03. Permanent Notes/캘빈의 법칙.md",
-    "03. Permanent Notes/동기 조상기 vs 병렬 콘덴서.md",
-    "Excalidraw/병렬 콘덴서 (draw).md",
     "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).svg",
     "Excalidraw/역률 개선 (draw).svg",

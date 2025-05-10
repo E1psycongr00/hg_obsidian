@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "연속의 정리 (draw)",
+      "path": "Excalidraw/연속의 정리 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "연속의 정리",
       "path": "04. Practice Notes/연속의 정리.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "물의 압력 (draw)",
       "path": "Excalidraw/물의 압력 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "수력 발전",
@@ -95,10 +99,6 @@
     {
       "basename": "동기 조상기 vs 병렬 콘덴서",
       "path": "03. Permanent Notes/동기 조상기 vs 병렬 콘덴서.md"
-    },
-    {
-      "basename": "병렬 콘덴서 (draw)",
-      "path": "Excalidraw/병렬 콘덴서 (draw).md"
     }
   ],
   "omittedPaths": [],
