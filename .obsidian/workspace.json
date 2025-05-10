@@ -28,14 +28,25 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-10 16.40.11.excalidraw.md"
+                "file": "Excalidraw/분산 부하 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-10 16.40.11.excalidraw"
+              "title": "분산 부하 (draw)"
+            }
+          },
+          {
+            "id": "22ee93a6c8c01487",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/집중 부하 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "집중 부하 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-10 16.40.11.excalidraw.md"
+                "file": "04. Practice Notes/분산 부하와 집중 부하.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-05-10 16.40.11.excalidraw 의 파일 속성"
+              "title": "분산 부하와 집중 부하 의 파일 속성"
             }
           },
           {
@@ -202,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-10 16.40.11.excalidraw.md",
+                "file": "04. Practice Notes/분산 부하와 집중 부하.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -230,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-05-10 16.40.11.excalidraw 그래프"
+              "title": "분산 부하와 집중 부하 그래프"
             }
           },
           {
@@ -267,27 +278,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/분산 부하와 집중 부하.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전력 공학 의 개요"
-            }
-          },
-          {
-            "id": "45345ff9535e2956",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
+              "title": "분산 부하와 집중 부하 의 개요"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -317,10 +317,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6bdda7dad96db531",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/집중 부하 (draw).md",
+    "Excalidraw/분산 부하 (draw).md",
+    "Excalidraw/집중 부하 (draw).svg",
+    "Excalidraw/분산 부하 (draw).svg",
     "04. Practice Notes/분산 부하와 집중 부하.md",
-    "Excalidraw/Drawing 2025-05-10 16.40.11.excalidraw.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/결선에 따른 전기 공급 방식.md",
     "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md",
@@ -350,11 +353,7 @@
     "03. Permanent Notes/연속의 정리.md",
     "Excalidraw/연속의 정리 (draw).md",
     "Excalidraw/연속의 정리 (draw).svg",
-    "03. Permanent Notes/베르누이 정리.md",
-    "03. Permanent Notes/수두.md",
     "Excalidraw/물의 압력 (draw).svg",
-    "Excalidraw/직렬 콘덴서 (draw).svg",
-    "Excalidraw/병렬 콘덴서 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
