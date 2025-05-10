@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "연평균 유량",
+      "path": "04. Practice Notes/연평균 유량.md"
+    },
+    {
+      "basename": "연평균 유량 (draw)",
+      "path": "Excalidraw/연평균 유량 (draw).md"
+    },
+    {
+      "basename": "물의 압력 (draw)",
+      "path": "Excalidraw/물의 압력 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "수차의 특유 속도",
-      "path": "04. Practice Notes/수차의 특유 속도.md"
+      "path": "03. Permanent Notes/수차의 특유 속도.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "연평균 유량",
-      "path": "04. Practice Notes/연평균 유량.md"
     },
     {
       "basename": "망상식",
@@ -33,10 +45,6 @@
       "path": "Excalidraw/연속의 정리 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "베르누이 정리",
       "path": "03. Permanent Notes/베르누이 정리.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "옵시디언 글쓰기 규칙",
       "path": "Rule/옵시디언 글쓰기 규칙.md"
-    },
-    {
-      "basename": "물의 압력 (draw)",
-      "path": "Excalidraw/물의 압력 (draw).md"
     },
     {
       "basename": "수력 발전",
@@ -95,10 +99,6 @@
     {
       "basename": "연가",
       "path": "04. Practice Notes/연가.md"
-    },
-    {
-      "basename": "코로나 현상",
-      "path": "03. Permanent Notes/코로나 현상.md"
     }
   ],
   "omittedPaths": [],
