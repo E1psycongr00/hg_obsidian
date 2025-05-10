@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "적산 유량 곡선",
+      "path": "적산 유량 곡선.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "단거리 송전 선로",
       "path": "03. Permanent Notes/단거리 송전 선로.md"
-    },
-    {
-      "basename": "리액터",
-      "path": "03. Permanent Notes/리액터.md"
     }
   ],
   "omittedPaths": [],
