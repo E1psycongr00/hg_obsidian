@@ -265,7 +265,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "92582217f19033e7",
@@ -286,8 +286,19 @@
               "icon": "lucide-list",
               "title": "분산 부하와 집중 부하 의 개요"
             }
+          },
+          {
+            "id": "05945c099298a576",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -317,7 +328,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "05945c099298a576",
   "lastOpenFiles": [
     "Excalidraw/집중 부하 (draw).md",
     "Excalidraw/분산 부하 (draw).md",
