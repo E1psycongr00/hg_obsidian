@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/수력 발전소 출력.md",
+                "file": "03. Permanent Notes/수력 발전소 출력.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -36,19 +36,8 @@
               "icon": "lucide-file",
               "title": "수력 발전소 출력"
             }
-          },
-          {
-            "id": "67287e93dcfb017b",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 수력 발전소 출력.md"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/수력 발전소 출력.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "수력 발전소 출력 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -215,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/수력 발전소 출력.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "수력 발전소 출력 그래프"
+              "title": "🏛️ 전력 공학 그래프"
             }
           },
           {
@@ -330,9 +319,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "67287e93dcfb017b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/수력 발전소 출력.md",
+    "03. Permanent Notes/수력 발전소 출력.md",
     "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/적산 유량 곡선.md",
     "Excalidraw/적선 유량 곡선 (draw).md",
