@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "연평균 유량",
-      "path": "04. Practice Notes/연평균 유량.md"
-    },
-    {
-      "basename": "옵시디언 글쓰기 규칙",
-      "path": "Rule/옵시디언 글쓰기 규칙.md"
+      "basename": "유황 곡선",
+      "path": "04. Practice Notes/유황 곡선.md"
     },
     {
       "basename": "연평균 유량 (draw)",
       "path": "Excalidraw/연평균 유량 (draw).md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "연평균 유량",
+      "path": "03. Permanent Notes/연평균 유량.md"
+    },
+    {
+      "basename": "옵시디언 글쓰기 규칙",
+      "path": "Rule/옵시디언 글쓰기 규칙.md"
     },
     {
       "basename": "물의 압력 (draw)",
@@ -23,10 +31,6 @@
     {
       "basename": "수차의 특유 속도",
       "path": "03. Permanent Notes/수차의 특유 속도.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "망상식",
@@ -95,10 +99,6 @@
     {
       "basename": "직류 송전 방식",
       "path": "03. Permanent Notes/직류 송전 방식.md"
-    },
-    {
-      "basename": "연가",
-      "path": "04. Practice Notes/연가.md"
     }
   ],
   "omittedPaths": [],

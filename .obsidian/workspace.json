@@ -13,37 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/연평균 유량.md",
+                "file": "04. Practice Notes/유황 곡선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "연평균 유량"
-            }
-          },
-          {
-            "id": "de78fa13e9dd5a91",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/연평균 유량 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "연평균 유량 (draw)"
-            }
-          },
-          {
-            "id": "0e8ba4984da8e5e7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/물의 압력 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "물의 압력 (draw)"
+              "title": "유황 곡선"
             }
           }
         ]
@@ -124,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/연평균 유량.md"
+                "file": "04. Practice Notes/유황 곡선.md"
               },
               "icon": "lucide-info",
-              "title": "연평균 유량 의 파일 속성"
+              "title": "유황 곡선 의 파일 속성"
             }
           },
           {
@@ -213,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/연평균 유량.md",
+                "file": "04. Practice Notes/유황 곡선.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -241,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "연평균 유량 그래프"
+              "title": "유황 곡선 그래프"
             }
           },
           {
@@ -330,14 +306,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Rule/옵시디언 글쓰기 규칙.md",
-    "04. Practice Notes/연평균 유량.md",
     "Excalidraw/연평균 유량 (draw).md",
+    "04. Practice Notes/유황 곡선.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/연평균 유량.md",
+    "Rule/옵시디언 글쓰기 규칙.md",
     "Excalidraw/연평균 유량 (draw).svg",
     "Excalidraw/물의 압력 (draw).md",
     "02. MOC/Home.md",
     "03. Permanent Notes/수차의 특유 속도.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/망상식.md",
     "03. Permanent Notes/등가 선간 거리.md",
     "03. Permanent Notes/페란티 현상.md",
