@@ -9,6 +9,14 @@
       "path": "04. Practice Notes/수차의 특유 속도.md"
     },
     {
+      "basename": "등가 선간 거리",
+      "path": "03. Permanent Notes/등가 선간 거리.md"
+    },
+    {
+      "basename": "페란티 현상",
+      "path": "03. Permanent Notes/페란티 현상.md"
+    },
+    {
       "basename": "연속의 정리",
       "path": "03. Permanent Notes/연속의 정리.md"
     },
@@ -53,10 +61,6 @@
       "path": "04. Practice Notes/망상식.md"
     },
     {
-      "basename": "페란티 현상",
-      "path": "03. Permanent Notes/페란티 현상.md"
-    },
-    {
       "basename": "STILL 식",
       "path": "03. Permanent Notes/STILL 식.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "유효-무효 전력 제어",
       "path": "03. Permanent Notes/유효-무효 전력 제어.md"
-    },
-    {
-      "basename": "캘빈의 법칙",
-      "path": "03. Permanent Notes/캘빈의 법칙.md"
     }
   ],
   "omittedPaths": [],
