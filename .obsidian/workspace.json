@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "수력 발전소 출력"
             }
+          },
+          {
+            "id": "67287e93dcfb017b",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 수력 발전소 출력.md"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -320,7 +330,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "62d96583bb3c34ce",
+  "active": "67287e93dcfb017b",
   "lastOpenFiles": [
     "04. Practice Notes/수력 발전소 출력.md",
     "02. MOC/🏛️ 전력 공학.md",
