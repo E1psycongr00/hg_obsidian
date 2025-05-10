@@ -13,27 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/결선에 따른 전기 공급 방식.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "결선에 따른 전기 공급 방식"
-            }
-          },
-          {
-            "id": "59af91cc1b18bc07",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 결선에 따른 전기 공급 방식.md"
+              "title": "🏛️ 전력 공학"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/결선에 따른 전기 공급 방식.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "결선에 따른 전기 공급 방식 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -200,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/결선에 따른 전기 공급 방식.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -228,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "결선에 따른 전기 공급 방식 그래프"
+              "title": "🏛️ 전력 공학 그래프"
             }
           },
           {
@@ -315,8 +304,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "59af91cc1b18bc07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/결선에 따른 전기 공급 방식.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md",
     "03. Permanent Notes/수차의 특유 속도.md",
@@ -350,7 +340,6 @@
     "03. Permanent Notes/물의 압력.md",
     "Excalidraw/물의 압력 (draw).svg",
     "03. Permanent Notes/수력 발전.md",
-    "04. Practice Notes/결선에 따른 전기 공급 방식.md",
     "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).svg",
     "templaters/scripts/processFileMovement.js",
