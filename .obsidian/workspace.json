@@ -21,30 +21,6 @@
               "icon": "lucide-file",
               "title": "수차별 특유 속도 정리"
             }
-          },
-          {
-            "id": "c2020aa9af006964",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/충동 수차(draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "충동 수차(draw)"
-            }
-          },
-          {
-            "id": "383820131ec717ac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/반동 수차 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "반동 수차 (draw)"
-            }
           }
         ]
       }
@@ -330,11 +306,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/충동 수차(draw).md",
     "Excalidraw/반동 수차 (draw).md",
+    "04. Practice Notes/수차별 특유 속도 정리.md",
     "attachments/screenshot/Pasted Image 20250510125311_908.png",
     "Excalidraw/반동 수차 (draw).svg",
-    "Excalidraw/충동 수차(draw).md",
-    "04. Practice Notes/수차별 특유 속도 정리.md",
     "03. Permanent Notes/수력 발전소 출력.md",
     "Excalidraw/충동 수차(draw).svg",
     "02. MOC/🏛️ 전력 공학.md",
