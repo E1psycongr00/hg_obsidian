@@ -13,25 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/연속의 정리.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "연속의 정리"
+              "title": "🏛️ 전력 공학"
             }
           },
           {
-            "id": "6c1cd93f16795c5b",
+            "id": "80acf0eecb6f8336",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/연속의 정리 (draw).md"
+                "file": "수차의 특유 속도.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "연속의 정리 (draw)"
+              "icon": "lucide-file",
+              "title": "수차의 특유 속도"
             }
           }
         ],
@@ -113,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/연속의 정리 (draw).md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "연속의 정리 (draw) 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -202,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/연속의 정리 (draw).md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -230,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "연속의 정리 (draw) 그래프"
+              "title": "🏛️ 전력 공학 그래프"
             }
           },
           {
@@ -317,13 +320,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6c1cd93f16795c5b",
+  "active": "80acf0eecb6f8336",
   "lastOpenFiles": [
+    "03. Permanent Notes/연속의 정리.md",
+    "수차의 특유 속도.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "Excalidraw/연속의 정리 (draw).md",
     "Excalidraw/연속의 정리 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/연속의 정리 (draw).md",
-    "04. Practice Notes/연속의 정리.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/베르누이 정리.md",
     "03. Permanent Notes/수두.md",
     "03. Permanent Notes/물의 압력.md",
@@ -354,7 +358,6 @@
     "Excalidraw/동작 시한에 따른 분류 그래프 (draw).svg",
     "Excalidraw/차단기 동작예시 (draw).svg",
     "Excalidraw/보호 계전 방식 예시 (draw).svg",
-    "Excalidraw/차폐각 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",

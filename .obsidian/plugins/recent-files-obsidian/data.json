@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "수차의 특유 속도",
+      "path": "수차의 특유 속도.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "연속의 정리",
+      "path": "03. Permanent Notes/연속의 정리.md"
+    },
+    {
       "basename": "연속의 정리 (draw)",
       "path": "Excalidraw/연속의 정리 (draw).md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "연속의 정리",
-      "path": "04. Practice Notes/연속의 정리.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "베르누이 정리",
@@ -95,10 +99,6 @@
     {
       "basename": "캘빈의 법칙",
       "path": "03. Permanent Notes/캘빈의 법칙.md"
-    },
-    {
-      "basename": "동기 조상기 vs 병렬 콘덴서",
-      "path": "03. Permanent Notes/동기 조상기 vs 병렬 콘덴서.md"
     }
   ],
   "omittedPaths": [],
