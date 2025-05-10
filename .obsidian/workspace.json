@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "73fe527527638113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rule/옵시디언 글쓰기 규칙.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "옵시디언 글쓰기 규칙"
-            }
-          },
-          {
             "id": "de78fa13e9dd5a91",
             "type": "leaf",
             "state": {
@@ -61,8 +46,7 @@
               "title": "물의 압력 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Rule/옵시디언 글쓰기 규칙.md"
+                "file": "04. Practice Notes/연평균 유량.md"
               },
               "icon": "lucide-info",
-              "title": "옵시디언 글쓰기 규칙 의 파일 속성"
+              "title": "연평균 유량 의 파일 속성"
             }
           },
           {
@@ -229,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rule/옵시디언 글쓰기 규칙.md",
+                "file": "04. Practice Notes/연평균 유량.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -257,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "옵시디언 글쓰기 규칙 그래프"
+              "title": "연평균 유량 그래프"
             }
           },
           {
@@ -344,8 +328,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "73fe527527638113",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Rule/옵시디언 글쓰기 규칙.md",
     "04. Practice Notes/연평균 유량.md",
     "Excalidraw/연평균 유량 (draw).md",
     "Excalidraw/연평균 유량 (draw).svg",
@@ -362,7 +347,6 @@
     "03. Permanent Notes/베르누이 정리.md",
     "03. Permanent Notes/수두.md",
     "03. Permanent Notes/물의 압력.md",
-    "Rule/옵시디언 글쓰기 규칙.md",
     "Excalidraw/물의 압력 (draw).svg",
     "03. Permanent Notes/수력 발전.md",
     "04. Practice Notes/결선에 따른 전기 공급 방식.md",
