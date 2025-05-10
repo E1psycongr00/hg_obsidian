@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "베르누이 정리",
-      "path": "04. Practice Notes/베르누이 정리.md"
+      "basename": "연속의 정리",
+      "path": "04. Practice Notes/연속의 정리.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
-      "basename": "옵시디언 글쓰기 규칙",
-      "path": "Rule/옵시디언 글쓰기 규칙.md"
+      "basename": "베르누이 정리",
+      "path": "03. Permanent Notes/베르누이 정리.md"
+    },
+    {
+      "basename": "수두",
+      "path": "03. Permanent Notes/수두.md"
     },
     {
       "basename": "물의 압력",
       "path": "03. Permanent Notes/물의 압력.md"
     },
     {
-      "basename": "수두",
-      "path": "03. Permanent Notes/수두.md"
+      "basename": "옵시디언 글쓰기 규칙",
+      "path": "Rule/옵시디언 글쓰기 규칙.md"
     },
     {
       "basename": "물의 압력 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "병렬 콘덴서 (draw)",
       "path": "Excalidraw/병렬 콘덴서 (draw).md"
-    },
-    {
-      "basename": "역률 개선의 필요성",
-      "path": "04. Practice Notes/역률 개선의 필요성.md"
     }
   ],
   "omittedPaths": [],
