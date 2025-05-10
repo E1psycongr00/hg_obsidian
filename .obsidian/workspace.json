@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수차의 특유 속도.md",
+                "file": "04. Practice Notes/수차의 특유 속도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -37,8 +37,7 @@
               "title": "수차의 특유 속도"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,11 +319,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "80acf0eecb6f8336",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/연속의 정리.md",
-    "수차의 특유 속도.md",
+    "04. Practice Notes/수차의 특유 속도.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/연속의 정리.md",
     "Excalidraw/연속의 정리 (draw).md",
     "Excalidraw/연속의 정리 (draw).svg",
     "02. MOC/Home.md",
