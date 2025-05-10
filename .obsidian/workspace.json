@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "수력 발전소 출력"
             }
+          },
+          {
+            "id": "c2020aa9af006964",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/충동 수차(draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "충동 수차(draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/수차별 특유 속도 정리.md"
+                "file": "Excalidraw/충동 수차(draw).md"
               },
               "icon": "lucide-info",
-              "title": "수차별 특유 속도 정리 의 파일 속성"
+              "title": "충동 수차(draw) 의 파일 속성"
             }
           },
           {
@@ -204,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/수차별 특유 속도 정리.md",
+                "file": "Excalidraw/충동 수차(draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -232,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "수차별 특유 속도 정리 그래프"
+              "title": "충동 수차(draw) 그래프"
             }
           },
           {
@@ -319,12 +332,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c2020aa9af006964",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전력 공학.md",
-    "04. Practice Notes/수차별 특유 속도 정리.md",
-    "03. Permanent Notes/수차의 특유 속도.md",
+    "Excalidraw/충동 수차(draw).svg",
     "03. Permanent Notes/수력 발전소 출력.md",
+    "Excalidraw/충동 수차(draw).md",
+    "04. Practice Notes/수차별 특유 속도 정리.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/수차의 특유 속도.md",
     "04. Practice Notes/적산 유량 곡선.md",
     "Excalidraw/적선 유량 곡선 (draw).md",
     "Excalidraw/적선 유량 곡선 (draw).svg",
@@ -350,8 +365,6 @@
     "03. Permanent Notes/수력 발전.md",
     "04. Practice Notes/결선에 따른 전기 공급 방식.md",
     "04. Practice Notes/콘덴서 충전 전류와 충전 용량.md",
-    "03. Permanent Notes/STILL 식.md",
-    "03. Permanent Notes/송전 전력.md",
     "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).svg",
     "Excalidraw/역률 개선 (draw).svg",

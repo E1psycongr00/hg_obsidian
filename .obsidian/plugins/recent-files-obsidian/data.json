@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "충동 수차(draw)",
+      "path": "Excalidraw/충동 수차(draw).md"
+    },
+    {
+      "basename": "수력 발전소 출력",
+      "path": "03. Permanent Notes/수력 발전소 출력.md"
+    },
+    {
       "basename": "수차별 특유 속도 정리",
       "path": "04. Practice Notes/수차별 특유 속도 정리.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "수차의 특유 속도",
       "path": "03. Permanent Notes/수차의 특유 속도.md"
-    },
-    {
-      "basename": "수력 발전소 출력",
-      "path": "03. Permanent Notes/수력 발전소 출력.md"
     },
     {
       "basename": "적산 유량 곡선",
@@ -95,10 +99,6 @@
     {
       "basename": "STILL 식",
       "path": "03. Permanent Notes/STILL 식.md"
-    },
-    {
-      "basename": "송전 전력",
-      "path": "03. Permanent Notes/송전 전력.md"
     }
   ],
   "omittedPaths": [],
