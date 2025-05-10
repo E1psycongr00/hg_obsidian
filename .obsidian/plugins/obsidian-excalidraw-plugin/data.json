@@ -85082,7 +85082,7 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "2.11.0",
+  "previousRelease": "2.11.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",

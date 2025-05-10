@@ -9,6 +9,14 @@
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
+      "basename": "연평균 유량",
+      "path": "04. Practice Notes/연평균 유량.md"
+    },
+    {
+      "basename": "망상식",
+      "path": "04. Practice Notes/망상식.md"
+    },
+    {
       "basename": "등가 선간 거리",
       "path": "03. Permanent Notes/등가 선간 거리.md"
     },
@@ -57,10 +65,6 @@
       "path": "04. Practice Notes/결선에 따른 전기 공급 방식.md"
     },
     {
-      "basename": "망상식",
-      "path": "04. Practice Notes/망상식.md"
-    },
-    {
       "basename": "STILL 식",
       "path": "03. Permanent Notes/STILL 식.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "코로나 현상",
       "path": "03. Permanent Notes/코로나 현상.md"
-    },
-    {
-      "basename": "유효-무효 전력 제어",
-      "path": "03. Permanent Notes/유효-무효 전력 제어.md"
     }
   ],
   "omittedPaths": [],
