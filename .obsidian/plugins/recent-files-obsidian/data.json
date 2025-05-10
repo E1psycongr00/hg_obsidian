@@ -5,16 +5,24 @@
       "path": "04. Practice Notes/분산 부하와 집중 부하.md"
     },
     {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "집중 부하 (draw)",
       "path": "Excalidraw/집중 부하 (draw).md"
     },
     {
       "basename": "분산 부하 (draw)",
       "path": "Excalidraw/분산 부하 (draw).md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "결선에 따른 전기 공급 방식",
@@ -77,10 +85,6 @@
       "path": "Excalidraw/물의 압력 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "망상식",
       "path": "04. Practice Notes/망상식.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "연속의 정리",
       "path": "03. Permanent Notes/연속의 정리.md"
-    },
-    {
-      "basename": "연속의 정리 (draw)",
-      "path": "Excalidraw/연속의 정리 (draw).md"
     }
   ],
   "omittedPaths": [],

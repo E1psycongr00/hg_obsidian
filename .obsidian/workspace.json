@@ -21,30 +21,6 @@
               "icon": "lucide-file",
               "title": "분산 부하와 집중 부하"
             }
-          },
-          {
-            "id": "6bdda7dad96db531",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/분산 부하 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "분산 부하 (draw)"
-            }
-          },
-          {
-            "id": "22ee93a6c8c01487",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/집중 부하 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "집중 부하 (draw)"
-            }
           }
         ]
       }
@@ -236,7 +212,7 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.362887369301216,
+                  "scale": 0.36288736930121623,
                   "close": true
                 }
               },
@@ -265,12 +241,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
         "type": "tabs",
-        "dimension": 60.67307692307692,
+        "dimension": 60.67307692307693,
         "children": [
           {
             "id": "1aaa38f27764a613",
@@ -328,14 +304,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "05945c099298a576",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전력 공학.md",
+    "02. MOC/🏛️ 전기 기사.md",
+    "02. MOC/Home.md",
+    "04. Practice Notes/분산 부하와 집중 부하.md",
     "Excalidraw/집중 부하 (draw).md",
     "Excalidraw/분산 부하 (draw).md",
     "Excalidraw/집중 부하 (draw).svg",
     "Excalidraw/분산 부하 (draw).svg",
-    "04. Practice Notes/분산 부하와 집중 부하.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/결선에 따른 전기 공급 방식.md",
     "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md",
     "03. Permanent Notes/수차의 특유 속도.md",
@@ -357,7 +335,6 @@
     "03. Permanent Notes/연평균 유량.md",
     "Excalidraw/연평균 유량 (draw).svg",
     "Excalidraw/물의 압력 (draw).md",
-    "02. MOC/Home.md",
     "04. Practice Notes/망상식.md",
     "03. Permanent Notes/등가 선간 거리.md",
     "03. Permanent Notes/페란티 현상.md",
