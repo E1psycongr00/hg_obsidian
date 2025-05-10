@@ -46,8 +46,7 @@
               "title": "반동 수차 (draw)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,10 +124,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/반동 수차 (draw).md"
+                "file": "04. Practice Notes/수차별 특유 속도 정리.md"
               },
               "icon": "lucide-info",
-              "title": "반동 수차 (draw) 의 파일 속성"
+              "title": "수차별 특유 속도 정리 의 파일 속성"
             }
           },
           {
@@ -214,7 +213,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/반동 수차 (draw).md",
+                "file": "04. Practice Notes/수차별 특유 속도 정리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -242,7 +241,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "반동 수차 (draw) 그래프"
+              "title": "수차별 특유 속도 정리 그래프"
             }
           },
           {
@@ -329,12 +328,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "383820131ec717ac",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/반동 수차 (draw).md",
     "attachments/screenshot/Pasted Image 20250510125311_908.png",
     "Excalidraw/반동 수차 (draw).svg",
     "Excalidraw/충동 수차(draw).md",
-    "Excalidraw/반동 수차 (draw).md",
     "04. Practice Notes/수차별 특유 속도 정리.md",
     "03. Permanent Notes/수력 발전소 출력.md",
     "Excalidraw/충동 수차(draw).svg",
@@ -366,7 +365,6 @@
     "04. Practice Notes/결선에 따른 전기 공급 방식.md",
     "Excalidraw/직렬 콘덴서 (draw).svg",
     "Excalidraw/병렬 콘덴서 (draw).svg",
-    "Excalidraw/역률 개선 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
