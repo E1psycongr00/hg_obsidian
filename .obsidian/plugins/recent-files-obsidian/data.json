@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "수두",
       "path": "03. Permanent Notes/수두.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "결선에 따른 전기 공급 방식",
       "path": "03. Permanent Notes/결선에 따른 전기 공급 방식.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "분산 부하와 집중 부하",
