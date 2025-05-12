@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/3상 유도 전동기 원리.md"
+                "file": "03. Permanent Notes/유도 전동기와 토크 특성.md"
               },
               "icon": "lucide-info",
-              "title": "3상 유도 전동기 원리 의 파일 속성"
+              "title": "유도 전동기와 토크 특성 의 파일 속성"
             }
           },
           {
@@ -304,9 +304,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "152fd8b6c2d757b1",
+  "active": "6123c2e2cd7bcfb0",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기 기기.md",
+    "04. Practice Notes/권선형 유도 전동기.md",
+    "03. Permanent Notes/농형 유도 전동기.md",
+    "03. Permanent Notes/동기 와트.md",
+    "03. Permanent Notes/동기 속도.md",
+    "03. Permanent Notes/슬립.md",
+    "03. Permanent Notes/3상 유도 전동기 원리.md",
     "03. Permanent Notes/동기기의 단락비 특성.md",
     "03. Permanent Notes/동기기 난조.md",
     "03. Permanent Notes/동기 전동기 V 곡선.md",
@@ -316,10 +322,7 @@
     "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "03. Permanent Notes/동기 임피던스.md",
-    "03. Permanent Notes/동기 와트.md",
-    "03. Permanent Notes/동기 속도.md",
     "03. Permanent Notes/변압기 절연.md",
-    "03. Permanent Notes/3상 유도 전동기 원리.md",
     "03. Permanent Notes/직류 발전기 손실.md",
     "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md",
     "03. Permanent Notes/토크 특성 곡선.md",
@@ -329,9 +332,6 @@
     "03. Permanent Notes/전기적 각도.md",
     "03. Permanent Notes/풍손.md",
     "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
-    "02. MOC/Home.md",
-    "03. Permanent Notes/전기자 반작용.md",
-    "02. MOC/🏛️ 전기 기사.md",
     "attachments/screenshot/Pasted image 20250511173036.png",
     "attachments/screenshot/Pasted image 20250511173030.png",
     "attachments/screenshot/Pasted image 20250511173024.png",
