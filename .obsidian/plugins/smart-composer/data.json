@@ -52,7 +52,8 @@
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-3.7-sonnet",
-      "model": "claude-3-7-sonnet-latest"
+      "model": "claude-3-7-sonnet-latest",
+      "enable": false
     },
     {
       "providerType": "anthropic",
@@ -61,19 +62,22 @@
       "model": "claude-3-7-sonnet-latest",
       "thinking": {
         "budget_tokens": 8192
-      }
+      },
+      "enable": true
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-3.5-sonnet",
-      "model": "claude-3-5-sonnet-latest"
+      "model": "claude-3-5-sonnet-latest",
+      "enable": false
     },
     {
       "providerType": "anthropic",
       "providerId": "anthropic",
       "id": "claude-3.5-haiku",
-      "model": "claude-3-5-haiku-latest"
+      "model": "claude-3-5-haiku-latest",
+      "enable": false
     },
     {
       "providerType": "openai",
@@ -91,26 +95,30 @@
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4.1-nano",
-      "model": "gpt-4.1-nano"
+      "model": "gpt-4.1-nano",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4o",
-      "model": "gpt-4o"
+      "model": "gpt-4o",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4o-mini",
-      "model": "gpt-4o-mini"
+      "model": "gpt-4o-mini",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "o4-mini",
       "model": "o4-mini",
-      "reasoning_effort": "medium"
+      "reasoning_effort": "medium",
+      "enable": true
     },
     {
       "providerType": "openai",
@@ -147,25 +155,29 @@
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-1.5-pro",
-      "model": "gemini-1.5-pro"
+      "model": "gemini-1.5-pro",
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-1.5-flash",
-      "model": "gemini-1.5-flash"
+      "model": "gemini-1.5-flash",
+      "enable": false
     },
     {
       "providerType": "deepseek",
       "providerId": "deepseek",
       "id": "deepseek-chat",
-      "model": "deepseek-chat"
+      "model": "deepseek-chat",
+      "enable": false
     },
     {
       "providerType": "deepseek",
       "providerId": "deepseek",
       "id": "deepseek-reasoner",
-      "model": "deepseek-reasoner"
+      "model": "deepseek-reasoner",
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -174,7 +186,8 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -183,7 +196,8 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -192,7 +206,8 @@
       "model": "sonar-deep-research",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -201,7 +216,8 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "perplexity",
@@ -210,13 +226,15 @@
       "model": "sonar",
       "web_search_options": {
         "search_context_size": "low"
-      }
+      },
+      "enable": false
     },
     {
       "providerType": "morph",
       "providerId": "morph",
       "id": "morph-v0",
-      "model": "morph-v0"
+      "model": "morph-v0",
+      "enable": false
     }
   ],
   "embeddingModels": [
@@ -263,8 +281,8 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemini-2.5-pro",
-  "applyModelId": "gemini-2.5-pro",
+  "chatModelId": "gemini-2.0-flash",
+  "applyModelId": "gemini-2.0-flash-thinking",
   "embeddingModelId": "gemini/text-embedding-004",
   "systemPrompt": "",
   "ragOptions": {
