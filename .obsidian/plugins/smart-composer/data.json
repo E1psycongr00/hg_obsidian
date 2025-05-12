@@ -143,13 +143,15 @@
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.0-flash-thinking",
-      "model": "gemini-2.0-flash-thinking-exp"
+      "model": "gemini-2.0-flash-thinking-exp",
+      "enable": false
     },
     {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini-2.0-flash-lite",
-      "model": "gemini-2.0-flash-lite"
+      "model": "gemini-2.0-flash-lite",
+      "enable": false
     },
     {
       "providerType": "gemini",
@@ -235,6 +237,13 @@
       "id": "morph-v0",
       "model": "morph-v0",
       "enable": false
+    },
+    {
+      "providerId": "gemini",
+      "providerType": "gemini",
+      "id": "gemini-2.5-flash",
+      "model": "gemini-2.5-flash-preview-04-17",
+      "promptLevel": 1
     }
   ],
   "embeddingModels": [
@@ -281,8 +290,8 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemini-2.5-pro",
-  "applyModelId": "gemini-2.0-flash-thinking",
+  "chatModelId": "gemini-2.5-flash",
+  "applyModelId": "gemini-2.5-flash",
   "embeddingModelId": "gemini/text-embedding-004",
   "systemPrompt": "",
   "ragOptions": {
