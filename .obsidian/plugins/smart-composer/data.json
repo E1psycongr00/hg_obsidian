@@ -281,7 +281,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemini-2.0-flash",
+  "chatModelId": "gemini-2.0-flash-thinking",
   "applyModelId": "gemini-2.0-flash-thinking",
   "embeddingModelId": "gemini/text-embedding-004",
   "systemPrompt": "",
