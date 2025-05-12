@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/직류 전동기 토크와 회전수.md"
+                "file": "03. Permanent Notes/3상 유도 전동기 원리.md"
               },
               "icon": "lucide-info",
-              "title": "직류 전동기 토크와 회전수 의 파일 속성"
+              "title": "3상 유도 전동기 원리 의 파일 속성"
             }
           },
           {
@@ -304,11 +304,26 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2b69f25d7beba245",
+  "active": "152fd8b6c2d757b1",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/동기기의 단락비 특성.md",
+    "03. Permanent Notes/동기기 난조.md",
+    "03. Permanent Notes/동기 전동기 V 곡선.md",
+    "03. Permanent Notes/돌극형.md",
+    "04. Practice Notes/동기 발전기.md",
+    "03. Permanent Notes/수소 냉각 방식.md",
+    "03. Permanent Notes/동기 발전기의 전기자 반작용.md",
+    "03. Permanent Notes/동기 발전기 유기 기전력.md",
+    "03. Permanent Notes/동기 임피던스.md",
+    "03. Permanent Notes/동기 와트.md",
+    "03. Permanent Notes/동기 속도.md",
+    "03. Permanent Notes/변압기 절연.md",
+    "03. Permanent Notes/3상 유도 전동기 원리.md",
+    "03. Permanent Notes/직류 발전기 손실.md",
+    "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md",
     "03. Permanent Notes/토크 특성 곡선.md",
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
-    "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/타여자 발전기.md",
     "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "03. Permanent Notes/전기적 각도.md",
@@ -317,30 +332,15 @@
     "02. MOC/Home.md",
     "03. Permanent Notes/전기자 반작용.md",
     "02. MOC/🏛️ 전기 기사.md",
-    "전기기사 2024 3회.md",
     "attachments/screenshot/Pasted image 20250511173036.png",
     "attachments/screenshot/Pasted image 20250511173030.png",
     "attachments/screenshot/Pasted image 20250511173024.png",
     "attachments/screenshot/Pasted image 20250511173018.png",
-    "02. MOC/🏛️ 전자기학.md",
-    "03. Permanent Notes/수두.md",
-    "02. MOC/🏛️ 전력 공학.md",
-    "03. Permanent Notes/결선에 따른 전기 공급 방식.md",
-    "03. Permanent Notes/분산 부하와 집중 부하.md",
-    "Excalidraw/집중 부하 (draw).md",
-    "Excalidraw/분산 부하 (draw).md",
     "Excalidraw/집중 부하 (draw).svg",
     "Excalidraw/분산 부하 (draw).svg",
-    "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md",
-    "03. Permanent Notes/수차의 특유 속도.md",
-    "03. Permanent Notes/수차별 특유 속도 정리.md",
-    "Excalidraw/충동 수차(draw).md",
-    "Excalidraw/반동 수차 (draw).md",
     "attachments/screenshot/Pasted Image 20250510125311_908.png",
     "Excalidraw/반동 수차 (draw).svg",
-    "03. Permanent Notes/수력 발전소 출력.md",
     "Excalidraw/충동 수차(draw).svg",
-    "04. Practice Notes/적산 유량 곡선.md",
     "Excalidraw/적선 유량 곡선 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
