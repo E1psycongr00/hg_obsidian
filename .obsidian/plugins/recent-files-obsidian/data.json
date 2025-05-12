@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "전기자 반작용",
-      "path": "03. Permanent Notes/전기자 반작용.md"
+      "basename": "직류 발전기의 유기 기전력",
+      "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -11,6 +11,10 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "전기자 반작용",
+      "path": "03. Permanent Notes/전기자 반작용.md"
     },
     {
       "basename": "🏛️ 전기 기사",
@@ -95,10 +99,6 @@
     {
       "basename": "물의 압력 (draw)",
       "path": "Excalidraw/물의 압력 (draw).md"
-    },
-    {
-      "basename": "망상식",
-      "path": "04. Practice Notes/망상식.md"
     }
   ],
   "omittedPaths": [],
