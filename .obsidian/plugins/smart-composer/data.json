@@ -316,24 +316,6 @@
   "mcp": {
     "servers": [
       {
-        "id": "server-sequential-thinking",
-        "parameters": {
-          "command": "cmd",
-          "args": [
-            "/c",
-            "npx",
-            "-y",
-            "@smithery/cli@latest",
-            "run",
-            "@smithery-ai/server-sequential-thinking",
-            "--key",
-            "a87648db-cdb9-49b1-8c82-cf85831af17b"
-          ]
-        },
-        "enabled": false,
-        "toolOptions": {}
-      },
-      {
         "id": "memory",
         "parameters": {
           "command": "npx",
@@ -344,7 +326,7 @@
             "C:\\ai_memory\\obsidian.json"
           ]
         },
-        "enabled": true,
+        "enabled": false,
         "toolOptions": {}
       }
     ]
