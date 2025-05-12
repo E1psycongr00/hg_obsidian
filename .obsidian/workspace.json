@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/유도 전동기와 토크 특성.md"
+                "file": "02. MOC/🏛️ 전기 기기.md"
               },
               "icon": "lucide-info",
-              "title": "유도 전동기와 토크 특성 의 파일 속성"
+              "title": "🏛️ 전기 기기 의 파일 속성"
             }
           },
           {
@@ -304,8 +304,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6123c2e2cd7bcfb0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "02. MOC/🏛️ 전기 기기.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "03. Permanent Notes/농형 유도 전동기.md",
@@ -331,7 +332,6 @@
     "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "03. Permanent Notes/전기적 각도.md",
     "03. Permanent Notes/풍손.md",
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "attachments/screenshot/Pasted image 20250511173036.png",
     "attachments/screenshot/Pasted image 20250511173030.png",
     "attachments/screenshot/Pasted image 20250511173024.png",
