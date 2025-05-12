@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "유도 전동기 등가 회로",
+      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "옵시디언 글쓰기 규칙",
       "path": "Rule/옵시디언 글쓰기 규칙.md"
-    },
-    {
-      "basename": "유황 곡선 (draw)",
-      "path": "Excalidraw/유황 곡선 (draw).md"
     }
   ],
   "omittedPaths": [],
