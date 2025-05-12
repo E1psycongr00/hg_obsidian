@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
+                "file": "03. Permanent Notes/직류 전동기 토크와 회전수.md"
               },
               "icon": "lucide-info",
-              "title": "직류 발전기의 유기 기전력 의 파일 속성"
+              "title": "직류 전동기 토크와 회전수 의 파일 속성"
             }
           },
           {
@@ -304,11 +304,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "311cb29a7996ef6b",
+  "active": "2b69f25d7beba245",
   "lastOpenFiles": [
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
-    "03. Permanent Notes/직류 발전기의 유기 기전력.md",
+    "03. Permanent Notes/토크 특성 곡선.md",
+    "03. Permanent Notes/직류 전동기 토크와 회전수.md",
     "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/타여자 발전기.md",
+    "03. Permanent Notes/직류 발전기의 유기 기전력.md",
+    "03. Permanent Notes/전기적 각도.md",
+    "03. Permanent Notes/풍손.md",
+    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/전기자 반작용.md",
     "02. MOC/🏛️ 전기 기사.md",
@@ -336,12 +341,7 @@
     "03. Permanent Notes/수력 발전소 출력.md",
     "Excalidraw/충동 수차(draw).svg",
     "04. Practice Notes/적산 유량 곡선.md",
-    "Excalidraw/적선 유량 곡선 (draw).md",
     "Excalidraw/적선 유량 곡선 (draw).svg",
-    "Excalidraw/연평균 유량 (draw).md",
-    "04. Practice Notes/유황 곡선.md",
-    "Rule/옵시디언 글쓰기 규칙.md",
-    "Excalidraw/유황 곡선 (draw).md",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
