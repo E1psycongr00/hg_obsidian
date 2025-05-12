@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/수두.md",
+                "file": "03. Permanent Notes/슬립.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "수두 그래프"
+              "title": "슬립 그래프"
             }
           },
           {
@@ -241,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -304,7 +304,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c824f374a77799a5",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
