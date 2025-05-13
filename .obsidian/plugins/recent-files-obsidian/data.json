@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "대칭 좌표법",
-      "path": "04. Practice Notes/대칭 좌표법.md"
-    },
-    {
       "basename": "1선 지락",
       "path": "04. Practice Notes/1선 지락.md"
     },
     {
       "basename": "고장 종류별 대칭분",
       "path": "04. Practice Notes/고장 종류별 대칭분.md"
+    },
+    {
+      "basename": "🔍 혼자서하는 틱택토v1 리뷰",
+      "path": "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
+    },
+    {
+      "basename": "대칭 좌표법",
+      "path": "03. Permanent Notes/대칭 좌표법.md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -95,10 +99,6 @@
     {
       "basename": "분산 부하 (draw)",
       "path": "Excalidraw/분산 부하 (draw).md"
-    },
-    {
-      "basename": "수차의 낙차에 따른 특성 변화",
-      "path": "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md"
     }
   ],
   "omittedPaths": [],
