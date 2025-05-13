@@ -11,15 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/유도 전동기와 토크 특성.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "유도 전동기와 토크 특성"
+              "title": "새 탭"
             }
           }
         ]
@@ -99,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "03. Permanent Notes/유도 전동기와 토크 특성.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "유도 전동기와 토크 특성 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -234,6 +227,16 @@
             "id": "fbf1465a9a37be09",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "2ba6251a979a6b59",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -241,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "92582217f19033e7",
@@ -304,8 +307,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "05945c099298a576",
   "lastOpenFiles": [
+    "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/유도 전동기 출력비.md",
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
@@ -313,7 +317,6 @@
     "03. Permanent Notes/슬립.md",
     "03. Permanent Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
-    "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "03. Permanent Notes/농형 유도 전동기.md",
     "03. Permanent Notes/동기 와트.md",

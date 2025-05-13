@@ -60,10 +60,10 @@
       "providerId": "anthropic",
       "id": "claude-3.7-sonnet-thinking",
       "model": "claude-3-7-sonnet-latest",
+      "enable": true,
       "thinking": {
         "budget_tokens": 8192
-      },
-      "enable": true
+      }
     },
     {
       "providerType": "anthropic",
@@ -117,8 +117,8 @@
       "providerId": "openai",
       "id": "o4-mini",
       "model": "o4-mini",
-      "reasoning_effort": "medium",
-      "enable": true
+      "enable": true,
+      "reasoning_effort": "medium"
     },
     {
       "providerType": "openai",
@@ -187,50 +187,50 @@
       "providerId": "perplexity",
       "id": "sonar",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-pro",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-deep-research",
       "model": "sonar-deep-research",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-reasoning",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "perplexity",
       "providerId": "perplexity",
       "id": "sonar-reasoning-pro",
       "model": "sonar",
+      "enable": false,
       "web_search_options": {
         "search_context_size": "low"
-      },
-      "enable": false
+      }
     },
     {
       "providerType": "morph",
@@ -240,15 +240,15 @@
       "enable": false
     },
     {
-      "providerId": "gemini",
       "providerType": "gemini",
+      "providerId": "gemini",
       "id": "gemini-2.5-flash",
       "model": "gemini-2.5-flash-preview-04-17",
       "promptLevel": 1
     },
     {
-      "providerId": "gemini",
       "providerType": "gemini",
+      "providerId": "gemini",
       "id": "gemini-pro-2.5-exp-05",
       "model": "gemini-2.5-pro-preview-05-06",
       "promptLevel": 1
