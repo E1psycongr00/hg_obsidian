@@ -52,8 +52,7 @@
               "title": "1선 지락"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "플리커",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -130,10 +129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/1선 지락.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "1선 지락 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           },
           {
@@ -344,13 +343,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "0a71c9abb734a91c",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
+    "04. Practice Notes/1선 지락.md",
     "04. Practice Notes/고장 종류별 대칭분.md",
     "Excalidraw/1선 지락 (draw).md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/플리커 현상.md",
-    "04. Practice Notes/1선 지락.md",
     "Excalidraw/1선 지락 (draw).svg",
     "02. MOC/Home.md",
     "03. Permanent Notes/선간 인덕턴스.md",
