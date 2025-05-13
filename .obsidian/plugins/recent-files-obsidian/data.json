@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "고장 종류별 대칭분",
-      "path": "04. Practice Notes/고장 종류별 대칭분.md"
-    },
-    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "유효-무효 전력 제어",
+      "path": "03. Permanent Notes/유효-무효 전력 제어.md"
     },
     {
-      "basename": "1선 지락",
-      "path": "03. Permanent Notes/1선 지락.md"
+      "basename": "송전 전력",
+      "path": "03. Permanent Notes/송전 전력.md"
+    },
+    {
+      "basename": "STILL 식",
+      "path": "03. Permanent Notes/STILL 식.md"
+    },
+    {
+      "basename": "페란티 현상",
+      "path": "03. Permanent Notes/페란티 현상.md"
+    },
+    {
+      "basename": "분산 부하와 집중 부하",
+      "path": "03. Permanent Notes/분산 부하와 집중 부하.md"
+    },
+    {
+      "basename": "1선 지락 사고",
+      "path": "03. Permanent Notes/1선 지락 사고.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🔍 혼자서하는 틱택토v1 리뷰",
@@ -83,22 +99,6 @@
     {
       "basename": "수두",
       "path": "03. Permanent Notes/수두.md"
-    },
-    {
-      "basename": "결선에 따른 전기 공급 방식",
-      "path": "03. Permanent Notes/결선에 따른 전기 공급 방식.md"
-    },
-    {
-      "basename": "분산 부하와 집중 부하",
-      "path": "03. Permanent Notes/분산 부하와 집중 부하.md"
-    },
-    {
-      "basename": "집중 부하 (draw)",
-      "path": "Excalidraw/집중 부하 (draw).md"
-    },
-    {
-      "basename": "분산 부하 (draw)",
-      "path": "Excalidraw/분산 부하 (draw).md"
     }
   ],
   "omittedPaths": [],
