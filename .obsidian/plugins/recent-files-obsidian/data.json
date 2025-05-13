@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "선간 인덕턴스",
-      "path": "03. Permanent Notes/선간 인덕턴스.md"
+      "basename": "고장 종류별 대칭분",
+      "path": "04. Practice Notes/고장 종류별 대칭분.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "선간 인덕턴스",
+      "path": "03. Permanent Notes/선간 인덕턴스.md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "반동 수차 (draw)",
       "path": "Excalidraw/반동 수차 (draw).md"
-    },
-    {
-      "basename": "수력 발전소 출력",
-      "path": "03. Permanent Notes/수력 발전소 출력.md"
     }
   ],
   "omittedPaths": [],
