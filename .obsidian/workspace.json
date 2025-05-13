@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "04. Practice Notes/대칭 좌표법.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전력 공학"
+              "title": "대칭 좌표법"
             }
           },
           {
@@ -129,10 +129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md"
+                "file": "04. Practice Notes/대칭 좌표법.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전력 공학 의 파일 속성"
+              "title": "대칭 좌표법 의 파일 속성"
             }
           },
           {
@@ -345,9 +345,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/대칭 좌표법.md",
     "04. Practice Notes/고장 종류별 대칭분.md",
     "04. Practice Notes/1선 지락.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/1선 지락 (draw).md",
     "03. Permanent Notes/플리커 현상.md",
     "Excalidraw/1선 지락 (draw).svg",
@@ -371,7 +372,6 @@
     "03. Permanent Notes/동기기 난조.md",
     "03. Permanent Notes/동기 전동기 V 곡선.md",
     "03. Permanent Notes/돌극형.md",
-    "04. Practice Notes/동기 발전기.md",
     "attachments/screenshot/Pasted image 20250511173036.png",
     "attachments/screenshot/Pasted image 20250511173030.png",
     "attachments/screenshot/Pasted image 20250511173024.png",
