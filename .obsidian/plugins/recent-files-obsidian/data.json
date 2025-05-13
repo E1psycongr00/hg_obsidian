@@ -13,12 +13,16 @@
       "path": "Excalidraw/1선 지락 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "플리커 현상",
+      "path": "03. Permanent Notes/플리커 현상.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "선간 인덕턴스",
@@ -95,10 +99,6 @@
     {
       "basename": "수차의 특유 속도",
       "path": "03. Permanent Notes/수차의 특유 속도.md"
-    },
-    {
-      "basename": "수차별 특유 속도 정리",
-      "path": "03. Permanent Notes/수차별 특유 속도 정리.md"
     }
   ],
   "omittedPaths": [],
