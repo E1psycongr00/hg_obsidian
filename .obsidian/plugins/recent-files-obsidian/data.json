@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "1선 지락",
+      "path": "04. Practice Notes/1선 지락.md"
+    },
+    {
       "basename": "고장 종류별 대칭분",
       "path": "04. Practice Notes/고장 종류별 대칭분.md"
+    },
+    {
+      "basename": "1선 지락 (draw)",
+      "path": "Excalidraw/1선 지락 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -11,10 +23,6 @@
     {
       "basename": "선간 인덕턴스",
       "path": "03. Permanent Notes/선간 인덕턴스.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -91,14 +99,6 @@
     {
       "basename": "수차별 특유 속도 정리",
       "path": "03. Permanent Notes/수차별 특유 속도 정리.md"
-    },
-    {
-      "basename": "충동 수차(draw)",
-      "path": "Excalidraw/충동 수차(draw).md"
-    },
-    {
-      "basename": "반동 수차 (draw)",
-      "path": "Excalidraw/반동 수차 (draw).md"
     }
   ],
   "omittedPaths": [],
