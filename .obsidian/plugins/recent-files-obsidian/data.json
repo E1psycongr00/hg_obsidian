@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "전압 변동률",
+      "path": "04. Practice Notes/전압 변동률.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "전압 강하율",
+      "path": "03. Permanent Notes/전압 강하율.md"
     },
     {
       "basename": "유효-무효 전력 제어",
@@ -91,14 +99,6 @@
     {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "수두",
-      "path": "03. Permanent Notes/수두.md"
     }
   ],
   "omittedPaths": [],
