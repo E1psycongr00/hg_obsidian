@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "유도 전동기와 토크 특성",
-      "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
+      "basename": "선간 인덕턴스",
+      "path": "03. Permanent Notes/선간 인덕턴스.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "유도 전동기와 토크 특성",
+      "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
     },
     {
       "basename": "유도 전동기 출력비",
@@ -37,10 +49,6 @@
       "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "전기자 반작용",
       "path": "03. Permanent Notes/전기자 반작용.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "수두",
       "path": "03. Permanent Notes/수두.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
       "basename": "결선에 따른 전기 공급 방식",
@@ -95,10 +99,6 @@
     {
       "basename": "수력 발전소 출력",
       "path": "03. Permanent Notes/수력 발전소 출력.md"
-    },
-    {
-      "basename": "적산 유량 곡선",
-      "path": "04. Practice Notes/적산 유량 곡선.md"
     }
   ],
   "omittedPaths": [],
