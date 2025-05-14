@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
+                "file": "04. Practice Notes/블록 선도 구성.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 제어 공학"
+              "title": "블록 선도 구성"
             }
           },
           {
@@ -38,30 +38,31 @@
             }
           },
           {
-            "id": "4e3f4b25fa05481b",
+            "id": "c96169d1abc97d99",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/폐루프 제어 (draw).md"
+                "file": "Excalidraw/전달 요소 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "폐루프 제어 (draw)"
+              "title": "전달 요소 (draw)"
             }
           },
           {
-            "id": "0f71d4d8cff4b862",
+            "id": "6a0e2c1f01593d8d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Simple 폐루프 제어 (draw).md"
+                "file": "Excalidraw/가힙점 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Simple 폐루프 제어 (draw)"
+              "title": "가힙점 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,10 +140,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md"
+                "file": "Excalidraw/가힙점 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 제어 공학 의 파일 속성"
+              "title": "가힙점 (draw) 의 파일 속성"
             }
           },
           {
@@ -352,18 +353,23 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6a0e2c1f01593d8d",
   "lastOpenFiles": [
-    "03. Permanent Notes/자동계 제어계의 구성.md",
-    "Excalidraw/Simple 폐루프 제어 (draw).md",
-    "Excalidraw/Simple 폐루프 제어 (draw).svg",
+    "Excalidraw/가힙점 (draw).svg",
+    "Excalidraw/가힙점 (draw).md",
+    "Excalidraw/전달 요소 (draw).md",
+    "04. Practice Notes/블록 선도 구성.md",
+    "Excalidraw/전달 요소 (draw).svg",
+    "무제 1.md",
     "02. MOC/Home.md",
+    "Excalidraw/Simple 폐루프 제어 (draw).md",
     "Excalidraw/폐루프 제어 (draw).md",
+    "02. MOC/🏛️ 제어 공학.md",
+    "03. Permanent Notes/자동계 제어계의 구성.md",
+    "Excalidraw/Simple 폐루프 제어 (draw).svg",
     "Excalidraw/Simple 개루프 제어 (draw).md",
     "Excalidraw/Simple 개루프 제어 (draw).svg",
     "Excalidraw/폐루프 제어 (draw).svg",
-    "무제 1.md",
-    "02. MOC/🏛️ 제어 공학.md",
     "02. MOC/🏛️ 전기 기기.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "03. Permanent Notes/유도 전동기 2차 저항 제어.md",
@@ -379,16 +385,12 @@
     "04. Practice Notes/단로기.md",
     "03. Permanent Notes/전압 변동률.md",
     "03. Permanent Notes/전압 강하율.md",
-    "03. Permanent Notes/유효-무효 전력 제어.md",
-    "03. Permanent Notes/송전 전력.md",
-    "03. Permanent Notes/STILL 식.md",
     "Excalidraw/1선 지락 (draw).svg",
     "attachments/screenshot/Pasted image 20250511173036.png",
     "attachments/screenshot/Pasted image 20250511173030.png",
     "attachments/screenshot/Pasted image 20250511173024.png",
     "attachments/screenshot/Pasted image 20250511173018.png",
     "Excalidraw/집중 부하 (draw).svg",
-    "Excalidraw/분산 부하 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",

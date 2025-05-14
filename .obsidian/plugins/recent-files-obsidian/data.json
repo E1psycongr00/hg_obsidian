@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "가힙점 (draw)",
+      "path": "Excalidraw/가힙점 (draw).md"
+    },
+    {
+      "basename": "전달 요소 (draw)",
+      "path": "Excalidraw/전달 요소 (draw).md"
+    },
+    {
+      "basename": "블록 선도 구성",
+      "path": "04. Practice Notes/블록 선도 구성.md"
+    },
+    {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "Simple 폐루프 제어 (draw)",
+      "path": "Excalidraw/Simple 폐루프 제어 (draw).md"
+    },
+    {
+      "basename": "폐루프 제어 (draw)",
+      "path": "Excalidraw/폐루프 제어 (draw).md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
@@ -9,24 +37,8 @@
       "path": "03. Permanent Notes/자동계 제어계의 구성.md"
     },
     {
-      "basename": "Simple 폐루프 제어 (draw)",
-      "path": "Excalidraw/Simple 폐루프 제어 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "폐루프 제어 (draw)",
-      "path": "Excalidraw/폐루프 제어 (draw).md"
-    },
-    {
       "basename": "Simple 개루프 제어 (draw)",
       "path": "Excalidraw/Simple 개루프 제어 (draw).md"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -87,18 +99,6 @@
     {
       "basename": "1선 지락 사고",
       "path": "03. Permanent Notes/1선 지락 사고.md"
-    },
-    {
-      "basename": "🔍 혼자서하는 틱택토v1 리뷰",
-      "path": "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
-    },
-    {
-      "basename": "대칭 좌표법",
-      "path": "03. Permanent Notes/대칭 좌표법.md"
-    },
-    {
-      "basename": "1선 지락 (draw)",
-      "path": "Excalidraw/1선 지락 (draw).md"
     }
   ],
   "omittedPaths": [],
