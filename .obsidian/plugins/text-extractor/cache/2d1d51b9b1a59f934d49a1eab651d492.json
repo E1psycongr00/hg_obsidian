@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20240110175922.png","text":"Process P1 CPU Process P2 Executing Interrupt or system call Save state into PCB1 Idle Reload state from PCB2 1016 Interrupt or system call l Executing Save state into PCB2 Idle Reload state from PCB1 Executing AfterAcademy","libVersion":"0.3.2","langs":"eng+kor"}

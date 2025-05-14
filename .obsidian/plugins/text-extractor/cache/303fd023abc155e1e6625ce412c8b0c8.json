@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20241114113047.png","text":"project [ gradle [1] | libs.versions. toml [2] | —— wrapper | [ gradle-wrapper. jar | 느 gradle-wrapper.properties [ gradlew [ [ gradlew.bat @ 1 settings.gradle(.kts) (4] 1 subproject-a | —— build.gradle(.kts) @ ㅣ 느 ㅇ 느 subproject-b |—— build.gradle(.kts) @ ㄴ 0 ㅇ","libVersion":"0.3.2","langs":"eng+kor"}

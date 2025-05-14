@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20240213103947.png","text":"Example 1: Input: words = [“abc®,\"car\",\"ada\",\"racecar\",\"cool\"] Output: “ada\" Explanation: The first string that is palindromic is \"ada\". Note that “racecar\" 15 also palindromic, but it 15 not the first.","libVersion":"0.3.2","langs":"eng+kor"}

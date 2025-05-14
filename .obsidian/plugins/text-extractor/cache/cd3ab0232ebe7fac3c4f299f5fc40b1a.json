@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20231026191519.png","text":"Hibernate: insert into hello (age,message,name,id) valves (?,?,2,?) Hibernate: select h1_8.name,hl_8.age,hl_6.message from hello hi_0 where h1_6.name=? class jdk.proxy3.$Proxy143 nello 20 hello world","libVersion":"0.3.2","langs":"eng+kor"}

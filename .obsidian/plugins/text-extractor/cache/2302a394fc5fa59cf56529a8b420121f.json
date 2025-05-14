@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20231026220731.png","text":"& Tests passed: 1 of 1 test - 666 ms Hibernate: insert into hello (age,message,name,id) values (?,?,?,?) Hibernate: select h1_8.name,hl_8.age,hl_6.message from hello hi_0 where h1_6.name=? class jdk.proxy3.$Proxy143 nello 20 hello world","libVersion":"0.3.2","langs":"eng+kor"}

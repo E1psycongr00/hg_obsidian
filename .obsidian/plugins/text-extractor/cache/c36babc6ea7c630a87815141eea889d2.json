@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20250415182330.png","text":"[ X N ] 15 _ 040116 void sellTicketTo(Audience audience) { 16 plusAmount(audience.buy(getTicket())); 17 }","libVersion":"0.3.2","langs":"eng+kor"}

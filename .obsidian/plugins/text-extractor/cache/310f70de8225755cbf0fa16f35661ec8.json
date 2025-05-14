@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20241118121141.png","text":"K buildSrc/src/main/kotlin/myproject. java-conventions. gradle. kts plugins [ … id(\"java\") 3 group = \"con. exanple” version = \"1.0\" repositories { mavenCentral () 3 dependencies { testInplementation(*junit: junit:4.13\") 3","libVersion":"0.3.2","langs":"eng+kor"}

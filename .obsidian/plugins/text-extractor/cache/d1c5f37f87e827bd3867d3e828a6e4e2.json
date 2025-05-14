@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted Image 20231030115120_929.png","text":"@Mapping(target = \"userName®, source = \"name”) @Mapping(target = \"userAge, source = *age) HelloRequestDto helloToHelloRequestDto(Hello hello);","libVersion":"0.3.2","langs":"eng+kor"}

@@ -5,6 +5,10 @@
       "path": "02. MOC/Home.md"
     },
     {
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동기 와트",
       "path": "03. Permanent Notes/동기 와트.md"
-    },
-    {
-      "basename": "토크 특성 곡선",
-      "path": "03. Permanent Notes/토크 특성 곡선.md"
     }
   ],
   "omittedPaths": [],

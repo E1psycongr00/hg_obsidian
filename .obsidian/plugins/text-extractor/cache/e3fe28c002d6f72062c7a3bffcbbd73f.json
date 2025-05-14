@@ -1,1 +1,0 @@
-{"path":"attachments/screenshot/Pasted image 20241118121156.png","text":"K buildSrc/build.gradle.kts plugins { “kotlin-ds1* 3 repositories { mavenCentral () 3","libVersion":"0.3.2","langs":"eng+kor"}
