@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/간이 전달 함수법.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "간이 전달 함수법"
+              "title": "🏛️ 제어 공학"
             }
           },
           {
@@ -137,10 +137,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/간이 전달 함수법.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "간이 전달 함수법 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -352,8 +352,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 제어 공학.md",
     "04. Practice Notes/간이 전달 함수법.md",
+    "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
     "무제 1.md",
     "Excalidraw/블록 선도 직렬 연결 (draw).md",
