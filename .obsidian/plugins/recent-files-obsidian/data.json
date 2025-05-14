@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "simple 폐루프 제어 (draw)",
+      "path": "Excalidraw/simple 폐루프 제어 (draw).md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
+      "basename": "자동계 제어계의 구성",
+      "path": "04. Practice Notes/자동계 제어계의 구성.md"
     },
     {
       "basename": "🏛️ 제어 공학",
@@ -87,18 +99,6 @@
     {
       "basename": "선간 인덕턴스",
       "path": "03. Permanent Notes/선간 인덕턴스.md"
-    },
-    {
-      "basename": "유도 전동기 출력비",
-      "path": "03. Permanent Notes/유도 전동기 출력비.md"
-    },
-    {
-      "basename": "슬립",
-      "path": "03. Permanent Notes/슬립.md"
-    },
-    {
-      "basename": "동기 와트",
-      "path": "03. Permanent Notes/동기 와트.md"
     }
   ],
   "omittedPaths": [],
