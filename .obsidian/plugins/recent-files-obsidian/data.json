@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "가힙점 (draw)",
-      "path": "Excalidraw/가힙점 (draw).md"
+      "basename": "블록 선도 직렬 연결 (draw)",
+      "path": "Excalidraw/블록 선도 직렬 연결 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "전달 요소 (draw)",
       "path": "Excalidraw/전달 요소 (draw).md"
     },
     {
+      "basename": "블록 선도의 직병렬 및 피드백 회로 등가 변환",
+      "path": "04. Practice Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md"
+    },
+    {
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
       "basename": "블록 선도 구성",
-      "path": "04. Practice Notes/블록 선도 구성.md"
+      "path": "03. Permanent Notes/블록 선도 구성.md"
     },
     {
       "basename": "무제 1",
       "path": "무제 1.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "가힙점 (draw)",
+      "path": "Excalidraw/가힙점 (draw).md"
+    },
+    {
+      "basename": "인출점 (draw)",
+      "path": "Excalidraw/인출점 (draw).md"
     },
     {
       "basename": "Simple 폐루프 제어 (draw)",
@@ -27,10 +43,6 @@
     {
       "basename": "폐루프 제어 (draw)",
       "path": "Excalidraw/폐루프 제어 (draw).md"
-    },
-    {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "자동계 제어계의 구성",
@@ -87,18 +99,6 @@
     {
       "basename": "STILL 식",
       "path": "03. Permanent Notes/STILL 식.md"
-    },
-    {
-      "basename": "페란티 현상",
-      "path": "03. Permanent Notes/페란티 현상.md"
-    },
-    {
-      "basename": "분산 부하와 집중 부하",
-      "path": "03. Permanent Notes/분산 부하와 집중 부하.md"
-    },
-    {
-      "basename": "1선 지락 사고",
-      "path": "03. Permanent Notes/1선 지락 사고.md"
     }
   ],
   "omittedPaths": [],

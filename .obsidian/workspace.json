@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/블록 선도 구성.md",
+                "file": "04. Practice Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "블록 선도 구성"
+              "title": "블록 선도의 직병렬 및 피드백 회로 등가 변환"
             }
           },
           {
@@ -38,31 +38,19 @@
             }
           },
           {
-            "id": "c96169d1abc97d99",
+            "id": "f6ceb813c64a53df",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/전달 요소 (draw).md"
+                "file": "Excalidraw/블록 선도 직렬 연결 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "전달 요소 (draw)"
-            }
-          },
-          {
-            "id": "6a0e2c1f01593d8d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/가힙점 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "가힙점 (draw)"
+              "title": "블록 선도 직렬 연결 (draw)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/가힙점 (draw).md"
+                "file": "Excalidraw/블록 선도 직렬 연결 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "가힙점 (draw) 의 파일 속성"
+              "title": "블록 선도 직렬 연결 (draw) 의 파일 속성"
             }
           },
           {
@@ -353,18 +341,23 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6a0e2c1f01593d8d",
+  "active": "f6ceb813c64a53df",
   "lastOpenFiles": [
-    "Excalidraw/가힙점 (draw).svg",
-    "Excalidraw/가힙점 (draw).md",
-    "Excalidraw/전달 요소 (draw).md",
-    "04. Practice Notes/블록 선도 구성.md",
-    "Excalidraw/전달 요소 (draw).svg",
-    "무제 1.md",
+    "Excalidraw/블록 선도 직렬 연결 (draw).svg",
     "02. MOC/Home.md",
+    "Excalidraw/블록 선도 직렬 연결 (draw).md",
+    "Excalidraw/전달 요소 (draw).md",
+    "04. Practice Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
+    "02. MOC/🏛️ 제어 공학.md",
+    "03. Permanent Notes/블록 선도 구성.md",
+    "무제 1.md",
+    "Excalidraw/가힙점 (draw).md",
+    "Excalidraw/인출점 (draw).md",
+    "Excalidraw/인출점 (draw).svg",
+    "Excalidraw/가힙점 (draw).svg",
+    "Excalidraw/전달 요소 (draw).svg",
     "Excalidraw/Simple 폐루프 제어 (draw).md",
     "Excalidraw/폐루프 제어 (draw).md",
-    "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/자동계 제어계의 구성.md",
     "Excalidraw/Simple 폐루프 제어 (draw).svg",
     "Excalidraw/Simple 개루프 제어 (draw).md",
@@ -382,15 +375,10 @@
     "03. Permanent Notes/유도 전동기 출력비.md",
     "03. Permanent Notes/유도 전동기 등가 회로.md",
     "02. MOC/🏛️ 전력 공학.md",
-    "04. Practice Notes/단로기.md",
-    "03. Permanent Notes/전압 변동률.md",
-    "03. Permanent Notes/전압 강하율.md",
     "Excalidraw/1선 지락 (draw).svg",
     "attachments/screenshot/Pasted image 20250511173036.png",
     "attachments/screenshot/Pasted image 20250511173030.png",
     "attachments/screenshot/Pasted image 20250511173024.png",
-    "attachments/screenshot/Pasted image 20250511173018.png",
-    "Excalidraw/집중 부하 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
