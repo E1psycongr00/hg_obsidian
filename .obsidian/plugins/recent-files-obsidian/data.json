@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "simple 폐루프 제어 (draw)",
-      "path": "Excalidraw/simple 폐루프 제어 (draw).md"
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "자동계 제어계의 구성",
+      "path": "03. Permanent Notes/자동계 제어계의 구성.md"
+    },
+    {
+      "basename": "Simple 폐루프 제어 (draw)",
+      "path": "Excalidraw/Simple 폐루프 제어 (draw).md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
     {
+      "basename": "폐루프 제어 (draw)",
+      "path": "Excalidraw/폐루프 제어 (draw).md"
+    },
+    {
+      "basename": "Simple 개루프 제어 (draw)",
+      "path": "Excalidraw/Simple 개루프 제어 (draw).md"
+    },
+    {
       "basename": "무제 1",
       "path": "무제 1.md"
-    },
-    {
-      "basename": "자동계 제어계의 구성",
-      "path": "04. Practice Notes/자동계 제어계의 구성.md"
-    },
-    {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -91,14 +99,6 @@
     {
       "basename": "1선 지락 (draw)",
       "path": "Excalidraw/1선 지락 (draw).md"
-    },
-    {
-      "basename": "플리커 현상",
-      "path": "03. Permanent Notes/플리커 현상.md"
-    },
-    {
-      "basename": "선간 인덕턴스",
-      "path": "03. Permanent Notes/선간 인덕턴스.md"
     }
   ],
   "omittedPaths": [],
