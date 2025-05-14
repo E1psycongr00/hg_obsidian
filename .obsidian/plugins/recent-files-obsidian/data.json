@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "배율기",
+      "path": "03. Permanent Notes/배율기.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "블록 선도 병렬 연결 (draw)",
       "path": "Excalidraw/블록 선도 병렬 연결 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "전달 요소 (draw)",
@@ -91,10 +99,6 @@
     {
       "basename": "전압 변동률",
       "path": "03. Permanent Notes/전압 변동률.md"
-    },
-    {
-      "basename": "전압 강하율",
-      "path": "03. Permanent Notes/전압 강하율.md"
     }
   ],
   "omittedPaths": [],
