@@ -48,9 +48,18 @@
               "icon": "excalidraw-icon",
               "title": "블록 선도 직렬 연결 (draw)"
             }
+          },
+          {
+            "id": "af775ef9b18cf3d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +137,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/블록 선도 직렬 연결 (draw).md"
+                "file": "04. Practice Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md"
               },
               "icon": "lucide-info",
-              "title": "블록 선도 직렬 연결 (draw) 의 파일 속성"
+              "title": "블록 선도의 직병렬 및 피드백 회로 등가 변환 의 파일 속성"
             }
           },
           {
@@ -341,16 +350,20 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "f6ceb813c64a53df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/블록 선도 직렬 연결 (draw).svg",
-    "02. MOC/Home.md",
+    "무제 1.md",
     "Excalidraw/블록 선도 직렬 연결 (draw).md",
-    "Excalidraw/전달 요소 (draw).md",
+    "Excalidraw/블록선도 피드백 결합 (draw).md",
+    "Excalidraw/블록선도 피드백 결합 (draw).svg",
+    "Excalidraw/블록 선도 병렬 연결 (draw).md",
     "04. Practice Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
+    "Excalidraw/블록 선도 병렬 연결 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/블록 선도 직렬 연결 (draw).svg",
+    "Excalidraw/전달 요소 (draw).md",
     "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/블록 선도 구성.md",
-    "무제 1.md",
     "Excalidraw/가힙점 (draw).md",
     "Excalidraw/인출점 (draw).md",
     "Excalidraw/인출점 (draw).svg",
@@ -373,12 +386,7 @@
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
     "03. Permanent Notes/부하 토크 곡선.md",
     "03. Permanent Notes/유도 전동기 출력비.md",
-    "03. Permanent Notes/유도 전동기 등가 회로.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/1선 지락 (draw).svg",
-    "attachments/screenshot/Pasted image 20250511173036.png",
-    "attachments/screenshot/Pasted image 20250511173030.png",
-    "attachments/screenshot/Pasted image 20250511173024.png",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",

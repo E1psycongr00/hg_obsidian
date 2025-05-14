@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "블록 선도의 직병렬 및 피드백 회로 등가 변환",
+      "path": "04. Practice Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md"
+    },
+    {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
       "basename": "블록 선도 직렬 연결 (draw)",
       "path": "Excalidraw/블록 선도 직렬 연결 (draw).md"
+    },
+    {
+      "basename": "블록선도 피드백 결합 (draw)",
+      "path": "Excalidraw/블록선도 피드백 결합 (draw).md"
+    },
+    {
+      "basename": "블록 선도 병렬 연결 (draw)",
+      "path": "Excalidraw/블록 선도 병렬 연결 (draw).md"
     },
     {
       "basename": "Home",
@@ -13,20 +29,12 @@
       "path": "Excalidraw/전달 요소 (draw).md"
     },
     {
-      "basename": "블록 선도의 직병렬 및 피드백 회로 등가 변환",
-      "path": "04. Practice Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md"
-    },
-    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "블록 선도 구성",
       "path": "03. Permanent Notes/블록 선도 구성.md"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
     },
     {
       "basename": "가힙점 (draw)",
@@ -91,14 +99,6 @@
     {
       "basename": "유효-무효 전력 제어",
       "path": "03. Permanent Notes/유효-무효 전력 제어.md"
-    },
-    {
-      "basename": "송전 전력",
-      "path": "03. Permanent Notes/송전 전력.md"
-    },
-    {
-      "basename": "STILL 식",
-      "path": "03. Permanent Notes/STILL 식.md"
     }
   ],
   "omittedPaths": [],
