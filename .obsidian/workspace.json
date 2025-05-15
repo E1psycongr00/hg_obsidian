@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "역섬락"
             }
+          },
+          {
+            "id": "d23bd7815eca5347",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 역섬락.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,7 +324,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d23bd7815eca5347",
   "lastOpenFiles": [
     "Rule/옵시디언 글쓰기 Rule.md",
     "04. Practice Notes/역섬락.md",
