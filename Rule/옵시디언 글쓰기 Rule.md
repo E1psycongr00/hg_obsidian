@@ -60,21 +60,29 @@
 
 내용에 대한 보충 설명이나 추가 정보가 필요할 경우, 옵시디언(Obsidian) 콜아웃 기능을 사용한다.
 
-  * **콜아웃 기본 형식**:
+* **콜아웃 기본 형식**:
 
     ```markdown
     >[!TYPE] 제목
     >여기에 보충 설명을 작성한다.
     ```
 
-  * **콜아웃 종류 (`TYPE`)**: `note`, `abstract`, `summary`, `tldr`, `info`, `todo`, `tip`, `hint`, `important`, `success`, `check`, `done`, `question`, `help`, `faq`, `warning`, `caution`, `attention`, `failure`, `fail`, `missing`, `danger`, `error`, `bug`, `example`, `quote`, `cite` 등을 상황에 맞게 사용한다. (이미지에 제시된 종류를 우선적으로 고려한다.)
-
+* **콜아웃 종류 (`TYPE`)**: `note`, `abstract`, `summary`, `tldr`, `info`, `todo`, `tip`, `hint`, `important`, `success`, `check`, `done`, `question`, `help`, `faq`, `warning`, `caution`, `attention`, `failure`, `fail`, `missing`, `danger`, `error`, `bug`, `example`, `quote`, `cite` 등을 상황에 맞게 사용한다. (이미지에 제시된 종류를 우선적으로 고려한다.)
+- **콜아웃 배치 규칙**:
+    - 콜아웃은 각 헤더 단위 문단이 모두 끝난 후, 해당 헤더의 마지막 위치에 배치한다.
+    - 중간 삽입을 지양하고, 독립적인 추가 정보로서의 역할을 명확히 한다.
+        
+    
     **콜아웃 예시**:
 
     ```markdown
-    >[!example] 예시: 피타고라스 정리
-    >직각삼각형에서 빗변의 제곱은 다른 두 변의 제곱의 합과 같다는 정리이다.
-    >$a^2 + b^2 = c^2$
+### 피타고라스 정리
+
+직각삼각형에서 빗변의 제곱은 다른 두 변의 제곱의 합과 같다는 정리이다.
+
+>[!example] 예시: 피타고라스 정리
+>직각삼각형에서 빗변의 제곱은 다른 두 변의 제곱의 합과 같다는 정리이다.
+>$a^2 + b^2 = c^2$
     ```
 
 #### 다. 링크 스타일 규칙
