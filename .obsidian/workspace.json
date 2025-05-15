@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/외란.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "외란"
-            }
-          },
-          {
-            "id": "1051965878b197df",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/가힙점 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "가힙점 (draw)"
+              "title": "🏛️ 제어 공학"
             }
           }
         ]
@@ -111,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/외란.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "외란 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -326,10 +314,10 @@
   },
   "active": "aee4c94995d7f31d",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/외란.md",
-    "attachments/screenshot/Pasted image 20250515231730.png",
     "03. Permanent Notes/블록 선도 구성.md",
+    "02. MOC/🏛️ 제어 공학.md",
+    "attachments/screenshot/Pasted image 20250515231730.png",
     "Excalidraw/가힙점 (draw).md",
     "Excalidraw/가힙점 (draw).svg",
     "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
