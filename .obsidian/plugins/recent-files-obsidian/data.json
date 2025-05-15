@@ -5,12 +5,12 @@
       "path": "무제.md"
     },
     {
-      "basename": "글 일관성 검사 및 가독성 평가 Rule",
-      "path": "Rule/글 일관성 검사 및 가독성 평가 Rule.md"
-    },
-    {
       "basename": "옵시디언 글쓰기 Rule",
       "path": "Rule/옵시디언 글쓰기 Rule.md"
+    },
+    {
+      "basename": "글 일관성 검사 및 가독성 평가 Rule",
+      "path": "Rule/글 일관성 검사 및 가독성 평가 Rule.md"
     },
     {
       "basename": "직류 발전기의 유기 기전력",
