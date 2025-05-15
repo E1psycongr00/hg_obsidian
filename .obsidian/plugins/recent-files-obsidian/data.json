@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "피뢰기",
+      "path": "04. Practice Notes/피뢰기.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "옵시디언 글쓰기 Rule",
       "path": "Rule/옵시디언 글쓰기 Rule.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 제어 공학",
@@ -61,10 +69,6 @@
       "path": "03. Permanent Notes/정전 유도 장해.md"
     },
     {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
       "basename": "물질의 자화",
       "path": "04. Practice Notes/물질의 자화.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "전달 요소 (draw)",
       "path": "Excalidraw/전달 요소 (draw).md"
-    },
-    {
-      "basename": "블록 선도 구성",
-      "path": "03. Permanent Notes/블록 선도 구성.md"
     }
   ],
   "omittedPaths": [],
