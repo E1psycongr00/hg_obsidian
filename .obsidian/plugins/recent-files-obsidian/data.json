@@ -95,10 +95,6 @@
     {
       "basename": "폐루프 제어 (draw)",
       "path": "Excalidraw/폐루프 제어 (draw).md"
-    },
-    {
-      "basename": "자동계 제어계의 구성",
-      "path": "03. Permanent Notes/자동계 제어계의 구성.md"
     }
   ],
   "omittedPaths": [],
