@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "추치 제어",
+      "path": "04. Practice Notes/추치 제어.md"
+    },
+    {
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "크라머 법칙",
       "path": "03. Permanent Notes/크라머 법칙.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
       "basename": "Home",
@@ -39,10 +47,6 @@
     {
       "basename": "최대 전력 전송",
       "path": "03. Permanent Notes/최대 전력 전송.md"
-    },
-    {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "역섬락",
@@ -95,10 +99,6 @@
     {
       "basename": "블록 선도 직렬 연결 (draw)",
       "path": "Excalidraw/블록 선도 직렬 연결 (draw).md"
-    },
-    {
-      "basename": "배율기",
-      "path": "03. Permanent Notes/배율기.md"
     }
   ],
   "omittedPaths": [],
