@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "Rule/글 일관성 검사 및 가독성 평가 Rule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "글 일관성 검사 및 가독성 평가 Rule"
             }
           }
         ]
@@ -99,9 +99,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Rule/글 일관성 검사 및 가독성 평가 Rule.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "글 일관성 검사 및 가독성 평가 Rule 의 파일 속성"
             }
           },
           {
@@ -311,11 +313,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "da686ca83a9dd244",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Rule/옵시디언 글쓰기 Rule.md",
+    "Rule/글 일관성 검사 및 가독성 평가 Rule.md",
     "무제.md",
-    "Rule/옵시디언 글쓰기 규칙.md",
-    "Rule/옵시디언 글쓰기 규칙.md",
     "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/Home.md",
@@ -341,7 +343,6 @@
     "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "Excalidraw/블록 선도 직렬 연결 (draw).svg",
     "Excalidraw/전달 요소 (draw).md",
-    "03. Permanent Notes/블록 선도 구성.md",
     "Excalidraw/인출점 (draw).svg",
     "Excalidraw/가힙점 (draw).svg",
     "Excalidraw/전달 요소 (draw).svg",
