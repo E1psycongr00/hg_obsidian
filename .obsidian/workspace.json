@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/직류 발전기의 유기 기전력.md",
-                "mode": "preview",
+                "file": "Rule/옵시디언 글쓰기 규칙.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "직류 발전기의 유기 기전력"
+              "title": "옵시디언 글쓰기 규칙"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
+                "file": "Rule/옵시디언 글쓰기 규칙.md"
               },
               "icon": "lucide-info",
-              "title": "직류 발전기의 유기 기전력 의 파일 속성"
+              "title": "옵시디언 글쓰기 규칙 의 파일 속성"
             }
           },
           {
@@ -315,6 +315,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/Home.md",
     "01. Guides/MOC Guides.md",
@@ -346,7 +347,6 @@
     "Excalidraw/인출점 (draw).svg",
     "Excalidraw/가힙점 (draw).svg",
     "Excalidraw/전달 요소 (draw).svg",
-    "Excalidraw/Simple 폐루프 제어 (draw).md",
     "Excalidraw/Simple 폐루프 제어 (draw).svg",
     "Excalidraw/Simple 개루프 제어 (draw).svg",
     "Excalidraw/폐루프 제어 (draw).svg",
