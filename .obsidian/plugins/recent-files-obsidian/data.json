@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "역섬락",
+      "path": "04. Practice Notes/역섬락.md"
+    },
+    {
+      "basename": "역률 개선의 필요성",
+      "path": "04. Practice Notes/역률 개선의 필요성.md"
+    },
+    {
       "basename": "무제",
       "path": "무제.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "가힙점 (draw)",
       "path": "Excalidraw/가힙점 (draw).md"
-    },
-    {
-      "basename": "인출점 (draw)",
-      "path": "Excalidraw/인출점 (draw).md"
-    },
-    {
-      "basename": "Simple 폐루프 제어 (draw)",
-      "path": "Excalidraw/Simple 폐루프 제어 (draw).md"
     }
   ],
   "omittedPaths": [],
