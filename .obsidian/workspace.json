@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/역섬락.md",
+                "file": "03. Permanent Notes/역섬락.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "역섬락"
             }
-          },
-          {
-            "id": "d23bd7815eca5347",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 역섬락.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +100,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/역섬락.md"
+                "file": "03. Permanent Notes/역섬락.md"
               },
               "icon": "lucide-info",
               "title": "역섬락 의 파일 속성"
@@ -324,10 +313,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d23bd7815eca5347",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Rule/옵시디언 글쓰기 Rule.md",
-    "04. Practice Notes/역섬락.md",
+    "03. Permanent Notes/역섬락.md",
     "04. Practice Notes/역률 개선의 필요성.md",
     "무제.md",
     "Rule/글 일관성 검사 및 가독성 평가 Rule.md",
