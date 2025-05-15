@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "추치 제어",
-      "path": "04. Practice Notes/추치 제어.md"
-    },
-    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "자동계 제어계의 구성",
+      "path": "03. Permanent Notes/자동계 제어계의 구성.md"
+    },
+    {
+      "basename": "폐루프 제어 (draw)",
+      "path": "Excalidraw/폐루프 제어 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "추치 제어",
+      "path": "03. Permanent Notes/추치 제어.md"
     },
     {
       "basename": "🏛️ 전기 기사",
@@ -27,10 +39,6 @@
     {
       "basename": "크라머 법칙",
       "path": "03. Permanent Notes/크라머 법칙.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전력 공학",
@@ -91,14 +99,6 @@
     {
       "basename": "물질의 자화",
       "path": "04. Practice Notes/물질의 자화.md"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
-    },
-    {
-      "basename": "블록 선도 직렬 연결 (draw)",
-      "path": "Excalidraw/블록 선도 직렬 연결 (draw).md"
     }
   ],
   "omittedPaths": [],
