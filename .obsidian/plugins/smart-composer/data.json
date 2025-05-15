@@ -159,7 +159,7 @@
       "providerId": "gemini",
       "id": "gemini-1.5-pro",
       "model": "gemini-1.5-pro",
-      "enable": false
+      "enable": true
     },
     {
       "providerType": "gemini",
@@ -291,7 +291,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemini-2.5-pro",
+  "chatModelId": "gemini-2.0-flash",
   "applyModelId": "gemini-2.5-pro",
   "embeddingModelId": "gemini/text-embedding-004",
   "systemPrompt": "",
