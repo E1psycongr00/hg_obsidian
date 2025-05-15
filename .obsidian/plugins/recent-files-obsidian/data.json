@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-05-15 16.50.46.excalidraw",
+      "path": "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "역섬락",
       "path": "03. Permanent Notes/역섬락.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "MOC Guides",
@@ -95,10 +99,6 @@
     {
       "basename": "블록 선도 구성",
       "path": "03. Permanent Notes/블록 선도 구성.md"
-    },
-    {
-      "basename": "가힙점 (draw)",
-      "path": "Excalidraw/가힙점 (draw).md"
     }
   ],
   "omittedPaths": [],

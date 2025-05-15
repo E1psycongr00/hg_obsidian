@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "역섬락"
             }
+          },
+          {
+            "id": "2bb7ea2f9ab3e987",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-15 16.50.46.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/역섬락.md"
+                "file": "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "역섬락 의 파일 속성"
+              "title": "Drawing 2025-05-15 16.50.46.excalidraw 의 파일 속성"
             }
           },
           {
@@ -313,16 +326,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2bb7ea2f9ab3e987",
   "lastOpenFiles": [
-    "Rule/옵시디언 글쓰기 Rule.md",
+    "02. MOC/Home.md",
+    "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md",
     "03. Permanent Notes/역섬락.md",
+    "Rule/옵시디언 글쓰기 Rule.md",
     "04. Practice Notes/역률 개선의 필요성.md",
     "무제.md",
     "Rule/글 일관성 검사 및 가독성 평가 Rule.md",
     "03. Permanent Notes/직류 발전기의 유기 기전력.md",
     "02. MOC/🏛️ 전기 기기.md",
-    "02. MOC/Home.md",
     "01. Guides/MOC Guides.md",
     "01. Guides/Note Guides.md",
     "01. Guides/Tag Guides.md",
@@ -341,7 +355,6 @@
     "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
     "Excalidraw/블록선도 피드백 결합 (draw).md",
     "Excalidraw/블록선도 피드백 결합 (draw).svg",
-    "Excalidraw/블록 선도 병렬 연결 (draw).md",
     "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "Excalidraw/블록 선도 직렬 연결 (draw).svg",
     "Excalidraw/인출점 (draw).svg",
