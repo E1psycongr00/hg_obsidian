@@ -298,7 +298,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemini-2.5-pro",
+  "chatModelId": "gemini-pro-2.5-exp-05",
   "applyModelId": "gemini-2.5-pro",
   "embeddingModelId": "gemini/text-embedding-004",
   "systemPrompt": "",
