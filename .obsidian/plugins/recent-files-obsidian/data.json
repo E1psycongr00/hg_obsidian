@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "전달 함수 요소",
+      "path": "04. Practice Notes/전달 함수 요소.md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "정전 유도 장해",
       "path": "03. Permanent Notes/정전 유도 장해.md"
-    },
-    {
-      "basename": "물질의 자화",
-      "path": "04. Practice Notes/물질의 자화.md"
     }
   ],
   "omittedPaths": [],

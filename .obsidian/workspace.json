@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
+                "file": "04. Practice Notes/전달 함수 요소.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 제어 공학"
+              "title": "전달 함수 요소"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md"
+                "file": "04. Practice Notes/전달 함수 요소.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 제어 공학 의 파일 속성"
+              "title": "전달 함수 요소 의 파일 속성"
             }
           },
           {
@@ -314,10 +314,11 @@
   },
   "active": "aee4c94995d7f31d",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 제어 공학.md",
+    "04. Practice Notes/전달 함수 요소.md",
     "03. Permanent Notes/자동계 제어계의 구성.md",
     "Excalidraw/폐루프 제어 (draw).md",
     "02. MOC/Home.md",
-    "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/추치 제어.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 회로 이론.md",
@@ -339,7 +340,6 @@
     "01. Guides/Note Guides.md",
     "01. Guides/Tag Guides.md",
     "03. Permanent Notes/정전 유도 장해.md",
-    "03. Permanent Notes/수하 특성.md",
     "Excalidraw/블록선도 피드백 결합 (draw).svg",
     "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "Excalidraw/블록 선도 직렬 연결 (draw).svg",
