@@ -249,6 +249,13 @@
       "id": "오픈라우터 제미나이 pro 2.5",
       "model": "google/gemini-2.5-pro-exp-03-25",
       "promptLevel": 1
+    },
+    {
+      "providerId": "gemini",
+      "providerType": "gemini",
+      "id": "gemini 2.5 flash",
+      "model": "gemini-2.5-flash-preview-04-17",
+      "promptLevel": 1
     }
   ],
   "embeddingModels": [
@@ -295,7 +302,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "gemini-2.0-flash",
+  "chatModelId": "gemini 2.5 flash",
   "applyModelId": "gemini-2.5-pro",
   "embeddingModelId": "gemini/text-embedding-004",
   "systemPrompt": "",
