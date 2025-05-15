@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "피뢰기",
       "path": "04. Practice Notes/피뢰기.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "최대 전력 전송",
@@ -95,10 +99,6 @@
     {
       "basename": "블록 선도 병렬 연결 (draw)",
       "path": "Excalidraw/블록 선도 병렬 연결 (draw).md"
-    },
-    {
-      "basename": "전달 요소 (draw)",
-      "path": "Excalidraw/전달 요소 (draw).md"
     }
   ],
   "omittedPaths": [],
