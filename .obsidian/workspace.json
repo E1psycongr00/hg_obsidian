@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/크라머 법칙.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "크라머 법칙"
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/크라머 법칙.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "크라머 법칙 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -315,10 +315,10 @@
   },
   "active": "aee4c94995d7f31d",
   "lastOpenFiles": [
-    "04. Practice Notes/🔬인덕턴스 병렬 접속 등가 인덕턴스 유도.md",
-    "04. Practice Notes/크라머 법칙.md",
-    "04. Practice Notes/인덕턴스 결합 회로.md",
+    "03. Permanent Notes/인덕턴스 결합 회로.md",
     "02. MOC/🏛️ 회로 이론.md",
+    "07. Solution Notes/Archive/🔬인덕턴스 병렬 접속 등가 인덕턴스 유도.md",
+    "03. Permanent Notes/크라머 법칙.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전력 공학.md",
