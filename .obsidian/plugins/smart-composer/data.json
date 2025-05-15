@@ -242,6 +242,13 @@
       "id": "morph-v0",
       "model": "morph-v0",
       "enable": false
+    },
+    {
+      "providerId": "openrouter",
+      "providerType": "openrouter",
+      "id": "오픈라우터 제미나이 pro 2.5",
+      "model": "google/gemini-2.5-pro-exp-03-25",
+      "promptLevel": 1
     }
   ],
   "embeddingModels": [
