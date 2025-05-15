@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "역섬락"
             }
-          },
-          {
-            "id": "2bb7ea2f9ab3e987",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-15 16.50.46.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md"
+                "file": "03. Permanent Notes/역섬락.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-05-15 16.50.46.excalidraw 의 파일 속성"
+              "title": "역섬락 의 파일 속성"
             }
           },
           {
@@ -326,10 +313,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2bb7ea2f9ab3e987",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/Home.md",
     "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md",
+    "02. MOC/Home.md",
     "03. Permanent Notes/역섬락.md",
     "Rule/옵시디언 글쓰기 Rule.md",
     "04. Practice Notes/역률 개선의 필요성.md",
