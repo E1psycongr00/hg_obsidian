@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/외란.md",
+                "file": "03. Permanent Notes/외란.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/외란.md"
+                "file": "03. Permanent Notes/외란.md"
               },
               "icon": "lucide-info",
               "title": "외란 의 파일 속성"
@@ -326,10 +326,10 @@
   },
   "active": "aee4c94995d7f31d",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20250515231730.png",
     "02. MOC/🏛️ 제어 공학.md",
+    "03. Permanent Notes/외란.md",
+    "attachments/screenshot/Pasted image 20250515231730.png",
     "03. Permanent Notes/블록 선도 구성.md",
-    "04. Practice Notes/외란.md",
     "Excalidraw/가힙점 (draw).md",
     "Excalidraw/가힙점 (draw).svg",
     "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
@@ -361,7 +361,6 @@
     "Excalidraw/Simple 폐루프 제어 (draw).svg",
     "Excalidraw/Simple 개루프 제어 (draw).svg",
     "Excalidraw/폐루프 제어 (draw).svg",
-    "Excalidraw/1선 지락 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
