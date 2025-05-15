@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Tag Guides",
+      "path": "01. Guides/Tag Guides.md"
+    },
+    {
+      "basename": "옵시디언 글쓰기 규칙",
+      "path": "Rule/옵시디언 글쓰기 규칙.md"
+    },
+    {
       "basename": "정전 유도 장해",
       "path": "03. Permanent Notes/정전 유도 장해.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "Simple 개루프 제어 (draw)",
       "path": "Excalidraw/Simple 개루프 제어 (draw).md"
-    },
-    {
-      "basename": "유도 전동기와 토크 특성",
-      "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
-    },
-    {
-      "basename": "유도 전동기 2차 저항 제어",
-      "path": "03. Permanent Notes/유도 전동기 2차 저항 제어.md"
-    },
-    {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
-    },
-    {
-      "basename": "유도 전동기 등가 회로",
-      "path": "03. Permanent Notes/유도 전동기 등가 회로.md"
     }
   ],
   "omittedPaths": [],
