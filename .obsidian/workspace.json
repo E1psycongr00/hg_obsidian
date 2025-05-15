@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/전달 함수 요소.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전달 함수 요소"
+              "title": "🏛️ 제어 공학"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/전달 함수 요소.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "전달 함수 요소 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -314,8 +314,8 @@
   },
   "active": "aee4c94995d7f31d",
   "lastOpenFiles": [
+    "03. Permanent Notes/전달 함수 요소.md",
     "02. MOC/🏛️ 제어 공학.md",
-    "04. Practice Notes/전달 함수 요소.md",
     "03. Permanent Notes/자동계 제어계의 구성.md",
     "Excalidraw/폐루프 제어 (draw).md",
     "02. MOC/Home.md",
