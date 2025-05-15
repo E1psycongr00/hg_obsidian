@@ -32,7 +32,8 @@
     },
     {
       "type": "openrouter",
-      "id": "openrouter"
+      "id": "openrouter",
+      "apiKey": "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"
     },
     {
       "type": "ollama",
@@ -83,13 +84,15 @@
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4.1",
-      "model": "gpt-4.1"
+      "model": "gpt-4.1",
+      "enable": false
     },
     {
       "providerType": "openai",
       "providerId": "openai",
       "id": "gpt-4.1-mini",
-      "model": "gpt-4.1-mini"
+      "model": "gpt-4.1-mini",
+      "enable": false
     },
     {
       "providerType": "openai",
@@ -117,7 +120,7 @@
       "providerId": "openai",
       "id": "o4-mini",
       "model": "o4-mini",
-      "enable": true,
+      "enable": false,
       "reasoning_effort": "medium"
     },
     {
@@ -125,7 +128,8 @@
       "providerId": "openai",
       "id": "o3",
       "model": "o3",
-      "reasoning_effort": "medium"
+      "reasoning_effort": "medium",
+      "enable": false
     },
     {
       "providerType": "gemini",
