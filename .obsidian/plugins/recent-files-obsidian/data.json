@@ -5,12 +5,12 @@
       "path": "Excalidraw/부족 제동 응답 그래프 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "과도 응답 용어 (부족 제동 시스템)",
       "path": "04. Practice Notes/과도 응답 용어 (부족 제동 시스템).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 제어 공학",
