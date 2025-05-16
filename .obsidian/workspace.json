@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/특성 근에 따른 과도 응답 특성.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "특성 근에 따른 과도 응답 특성"
+              "title": "🏛️ 제어 공학"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/특성 근에 따른 과도 응답 특성.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "특성 근에 따른 과도 응답 특성 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -324,9 +324,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
     "Excalidraw/부족 제동 특성근 (draw).md",
     "Excalidraw/임계 제동 특성 근 (draw).md",
-    "04. Practice Notes/특성 근에 따른 과도 응답 특성.md",
     "Excalidraw/과제동 특성근 (draw).md",
     "Excalidraw/과제동 특성근 (draw).svg",
     "02. MOC/Home.md",
