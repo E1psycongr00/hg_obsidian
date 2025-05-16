@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "특성 근에 따른 과도 응답 특성"
             }
+          },
+          {
+            "id": "5b229896e95e045e",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 특성 근에 따른 과도 응답 특성.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -322,7 +333,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "62d96583bb3c34ce",
+  "active": "5b229896e95e045e",
   "lastOpenFiles": [
     "02. MOC/🏛️ 제어 공학.md",
     "04. Practice Notes/특성 근에 따른 과도 응답 특성.md",
