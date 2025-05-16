@@ -128,8 +128,8 @@
       "providerId": "openai",
       "id": "o3",
       "model": "o3",
-      "reasoning_effort": "medium",
-      "enable": false
+      "enable": false,
+      "reasoning_effort": "medium"
     },
     {
       "providerType": "gemini",
@@ -244,15 +244,15 @@
       "enable": false
     },
     {
-      "providerId": "openrouter",
       "providerType": "openrouter",
+      "providerId": "openrouter",
       "id": "오픈라우터 제미나이 pro 2.5",
       "model": "google/gemini-2.5-pro-exp-03-25",
       "promptLevel": 1
     },
     {
-      "providerId": "gemini",
       "providerType": "gemini",
+      "providerId": "gemini",
       "id": "gemini 2.5 flash",
       "model": "gemini-2.5-flash-preview-04-17",
       "promptLevel": 1
