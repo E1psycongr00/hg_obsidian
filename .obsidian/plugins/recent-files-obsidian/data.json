@@ -5,16 +5,20 @@
       "path": "04. Practice Notes/특성 근에 따른 과도 응답 특성.md"
     },
     {
+      "basename": "부족 제동 특성근 (draw)",
+      "path": "Excalidraw/부족 제동 특성근 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "입력에 따른 과도 응답 특성",
       "path": "03. Permanent Notes/입력에 따른 과도 응답 특성.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "외란",
@@ -95,10 +99,6 @@
     {
       "basename": "무제",
       "path": "무제.md"
-    },
-    {
-      "basename": "글 일관성 검사 및 가독성 평가 Rule",
-      "path": "Rule/글 일관성 검사 및 가독성 평가 Rule.md"
     }
   ],
   "omittedPaths": [],

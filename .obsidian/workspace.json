@@ -23,17 +23,18 @@
             }
           },
           {
-            "id": "5b229896e95e045e",
+            "id": "28990e7298fb7ce9",
             "type": "leaf",
             "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 특성 근에 따른 과도 응답 특성.md"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/부족 제동 특성근 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "부족 제동 특성근 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,12 +334,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "5b229896e95e045e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 제어 공학.md",
+    "Excalidraw/부족 제동 특성근 (draw).md",
     "04. Practice Notes/특성 근에 따른 과도 응답 특성.md",
-    "03. Permanent Notes/입력에 따른 과도 응답 특성.md",
+    "Excalidraw/부족 제동 특성근 (draw).svg",
     "02. MOC/Home.md",
+    "02. MOC/🏛️ 제어 공학.md",
+    "03. Permanent Notes/입력에 따른 과도 응답 특성.md",
     "03. Permanent Notes/외란.md",
     "03. Permanent Notes/블록 선도 구성.md",
     "attachments/screenshot/Pasted image 20250515231730.png",
@@ -361,8 +364,6 @@
     "03. Permanent Notes/역섬락.md",
     "Excalidraw/Drawing 2025-05-15 16.50.46.excalidraw.md",
     "04. Practice Notes/역률 개선의 필요성.md",
-    "무제.md",
-    "Rule/글 일관성 검사 및 가독성 평가 Rule.md",
     "Excalidraw/블록선도 피드백 결합 (draw).svg",
     "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "Excalidraw/블록 선도 직렬 연결 (draw).svg",
@@ -370,7 +371,6 @@
     "Excalidraw/전달 요소 (draw).svg",
     "Excalidraw/Simple 폐루프 제어 (draw).svg",
     "Excalidraw/Simple 개루프 제어 (draw).svg",
-    "Excalidraw/폐루프 제어 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
