@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "과도 응답 용어 (부족 제동 시스템)"
             }
-          },
-          {
-            "id": "e9b5d7408ab40aa8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/부족 제동 응답 그래프 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "부족 제동 응답 그래프 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/부족 제동 응답 그래프 (draw).md"
+                "file": "04. Practice Notes/과도 응답 용어 (부족 제동 시스템).md"
               },
               "icon": "lucide-info",
-              "title": "부족 제동 응답 그래프 (draw) 의 파일 속성"
+              "title": "과도 응답 용어 (부족 제동 시스템) 의 파일 속성"
             }
           },
           {
@@ -315,10 +302,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e9b5d7408ab40aa8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/과도 응답 용어 (부족 제동 시스템).md",
     "Excalidraw/부족 제동 응답 그래프 (draw).md",
+    "04. Practice Notes/과도 응답 용어 (부족 제동 시스템).md",
     "Excalidraw/부족 제동 응답 그래프 (draw).svg",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 제어 공학.md",
