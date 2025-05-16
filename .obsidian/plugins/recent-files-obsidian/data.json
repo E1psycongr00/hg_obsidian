@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "과제동 특성근 (draw)",
+      "path": "Excalidraw/과제동 특성근 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "임계 제동 특성 근 (draw)",
+      "path": "Excalidraw/임계 제동 특성 근 (draw).md"
+    },
+    {
       "basename": "특성 근에 따른 과도 응답 특성",
       "path": "04. Practice Notes/특성 근에 따른 과도 응답 특성.md"
     },
     {
       "basename": "부족 제동 특성근 (draw)",
       "path": "Excalidraw/부족 제동 특성근 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 제어 공학",
@@ -91,14 +99,6 @@
     {
       "basename": "역섬락",
       "path": "03. Permanent Notes/역섬락.md"
-    },
-    {
-      "basename": "역률 개선의 필요성",
-      "path": "04. Practice Notes/역률 개선의 필요성.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
     }
   ],
   "omittedPaths": [],
