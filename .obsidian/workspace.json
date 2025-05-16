@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/2차 지연 제어계의 인디셜 과도 응답 특성.md",
+                "file": "04. Practice Notes/과도 응답 용어 (부족 제동 시스템).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2차 지연 제어계의 인디셜 과도 응답 특성"
-            }
-          },
-          {
-            "id": "ec0e18d49ca94430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/시정수.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "시정수"
+              "title": "과도 응답 용어 (부족 제동 시스템)"
             }
           }
         ]
@@ -114,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/2차 지연 제어계의 인디셜 과도 응답 특성.md"
+                "file": "04. Practice Notes/과도 응답 용어 (부족 제동 시스템).md"
               },
               "icon": "lucide-info",
-              "title": "2차 지연 제어계의 인디셜 과도 응답 특성 의 파일 속성"
+              "title": "과도 응답 용어 (부족 제동 시스템) 의 파일 속성"
             }
           },
           {
@@ -320,10 +305,11 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 제어 공학.md",
-    "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
-    "04. Practice Notes/2차 지연 제어계의 인디셜 과도 응답 특성.md",
-    "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
+    "04. Practice Notes/과도 응답 용어 (부족 제동 시스템).md",
     "03. Permanent Notes/시정수.md",
+    "03. Permanent Notes/2차 지연 제어계의 인디셜 과도 응답 특성.md",
+    "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
+    "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
     "03. Permanent Notes/과도현상.md",
     "Excalidraw/부족 제동 특성근 (draw).md",
     "Excalidraw/임계 제동 특성 근 (draw).md",
@@ -349,7 +335,6 @@
     "07. Solution Notes/Archive/🔬인덕턴스 병렬 접속 등가 인덕턴스 유도.md",
     "03. Permanent Notes/크라머 법칙.md",
     "02. MOC/🏛️ 전력 공학.md",
-    "Rule/옵시디언 글쓰기 Rule.md",
     "Excalidraw/블록선도 피드백 결합 (draw).svg",
     "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "Excalidraw/블록 선도 직렬 연결 (draw).svg",
