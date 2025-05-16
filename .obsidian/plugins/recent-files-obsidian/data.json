@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "입력에 따른 과도 응답 특성",
+      "path": "04. Practice Notes/입력에 따른 과도 응답 특성.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "직류 발전기의 유기 기전력",
       "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
     }
   ],
   "omittedPaths": [],
