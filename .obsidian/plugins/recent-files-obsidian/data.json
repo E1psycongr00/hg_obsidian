@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "노튼의 정리 등가 회로 (draw)",
+      "path": "Excalidraw/노튼의 정리 등가 회로 (draw).md"
+    },
+    {
+      "basename": "15년 회로이론 70번 노튼 회로 구성(draw)",
+      "path": "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).md"
+    },
+    {
       "basename": "🔬15년 회로이론 70번 문제 풀리 by 노튼",
-      "path": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀리 by 노튼.md"
+      "path": "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀리 by 노튼.md"
+    },
+    {
+      "basename": "노튼 정리",
+      "path": "04. Practice Notes/노튼 정리.md"
+    },
+    {
+      "basename": "15년 회로이론 70번 테브난 회로 구성 (draw)",
+      "path": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
     },
     {
       "basename": "🔬15년 회로이론 70번 문제 풀이 by 테브난",
@@ -13,24 +33,8 @@
       "path": "03. Permanent Notes/테브난 정리.md"
     },
     {
-      "basename": "노튼 정리",
-      "path": "04. Practice Notes/노튼 정리.md"
-    },
-    {
-      "basename": "노튼의 정리 틍가 회로 (draw)",
-      "path": "Excalidraw/노튼의 정리 틍가 회로 (draw).md"
-    },
-    {
       "basename": "테브난 등가 회로 (draw)",
       "path": "Excalidraw/테브난 등가 회로 (draw).md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "15년 회로이론 70번 테브난 회로 구성 (draw)",
-      "path": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "특성 근에 따른 과도 응답 특성",
       "path": "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md"
-    },
-    {
-      "basename": "1차 지연 제어계의 인디셜 과도 응답 특성",
-      "path": "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md"
     }
   ],
   "omittedPaths": [],
