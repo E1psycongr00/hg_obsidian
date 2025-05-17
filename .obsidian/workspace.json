@@ -51,9 +51,39 @@
               "icon": "lucide-file",
               "title": "테브난 정리"
             }
+          },
+          {
+            "id": "be3bff4583c5ca13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀리 by 노튼.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "🔬15년 회로이론 70번 문제 풀리 by 노튼"
+            }
+          },
+          {
+            "id": "f755c8231bdcfdc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "🔬15년 회로이론 70번 문제 풀이 by 테브난"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -131,10 +161,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/테브난 정리.md"
+                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀리 by 노튼.md"
               },
               "icon": "lucide-info",
-              "title": "테브난 정리 의 파일 속성"
+              "title": "🔬15년 회로이론 70번 문제 풀리 by 노튼 의 파일 속성"
             }
           },
           {
@@ -295,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/테브난 정리.md",
+                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀리 by 노튼.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "테브난 정리 의 개요"
+              "title": "🔬15년 회로이론 70번 문제 풀리 by 노튼 의 개요"
             }
           },
           {
@@ -344,15 +374,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e3b6a1270b28d538",
+  "active": "be3bff4583c5ca13",
   "lastOpenFiles": [
-    "Excalidraw/노튼의 정리 틍가 회로 (draw).md",
     "04. Practice Notes/노튼 정리.md",
+    "04. Practice Notes/🔬15년 회로이론 70번 문제 풀리 by 노튼.md",
+    "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
     "03. Permanent Notes/테브난 정리.md",
+    "Excalidraw/노튼의 정리 틍가 회로 (draw).md",
     "Excalidraw/테브난 등가 회로 (draw).md",
     "Excalidraw/노튼의 정리 틍가 회로 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
-    "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
     "02. MOC/Home.md",
