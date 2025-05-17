@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "테브난 정리"
             }
-          },
-          {
-            "id": "64c0c07349adb8b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/테브난 등가 회로 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "테브난 등가 회로 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/테브난 등가 회로 (draw).md"
+                "file": "04. Practice Notes/테브난 정리.md"
               },
               "icon": "lucide-info",
-              "title": "테브난 등가 회로 (draw) 의 파일 속성"
+              "title": "테브난 정리 의 파일 속성"
             }
           },
           {
@@ -326,12 +313,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "64c0c07349adb8b2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/테브난 등가 회로 (draw).svg",
-    "02. MOC/Home.md",
     "Excalidraw/테브난 등가 회로 (draw).md",
     "04. Practice Notes/테브난 정리.md",
+    "Excalidraw/테브난 등가 회로 (draw).svg",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 제어 공학.md",
@@ -363,7 +350,6 @@
     "Excalidraw/블록선도 피드백 결합 (draw).svg",
     "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "Excalidraw/블록 선도 직렬 연결 (draw).svg",
-    "Excalidraw/인출점 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
