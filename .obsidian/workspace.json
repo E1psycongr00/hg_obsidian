@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "04. Practice Notes/노튼 정리.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -51,33 +51,9 @@
               "icon": "lucide-file",
               "title": "테브난 정리"
             }
-          },
-          {
-            "id": "870857b4636175bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/노튼의 정리 틍가 회로 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "노튼의 정리 틍가 회로 (draw)"
-            }
-          },
-          {
-            "id": "7fa384d69119c96e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/테브난 등가 회로 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "테브난 등가 회로 (draw)"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/노튼의 정리 틍가 회로 (draw).md"
+                "file": "03. Permanent Notes/테브난 정리.md"
               },
               "icon": "lucide-info",
-              "title": "노튼의 정리 틍가 회로 (draw) 의 파일 속성"
+              "title": "테브난 정리 의 파일 속성"
             }
           },
           {
@@ -319,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/노튼의 정리 틍가 회로 (draw).md",
+                "file": "03. Permanent Notes/테브난 정리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "노튼의 정리 틍가 회로 (draw) 의 개요"
+              "title": "테브난 정리 의 개요"
             }
           },
           {
@@ -368,12 +344,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "870857b4636175bb",
+  "active": "e3b6a1270b28d538",
   "lastOpenFiles": [
-    "Excalidraw/테브난 등가 회로 (draw).md",
     "Excalidraw/노튼의 정리 틍가 회로 (draw).md",
-    "03. Permanent Notes/테브난 정리.md",
     "04. Practice Notes/노튼 정리.md",
+    "03. Permanent Notes/테브난 정리.md",
+    "Excalidraw/테브난 등가 회로 (draw).md",
+    "Excalidraw/노튼의 정리 틍가 회로 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
     "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md",
@@ -400,12 +377,10 @@
     "03. Permanent Notes/시정수.md",
     "03. Permanent Notes/2차 지연 제어계의 인디셜 과도 응답 특성.md",
     "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
-    "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
     "Excalidraw/과제동 특성근 (draw).svg",
     "Excalidraw/임계 제동 특성 근 (draw).svg",
     "Excalidraw/부족 제동 특성근 (draw).svg",
     "attachments/screenshot/Pasted image 20250515231730.png",
-    "Excalidraw/가힙점 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
