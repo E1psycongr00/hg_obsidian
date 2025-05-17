@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "회로망 전압원",
-      "path": "04. Practice Notes/회로망 전압원.md"
-    },
-    {
-      "basename": "중첩의 원리",
-      "path": "04. Practice Notes/중첩의 원리.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "중첩의 원리",
+      "path": "03. Permanent Notes/중첩의 원리.md"
+    },
+    {
+      "basename": "회로망 전류원",
+      "path": "03. Permanent Notes/회로망 전류원.md"
+    },
+    {
+      "basename": "회로망 전압원",
+      "path": "03. Permanent Notes/회로망 전압원.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "과도 응답 용어 (부족 제동 시스템)",
@@ -95,10 +99,6 @@
     {
       "basename": "폐루프 제어 (draw)",
       "path": "Excalidraw/폐루프 제어 (draw).md"
-    },
-    {
-      "basename": "추치 제어",
-      "path": "03. Permanent Notes/추치 제어.md"
     }
   ],
   "omittedPaths": [],
