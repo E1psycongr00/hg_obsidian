@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "회로망 전압원",
+      "path": "04. Practice Notes/회로망 전압원.md"
+    },
+    {
       "basename": "중첩의 원리",
       "path": "04. Practice Notes/중첩의 원리.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -11,10 +19,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 제어 공학",
@@ -95,10 +99,6 @@
     {
       "basename": "추치 제어",
       "path": "03. Permanent Notes/추치 제어.md"
-    },
-    {
-      "basename": "인덕턴스 결합 회로",
-      "path": "03. Permanent Notes/인덕턴스 결합 회로.md"
     }
   ],
   "omittedPaths": [],
