@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "🔬15년 회로이론 70번 문제 풀이 by 테브난",
+      "path": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
+    },
+    {
+      "basename": "🔬원형 고리 자계 구하기",
+      "path": "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md"
+    },
+    {
+      "basename": "🔬원형 고리 전계 구하기",
+      "path": "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md"
+    },
+    {
+      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
+      "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "🔬분극과 전속 밀도 관계 증명",
+      "path": "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md"
+    },
+    {
       "basename": "테브난 정리",
       "path": "04. Practice Notes/테브난 정리.md"
     },
     {
-      "basename": "테브난 등가 회로 (draw)",
-      "path": "Excalidraw/테브난 등가 회로 (draw).md"
-    },
-    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "테브난 등가 회로 (draw)",
+      "path": "Excalidraw/테브난 등가 회로 (draw).md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -75,30 +99,6 @@
     {
       "basename": "과제동 특성근 (draw)",
       "path": "Excalidraw/과제동 특성근 (draw).md"
-    },
-    {
-      "basename": "입력에 따른 과도 응답 특성",
-      "path": "03. Permanent Notes/입력에 따른 과도 응답 특성.md"
-    },
-    {
-      "basename": "외란",
-      "path": "03. Permanent Notes/외란.md"
-    },
-    {
-      "basename": "블록 선도 구성",
-      "path": "03. Permanent Notes/블록 선도 구성.md"
-    },
-    {
-      "basename": "가힙점 (draw)",
-      "path": "Excalidraw/가힙점 (draw).md"
-    },
-    {
-      "basename": "블록 선도의 직병렬 및 피드백 회로 등가 변환",
-      "path": "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md"
-    },
-    {
-      "basename": "전달 함수 요소",
-      "path": "03. Permanent Notes/전달 함수 요소.md"
     }
   ],
   "omittedPaths": [],

@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "테브난 정리"
             }
+          },
+          {
+            "id": "4297cff76fd9481a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "🔬15년 회로이론 70번 문제 풀이 by 테브난"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/테브난 정리.md"
+                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
               },
               "icon": "lucide-info",
-              "title": "테브난 정리 의 파일 속성"
+              "title": "🔬15년 회로이론 70번 문제 풀이 by 테브난 의 파일 속성"
             }
           },
           {
@@ -264,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Guides/MOC Guides.md",
+                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MOC Guides 의 개요"
+              "title": "🔬15년 회로이론 70번 문제 풀이 by 테브난 의 개요"
             }
           },
           {
@@ -283,8 +299,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -313,14 +328,21 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4297cff76fd9481a",
   "lastOpenFiles": [
+    "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md",
+    "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
+    "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
+    "01. Guides/Note Guides.md",
+    "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md",
+    "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
+    "04. Practice Notes/테브난 정리.md",
+    "Excalidraw/Drawing 2025-05-17 18.01.56.excalidraw.md",
+    "02. MOC/Home.md",
     "attachments/screenshot/Pasted image 20250517175756.png",
     "attachments/screenshot/Pasted image 20250517175748.png",
     "Excalidraw/테브난 등가 회로 (draw).md",
-    "04. Practice Notes/테브난 정리.md",
     "Excalidraw/테브난 등가 회로 (draw).svg",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 제어 공학.md",
@@ -338,19 +360,12 @@
     "03. Permanent Notes/과도현상.md",
     "Excalidraw/부족 제동 특성근 (draw).md",
     "Excalidraw/임계 제동 특성 근 (draw).md",
-    "Excalidraw/과제동 특성근 (draw).md",
     "Excalidraw/과제동 특성근 (draw).svg",
     "Excalidraw/임계 제동 특성 근 (draw).svg",
     "Excalidraw/부족 제동 특성근 (draw).svg",
-    "03. Permanent Notes/입력에 따른 과도 응답 특성.md",
-    "03. Permanent Notes/외란.md",
-    "03. Permanent Notes/블록 선도 구성.md",
     "attachments/screenshot/Pasted image 20250515231730.png",
-    "Excalidraw/가힙점 (draw).md",
     "Excalidraw/가힙점 (draw).svg",
-    "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
     "Excalidraw/블록선도 피드백 결합 (draw).svg",
-    "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
