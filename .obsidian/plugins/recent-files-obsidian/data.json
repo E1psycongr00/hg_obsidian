@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "15년 회로이론 70번 테브난 회로 구성 (draw)",
+      "path": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
+    },
+    {
+      "basename": "테브난 등가 회로 (draw)",
+      "path": "Excalidraw/테브난 등가 회로 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🔬15년 회로이론 70번 문제 풀이 by 테브난",
       "path": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "테브난 정리",
       "path": "04. Practice Notes/테브난 정리.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "테브난 등가 회로 (draw)",
-      "path": "Excalidraw/테브난 등가 회로 (draw).md"
     },
     {
       "basename": "🏛️ 회로 이론",
@@ -95,10 +99,6 @@
     {
       "basename": "임계 제동 특성 근 (draw)",
       "path": "Excalidraw/임계 제동 특성 근 (draw).md"
-    },
-    {
-      "basename": "과제동 특성근 (draw)",
-      "path": "Excalidraw/과제동 특성근 (draw).md"
     }
   ],
   "omittedPaths": [],

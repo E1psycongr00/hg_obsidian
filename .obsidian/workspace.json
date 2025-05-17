@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "🔬15년 회로이론 70번 문제 풀이 by 테브난"
             }
+          },
+          {
+            "id": "4404b5fc1e1fcad5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "15년 회로이론 70번 테브난 회로 구성 (draw)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -116,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
+                "file": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "🔬15년 회로이론 70번 문제 풀이 by 테브난 의 파일 속성"
+              "title": "15년 회로이론 70번 테브난 회로 구성 (draw) 의 파일 속성"
             }
           },
           {
@@ -280,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
+                "file": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🔬15년 회로이론 70번 문제 풀이 by 테브난 의 개요"
+              "title": "15년 회로이론 70번 테브난 회로 구성 (draw) 의 개요"
             }
           },
           {
@@ -328,20 +340,22 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "4297cff76fd9481a",
+  "active": "4404b5fc1e1fcad5",
   "lastOpenFiles": [
+    "Excalidraw/테브난 등가 회로 (draw).md",
+    "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md",
+    "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
+    "02. MOC/Home.md",
+    "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
     "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md",
     "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
     "01. Guides/Note Guides.md",
     "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md",
-    "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
     "04. Practice Notes/테브난 정리.md",
     "Excalidraw/Drawing 2025-05-17 18.01.56.excalidraw.md",
-    "02. MOC/Home.md",
     "attachments/screenshot/Pasted image 20250517175756.png",
     "attachments/screenshot/Pasted image 20250517175748.png",
-    "Excalidraw/테브난 등가 회로 (draw).md",
     "Excalidraw/테브난 등가 회로 (draw).svg",
     "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기사.md",
@@ -358,14 +372,11 @@
     "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
     "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
     "03. Permanent Notes/과도현상.md",
-    "Excalidraw/부족 제동 특성근 (draw).md",
-    "Excalidraw/임계 제동 특성 근 (draw).md",
     "Excalidraw/과제동 특성근 (draw).svg",
     "Excalidraw/임계 제동 특성 근 (draw).svg",
     "Excalidraw/부족 제동 특성근 (draw).svg",
     "attachments/screenshot/Pasted image 20250515231730.png",
     "Excalidraw/가힙점 (draw).svg",
-    "Excalidraw/블록선도 피드백 결합 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
