@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/시스템 감도.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "시스템 감도"
+              "title": "🏛️ 제어 공학"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/시스템 감도.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "시스템 감도 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/시스템 감도.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "시스템 감도 의 개요"
+              "title": "🏛️ 제어 공학 의 개요"
             }
           },
           {
@@ -315,8 +315,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/시스템 감도.md",
     "02. MOC/🏛️ 제어 공학.md",
-    "04. Practice Notes/시스템 감도.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 회로 이론.md",
     "Excalidraw/노튼의 정리 등가 회로 (draw).md",
