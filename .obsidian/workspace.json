@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "테브난 정리"
             }
+          },
+          {
+            "id": "64c0c07349adb8b2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/테브난 등가 회로 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "테브난 등가 회로 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/테브난 정리.md"
+                "file": "Excalidraw/테브난 등가 회로 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "테브난 정리 의 파일 속성"
+              "title": "테브난 등가 회로 (draw) 의 파일 속성"
             }
           },
           {
@@ -313,17 +326,19 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "64c0c07349adb8b2",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
+    "Excalidraw/테브난 등가 회로 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/테브난 등가 회로 (draw).md",
     "04. Practice Notes/테브난 정리.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/중첩의 원리.md",
     "03. Permanent Notes/회로망 전류원.md",
     "03. Permanent Notes/회로망 전압원.md",
     "Excalidraw/Drawing 2025-05-17 14.07.46.excalidraw.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/과도 응답 용어 (부족 제동 시스템).md",
     "Excalidraw/부족 제동 응답 그래프 (draw).md",
     "Excalidraw/부족 제동 응답 그래프 (draw).svg",
@@ -345,8 +360,6 @@
     "Excalidraw/가힙점 (draw).md",
     "Excalidraw/가힙점 (draw).svg",
     "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
-    "03. Permanent Notes/전달 함수 요소.md",
-    "03. Permanent Notes/자동계 제어계의 구성.md",
     "Excalidraw/블록선도 피드백 결합 (draw).svg",
     "Excalidraw/블록 선도 병렬 연결 (draw).svg",
     "Excalidraw/블록 선도 직렬 연결 (draw).svg",

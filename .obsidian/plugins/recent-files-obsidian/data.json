@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
+      "basename": "테브난 등가 회로 (draw)",
+      "path": "Excalidraw/테브난 등가 회로 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "테브난 정리",
       "path": "04. Practice Notes/테브난 정리.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "🏛️ 전기 기사",
@@ -27,10 +35,6 @@
     {
       "basename": "회로망 전압원",
       "path": "03. Permanent Notes/회로망 전압원.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "과도 응답 용어 (부족 제동 시스템)",
@@ -95,10 +99,6 @@
     {
       "basename": "전달 함수 요소",
       "path": "03. Permanent Notes/전달 함수 요소.md"
-    },
-    {
-      "basename": "자동계 제어계의 구성",
-      "path": "03. Permanent Notes/자동계 제어계의 구성.md"
     }
   ],
   "omittedPaths": [],
