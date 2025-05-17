@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "15년 회로이론 70번 테브난 회로 구성 (draw)",
-      "path": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
+      "basename": "노튼의 정리 틍가 회로 (draw)",
+      "path": "Excalidraw/노튼의 정리 틍가 회로 (draw).md"
     },
     {
       "basename": "테브난 등가 회로 (draw)",
       "path": "Excalidraw/테브난 등가 회로 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "테브난 정리",
+      "path": "03. Permanent Notes/테브난 정리.md"
+    },
+    {
+      "basename": "노튼 정리",
+      "path": "04. Practice Notes/노튼 정리.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "🔬15년 회로이론 70번 문제 풀이 by 테브난",
-      "path": "04. Practice Notes/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
+      "path": "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
+    },
+    {
+      "basename": "15년 회로이론 70번 테브난 회로 구성 (draw)",
+      "path": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🔬원형 고리 자계 구하기",
@@ -35,14 +51,6 @@
     {
       "basename": "🔬분극과 전속 밀도 관계 증명",
       "path": "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md"
-    },
-    {
-      "basename": "테브난 정리",
-      "path": "04. Practice Notes/테브난 정리.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "🏛️ 전기 기사",
@@ -91,14 +99,6 @@
     {
       "basename": "과도현상",
       "path": "03. Permanent Notes/과도현상.md"
-    },
-    {
-      "basename": "부족 제동 특성근 (draw)",
-      "path": "Excalidraw/부족 제동 특성근 (draw).md"
-    },
-    {
-      "basename": "임계 제동 특성 근 (draw)",
-      "path": "Excalidraw/임계 제동 특성 근 (draw).md"
     }
   ],
   "omittedPaths": [],
