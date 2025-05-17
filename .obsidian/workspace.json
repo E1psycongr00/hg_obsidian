@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 제어 공학"
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 제어 공학 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -315,10 +315,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/과도 응답 용어 (부족 제동 시스템).md",
+    "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 제어 공학.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 회로 이론.md",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/과도 응답 용어 (부족 제동 시스템).md",
     "Excalidraw/부족 제동 응답 그래프 (draw).md",
     "Excalidraw/부족 제동 응답 그래프 (draw).svg",
     "03. Permanent Notes/시정수.md",
@@ -339,7 +340,6 @@
     "Excalidraw/가힙점 (draw).md",
     "Excalidraw/가힙점 (draw).svg",
     "03. Permanent Notes/블록 선도의 직병렬 및 피드백 회로 등가 변환.md",
-    "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/전달 함수 요소.md",
     "03. Permanent Notes/자동계 제어계의 구성.md",
     "Excalidraw/폐루프 제어 (draw).md",
