@@ -5,6 +5,10 @@
       "path": "04. Practice Notes/오차 상수.md"
     },
     {
+      "basename": "정상 응답 오차",
+      "path": "03. Permanent Notes/정상 응답 오차.md"
+    },
+    {
       "basename": "정상 속도 편차 상수",
       "path": "03. Permanent Notes/정상 속도 편차 상수.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
-    },
-    {
-      "basename": "정상 응답 오차",
-      "path": "03. Permanent Notes/정상 응답 오차.md"
     },
     {
       "basename": "폐루프 제어 (draw)",
