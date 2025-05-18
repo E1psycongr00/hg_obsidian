@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/정상 응답 오차.md",
+                "file": "04. Practice Notes/오차 상수.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "정상 응답 오차"
+              "title": "오차 상수"
             }
           },
           {
@@ -111,10 +111,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/정상 응답 오차.md"
+                "file": "04. Practice Notes/오차 상수.md"
               },
               "icon": "lucide-info",
-              "title": "정상 응답 오차 의 파일 속성"
+              "title": "오차 상수 의 파일 속성"
             }
           },
           {
@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/정상 응답 오차.md",
+                "file": "04. Practice Notes/오차 상수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정상 응답 오차 의 개요"
+              "title": "오차 상수 의 개요"
             }
           },
           {
@@ -324,14 +324,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "05945c099298a576",
+  "active": "62d96583bb3c34ce",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 제어 공학.md",
+    "04. Practice Notes/오차 상수.md",
+    "03. Permanent Notes/정상 응답 오차.md",
     "Excalidraw/폐루프 전달 함수 (draw).md",
-    "04. Practice Notes/정상 응답 오차.md",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
     "Excalidraw/폐루프 제어 (draw).md",
     "Excalidraw/Simple 폐루프 제어 (draw).md",
-    "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/추치 제어.md",
     "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
     "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
