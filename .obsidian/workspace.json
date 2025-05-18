@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "정상 응답 오차"
             }
+          },
+          {
+            "id": "e59a28edee8e4e14",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/폐루프 전달 함수 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "폐루프 전달 함수 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "시정수",
+                "query": "폐루프",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +99,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/정상 응답 오차.md"
+                "file": "Excalidraw/폐루프 전달 함수 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "정상 응답 오차 의 파일 속성"
+              "title": "폐루프 전달 함수 (draw) 의 파일 속성"
             }
           },
           {
@@ -264,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/정상 응답 오차.md",
+                "file": "Excalidraw/폐루프 전달 함수 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "정상 응답 오차 의 개요"
+              "title": "폐루프 전달 함수 (draw) 의 개요"
             }
           },
           {
@@ -313,10 +325,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e59a28edee8e4e14",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 제어 공학.md",
     "04. Practice Notes/정상 응답 오차.md",
+    "Excalidraw/폐루프 전달 함수 (draw).md",
+    "Excalidraw/폐루프 제어 (draw).md",
+    "Excalidraw/Simple 폐루프 제어 (draw).md",
+    "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/추치 제어.md",
     "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
     "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
@@ -341,12 +356,9 @@
     "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
     "01. Guides/Note Guides.md",
-    "07. Solution Notes/Archive/🔬분극과 전속 밀도 관계 증명.md",
-    "Excalidraw/Drawing 2025-05-17 18.01.56.excalidraw.md",
     "attachments/screenshot/Pasted image 20250517175756.png",
     "attachments/screenshot/Pasted image 20250517175748.png",
     "Excalidraw/테브난 등가 회로 (draw).svg",
-    "03. Permanent Notes/중첩의 원리.md",
     "Excalidraw/부족 제동 응답 그래프 (draw).svg",
     "Excalidraw/과제동 특성근 (draw).svg",
     "Excalidraw/임계 제동 특성 근 (draw).svg",
