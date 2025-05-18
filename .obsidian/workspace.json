@@ -324,10 +324,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "05945c099298a576",
   "lastOpenFiles": [
     "Excalidraw/폐루프 전달 함수 (draw).md",
     "04. Practice Notes/정상 응답 오차.md",
+    "Excalidraw/폐루프 전달 함수 (draw).svg",
     "Excalidraw/폐루프 제어 (draw).md",
     "Excalidraw/Simple 폐루프 제어 (draw).md",
     "02. MOC/🏛️ 제어 공학.md",
@@ -354,14 +355,12 @@
     "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md",
     "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
-    "01. Guides/Note Guides.md",
     "attachments/screenshot/Pasted image 20250517175756.png",
     "attachments/screenshot/Pasted image 20250517175748.png",
     "Excalidraw/테브난 등가 회로 (draw).svg",
     "Excalidraw/부족 제동 응답 그래프 (draw).svg",
     "Excalidraw/과제동 특성근 (draw).svg",
     "Excalidraw/임계 제동 특성 근 (draw).svg",
-    "Excalidraw/부족 제동 특성근 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
