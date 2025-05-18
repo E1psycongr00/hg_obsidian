@@ -9,6 +9,10 @@
       "path": "03. Permanent Notes/정상 속도 편차 상수.md"
     },
     {
+      "basename": "정상 가속도 편차 상수",
+      "path": "03. Permanent Notes/정상 가속도 편차 상수.md"
+    },
+    {
       "basename": "폐루프 전달 함수 (draw)",
       "path": "Excalidraw/폐루프 전달 함수 (draw).md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "테브난 등가 회로 (draw)",
       "path": "Excalidraw/테브난 등가 회로 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     }
   ],
   "omittedPaths": [],
