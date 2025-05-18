@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
+                "file": "04. Practice Notes/정상 응답 오차.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 제어 공학"
+              "title": "정상 응답 오차"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md"
+                "file": "04. Practice Notes/정상 응답 오차.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 제어 공학 의 파일 속성"
+              "title": "정상 응답 오차 의 파일 속성"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
+                "file": "04. Practice Notes/정상 응답 오차.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 제어 공학 의 개요"
+              "title": "정상 응답 오차 의 개요"
             }
           },
           {
@@ -315,8 +315,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/전달 함수 요소.md",
     "02. MOC/🏛️ 제어 공학.md",
+    "04. Practice Notes/정상 응답 오차.md",
+    "03. Permanent Notes/추치 제어.md",
+    "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
+    "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
+    "03. Permanent Notes/과도 응답 용어 (부족 제동 시스템).md",
+    "03. Permanent Notes/전달 함수 요소.md",
     "03. Permanent Notes/시스템 감도.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 회로 이론.md",
@@ -342,11 +347,6 @@
     "attachments/screenshot/Pasted image 20250517175748.png",
     "Excalidraw/테브난 등가 회로 (draw).svg",
     "03. Permanent Notes/중첩의 원리.md",
-    "03. Permanent Notes/회로망 전류원.md",
-    "03. Permanent Notes/회로망 전압원.md",
-    "Excalidraw/Drawing 2025-05-17 14.07.46.excalidraw.md",
-    "03. Permanent Notes/과도 응답 용어 (부족 제동 시스템).md",
-    "Excalidraw/부족 제동 응답 그래프 (draw).md",
     "Excalidraw/부족 제동 응답 그래프 (draw).svg",
     "Excalidraw/과제동 특성근 (draw).svg",
     "Excalidraw/임계 제동 특성 근 (draw).svg",
