@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/오차 상수.md",
-                "mode": "preview",
+                "file": "02. MOC/🏛️ 제어 공학.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "오차 상수"
+              "title": "🏛️ 제어 공학"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/오차 상수.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "오차 상수 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/오차 상수.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "오차 상수 의 개요"
+              "title": "🏛️ 제어 공학 의 개요"
             }
           },
           {
@@ -315,11 +315,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/오차 상수.md",
+    "03. Permanent Notes/정상 가속도 편차 상수.md",
     "03. Permanent Notes/정상 속도 편차 상수.md",
     "03. Permanent Notes/정상 위치 편차 상수.md",
-    "04. Practice Notes/오차 상수.md",
     "03. Permanent Notes/정상 응답 오차.md",
-    "03. Permanent Notes/정상 가속도 편차 상수.md",
     "Excalidraw/폐루프 전달 함수 (draw).md",
     "02. MOC/🏛️ 제어 공학.md",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
