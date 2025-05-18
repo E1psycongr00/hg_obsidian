@@ -5,16 +5,24 @@
       "path": "04. Practice Notes/오차 상수.md"
     },
     {
+      "basename": "정상 속도 편차 상수",
+      "path": "03. Permanent Notes/정상 속도 편차 상수.md"
+    },
+    {
+      "basename": "폐루프 전달 함수 (draw)",
+      "path": "Excalidraw/폐루프 전달 함수 (draw).md"
+    },
+    {
+      "basename": "정상 위치 편차 상수",
+      "path": "03. Permanent Notes/정상 위치 편차 상수.md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
       "basename": "정상 응답 오차",
       "path": "03. Permanent Notes/정상 응답 오차.md"
-    },
-    {
-      "basename": "폐루프 전달 함수 (draw)",
-      "path": "Excalidraw/폐루프 전달 함수 (draw).md"
     },
     {
       "basename": "폐루프 제어 (draw)",
@@ -91,14 +99,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🔬원형 고리 자계 구하기",
-      "path": "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md"
-    },
-    {
-      "basename": "🔬원형 고리 전계 구하기",
-      "path": "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md"
     }
   ],
   "omittedPaths": [],

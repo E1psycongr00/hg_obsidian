@@ -23,15 +23,18 @@
             }
           },
           {
-            "id": "e59a28edee8e4e14",
+            "id": "a8833c098108f521",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/폐루프 전달 함수 (draw).md"
+                "file": "03. Permanent Notes/정상 속도 편차 상수.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "폐루프 전달 함수 (draw)"
+              "icon": "lucide-file",
+              "title": "정상 속도 편차 상수"
             }
           }
         ]
@@ -98,7 +101,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -326,10 +330,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 제어 공학.md",
+    "03. Permanent Notes/정상 속도 편차 상수.md",
     "04. Practice Notes/오차 상수.md",
-    "03. Permanent Notes/정상 응답 오차.md",
     "Excalidraw/폐루프 전달 함수 (draw).md",
+    "03. Permanent Notes/정상 위치 편차 상수.md",
+    "02. MOC/🏛️ 제어 공학.md",
+    "03. Permanent Notes/정상 응답 오차.md",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
     "Excalidraw/폐루프 제어 (draw).md",
     "Excalidraw/Simple 폐루프 제어 (draw).md",
@@ -354,8 +360,6 @@
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
     "02. MOC/Home.md",
     "07. Solution Notes/Archive/🔬원형 고리 자계 구하기.md",
-    "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
-    "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
     "attachments/screenshot/Pasted image 20250517175756.png",
     "attachments/screenshot/Pasted image 20250517175748.png",
     "Excalidraw/테브난 등가 회로 (draw).svg",
