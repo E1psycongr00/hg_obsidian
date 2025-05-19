@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "테브난 정리",
       "path": "03. Permanent Notes/테브난 정리.md"
-    },
-    {
-      "basename": "테브난 등가 회로 (draw)",
-      "path": "Excalidraw/테브난 등가 회로 (draw).md"
     }
   ],
   "omittedPaths": [],
