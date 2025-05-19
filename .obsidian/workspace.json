@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shrimp-rules.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shrimp-rules"
+              "title": "🏛️ 제어 공학"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "shrimp-rules.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "shrimp-rules 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -315,8 +315,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/Home.md",
     "shrimp-rules.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/오차 상수.md",
     "03. Permanent Notes/정상 가속도 편차 상수.md",
