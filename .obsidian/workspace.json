@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
+                "file": "03. Permanent Notes/나이퀴스트 선도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 제어 공학"
+              "title": "나이퀴스트 선도"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md"
+                "file": "03. Permanent Notes/나이퀴스트 선도.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 제어 공학 의 파일 속성"
+              "title": "나이퀴스트 선도 의 파일 속성"
             }
           },
           {
@@ -315,9 +315,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 제어 공학.md",
+    "03. Permanent Notes/나이퀴스트 선도.md",
     "shrimp-rules.md",
     "02. MOC/Home.md",
-    "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/오차 상수.md",
     "03. Permanent Notes/정상 가속도 편차 상수.md",
     "03. Permanent Notes/정상 속도 편차 상수.md",
@@ -342,7 +343,6 @@
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md",
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
-    "03. Permanent Notes/테브난 정리.md",
     "Excalidraw/노튼의 정리 등가 회로 (draw).svg",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
     "attachments/screenshot/Pasted image 20250517175756.png",
