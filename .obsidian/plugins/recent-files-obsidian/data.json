@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "나이퀴스트 선도",
-      "path": "03. Permanent Notes/나이퀴스트 선도.md"
-    },
-    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
-      "basename": "shrimp-rules",
-      "path": "shrimp-rules.md"
-    },
-    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "옵시디언 글쓰기 Rule",
+      "path": "Rules/옵시디언 글쓰기 Rule.md"
+    },
+    {
+      "basename": "글 일관성 검사 및 가독성 평가 Rule",
+      "path": "Rules/글 일관성 검사 및 가독성 평가 Rule.md"
+    },
+    {
+      "basename": "shrimp-rules",
+      "path": "shrimp-rules.md"
     },
     {
       "basename": "오차 상수",
@@ -91,14 +95,6 @@
     {
       "basename": "🔬15년 회로이론 70번 문제 풀리 by 노튼",
       "path": "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀리 by 노튼.md"
-    },
-    {
-      "basename": "노튼 정리",
-      "path": "04. Practice Notes/노튼 정리.md"
-    },
-    {
-      "basename": "15년 회로이론 70번 테브난 회로 구성 (draw)",
-      "path": "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).md"
     }
   ],
   "omittedPaths": [],
