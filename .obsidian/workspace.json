@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "나이퀴스트 이득 여유와 위상"
             }
-          },
-          {
-            "id": "8f78c37ffe02a204",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/나이퀴스트 이득 여유 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "나이퀴스트 이득 여유 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/나이퀴스트 이득 여유 (draw).md"
+                "file": "04. Practice Notes/나이퀴스트 이득 여유와 위상.md"
               },
               "icon": "lucide-info",
-              "title": "나이퀴스트 이득 여유 (draw) 의 파일 속성"
+              "title": "나이퀴스트 이득 여유와 위상 의 파일 속성"
             }
           },
           {
@@ -326,11 +313,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "8f78c37ffe02a204",
+  "active": "9c036ffcafe46530",
   "lastOpenFiles": [
+    "Excalidraw/나이퀴스트 이득 여유 (draw).md",
     "Excalidraw/나이퀴스트 이득 여유 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/나이퀴스트 이득 여유 (draw).md",
     "04. Practice Notes/나이퀴스트 이득 여유와 위상.md",
     "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/나이퀴스트 안정도 판정법.md",
@@ -364,7 +351,6 @@
     "attachments/screenshot/Pasted image 20250517175748.png",
     "Excalidraw/테브난 등가 회로 (draw).svg",
     "Excalidraw/부족 제동 응답 그래프 (draw).svg",
-    "Excalidraw/과제동 특성근 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
