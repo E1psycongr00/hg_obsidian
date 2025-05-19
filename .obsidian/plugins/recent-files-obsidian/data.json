@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "shrimp-rules",
+      "path": "shrimp-rules.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "🔬15년 회로이론 70번 문제 풀이 by 테브난",
       "path": "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
-    },
-    {
-      "basename": "테브난 정리",
-      "path": "03. Permanent Notes/테브난 정리.md"
     }
   ],
   "omittedPaths": [],
