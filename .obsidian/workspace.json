@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "04. Practice Notes/나이퀴스트 선도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "나이퀴스트 선도"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제.md"
+                "file": "04. Practice Notes/나이퀴스트 선도.md"
               },
               "icon": "lucide-info",
-              "title": "무제 의 파일 속성"
+              "title": "나이퀴스트 선도 의 파일 속성"
             }
           },
           {
@@ -315,11 +315,13 @@
   },
   "active": "9c036ffcafe46530",
   "lastOpenFiles": [
-    "04. Practice Notes/나이퀴스트 선도.md",
     "02. MOC/🏛️ 제어 공학.md",
+    "Rules/옵시디언 글쓰기 Rule.md",
+    "04. Practice Notes/나이퀴스트 선도.md",
+    "Rules/무제",
+    "무제.md",
     "03. Permanent Notes/나이퀴스트 선도.md",
     "02. MOC/Home.md",
-    "Rules/옵시디언 글쓰기 Rule.md",
     "Rules/글 일관성 검사 및 가독성 평가 Rule.md",
     "shrimp-rules.md",
     "03. Permanent Notes/오차 상수.md",
@@ -340,8 +342,6 @@
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 회로 이론.md",
     "Excalidraw/노튼의 정리 등가 회로 (draw).md",
-    "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).md",
-    "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀리 by 노튼.md",
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "Excalidraw/노튼의 정리 등가 회로 (draw).svg",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
@@ -360,7 +360,6 @@
     "08. 공부 자료/pdf/book/컴퓨터 과학",
     "08. 공부 자료/pdf/무제",
     "08. 공부 자료/pdf/book/컴퓨터 과학/Boris Cherny - Programming TypeScript_ Making Your JavaScript Applications Scale - O′Reilly (2019).pdf",
-    "08. 공부 자료/pdf/book/컴퓨터 과학/introducing-eventstorming.pdf",
     "무제 1.canvas",
     "무제.canvas",
     "index.canvas",

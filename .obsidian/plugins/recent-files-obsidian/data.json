@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "무제",
-      "path": "무제.md"
-    },
-    {
       "basename": "나이퀴스트 선도",
       "path": "04. Practice Notes/나이퀴스트 선도.md"
     },
@@ -13,12 +9,16 @@
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "옵시디언 글쓰기 Rule",
       "path": "Rules/옵시디언 글쓰기 Rule.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "글 일관성 검사 및 가독성 평가 Rule",
