@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/나이퀴스트 작도법.md",
+                "file": "02. MOC/🏛️ 제어 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "나이퀴스트 작도법"
+              "title": "🏛️ 제어 공학"
+            }
+          },
+          {
+            "id": "4d9ee8aa3bd6aa37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "나이퀴스트 안정도 판정법.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "나이퀴스트 안정도 판정법"
             }
           },
           {
@@ -36,9 +51,24 @@
               "icon": "lucide-file",
               "title": "나이퀴스트 선도"
             }
+          },
+          {
+            "id": "37a7a2eed7ad7d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/옵시디언 글쓰기 Rule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "옵시디언 글쓰기 Rule"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,10 +146,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/나이퀴스트 선도.md"
+                "file": "Rules/옵시디언 글쓰기 Rule.md"
               },
               "icon": "lucide-info",
-              "title": "나이퀴스트 선도 의 파일 속성"
+              "title": "옵시디언 글쓰기 Rule 의 파일 속성"
             }
           },
           {
@@ -329,11 +359,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ec3e28525edb112f",
+  "active": "37a7a2eed7ad7d37",
   "lastOpenFiles": [
-    "04. Practice Notes/나이퀴스트 작도법.md",
+    "04. Practice Notes/나이퀴스트 편각의 원리.md",
     "04. Practice Notes/나이퀴스트 선도.md",
+    "나이퀴스트 안정도 판정법.md",
     "02. MOC/🏛️ 제어 공학.md",
+    "04. Practice Notes/나이퀴스트 작도법.md",
     "Rules/📑 글 일관성 검사 및 가독성 평가 Rule.md",
     "Rules/옵시디언 글쓰기 Rule.md",
     "무제 1.md",
@@ -357,8 +389,6 @@
     "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
     "03. Permanent Notes/과도 응답 용어 (부족 제동 시스템).md",
     "03. Permanent Notes/전달 함수 요소.md",
-    "03. Permanent Notes/시스템 감도.md",
-    "02. MOC/🏛️ 전기 기사.md",
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "Excalidraw/노튼의 정리 등가 회로 (draw).svg",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
