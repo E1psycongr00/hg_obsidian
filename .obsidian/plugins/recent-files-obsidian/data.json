@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "옵시디언 글쓰기 Rule",
       "path": "Rules/옵시디언 글쓰기 Rule.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "노튼의 정리 등가 회로 (draw)",
       "path": "Excalidraw/노튼의 정리 등가 회로 (draw).md"
-    },
-    {
-      "basename": "15년 회로이론 70번 노튼 회로 구성(draw)",
-      "path": "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).md"
     }
   ],
   "omittedPaths": [],
