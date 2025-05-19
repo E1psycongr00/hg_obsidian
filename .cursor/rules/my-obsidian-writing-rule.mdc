@@ -1,5 +1,5 @@
 ---
-description: 
+description: 글을 쓸때 해당 룰을 사용해 적용해야한다
 globs: 
 alwaysApply: false
 ---

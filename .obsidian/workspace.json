@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "shrimp-rules.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -313,7 +313,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/Home.md",
     "shrimp-rules.md",
