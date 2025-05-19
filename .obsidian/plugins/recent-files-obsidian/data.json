@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "나이퀴스트 선도",
       "path": "04. Practice Notes/나이퀴스트 선도.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "15년 회로이론 70번 노튼 회로 구성(draw)",
       "path": "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).md"
-    },
-    {
-      "basename": "🔬15년 회로이론 70번 문제 풀리 by 노튼",
-      "path": "07. Solution Notes/Archive/🔬15년 회로이론 70번 문제 풀리 by 노튼.md"
     }
   ],
   "omittedPaths": [],
