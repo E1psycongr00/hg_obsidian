@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "🏛️ 회로 이론"
             }
+          },
+          {
+            "id": "1f38f2d1dcce65e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/영상 임피던스.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "영상 임피던스"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 회로 이론.md"
+                "file": "03. Permanent Notes/영상 임피던스.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 회로 이론 의 파일 속성"
+              "title": "영상 임피던스 의 파일 속성"
             }
           },
           {
@@ -313,11 +329,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "4c4fdbc9f3e46417",
+  "active": "1f38f2d1dcce65e1",
   "lastOpenFiles": [
-    "03. Permanent Notes/최대 전력 전송.md",
     "02. MOC/🏛️ 회로 이론.md",
-    "03. Permanent Notes/역회로.md",
+    "03. Permanent Notes/역회로 관계.md",
+    "03. Permanent Notes/최대 전력 전송.md",
     "Excalidraw/역회로 (draw).md",
     "02. MOC/Home.md",
     "03. Permanent Notes/정저항 회로.md",

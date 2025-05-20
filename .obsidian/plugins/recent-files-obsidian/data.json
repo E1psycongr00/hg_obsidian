@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "영상 임피던스",
+      "path": "03. Permanent Notes/영상 임피던스.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
-      "basename": "역회로",
-      "path": "03. Permanent Notes/역회로.md"
+      "basename": "역회로 관계",
+      "path": "03. Permanent Notes/역회로 관계.md"
     },
     {
       "basename": "역회로 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "무제",
       "path": "무제.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     }
   ],
   "omittedPaths": [],
