@@ -11,12 +11,15 @@
             "id": "4c4fdbc9f3e46417",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/역회로 (draw).md"
+                "file": "03. Permanent Notes/역회로 관계.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "역회로 (draw)"
+              "icon": "lucide-file",
+              "title": "역회로 관계"
             }
           }
         ]
@@ -97,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/역회로 (draw).md"
+                "file": "03. Permanent Notes/역회로 관계.md"
               },
               "icon": "lucide-info",
-              "title": "역회로 (draw) 의 파일 속성"
+              "title": "역회로 관계 의 파일 속성"
             }
           },
           {
@@ -313,9 +316,9 @@
   },
   "active": "4c4fdbc9f3e46417",
   "lastOpenFiles": [
+    "Excalidraw/역회로 (draw).md",
     "Excalidraw/역회로 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/역회로 (draw).md",
     "03. Permanent Notes/역회로 관계.md",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/정저항 회로.md",
@@ -349,7 +352,6 @@
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
     "attachments/screenshot/Pasted image 20250517175756.png",
     "attachments/screenshot/Pasted image 20250517175748.png",
-    "Excalidraw/테브난 등가 회로 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
