@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "왜형률",
-      "path": "04. Practice Notes/왜형률.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "영상 임피던스",
-      "path": "03. Permanent Notes/영상 임피던스.md"
-    },
-    {
-      "basename": "역회로 관계",
-      "path": "03. Permanent Notes/역회로 관계.md"
-    },
-    {
       "basename": "역회로 (draw)",
       "path": "Excalidraw/역회로 (draw).md"
     },
@@ -25,8 +9,24 @@
       "path": "02. MOC/Home.md"
     },
     {
+      "basename": "역회로 관계",
+      "path": "03. Permanent Notes/역회로 관계.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
       "basename": "정저항 회로",
       "path": "03. Permanent Notes/정저항 회로.md"
+    },
+    {
+      "basename": "왜형률",
+      "path": "03. Permanent Notes/왜형률.md"
+    },
+    {
+      "basename": "영상 임피던스",
+      "path": "03. Permanent Notes/영상 임피던스.md"
     },
     {
       "basename": "대칭 3상 교류 발전기 모형 (draw)",

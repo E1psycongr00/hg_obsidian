@@ -11,15 +11,12 @@
             "id": "4c4fdbc9f3e46417",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "04. Practice Notes/왜형률.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Excalidraw/역회로 (draw).md"
               },
-              "icon": "lucide-file",
-              "title": "왜형률"
+              "icon": "excalidraw-icon",
+              "title": "역회로 (draw)"
             }
           }
         ]
@@ -100,10 +97,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/왜형률.md"
+                "file": "Excalidraw/역회로 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "왜형률 의 파일 속성"
+              "title": "역회로 (draw) 의 파일 속성"
             }
           },
           {
@@ -288,7 +285,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 497.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,14 +313,15 @@
   },
   "active": "4c4fdbc9f3e46417",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
-    "04. Practice Notes/왜형률.md",
-    "03. Permanent Notes/영상 임피던스.md",
-    "03. Permanent Notes/역회로 관계.md",
-    "03. Permanent Notes/최대 전력 전송.md",
-    "Excalidraw/역회로 (draw).md",
+    "Excalidraw/역회로 (draw).svg",
     "02. MOC/Home.md",
+    "Excalidraw/역회로 (draw).md",
+    "03. Permanent Notes/역회로 관계.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/정저항 회로.md",
+    "03. Permanent Notes/왜형률.md",
+    "03. Permanent Notes/영상 임피던스.md",
+    "03. Permanent Notes/최대 전력 전송.md",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).md",
     "02. MOC/🏛️ 제어 공학.md",
     "03. Permanent Notes/나이퀴스트 안정도 판정법.md",
@@ -341,7 +340,6 @@
     "04. Practice Notes/Y 결선.md",
     "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/나이퀴스트 작도법.md",
-    "03. Permanent Notes/나이퀴스트 이득 여유와 위상.md",
     "Excalidraw/나이퀴스트 이득 여유 (draw).svg",
     "attachments/screenshot/Pasted image 20250519203532.png",
     "Rules/무제",
