@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0cfba65ba1a3d5be",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9c036ffcafe46530",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🏛️ 제어 공학"
+              "title": "새 탭"
             }
           }
         ]
@@ -99,11 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "🏛️ 제어 공학 의 파일 속성"
+              "title": "파일 속성"
             }
           },
           {
@@ -313,10 +306,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "9c036ffcafe46530",
+  "active": "05945c099298a576",
   "lastOpenFiles": [
-    "04. Practice Notes/나이퀴스트 작도법.md",
     "02. MOC/🏛️ 제어 공학.md",
+    "04. Practice Notes/나이퀴스트 작도법.md",
     "03. Permanent Notes/나이퀴스트 안정도 판정법.md",
     "03. Permanent Notes/나이퀴스트 이득 여유와 위상.md",
     "Excalidraw/나이퀴스트 이득 여유 (draw).md",
