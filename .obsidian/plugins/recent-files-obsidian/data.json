@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "정저항 회로",
-      "path": "03. Permanent Notes/정저항 회로.md"
+      "basename": "Z형 파라미터",
+      "path": "03. Permanent Notes/Z형 파라미터.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "정저항 회로",
+      "path": "03. Permanent Notes/정저항 회로.md"
     },
     {
       "basename": "역회로 관계",
@@ -95,10 +99,6 @@
     {
       "basename": "📑 글 일관성 검사 및 가독성 평가 Rule",
       "path": "Rules/📑 글 일관성 검사 및 가독성 평가 Rule.md"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
     }
   ],
   "omittedPaths": [],
