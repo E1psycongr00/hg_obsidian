@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "대칭 3상 교류 발전기 기본식"
             }
+          },
+          {
+            "id": "7b4d56edd2159265",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/대칭 3상 교류 발전기 모형 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "대칭 3상 교류 발전기 모형 (draw)"
+            }
           }
         ]
       }
@@ -316,15 +328,17 @@
   },
   "active": "4c4fdbc9f3e46417",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 회로 이론.md",
+    "Excalidraw/대칭 3상 교류 발전기 모형 (draw).md",
+    "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",
+    "02. MOC/Home.md",
     "04. Practice Notes/대칭 3상 교류 발전기 기본식.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/대칭 좌표법.md",
     "03. Permanent Notes/3전류계법.md",
     "03. Permanent Notes/n상 대칭 결선.md",
     "03. Permanent Notes/delta 결선.md",
     "03. Permanent Notes/V 결선.md",
     "03. Permanent Notes/3전압계법.md",
-    "02. MOC/Home.md",
     "Excalidraw/delta 결선 (draw).md",
     "Excalidraw/delta 결선 벡터 (draw).md",
     "01. Guides/Note Guides.md",
@@ -342,8 +356,6 @@
     "Rules/📑 글 일관성 검사 및 가독성 평가 Rule.md",
     "attachments/screenshot/Pasted image 20250519203532.png",
     "무제 1.md",
-    "무제.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "Rules/무제",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
@@ -352,7 +364,6 @@
     "attachments/screenshot/Pasted image 20250517175756.png",
     "attachments/screenshot/Pasted image 20250517175748.png",
     "Excalidraw/테브난 등가 회로 (draw).svg",
-    "Excalidraw/부족 제동 응답 그래프 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",

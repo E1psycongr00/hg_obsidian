@@ -5,6 +5,14 @@
       "path": "04. Practice Notes/대칭 3상 교류 발전기 기본식.md"
     },
     {
+      "basename": "대칭 3상 교류 발전기 모형 (draw)",
+      "path": "Excalidraw/대칭 3상 교류 발전기 모형 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "delta 결선",
       "path": "03. Permanent Notes/delta 결선.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "delta 결선 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "정상 속도 편차 상수",
       "path": "03. Permanent Notes/정상 속도 편차 상수.md"
-    },
-    {
-      "basename": "정상 가속도 편차 상수",
-      "path": "03. Permanent Notes/정상 가속도 편차 상수.md"
     }
   ],
   "omittedPaths": [],
