@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Z형 파라미터",
-      "path": "03. Permanent Notes/Z형 파라미터.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "분포 정수 회로",
+      "path": "03. Permanent Notes/분포 정수 회로.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "전파 정수",
+      "path": "03. Permanent Notes/전파 정수.md"
+    },
+    {
+      "basename": "Z형 파라미터",
+      "path": "03. Permanent Notes/Z형 파라미터.md"
     },
     {
       "basename": "정저항 회로",
@@ -19,10 +31,6 @@
     {
       "basename": "역회로 (draw)",
       "path": "Excalidraw/역회로 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "왜형률",
@@ -91,14 +99,6 @@
     {
       "basename": "나이퀴스트 편각의 원리",
       "path": "03. Permanent Notes/나이퀴스트 편각의 원리.md"
-    },
-    {
-      "basename": "옵시디언 글쓰기 Rule",
-      "path": "Rules/옵시디언 글쓰기 Rule.md"
-    },
-    {
-      "basename": "📑 글 일관성 검사 및 가독성 평가 Rule",
-      "path": "Rules/📑 글 일관성 검사 및 가독성 평가 Rule.md"
     }
   ],
   "omittedPaths": [],
