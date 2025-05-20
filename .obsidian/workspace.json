@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/대칭 3상 교류 발전기 기본식.md",
+                "file": "02. MOC/🏛️ 회로 이론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "대칭 3상 교류 발전기 기본식"
+              "title": "🏛️ 회로 이론"
             }
           },
           {
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/대칭 3상 교류 발전기 기본식.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "대칭 3상 교류 발전기 기본식 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -328,11 +328,11 @@
   },
   "active": "4c4fdbc9f3e46417",
   "lastOpenFiles": [
+    "03. Permanent Notes/대칭 3상 교류 발전기 기본식.md",
+    "02. MOC/🏛️ 회로 이론.md",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).md",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",
     "02. MOC/Home.md",
-    "04. Practice Notes/대칭 3상 교류 발전기 기본식.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/대칭 좌표법.md",
     "03. Permanent Notes/3전류계법.md",
     "03. Permanent Notes/n상 대칭 결선.md",
