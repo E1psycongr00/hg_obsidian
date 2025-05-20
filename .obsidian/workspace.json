@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "f8481a73269114c6",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "4c4fdbc9f3e46417",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/delta 결선 (draw).md"
+                "file": "02. MOC/🏛️ 회로 이론.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "delta 결선 (draw)"
+              "icon": "lucide-file",
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -83,7 +86,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -96,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/delta 결선 (draw).md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "delta 결선 (draw) 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -310,14 +314,18 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4c4fdbc9f3e46417",
   "lastOpenFiles": [
+    "03. Permanent Notes/3전류계법.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/n상 대칭 결선.md",
+    "03. Permanent Notes/delta 결선.md",
+    "03. Permanent Notes/V 결선.md",
+    "03. Permanent Notes/3전압계법.md",
     "02. MOC/Home.md",
     "Excalidraw/delta 결선 (draw).md",
     "Excalidraw/delta 결선 벡터 (draw).md",
     "01. Guides/Note Guides.md",
-    "03. Permanent Notes/delta 결선.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "04. Practice Notes/Y 결선.md",
     "02. MOC/🏛️ 제어 공학.md",
     "02. MOC/🏛️ 전자기학.md",
@@ -337,10 +345,6 @@
     "Rules/무제",
     "03. Permanent Notes/나이퀴스트 선도.md",
     "shrimp-rules.md",
-    "03. Permanent Notes/오차 상수.md",
-    "03. Permanent Notes/정상 가속도 편차 상수.md",
-    "03. Permanent Notes/정상 속도 편차 상수.md",
-    "03. Permanent Notes/정상 위치 편차 상수.md",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "Excalidraw/노튼의 정리 등가 회로 (draw).svg",
