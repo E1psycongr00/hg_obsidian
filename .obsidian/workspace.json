@@ -11,10 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/delta 결선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "delta 결선 (draw)"
             }
           }
         ]
@@ -37,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "폐루프",
+                "query": "delta 결선 (draw)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -81,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -94,9 +95,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Excalidraw/delta 결선 (draw).md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "delta 결선 (draw) 의 파일 속성"
             }
           },
           {
@@ -281,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 497.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,15 +310,22 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "05945c099298a576",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
+    "Excalidraw/delta 결선 (draw).md",
+    "Excalidraw/delta 결선 벡터 (draw).md",
+    "01. Guides/Note Guides.md",
+    "03. Permanent Notes/delta 결선.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "04. Practice Notes/Y 결선.md",
     "02. MOC/🏛️ 제어 공학.md",
+    "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/나이퀴스트 작도법.md",
     "03. Permanent Notes/나이퀴스트 안정도 판정법.md",
     "03. Permanent Notes/나이퀴스트 이득 여유와 위상.md",
     "Excalidraw/나이퀴스트 이득 여유 (draw).md",
     "Excalidraw/나이퀴스트 이득 여유 (draw).svg",
-    "02. MOC/Home.md",
     "04. Practice Notes/나이퀴스트 선도.md",
     "03. Permanent Notes/나이퀴스트 편각의 원리.md",
     "Rules/옵시디언 글쓰기 Rule.md",
@@ -330,13 +341,7 @@
     "03. Permanent Notes/정상 가속도 편차 상수.md",
     "03. Permanent Notes/정상 속도 편차 상수.md",
     "03. Permanent Notes/정상 위치 편차 상수.md",
-    "03. Permanent Notes/정상 응답 오차.md",
-    "Excalidraw/폐루프 전달 함수 (draw).md",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
-    "Excalidraw/폐루프 제어 (draw).md",
-    "Excalidraw/Simple 폐루프 제어 (draw).md",
-    "03. Permanent Notes/추치 제어.md",
-    "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md",
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "Excalidraw/노튼의 정리 등가 회로 (draw).svg",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",

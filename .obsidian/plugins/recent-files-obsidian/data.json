@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "delta 결선 (draw)",
+      "path": "Excalidraw/delta 결선 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "delta 결선 벡터 (draw)",
+      "path": "Excalidraw/delta 결선 벡터 (draw).md"
+    },
+    {
+      "basename": "delta 결선",
+      "path": "03. Permanent Notes/delta 결선.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "나이퀴스트 작도법",
@@ -19,10 +43,6 @@
     {
       "basename": "나이퀴스트 이득 여유 (draw)",
       "path": "Excalidraw/나이퀴스트 이득 여유 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "나이퀴스트 선도",
@@ -79,26 +99,6 @@
     {
       "basename": "정상 위치 편차 상수",
       "path": "03. Permanent Notes/정상 위치 편차 상수.md"
-    },
-    {
-      "basename": "폐루프 제어 (draw)",
-      "path": "Excalidraw/폐루프 제어 (draw).md"
-    },
-    {
-      "basename": "Simple 폐루프 제어 (draw)",
-      "path": "Excalidraw/Simple 폐루프 제어 (draw).md"
-    },
-    {
-      "basename": "추치 제어",
-      "path": "03. Permanent Notes/추치 제어.md"
-    },
-    {
-      "basename": "특성 근에 따른 과도 응답 특성",
-      "path": "03. Permanent Notes/특성 근에 따른 과도 응답 특성.md"
-    },
-    {
-      "basename": "1차 지연 제어계의 인디셜 과도 응답 특성",
-      "path": "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md"
     }
   ],
   "omittedPaths": [],
