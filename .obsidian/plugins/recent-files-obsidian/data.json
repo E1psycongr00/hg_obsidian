@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "정저항 회로",
+      "path": "03. Permanent Notes/정저항 회로.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "역회로",
+      "path": "03. Permanent Notes/역회로.md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "shrimp-rules",
       "path": "shrimp-rules.md"
-    },
-    {
-      "basename": "오차 상수",
-      "path": "03. Permanent Notes/오차 상수.md"
-    },
-    {
-      "basename": "정상 응답 오차",
-      "path": "03. Permanent Notes/정상 응답 오차.md"
     }
   ],
   "omittedPaths": [],
