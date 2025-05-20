@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/역회로 관계.md",
+                "file": "03. Permanent Notes/정저항 회로.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "역회로 관계"
+              "title": "정저항 회로"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/역회로 관계.md"
+                "file": "03. Permanent Notes/정저항 회로.md"
               },
               "icon": "lucide-info",
-              "title": "역회로 관계 의 파일 속성"
+              "title": "정저항 회로 의 파일 속성"
             }
           },
           {
@@ -288,8 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5,
-    "collapsed": true
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,11 +315,11 @@
   },
   "active": "4c4fdbc9f3e46417",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/역회로 관계.md",
     "Excalidraw/역회로 (draw).md",
     "Excalidraw/역회로 (draw).svg",
     "02. MOC/Home.md",
-    "03. Permanent Notes/역회로 관계.md",
-    "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/정저항 회로.md",
     "03. Permanent Notes/왜형률.md",
     "03. Permanent Notes/영상 임피던스.md",
