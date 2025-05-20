@@ -11,12 +11,15 @@
             "id": "4c4fdbc9f3e46417",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/역회로 (draw).md"
+                "file": "02. MOC/🏛️ 회로 이론.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "역회로 (draw)"
+              "icon": "lucide-file",
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -97,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/역회로 (draw).md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "역회로 (draw) 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -312,10 +315,11 @@
   },
   "active": "4c4fdbc9f3e46417",
   "lastOpenFiles": [
-    "02. MOC/Home.md",
-    "Excalidraw/역회로 (draw).md",
-    "03. Permanent Notes/역회로.md",
+    "03. Permanent Notes/최대 전력 전송.md",
     "02. MOC/🏛️ 회로 이론.md",
+    "03. Permanent Notes/역회로.md",
+    "Excalidraw/역회로 (draw).md",
+    "02. MOC/Home.md",
     "03. Permanent Notes/정저항 회로.md",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).md",
     "02. MOC/🏛️ 제어 공학.md",
@@ -339,7 +343,6 @@
     "Excalidraw/나이퀴스트 이득 여유 (draw).md",
     "Excalidraw/나이퀴스트 이득 여유 (draw).svg",
     "04. Practice Notes/나이퀴스트 선도.md",
-    "03. Permanent Notes/나이퀴스트 편각의 원리.md",
     "attachments/screenshot/Pasted image 20250519203532.png",
     "Rules/무제",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
