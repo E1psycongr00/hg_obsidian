@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "대칭 3상 교류 발전기 기본식",
+      "path": "04. Practice Notes/대칭 3상 교류 발전기 기본식.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "대칭 좌표법",
+      "path": "03. Permanent Notes/대칭 좌표법.md"
     },
     {
       "basename": "delta 결선",
@@ -91,14 +99,6 @@
     {
       "basename": "정상 가속도 편차 상수",
       "path": "03. Permanent Notes/정상 가속도 편차 상수.md"
-    },
-    {
-      "basename": "폐루프 전달 함수 (draw)",
-      "path": "Excalidraw/폐루프 전달 함수 (draw).md"
-    },
-    {
-      "basename": "정상 위치 편차 상수",
-      "path": "03. Permanent Notes/정상 위치 편차 상수.md"
     }
   ],
   "omittedPaths": [],
