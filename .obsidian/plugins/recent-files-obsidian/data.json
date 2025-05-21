@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "동기 전동기 V 곡선",
+      "path": "03. Permanent Notes/동기 전동기 V 곡선.md"
+    },
+    {
       "basename": "돌극형",
       "path": "03. Permanent Notes/돌극형.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "delta 결선 (draw)",
       "path": "Excalidraw/delta 결선 (draw).md"
-    },
-    {
-      "basename": "delta 결선 벡터 (draw)",
-      "path": "Excalidraw/delta 결선 벡터 (draw).md"
     }
   ],
   "omittedPaths": [],
