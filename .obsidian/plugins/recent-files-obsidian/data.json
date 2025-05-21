@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "동기 발전기 병렬 운전 조건",
-      "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
-    },
-    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "돌극형",
+      "path": "03. Permanent Notes/돌극형.md"
+    },
+    {
+      "basename": "동기 발전기 병렬 운전 조건",
+      "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
     },
     {
       "basename": "동기 발전기 권선법",
@@ -95,10 +99,6 @@
     {
       "basename": "delta 결선 벡터 (draw)",
       "path": "Excalidraw/delta 결선 벡터 (draw).md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     }
   ],
   "omittedPaths": [],
