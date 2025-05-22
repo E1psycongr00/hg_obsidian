@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "정류",
-      "path": "03. Permanent Notes/정류.md"
+      "basename": "직류 전동기",
+      "path": "03. Permanent Notes/직류 전동기.md"
     },
     {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "DC 발전기 병렬 운전",
+      "path": "03. Permanent Notes/DC 발전기 병렬 운전.md"
+    },
+    {
+      "basename": "정류",
+      "path": "03. Permanent Notes/정류.md"
     },
     {
       "basename": "직류 발전기 손실",
@@ -91,14 +99,6 @@
     {
       "basename": "변압기 병렬 운전 조건",
       "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
-    },
-    {
-      "basename": "유도 전동기 출력비",
-      "path": "03. Permanent Notes/유도 전동기 출력비.md"
-    },
-    {
-      "basename": "마력(HP)",
-      "path": "03. Permanent Notes/마력(HP).md"
     }
   ],
   "omittedPaths": [],
