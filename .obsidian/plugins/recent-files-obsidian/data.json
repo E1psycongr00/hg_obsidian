@@ -5,6 +5,26 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "변압기 보호 장치",
+      "path": "03. Permanent Notes/변압기 보호 장치.md"
+    },
+    {
+      "basename": "변압기 냉각 방식",
+      "path": "03. Permanent Notes/변압기 냉각 방식.md"
+    },
+    {
+      "basename": "변압기 호흡작용",
+      "path": "03. Permanent Notes/변압기 호흡작용.md"
+    },
+    {
+      "basename": "변압기 절연",
+      "path": "03. Permanent Notes/변압기 절연.md"
+    },
+    {
+      "basename": "변압기 무부하 시험",
+      "path": "03. Permanent Notes/변압기 무부하 시험.md"
+    },
+    {
       "basename": "변압기 효율",
       "path": "03. Permanent Notes/변압기 효율.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "왜형률",
       "path": "03. Permanent Notes/왜형률.md"
-    },
-    {
-      "basename": "대칭 3상 교류 발전기 기본식",
-      "path": "03. Permanent Notes/대칭 3상 교류 발전기 기본식.md"
-    },
-    {
-      "basename": "대칭 좌표법",
-      "path": "03. Permanent Notes/대칭 좌표법.md"
-    },
-    {
-      "basename": "2전력계법",
-      "path": "03. Permanent Notes/2전력계법.md"
-    },
-    {
-      "basename": "V 결선",
-      "path": "03. Permanent Notes/V 결선.md"
-    },
-    {
-      "basename": "n상 대칭 결선",
-      "path": "03. Permanent Notes/n상 대칭 결선.md"
     }
   ],
   "omittedPaths": [],
