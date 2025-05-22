@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/복권 발전기.md",
+                "file": "03. Permanent Notes/직권 전동기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "복권 발전기"
+              "title": "직권 전동기"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/복권 발전기.md"
+                "file": "03. Permanent Notes/직권 전동기.md"
               },
               "icon": "lucide-info",
-              "title": "복권 발전기 의 파일 속성"
+              "title": "직권 전동기 의 파일 속성"
             }
           },
           {
@@ -316,6 +316,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/분권 전동기.md",
+    "03. Permanent Notes/직권 발전기.md",
+    "03. Permanent Notes/복권 발전기.md",
     "03. Permanent Notes/단상 반파 정류 회로.md",
     "03. Permanent Notes/변압기 효율.md",
     "03. Permanent Notes/변압기의 철손.md",
@@ -338,9 +341,6 @@
     "03. Permanent Notes/변압기 냉각 방식.md",
     "03. Permanent Notes/변압기 호흡작용.md",
     "03. Permanent Notes/변압기 절연.md",
-    "03. Permanent Notes/직류 발전기의 유기 기전력.md",
-    "03. Permanent Notes/정자기장과 운동 루프 기전력.md",
-    "03. Permanent Notes/직류 발전기.md",
     "Excalidraw/배율기 (draw).svg",
     "Excalidraw/역회로 (draw).svg",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",

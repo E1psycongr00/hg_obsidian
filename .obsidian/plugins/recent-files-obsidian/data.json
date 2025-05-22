@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "복권 발전기",
-      "path": "03. Permanent Notes/복권 발전기.md"
+      "basename": "직권 전동기",
+      "path": "03. Permanent Notes/직권 전동기.md"
     },
     {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "분권 전동기",
+      "path": "03. Permanent Notes/분권 전동기.md"
+    },
+    {
+      "basename": "직권 발전기",
+      "path": "03. Permanent Notes/직권 발전기.md"
+    },
+    {
+      "basename": "복권 발전기",
+      "path": "03. Permanent Notes/복권 발전기.md"
     },
     {
       "basename": "단상 반파 정류 회로",
@@ -87,18 +99,6 @@
     {
       "basename": "변압기 절연",
       "path": "03. Permanent Notes/변압기 절연.md"
-    },
-    {
-      "basename": "직류 발전기의 유기 기전력",
-      "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
-    },
-    {
-      "basename": "직류 발전기",
-      "path": "03. Permanent Notes/직류 발전기.md"
-    },
-    {
-      "basename": "정류",
-      "path": "03. Permanent Notes/정류.md"
     }
   ],
   "omittedPaths": [],
