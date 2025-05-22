@@ -5,6 +5,14 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "변압기 효율",
+      "path": "03. Permanent Notes/변압기 효율.md"
+    },
+    {
+      "basename": "단권 변압기 V결선",
+      "path": "03. Permanent Notes/단권 변압기 V결선.md"
+    },
+    {
       "basename": "직류 발전기의 유기 기전력",
       "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "n상 대칭 결선",
       "path": "03. Permanent Notes/n상 대칭 결선.md"
-    },
-    {
-      "basename": "delta 결선",
-      "path": "03. Permanent Notes/delta 결선.md"
-    },
-    {
-      "basename": "Y 결선",
-      "path": "04. Practice Notes/Y 결선.md"
     }
   ],
   "omittedPaths": [],
