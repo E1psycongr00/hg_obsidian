@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "복권 발전기",
+      "path": "03. Permanent Notes/복권 발전기.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "정류",
       "path": "03. Permanent Notes/정류.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
     }
   ],
   "omittedPaths": [],

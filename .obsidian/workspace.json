@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md",
+                "file": "03. Permanent Notes/복권 발전기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기 기기"
+              "title": "복권 발전기"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md"
+                "file": "03. Permanent Notes/복권 발전기.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기 기기 의 파일 속성"
+              "title": "복권 발전기 의 파일 속성"
             }
           },
           {
@@ -315,8 +315,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/단상 반파 정류 회로.md",
     "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/단상 반파 정류 회로.md",
     "03. Permanent Notes/변압기 효율.md",
     "03. Permanent Notes/변압기의 철손.md",
     "03. Permanent Notes/변압기 전압 변동률.md",
