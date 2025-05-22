@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "유도 전동기와 토크 특성",
-      "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
-    },
-    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "단상 반파 정류 회로",
+      "path": "03. Permanent Notes/단상 반파 정류 회로.md"
+    },
+    {
+      "basename": "변압기 효율",
+      "path": "03. Permanent Notes/변압기 효율.md"
+    },
+    {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
+      "basename": "변압기 전압 변동률",
+      "path": "03. Permanent Notes/변압기 전압 변동률.md"
+    },
+    {
+      "basename": "변압기 단락 시험",
+      "path": "03. Permanent Notes/변압기 단락 시험.md"
+    },
+    {
+      "basename": "변압기 무부하 시험",
+      "path": "03. Permanent Notes/변압기 무부하 시험.md"
+    },
+    {
+      "basename": "유도 전동기와 토크 특성",
+      "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
     },
     {
       "basename": "슬립",
@@ -61,14 +85,6 @@
       "path": "03. Permanent Notes/변압기 절연.md"
     },
     {
-      "basename": "변압기 무부하 시험",
-      "path": "03. Permanent Notes/변압기 무부하 시험.md"
-    },
-    {
-      "basename": "변압기 효율",
-      "path": "03. Permanent Notes/변압기 효율.md"
-    },
-    {
       "basename": "직류 발전기의 유기 기전력",
       "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "배율기 (draw)",
-      "path": "Excalidraw/배율기 (draw).md"
-    },
-    {
-      "basename": "정재파",
-      "path": "04. Practice Notes/정재파.md"
-    },
-    {
-      "basename": "전파 정수",
-      "path": "03. Permanent Notes/전파 정수.md"
-    },
-    {
-      "basename": "분포 정수 회로",
-      "path": "03. Permanent Notes/분포 정수 회로.md"
     }
   ],
   "omittedPaths": [],
