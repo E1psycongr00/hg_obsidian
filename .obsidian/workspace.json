@@ -28,14 +28,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md"
+                "file": "Excalidraw/감자 기자력 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-05-23 00.12.48.excalidraw"
+              "title": "감자 기자력 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md"
+                "file": "03. Permanent Notes/직류기 전기자 반작용.md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-05-23 00.12.48.excalidraw 의 파일 속성"
+              "title": "직류기 전기자 반작용 의 파일 속성"
             }
           },
           {
@@ -277,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md",
+                "file": "03. Permanent Notes/직류기 전기자 반작용.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-05-23 00.12.48.excalidraw 의 개요"
+              "title": "직류기 전기자 반작용 의 개요"
             }
           },
           {
@@ -325,12 +324,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "fed88cc5d072f90e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.svg",
-    "02. MOC/Home.md",
-    "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md",
+    "Excalidraw/감자 기자력 (draw).md",
     "03. Permanent Notes/직류기 전기자 반작용.md",
+    "Excalidraw/감자 기자력 (draw).svg",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/수하 특성.md",
     "03. Permanent Notes/직권 전동기.md",
@@ -363,7 +362,6 @@
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "Excalidraw/노튼의 정리 등가 회로 (draw).svg",
     "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
-    "attachments/screenshot/Pasted image 20250517175756.png",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
