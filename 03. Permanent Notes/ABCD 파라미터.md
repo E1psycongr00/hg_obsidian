@@ -21,7 +21,7 @@ ABCD 파라미터는 전기전자공학에서 [[4단자망#4단자망이란 무�
 
 #### 기본 방정식
 
-![[ABCD 파라미터 기본 모형 (draw).svg|500]]
+![[Excalidraw/ABCD 파라미터 기본 모형 (draw).svg|500]]
 
 ABCD 파라미터는 다음과 같은 2개의 방정식을 사용한다.
 
@@ -85,17 +85,17 @@ $$
 
 #### 직렬 소자
 
-![[Pasted image 20250221144729.png]]
+![[attachments/screenshot/Pasted image 20250221144729.png]]
 
 #### 병렬 소자
 
-![[Pasted image 20250221144734.png]]
+![[attachments/screenshot/Pasted image 20250221144734.png]]
 
 ### T형과  pi형 회로
 
 #### T형 회로
 
-![[T 형 회로 (draw).svg|400]]
+![[Excalidraw/T 형 회로 (draw).svg|400]]
 $$
 \begin{bmatrix}
 1 & Z_{1} \\

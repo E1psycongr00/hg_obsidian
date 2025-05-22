@@ -1,28 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "배율기",
-      "path": "03. Permanent Notes/배율기.md"
-    },
-    {
-      "basename": "배율기 (draw)",
-      "path": "Excalidraw/배율기 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "ABCD 파라미터",
+      "path": "03. Permanent Notes/ABCD 파라미터.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
-      "basename": "영상 전달 정수",
-      "path": "03. Permanent Notes/영상 전달 정수.md"
+      "basename": "2단자망",
+      "path": "03. Permanent Notes/2단자망.md"
     },
     {
-      "basename": "2전력계법",
-      "path": "03. Permanent Notes/2전력계법.md"
+      "basename": "왜형률",
+      "path": "03. Permanent Notes/왜형률.md"
     },
     {
       "basename": "대칭 3상 교류 발전기 기본식",
@@ -33,12 +25,44 @@
       "path": "03. Permanent Notes/대칭 좌표법.md"
     },
     {
+      "basename": "2전력계법",
+      "path": "03. Permanent Notes/2전력계법.md"
+    },
+    {
+      "basename": "V 결선",
+      "path": "03. Permanent Notes/V 결선.md"
+    },
+    {
+      "basename": "n상 대칭 결선",
+      "path": "03. Permanent Notes/n상 대칭 결선.md"
+    },
+    {
+      "basename": "delta 결선",
+      "path": "03. Permanent Notes/delta 결선.md"
+    },
+    {
+      "basename": "Y 결선",
+      "path": "04. Practice Notes/Y 결선.md"
+    },
+    {
+      "basename": "인덕턴스 결합 회로",
+      "path": "03. Permanent Notes/인덕턴스 결합 회로.md"
+    },
+    {
+      "basename": "3전류계법",
+      "path": "03. Permanent Notes/3전류계법.md"
+    },
+    {
       "basename": "노튼 정리",
       "path": "04. Practice Notes/노튼 정리.md"
     },
     {
       "basename": "테브난 정리",
       "path": "03. Permanent Notes/테브난 정리.md"
+    },
+    {
+      "basename": "3전압계법",
+      "path": "03. Permanent Notes/3전압계법.md"
     },
     {
       "basename": "최대 전력 전송",
@@ -53,52 +77,28 @@
       "path": "03. Permanent Notes/휘스톤 브릿지.md"
     },
     {
+      "basename": "분류기",
+      "path": "03. Permanent Notes/분류기.md"
+    },
+    {
+      "basename": "배율기",
+      "path": "03. Permanent Notes/배율기.md"
+    },
+    {
+      "basename": "배율기 (draw)",
+      "path": "Excalidraw/배율기 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "영상 전달 정수",
+      "path": "03. Permanent Notes/영상 전달 정수.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
-    },
-    {
-      "basename": "동기 전동기 V 곡선",
-      "path": "03. Permanent Notes/동기 전동기 V 곡선.md"
-    },
-    {
-      "basename": "돌극형",
-      "path": "03. Permanent Notes/돌극형.md"
-    },
-    {
-      "basename": "동기 발전기 병렬 운전 조건",
-      "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
-    },
-    {
-      "basename": "동기 발전기 권선법",
-      "path": "03. Permanent Notes/동기 발전기 권선법.md"
-    },
-    {
-      "basename": "직류 발전기의 유기 기전력",
-      "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
-    },
-    {
-      "basename": "분권 발전기",
-      "path": "03. Permanent Notes/분권 발전기.md"
-    },
-    {
-      "basename": "분포 정수 회로",
-      "path": "03. Permanent Notes/분포 정수 회로.md"
-    },
-    {
-      "basename": "전파 정수",
-      "path": "03. Permanent Notes/전파 정수.md"
-    },
-    {
-      "basename": "Z형 파라미터",
-      "path": "03. Permanent Notes/Z형 파라미터.md"
-    },
-    {
-      "basename": "정저항 회로",
-      "path": "03. Permanent Notes/정저항 회로.md"
-    },
-    {
-      "basename": "역회로 관계",
-      "path": "03. Permanent Notes/역회로 관계.md"
     }
   ],
   "omittedPaths": [],

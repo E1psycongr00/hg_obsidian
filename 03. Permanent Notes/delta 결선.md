@@ -15,11 +15,11 @@ completed: true
 
 ### 모형
 
-![[delta 결선 (draw).svg|400]]
+![[Excalidraw/delta 결선 (draw).svg|400]]
 
 ### 선간 전압,전류와 상전압,전류 관계
 
-![[delta 결선 벡터 (draw).svg|400]]
+![[Excalidraw/delta 결선 벡터 (draw).svg|400]]
 
 - $V_{l} = V_{p}$
 - $V_{l} = \sqrt{ 3 }V_{p} \angle -30 \degree$
