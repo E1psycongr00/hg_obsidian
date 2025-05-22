@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "유도 전동기 출력비",
-      "path": "03. Permanent Notes/유도 전동기 출력비.md"
-    },
-    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
-      "basename": "마력(HP)",
-      "path": "03. Permanent Notes/마력(HP).md"
+      "basename": "단권 변압기 V결선",
+      "path": "03. Permanent Notes/단권 변압기 V결선.md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "농형 유도 전동기",
-      "path": "03. Permanent Notes/농형 유도 전동기.md"
     },
     {
       "basename": "변압기 부하 분담",
@@ -27,6 +19,18 @@
     {
       "basename": "변압기 병렬 운전 조건",
       "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
+    },
+    {
+      "basename": "유도 전동기 출력비",
+      "path": "03. Permanent Notes/유도 전동기 출력비.md"
+    },
+    {
+      "basename": "마력(HP)",
+      "path": "03. Permanent Notes/마력(HP).md"
+    },
+    {
+      "basename": "농형 유도 전동기",
+      "path": "03. Permanent Notes/농형 유도 전동기.md"
     },
     {
       "basename": "단권 변압기",
@@ -55,10 +59,6 @@
     {
       "basename": "변압기 효율",
       "path": "03. Permanent Notes/변압기 효율.md"
-    },
-    {
-      "basename": "단권 변압기 V결선",
-      "path": "03. Permanent Notes/단권 변압기 V결선.md"
     },
     {
       "basename": "직류 발전기의 유기 기전력",
