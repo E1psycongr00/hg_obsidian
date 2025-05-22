@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "동기 발전기 권선법",
+      "path": "03. Permanent Notes/동기 발전기 권선법.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -13,8 +13,12 @@
       "path": "03. Permanent Notes/동기 발전기 특성 곡선.md"
     },
     {
-      "basename": "동기 발전기 권선법",
-      "path": "03. Permanent Notes/동기 발전기 권선법.md"
+      "basename": "동기 발전기 유기 기전력",
+      "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "동기 와트",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 전압 변동률",
       "path": "03. Permanent Notes/변압기 전압 변동률.md"
-    },
-    {
-      "basename": "변압기 단락 시험",
-      "path": "03. Permanent Notes/변압기 단락 시험.md"
     }
   ],
   "omittedPaths": [],
