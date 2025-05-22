@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-05-23 00.12.48.excalidraw",
+      "path": "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "직류기 전기자 반작용",
       "path": "03. Permanent Notes/직류기 전기자 반작용.md"
     },
@@ -65,10 +73,6 @@
       "path": "03. Permanent Notes/단권 변압기 V결선.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "변압기 부하 분담",
       "path": "03. Permanent Notes/변압기 부하 분담.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 보호 장치",
       "path": "03. Permanent Notes/변압기 보호 장치.md"
-    },
-    {
-      "basename": "변압기 냉각 방식",
-      "path": "03. Permanent Notes/변압기 냉각 방식.md"
     }
   ],
   "omittedPaths": [],

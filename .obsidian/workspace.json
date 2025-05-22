@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "직류기 전기자 반작용"
             }
+          },
+          {
+            "id": "fed88cc5d072f90e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-05-23 00.12.48.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +113,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/직류기 전기자 반작용.md"
+                "file": "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "직류기 전기자 반작용 의 파일 속성"
+              "title": "Drawing 2025-05-23 00.12.48.excalidraw 의 파일 속성"
             }
           },
           {
@@ -264,13 +277,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/직류기 전기자 반작용.md",
+                "file": "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "직류기 전기자 반작용 의 개요"
+              "title": "Drawing 2025-05-23 00.12.48.excalidraw 의 개요"
             }
           },
           {
@@ -312,10 +325,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fed88cc5d072f90e",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전기 기기.md",
+    "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.svg",
+    "02. MOC/Home.md",
+    "Excalidraw/Drawing 2025-05-23 00.12.48.excalidraw.md",
     "03. Permanent Notes/직류기 전기자 반작용.md",
+    "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/수하 특성.md",
     "03. Permanent Notes/직권 전동기.md",
     "03. Permanent Notes/분권 전동기.md",
@@ -331,15 +347,12 @@
     "03. Permanent Notes/슬립.md",
     "03. Permanent Notes/단권 변압기 V결선.md",
     "03. Permanent Notes/단권 변압기.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/변압기 부하 분담.md",
     "03. Permanent Notes/변압기 병렬 운전 조건.md",
     "03. Permanent Notes/유도 전동기 출력비.md",
     "03. Permanent Notes/농형 유도 전동기.md",
     "03. Permanent Notes/마력(HP).md",
     "04. Practice Notes/권선형 유도 전동기.md",
-    "03. Permanent Notes/변압기 감극성과 가극성.md",
-    "03. Permanent Notes/변압기 보호 장치.md",
     "Excalidraw/배율기 (draw).svg",
     "Excalidraw/역회로 (draw).svg",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",
