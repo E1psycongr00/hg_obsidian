@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "정류",
-      "path": "03. Permanent Notes/정류.md"
-    },
-    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "직류 발전기의 유기 기전력",
+      "path": "03. Permanent Notes/직류 발전기의 유기 기전력.md"
+    },
+    {
+      "basename": "직류 발전기",
+      "path": "03. Permanent Notes/직류 발전기.md"
+    },
+    {
+      "basename": "정류",
+      "path": "03. Permanent Notes/정류.md"
     },
     {
       "basename": "마력(HP)",
@@ -91,14 +99,6 @@
     {
       "basename": "Y 결선",
       "path": "04. Practice Notes/Y 결선.md"
-    },
-    {
-      "basename": "인덕턴스 결합 회로",
-      "path": "03. Permanent Notes/인덕턴스 결합 회로.md"
-    },
-    {
-      "basename": "3전류계법",
-      "path": "03. Permanent Notes/3전류계법.md"
     }
   ],
   "omittedPaths": [],
