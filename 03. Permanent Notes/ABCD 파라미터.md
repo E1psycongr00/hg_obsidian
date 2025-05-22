@@ -113,7 +113,7 @@ $$
 
 #### pi형 회로
 
-![[pi형 회로 (draw).svg|400]]
+![[Excalidraw/pi형 회로 (draw).svg|400]]
 
 $$
 \begin{bmatrix}

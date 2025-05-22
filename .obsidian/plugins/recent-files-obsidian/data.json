@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "ABCD 파라미터",
-      "path": "03. Permanent Notes/ABCD 파라미터.md"
+      "basename": "정류",
+      "path": "03. Permanent Notes/정류.md"
+    },
+    {
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "마력(HP)",
+      "path": "03. Permanent Notes/마력(HP).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "배율기 (draw)",
+      "path": "Excalidraw/배율기 (draw).md"
+    },
+    {
+      "basename": "정재파",
+      "path": "04. Practice Notes/정재파.md"
+    },
+    {
+      "basename": "전파 정수",
+      "path": "03. Permanent Notes/전파 정수.md"
+    },
+    {
+      "basename": "분포 정수 회로",
+      "path": "03. Permanent Notes/분포 정수 회로.md"
+    },
+    {
+      "basename": "영상 전달 정수",
+      "path": "03. Permanent Notes/영상 전달 정수.md"
+    },
+    {
+      "basename": "영상 임피던스",
+      "path": "03. Permanent Notes/영상 임피던스.md"
+    },
+    {
+      "basename": "Y형 파라미터",
+      "path": "03. Permanent Notes/Y형 파라미터.md"
+    },
+    {
+      "basename": "Z형 파라미터",
+      "path": "03. Permanent Notes/Z형 파라미터.md"
+    },
+    {
+      "basename": "ABCD 파라미터",
+      "path": "03. Permanent Notes/ABCD 파라미터.md"
     },
     {
       "basename": "2단자망",
@@ -51,54 +99,6 @@
     {
       "basename": "3전류계법",
       "path": "03. Permanent Notes/3전류계법.md"
-    },
-    {
-      "basename": "노튼 정리",
-      "path": "04. Practice Notes/노튼 정리.md"
-    },
-    {
-      "basename": "테브난 정리",
-      "path": "03. Permanent Notes/테브난 정리.md"
-    },
-    {
-      "basename": "3전압계법",
-      "path": "03. Permanent Notes/3전압계법.md"
-    },
-    {
-      "basename": "최대 전력 전송",
-      "path": "03. Permanent Notes/최대 전력 전송.md"
-    },
-    {
-      "basename": "칼로리",
-      "path": "03. Permanent Notes/칼로리.md"
-    },
-    {
-      "basename": "휘스톤 브릿지",
-      "path": "03. Permanent Notes/휘스톤 브릿지.md"
-    },
-    {
-      "basename": "분류기",
-      "path": "03. Permanent Notes/분류기.md"
-    },
-    {
-      "basename": "배율기",
-      "path": "03. Permanent Notes/배율기.md"
-    },
-    {
-      "basename": "배율기 (draw)",
-      "path": "Excalidraw/배율기 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "영상 전달 정수",
-      "path": "03. Permanent Notes/영상 전달 정수.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
     }
   ],
   "omittedPaths": [],
