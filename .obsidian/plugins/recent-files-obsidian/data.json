@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "변압기 부하 분담",
+      "path": "03. Permanent Notes/변압기 부하 분담.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "변압기 병렬 운전 조건",
+      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
+    },
+    {
+      "basename": "단권 변압기",
+      "path": "03. Permanent Notes/단권 변압기.md"
     },
     {
       "basename": "변압기 보호 장치",
@@ -87,18 +99,6 @@
     {
       "basename": "Z형 파라미터",
       "path": "03. Permanent Notes/Z형 파라미터.md"
-    },
-    {
-      "basename": "ABCD 파라미터",
-      "path": "03. Permanent Notes/ABCD 파라미터.md"
-    },
-    {
-      "basename": "2단자망",
-      "path": "03. Permanent Notes/2단자망.md"
-    },
-    {
-      "basename": "왜형률",
-      "path": "03. Permanent Notes/왜형률.md"
     }
   ],
   "omittedPaths": [],
