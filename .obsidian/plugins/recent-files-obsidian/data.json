@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "정류",
+      "path": "03. Permanent Notes/정류.md"
+    },
+    {
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "직류 발전기 손실",
+      "path": "03. Permanent Notes/직류 발전기 손실.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "직류기 전기자 반작용",
       "path": "03. Permanent Notes/직류기 전기자 반작용.md"
     },
@@ -9,16 +25,8 @@
       "path": "Excalidraw/교차 기자력 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "감자 기자력 (draw)",
       "path": "Excalidraw/감자 기자력 (draw).md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
       "basename": "수하 특성",
@@ -91,14 +99,6 @@
     {
       "basename": "마력(HP)",
       "path": "03. Permanent Notes/마력(HP).md"
-    },
-    {
-      "basename": "농형 유도 전동기",
-      "path": "03. Permanent Notes/농형 유도 전동기.md"
-    },
-    {
-      "basename": "단권 변압기",
-      "path": "03. Permanent Notes/단권 변압기.md"
     }
   ],
   "omittedPaths": [],
