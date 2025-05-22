@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "유도 전동기 출력비",
+      "path": "03. Permanent Notes/유도 전동기 출력비.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "영상 임피던스",
       "path": "03. Permanent Notes/영상 임피던스.md"
-    },
-    {
-      "basename": "Y형 파라미터",
-      "path": "03. Permanent Notes/Y형 파라미터.md"
     }
   ],
   "omittedPaths": [],
