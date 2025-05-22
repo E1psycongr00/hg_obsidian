@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "변압기 부하 분담",
-      "path": "03. Permanent Notes/변압기 부하 분담.md"
-    },
-    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "마력(HP)",
+      "path": "03. Permanent Notes/마력(HP).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "농형 유도 전동기",
+      "path": "03. Permanent Notes/농형 유도 전동기.md"
+    },
+    {
+      "basename": "변압기 부하 분담",
+      "path": "03. Permanent Notes/변압기 부하 분담.md"
     },
     {
       "basename": "변압기 병렬 운전 조건",
@@ -57,14 +69,6 @@
       "path": "03. Permanent Notes/정류.md"
     },
     {
-      "basename": "마력(HP)",
-      "path": "03. Permanent Notes/마력(HP).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Y형 파라미터",
       "path": "03. Permanent Notes/Y형 파라미터.md"
-    },
-    {
-      "basename": "Z형 파라미터",
-      "path": "03. Permanent Notes/Z형 파라미터.md"
     }
   ],
   "omittedPaths": [],
