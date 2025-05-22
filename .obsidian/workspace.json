@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 제어 공학.md",
+                "file": "03. Permanent Notes/직류기 전기자 반작용.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 제어 공학 의 개요"
+              "title": "직류기 전기자 반작용 의 개요"
             }
           },
           {
@@ -283,8 +283,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
