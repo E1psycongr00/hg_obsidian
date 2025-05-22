@@ -33,6 +33,18 @@
               "icon": "excalidraw-icon",
               "title": "감자 기자력 (draw)"
             }
+          },
+          {
+            "id": "f81e04b2302ca8f0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/교차 기자력 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "교차 기자력 (draw)"
+            }
           }
         ]
       }
@@ -295,7 +307,8 @@
               "title": "Smart composer chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -326,10 +339,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/감자 기자력 (draw).md",
-    "03. Permanent Notes/직류기 전기자 반작용.md",
-    "Excalidraw/감자 기자력 (draw).svg",
+    "Excalidraw/교차 기자력 (draw).md",
     "02. MOC/Home.md",
+    "03. Permanent Notes/직류기 전기자 반작용.md",
+    "Excalidraw/감자 기자력 (draw).md",
+    "Excalidraw/감자 기자력 (draw).svg",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/수하 특성.md",
     "03. Permanent Notes/직권 전동기.md",

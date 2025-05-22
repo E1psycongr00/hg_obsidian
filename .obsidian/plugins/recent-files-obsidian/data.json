@@ -5,12 +5,16 @@
       "path": "03. Permanent Notes/직류기 전기자 반작용.md"
     },
     {
-      "basename": "감자 기자력 (draw)",
-      "path": "Excalidraw/감자 기자력 (draw).md"
+      "basename": "교차 기자력 (draw)",
+      "path": "Excalidraw/교차 기자력 (draw).md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "감자 기자력 (draw)",
+      "path": "Excalidraw/감자 기자력 (draw).md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -95,10 +99,6 @@
     {
       "basename": "단권 변압기",
       "path": "03. Permanent Notes/단권 변압기.md"
-    },
-    {
-      "basename": "변압기 보호 장치",
-      "path": "03. Permanent Notes/변압기 보호 장치.md"
     }
   ],
   "omittedPaths": [],
