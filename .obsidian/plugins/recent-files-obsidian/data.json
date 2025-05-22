@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "직류 전동기",
-      "path": "03. Permanent Notes/직류 전동기.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "동기 발전기 특성 곡선",
+      "path": "03. Permanent Notes/동기 발전기 특성 곡선.md"
+    },
+    {
+      "basename": "동기 발전기 권선법",
+      "path": "03. Permanent Notes/동기 발전기 권선법.md"
+    },
+    {
+      "basename": "동기 와트",
+      "path": "03. Permanent Notes/동기 와트.md"
+    },
+    {
+      "basename": "동기 임피던스",
+      "path": "03. Permanent Notes/동기 임피던스.md"
+    },
+    {
+      "basename": "직류 전동기 전압을 이용한 속도 제어",
+      "path": "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md"
+    },
+    {
+      "basename": "직류 전동기 토크와 회전수",
+      "path": "03. Permanent Notes/직류 전동기 토크와 회전수.md"
+    },
+    {
+      "basename": "직류 전동기",
+      "path": "03. Permanent Notes/직류 전동기.md"
     },
     {
       "basename": "DC 발전기 병렬 운전",
@@ -19,10 +47,6 @@
     {
       "basename": "직류 발전기 손실",
       "path": "03. Permanent Notes/직류 발전기 손실.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "직류기 전기자 반작용",
@@ -75,30 +99,6 @@
     {
       "basename": "변압기 단락 시험",
       "path": "03. Permanent Notes/변압기 단락 시험.md"
-    },
-    {
-      "basename": "변압기 무부하 시험",
-      "path": "03. Permanent Notes/변압기 무부하 시험.md"
-    },
-    {
-      "basename": "유도 전동기와 토크 특성",
-      "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
-    },
-    {
-      "basename": "슬립",
-      "path": "03. Permanent Notes/슬립.md"
-    },
-    {
-      "basename": "단권 변압기 V결선",
-      "path": "03. Permanent Notes/단권 변압기 V결선.md"
-    },
-    {
-      "basename": "변압기 부하 분담",
-      "path": "03. Permanent Notes/변압기 부하 분담.md"
-    },
-    {
-      "basename": "변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/변압기 병렬 운전 조건.md"
     }
   ],
   "omittedPaths": [],
