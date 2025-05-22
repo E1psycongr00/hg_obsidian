@@ -14,6 +14,6 @@
   "propertiesInDocument": "source",
   "livePreview": true,
   "useMarkdownLinks": false,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "userIgnoreFilters": null
 }

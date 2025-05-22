@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
-                "mode": "preview",
+                "file": "02. MOC/🏛️ 회로 이론.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "🏛️ 회로 이론"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "02. MOC/🏛️ 회로 이론.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "🏛️ 회로 이론 의 파일 속성"
             }
           },
           {
@@ -315,6 +315,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/3전압계법.md",
+    "02. MOC/🏛️ 회로 이론.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/동기 전동기 V 곡선.md",
     "03. Permanent Notes/DC 발전기 병렬 운전.md",
@@ -332,15 +335,12 @@
     "03. Permanent Notes/직류 발전기 손실.md",
     "03. Permanent Notes/타여자 전동기.md",
     "03. Permanent Notes/분권 발전기.md",
-    "02. MOC/Home.md",
     "04. Practice Notes/유황 곡선.md",
     "04. Practice Notes/나이퀴스트 작도법.md",
     "04. Practice Notes/정재파.md",
     "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
     "04. Practice Notes/적산 유량 곡선.md",
     "04. Practice Notes/노튼 정리.md",
-    "04. Practice Notes/나이퀴스트 선도.md",
-    "03. Permanent Notes/분포 정수 회로.md",
     "Excalidraw/역회로 (draw).svg",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",
     "Excalidraw/나이퀴스트 이득 여유 (draw).svg",
