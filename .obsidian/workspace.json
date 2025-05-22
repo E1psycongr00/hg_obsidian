@@ -21,30 +21,6 @@
               "icon": "lucide-file",
               "title": "직류기 전기자 반작용"
             }
-          },
-          {
-            "id": "fed88cc5d072f90e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/감자 기자력 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "감자 기자력 (draw)"
-            }
-          },
-          {
-            "id": "f81e04b2302ca8f0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/교차 기자력 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "교차 기자력 (draw)"
-            }
           }
         ]
       }
@@ -343,6 +319,7 @@
     "02. MOC/Home.md",
     "03. Permanent Notes/직류기 전기자 반작용.md",
     "Excalidraw/감자 기자력 (draw).md",
+    "Excalidraw/교차 기자력 (draw).svg",
     "Excalidraw/감자 기자력 (draw).svg",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/수하 특성.md",
@@ -365,7 +342,6 @@
     "03. Permanent Notes/유도 전동기 출력비.md",
     "03. Permanent Notes/농형 유도 전동기.md",
     "03. Permanent Notes/마력(HP).md",
-    "04. Practice Notes/권선형 유도 전동기.md",
     "Excalidraw/배율기 (draw).svg",
     "Excalidraw/역회로 (draw).svg",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",
@@ -375,7 +351,6 @@
     "Excalidraw/폐루프 전달 함수 (draw).svg",
     "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "Excalidraw/노튼의 정리 등가 회로 (draw).svg",
-    "Excalidraw/15년 회로이론 70번 테브난 회로 구성 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
