@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/디프 슬롯 농형 유도 전동기.md",
+                "file": "02. MOC/🏛️ 전기 기기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "디프 슬롯 농형 유도 전동기"
+              "title": "🏛️ 전기 기기"
             }
           },
           {
@@ -114,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/디프 슬롯 농형 유도 전동기.md"
+                "file": "02. MOC/🏛️ 전기 기기.md"
               },
               "icon": "lucide-info",
-              "title": "디프 슬롯 농형 유도 전동기 의 파일 속성"
+              "title": "🏛️ 전기 기기 의 파일 속성"
             }
           },
           {
@@ -278,13 +278,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/디프 슬롯 농형 유도 전동기.md",
+                "file": "02. MOC/🏛️ 전기 기기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "디프 슬롯 농형 유도 전동기 의 개요"
+              "title": "🏛️ 전기 기기 의 개요"
             }
           },
           {
@@ -329,8 +329,8 @@
   },
   "active": "43f202a2dc019a4e",
   "lastOpenFiles": [
+    "03. Permanent Notes/디프 슬롯 농형 유도 전동기.md",
     "02. MOC/🏛️ 전기 기기.md",
-    "04. Practice Notes/디프 슬롯 농형 유도 전동기.md",
     "03. Permanent Notes/이중 농형 유도 전동기.md",
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/유도 전압 조정기.md",
