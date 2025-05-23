@@ -282,7 +282,8 @@
               "title": "Smart composer chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
