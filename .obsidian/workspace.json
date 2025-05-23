@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "유도 전압 조정기"
             }
-          },
-          {
-            "id": "ed7ed4661f922c69",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/유도 전압 조정기 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "유도 전압 조정기 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/유도 전압 조정기 (draw).md"
+                "file": "04. Practice Notes/유도 전압 조정기.md"
               },
               "icon": "lucide-info",
-              "title": "유도 전압 조정기 (draw) 의 파일 속성"
+              "title": "유도 전압 조정기 의 파일 속성"
             }
           },
           {
@@ -276,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/유도 전압 조정기 (draw).md",
+                "file": "04. Practice Notes/유도 전압 조정기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "유도 전압 조정기 (draw) 의 개요"
+              "title": "유도 전압 조정기 의 개요"
             }
           },
           {
@@ -325,11 +312,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ed7ed4661f922c69",
+  "active": "43f202a2dc019a4e",
   "lastOpenFiles": [
+    "Excalidraw/유도 전압 조정기 (draw).md",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/유도 전압 조정기 (draw).md",
     "04. Practice Notes/유도 전압 조정기.md",
     "02. MOC/🏛️ 전기 기기.md",
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
@@ -363,7 +350,6 @@
     "Excalidraw/나이퀴스트 이득 여유 (draw).svg",
     "attachments/screenshot/Pasted image 20250519203532.png",
     "Rules/무제",
-    "Excalidraw/폐루프 전달 함수 (draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
