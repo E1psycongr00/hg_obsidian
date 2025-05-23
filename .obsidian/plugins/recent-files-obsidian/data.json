@@ -5,6 +5,14 @@
       "path": "03. Permanent Notes/동기 발전기 특성 곡선.md"
     },
     {
+      "basename": "동기 발전기 무부하 특성 곡선 (draw)",
+      "path": "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -57,10 +65,6 @@
       "path": "03. Permanent Notes/동기 발전기 유기 기전력.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "동기 와트",
       "path": "03. Permanent Notes/동기 와트.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "교차 기자력 (draw)",
       "path": "Excalidraw/교차 기자력 (draw).md"
-    },
-    {
-      "basename": "감자 기자력 (draw)",
-      "path": "Excalidraw/감자 기자력 (draw).md"
     }
   ],
   "omittedPaths": [],
