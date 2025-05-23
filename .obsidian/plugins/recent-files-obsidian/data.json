@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "정류",
+      "path": "03. Permanent Notes/정류.md"
+    },
+    {
+      "basename": "복권 발전기",
+      "path": "03. Permanent Notes/복권 발전기.md"
+    },
+    {
+      "basename": "직권 전동기",
+      "path": "03. Permanent Notes/직권 전동기.md"
+    },
+    {
+      "basename": "동기기의 단락비 특성",
+      "path": "03. Permanent Notes/동기기의 단락비 특성.md"
+    },
+    {
+      "basename": "%Z법",
+      "path": "03. Permanent Notes/%Z법.md"
+    },
+    {
       "basename": "동기 발전기 권선법",
       "path": "03. Permanent Notes/동기 발전기 권선법.md"
     },
     {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
+      "basename": "동기 전동기 분포권 계수 유도 과정",
+      "path": "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md"
     },
     {
       "basename": "동기 발전기 특성 곡선",
@@ -45,10 +69,6 @@
       "path": "03. Permanent Notes/DC 발전기 병렬 운전.md"
     },
     {
-      "basename": "정류",
-      "path": "03. Permanent Notes/정류.md"
-    },
-    {
       "basename": "직류 발전기 손실",
       "path": "03. Permanent Notes/직류 발전기 손실.md"
     },
@@ -69,10 +89,6 @@
       "path": "03. Permanent Notes/수하 특성.md"
     },
     {
-      "basename": "직권 전동기",
-      "path": "03. Permanent Notes/직권 전동기.md"
-    },
-    {
       "basename": "분권 전동기",
       "path": "03. Permanent Notes/분권 전동기.md"
     },
@@ -81,24 +97,8 @@
       "path": "03. Permanent Notes/직권 발전기.md"
     },
     {
-      "basename": "복권 발전기",
-      "path": "03. Permanent Notes/복권 발전기.md"
-    },
-    {
       "basename": "단상 반파 정류 회로",
       "path": "03. Permanent Notes/단상 반파 정류 회로.md"
-    },
-    {
-      "basename": "변압기 효율",
-      "path": "03. Permanent Notes/변압기 효율.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
-    },
-    {
-      "basename": "변압기 전압 변동률",
-      "path": "03. Permanent Notes/변압기 전압 변동률.md"
     }
   ],
   "omittedPaths": [],
