@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "동기 발전기의 전기자 반작용",
+      "path": "03. Permanent Notes/동기 발전기의 전기자 반작용.md"
+    },
+    {
       "basename": "정류",
       "path": "03. Permanent Notes/정류.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "직권 발전기",
       "path": "03. Permanent Notes/직권 발전기.md"
-    },
-    {
-      "basename": "단상 반파 정류 회로",
-      "path": "03. Permanent Notes/단상 반파 정류 회로.md"
     }
   ],
   "omittedPaths": [],
