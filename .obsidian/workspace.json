@@ -282,8 +282,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -312,10 +311,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1aaa38f27764a613",
   "lastOpenFiles": [
-    "03. Permanent Notes/동기 전동기의 장단점.md",
+    "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/동기 전동기의 장단점.md",
     "03. Permanent Notes/동기 발전기 단락 전류.md",
     "03. Permanent Notes/동기기 난조.md",
     "03. Permanent Notes/동기기의 단락비 특성.md",
@@ -341,7 +341,6 @@
     "03. Permanent Notes/동기 임피던스.md",
     "03. Permanent Notes/직류 전동기 전압을 이용한 속도 제어.md",
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
-    "03. Permanent Notes/직류 전동기.md",
     "Excalidraw/교차 기자력 (draw).svg",
     "Excalidraw/감자 기자력 (draw).svg",
     "Excalidraw/배율기 (draw).svg",
