@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "동기기의 단락비 특성"
             }
+          },
+          {
+            "id": "cc85b0c5b1d1ffd3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/단락비 특성 마인드 맵 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "단락비 특성 마인드 맵 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/동기기의 단락비 특성.md"
+                "file": "Excalidraw/단락비 특성 마인드 맵 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "동기기의 단락비 특성 의 파일 속성"
+              "title": "단락비 특성 마인드 맵 (draw) 의 파일 속성"
             }
           },
           {
@@ -263,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/동기기의 단락비 특성.md",
+                "file": "Excalidraw/단락비 특성 마인드 맵 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "동기기의 단락비 특성 의 개요"
+              "title": "단락비 특성 마인드 맵 (draw) 의 개요"
             }
           },
           {
@@ -311,16 +324,18 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cc85b0c5b1d1ffd3",
   "lastOpenFiles": [
-    "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
+    "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/단락비 특성 마인드 맵 (draw).md",
     "03. Permanent Notes/동기기의 단락비 특성.md",
+    "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/동기 발전기 특성 곡선.md",
     "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).md",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
-    "02. MOC/Home.md",
     "03. Permanent Notes/동기 발전기 권선법.md",
     "03. Permanent Notes/동기기 난조.md",
     "03. Permanent Notes/동기 전동기 V 곡선.md",
@@ -338,7 +353,6 @@
     "03. Permanent Notes/직류 전동기 토크와 회전수.md",
     "03. Permanent Notes/직류 전동기.md",
     "03. Permanent Notes/DC 발전기 병렬 운전.md",
-    "03. Permanent Notes/직류 발전기 손실.md",
     "Excalidraw/교차 기자력 (draw).svg",
     "Excalidraw/감자 기자력 (draw).svg",
     "Excalidraw/배율기 (draw).svg",
