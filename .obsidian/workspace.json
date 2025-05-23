@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "동기기의 단락비 특성"
             }
-          },
-          {
-            "id": "cc85b0c5b1d1ffd3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/단락비 특성 마인드 맵 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "단락비 특성 마인드 맵 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/단락비 특성 마인드 맵 (draw).md"
+                "file": "03. Permanent Notes/동기기의 단락비 특성.md"
               },
               "icon": "lucide-info",
-              "title": "단락비 특성 마인드 맵 (draw) 의 파일 속성"
+              "title": "동기기의 단락비 특성 의 파일 속성"
             }
           },
           {
@@ -276,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/단락비 특성 마인드 맵 (draw).md",
+                "file": "03. Permanent Notes/동기기의 단락비 특성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "단락비 특성 마인드 맵 (draw) 의 개요"
+              "title": "동기기의 단락비 특성 의 개요"
             }
           },
           {
@@ -324,11 +311,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "cc85b0c5b1d1ffd3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/단락비 특성 마인드 맵 (draw).md",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/단락비 특성 마인드 맵 (draw).md",
     "03. Permanent Notes/동기기의 단락비 특성.md",
     "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
     "02. MOC/🏛️ 전기 기기.md",
@@ -362,7 +349,6 @@
     "attachments/screenshot/Pasted image 20250519203532.png",
     "Rules/무제",
     "Excalidraw/폐루프 전달 함수 (draw).svg",
-    "Excalidraw/15년 회로이론 70번 노튼 회로 구성(draw).svg",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
     "templaters/config",
