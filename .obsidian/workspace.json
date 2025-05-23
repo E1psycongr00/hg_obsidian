@@ -297,7 +297,8 @@
               "title": "Smart composer chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -326,7 +327,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "05945c099298a576",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
