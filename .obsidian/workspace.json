@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md",
+                "file": "04. Practice Notes/유도 전압 조정기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기 기기"
+              "title": "유도 전압 조정기"
+            }
+          },
+          {
+            "id": "ed7ed4661f922c69",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/유도 전압 조정기 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "유도 전압 조정기 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md"
+                "file": "Excalidraw/유도 전압 조정기 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기 기기 의 파일 속성"
+              "title": "유도 전압 조정기 (draw) 의 파일 속성"
             }
           },
           {
@@ -263,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md",
+                "file": "Excalidraw/유도 전압 조정기 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전기 기기 의 개요"
+              "title": "유도 전압 조정기 (draw) 의 개요"
             }
           },
           {
@@ -312,14 +325,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "43f202a2dc019a4e",
+  "active": "ed7ed4661f922c69",
   "lastOpenFiles": [
-    "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
+    "Excalidraw/유도 전압 조정기 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/유도 전압 조정기 (draw).md",
+    "04. Practice Notes/유도 전압 조정기.md",
     "02. MOC/🏛️ 전기 기기.md",
+    "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
     "03. Permanent Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/농형 유도 전동기.md",
     "03. Permanent Notes/변압기의 철손.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/누설 변압기.md",
     "03. Permanent Notes/변압기 탭.md",
     "03. Permanent Notes/변압기 부하 분담.md",
@@ -338,9 +354,6 @@
     "03. Permanent Notes/동기기의 단락비 특성.md",
     "Excalidraw/단락비 특성 마인드 맵 (draw).md",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
-    "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md",
-    "03. Permanent Notes/동기 발전기 특성 곡선.md",
-    "03. Permanent Notes/동기기 단락 시험시 단락 전류와 계자 전류의 관계 유도.md",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
     "Excalidraw/교차 기자력 (draw).svg",
     "Excalidraw/감자 기자력 (draw).svg",

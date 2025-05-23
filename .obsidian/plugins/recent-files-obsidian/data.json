@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "유도 전압 조정기 (draw)",
+      "path": "Excalidraw/유도 전압 조정기 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "유도 전압 조정기",
-      "path": "유도 전압 조정기.md"
+      "path": "04. Practice Notes/유도 전압 조정기.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -19,10 +27,6 @@
     {
       "basename": "농형 유도 전동기",
       "path": "03. Permanent Notes/농형 유도 전동기.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "누설 변압기",
@@ -95,10 +99,6 @@
     {
       "basename": "동기 발전기 무부하 특성 곡선 (draw)",
       "path": "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md"
-    },
-    {
-      "basename": "동기 발전기 특성 곡선",
-      "path": "03. Permanent Notes/동기 발전기 특성 곡선.md"
     }
   ],
   "omittedPaths": [],
