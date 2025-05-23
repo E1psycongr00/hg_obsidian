@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "열풍법",
+      "path": "04. Practice Notes/열풍법.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "동기 와트",
       "path": "03. Permanent Notes/동기 와트.md"
-    },
-    {
-      "basename": "동기 임피던스",
-      "path": "03. Permanent Notes/동기 임피던스.md"
     }
   ],
   "omittedPaths": [],

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md",
+                "file": "04. Practice Notes/열풍법.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기 기기"
+              "title": "열풍법"
             }
           },
           {
@@ -114,10 +114,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md"
+                "file": "04. Practice Notes/열풍법.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기 기기 의 파일 속성"
+              "title": "열풍법 의 파일 속성"
             }
           },
           {
@@ -278,13 +278,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md",
+                "file": "04. Practice Notes/열풍법.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전기 기기 의 개요"
+              "title": "열풍법 의 개요"
             }
           },
           {
@@ -327,10 +327,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "62d96583bb3c34ce",
   "lastOpenFiles": [
-    "03. Permanent Notes/변압기 보호 장치.md",
     "02. MOC/🏛️ 전기 기기.md",
+    "04. Practice Notes/열풍법.md",
+    "03. Permanent Notes/변압기 보호 장치.md",
     "03. Permanent Notes/누설 변압기.md",
     "03. Permanent Notes/동기 발전기 병렬 운전 조건.md",
     "03. Permanent Notes/동기 전동기의 장단점.md",
@@ -356,7 +357,6 @@
     "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md",
     "03. Permanent Notes/동기 발전기 유기 기전력.md",
     "03. Permanent Notes/동기 와트.md",
-    "03. Permanent Notes/동기 임피던스.md",
     "Excalidraw/교차 기자력 (draw).svg",
     "Excalidraw/감자 기자력 (draw).svg",
     "Excalidraw/배율기 (draw).svg",
