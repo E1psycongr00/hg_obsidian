@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "단락법",
-      "path": "03. Permanent Notes/단락법.md"
+      "basename": "이상적인 변압기의 무부하 특성",
+      "path": "04. Practice Notes/이상적인 변압기의 무부하 특성.md"
     },
     {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "변압기 무부하 시험",
+      "path": "03. Permanent Notes/변압기 무부하 시험.md"
+    },
+    {
+      "basename": "변압기 보호 장치",
+      "path": "03. Permanent Notes/변압기 보호 장치.md"
+    },
+    {
+      "basename": "단락법",
+      "path": "03. Permanent Notes/단락법.md"
     },
     {
       "basename": "진공법",
@@ -15,10 +27,6 @@
     {
       "basename": "열풍법",
       "path": "03. Permanent Notes/열풍법.md"
-    },
-    {
-      "basename": "변압기 보호 장치",
-      "path": "03. Permanent Notes/변압기 보호 장치.md"
     },
     {
       "basename": "누설 변압기",
@@ -91,14 +99,6 @@
     {
       "basename": "직권 전동기",
       "path": "03. Permanent Notes/직권 전동기.md"
-    },
-    {
-      "basename": "%Z법",
-      "path": "03. Permanent Notes/%Z법.md"
-    },
-    {
-      "basename": "동기 전동기 분포권 계수 유도 과정",
-      "path": "03. Permanent Notes/동기 전동기 분포권 계수 유도 과정.md"
     }
   ],
   "omittedPaths": [],
