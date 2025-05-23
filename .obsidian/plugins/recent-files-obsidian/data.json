@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "동기 발전기 단락 전류",
-      "path": "04. Practice Notes/동기 발전기 단락 전류.md"
-    },
-    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
+      "basename": "동기 전동기의 장단점",
+      "path": "03. Permanent Notes/동기 전동기의 장단점.md"
+    },
+    {
+      "basename": "동기 발전기 단락 전류",
+      "path": "03. Permanent Notes/동기 발전기 단락 전류.md"
     },
     {
       "basename": "동기기 난조",
@@ -95,10 +99,6 @@
     {
       "basename": "직류 전동기",
       "path": "03. Permanent Notes/직류 전동기.md"
-    },
-    {
-      "basename": "DC 발전기 병렬 운전",
-      "path": "03. Permanent Notes/DC 발전기 병렬 운전.md"
     }
   ],
   "omittedPaths": [],
