@@ -9,6 +9,10 @@
       "path": "Excalidraw/동기 발전기 무부하 특성 곡선 (draw).md"
     },
     {
+      "basename": "동기 발전기 단락 특성 곡선 (draw)",
+      "path": "Excalidraw/동기 발전기 단락 특성 곡선 (draw).md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "직류기 전기자 반작용",
       "path": "03. Permanent Notes/직류기 전기자 반작용.md"
-    },
-    {
-      "basename": "교차 기자력 (draw)",
-      "path": "Excalidraw/교차 기자력 (draw).md"
     }
   ],
   "omittedPaths": [],
