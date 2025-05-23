@@ -5,6 +5,18 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "동기 전동기 V 곡선",
+      "path": "03. Permanent Notes/동기 전동기 V 곡선.md"
+    },
+    {
+      "basename": "동기기의 단락비 특성",
+      "path": "03. Permanent Notes/동기기의 단락비 특성.md"
+    },
+    {
+      "basename": "변압기의 철손",
+      "path": "03. Permanent Notes/변압기의 철손.md"
+    },
+    {
       "basename": "동기 발전기의 전기자 반작용",
       "path": "03. Permanent Notes/동기 발전기의 전기자 반작용.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "직권 전동기",
       "path": "03. Permanent Notes/직권 전동기.md"
-    },
-    {
-      "basename": "동기기의 단락비 특성",
-      "path": "03. Permanent Notes/동기기의 단락비 특성.md"
     },
     {
       "basename": "%Z법",
@@ -91,14 +99,6 @@
     {
       "basename": "수하 특성",
       "path": "03. Permanent Notes/수하 특성.md"
-    },
-    {
-      "basename": "분권 전동기",
-      "path": "03. Permanent Notes/분권 전동기.md"
-    },
-    {
-      "basename": "직권 발전기",
-      "path": "03. Permanent Notes/직권 발전기.md"
     }
   ],
   "omittedPaths": [],
