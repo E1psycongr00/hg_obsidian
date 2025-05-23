@@ -9,6 +9,10 @@
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
+      "basename": "변압기 단락 시험",
+      "path": "03. Permanent Notes/변압기 단락 시험.md"
+    },
+    {
       "basename": "이상적인 변압기의 무부하 특성",
       "path": "04. Practice Notes/이상적인 변압기의 무부하 특성.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "복권 발전기",
       "path": "03. Permanent Notes/복권 발전기.md"
-    },
-    {
-      "basename": "직권 전동기",
-      "path": "03. Permanent Notes/직권 전동기.md"
     }
   ],
   "omittedPaths": [],
