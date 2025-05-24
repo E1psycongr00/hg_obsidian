@@ -5,12 +5,16 @@
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
-      "basename": "저압 뱅킹 방식",
-      "path": "03. Permanent Notes/저압 뱅킹 방식.md"
+      "basename": "결선에 따른 전기 공급 방식",
+      "path": "03. Permanent Notes/결선에 따른 전기 공급 방식.md"
     },
     {
       "basename": "보호 계전 방식",
       "path": "04. Practice Notes/보호 계전 방식.md"
+    },
+    {
+      "basename": "저압 뱅킹 방식",
+      "path": "03. Permanent Notes/저압 뱅킹 방식.md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "변압기 단락 시험",
       "path": "03. Permanent Notes/변압기 단락 시험.md"
-    },
-    {
-      "basename": "이상적인 변압기의 무부하 특성",
-      "path": "03. Permanent Notes/이상적인 변압기의 무부하 특성.md"
     }
   ],
   "omittedPaths": [],
