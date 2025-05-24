@@ -37,7 +37,8 @@
               "title": "유도 전동기와 토크 특성"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md"
+                "file": "03. Permanent Notes/유도 전동기와 토크 특성.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기 기기 의 파일 속성"
+              "title": "유도 전동기와 토크 특성 의 파일 속성"
             }
           },
           {
@@ -278,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기기.md",
+                "file": "03. Permanent Notes/유도 전동기와 토크 특성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전기 기기 의 개요"
+              "title": "유도 전동기와 토크 특성 의 개요"
             }
           },
           {
@@ -327,10 +328,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "43f202a2dc019a4e",
+  "active": "9a157db40770092e",
   "lastOpenFiles": [
-    "03. Permanent Notes/디프 슬롯 농형 유도 전동기.md",
     "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/디프 슬롯 농형 유도 전동기.md",
     "03. Permanent Notes/이중 농형 유도 전동기.md",
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/유도 전압 조정기.md",
