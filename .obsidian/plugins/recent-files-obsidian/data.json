@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "화력 발전",
+      "path": "03. Permanent Notes/화력 발전.md"
+    },
+    {
+      "basename": "기력 발전 열사이클",
+      "path": "03. Permanent Notes/기력 발전 열사이클.md"
+    },
+    {
+      "basename": "화력 발전 효율",
+      "path": "03. Permanent Notes/화력 발전 효율.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
     {
       "basename": "동기 전동기 V 곡선",
       "path": "03. Permanent Notes/동기 전동기 V 곡선.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "유도 전동기와 토크 특성",
@@ -83,22 +99,6 @@
     {
       "basename": "진공법",
       "path": "03. Permanent Notes/진공법.md"
-    },
-    {
-      "basename": "열풍법",
-      "path": "03. Permanent Notes/열풍법.md"
-    },
-    {
-      "basename": "동기 발전기 병렬 운전 조건",
-      "path": "03. Permanent Notes/동기 발전기 병렬 운전 조건.md"
-    },
-    {
-      "basename": "동기 전동기의 장단점",
-      "path": "03. Permanent Notes/동기 전동기의 장단점.md"
-    },
-    {
-      "basename": "동기 발전기 단락 전류",
-      "path": "03. Permanent Notes/동기 발전기 단락 전류.md"
     }
   ],
   "omittedPaths": [],
