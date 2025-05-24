@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "유도 전동기와 토크 특성",
       "path": "03. Permanent Notes/유도 전동기와 토크 특성.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "유도 전압 조정기 (draw)",
       "path": "Excalidraw/유도 전압 조정기 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
