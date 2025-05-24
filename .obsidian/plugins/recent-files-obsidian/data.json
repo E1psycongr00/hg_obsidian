@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "곡선 좌표계와 미분 연산자",
+      "path": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
+    },
+    {
+      "basename": "스케일 팩터",
+      "path": "03. Permanent Notes/스케일 팩터.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "저압 뱅킹 방식",
       "path": "03. Permanent Notes/저압 뱅킹 방식.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "동작 시한에 따른 분류",
       "path": "03. Permanent Notes/동작 시한에 따른 분류.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "결선에 따른 전기 공급 방식",
@@ -87,18 +99,6 @@
     {
       "basename": "누설 변압기",
       "path": "03. Permanent Notes/누설 변압기.md"
-    },
-    {
-      "basename": "변압기 탭",
-      "path": "03. Permanent Notes/변압기 탭.md"
-    },
-    {
-      "basename": "변압기 부하 분담",
-      "path": "03. Permanent Notes/변압기 부하 분담.md"
-    },
-    {
-      "basename": "변압기 단락 시험",
-      "path": "03. Permanent Notes/변압기 단락 시험.md"
     }
   ],
   "omittedPaths": [],

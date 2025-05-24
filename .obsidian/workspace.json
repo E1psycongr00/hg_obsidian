@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/저압 뱅킹 방식.md",
-                "mode": "source",
+                "file": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "저압 뱅킹 방식"
+              "title": "곡선 좌표계와 미분 연산자"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/저압 뱅킹 방식.md"
+                "file": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
               },
               "icon": "lucide-info",
-              "title": "저압 뱅킹 방식 의 파일 속성"
+              "title": "곡선 좌표계와 미분 연산자 의 파일 속성"
             }
           },
           {
@@ -240,7 +240,7 @@
             }
           },
           {
-            "id": "5d08358d31566518",
+            "id": "cae2ec064975ce1a",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -250,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "92582217f19033e7",
@@ -314,13 +314,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/스케일 팩터.md",
+    "03. Permanent Notes/곡선 좌표계와 미분 연산자.md",
+    "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/벡터 항등식.md",
+    "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
+    "02. MOC/Home.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/이중 농형 유도 전동기.md",
+    "03. Permanent Notes/저압 뱅킹 방식.md",
     "03. Permanent Notes/차단기.md",
     "04. Practice Notes/보호 계전 방식.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/동작 시한에 따른 분류.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/결선에 따른 전기 공급 방식.md",
-    "03. Permanent Notes/저압 뱅킹 방식.md",
     "03. Permanent Notes/분산 부하와 집중 부하.md",
     "03. Permanent Notes/화력 발전.md",
     "03. Permanent Notes/기력 발전 열사이클.md",
@@ -329,18 +335,12 @@
     "03. Permanent Notes/동기 전동기 V 곡선.md",
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/디프 슬롯 농형 유도 전동기.md",
-    "03. Permanent Notes/이중 농형 유도 전동기.md",
     "03. Permanent Notes/유도 전압 조정기.md",
     "Excalidraw/유도 전압 조정기 (draw).md",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md",
     "03. Permanent Notes/유도 전동기 2차 저항 제어.md",
     "03. Permanent Notes/농형 유도 전동기.md",
-    "03. Permanent Notes/변압기의 철손.md",
-    "03. Permanent Notes/누설 변압기.md",
-    "03. Permanent Notes/변압기 탭.md",
-    "03. Permanent Notes/변압기 부하 분담.md",
-    "03. Permanent Notes/변압기 단락 시험.md",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
     "Excalidraw/교차 기자력 (draw).svg",
