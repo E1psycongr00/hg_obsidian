@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/저압 뱅킹 방식.md",
+                "file": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "저압 뱅킹 방식 그래프"
+              "title": "곡선 좌표계와 미분 연산자 그래프"
             }
           },
           {
@@ -250,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -312,7 +312,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c824f374a77799a5",
   "lastOpenFiles": [
     "03. Permanent Notes/스케일 팩터.md",
     "03. Permanent Notes/곡선 좌표계와 미분 연산자.md",
