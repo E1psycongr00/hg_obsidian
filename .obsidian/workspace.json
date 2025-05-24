@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/차단기.md",
+                "file": "03. Permanent Notes/저압 뱅킹 방식.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "차단기"
+              "title": "저압 뱅킹 방식"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/차단기.md"
+                "file": "03. Permanent Notes/저압 뱅킹 방식.md"
               },
               "icon": "lucide-info",
-              "title": "차단기 의 파일 속성"
+              "title": "저압 뱅킹 방식 의 파일 속성"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/차단기.md",
+                "file": "03. Permanent Notes/저압 뱅킹 방식.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "차단기 그래프"
+              "title": "저압 뱅킹 방식 그래프"
             }
           },
           {
@@ -312,13 +312,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/차단기.md",
     "04. Practice Notes/보호 계전 방식.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/동작 시한에 따른 분류.md",
     "02. MOC/Home.md",
-    "03. Permanent Notes/차단기.md",
     "03. Permanent Notes/결선에 따른 전기 공급 방식.md",
     "03. Permanent Notes/저압 뱅킹 방식.md",
     "03. Permanent Notes/분산 부하와 집중 부하.md",
