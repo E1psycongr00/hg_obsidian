@@ -5,6 +5,26 @@
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
+      "basename": "저압 뱅킹 방식",
+      "path": "03. Permanent Notes/저압 뱅킹 방식.md"
+    },
+    {
+      "basename": "보호 계전 방식",
+      "path": "04. Practice Notes/보호 계전 방식.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "차단기",
+      "path": "03. Permanent Notes/차단기.md"
+    },
+    {
+      "basename": "동작 시한에 따른 분류",
+      "path": "03. Permanent Notes/동작 시한에 따른 분류.md"
+    },
+    {
       "basename": "분산 부하와 집중 부하",
       "path": "03. Permanent Notes/분산 부하와 집중 부하.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "화력 발전 효율",
       "path": "03. Permanent Notes/화력 발전 효율.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -83,22 +99,6 @@
     {
       "basename": "이상적인 변압기의 무부하 특성",
       "path": "03. Permanent Notes/이상적인 변압기의 무부하 특성.md"
-    },
-    {
-      "basename": "변압기의 철손",
-      "path": "03. Permanent Notes/변압기의 철손.md"
-    },
-    {
-      "basename": "변압기 무부하 시험",
-      "path": "03. Permanent Notes/변압기 무부하 시험.md"
-    },
-    {
-      "basename": "변압기 보호 장치",
-      "path": "03. Permanent Notes/변압기 보호 장치.md"
-    },
-    {
-      "basename": "단락법",
-      "path": "03. Permanent Notes/단락법.md"
     }
   ],
   "omittedPaths": [],
