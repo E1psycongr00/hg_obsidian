@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
+      "basename": "분산 부하와 집중 부하",
+      "path": "03. Permanent Notes/분산 부하와 집중 부하.md"
+    },
+    {
       "basename": "화력 발전",
       "path": "03. Permanent Notes/화력 발전.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "단락법",
       "path": "03. Permanent Notes/단락법.md"
-    },
-    {
-      "basename": "진공법",
-      "path": "03. Permanent Notes/진공법.md"
     }
   ],
   "omittedPaths": [],
