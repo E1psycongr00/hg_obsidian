@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/유전체 경계 조건.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "유전체 경계 조건"
+              "title": "🏛️ 전자기학"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/유전체 경계 조건.md"
+                "file": "02. MOC/🏛️ 전자기학.md"
               },
               "icon": "lucide-info",
-              "title": "유전체 경계 조건 의 파일 속성"
+              "title": "🏛️ 전자기학 의 파일 속성"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/유전체 경계 조건.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "유전체 경계 조건 그래프"
+              "title": "🏛️ 전자기학 그래프"
             }
           },
           {
@@ -314,8 +314,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/유전체 경계 조건.md",
+    "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/전계.md",
     "03. Permanent Notes/절연 파괴.md",
     "03. Permanent Notes/유전체 경계면이 받는 힘.md",
