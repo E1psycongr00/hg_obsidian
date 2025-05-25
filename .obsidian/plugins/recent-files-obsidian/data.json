@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
       "basename": "전계",
       "path": "03. Permanent Notes/전계.md"
     },
     {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
+      "basename": "도체 표면의 전계",
+      "path": "03. Permanent Notes/도체 표면의 전계.md"
     },
     {
       "basename": "곡선 좌표계와 미분 연산자",
@@ -95,10 +99,6 @@
     {
       "basename": "유도 전동기 2차 저항 제어",
       "path": "03. Permanent Notes/유도 전동기 2차 저항 제어.md"
-    },
-    {
-      "basename": "농형 유도 전동기",
-      "path": "03. Permanent Notes/농형 유도 전동기.md"
     }
   ],
   "omittedPaths": [],
