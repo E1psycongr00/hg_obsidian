@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/분극.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전자기학"
+              "title": "분극"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md"
+                "file": "03. Permanent Notes/분극.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전자기학 의 파일 속성"
+              "title": "분극 의 파일 속성"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/분극.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전자기학 그래프"
+              "title": "분극 그래프"
             }
           },
           {
@@ -314,11 +314,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/유전체 경계 조건.md",
     "02. MOC/🏛️ 전자기학.md",
-    "03. Permanent Notes/전계.md",
-    "03. Permanent Notes/절연 파괴.md",
+    "03. Permanent Notes/정전용량.md",
+    "03. Permanent Notes/분극.md",
     "03. Permanent Notes/유전체 경계면이 받는 힘.md",
+    "03. Permanent Notes/절연 파괴.md",
+    "03. Permanent Notes/유전체 경계 조건.md",
+    "03. Permanent Notes/전계.md",
     "03. Permanent Notes/도체 표면의 전계.md",
     "03. Permanent Notes/전기장 에너지 밀도.md",
     "04. Practice Notes/전속 밀도.md",
@@ -338,8 +340,6 @@
     "03. Permanent Notes/화력 발전.md",
     "03. Permanent Notes/기력 발전 열사이클.md",
     "03. Permanent Notes/화력 발전 효율.md",
-    "02. MOC/🏛️ 전기 기기.md",
-    "03. Permanent Notes/동기 전동기 V 곡선.md",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",

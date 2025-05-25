@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "분극",
+      "path": "03. Permanent Notes/분극.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "정전용량",
+      "path": "03. Permanent Notes/정전용량.md"
+    },
+    {
+      "basename": "유전체 경계면이 받는 힘",
+      "path": "03. Permanent Notes/유전체 경계면이 받는 힘.md"
+    },
+    {
+      "basename": "절연 파괴",
+      "path": "03. Permanent Notes/절연 파괴.md"
     },
     {
       "basename": "유전체 경계 조건",
@@ -83,22 +99,6 @@
     {
       "basename": "디프 슬롯 농형 유도 전동기",
       "path": "03. Permanent Notes/디프 슬롯 농형 유도 전동기.md"
-    },
-    {
-      "basename": "이중 농형 유도 전동기",
-      "path": "03. Permanent Notes/이중 농형 유도 전동기.md"
-    },
-    {
-      "basename": "유도 전압 조정기",
-      "path": "03. Permanent Notes/유도 전압 조정기.md"
-    },
-    {
-      "basename": "유도 전압 조정기 (draw)",
-      "path": "Excalidraw/유도 전압 조정기 (draw).md"
-    },
-    {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "07. Solution Notes/Archive/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
     }
   ],
   "omittedPaths": [],
