@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "곡선 좌표계와 미분 연산자",
-      "path": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
+      "basename": "전계",
+      "path": "03. Permanent Notes/전계.md"
     },
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "곡선 좌표계와 미분 연산자",
+      "path": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
     },
     {
       "basename": "스케일 팩터",
@@ -95,10 +99,6 @@
     {
       "basename": "농형 유도 전동기",
       "path": "03. Permanent Notes/농형 유도 전동기.md"
-    },
-    {
-      "basename": "누설 변압기",
-      "path": "03. Permanent Notes/누설 변압기.md"
     }
   ],
   "omittedPaths": [],
