@@ -239,7 +239,7 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.7132754626224513,
+                  "scale": 0.3628873693012164,
                   "close": true
                 }
               },
@@ -352,9 +352,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/자기 회전력 식 유도하기.md",
-    "03. Permanent Notes/자기 쌍극자.md",
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/자기 쌍극자.md",
+    "03. Permanent Notes/자기 회전력 식 유도하기.md",
     "03. Permanent Notes/앙페르의 주회법칙.md",
     "03. Permanent Notes/비오 사바트의 법칙.md",
     "03. Permanent Notes/압전기 현상.md",
