@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "전계",
+      "path": "03. Permanent Notes/전계.md"
+    },
+    {
+      "basename": "전계 (draw)",
+      "path": "Excalidraw/전계 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "장(Field)",
+      "path": "03. Permanent Notes/장(Field).md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "정전용량",
       "path": "03. Permanent Notes/정전용량.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "물질의 자화",
@@ -39,10 +51,6 @@
     {
       "basename": "유전체 경계 조건",
       "path": "03. Permanent Notes/유전체 경계 조건.md"
-    },
-    {
-      "basename": "전계",
-      "path": "03. Permanent Notes/전계.md"
     },
     {
       "basename": "도체 표면의 전계",
@@ -91,14 +99,6 @@
     {
       "basename": "기력 발전 열사이클",
       "path": "03. Permanent Notes/기력 발전 열사이클.md"
-    },
-    {
-      "basename": "화력 발전 효율",
-      "path": "03. Permanent Notes/화력 발전 효율.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
     }
   ],
   "omittedPaths": [],
