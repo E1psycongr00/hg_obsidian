@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/저항과 정전용량 관계.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "저항과 정전용량 관계"
+              "title": "🏛️ 전자기학"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/저항과 정전용량 관계.md"
+                "file": "02. MOC/🏛️ 전자기학.md"
               },
               "icon": "lucide-info",
-              "title": "저항과 정전용량 관계 의 파일 속성"
+              "title": "🏛️ 전자기학 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/저항과 정전용량 관계.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "저항과 정전용량 관계 그래프"
+              "title": "🏛️ 전자기학 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/저항과 정전용량 관계.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "저항과 정전용량 관계 의 개요"
+              "title": "🏛️ 전자기학 의 개요"
             }
           },
           {
@@ -325,6 +325,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/저항과 정전용량 관계.md",
     "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/정전 용량.md",
     "03. Permanent Notes/전위.md",
@@ -351,7 +352,6 @@
     "03. Permanent Notes/스케일 팩터.md",
     "03. Permanent Notes/벡터 항등식.md",
     "07. Solution Notes/Archive/🔬원형 고리 전계 구하기.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
