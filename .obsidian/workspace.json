@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/저항과 정전용량 관계.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전자기학"
-            }
-          },
-          {
-            "id": "b463a347a219a807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Practice Notes/용량 계수.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "용량 계수"
+              "title": "저항과 정전용량 관계"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/용량 계수.md"
+                "file": "03. Permanent Notes/저항과 정전용량 관계.md"
               },
               "icon": "lucide-info",
-              "title": "용량 계수 의 파일 속성"
+              "title": "저항과 정전용량 관계 의 파일 속성"
             }
           },
           {
@@ -205,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/용량 계수.md",
+                "file": "03. Permanent Notes/저항과 정전용량 관계.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -233,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "용량 계수 그래프"
+              "title": "저항과 정전용량 관계 그래프"
             }
           },
           {
@@ -290,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/용량 계수.md",
+                "file": "03. Permanent Notes/저항과 정전용량 관계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "용량 계수 의 개요"
+              "title": "저항과 정전용량 관계 의 개요"
             }
           },
           {
@@ -309,7 +293,8 @@
               "title": "Smart composer chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -338,11 +323,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b463a347a219a807",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/정전 용량.md",
+    "03. Permanent Notes/전위.md",
+    "03. Permanent Notes/용량 계수.md",
     "03. Permanent Notes/전위 계수.md",
-    "04. Practice Notes/용량 계수.md",
     "03. Permanent Notes/유전체 경계면이 받는 힘.md",
     "03. Permanent Notes/유전체 경계 조건.md",
     "03. Permanent Notes/전기 쌍극자.md",
@@ -356,9 +343,7 @@
     "Excalidraw/전계 (draw).svg",
     "02. MOC/Home.md",
     "03. Permanent Notes/장(Field).md",
-    "03. Permanent Notes/정전용량.md",
     "03. Permanent Notes/물질의 자화.md",
-    "03. Permanent Notes/전위.md",
     "03. Permanent Notes/2022 4월 전기기사 4번.md",
     "03. Permanent Notes/절연 파괴.md",
     "03. Permanent Notes/도체 표면의 전계.md",

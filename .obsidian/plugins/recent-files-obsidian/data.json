@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "용량 계수",
-      "path": "04. Practice Notes/용량 계수.md"
+      "basename": "저항과 정전용량 관계",
+      "path": "03. Permanent Notes/저항과 정전용량 관계.md"
     },
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "정전 용량",
+      "path": "03. Permanent Notes/정전 용량.md"
+    },
+    {
+      "basename": "전위",
+      "path": "03. Permanent Notes/전위.md"
+    },
+    {
+      "basename": "용량 계수",
+      "path": "03. Permanent Notes/용량 계수.md"
     },
     {
       "basename": "전위 계수",
@@ -61,16 +73,8 @@
       "path": "03. Permanent Notes/장(Field).md"
     },
     {
-      "basename": "정전용량",
-      "path": "03. Permanent Notes/정전용량.md"
-    },
-    {
       "basename": "물질의 자화",
       "path": "03. Permanent Notes/물질의 자화.md"
-    },
-    {
-      "basename": "전위",
-      "path": "03. Permanent Notes/전위.md"
     },
     {
       "basename": "2022 4월 전기기사 4번",
@@ -95,10 +99,6 @@
     {
       "basename": "저압 뱅킹 방식",
       "path": "03. Permanent Notes/저압 뱅킹 방식.md"
-    },
-    {
-      "basename": "차단기",
-      "path": "03. Permanent Notes/차단기.md"
     }
   ],
   "omittedPaths": [],
