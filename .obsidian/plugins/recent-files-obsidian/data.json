@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "압전기 현상",
+      "path": "04. Practice Notes/압전기 현상.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "장(Field)",
       "path": "03. Permanent Notes/장(Field).md"
-    },
-    {
-      "basename": "물질의 자화",
-      "path": "03. Permanent Notes/물질의 자화.md"
     }
   ],
   "omittedPaths": [],
