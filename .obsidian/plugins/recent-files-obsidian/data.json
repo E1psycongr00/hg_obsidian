@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
+      "basename": "전기 영상법",
+      "path": "03. Permanent Notes/전기 영상법.md"
+    },
+    {
+      "basename": "접지된 구도체 영상법 (draw)",
+      "path": "Excalidraw/접지된 구도체 영상법 (draw).md"
     },
     {
       "basename": "도선 정전 용량",
       "path": "03. Permanent Notes/도선 정전 용량.md"
     },
     {
-      "basename": "구도체의 정전 용량",
-      "path": "03. Permanent Notes/구도체의 정전 용량.md"
-    },
-    {
       "basename": "대전된 동심구 모형 (draw)",
       "path": "Excalidraw/대전된 동심구 모형 (draw).md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "구도체의 정전 용량",
+      "path": "03. Permanent Notes/구도체의 정전 용량.md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "물질의 자화",
       "path": "03. Permanent Notes/물질의 자화.md"
-    },
-    {
-      "basename": "2022 4월 전기기사 4번",
-      "path": "03. Permanent Notes/2022 4월 전기기사 4번.md"
-    },
-    {
-      "basename": "절연 파괴",
-      "path": "03. Permanent Notes/절연 파괴.md"
     }
   ],
   "omittedPaths": [],
