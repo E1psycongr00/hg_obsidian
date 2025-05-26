@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
       "basename": "공극",
-      "path": "04. Practice Notes/공극.md"
+      "path": "03. Permanent Notes/공극.md"
     },
     {
       "basename": "공극 (draw)",
@@ -15,10 +23,6 @@
     {
       "basename": "도선 정전 용량",
       "path": "03. Permanent Notes/도선 정전 용량.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "자기 회로",
@@ -67,10 +71,6 @@
     {
       "basename": "전파 정수",
       "path": "03. Permanent Notes/전파 정수.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "변위 전류",
