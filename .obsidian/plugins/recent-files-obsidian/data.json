@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "전위 계수",
-      "path": "03. Permanent Notes/전위 계수.md"
-    },
-    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "전기 쌍극자",
+      "path": "03. Permanent Notes/전기 쌍극자.md"
+    },
+    {
+      "basename": "전위 계수",
+      "path": "03. Permanent Notes/전위 계수.md"
     },
     {
       "basename": "전속 밀도",
@@ -95,10 +99,6 @@
     {
       "basename": "동작 시한에 따른 분류",
       "path": "03. Permanent Notes/동작 시한에 따른 분류.md"
-    },
-    {
-      "basename": "결선에 따른 전기 공급 방식",
-      "path": "03. Permanent Notes/결선에 따른 전기 공급 방식.md"
     }
   ],
   "omittedPaths": [],

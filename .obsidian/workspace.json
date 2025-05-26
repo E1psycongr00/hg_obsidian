@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/전위 계수.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전위 계수"
+              "title": "🏛️ 전자기학"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/전위 계수.md"
+                "file": "02. MOC/🏛️ 전자기학.md"
               },
               "icon": "lucide-info",
-              "title": "전위 계수 의 파일 속성"
+              "title": "🏛️ 전자기학 의 파일 속성"
             }
           },
           {
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "bf1db9e62cf4fa4d",
@@ -189,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/전위 계수.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전위 계수 그래프"
+              "title": "🏛️ 전자기학 그래프"
             }
           },
           {
@@ -325,7 +324,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/전기 쌍극자.md",
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/전위 계수.md",
     "04. Practice Notes/전속 밀도.md",
     "03. Permanent Notes/전속.md",
     "03. Permanent Notes/전계.md",
@@ -350,8 +351,6 @@
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/이중 농형 유도 전동기.md",
     "03. Permanent Notes/저압 뱅킹 방식.md",
-    "03. Permanent Notes/차단기.md",
-    "04. Practice Notes/보호 계전 방식.md",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
