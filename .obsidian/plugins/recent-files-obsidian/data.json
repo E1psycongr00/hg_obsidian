@@ -5,6 +5,14 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "앙페르의 주회법칙",
+      "path": "03. Permanent Notes/앙페르의 주회법칙.md"
+    },
+    {
+      "basename": "비오 사바트의 법칙",
+      "path": "03. Permanent Notes/비오 사바트의 법칙.md"
+    },
+    {
       "basename": "압전기 현상",
       "path": "03. Permanent Notes/압전기 현상.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "전계",
       "path": "03. Permanent Notes/전계.md"
-    },
-    {
-      "basename": "전계 (draw)",
-      "path": "Excalidraw/전계 (draw).md"
-    },
-    {
-      "basename": "장(Field)",
-      "path": "03. Permanent Notes/장(Field).md"
     }
   ],
   "omittedPaths": [],
