@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "도선 정전 용량"
             }
+          },
+          {
+            "id": "bbc4d848057b3225",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/평행 도선 모형 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "평행 도선 모형 (draw)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/도선 정전 용량.md"
+                "file": "Excalidraw/평행 도선 모형 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "도선 정전 용량 의 파일 속성"
+              "title": "평행 도선 모형 (draw) 의 파일 속성"
             }
           },
           {
@@ -220,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/도선 정전 용량.md",
+                "file": "Excalidraw/평행 도선 모형 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -248,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "도선 정전 용량 그래프"
+              "title": "평행 도선 모형 (draw) 그래프"
             }
           },
           {
@@ -305,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/도선 정전 용량.md",
+                "file": "Excalidraw/평행 도선 모형 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "도선 정전 용량 의 개요"
+              "title": "평행 도선 모형 (draw) 의 개요"
             }
           },
           {
@@ -354,11 +366,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2d13816ae2f1900e",
+  "active": "bbc4d848057b3225",
   "lastOpenFiles": [
-    "04. Practice Notes/구도체의 정전 용량.md",
+    "Excalidraw/평행 도선 모형 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/평행 도선 모형 (draw).md",
     "04. Practice Notes/도선 정전 용량.md",
+    "Excalidraw/대전된 동심구 모형 (draw).md",
+    "04. Practice Notes/구도체의 정전 용량.md",
     "02. MOC/🏛️ 전자기학.md",
+    "Excalidraw/대전된 동심구 모형 (draw).svg",
     "03. Permanent Notes/저항과 정전용량 관계.md",
     "03. Permanent Notes/정전 용량.md",
     "03. Permanent Notes/전위.md",
@@ -375,14 +392,10 @@
     "03. Permanent Notes/전계.md",
     "Excalidraw/전계 (draw).md",
     "Excalidraw/전계 (draw).svg",
-    "02. MOC/Home.md",
     "03. Permanent Notes/장(Field).md",
     "03. Permanent Notes/물질의 자화.md",
     "03. Permanent Notes/2022 4월 전기기사 4번.md",
     "03. Permanent Notes/절연 파괴.md",
-    "03. Permanent Notes/도체 표면의 전계.md",
-    "03. Permanent Notes/곡선 좌표계와 미분 연산자.md",
-    "03. Permanent Notes/스케일 팩터.md",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
@@ -391,7 +404,6 @@
     "Excalidraw/배율기 (draw).svg",
     "Excalidraw/역회로 (draw).svg",
     "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",
-    "Excalidraw/나이퀴스트 이득 여유 (draw).svg",
     "Rules/무제",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",

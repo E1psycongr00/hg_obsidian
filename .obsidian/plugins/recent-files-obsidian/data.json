@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "평행 도선 모형 (draw)",
+      "path": "Excalidraw/평행 도선 모형 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "도선 정전 용량",
       "path": "04. Practice Notes/도선 정전 용량.md"
+    },
+    {
+      "basename": "대전된 동심구 모형 (draw)",
+      "path": "Excalidraw/대전된 동심구 모형 (draw).md"
     },
     {
       "basename": "구도체의 정전 용량",
@@ -73,10 +85,6 @@
       "path": "Excalidraw/전계 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "장(Field)",
       "path": "03. Permanent Notes/장(Field).md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "절연 파괴",
       "path": "03. Permanent Notes/절연 파괴.md"
-    },
-    {
-      "basename": "도체 표면의 전계",
-      "path": "03. Permanent Notes/도체 표면의 전계.md"
-    },
-    {
-      "basename": "곡선 좌표계와 미분 연산자",
-      "path": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
     }
   ],
   "omittedPaths": [],
