@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "상호 유도 인덕턴스",
+      "path": "03. Permanent Notes/상호 유도 인덕턴스.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "자기 인덕턴스",
+      "path": "03. Permanent Notes/자기 인덕턴스.md"
     },
     {
       "basename": "자기 쌍극자",
@@ -91,14 +99,6 @@
     {
       "basename": "유전체 경계면이 받는 힘",
       "path": "03. Permanent Notes/유전체 경계면이 받는 힘.md"
-    },
-    {
-      "basename": "유전체 경계 조건",
-      "path": "03. Permanent Notes/유전체 경계 조건.md"
-    },
-    {
-      "basename": "전기 쌍극자",
-      "path": "03. Permanent Notes/전기 쌍극자.md"
     }
   ],
   "omittedPaths": [],
