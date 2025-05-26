@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "전속 밀도",
+      "path": "04. Practice Notes/전속 밀도.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "전속",
+      "path": "03. Permanent Notes/전속.md"
+    },
+    {
       "basename": "전계",
       "path": "03. Permanent Notes/전계.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "장(Field)",
       "path": "03. Permanent Notes/장(Field).md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "정전용량",
@@ -91,14 +99,6 @@
     {
       "basename": "분산 부하와 집중 부하",
       "path": "03. Permanent Notes/분산 부하와 집중 부하.md"
-    },
-    {
-      "basename": "화력 발전",
-      "path": "03. Permanent Notes/화력 발전.md"
-    },
-    {
-      "basename": "기력 발전 열사이클",
-      "path": "03. Permanent Notes/기력 발전 열사이클.md"
     }
   ],
   "omittedPaths": [],

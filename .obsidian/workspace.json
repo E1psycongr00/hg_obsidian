@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/전계.md",
+                "file": "04. Practice Notes/전속 밀도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "전계"
+              "title": "전속 밀도"
             }
           }
         ]
@@ -99,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/전계.md"
+                "file": "04. Practice Notes/전속 밀도.md"
               },
               "icon": "lucide-info",
-              "title": "전계 의 파일 속성"
+              "title": "전속 밀도 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/전위.md",
+                "file": "04. Practice Notes/전속 밀도.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "전위 그래프"
+              "title": "전속 밀도 그래프"
             }
           },
           {
@@ -261,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -325,12 +325,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전자기학.md",
+    "04. Practice Notes/전속 밀도.md",
+    "03. Permanent Notes/전속.md",
+    "03. Permanent Notes/전계.md",
     "Excalidraw/전계 (draw).md",
     "Excalidraw/전계 (draw).svg",
     "02. MOC/Home.md",
-    "03. Permanent Notes/전계.md",
     "03. Permanent Notes/장(Field).md",
-    "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/정전용량.md",
     "03. Permanent Notes/물질의 자화.md",
     "03. Permanent Notes/전위.md",
@@ -341,7 +343,6 @@
     "03. Permanent Notes/유전체 경계 조건.md",
     "03. Permanent Notes/도체 표면의 전계.md",
     "03. Permanent Notes/전기장 에너지 밀도.md",
-    "04. Practice Notes/전속 밀도.md",
     "03. Permanent Notes/곡선 좌표계와 미분 연산자.md",
     "03. Permanent Notes/스케일 팩터.md",
     "03. Permanent Notes/벡터 항등식.md",
