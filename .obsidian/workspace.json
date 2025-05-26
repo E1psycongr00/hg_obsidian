@@ -49,8 +49,7 @@
               "title": "원형 코일 자계 (draw)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/원형 코일 자계 (draw).md"
+                "file": "04. Practice Notes/원형 코일의 자계.md"
               },
               "icon": "lucide-info",
-              "title": "원형 코일 자계 (draw) 의 파일 속성"
+              "title": "원형 코일의 자계 의 파일 속성"
             }
           },
           {
@@ -361,11 +360,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "172c7b8d0d0290a5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/원형 코일 자계 (draw).md",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "02. MOC/Home.md",
-    "Excalidraw/원형 코일 자계 (draw).md",
     "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/원형 코일의 자계.md",
     "03. Permanent Notes/유한한 직선 도체의 자계.md",
@@ -398,7 +397,6 @@
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
     "Excalidraw/교차 기자력 (draw).svg",
-    "Excalidraw/감자 기자력 (draw).svg",
     "Rules/무제",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
