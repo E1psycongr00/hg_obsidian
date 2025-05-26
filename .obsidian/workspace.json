@@ -36,8 +36,21 @@
               "icon": "lucide-file",
               "title": "🏛️ 전자기학"
             }
+          },
+          {
+            "id": "172c7b8d0d0290a5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/원형 코일 자계 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "원형 코일 자계 (draw)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/원형 코일의 자계.md"
+                "file": "Excalidraw/원형 코일 자계 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "원형 코일의 자계 의 파일 속성"
+              "title": "원형 코일 자계 (draw) 의 파일 속성"
             }
           },
           {
@@ -348,10 +361,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "172c7b8d0d0290a5",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전자기학.md",
+    "Excalidraw/원형 코일 자계 (draw).svg",
     "02. MOC/Home.md",
+    "Excalidraw/원형 코일 자계 (draw).md",
+    "02. MOC/🏛️ 전자기학.md",
     "04. Practice Notes/원형 코일의 자계.md",
     "03. Permanent Notes/유한한 직선 도체의 자계.md",
     "Excalidraw/유한한 길이 자계 (draw).md",
@@ -376,8 +391,6 @@
     "03. Permanent Notes/전파 정수.md",
     "03. Permanent Notes/변위 전류.md",
     "03. Permanent Notes/변위 전류 식 유도.md",
-    "03. Permanent Notes/자기 쌍극자.md",
-    "03. Permanent Notes/자기 이력 곡선.md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
     "Excalidraw/전계 (draw).svg",

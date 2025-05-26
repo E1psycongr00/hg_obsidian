@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "원형 코일의 자계",
-      "path": "04. Practice Notes/원형 코일의 자계.md"
+      "basename": "원형 코일 자계 (draw)",
+      "path": "Excalidraw/원형 코일 자계 (draw).md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "원형 코일의 자계",
+      "path": "04. Practice Notes/원형 코일의 자계.md"
     },
     {
       "basename": "유한한 직선 도체의 자계",
@@ -15,10 +23,6 @@
     {
       "basename": "유한한 길이 자계 (draw)",
       "path": "Excalidraw/유한한 길이 자계 (draw).md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "공극",
@@ -95,10 +99,6 @@
     {
       "basename": "자기 이력 곡선",
       "path": "03. Permanent Notes/자기 이력 곡선.md"
-    },
-    {
-      "basename": "비오 사바트의 법칙",
-      "path": "03. Permanent Notes/비오 사바트의 법칙.md"
     }
   ],
   "omittedPaths": [],
