@@ -11,10 +11,42 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02. MOC/🏛️ 전자기학.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "🏛️ 전자기학"
+            }
+          },
+          {
+            "id": "600cd6cb23a6b5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/유한한 길이의 자계.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "유한한 길이의 자계"
+            }
+          },
+          {
+            "id": "c2c99601b13c37fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/유한한 길이 자계 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "유한한 길이 자계 (draw)"
             }
           }
         ]
@@ -94,9 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02. MOC/🏛️ 전자기학.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "🏛️ 전자기학 의 파일 속성"
             }
           },
           {
@@ -326,9 +360,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "05945c099298a576",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/유한한 길이 자계 (draw).md",
     "02. MOC/🏛️ 전자기학.md",
+    "04. Practice Notes/유한한 길이의 자계.md",
+    "Excalidraw/유한한 길이 자계 (draw).svg",
+    "02. MOC/Home.md",
     "03. Permanent Notes/공극.md",
     "Excalidraw/공극 (draw).md",
     "Excalidraw/공극 (draw).svg",
@@ -347,13 +385,10 @@
     "03. Permanent Notes/내압.md",
     "04. Practice Notes/정재파.md",
     "03. Permanent Notes/전파 정수.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/변위 전류.md",
     "03. Permanent Notes/변위 전류 식 유도.md",
     "03. Permanent Notes/자기 쌍극자.md",
     "03. Permanent Notes/자기 이력 곡선.md",
-    "03. Permanent Notes/비오 사바트의 법칙.md",
-    "03. Permanent Notes/자기 회전력 식 유도하기.md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
     "Excalidraw/전계 (draw).svg",
@@ -362,7 +397,6 @@
     "Excalidraw/동기 발전기 단락 특성 곡선 (draw).svg",
     "Excalidraw/교차 기자력 (draw).svg",
     "Excalidraw/감자 기자력 (draw).svg",
-    "Excalidraw/배율기 (draw).svg",
     "Rules/무제",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",

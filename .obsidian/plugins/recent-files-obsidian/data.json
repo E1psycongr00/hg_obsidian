@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "유한한 길이 자계 (draw)",
+      "path": "Excalidraw/유한한 길이 자계 (draw).md"
+    },
+    {
+      "basename": "유한한 길이의 자계",
+      "path": "04. Practice Notes/유한한 길이의 자계.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "공극",
@@ -91,14 +99,6 @@
     {
       "basename": "자기 회전력 식 유도하기",
       "path": "03. Permanent Notes/자기 회전력 식 유도하기.md"
-    },
-    {
-      "basename": "앙페르의 주회법칙",
-      "path": "03. Permanent Notes/앙페르의 주회법칙.md"
-    },
-    {
-      "basename": "압전기 현상",
-      "path": "03. Permanent Notes/압전기 현상.md"
     }
   ],
   "omittedPaths": [],
