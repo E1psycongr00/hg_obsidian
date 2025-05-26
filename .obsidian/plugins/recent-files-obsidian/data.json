@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "상호 유도 인덕턴스",
-      "path": "03. Permanent Notes/상호 유도 인덕턴스.md"
+      "basename": "포인팅 벡터",
+      "path": "03. Permanent Notes/포인팅 벡터.md"
     },
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "변위 전류",
+      "path": "03. Permanent Notes/변위 전류.md"
+    },
+    {
+      "basename": "상호 유도 인덕턴스",
+      "path": "03. Permanent Notes/상호 유도 인덕턴스.md"
     },
     {
       "basename": "자기 인덕턴스",
@@ -27,10 +39,6 @@
     {
       "basename": "분극",
       "path": "03. Permanent Notes/분극.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "자기 회로",
@@ -91,14 +99,6 @@
     {
       "basename": "용량 계수",
       "path": "03. Permanent Notes/용량 계수.md"
-    },
-    {
-      "basename": "전위 계수",
-      "path": "03. Permanent Notes/전위 계수.md"
-    },
-    {
-      "basename": "유전체 경계면이 받는 힘",
-      "path": "03. Permanent Notes/유전체 경계면이 받는 힘.md"
     }
   ],
   "omittedPaths": [],
