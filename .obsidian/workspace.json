@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/물질의 자화.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전자기학"
+              "title": "물질의 자화"
             }
           },
           {
@@ -127,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md"
+                "file": "03. Permanent Notes/물질의 자화.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전자기학 의 파일 속성"
+              "title": "물질의 자화 의 파일 속성"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/물질의 자화.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전자기학 그래프"
+              "title": "물질의 자화 그래프"
             }
           },
           {
@@ -301,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "03. Permanent Notes/물질의 자화.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전자기학 의 개요"
+              "title": "물질의 자화 의 개요"
             }
           },
           {
@@ -352,8 +352,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/비오 사바트의 법칙.md",
     "02. MOC/🏛️ 전자기학.md",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/자기 회로.md",
+    "03. Permanent Notes/비오 사바트의 법칙.md",
     "03. Permanent Notes/자기 쌍극자.md",
     "03. Permanent Notes/자기 회전력 식 유도하기.md",
     "03. Permanent Notes/앙페르의 주회법칙.md",
@@ -363,7 +365,6 @@
     "03. Permanent Notes/도선 정전 용량.md",
     "Excalidraw/대전된 동심구 모형 (draw).md",
     "03. Permanent Notes/구도체의 정전 용량.md",
-    "02. MOC/Home.md",
     "Excalidraw/평행 도선 모형 (draw).md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
@@ -379,7 +380,6 @@
     "03. Permanent Notes/대류 전류.md",
     "03. Permanent Notes/전기장 에너지 밀도.md",
     "04. Practice Notes/전속 밀도.md",
-    "03. Permanent Notes/전속.md",
     "Excalidraw/전계 (draw).svg",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "Excalidraw/단락비 특성 마인드 맵 (draw).svg",
