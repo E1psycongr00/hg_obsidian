@@ -53,19 +53,19 @@
             }
           },
           {
-            "id": "bbc4d848057b3225",
+            "id": "278c8335609a86b5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/평행 도선 모형 (draw).md"
+                "file": "Excalidraw/대전된 동심구 모형 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "평행 도선 모형 (draw)"
+              "title": "대전된 동심구 모형 (draw)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -143,10 +143,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/평행 도선 모형 (draw).md"
+                "file": "04. Practice Notes/구도체의 정전 용량.md"
               },
               "icon": "lucide-info",
-              "title": "평행 도선 모형 (draw) 의 파일 속성"
+              "title": "구도체의 정전 용량 의 파일 속성"
             }
           },
           {
@@ -232,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/평행 도선 모형 (draw).md",
+                "file": "04. Practice Notes/구도체의 정전 용량.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -260,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "평행 도선 모형 (draw) 그래프"
+              "title": "구도체의 정전 용량 그래프"
             }
           },
           {
@@ -317,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/평행 도선 모형 (draw).md",
+                "file": "04. Practice Notes/구도체의 정전 용량.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "평행 도선 모형 (draw) 의 개요"
+              "title": "구도체의 정전 용량 의 개요"
             }
           },
           {
@@ -366,14 +366,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "bbc4d848057b3225",
+  "active": "c25d91b3d8a37792",
   "lastOpenFiles": [
-    "Excalidraw/평행 도선 모형 (draw).svg",
-    "02. MOC/Home.md",
-    "Excalidraw/평행 도선 모형 (draw).md",
-    "04. Practice Notes/도선 정전 용량.md",
     "Excalidraw/대전된 동심구 모형 (draw).md",
+    "02. MOC/Home.md",
     "04. Practice Notes/구도체의 정전 용량.md",
+    "04. Practice Notes/도선 정전 용량.md",
+    "Excalidraw/평행 도선 모형 (draw).md",
+    "Excalidraw/평행 도선 모형 (draw).svg",
     "02. MOC/🏛️ 전자기학.md",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
     "03. Permanent Notes/저항과 정전용량 관계.md",
@@ -403,7 +403,6 @@
     "Excalidraw/감자 기자력 (draw).svg",
     "Excalidraw/배율기 (draw).svg",
     "Excalidraw/역회로 (draw).svg",
-    "Excalidraw/대칭 3상 교류 발전기 모형 (draw).svg",
     "Rules/무제",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
