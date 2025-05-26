@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "도선 정전 용량",
+      "path": "04. Practice Notes/도선 정전 용량.md"
+    },
+    {
+      "basename": "구도체의 정전 용량",
+      "path": "04. Practice Notes/구도체의 정전 용량.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "곡선 좌표계와 미분 연산자",
       "path": "03. Permanent Notes/곡선 좌표계와 미분 연산자.md"
-    },
-    {
-      "basename": "스케일 팩터",
-      "path": "03. Permanent Notes/스케일 팩터.md"
-    },
-    {
-      "basename": "저압 뱅킹 방식",
-      "path": "03. Permanent Notes/저압 뱅킹 방식.md"
     }
   ],
   "omittedPaths": [],
