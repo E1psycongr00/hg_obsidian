@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "공극 (draw)",
+      "path": "Excalidraw/공극 (draw).md"
+    },
+    {
+      "basename": "공극",
+      "path": "04. Practice Notes/공극.md"
+    },
+    {
+      "basename": "접지된 구도체 영상법 (draw)",
+      "path": "Excalidraw/접지된 구도체 영상법 (draw).md"
+    },
+    {
+      "basename": "도선 정전 용량",
+      "path": "03. Permanent Notes/도선 정전 용량.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "압전기 현상",
       "path": "03. Permanent Notes/압전기 현상.md"
-    },
-    {
-      "basename": "전기 영상법",
-      "path": "03. Permanent Notes/전기 영상법.md"
-    },
-    {
-      "basename": "접지된 구도체 영상법 (draw)",
-      "path": "Excalidraw/접지된 구도체 영상법 (draw).md"
-    },
-    {
-      "basename": "도선 정전 용량",
-      "path": "03. Permanent Notes/도선 정전 용량.md"
-    },
-    {
-      "basename": "대전된 동심구 모형 (draw)",
-      "path": "Excalidraw/대전된 동심구 모형 (draw).md"
     }
   ],
   "omittedPaths": [],
