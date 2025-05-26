@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/도선 정전 용량.md",
+                "file": "03. Permanent Notes/도선 정전 용량.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -49,8 +49,7 @@
               "title": "대전된 동심구 모형 (draw)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/도선 정전 용량.md"
+                "file": "02. MOC/🏛️ 전자기학.md"
               },
               "icon": "lucide-info",
-              "title": "도선 정전 용량 의 파일 속성"
+              "title": "🏛️ 전자기학 의 파일 속성"
             }
           },
           {
@@ -217,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/도선 정전 용량.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -245,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "도선 정전 용량 그래프"
+              "title": "🏛️ 전자기학 그래프"
             }
           },
           {
@@ -302,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/도선 정전 용량.md",
+                "file": "02. MOC/🏛️ 전자기학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "도선 정전 용량 의 개요"
+              "title": "🏛️ 전자기학 의 개요"
             }
           },
           {
@@ -351,13 +350,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2d13816ae2f1900e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/도선 정전 용량.md",
     "02. MOC/🏛️ 전자기학.md",
     "03. Permanent Notes/구도체의 정전 용량.md",
     "Excalidraw/대전된 동심구 모형 (draw).md",
     "02. MOC/Home.md",
-    "04. Practice Notes/도선 정전 용량.md",
     "Excalidraw/평행 도선 모형 (draw).md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
