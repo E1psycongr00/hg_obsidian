@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "물질의 자화",
+      "path": "03. Permanent Notes/물질의 자화.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "전자기 에너지",
+      "path": "03. Permanent Notes/전자기 에너지.md"
+    },
+    {
       "basename": "포인팅 벡터",
       "path": "03. Permanent Notes/포인팅 벡터.md"
+    },
+    {
+      "basename": "전자기파",
+      "path": "03. Permanent Notes/전자기파.md"
     },
     {
       "basename": "내압",
@@ -15,10 +27,6 @@
     {
       "basename": "정재파",
       "path": "04. Practice Notes/정재파.md"
-    },
-    {
-      "basename": "전자기파",
-      "path": "03. Permanent Notes/전자기파.md"
     },
     {
       "basename": "전파 정수",
@@ -47,10 +55,6 @@
     {
       "basename": "자기 이력 곡선",
       "path": "03. Permanent Notes/자기 이력 곡선.md"
-    },
-    {
-      "basename": "물질의 자화",
-      "path": "03. Permanent Notes/물질의 자화.md"
     },
     {
       "basename": "분극",
@@ -95,10 +99,6 @@
     {
       "basename": "구도체의 정전 용량",
       "path": "03. Permanent Notes/구도체의 정전 용량.md"
-    },
-    {
-      "basename": "평행 도선 모형 (draw)",
-      "path": "Excalidraw/평행 도선 모형 (draw).md"
     }
   ],
   "omittedPaths": [],
