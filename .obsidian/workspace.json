@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/물질의 자화.md",
+                "file": "03. Permanent Notes/자기 인덕턴스.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "물질의 자화"
+              "title": "자기 인덕턴스"
             }
           },
           {
@@ -127,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/물질의 자화.md"
+                "file": "03. Permanent Notes/자기 인덕턴스.md"
               },
               "icon": "lucide-info",
-              "title": "물질의 자화 의 파일 속성"
+              "title": "자기 인덕턴스 의 파일 속성"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/물질의 자화.md",
+                "file": "03. Permanent Notes/자기 인덕턴스.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "물질의 자화 그래프"
+              "title": "자기 인덕턴스 그래프"
             }
           },
           {
@@ -301,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/물질의 자화.md",
+                "file": "03. Permanent Notes/자기 인덕턴스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "물질의 자화 의 개요"
+              "title": "자기 인덕턴스 의 개요"
             }
           },
           {
@@ -351,10 +351,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/분극.md",
-    "03. Permanent Notes/물질의 자화.md",
-    "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
     "02. MOC/🏛️ 전자기학.md",
+    "03. Permanent Notes/상호 유도 인덕턴스.md",
+    "03. Permanent Notes/자기 에너지.md",
+    "03. Permanent Notes/물질의 자화.md",
+    "03. Permanent Notes/분극.md",
+    "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
     "03. Permanent Notes/전자기 에너지.md",
     "03. Permanent Notes/포인팅 벡터.md",
     "03. Permanent Notes/전자기파.md",
@@ -364,7 +366,6 @@
     "02. MOC/Home.md",
     "03. Permanent Notes/변위 전류.md",
     "03. Permanent Notes/변위 전류 식 유도.md",
-    "03. Permanent Notes/상호 유도 인덕턴스.md",
     "03. Permanent Notes/자기 인덕턴스.md",
     "03. Permanent Notes/자기 쌍극자.md",
     "03. Permanent Notes/자기 이력 곡선.md",
@@ -376,7 +377,6 @@
     "03. Permanent Notes/전기 영상법.md",
     "Excalidraw/접지된 구도체 영상법 (draw).md",
     "03. Permanent Notes/도선 정전 용량.md",
-    "Excalidraw/대전된 동심구 모형 (draw).md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
     "Excalidraw/전계 (draw).svg",

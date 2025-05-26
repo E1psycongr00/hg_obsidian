@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "자기 인덕턴스",
+      "path": "03. Permanent Notes/자기 인덕턴스.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "상호 유도 인덕턴스",
+      "path": "03. Permanent Notes/상호 유도 인덕턴스.md"
+    },
+    {
+      "basename": "자기 에너지",
+      "path": "03. Permanent Notes/자기 에너지.md"
+    },
+    {
       "basename": "물질의 자화",
       "path": "03. Permanent Notes/물질의 자화.md"
     },
     {
       "basename": "분극",
       "path": "03. Permanent Notes/분극.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "전자기 에너지",
@@ -43,14 +55,6 @@
     {
       "basename": "변위 전류",
       "path": "03. Permanent Notes/변위 전류.md"
-    },
-    {
-      "basename": "상호 유도 인덕턴스",
-      "path": "03. Permanent Notes/상호 유도 인덕턴스.md"
-    },
-    {
-      "basename": "자기 인덕턴스",
-      "path": "03. Permanent Notes/자기 인덕턴스.md"
     },
     {
       "basename": "자기 쌍극자",
@@ -95,10 +99,6 @@
     {
       "basename": "대전된 동심구 모형 (draw)",
       "path": "Excalidraw/대전된 동심구 모형 (draw).md"
-    },
-    {
-      "basename": "구도체의 정전 용량",
-      "path": "03. Permanent Notes/구도체의 정전 용량.md"
     }
   ],
   "omittedPaths": [],
