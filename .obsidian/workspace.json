@@ -61,8 +61,7 @@
               "title": "공극 (draw)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,10 +139,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/공극 (draw).md"
+                "file": "04. Practice Notes/공극.md"
               },
               "icon": "lucide-info",
-              "title": "공극 (draw) 의 파일 속성"
+              "title": "공극 의 파일 속성"
             }
           },
           {
@@ -229,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/공극 (draw).md",
+                "file": "04. Practice Notes/공극.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -257,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "공극 (draw) 그래프"
+              "title": "공극 그래프"
             }
           },
           {
@@ -314,13 +313,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/공극 (draw).md",
+                "file": "04. Practice Notes/공극.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "공극 (draw) 의 개요"
+              "title": "공극 의 개요"
             }
           },
           {
@@ -333,7 +332,8 @@
               "title": "Smart composer chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -362,10 +362,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "745352cce8b6f9dc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/공극 (draw).svg",
     "Excalidraw/공극 (draw).md",
+    "Excalidraw/공극 (draw).svg",
     "04. Practice Notes/공극.md",
     "Excalidraw/접지된 구도체 영상법 (draw).md",
     "03. Permanent Notes/도선 정전 용량.md",
@@ -399,7 +399,6 @@
     "Excalidraw/교차 기자력 (draw).svg",
     "Excalidraw/감자 기자력 (draw).svg",
     "Excalidraw/배율기 (draw).svg",
-    "Excalidraw/역회로 (draw).svg",
     "Rules/무제",
     "templaters/scripts/processFileMovement.js",
     "templaters/config/conditionConfig.js",
