@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "톰슨 효과",
-      "path": "04. Practice Notes/톰슨 효과.md"
-    },
-    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "톰슨 효과",
+      "path": "03. Permanent Notes/톰슨 효과.md"
+    },
+    {
       "basename": "제벡 효과",
-      "path": "04. Practice Notes/제벡 효과.md"
+      "path": "03. Permanent Notes/제벡 효과.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "펠티에 효과",
@@ -23,10 +27,6 @@
     {
       "basename": "원형 코일의 자계",
       "path": "04. Practice Notes/원형 코일의 자계.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "유한한 직선 도체의 자계",
