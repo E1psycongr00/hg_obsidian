@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "제백 효과",
+      "path": "04. Practice Notes/제백 효과.md"
+    },
+    {
       "basename": "펠티에 효과",
-      "path": "04. Practice Notes/펠티에 효과.md"
+      "path": "03. Permanent Notes/펠티에 효과.md"
     },
     {
       "basename": "🏛️ 전자기학",
@@ -95,10 +99,6 @@
     {
       "basename": "변위 전류",
       "path": "03. Permanent Notes/변위 전류.md"
-    },
-    {
-      "basename": "자기 쌍극자",
-      "path": "03. Permanent Notes/자기 쌍극자.md"
     }
   ],
   "omittedPaths": [],

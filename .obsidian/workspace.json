@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/펠티에 효과.md",
+                "file": "03. Permanent Notes/펠티에 효과.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "펠티에 효과"
             }
+          },
+          {
+            "id": "ae2184da24b87ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/제백 효과.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "제백 효과"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/펠티에 효과.md"
+                "file": "04. Practice Notes/제백 효과.md"
               },
               "icon": "lucide-info",
-              "title": "펠티에 효과 의 파일 속성"
+              "title": "제백 효과 의 파일 속성"
             }
           },
           {
@@ -349,9 +364,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "9a682063c2453f49",
+  "active": "ae2184da24b87ffe",
   "lastOpenFiles": [
-    "04. Practice Notes/펠티에 효과.md",
+    "04. Practice Notes/제백 효과.md",
+    "03. Permanent Notes/펠티에 효과.md",
     "02. MOC/🏛️ 전자기학.md",
     "Excalidraw/원형 코일 자계 (draw).md",
     "04. Practice Notes/원형 코일의 자계.md",
@@ -379,7 +395,6 @@
     "04. Practice Notes/정재파.md",
     "03. Permanent Notes/전파 정수.md",
     "03. Permanent Notes/변위 전류.md",
-    "03. Permanent Notes/변위 전류 식 유도.md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
     "Excalidraw/전계 (draw).svg",
