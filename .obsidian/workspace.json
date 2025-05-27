@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "04. Practice Notes/자기 회로와 전기회로 특성 비교.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전자기학"
+              "title": "자기 회로와 전기회로 특성 비교"
             }
           },
           {
@@ -115,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md"
+                "file": "04. Practice Notes/자기 회로와 전기회로 특성 비교.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전자기학 의 파일 속성"
+              "title": "자기 회로와 전기회로 특성 비교 의 파일 속성"
             }
           },
           {
@@ -320,8 +320,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/바크하우젠 효과.md",
     "02. MOC/🏛️ 전자기학.md",
+    "04. Practice Notes/자기 회로와 전기회로 특성 비교.md",
+    "04. Practice Notes/바크하우젠 효과.md",
     "03. Permanent Notes/자왜 현상.md",
     "03. Permanent Notes/압전기 현상.md",
     "03. Permanent Notes/톰슨 효과.md",
@@ -348,7 +349,6 @@
     "04. Practice Notes/🔬자기장과 자화 관계 증명.md",
     "03. Permanent Notes/전자기 에너지.md",
     "03. Permanent Notes/포인팅 벡터.md",
-    "03. Permanent Notes/전자기파.md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
     "Excalidraw/전계 (draw).svg",

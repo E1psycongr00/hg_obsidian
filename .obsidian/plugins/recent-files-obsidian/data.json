@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "자기 회로와 전기회로 특성 비교",
+      "path": "04. Practice Notes/자기 회로와 전기회로 특성 비교.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "포인팅 벡터",
       "path": "03. Permanent Notes/포인팅 벡터.md"
-    },
-    {
-      "basename": "전자기파",
-      "path": "03. Permanent Notes/전자기파.md"
     }
   ],
   "omittedPaths": [],
