@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/오차 상수.md"
+                "file": "02. MOC/🏛️ 제어 공학.md"
               },
               "icon": "lucide-info",
-              "title": "오차 상수 의 파일 속성"
+              "title": "🏛️ 제어 공학 의 파일 속성"
             }
           },
           {
@@ -314,11 +314,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "29d1bbbbe6fca5dd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/전달 함수 요소.md",
     "02. MOC/🏛️ 제어 공학.md",
-    "03. Permanent Notes/정상 응답 오차.md",
     "03. Permanent Notes/시스템 감도.md",
+    "03. Permanent Notes/오차 상수.md",
+    "03. Permanent Notes/정상 속도 편차 상수.md",
+    "03. Permanent Notes/정상 가속도 편차 상수.md",
+    "03. Permanent Notes/정상 위치 편차 상수.md",
+    "03. Permanent Notes/정상 응답 오차.md",
     "03. Permanent Notes/과도 응답 용어 (부족 제동 시스템).md",
     "03. Permanent Notes/2차 지연 제어계의 인디셜 과도 응답 특성.md",
     "03. Permanent Notes/1차 지연 제어계의 인디셜 과도 응답 특성.md",
@@ -339,13 +344,8 @@
     "03. Permanent Notes/펠티에 효과.md",
     "Excalidraw/원형 코일 자계 (draw).md",
     "Excalidraw/원형 코일 자계 (draw).svg",
-    "03. Permanent Notes/유한한 직선 도체의 자계.md",
-    "Excalidraw/유한한 길이 자계 (draw).md",
     "Excalidraw/유한한 길이 자계 (draw).svg",
-    "03. Permanent Notes/공극.md",
-    "Excalidraw/공극 (draw).md",
     "Excalidraw/공극 (draw).svg",
-    "Excalidraw/접지된 구도체 영상법 (draw).md",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
     "Excalidraw/전계 (draw).svg",
