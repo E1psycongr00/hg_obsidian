@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "자기 회로와 전기회로 특성 비교",
-      "path": "04. Practice Notes/자기 회로와 전기회로 특성 비교.md"
-    },
-    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "자왜 현상",
+      "path": "03. Permanent Notes/자왜 현상.md"
+    },
+    {
+      "basename": "자기 여자 효과",
+      "path": "03. Permanent Notes/자기 여자 효과.md"
     },
     {
       "basename": "바크하우젠 효과",
       "path": "04. Practice Notes/바크하우젠 효과.md"
     },
     {
-      "basename": "자왜 현상",
-      "path": "03. Permanent Notes/자왜 현상.md"
+      "basename": "자기 회로와 전기회로 특성 비교",
+      "path": "03. Permanent Notes/자기 회로와 전기회로 특성 비교.md"
     },
     {
       "basename": "압전기 현상",
@@ -95,10 +99,6 @@
     {
       "basename": "전자기 에너지",
       "path": "03. Permanent Notes/전자기 에너지.md"
-    },
-    {
-      "basename": "포인팅 벡터",
-      "path": "03. Permanent Notes/포인팅 벡터.md"
     }
   ],
   "omittedPaths": [],
