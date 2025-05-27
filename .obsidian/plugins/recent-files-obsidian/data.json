@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
+      "basename": "압전기 현상",
+      "path": "03. Permanent Notes/압전기 현상.md"
+    },
+    {
       "basename": "톰슨 효과",
       "path": "03. Permanent Notes/톰슨 효과.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "정재파",
       "path": "04. Practice Notes/정재파.md"
-    },
-    {
-      "basename": "전파 정수",
-      "path": "03. Permanent Notes/전파 정수.md"
     }
   ],
   "omittedPaths": [],
