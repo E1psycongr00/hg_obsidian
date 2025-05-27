@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "원형 코일의 자계",
-      "path": "04. Practice Notes/원형 코일의 자계.md"
+      "basename": "펠티에 효과",
+      "path": "04. Practice Notes/펠티에 효과.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
     },
     {
       "basename": "원형 코일 자계 (draw)",
       "path": "Excalidraw/원형 코일 자계 (draw).md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "원형 코일의 자계",
+      "path": "04. Practice Notes/원형 코일의 자계.md"
     },
     {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "유한한 직선 도체의 자계",
@@ -95,10 +99,6 @@
     {
       "basename": "자기 쌍극자",
       "path": "03. Permanent Notes/자기 쌍극자.md"
-    },
-    {
-      "basename": "자기 이력 곡선",
-      "path": "03. Permanent Notes/자기 이력 곡선.md"
     }
   ],
   "omittedPaths": [],

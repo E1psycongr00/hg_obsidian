@@ -13,23 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/원형 코일의 자계.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "원형 코일의 자계"
-            }
-          },
-          {
-            "id": "ff004527d3be030a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "02. MOC/🏛️ 전자기학.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -38,18 +23,22 @@
             }
           },
           {
-            "id": "172c7b8d0d0290a5",
+            "id": "9a682063c2453f49",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/원형 코일 자계 (draw).md"
+                "file": "04. Practice Notes/펠티에 효과.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "원형 코일 자계 (draw)"
+              "icon": "lucide-file",
+              "title": "펠티에 효과"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/원형 코일의 자계.md"
+                "file": "04. Practice Notes/펠티에 효과.md"
               },
               "icon": "lucide-info",
-              "title": "원형 코일의 자계 의 파일 속성"
+              "title": "펠티에 효과 의 파일 속성"
             }
           },
           {
@@ -360,13 +349,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9a682063c2453f49",
   "lastOpenFiles": [
+    "04. Practice Notes/펠티에 효과.md",
+    "02. MOC/🏛️ 전자기학.md",
     "Excalidraw/원형 코일 자계 (draw).md",
+    "04. Practice Notes/원형 코일의 자계.md",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "02. MOC/Home.md",
-    "02. MOC/🏛️ 전자기학.md",
-    "04. Practice Notes/원형 코일의 자계.md",
     "03. Permanent Notes/유한한 직선 도체의 자계.md",
     "Excalidraw/유한한 길이 자계 (draw).md",
     "Excalidraw/유한한 길이 자계 (draw).svg",
