@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "바크하우젠 효과",
+      "path": "04. Practice Notes/바크하우젠 효과.md"
+    },
+    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "자왜 현상",
+      "path": "03. Permanent Notes/자왜 현상.md"
     },
     {
       "basename": "압전기 현상",
@@ -91,14 +99,6 @@
     {
       "basename": "전자기파",
       "path": "03. Permanent Notes/전자기파.md"
-    },
-    {
-      "basename": "내압",
-      "path": "03. Permanent Notes/내압.md"
-    },
-    {
-      "basename": "정재파",
-      "path": "04. Practice Notes/정재파.md"
     }
   ],
   "omittedPaths": [],
