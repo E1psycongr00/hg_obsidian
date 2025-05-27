@@ -37,8 +37,7 @@
               "title": "바크하우젠 효과"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +115,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/바크하우젠 효과.md"
+                "file": "02. MOC/🏛️ 전자기학.md"
               },
               "icon": "lucide-info",
-              "title": "바크하우젠 효과 의 파일 속성"
+              "title": "🏛️ 전자기학 의 파일 속성"
             }
           },
           {
@@ -319,7 +318,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b95a548e7afaee81",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "04. Practice Notes/바크하우젠 효과.md",
     "02. MOC/🏛️ 전자기학.md",
