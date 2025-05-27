@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "제백 효과",
-      "path": "04. Practice Notes/제백 효과.md"
-    },
-    {
-      "basename": "펠티에 효과",
-      "path": "03. Permanent Notes/펠티에 효과.md"
+      "basename": "톰슨 효과",
+      "path": "04. Practice Notes/톰슨 효과.md"
     },
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "제벡 효과",
+      "path": "04. Practice Notes/제벡 효과.md"
+    },
+    {
+      "basename": "펠티에 효과",
+      "path": "03. Permanent Notes/펠티에 효과.md"
     },
     {
       "basename": "원형 코일 자계 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "전파 정수",
       "path": "03. Permanent Notes/전파 정수.md"
-    },
-    {
-      "basename": "변위 전류",
-      "path": "03. Permanent Notes/변위 전류.md"
     }
   ],
   "omittedPaths": [],
