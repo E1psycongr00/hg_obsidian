@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 제어 공학.md"
     },
     {
+      "basename": "외란",
+      "path": "03. Permanent Notes/외란.md"
+    },
+    {
       "basename": "오차 상수",
       "path": "03. Permanent Notes/오차 상수.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "자기 인덕턴스",
       "path": "03. Permanent Notes/자기 인덕턴스.md"
-    },
-    {
-      "basename": "상호 유도 인덕턴스",
-      "path": "03. Permanent Notes/상호 유도 인덕턴스.md"
     }
   ],
   "omittedPaths": [],
