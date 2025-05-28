@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "분류기",
+      "path": "03. Permanent Notes/분류기.md"
+    },
+    {
+      "basename": "배율기",
+      "path": "03. Permanent Notes/배율기.md"
+    },
+    {
       "basename": "🏛️ 제어 공학",
       "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "추치 제어",
+      "path": "03. Permanent Notes/추치 제어.md"
     },
     {
       "basename": "외란",
@@ -83,22 +99,6 @@
     {
       "basename": "접지된 구도체 영상법 (draw)",
       "path": "Excalidraw/접지된 구도체 영상법 (draw).md"
-    },
-    {
-      "basename": "도선 정전 용량",
-      "path": "03. Permanent Notes/도선 정전 용량.md"
-    },
-    {
-      "basename": "자기 회로",
-      "path": "03. Permanent Notes/자기 회로.md"
-    },
-    {
-      "basename": "자기 에너지",
-      "path": "03. Permanent Notes/자기 에너지.md"
-    },
-    {
-      "basename": "자기 인덕턴스",
-      "path": "03. Permanent Notes/자기 인덕턴스.md"
     }
   ],
   "omittedPaths": [],
