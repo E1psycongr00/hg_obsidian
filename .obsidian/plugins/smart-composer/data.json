@@ -244,13 +244,6 @@
       "enable": false
     },
     {
-      "providerType": "openrouter",
-      "providerId": "openrouter",
-      "id": "오픈라우터 제미나이 pro 2.5",
-      "model": "google/gemini-2.5-pro-exp-03-25",
-      "promptLevel": 1
-    },
-    {
       "providerType": "gemini",
       "providerId": "gemini",
       "id": "gemini 2.5 flash",
