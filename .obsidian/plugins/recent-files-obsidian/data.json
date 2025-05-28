@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "공극",
+      "path": "03. Permanent Notes/공극.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -57,10 +65,6 @@
       "path": "03. Permanent Notes/바크하우젠 효과.md"
     },
     {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
-    },
-    {
       "basename": "자왜 현상",
       "path": "03. Permanent Notes/자왜 현상.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "유한한 직선 도체의 자계",
       "path": "03. Permanent Notes/유한한 직선 도체의 자계.md"
-    },
-    {
-      "basename": "유한한 길이 자계 (draw)",
-      "path": "Excalidraw/유한한 길이 자계 (draw).md"
     }
   ],
   "omittedPaths": [],
