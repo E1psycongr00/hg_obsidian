@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 1",
+      "path": "무제 1.md"
+    },
+    {
       "basename": "무제 2",
       "path": "무제 2.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "원형 코일 자계 (draw)",
       "path": "Excalidraw/원형 코일 자계 (draw).md"
-    },
-    {
-      "basename": "원형 코일의 자계",
-      "path": "04. Practice Notes/원형 코일의 자계.md"
     }
   ],
   "omittedPaths": [],
