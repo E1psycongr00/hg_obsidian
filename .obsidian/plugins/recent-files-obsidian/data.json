@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
       "basename": "무제 2",
@@ -11,6 +11,10 @@
     {
       "basename": "무제 1",
       "path": "무제 1.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -95,10 +99,6 @@
     {
       "basename": "펠티에 효과",
       "path": "03. Permanent Notes/펠티에 효과.md"
-    },
-    {
-      "basename": "원형 코일 자계 (draw)",
-      "path": "Excalidraw/원형 코일 자계 (draw).md"
     }
   ],
   "omittedPaths": [],
