@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "b5d4f15e208cc384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "무제 2.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "무제 2 의 파일 속성"
             }
           },
           {
@@ -254,6 +270,16 @@
             "id": "6b1d7956e36fb370",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "2119a7d93e0e2ab0",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -261,7 +287,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "92582217f19033e7",
@@ -324,8 +350,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b5d4f15e208cc384",
   "lastOpenFiles": [
+    "무제 2.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/슬립.md",
@@ -350,8 +378,6 @@
     "03. Permanent Notes/오차 상수.md",
     "03. Permanent Notes/정상 속도 편차 상수.md",
     "03. Permanent Notes/정상 가속도 편차 상수.md",
-    "03. Permanent Notes/정상 위치 편차 상수.md",
-    "03. Permanent Notes/정상 응답 오차.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
