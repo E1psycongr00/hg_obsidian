@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 1.md",
+                "file": "무제 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제 1"
+              "title": "무제 2"
             }
           }
         ],
@@ -116,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 1.md"
+                "file": "무제 2.md"
               },
               "icon": "lucide-info",
-              "title": "무제 1 의 파일 속성"
+              "title": "무제 2 의 파일 속성"
             }
           },
           {
@@ -350,8 +350,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b5d4f15e208cc384",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "무제 1.md",
     "무제 2.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기.md",
@@ -377,7 +378,6 @@
     "03. Permanent Notes/시스템 감도.md",
     "03. Permanent Notes/오차 상수.md",
     "03. Permanent Notes/정상 속도 편차 상수.md",
-    "03. Permanent Notes/정상 가속도 편차 상수.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
