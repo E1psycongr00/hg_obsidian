@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 2.md",
+                "file": "무제 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제 2"
+              "title": "무제 1"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 2.md"
+                "file": "무제 1.md"
               },
               "icon": "lucide-info",
-              "title": "무제 2 의 파일 속성"
+              "title": "무제 1 의 파일 속성"
             }
           },
           {
@@ -346,8 +346,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "무제 1.md",
     "무제 2.md",
+    "무제 1.md",
     "무제.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기.md",
