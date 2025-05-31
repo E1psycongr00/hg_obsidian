@@ -274,6 +274,16 @@
             "id": "5ed2a333cac26f33",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "9d03fe3f6ff035d5",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -281,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "92582217f19033e7",
@@ -346,10 +356,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "무제 1.md",
-    "무제 2.md",
-    "무제.md",
     "02. MOC/Home.md",
+    "무제 2.md",
+    "무제 1.md",
+    "무제.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/유도 전동기와 토크 특성.md",
     "03. Permanent Notes/슬립.md",
