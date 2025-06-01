@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "시스템 콜",
+      "path": "03. Permanent Notes/시스템 콜.md"
+    },
+    {
+      "basename": "시스템 콜 레퍼런스",
+      "path": "03. Permanent Notes/시스템 콜 레퍼런스.md"
+    },
+    {
+      "basename": "시정수",
+      "path": "03. Permanent Notes/시정수.md"
+    },
+    {
       "basename": "파일 디스크립터",
       "path": "03. Permanent Notes/파일 디스크립터.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "추치 제어",
       "path": "03. Permanent Notes/추치 제어.md"
-    },
-    {
-      "basename": "외란",
-      "path": "03. Permanent Notes/외란.md"
-    },
-    {
-      "basename": "오차 상수",
-      "path": "03. Permanent Notes/오차 상수.md"
-    },
-    {
-      "basename": "근궤적",
-      "path": "03. Permanent Notes/근궤적.md"
     }
   ],
   "omittedPaths": [],

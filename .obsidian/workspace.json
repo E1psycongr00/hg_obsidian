@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/파일 디스크립터.md",
+                "file": "03. Permanent Notes/시스템 콜.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "파일 디스크립터"
+              "title": "시스템 콜"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/파일 디스크립터.md"
+                "file": "03. Permanent Notes/시스템 콜.md"
               },
               "icon": "lucide-info",
-              "title": "파일 디스크립터 의 파일 속성"
+              "title": "시스템 콜 의 파일 속성"
             }
           },
           {
@@ -353,8 +353,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "05945c099298a576",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/시스템 콜 레퍼런스.md",
+    "03. Permanent Notes/시정수.md",
+    "03. Permanent Notes/파일 디스크립터.md",
     "03. Permanent Notes/특성 임피던스.md",
     "03. Permanent Notes/콘덴서.md",
     "02. MOC/🏛️ 전력 공학.md",
@@ -378,9 +381,6 @@
     "02. MOC/🏛️ 회로 이론.md",
     "04. Practice Notes/정재파.md",
     "03. Permanent Notes/전파 정수.md",
-    "03. Permanent Notes/분포 정수 회로.md",
-    "03. Permanent Notes/분류기.md",
-    "03. Permanent Notes/배율기.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
