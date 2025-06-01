@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "파일 디스크립터",
+      "path": "03. Permanent Notes/파일 디스크립터.md"
+    },
+    {
+      "basename": "특성 임피던스",
+      "path": "03. Permanent Notes/특성 임피던스.md"
+    },
+    {
       "basename": "콘덴서",
       "path": "03. Permanent Notes/콘덴서.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "근궤적",
       "path": "03. Permanent Notes/근궤적.md"
-    },
-    {
-      "basename": "자기 여자 효과",
-      "path": "03. Permanent Notes/자기 여자 효과.md"
-    },
-    {
-      "basename": "바크하우젠 효과",
-      "path": "03. Permanent Notes/바크하우젠 효과.md"
     }
   ],
   "omittedPaths": [],
