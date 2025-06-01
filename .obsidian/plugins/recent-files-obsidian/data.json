@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "수두",
+      "path": "03. Permanent Notes/수두.md"
+    },
+    {
+      "basename": "속류",
+      "path": "03. Permanent Notes/속류.md"
+    },
+    {
+      "basename": "송전 전력",
+      "path": "03. Permanent Notes/송전 전력.md"
+    },
+    {
+      "basename": "수력 발전",
+      "path": "03. Permanent Notes/수력 발전.md"
+    },
+    {
+      "basename": "수력 발전소 출력",
+      "path": "03. Permanent Notes/수력 발전소 출력.md"
+    },
+    {
+      "basename": "수소 냉각 방식",
+      "path": "03. Permanent Notes/수소 냉각 방식.md"
+    },
+    {
+      "basename": "수은 정류기",
+      "path": "03. Permanent Notes/수은 정류기.md"
+    },
+    {
+      "basename": "수은 정류기의 역호 현상",
+      "path": "03. Permanent Notes/수은 정류기의 역호 현상.md"
+    },
+    {
+      "basename": "수지식 선로",
+      "path": "03. Permanent Notes/수지식 선로.md"
+    },
+    {
+      "basename": "수차별 특유 속도 정리",
+      "path": "03. Permanent Notes/수차별 특유 속도 정리.md"
+    },
+    {
+      "basename": "수차의 낙차에 따른 특성 변화",
+      "path": "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md"
+    },
+    {
+      "basename": "수차의 특유 속도",
+      "path": "03. Permanent Notes/수차의 특유 속도.md"
+    },
+    {
+      "basename": "스케일 팩터",
+      "path": "03. Permanent Notes/스케일 팩터.md"
+    },
+    {
+      "basename": "수하 특성",
+      "path": "03. Permanent Notes/수하 특성.md"
+    },
+    {
+      "basename": "슬라이딩 윈도우를 활용한 라운드 로빈 알고리즘",
+      "path": "03. Permanent Notes/슬라이딩 윈도우를 활용한 라운드 로빈 알고리즘.md"
+    },
+    {
+      "basename": "슬립",
+      "path": "03. Permanent Notes/슬립.md"
+    },
+    {
+      "basename": "승자가 되기 위해서는 by donald trump",
+      "path": "03. Permanent Notes/승자가 되기 위해서는 by donald trump.md"
+    },
+    {
+      "basename": "시변 자기장과 정지 루프 기전력",
+      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
+    },
+    {
+      "basename": "시스템 감도",
+      "path": "03. Permanent Notes/시스템 감도.md"
+    },
+    {
       "basename": "시스템 콜",
       "path": "03. Permanent Notes/시스템 콜.md"
     },
@@ -23,82 +99,6 @@
     {
       "basename": "콘덴서",
       "path": "03. Permanent Notes/콘덴서.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "역률 개선의 필요성",
-      "path": "04. Practice Notes/역률 개선의 필요성.md"
-    },
-    {
-      "basename": "페란티 현상",
-      "path": "03. Permanent Notes/페란티 현상.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "옵시디언 글쓰기 Rule",
-      "path": "Rules/옵시디언 글쓰기 Rule.md"
-    },
-    {
-      "basename": "📑 글 일관성 검사 및 가독성 평가 Rule",
-      "path": "Rules/📑 글 일관성 검사 및 가독성 평가 Rule.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
-    },
-    {
-      "basename": "무제 1",
-      "path": "무제 1.md"
-    },
-    {
-      "basename": "무제 2",
-      "path": "무제 2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
-    },
-    {
-      "basename": "공극",
-      "path": "03. Permanent Notes/공극.md"
-    },
-    {
-      "basename": "유도 전압 조정기",
-      "path": "03. Permanent Notes/유도 전압 조정기.md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "분류기",
-      "path": "03. Permanent Notes/분류기.md"
-    },
-    {
-      "basename": "배율기",
-      "path": "03. Permanent Notes/배율기.md"
-    },
-    {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
-    },
-    {
-      "basename": "추치 제어",
-      "path": "03. Permanent Notes/추치 제어.md"
     }
   ],
   "omittedPaths": [],
