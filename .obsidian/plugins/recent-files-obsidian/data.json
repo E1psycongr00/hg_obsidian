@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "콘덴서",
+      "path": "03. Permanent Notes/콘덴서.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "역률 개선의 필요성",
+      "path": "04. Practice Notes/역률 개선의 필요성.md"
+    },
+    {
+      "basename": "페란티 현상",
+      "path": "03. Permanent Notes/페란티 현상.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
       "basename": "옵시디언 글쓰기 Rule",
       "path": "Rules/옵시디언 글쓰기 Rule.md"
     },
@@ -41,10 +61,6 @@
       "path": "03. Permanent Notes/유도 전압 조정기.md"
     },
     {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "바크하우젠 효과",
       "path": "03. Permanent Notes/바크하우젠 효과.md"
-    },
-    {
-      "basename": "자왜 현상",
-      "path": "03. Permanent Notes/자왜 현상.md"
-    },
-    {
-      "basename": "자기 회로와 전기회로 특성 비교",
-      "path": "03. Permanent Notes/자기 회로와 전기회로 특성 비교.md"
-    },
-    {
-      "basename": "압전기 현상",
-      "path": "03. Permanent Notes/압전기 현상.md"
-    },
-    {
-      "basename": "톰슨 효과",
-      "path": "03. Permanent Notes/톰슨 효과.md"
     }
   ],
   "omittedPaths": [],
