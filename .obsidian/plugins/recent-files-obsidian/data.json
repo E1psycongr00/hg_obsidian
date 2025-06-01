@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 2",
-      "path": "무제 2.md"
+      "basename": "옵시디언 글쓰기 Rule",
+      "path": "Rules/옵시디언 글쓰기 Rule.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "📑 글 일관성 검사 및 가독성 평가 Rule",
+      "path": "Rules/📑 글 일관성 검사 및 가독성 평가 Rule.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
       "basename": "무제 1",
       "path": "무제 1.md"
     },
     {
-      "basename": "무제",
-      "path": "무제.md"
+      "basename": "무제 2",
+      "path": "무제 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -91,14 +99,6 @@
     {
       "basename": "톰슨 효과",
       "path": "03. Permanent Notes/톰슨 효과.md"
-    },
-    {
-      "basename": "제벡 효과",
-      "path": "03. Permanent Notes/제벡 효과.md"
-    },
-    {
-      "basename": "펠티에 효과",
-      "path": "03. Permanent Notes/펠티에 효과.md"
     }
   ],
   "omittedPaths": [],
