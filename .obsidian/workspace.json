@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 ) 의 파일 속성"
             }
           },
           {
@@ -315,9 +315,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 오브젝트 - 조용호.md",
+    "02. MOC/Home.md",
+    "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/수력 발전소 출력.md",
     "02. MOC/🏛️ 전력 공학.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/수두.md",
     "03. Permanent Notes/속류.md",
@@ -339,8 +341,6 @@
     "03. Permanent Notes/시스템 감도.md",
     "03. Permanent Notes/시스템 콜.md",
     "03. Permanent Notes/시스템 콜 레퍼런스.md",
-    "03. Permanent Notes/시정수.md",
-    "03. Permanent Notes/파일 디스크립터.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
+      "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
+    },
+    {
+      "basename": "🏛️ 오브젝트 - 조용호",
+      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
       "basename": "수두",
@@ -87,18 +99,6 @@
     {
       "basename": "시스템 콜 레퍼런스",
       "path": "03. Permanent Notes/시스템 콜 레퍼런스.md"
-    },
-    {
-      "basename": "시정수",
-      "path": "03. Permanent Notes/시정수.md"
-    },
-    {
-      "basename": "파일 디스크립터",
-      "path": "03. Permanent Notes/파일 디스크립터.md"
-    },
-    {
-      "basename": "특성 임피던스",
-      "path": "03. Permanent Notes/특성 임피던스.md"
     }
   ],
   "omittedPaths": [],
