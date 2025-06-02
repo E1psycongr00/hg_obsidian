@@ -231,16 +231,6 @@
             }
           },
           {
-            "id": "9d03fe3f6ff035d5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "1fa61e6aa011dd6d",
             "type": "leaf",
             "state": {
@@ -251,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "92582217f19033e7",
@@ -313,12 +303,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "da686ca83a9dd244",
   "lastOpenFiles": [
+    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "02. MOC/🏛️ 오브젝트 - 조용호.md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
     "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md",
-    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/수력 발전소 출력.md",
