@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md",
+                "file": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📚 객체지향 프로그래밍 (오브젝트 - 조용호)"
+              "title": "📚 객체, 설계 (오브젝트 - 조용호)"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md"
+                "file": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
               },
               "icon": "lucide-info",
-              "title": "📚 객체지향 프로그래밍 (오브젝트 - 조용호) 의 파일 속성"
+              "title": "📚 객체, 설계 (오브젝트 - 조용호) 의 파일 속성"
             }
           },
           {
@@ -316,8 +316,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 오브젝트 - 조용호.md",
-    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md",
+    "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md",
+    "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/수력 발전소 출력.md",
@@ -340,7 +341,6 @@
     "03. Permanent Notes/슬립.md",
     "03. Permanent Notes/승자가 되기 위해서는 by donald trump.md",
     "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md",
-    "03. Permanent Notes/시스템 감도.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
