@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "RDD 책임 지향 설계",
+      "path": "04. Practice Notes/RDD 책임 지향 설계.md"
+    },
+    {
+      "basename": "🏛️ 프로그래밍 Rule",
+      "path": "02. MOC/🏛️ 프로그래밍 Rule.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "승자가 되기 위해서는 by donald trump",
       "path": "03. Permanent Notes/승자가 되기 위해서는 by donald trump.md"
-    },
-    {
-      "basename": "시변 자기장과 정지 루프 기전력",
-      "path": "03. Permanent Notes/시변 자기장과 정지 루프 기전력.md"
-    },
-    {
-      "basename": "시스템 감도",
-      "path": "03. Permanent Notes/시스템 감도.md"
     }
   ],
   "omittedPaths": [],
