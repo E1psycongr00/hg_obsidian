@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "RDD 책임 지향 설계",
-      "path": "04. Practice Notes/RDD 책임 지향 설계.md"
+      "basename": "🏛️ AI 프롬프트 모음",
+      "path": "02. MOC/🏛️ AI 프롬프트 모음.md"
     },
     {
-      "basename": "🏛️ 프로그래밍 Rule",
-      "path": "02. MOC/🏛️ 프로그래밍 Rule.md"
+      "basename": "RDD 책임 지향 설계 프롬프트",
+      "path": "03. Permanent Notes/RDD 책임 지향 설계 프롬프트.md"
+    },
+    {
+      "basename": "무제 3",
+      "path": "무제 3.md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "슬립",
       "path": "03. Permanent Notes/슬립.md"
-    },
-    {
-      "basename": "승자가 되기 위해서는 by donald trump",
-      "path": "03. Permanent Notes/승자가 되기 위해서는 by donald trump.md"
     }
   ],
   "omittedPaths": [],
