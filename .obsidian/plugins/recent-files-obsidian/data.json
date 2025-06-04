@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "인터페이스 분리 원칙",
       "path": "04. Practice Notes/인터페이스 분리 원칙.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "🏛️ GoF 디자인 패턴",
       "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Open Closed Principle",
