@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "JDK 11 주요 특징 및 패치 분석",
+      "path": "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 11 공식 문서",
+      "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
+    },
+    {
       "basename": "JDK 8 주요 특징 및 패치 분석",
       "path": "04. Practice Notes/JDK 8 주요 특징 및 패치 분석.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "좀 더 세분화된 RDD 프로젝트 by Java",
       "path": "03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java.md"
-    },
-    {
-      "basename": "Tag Guides",
-      "path": "01. Guides/Tag Guides.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
     }
   ],
   "omittedPaths": [],
