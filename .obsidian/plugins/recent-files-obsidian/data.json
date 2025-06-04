@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "분석된스타일",
-      "path": "분석된스타일.md"
-    },
-    {
       "basename": "AI Note 관리 Guides",
       "path": "01. Guides/AI Note 관리 Guides.md"
+    },
+    {
+      "basename": "AI 지식 구조화 및 자동화 전략",
+      "path": "01. Guides/AI 지식 구조화 및 자동화 전략.md"
+    },
+    {
+      "basename": "분석된스타일",
+      "path": "분석된스타일.md"
     },
     {
       "basename": "Folder Guides",
@@ -95,10 +99,6 @@
     {
       "basename": "수소 냉각 방식",
       "path": "03. Permanent Notes/수소 냉각 방식.md"
-    },
-    {
-      "basename": "수은 정류기",
-      "path": "03. Permanent Notes/수은 정류기.md"
     }
   ],
   "omittedPaths": [],
