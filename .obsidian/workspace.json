@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java version",
+                "query": "디자인 패턴",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -81,8 +81,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -306,8 +305,8 @@
   },
   "active": "443dea622055e96a",
   "lastOpenFiles": [
-    "09. PARA/3.Resources/IT/객체지향/객체 지향.md",
     "03. Permanent Notes/상태 패턴.md",
+    "09. PARA/3.Resources/IT/객체지향/객체 지향.md",
     "03. Permanent Notes/Java 배포판(distribution) (Oracle JDK vs Open JDK).md",
     "Excalidraw/Drawing 2025-06-04 20.08.46.excalidraw.md",
     "02. MOC/Home.md",
