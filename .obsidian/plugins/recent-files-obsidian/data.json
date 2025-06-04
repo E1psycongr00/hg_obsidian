@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "AI Note 관리 전략",
+      "path": "00. AI Rules/AI Note 관리 전략.md"
+    },
+    {
+      "basename": "AI 지식 구조화 및 자동화 전략",
+      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+    },
+    {
+      "basename": "AI 노트 유형별 글쓰기 전략",
+      "path": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md"
+    },
+    {
+      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
+      "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 11 공식 문서",
+      "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
+    },
+    {
       "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
       "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 8 공식 문서",
+      "path": "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
+    },
+    {
+      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
+      "path": "07. Solution Notes/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
     },
     {
       "basename": "Home",
@@ -29,16 +61,8 @@
       "path": "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md"
     },
     {
-      "basename": "📚 Oracle JDK 11 공식 문서",
-      "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
-    },
-    {
       "basename": "변압기 Y-Y 결선",
       "path": "04. Practice Notes/변압기 Y-Y 결선.md"
-    },
-    {
-      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
-      "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
     },
     {
       "basename": "Flyway 사용하기 with Gradle",
@@ -75,22 +99,6 @@
     {
       "basename": "단권 변압기 Y결선",
       "path": "03. Permanent Notes/단권 변압기 Y결선.md"
-    },
-    {
-      "basename": "동기 발전기",
-      "path": "04. Practice Notes/동기 발전기.md"
-    },
-    {
-      "basename": "노튼 정리",
-      "path": "03. Permanent Notes/노튼 정리.md"
-    },
-    {
-      "basename": "단로기",
-      "path": "03. Permanent Notes/단로기.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 8 공식 문서",
-      "path": "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
     }
   ],
   "omittedPaths": [],
