@@ -85798,7 +85798,7 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "2.12.1",
+  "previousRelease": "2.12.2",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",

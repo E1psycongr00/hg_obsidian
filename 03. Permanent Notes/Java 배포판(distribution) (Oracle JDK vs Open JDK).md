@@ -7,8 +7,6 @@ created: 2023-10-04T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---
-작성 날짜: 2023-10-04
-작성 시간: 14:33
 
 
 ----
@@ -64,7 +62,6 @@ Rafeal Winterhalter는 OS, 아키텍처, 라이선스, 자원 및 유지 관리 
 - https://www.redhat.com/en/topics/application-modernization/openjdk-vs-oracle-jdk
 - https://www.openlogic.com/blog/java-experts-openjdk-vs-oracle-jdk
 ## 연결 노트
-- [[무료와 독점 JDK 모음]]
 
 
 
