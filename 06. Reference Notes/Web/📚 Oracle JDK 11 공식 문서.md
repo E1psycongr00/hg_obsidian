@@ -1,8 +1,10 @@
 ---
-title: "📚 Oracle JDK 11 공식 문서"
-note-type: "REF"
-created: "2025-01-04"
-from: "Web"
+tags: 
+aliases: 
+title: 📚 Oracle JDK 11 공식 문서
+note-type: REF
+created: 2025-01-04
+from: Web
 ---
 
 ### 출처

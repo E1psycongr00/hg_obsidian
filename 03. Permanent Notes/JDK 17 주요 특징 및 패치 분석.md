@@ -4,7 +4,7 @@ tags:
 aliases: 
 title: JDK 17 주요 특징 및 패치 분석
 note-type: COMMON
-created: 2025-01-04
+created: 2025-06-04
 completed: true
 ---
 
