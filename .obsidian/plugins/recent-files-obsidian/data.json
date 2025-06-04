@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Liskov Substitution Principle",
+      "path": "03. Permanent Notes/Liskov Substitution Principle.md"
+    },
+    {
       "basename": "🏛️ SOLID 원칙",
       "path": "02. MOC/🏛️ SOLID 원칙.md"
     },
@@ -87,18 +91,6 @@
     {
       "basename": "JDK 21 주요 특징 및 패치 분석",
       "path": "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md"
-    },
-    {
-      "basename": "JDK 17 주요 특징 및 패치 분석",
-      "path": "03. Permanent Notes/JDK 17 주요 특징 및 패치 분석.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 11 공식 문서",
-      "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
-    },
-    {
-      "basename": "JDK 11 주요 특징 및 패치 분석",
-      "path": "03. Permanent Notes/JDK 11 주요 특징 및 패치 분석.md"
     }
   ],
   "omittedPaths": [],
