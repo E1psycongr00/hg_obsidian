@@ -1,17 +1,15 @@
 ---
 tags:
   - 객체지향
-aliases: null
+aliases:
+  - 개방-폐쇄 원칙
+  - OCP
 title: Open Closed Principle
 created: 2024-10-24T00:00:00.000Z
 note-type: COMMON
 completed: true
 ---
-작성 날짜: 2024-10-24
-작성 시간: 12:10
 
-
-----
 ## 내용(Content)
 
 ### Open Closed Principal

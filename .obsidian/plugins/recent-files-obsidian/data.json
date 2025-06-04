@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ GoF 디자인 패턴 로드맵 MOC",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴 로드맵 MOC.md"
+      "basename": "🏛️ SOLID 원칙",
+      "path": "02. MOC/🏛️ SOLID 원칙.md"
+    },
+    {
+      "basename": "Open Closed Principle",
+      "path": "03. Permanent Notes/Open Closed Principle.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴 로드맵",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴 로드맵.md"
+    },
+    {
+      "basename": "Single Responsibility Principal",
+      "path": "03. Permanent Notes/Single Responsibility Principal.md"
     },
     {
       "basename": "🏛️ GoF 행위 패턴",
@@ -19,10 +31,6 @@
     {
       "basename": "🏛️ GoF 생성 패턴",
       "path": "🏛️ GoF 생성 패턴.md"
-    },
-    {
-      "basename": "🏛️ SOLID 원칙",
-      "path": "02. MOC/🏛️ SOLID 원칙.md"
     },
     {
       "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
@@ -91,14 +99,6 @@
     {
       "basename": "JDK 11 주요 특징 및 패치 분석",
       "path": "03. Permanent Notes/JDK 11 주요 특징 및 패치 분석.md"
-    },
-    {
-      "basename": "JDK 8 주요 특징 및 패치 분석",
-      "path": "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 17 공식 문서",
-      "path": "06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md"
     }
   ],
   "omittedPaths": [],
