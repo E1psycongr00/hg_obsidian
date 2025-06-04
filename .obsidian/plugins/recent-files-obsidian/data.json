@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "AI Note 관리 전략",
-      "path": "00. AI Rules/AI Note 관리 전략.md"
-    },
-    {
       "basename": "AI 지식 구조화 및 자동화 전략",
       "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+    },
+    {
+      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
+      "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
     },
     {
       "basename": "AI 노트 유형별 글쓰기 전략",
       "path": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md"
     },
     {
-      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
-      "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+      "basename": "AI Note 관리 전략",
+      "path": "00. AI Rules/AI Note 관리 전략.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "📚 Oracle JDK 11 공식 문서",
