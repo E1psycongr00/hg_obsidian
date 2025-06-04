@@ -7,7 +7,7 @@ aliases:
 created: 2025-06-04
 title: 구체적 예시로 개선된 RDD 프롬프트 by python
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 # 책임 주도 설계(RDD) 실무 가이드

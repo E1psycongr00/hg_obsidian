@@ -1,3 +1,14 @@
+---
+tags:
+  - 객체지향
+  - 객체지향설계
+aliases: 
+created: 2025-06-04
+title: 좀 더 세분화된 RDD 프로젝트 by Java
+note-type: COMMON
+completed: true
+---
+
 # 책임 주도 설계(RDD) 실무 가이드
 
 프로젝트 구현에 앞서, 특히 로직 및 백엔드 설계 시에는 **책임 주도 설계(Responsibility-Driven Design, RDD)** 원칙을 적극적으로 적용해야 합니다.
