@@ -38,21 +38,6 @@
             }
           },
           {
-            "id": "fff37520b61d218e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. AI Rules/AI Note 관리 전략.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Note 관리 전략"
-            }
-          },
-          {
             "id": "0f81eff9cd262cae",
             "type": "leaf",
             "state": {
@@ -67,8 +52,7 @@
               "title": "AI 옵시디언 마크다운 스타일 준수 가이드"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md"
+                "file": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
               },
               "icon": "lucide-info",
-              "title": "JDK 8 주요 특징 및 패치 분석 의 파일 속성"
+              "title": "🏛️ Java 버전별 패치 및 마이그레이션 가이드 의 파일 속성"
             }
           },
           {
@@ -235,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md",
+                "file": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -263,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "JDK 8 주요 특징 및 패치 분석 그래프"
+              "title": "🏛️ Java 버전별 패치 및 마이그레이션 가이드 그래프"
             }
           },
           {
@@ -287,16 +271,6 @@
             }
           },
           {
-            "id": "dd8c0c4382aa2712",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "f4e120035d2cc238",
             "type": "leaf",
             "state": {
@@ -307,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "92582217f19033e7",
@@ -320,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md",
+                "file": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JDK 8 주요 특징 및 패치 분석 의 개요"
+              "title": "🏛️ Java 버전별 패치 및 마이그레이션 가이드 의 개요"
             }
           },
           {
@@ -368,12 +342,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "18aa08e7a1c9b10f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00. AI Rules/AI Note 관리 전략.md",
     "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md",
-    "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md",
+    "00. AI Rules/AI Note 관리 전략.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
+    "03. Permanent Notes/JDK 11 주요 특징 및 패치 분석.md",
+    "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md",
     "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md",
     "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md",
     "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
@@ -387,7 +362,6 @@
     "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md",
     "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
     "03. Permanent Notes/JDK 17 주요 특징 및 패치 분석.md",
-    "03. Permanent Notes/JDK 11 주요 특징 및 패치 분석.md",
     "07. Solution Notes/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드.md",
     "04. Practice Notes/JDK 21 주요 특징 및 패치 분석.md",
     "06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md",

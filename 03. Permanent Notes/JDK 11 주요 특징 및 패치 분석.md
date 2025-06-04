@@ -1,7 +1,10 @@
 ---
-title: "JDK 11 주요 특징 및 패치 분석"
-note-type: "COMMON"
-created: "2025-01-04"
+tags:
+  - JAVA
+aliases: 
+title: JDK 11 주요 특징 및 패치 분석
+note-type: COMMON
+created: 2025-01-04
 completed: true
 ---
 
