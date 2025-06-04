@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "📚 Oracle JDK 17 공식 문서",
-      "path": "06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md"
+      "basename": "JDK 17 주요 특징 및 패치 분석",
+      "path": "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md"
     },
     {
-      "basename": "4. Java 버전별 특징",
-      "path": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md"
-    },
-    {
-      "basename": "자바 9 ~ 11 이전까지 과정",
-      "path": "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md"
+      "basename": "Meta Learning",
+      "path": "04. Practice Notes/Meta Learning.md"
     },
     {
       "basename": "JDK 8 주요 특징 및 패치 분석",
@@ -19,6 +15,22 @@
     {
       "basename": "JDK 11 주요 특징 및 패치 분석",
       "path": "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 17 공식 문서",
+      "path": "06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md"
+    },
+    {
+      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
+      "path": "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
+    },
+    {
+      "basename": "4. Java 버전별 특징",
+      "path": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md"
+    },
+    {
+      "basename": "자바 9 ~ 11 이전까지 과정",
+      "path": "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md"
     },
     {
       "basename": "📚 Oracle JDK 11 공식 문서",
@@ -87,18 +99,6 @@
     {
       "basename": "📚 Oracle JDK 8 공식 문서",
       "path": "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
-    },
-    {
-      "basename": "AI 지식 구조화 및 자동화 전략",
-      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
-    },
-    {
-      "basename": "AI 노트 유형별 글쓰기 전략",
-      "path": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md"
-    },
-    {
-      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
-      "path": "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
     }
   ],
   "omittedPaths": [],
