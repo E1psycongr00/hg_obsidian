@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "JDK 21 주요 특징 및 패치 분석",
+      "path": "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md"
+    },
+    {
       "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
       "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
     },
@@ -13,16 +17,12 @@
       "path": "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
     },
     {
-      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
-      "path": "07. Solution Notes/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "JDK 21 주요 특징 및 패치 분석",
-      "path": "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md"
-    },
-    {
       "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
       "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+    },
+    {
+      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
+      "path": "07. Solution Notes/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
     },
     {
       "basename": "JDK 17 주요 특징 및 패치 분석",
