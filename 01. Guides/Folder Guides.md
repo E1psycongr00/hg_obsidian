@@ -7,9 +7,6 @@ title: Folder Guides
 note-type: GUIDE
 ---
 
-
----
-
 ## Folder Guide
 
 Obsidian 볼트의 폴더 구조와 각 폴더의 역할을 명확히 하여 일관성 있는 노트 관리를 목표로 합니다.

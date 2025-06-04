@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Note 관리 Guides",
+      "path": "01. Guides/AI Note 관리 Guides.md"
+    },
+    {
+      "basename": "좀 더 세분화된 RDD 프로젝트 by Java",
+      "path": "03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java.md"
+    },
+    {
+      "basename": "Tag Guides",
+      "path": "01. Guides/Tag Guides.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "🏛️ AI 프롬프트 모음",
       "path": "02. MOC/🏛️ AI 프롬프트 모음.md"
-    },
-    {
-      "basename": "좀 더 세분화된 RDD 프로젝트 by Java",
-      "path": "03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java.md"
     },
     {
       "basename": "RDD 책임 지향 설계 프롬프트 by python",
@@ -91,14 +99,6 @@
     {
       "basename": "수은 정류기",
       "path": "03. Permanent Notes/수은 정류기.md"
-    },
-    {
-      "basename": "수은 정류기의 역호 현상",
-      "path": "03. Permanent Notes/수은 정류기의 역호 현상.md"
-    },
-    {
-      "basename": "수지식 선로",
-      "path": "03. Permanent Notes/수지식 선로.md"
     }
   ],
   "omittedPaths": [],
