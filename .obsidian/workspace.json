@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "Home"
             }
-          },
-          {
-            "id": "1e55671ff8030e61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "무제 4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 4.md"
+                "file": "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md"
               },
               "icon": "lucide-info",
-              "title": "무제 4 의 파일 속성"
+              "title": "구체적 예시로 개선된 RDD 프롬프트 by python 의 파일 속성"
             }
           },
           {
@@ -205,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -233,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전자기학 그래프"
+              "title": "구체적 예시로 개선된 RDD 프롬프트 by python 그래프"
             }
           },
           {
@@ -247,16 +231,6 @@
             }
           },
           {
-            "id": "1fa61e6aa011dd6d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
             "id": "d009fb843d920be4",
             "type": "leaf",
             "state": {
@@ -267,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "92582217f19033e7",
@@ -280,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전자기학.md",
+                "file": "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전자기학 의 개요"
+              "title": "구체적 예시로 개선된 RDD 프롬프트 by python 의 개요"
             }
           },
           {
@@ -299,13 +273,11 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 500.5,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,12 +302,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "1e55671ff8030e61",
+  "active": "1aaa38f27764a613",
   "lastOpenFiles": [
-    "02. MOC/Home.md",
-    "무제 4.md",
-    "03. Permanent Notes/RDD 책임 지향 설계 프롬프트.md",
+    "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
     "02. MOC/🏛️ AI 프롬프트 모음.md",
+    "03. Permanent Notes/RDD 책임 지향 설계 프롬프트 by python.md",
+    "02. MOC/Home.md",
     "무제 3.md",
     "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md",
     "02. MOC/🏛️ 오브젝트 - 조용호.md",

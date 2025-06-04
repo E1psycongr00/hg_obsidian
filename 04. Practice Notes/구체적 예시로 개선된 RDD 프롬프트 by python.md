@@ -1,3 +1,15 @@
+---
+tags:
+  - 객체지향
+  - 객체지향설계
+  - 소프트웨어설계
+aliases: 
+created: 2025-06-04
+title: 구체적 예시로 개선된 RDD 프롬프트 by python
+note-type: COMMON
+completed: false
+---
+
 # 책임 주도 설계(RDD) 실무 가이드
 
 프로젝트 구현에 앞서, 특히 로직 및 백엔드 설계 시에는 **책임 주도 설계(Responsibility-Driven Design, RDD)** 원칙을 적극적으로 적용해야 합니다.

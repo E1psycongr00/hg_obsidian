@@ -4,7 +4,7 @@ tags:
   - 객체지향설계
 aliases: 
 created: 2025-06-03
-title: RDD 책임 지향 설계 프롬프트
+title: RDD 책임 지향 설계 프롬프트 by python
 note-type: COMMON
 completed: true
 ---
