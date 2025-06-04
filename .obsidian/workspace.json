@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+                "file": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI 지식 구조화 및 자동화 전략"
+              "title": "AI 옵시디언 마크다운 스타일 준수 가이드"
             }
           }
         ],
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+                "file": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
               },
               "icon": "lucide-info",
-              "title": "AI 지식 구조화 및 자동화 전략 의 파일 속성"
+              "title": "AI 옵시디언 마크다운 스타일 준수 가이드 의 파일 속성"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+                "file": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "AI 지식 구조화 및 자동화 전략 그래프"
+              "title": "AI 옵시디언 마크다운 스타일 준수 가이드 그래프"
             }
           },
           {
@@ -285,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+                "file": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI 지식 구조화 및 자동화 전략 의 개요"
+              "title": "AI 옵시디언 마크다운 스타일 준수 가이드 의 개요"
             }
           },
           {
@@ -335,9 +335,11 @@
   },
   "active": "a109d3eed9324fa5",
   "lastOpenFiles": [
+    "00. AI Rules/AI 노트 유형별 글쓰기 전략.md",
+    "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md",
+    "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
     "00. AI Rules/AI Note 관리 전략.md",
     "00. AI Rules/AI Note 관리 Guides.md",
-    "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
     "분석된스타일.md",
     "00. AI Rules",
     "01. Guides/Folder Guides.md",
@@ -360,8 +362,6 @@
     "02. MOC/🏛️ 전력 공학.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/수두.md",
-    "03. Permanent Notes/속류.md",
-    "03. Permanent Notes/송전 전력.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
