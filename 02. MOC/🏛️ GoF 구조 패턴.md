@@ -1,10 +1,15 @@
 ---
-tags: MOC, GoF, 디자인패턴, 구조패턴
-aliases:
+tags:
+  - MOC
+  - GoF
+  - 디자인패턴
+  - 구조패턴
+aliases: 
 created: 2025-06-04
-title: 🏛️ GoF 구조 패턴 MOC
+title: 🏛️ GoF 구조 패턴
 note-type: MOC
-cssclasses: -dashboard
+cssclasses:
+  - -dashboard
 ---
 
 ## 구조 패턴

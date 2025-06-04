@@ -11,6 +11,5 @@ cssclasses: dashboard
 - [[🏛️ SOLID 원칙 MOC]]
 - [[GoF 디자인 패턴 학습 환경 설정]]
 - [[🏛️ GoF 생성 패턴 MOC]]
-- [[🏛️ GoF 구조 패턴 MOC]]
+- [[02. MOC/🏛️ GoF 구조 패턴]]
 - [[🏛️ GoF 행위 패턴 MOC]]
-- [[🏛️ 심화 및 통합 학습 MOC]] 

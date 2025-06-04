@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ 심화 및 통합 학습 MOC",
-      "path": "02. MOC/🏛️ 심화 및 통합 학습 MOC.md"
-    },
-    {
       "basename": "🏛️ GoF 디자인 패턴 로드맵 MOC",
       "path": "02. MOC/🏛️ GoF 디자인 패턴 로드맵 MOC.md"
     },
     {
-      "basename": "🏛️ GoF 행위 패턴 MOC",
-      "path": "02. MOC/🏛️ GoF 행위 패턴 MOC.md"
+      "basename": "GoF 디자인 패턴 학습 환경 설정",
+      "path": "04. Practice Notes/GoF 디자인 패턴 학습 환경 설정.md"
+    },
+    {
+      "basename": "🏛️ GoF 구조 패턴",
+      "path": "02. MOC/🏛️ GoF 구조 패턴.md"
     },
     {
       "basename": "🏛️ GoF 생성 패턴 MOC",
       "path": "02. MOC/🏛️ GoF 생성 패턴 MOC.md"
     },
     {
-      "basename": "🏛️ GoF 구조 패턴 MOC",
-      "path": "02. MOC/🏛️ GoF 구조 패턴 MOC.md"
+      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
+      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+    },
+    {
+      "basename": "🏛️ SOLID 원칙 MOC",
+      "path": "02. MOC/🏛️ SOLID 원칙 MOC.md"
+    },
+    {
+      "basename": "🏛️ GoF 행위 패턴 MOC",
+      "path": "02. MOC/🏛️ GoF 행위 패턴 MOC.md"
     },
     {
       "basename": "Home",
@@ -39,10 +47,6 @@
     {
       "basename": "Drawing 2025-06-04 20.08.46.excalidraw",
       "path": "Excalidraw/Drawing 2025-06-04 20.08.46.excalidraw.md"
-    },
-    {
-      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
-      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
     },
     {
       "basename": "🔬 JDK 17에서 JDK 21로 마이그레이션 가이드",
@@ -95,10 +99,6 @@
     {
       "basename": "AI Note 관리 전략",
       "path": "00. AI Rules/AI Note 관리 전략.md"
-    },
-    {
-      "basename": "AI 지식 구조화 및 자동화 전략",
-      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
     }
   ],
   "omittedPaths": [],
