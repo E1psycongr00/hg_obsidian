@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 4",
+      "path": "무제 4.md"
+    },
+    {
       "basename": "구체적 예시로 개선된 RDD 프롬프트 by python",
       "path": "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "수하 특성",
       "path": "03. Permanent Notes/수하 특성.md"
-    },
-    {
-      "basename": "슬라이딩 윈도우를 활용한 라운드 로빈 알고리즘",
-      "path": "03. Permanent Notes/슬라이딩 윈도우를 활용한 라운드 로빈 알고리즘.md"
     }
   ],
   "omittedPaths": [],

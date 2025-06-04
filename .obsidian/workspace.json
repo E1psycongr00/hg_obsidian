@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "6340b7bb304bbdff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,10 +116,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md"
+                "file": "무제 4.md"
               },
               "icon": "lucide-info",
-              "title": "구체적 예시로 개선된 RDD 프롬프트 by python 의 파일 속성"
+              "title": "무제 4 의 파일 속성"
             }
           },
           {
@@ -189,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
+                "file": "무제 4.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +233,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "구체적 예시로 개선된 RDD 프롬프트 by python 그래프"
+              "title": "무제 4 그래프"
             }
           },
           {
@@ -254,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
+                "file": "무제 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "구체적 예시로 개선된 RDD 프롬프트 by python 의 개요"
+              "title": "무제 4 의 개요"
             }
           },
           {
@@ -302,8 +318,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "1aaa38f27764a613",
+  "active": "6340b7bb304bbdff",
   "lastOpenFiles": [
+    "무제 4.md",
     "04. Practice Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
     "02. MOC/🏛️ AI 프롬프트 모음.md",
     "03. Permanent Notes/RDD 책임 지향 설계 프롬프트 by python.md",
@@ -329,7 +346,6 @@
     "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md",
     "03. Permanent Notes/수차의 특유 속도.md",
     "03. Permanent Notes/스케일 팩터.md",
-    "03. Permanent Notes/수하 특성.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
