@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 4",
+      "path": "무제 4.md"
+    },
+    {
       "basename": "🏛️ AI 프롬프트 모음",
       "path": "02. MOC/🏛️ AI 프롬프트 모음.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "스케일 팩터",
       "path": "03. Permanent Notes/스케일 팩터.md"
-    },
-    {
-      "basename": "수하 특성",
-      "path": "03. Permanent Notes/수하 특성.md"
     }
   ],
   "omittedPaths": [],
