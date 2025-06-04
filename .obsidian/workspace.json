@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Guides/AI Note 관리 Guides.md",
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI Note 관리 Guides"
+              "title": "AI 지식 구조화 및 자동화 전략"
             }
           }
         ],
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01. Guides/AI Note 관리 Guides.md"
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
               },
               "icon": "lucide-info",
-              "title": "AI Note 관리 Guides 의 파일 속성"
+              "title": "AI 지식 구조화 및 자동화 전략 의 파일 속성"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01. Guides/AI Note 관리 Guides.md",
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "AI Note 관리 Guides 그래프"
+              "title": "AI 지식 구조화 및 자동화 전략 그래프"
             }
           },
           {
@@ -285,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Guides/AI Note 관리 Guides.md",
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Note 관리 Guides 의 개요"
+              "title": "AI 지식 구조화 및 자동화 전략 의 개요"
             }
           },
           {
@@ -335,9 +335,10 @@
   },
   "active": "a109d3eed9324fa5",
   "lastOpenFiles": [
-    "01. Guides/AI 지식 구조화 및 자동화 전략.md",
-    "01. Guides/AI Note 관리 Guides.md",
+    "00. AI Rules/AI Note 관리 Guides.md",
+    "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
     "분석된스타일.md",
+    "00. AI Rules",
     "01. Guides/Folder Guides.md",
     "03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java.md",
     "01. Guides/Tag Guides.md",
@@ -360,7 +361,6 @@
     "03. Permanent Notes/수두.md",
     "03. Permanent Notes/속류.md",
     "03. Permanent Notes/송전 전력.md",
-    "03. Permanent Notes/수력 발전.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
@@ -380,7 +380,6 @@
     "08. 공부 자료/pdf/book/물리학",
     "08. 공부 자료/pdf/book/컴퓨터 과학",
     "08. 공부 자료/pdf/무제",
-    "08. 공부 자료/pdf/book/컴퓨터 과학/Boris Cherny - Programming TypeScript_ Making Your JavaScript Applications Scale - O′Reilly (2019).pdf",
     "무제 1.canvas",
     "무제.canvas",
     "index.canvas",
