@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "04. Practice Notes/Liskov Substitution Principle.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -212,7 +212,7 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.713275462622452,
+                  "scale": 0.1316872427983558,
                   "close": true
                 }
               },
