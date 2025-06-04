@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "JDK 21 주요 특징 및 패치 분석",
+      "path": "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md"
+    },
+    {
       "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
       "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
     },
     {
       "basename": "JDK 8 주요 특징 및 패치 분석",
       "path": "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md"
+    },
+    {
+      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
+      "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+    },
+    {
+      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
+      "path": "07. Solution Notes/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
+    },
+    {
+      "basename": "JDK 17 주요 특징 및 패치 분석",
+      "path": "03. Permanent Notes/JDK 17 주요 특징 및 패치 분석.md"
     },
     {
       "basename": "AI Note 관리 전략",
@@ -19,10 +35,6 @@
     {
       "basename": "📚 Oracle JDK 11 공식 문서",
       "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
-    },
-    {
-      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
-      "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
     },
     {
       "basename": "AI 지식 구조화 및 자동화 전략",
@@ -39,10 +51,6 @@
     {
       "basename": "📚 Oracle JDK 8 공식 문서",
       "path": "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
-    },
-    {
-      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
-      "path": "07. Solution Notes/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "역률 개선의 필요성",
       "path": "04. Practice Notes/역률 개선의 필요성.md"
-    },
-    {
-      "basename": "보호 계전 방식",
-      "path": "04. Practice Notes/보호 계전 방식.md"
-    },
-    {
-      "basename": "망상식",
-      "path": "04. Practice Notes/망상식.md"
     }
   ],
   "omittedPaths": [],

@@ -78,9 +78,9 @@ macOS/AArch64 포트가 정식 지원되어 Apple Silicon Mac에서도 네이티
 
 ### 관련 노트
 
-- [[📚 Oracle JDK 17 공식 문서]] - 공식 문서 및 출처 정보
-- [[03. Permanent Notes/JDK 8 주요 특징 및 패치 분석]] - 이전 LTS 버전과의 비교
-- [[03. Permanent Notes/JDK 11 주요 특징 및 패치 분석]] - 직전 LTS 버전과의 비교
+- [[06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서|📚 Oracle JDK 17 공식 문서]] - 공식 문서 및 출처 정보
+- [[03. Permanent Notes/JDK 8 주요 특징 및 패치 분석|JDK 8 주요 특징 및 패치 분석]] - 이전 LTS 버전과의 비교
+- [[03. Permanent Notes/JDK 11 주요 특징 및 패치 분석|JDK 11 주요 특징 및 패치 분석]] - 직전 LTS 버전과의 비교
 
 ### 질문 & 확장
 
