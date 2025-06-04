@@ -5,6 +5,10 @@
       "path": "01. Guides/AI Note 관리 Guides.md"
     },
     {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
       "basename": "좀 더 세분화된 RDD 프로젝트 by Java",
       "path": "03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
     },
     {
       "basename": "분석된스타일",
