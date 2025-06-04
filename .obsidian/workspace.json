@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
+                "file": "04. Practice Notes/Meta Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JDK 17 주요 특징 및 패치 분석"
+              "title": "Meta Learning"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md"
+                "file": "04. Practice Notes/Meta Learning.md"
               },
               "icon": "lucide-info",
-              "title": "JDK 17 주요 특징 및 패치 분석 의 파일 속성"
+              "title": "Meta Learning 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
+                "file": "04. Practice Notes/Meta Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "JDK 17 주요 특징 및 패치 분석 그래프"
+              "title": "Meta Learning 그래프"
             }
           },
           {
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
+                "file": "04. Practice Notes/Meta Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JDK 17 주요 특징 및 패치 분석 의 개요"
+              "title": "Meta Learning 의 개요"
             }
           },
           {
@@ -314,6 +314,11 @@
   },
   "active": "a418408421760448",
   "lastOpenFiles": [
+    "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md",
+    "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
+    "03. Permanent Notes/JDK 17 주요 특징 및 패치 분석.md",
+    "03. Permanent Notes/JDK 11 주요 특징 및 패치 분석.md",
+    "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "07. Solution Notes/🔬 JDK 17에서 JDK 21로 마이그레이션 가이드.md",
     "07. Solution Notes/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드.md",
@@ -321,7 +326,6 @@
     "04. Practice Notes/JDK 21 주요 특징 및 패치 분석.md",
     "06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md",
     "04. Practice Notes/Meta Learning.md",
-    "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
     "04. Practice Notes/JDK 8 주요 특징 및 패치 분석.md",
     "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md",
     "06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md",
@@ -336,10 +340,6 @@
     "04. Practice Notes/Flyway 사용하기 with Gradle.md",
     "03. Permanent Notes/피뢰기.md",
     "04. Practice Notes/프롬프트 엔지니어링.md",
-    "04. Practice Notes/정재파.md",
-    "04. Practice Notes/역률 개선의 필요성.md",
-    "04. Practice Notes/보호 계전 방식.md",
-    "04. Practice Notes/망상식.md",
     "00. AI Rules",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
