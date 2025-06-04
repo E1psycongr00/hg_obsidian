@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
       "basename": "분석된스타일",
       "path": "분석된스타일.md"
     },
@@ -87,18 +99,6 @@
     {
       "basename": "수지식 선로",
       "path": "03. Permanent Notes/수지식 선로.md"
-    },
-    {
-      "basename": "수차별 특유 속도 정리",
-      "path": "03. Permanent Notes/수차별 특유 속도 정리.md"
-    },
-    {
-      "basename": "수차의 낙차에 따른 특성 변화",
-      "path": "03. Permanent Notes/수차의 낙차에 따른 특성 변화.md"
-    },
-    {
-      "basename": "수차의 특유 속도",
-      "path": "03. Permanent Notes/수차의 특유 속도.md"
     }
   ],
   "omittedPaths": [],

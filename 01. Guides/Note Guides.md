@@ -68,7 +68,7 @@ note-type: DAILY
     - 해결책: "이미지 압축 도구 사용 → 30% 속도 개선."
     - 반성: "다음엔 CDN도 고려."
 - **가이드**: 연구나 프로젝트 중 구체적인 문제 해결에 집중. Review Notes와 달리, 이론보다는 실행과 결과 중심.
-- **템플릿 사용**: `Solution 템플릿` 사용 시 제목에 🔬 아이콘이 추가되고, 파일은 `04. Practice Notes` 폴더로 자동 이동됩니다.
+- **템플릿 사용**: `Solution 템플릿` (예: Templater 플러그인 사용 시) 제목에 🔬 아이콘이 추가되고, 파일은 `04. Practice Notes` 폴더로 자동 이동될 수 있습니다.
 
 #### 템플릿
 
@@ -81,7 +81,7 @@ title: 🔬 [문제 제목]
 note-type: SOLUTION
 completed: false
 archive: false
-area-reason:
+area-reason: "" # 특정 기술 분야나 문제 영역 명시 (예: 웹 성능 최적화)
 ---
 
 ## 문제 정의
@@ -141,7 +141,7 @@ area-reason: 웹 성능 최적화 연구
     - 주제: "머신러닝 기초."
     - 내용: "1. 지도 학습: 정의와 예시 (회귀, 분류). 2. 비지도 학습: 클러스터링."
 - **가이드**: Common이라는 이름이 너무 포괄적이라 "공부 노트"로 한정. 일상 기록(Daily)이나 프로젝트와 구분되도록 학습 중심으로.
-- **템플릿 사용**: `Common 템플릿` 사용 시 파일은 `04. Practice Notes` 폴더로 자동 이동됩니다. (제목 아이콘 없음)
+- **템플릿 사용**: `Common 템플릿` (예: Templater 플러그인 사용 시) 파일은 `04. Practice Notes` 폴더로 자동 이동될 수 있습니다. (제목 아이콘 없음)
 
 #### 템플릿
 
@@ -263,7 +263,7 @@ status: 진행중
 - **역할**: 외부 자료(인터넷, 논문, 블로그 등)에서 발췌한 내용을 기록. 출처와 함께 간략한 요약 포함.
 - **특징**: 원문 인용 + 내 생각 추가. 나중에 다시 참고할 수 있도록 정리.
 - **가이드**: 공부 노트와 달리, 내 창작이 아닌 외부 지식의 저장소 역할. 반드시 출처 명시.
-- **템플릿 사용**: `Reference 템플릿` 사용 시 제목에 📚 아이콘이 추가되고, 선택한 `from` 유형에 따라 `06. Reference Notes` 하위 폴더(예: `06. Reference Notes/Book`)로 자동 이동됩니다.
+- **템플릿 사용**: `Reference 템플릿` (예: Templater 플러그인 및 관련 스크립트 설정 시) 제목에 📚 아이콘이 추가되고, 선택한 `from` 유형에 따라 `05. Reference Notes` 하위 폴더(예: `05. Reference Notes/Book`)로 자동 이동될 수 있습니다.
 
 #### 제목 규칙 및 Frontmatter
 - **파일 제목 (자동 생성)**: `📚 [자료 제목]`
@@ -448,7 +448,7 @@ from: Paper
     - 주석: "간단한 합계 함수."
     - 결과: "calculate_sum(3, 4) → 7."
 - **가이드**: 프로젝트 노트와 달리, 특정 기능 구현이나 코드 학습에 초점. 가독성을 위해 주석 필수.
-- **템플릿 사용**: `Code 템플릿` 사용 시 제목이 `⌨️ [원래 제목]_[선택 언어] (YYYY-MM-DD)` 형식으로 자동 생성되고, 파일은 `04. Practice Notes` 폴더로 자동 이동됩니다.
+- **템플릿 사용**: `Code 템플릿` (예: Templater 플러그인 사용 시) 제목이 `⌨️ [원래 제목]_[언어] (YYYY-MM-DD)` 형식으로 자동 생성 (이때 `language` 필드 값 참조 가능)되고, 파일은 `04. Practice Notes` 폴더로 자동 이동될 수 있습니다.
 
 #### 템플릿
 
@@ -457,26 +457,30 @@ from: Paper
 tags:
 aliases: 
 created: YYYY-MM-DD
-title: ⌨️ [코드 주제]_[언어] (YYYY-MM-DD)
+title: ⌨️ [코드 주제]_[언어] (YYYY-MM-DD) # 예: ⌨️ 데이터 정렬_python (2024-07-15)
 note-type: CODE
-language: [선택한 언어 약자, 예: py, js]
+language: "" # 프로그래밍 언어 약자 (예: py, js, java)
 completed: false
 archive: false
-area-reason:
+area-reason: "" # 특정 기술 스택이나 프로젝트 영역 명시 (예: Django, 개인 프로젝트)
 ---
 
 ## 코드
 
 ### Code
-\`\`\`[언어]
-[코드 내용]
-\`\`\`
+```[언어] 
+# 여기에 코드를 작성하세요.
+print("Hello, World!")
+```
 
 ### 결과
-[실행 결과]
+```text
+# 코드 실행 결과를 여기에 작성하세요.
+Hello, World!
+```
 
 ## 설명
-[코드에 대한 설명]
+[코드에 대한 상세 설명, 주요 로직, 사용법 등을 작성합니다.]
 ```
 
 #### 예시
@@ -484,12 +488,14 @@ area-reason:
 ```markdown
 ---
 tags:
+  - python
+  - algorithm
 aliases: 
 created: 2025-04-10
-title: ⌨️ hello world_py (2025-04-10)
+title: ⌨️ 간단한 합계 함수_py (2025-04-10)
 note-type: CODE
 language: py
-completed: false
+completed: true
 archive: false
 area-reason: Python 기본 학습
 ---
@@ -497,16 +503,21 @@ area-reason: Python 기본 학습
 ## 코드
 
 ### Code
-\`\`\`python
+```python
 def calculate_sum(a, b):
+    """두 숫자를 더한 값을 반환합니다."""
     return a + b
-\`\`\`    
+```
 
 ### 결과
-calculate_sum(3, 4) # 결과: 7
+```text
+result = calculate_sum(3, 4)
+# result는 7이 됩니다.
+```
 
 ## 설명
-calculate_sum 함수를 만들어 호출하면 정상적으로 7을 얻는다.
+`calculate_sum` 함수는 두 개의 숫자 인자 `a`와 `b`를 받아 그 합을 반환하는 간단한 Python 함수입니다. 
+예시로 `calculate_sum(3, 4)`를 호출하면 `7`이 반환됩니다.
 ```
 
 ---
@@ -522,7 +533,7 @@ calculate_sum 함수를 만들어 호출하면 정상적으로 7을 얻는다.
     - 분석: "UI는 만족스러웠으나 서버 비용 초과."
     - 개선: "클라우드 최적화 필요."
 - **가이드**: Solution Notes와 달리, 실행보다는 반성과 평가 중심. 과거를 돌아보고 미래를 준비.
-- **템플릿 사용**: `Review 템플릿` 사용 시 제목에 🔍 아이콘이 추가되고, 파일은 `04. Practice Notes` 폴더로 자동 이동됩니다.
+- **템플릿 사용**: `Review 템플릿` (예: Templater 플러그인 사용 시) 제목에 🔍 아이콘이 추가되고, 파일은 `04. Practice Notes` 폴더로 자동 이동될 수 있습니다.
 
 #### 템플릿
 
@@ -623,46 +634,7 @@ note-type: GUIDE
 - **역할**: 관련된 개별 노트들을 주제별, 카테고리별로 연결하여 구조화하는 인덱스 페이지.
 - **특징**: 개별 노트로의 링크 중심으로 구성. 내용보다는 연결과 구조에 집중.
 - **가이드**: `01. Guides/MOC Guides.md` 파일에서 MOC 작성 원칙 및 활용법을 참고하십시오.
-- **템플릿 사용**: `MOC 템플릿` 사용 시 제목에 🏛️ 아이콘이 추가되고, `cssclasses: -dashboard`가 적용되며, 파일은 `02. MOC` 폴더로 자동 이동됩니다.
+- **템플릿 사용**: `MOC 템플릿` (예: Templater 플러그인 사용 시) 제목에 🏛️ 아이콘이 추가되고, `cssclasses: -dashboard`가 적용되며, 파일은 `02. MOC` 폴더로 자동 이동될 수 있습니다.
 
 #### 템플릿
-```markdown
----
-tags:
-aliases: 
-created: YYYY-MM-DD
-title: 🏛️ [MOC 주제]
-note-type: MOC
-cssclasses:
-  - dashboard
----
-
-## [하위 주제 1 또는 링크 그룹 1]
-- [[관련 노트 1]]
-- [[관련 노트 2]]
-
-## [하위 주제 2 또는 링크 그룹 2]
-- [[관련 노트 3]]
-- [[관련 노트 4]]
-```
-
-#### 예시
-```markdown
----
-tags:
-aliases: 
-created: 2025-04-15
-title: 🏛️ 프로그래밍 언어 MOC
-note-type: MOC
-cssclasses:
-  - dashboard
----
-
-## 스크립트 언어
-- [[⌨️ Python 기초 문법_py (2025-04-10)]]
-- [[JavaScript 비동기 처리]]
-
-## 컴파일 언어
-- [[Java 객체지향 프로그래밍]]
-- [[C++ 포인터와 메모리 관리]] 
 ```
