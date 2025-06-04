@@ -2,7 +2,7 @@
 title: "JDK 17 주요 특징 및 패치 분석"
 note-type: "COMMON"
 created: "2025-01-04"
-completed: false
+completed: true
 ---
 
 ### 버전 개요
