@@ -1,9 +1,10 @@
 ---
-tags: 
+tags:
+  - JAVA
 aliases: 
-title: "JDK 8 주요 특징 및 패치 분석"
-note-type: "COMMON"
-created: "2025-01-04"
+title: JDK 8 주요 특징 및 패치 분석
+note-type: COMMON
+created: 2025-06-04
 completed: true
 ---
 
@@ -77,7 +78,7 @@ JDK 7 이하에서 JDK 8로 마이그레이션할 때는 새로운 기능들의 
 
 ### 출처
 
-- [[📚 Oracle JDK 8 공식 문서]]
+- [[06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서|📚 Oracle JDK 8 공식 문서]]
 - Oracle JDK 8 공식 릴리즈 노트 및 기술 문서
 
 >[!note] LTS 버전의 특징

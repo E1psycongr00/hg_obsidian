@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "AI 지식 구조화 및 자동화 전략",
-      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+      "basename": "JDK 8 주요 특징 및 패치 분석",
+      "path": "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md"
     },
     {
       "basename": "AI Note 관리 전략",
       "path": "00. AI Rules/AI Note 관리 전략.md"
     },
     {
+      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
+      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 11 공식 문서",
+      "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
+    },
+    {
       "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
       "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+    },
+    {
+      "basename": "AI 지식 구조화 및 자동화 전략",
+      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
     },
     {
       "basename": "AI 노트 유형별 글쓰기 전략",
@@ -19,14 +31,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 11 공식 문서",
-      "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
-    },
-    {
-      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
-      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
     },
     {
       "basename": "📚 Oracle JDK 8 공식 문서",
@@ -95,10 +99,6 @@
     {
       "basename": "나이퀴스트 선도",
       "path": "03. Permanent Notes/나이퀴스트 선도.md"
-    },
-    {
-      "basename": "단권 변압기 Y결선",
-      "path": "03. Permanent Notes/단권 변압기 Y결선.md"
     }
   ],
   "omittedPaths": [],
