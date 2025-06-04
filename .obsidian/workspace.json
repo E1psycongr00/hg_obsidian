@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/Liskov Substitution Principle.md",
+                "file": "02. MOC/🏛️ SOLID 원칙.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Liskov Substitution Principle"
+              "title": "🏛️ SOLID 원칙"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "I",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/Liskov Substitution Principle.md"
+                "file": "02. MOC/🏛️ SOLID 원칙.md"
               },
               "icon": "lucide-info",
-              "title": "Liskov Substitution Principle 의 파일 속성"
+              "title": "🏛️ SOLID 원칙 의 파일 속성"
             }
           },
           {
@@ -189,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/Liskov Substitution Principle.md",
+                "file": "02. MOC/🏛️ SOLID 원칙.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -212,12 +211,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.1316872427983558,
+                  "scale": 0.7132754626224524,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Liskov Substitution Principle 그래프"
+              "title": "🏛️ SOLID 원칙 그래프"
             }
           },
           {
@@ -254,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/Liskov Substitution Principle.md",
+                "file": "02. MOC/🏛️ SOLID 원칙.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Liskov Substitution Principle 의 개요"
+              "title": "🏛️ SOLID 원칙 의 개요"
             }
           },
           {
@@ -302,15 +301,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b4cc9162570a5eb2",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
+    "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md",
     "02. MOC/🏛️ SOLID 원칙.md",
+    "03. Permanent Notes/Liskov Substitution Principle.md",
     "02. MOC/🏛️ GoF 디자인 패턴.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ GoF 생성 패턴.md",
     "02. MOC/🏛️ GoF 구조 패턴.md",
     "03. Permanent Notes/Open Closed Principle.md",
-    "04. Practice Notes/Liskov Substitution Principle.md",
     "04. Practice Notes/GoF 디자인 패턴 학습 환경 설정.md",
     "03. Permanent Notes/리스코프 치환 원칙(Liskov Substitution Principle).md",
     "03. Permanent Notes/선행 조건(Precondition)의 이해.md",
@@ -329,7 +329,6 @@
     "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
     "03. Permanent Notes/무료와 독점 JDK 모음.md",
     "03. Permanent Notes/Java 12 ~ 17까지 과정.md",
-    "03. Permanent Notes/java 11 특징.md",
     "00. AI Rules",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",

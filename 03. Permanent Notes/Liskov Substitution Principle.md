@@ -5,7 +5,7 @@ aliases:
 created: 2025-06-04
 title: Liskov Substitution Principle
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 정의
@@ -323,6 +323,7 @@ public class Main {
 classDiagram
     direction LR
 	class Shape {
+		<<interface>>
         +setDimensions(width: int, height: int): void
         +getArea(): int
     }
