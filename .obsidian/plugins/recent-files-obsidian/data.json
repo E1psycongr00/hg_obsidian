@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 4",
+      "path": "무제 4.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "슬라이딩 윈도우를 활용한 라운드 로빈 알고리즘",
       "path": "03. Permanent Notes/슬라이딩 윈도우를 활용한 라운드 로빈 알고리즘.md"
-    },
-    {
-      "basename": "슬립",
-      "path": "03. Permanent Notes/슬립.md"
     }
   ],
   "omittedPaths": [],
