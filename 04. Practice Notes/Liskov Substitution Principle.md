@@ -11,8 +11,14 @@ completed: false
 ## 정의
 리스코프 치환 원칙(LSP)은 객체 지향 프로그래밍의 SOLID 원칙 중 'L'에 해당한다. 이는 서브 타입은 언제나 자신의 기반(부모) 타입으로 교체할 수 있어야 한다는 것을 의미한다. 즉, 부모 클래스의 인스턴스를 사용하는 위치에 자식 클래스의 인스턴스를 대신 사용했을 때 코드가 원래 의도대로 작동해야 한다. 이 원칙은 다형성을 지원하며, 상속 관계에서의 행동 일관성을 강조한다.
 
+>[!summary] LSP 정의
+>리스코프 치환 원칙(LSP)은 객체 지향 프로그래밍의 SOLID 원칙 중 하나로, 서브 타입이 자신의 기반 타입으로 안전하게 대체될 수 있어야 함을 의미한다. 이는 상속 관계에서 다형성과 행동 일관성을 보장하는 데 필수적이다.
+
 ## 배경
 리스코프 치환 원칙은 1988년 바바라 리스코프(Barbara Liskov)가 올바른 상속 관계의 특징을 정의하기 위해 처음 발표했다. 이 원칙은 단순한 문법적 관계를 넘어, 자료형의 의미론적 상호처리를 보장하기 위한 엄밀한 개념인 '행동적 하위형화'를 제시한다.
+
+>[!info] LSP의 기원
+>LSP는 1988년 바바라 리스코프에 의해 제안되었으며, 단순한 문법적 상속을 넘어 '행동적 하위형화'를 통해 자료형의 의미론적 상호처리를 보장하려는 목적을 가진다.
 
 ## 핵심 개념
 리스코프 치환 원칙의 핵심은 '행동적 하위형화'이다. 이는 부모 타입의 객체를 자식 타입의 객체로 교체하더라도, 클라이언트 코드의 동작에 예상치 못한 변화가 없어야 한다는 것을 의미한다. 즉, 자식 클래스는 부모 클래스의 '계약'(contract)을 준수해야 한다.
@@ -23,6 +29,15 @@ completed: false
     *   **선행 조건(Precondition)**: 하위형에서 강화될 수 없다.
     *   **후행 조건(Postcondition)**: 하위형에서 약화될 수 없다.
     *   **불변 조건(Invariant)**: 하위형에서 상위형의 불변 조건은 반드시 유지되어야 한다.
+
+>[!important] 행동적 하위형화의 중요성
+>LSP의 핵심은 '행동적 하위형화'로, 자식 타입이 부모 타입으로 교체되어도 클라이언트 코드의 동작에 예상치 못한 변화가 없어야 한다. 이는 자식 클래스가 부모 클래스의 '계약'을 준수해야 함을 의미한다.
+
+>[!tip] 계약에 의한 설계(DbC) 조건
+>메소드 오버라이딩 시 LSP는 다음과 같은 행동 조건을 강조한다:
+>- **선행 조건**: 하위형에서 강화될 수 없다.
+>- **후행 조건**: 하위형에서 약화될 수 없다.
+>- **불변 조건**: 하위형에서 상위형의 불변 조건은 유지되어야 한다.
 
 ## 원칙 위반 사례
 
@@ -94,7 +109,32 @@ public class Main {
 
 **문제점**: 위 예시에서 `Square` 클래스는 `Rectangle`의 `setWidth`와 `setHeight` 메소드를 오버라이딩하여 정사각형의 특성(너비와 높이가 항상 같음)을 유지하려고 한다. 그러나 `main` 메소드에서 `Rectangle` 타입의 변수 `square`에 `Square` 인스턴스를 할당하고 `setHeight(5)` 후에 `setWidth(10)`을 호출하면, `Rectangle`의 기대와 다르게 `square`의 `height` 또한 `10`으로 변경된다. 이로 인해 `getArea()` 결과가 `50`이 아닌 `100`이 되어 `Rectangle`을 사용하는 클라이언트의 기대(behavioral contract)를 위반한다. 이는 부모 타입으로 교체했을 때 자식 타입의 동작이 예상치 못한 결과를 초래하므로 LSP를 위반하는 사례이다.
 
-[AI 이미지 제안: 클래스 다이어그램 - Rectangle 클래스와 Square 클래스 간의 상속 관계를 보여주고, Square 클래스에서 setWidth와 setHeight 메소드가 오버라이딩되어 width와 height를 동시에 변경하는 로직을 표시.]
+```mermaid
+classDiagram
+    class Rectangle {
+        #width: int
+        #height: int
+        +setWidth(width: int): void
+        +setHeight(height: int): void
+        +getWidth(): int
+        +getHeight(): int
+        +getArea(): int
+    }
+
+    class Square {
+        +setWidth(width: int): void
+        +setHeight(height: int): void
+    }
+
+    Rectangle <|-- Square : 상속
+
+    note for Square "setWidth와 setHeight 오버라이딩 시
+width, height를 동시에 변경하여
+부모 클래스의 계약을 위반함"
+```
+
+>[!warning] 직사각형-정사각형 예시의 LSP 위반
+>정사각형(`Square`)이 직사각형(`Rectangle`)을 상속받을 때, `Square`가 `setWidth` 및 `setHeight` 메소드를 오버라이딩하여 너비와 높이를 동시에 변경하면 부모 클래스의 행동 계약을 위반하게 된다. 이는 `Rectangle` 객체로 `Square`를 치환했을 때 예상치 못한 결과(예: 넓이 계산 오류)를 초래한다.
 
 ### 메소드 오버라이딩 시 부모의 의도 위반
 
@@ -152,7 +192,34 @@ public class Main {
 
 **문제점**: `Animal` 클래스는 `speak()` 메소드를 가지고 있으며, `Cat`과 `Dog`는 이를 상속받아 자연스럽게 자신들의 소리를 낸다. 그러나 `Fish` 클래스는 물고기가 소리를 내지 못한다는 이유로 `speak()` 메소드에서 `UnsupportedOperationException`을 던진다. 이로 인해 `Animal` 타입의 리스트를 순회하며 `speak()` 메소드를 호출할 때, `Fish` 객체에서 예외가 발생하여 클라이언트 코드가 `Animal` 타입의 객체는 `speak()`할 수 있을 것이라는 기대를 위반하게 된다. 이는 `Fish` 객체가 `Animal` 객체를 대체할 수 없음을 의미하며, LSP를 위반하는 대표적인 사례이다. 이러한 위반은 협업하는 개발자들 사이의 신뢰를 저하시킬 수도 있다.
 
-[AI 이미지 제안: 클래스 다이어그램 - Animal 추상 클래스와 이를 상속하는 Cat, Dog, Fish 클래스 간의 관계를 보여주고, Fish 클래스에서 speak() 메소드가 예외를 던지는 부분을 표시.]
+```mermaid
+classDiagram
+    class Animal {
+        +speak(): void
+    }
+
+    class Cat {
+        +speak(): void
+    }
+
+    class Dog {
+        +speak(): void
+    }
+
+    class Fish {
+        +speak(): void
+    }
+
+    Animal <|-- Cat : 상속
+    Animal <|-- Dog : 상속
+    Animal <|-- Fish : 상속
+
+    note for Fish "speak() 메소드에서 UnsupportedOperationException 발생
+(부모의 행동 규약 위반)"
+```
+
+>[!warning] 메소드 오버라이딩 시 부모 의도 위반 사례
+>자식 클래스(`Fish`)가 부모 클래스(`Animal`)의 메소드(`speak()`)를 오버라이딩하면서 `UnsupportedOperationException`을 던지는 것은, 부모 클래스가 제공하는 계약(모든 `Animal`은 `speak()`할 수 있다)을 위반하는 것이다. 이는 런타임 오류를 발생시켜 LSP를 위반한다.
 
 ## 원칙 준수 방안
 
@@ -270,13 +337,55 @@ public class Main {
 
 **설명**: 위 예시에서는 `Shape` 인터페이스를 도입하여 `Rectangle`과 `Square`가 각각 `Shape`를 구현하도록 했다. 이렇게 하면 `Rectangle`과 `Square`는 서로 상속 관계를 가지지 않으면서도 `Shape`라는 공통 인터페이스를 통해 다형성을 유지할 수 있다. 하지만 `Square`에서 `setWidth`나 `setHeight`를 호출하면 `side` 값이 변경되어 `Rectangle`과는 다른 동작을 보인다. 완벽하게 LSP를 준수하려면, 애초에 `Shape` 인터페이스가 `setWidth`와 `setHeight`를 포함하지 않거나, `Square`가 이 메소드를 `UnsupportedOperationException`으로 처리하는 대신 `side`를 업데이트하도록 해야 한다. 가장 이상적인 해결책은 사각형의 크기를 변경하는 방식을 추상화하여, `Rectangle`과 `Square`가 각자의 특성에 맞게 구현하도록 하는 것이다. 예를 들어, `setDimensions(int width, int height)`와 같은 추상 메소드를 정의하여, `Rectangle`은 `width`와 `height`를 독립적으로 설정하고, `Square`는 `width`와 `height`를 동일하게 설정하도록 하는 것이다.
 
+```mermaid
+classDiagram
+    direction LR
+    interface Shape {
+        +setDimensions(width: int, height: int): void
+        +getArea(): int
+    }
+
+    class Rectangle {
+        -width: int
+        -height: int
+        +Rectangle(width: int, height: int)
+        +setDimensions(width: int, height: int): void
+        +getArea(): int
+    }
+
+    class Square {
+        -side: int
+        +Square(side: int)
+        +setDimensions(width: int, height: int): void
+        +getArea(): int
+    }
+
+    Shape <|.. Rectangle : <<implements>>
+    Shape <|.. Square : <<implements>>
+
+    note for Shape "LSP 준수를 위해
+구체적인 크기 설정 메소드보다
+추상적인 setDimensions 도입"
+    note for Rectangle "width, height 독립적 설정"
+    note for Square "width, height를 side로 통일하여 설정"
+```
+
+>[!tip] 올바른 상속 관계 재구성
+>LSP를 준수하려면, 'IS-A' 관계가 행동적 치환성을 해칠 때 상속 관계를 재고해야 한다. `Shape` 인터페이스와 같이 더 추상적인 상위 개념을 도입하고, 각 서브 타입이 고유한 방식으로 계약을 준수하도록 설계하는 것이 중요하다. 예를 들어, `setDimensions(width, height)`와 같은 추상적인 메소드를 정의하여 `Rectangle`과 `Square`가 각자의 특성에 맞게 구현하도록 한다.
+
 ### 합성(Composition) 활용
 
 상속보다는 합성을 사용하여 LSP 위반을 방지할 수 있다. 'IS-A' 관계가 불분명하거나 행동적 일관성이 깨질 위험이 있을 때, 객체가 다른 객체를 포함하는 'HAS-A' 관계를 사용하는 것이 더 유연하고 안전하다.
 
+>[!info] 상속 대신 합성 활용
+>LSP 위반을 피하기 위해 'IS-A' 관계가 모호하거나 행동 일관성이 깨질 위험이 있는 경우, 상속(`IS-A`) 대신 객체가 다른 객체를 포함하는 'HAS-A' 관계인 합성을 고려하는 것이 더 유연하고 안전하다.
+
 ### 계약에 의한 설계(Design by Contract) 엄격히 준수
 
 LSP는 계약에 의한 설계(Design by Contract)의 개념과 밀접하게 연관되어 있다. 하위 클래스는 상위 클래스의 모든 사전 조건(Precondition)을 약화시키지 않고, 사후 조건(Postcondition)을 강화시키지 않으며, 불변 조건(Invariant)을 유지해야 한다. 이는 상속을 통해 파생된 클래스가 클라이언트의 기대를 저버리지 않도록 보장한다.
+
+>[!important] DbC와 LSP의 연관성
+>LSP는 계약에 의한 설계(DbC) 개념과 밀접하다. 하위 클래스는 상위 클래스의 사전 조건(Precondition)을 강화하지 않고, 사후 조건(Postcondition)을 약화시키지 않으며, 불변 조건(Invariant)을 반드시 유지해야 한다. 이는 상속된 클래스가 클라이언트의 기대를 저버리지 않도록 보장한다.
 
 ## 결론 및 중요성
 
@@ -288,3 +397,5 @@ LSP는 계약에 의한 설계(Design by Contract)의 개념과 밀접하게 연
 *   **객체 지향 설계의 완성도**: LSP는 다형성의 진정한 의미를 구현하고, 시스템의 설계를 더욱 유연하고 견고하게 만들어 객체 지향 설계의 완성도를 높이는 데 기여한다.
 
 결론적으로, 리스코프 치환 원칙은 단순한 상속 규칙이 아니라, 재사용 가능하고 확장 가능한 고품질 소프트웨어를 개발하기 위한 핵심 원칙이다. 이 원칙을 이해하고 적용함으로써, 개발자들은 더욱 안정적이고 유지보수하기 쉬운 객체 지향 시스템을 구축할 수 있다. 
+>[!summary] LSP의 중요성
+>LSP는 객체 지향 시스템의 견고함과 유연성을 보장하는 필수 원칙이다. 이를 준수하면 코드의 안정성, 재사용성, 확장성, 유지보수성이 향상되며, 다형성을 통한 객체 지향 설계의 완성도를 높일 수 있다. 고품질 소프트웨어 개발을 위한 핵심 원칙으로, 안정적이고 유지보수하기 쉬운 시스템 구축에 기여한다. 

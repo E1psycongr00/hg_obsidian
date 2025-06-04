@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ SOLID 원칙",
+      "path": "02. MOC/🏛️ SOLID 원칙.md"
+    },
+    {
       "basename": "🏛️ GoF 디자인 패턴",
       "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "🏛️ GoF 구조 패턴",
       "path": "02. MOC/🏛️ GoF 구조 패턴.md"
-    },
-    {
-      "basename": "🏛️ SOLID 원칙",
-      "path": "02. MOC/🏛️ SOLID 원칙.md"
     },
     {
       "basename": "Single Responsibility Principal",
