@@ -8,8 +8,8 @@ cssclasses: dashboard
 ---
 
 ## GoF 디자인 패턴 학습 로드맵
-- [[🏛️ SOLID 원칙 MOC]]
+- [[02. MOC/🏛️ SOLID 원칙]]
 - [[GoF 디자인 패턴 학습 환경 설정]]
-- [[🏛️ GoF 생성 패턴 MOC]]
+- [[02. MOC/🏛️ GoF 생성 패턴]]
 - [[02. MOC/🏛️ GoF 구조 패턴]]
-- [[🏛️ GoF 행위 패턴 MOC]]
+- [[02. MOC/🏛️ GoF 행위 패턴]]

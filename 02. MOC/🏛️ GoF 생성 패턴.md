@@ -2,7 +2,7 @@
 tags: MOC, GoF, 디자인패턴, 생성패턴
 aliases:
 created: 2025-06-04
-title: 🏛️ GoF 생성 패턴 MOC
+title: 🏛️ GoF 생성 패턴
 note-type: MOC
 cssclasses: -dashboard
 ---

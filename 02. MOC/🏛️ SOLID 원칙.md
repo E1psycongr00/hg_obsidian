@@ -2,9 +2,9 @@
 tags: MOC, SOLID, 객체지향
 aliases:
 created: 2025-06-04
-title: 🏛️ SOLID 원칙 MOC
+title: 🏛️ SOLID 원칙
 note-type: MOC
-cssclasses: -dashboard
+cssclasses: dashboard
 ---
 
 ## SOLID 원칙

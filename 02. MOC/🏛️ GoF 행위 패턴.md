@@ -2,9 +2,9 @@
 tags: MOC, GoF, 디자인패턴, 행위패턴
 aliases:
 created: 2025-06-04
-title: 🏛️ GoF 행위 패턴 MOC
+title: 🏛️ GoF 행위 패턴
 note-type: MOC
-cssclasses: -dashboard
+cssclasses: dashboard
 ---
 
 ## 행위 패턴
