@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md",
+                "file": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JDK 11 주요 특징 및 패치 분석"
+              "title": "4. Java 버전별 특징"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "접지된 구도체",
+                "query": "java version",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md"
+                "file": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md"
               },
               "icon": "lucide-info",
-              "title": "JDK 11 주요 특징 및 패치 분석 의 파일 속성"
+              "title": "4. Java 버전별 특징 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md",
+                "file": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "AI 노트 유형별 글쓰기 전략 그래프"
+              "title": "4. Java 버전별 특징 그래프"
             }
           },
           {
@@ -251,7 +251,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -264,13 +264,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md",
+                "file": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JDK 11 주요 특징 및 패치 분석 의 개요"
+              "title": "4. Java 버전별 특징 의 개요"
             }
           },
           {
@@ -314,9 +314,14 @@
   },
   "active": "a418408421760448",
   "lastOpenFiles": [
-    "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md",
-    "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md",
+    "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
+    "03. Permanent Notes/Java 8 특징.md",
+    "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
+    "06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md",
+    "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md",
     "04. Practice Notes/JDK 8 주요 특징 및 패치 분석.md",
+    "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md",
+    "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md",
     "04. Practice Notes/변압기 Y-Y 결선.md",
     "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md",
     "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md",
@@ -335,12 +340,7 @@
     "02. MOC/Home.md",
     "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
     "00. AI Rules/AI 노트 유형별 글쓰기 전략.md",
-    "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md",
-    "00. AI Rules/AI Note 관리 전략.md",
-    "00. AI Rules/AI Note 관리 Guides.md",
-    "분석된스타일.md",
     "00. AI Rules",
-    "01. Guides/Folder Guides.md",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",

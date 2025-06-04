@@ -7,8 +7,7 @@ from: "Web"
 
 ### 출처
 
-- [JDK 11 Release Notes](https://www.oracle.com/java/technologies/javase/11-relnotes.html)
-- [What's New in JDK 11](https://www.oracle.com/java/technologies/javase/11-whats-new.html)
+- [JDK 11 Release Notes](https://www.oracle.com/java/technologies/javase/11-relnotes.html
 - [JDK 11 Migration Guide](https://docs.oracle.com/en/java/javase/11/migrate/index.html)
 - [OpenJDK 11 Release Notes](https://openjdk.java.net/projects/jdk/11/)
 

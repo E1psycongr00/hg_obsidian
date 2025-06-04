@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Java 버전별 특징",
+      "path": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md"
+    },
+    {
+      "basename": "자바 9 ~ 11 이전까지 과정",
+      "path": "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md"
+    },
+    {
+      "basename": "JDK 8 주요 특징 및 패치 분석",
+      "path": "04. Practice Notes/JDK 8 주요 특징 및 패치 분석.md"
+    },
+    {
       "basename": "JDK 11 주요 특징 및 패치 분석",
       "path": "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md"
     },
     {
       "basename": "📚 Oracle JDK 11 공식 문서",
       "path": "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
-    },
-    {
-      "basename": "JDK 8 주요 특징 및 패치 분석",
-      "path": "04. Practice Notes/JDK 8 주요 특징 및 패치 분석.md"
     },
     {
       "basename": "변압기 Y-Y 결선",
@@ -87,18 +95,6 @@
     {
       "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
       "path": "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
-    },
-    {
-      "basename": "AI Note 관리 전략",
-      "path": "00. AI Rules/AI Note 관리 전략.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "좀 더 세분화된 RDD 프로젝트 by Java",
-      "path": "03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java.md"
     }
   ],
   "omittedPaths": [],
