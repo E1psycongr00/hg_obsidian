@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "분석된스타일",
+      "path": "분석된스타일.md"
+    },
+    {
       "basename": "무제 4",
       "path": "무제 4.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "수차의 특유 속도",
       "path": "03. Permanent Notes/수차의 특유 속도.md"
-    },
-    {
-      "basename": "스케일 팩터",
-      "path": "03. Permanent Notes/스케일 팩터.md"
     }
   ],
   "omittedPaths": [],

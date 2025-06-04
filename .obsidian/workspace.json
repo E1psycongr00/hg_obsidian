@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 4.md",
+                "file": "분석된스타일.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "무제 4"
+              "title": "분석된스타일"
             }
           },
           {
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 4.md"
+                "file": "분석된스타일.md"
               },
               "icon": "lucide-info",
-              "title": "무제 4 의 파일 속성"
+              "title": "분석된스타일 의 파일 속성"
             }
           },
           {
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "무제 4.md",
+                "file": "분석된스타일.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "무제 4 그래프"
+              "title": "분석된스타일 그래프"
             }
           },
           {
@@ -285,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 4.md",
+                "file": "분석된스타일.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 4 의 개요"
+              "title": "분석된스타일 의 개요"
             }
           },
           {
@@ -335,9 +335,9 @@
   },
   "active": "9cc478bda16079dc",
   "lastOpenFiles": [
+    "무제 4.md",
     "분석된스타일.md",
     "02. MOC/🏛️ AI 프롬프트 모음.md",
-    "무제 4.md",
     "03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java.md",
     "03. Permanent Notes/RDD 책임 지향 설계 프롬프트 by python.md",
     "03. Permanent Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
