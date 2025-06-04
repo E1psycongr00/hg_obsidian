@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "의존성 역전",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -337,8 +337,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/리스코프 치환 원칙.md",
     "03. Permanent Notes/Open Closed Principle.md",
     "02. MOC/🏛️ SOLID 원칙.md",
     "02. MOC/🏛️ GoF 디자인 패턴 로드맵.md",
@@ -364,7 +365,6 @@
     "03. Permanent Notes/java 11 특징.md",
     "03. Permanent Notes/Java8 이전 버전 별 특징.md",
     "07. Solution Notes/Archive/🔬 JDK 17에서 JDK 21로 마이그레이션 가이드.md",
-    "07. Solution Notes/Archive/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드.md",
     "00. AI Rules",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
