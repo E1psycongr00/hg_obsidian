@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 심화 및 통합 학습 MOC",
+      "path": "02. MOC/🏛️ 심화 및 통합 학습 MOC.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴 로드맵 MOC",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴 로드맵 MOC.md"
+    },
+    {
+      "basename": "🏛️ GoF 행위 패턴 MOC",
+      "path": "02. MOC/🏛️ GoF 행위 패턴 MOC.md"
+    },
+    {
+      "basename": "🏛️ GoF 생성 패턴 MOC",
+      "path": "02. MOC/🏛️ GoF 생성 패턴 MOC.md"
+    },
+    {
+      "basename": "🏛️ GoF 구조 패턴 MOC",
+      "path": "02. MOC/🏛️ GoF 구조 패턴 MOC.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "상태 패턴",
       "path": "03. Permanent Notes/상태 패턴.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "Drawing 2025-06-04 20.08.46.excalidraw",
       "path": "Excalidraw/Drawing 2025-06-04 20.08.46.excalidraw.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
@@ -79,26 +99,6 @@
     {
       "basename": "AI 지식 구조화 및 자동화 전략",
       "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
-    },
-    {
-      "basename": "AI 노트 유형별 글쓰기 전략",
-      "path": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "Meta Learning",
-      "path": "04. Practice Notes/Meta Learning.md"
-    },
-    {
-      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
-      "path": "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
-    },
-    {
-      "basename": "자바 9 ~ 11 이전까지 과정",
-      "path": "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md"
     }
   ],
   "omittedPaths": [],
