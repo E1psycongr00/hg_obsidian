@@ -115,13 +115,13 @@ graph TD
 
 ## 📊 버전별 주요 특징 비교
 
-| 특징 | JDK 8 | JDK 11 | JDK 17 | JDK 21 |
-|------|-------|--------|--------|--------|
-| **LTS 지원 기간** | ~2030 | ~2026 | ~2029 | ~2031 |
-| **주요 언어 기능** | Lambda, Stream | var 확장, HTTP Client | Sealed Classes, Pattern Matching | Virtual Threads, Enhanced Pattern Matching |
-| **GC 개선** | G1GC 개선 | ZGC/Epsilon 도입 | ZGC/Shenandoah 정식 | Generational ZGC |
-| **성능** | 기준점 | +10-15% | +15-20% | +20-30% (I/O 집약적 시 더 큰 향상) |
-| **메모리 효율성** | 기준점 | Compact Strings | 추가 최적화 | Virtual Threads로 대폭 개선 |
+| 특징            | JDK 8          | JDK 11              | JDK 17                           | JDK 21                                     |
+| ------------- | -------------- | ------------------- | -------------------------------- | ------------------------------------------ |
+| **LTS 지원 기간** | ~2030          | ~2026               | ~2029                            | ~2031                                      |
+| **주요 언어 기능**  | Lambda, Stream | var 확장, HTTP Client | Sealed Classes, Pattern Matching | Virtual Threads, Enhanced Pattern Matching |
+| **GC 개선**     | G1GC 개선        | ZGC/Epsilon 도입      | ZGC/Shenandoah 정식                | Generational ZGC                           |
+| **성능**        | 기준점            | +10-15%             | +15-20%                          | +20-30% (I/O 집약적 시 더 큰 향상)                 |
+| **메모리 효율성**   | 기준점            | Compact Strings     | 추가 최적화                           | Virtual Threads로 대폭 개선                     |
 
 ---
 
