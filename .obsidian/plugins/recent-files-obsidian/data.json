@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Liskov Substitution Principle",
-      "path": "03. Permanent Notes/Liskov Substitution Principle.md"
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
-      "basename": "🏛️ SOLID 원칙",
-      "path": "02. MOC/🏛️ SOLID 원칙.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Open Closed Principle",
       "path": "03. Permanent Notes/Open Closed Principle.md"
     },
     {
-      "basename": "🏛️ GoF 디자인 패턴 로드맵",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴 로드맵.md"
+      "basename": "Liskov Substitution Principle",
+      "path": "04. Practice Notes/Liskov Substitution Principle.md"
+    },
+    {
+      "basename": "🏛️ GoF 생성 패턴",
+      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 구조 패턴",
+      "path": "02. MOC/🏛️ GoF 구조 패턴.md"
+    },
+    {
+      "basename": "🏛️ SOLID 원칙",
+      "path": "02. MOC/🏛️ SOLID 원칙.md"
     },
     {
       "basename": "Single Responsibility Principal",
@@ -23,14 +35,6 @@
     {
       "basename": "🏛️ GoF 행위 패턴",
       "path": "02. MOC/🏛️ GoF 행위 패턴.md"
-    },
-    {
-      "basename": "🏛️ GoF 구조 패턴",
-      "path": "02. MOC/🏛️ GoF 구조 패턴.md"
-    },
-    {
-      "basename": "🏛️ GoF 생성 패턴",
-      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
     },
     {
       "basename": "🏛️ GoF 생성 패턴",
@@ -45,16 +49,8 @@
       "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
     },
     {
-      "basename": "GoF 디자인 패턴 학습 환경 설정",
-      "path": "04. Practice Notes/GoF 디자인 패턴 학습 환경 설정.md"
-    },
-    {
       "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
       "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "상태 패턴",

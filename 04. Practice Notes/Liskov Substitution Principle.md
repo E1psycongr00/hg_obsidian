@@ -5,6 +5,7 @@ aliases:
 created: 2025-06-04
 title: Liskov Substitution Principle
 note-type: COMMON
+completed: false
 ---
 
 ## 정의
