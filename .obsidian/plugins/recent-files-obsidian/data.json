@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ AI 프롬프트 모음",
       "path": "02. MOC/🏛️ AI 프롬프트 모음.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "무제 3",
       "path": "무제 3.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
