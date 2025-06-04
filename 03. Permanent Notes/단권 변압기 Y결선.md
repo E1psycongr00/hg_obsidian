@@ -6,7 +6,7 @@ aliases:
 created: 2025-04-04
 title: 단권 변압기 Y결선
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)

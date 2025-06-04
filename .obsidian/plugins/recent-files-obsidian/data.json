@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "단로기",
-      "path": "04. Practice Notes/단로기.md"
+      "basename": "JDK 8 주요 특징 및 패치 분석",
+      "path": "04. Practice Notes/JDK 8 주요 특징 및 패치 분석.md"
+    },
+    {
+      "basename": "변압기 Y-Y 결선",
+      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
     },
     {
       "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
       "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+    },
+    {
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "04. Practice Notes/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "피뢰기",
+      "path": "03. Permanent Notes/피뢰기.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "04. Practice Notes/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "정재파",
+      "path": "04. Practice Notes/정재파.md"
+    },
+    {
+      "basename": "역률 개선의 필요성",
+      "path": "04. Practice Notes/역률 개선의 필요성.md"
+    },
+    {
+      "basename": "보호 계전 방식",
+      "path": "04. Practice Notes/보호 계전 방식.md"
+    },
+    {
+      "basename": "망상식",
+      "path": "04. Practice Notes/망상식.md"
+    },
+    {
+      "basename": "나이퀴스트 선도",
+      "path": "03. Permanent Notes/나이퀴스트 선도.md"
+    },
+    {
+      "basename": "단권 변압기 Y결선",
+      "path": "03. Permanent Notes/단권 변압기 Y결선.md"
+    },
+    {
+      "basename": "동기 발전기",
+      "path": "04. Practice Notes/동기 발전기.md"
+    },
+    {
+      "basename": "노튼 정리",
+      "path": "03. Permanent Notes/노튼 정리.md"
+    },
+    {
+      "basename": "단로기",
+      "path": "03. Permanent Notes/단로기.md"
     },
     {
       "basename": "Home",
@@ -47,58 +99,6 @@
     {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "무제 4",
-      "path": "무제 4.md"
-    },
-    {
-      "basename": "🏛️ AI 프롬프트 모음",
-      "path": "02. MOC/🏛️ AI 프롬프트 모음.md"
-    },
-    {
-      "basename": "RDD 책임 지향 설계 프롬프트 by python",
-      "path": "03. Permanent Notes/RDD 책임 지향 설계 프롬프트 by python.md"
-    },
-    {
-      "basename": "구체적 예시로 개선된 RDD 프롬프트 by python",
-      "path": "03. Permanent Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md"
-    },
-    {
-      "basename": "무제 3",
-      "path": "무제 3.md"
-    },
-    {
-      "basename": "📚 객체, 설계 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 객체, 설계 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "🏛️ 오브젝트 - 조용호",
-      "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
-    },
-    {
-      "basename": "📚 프로그래밍 패러다임 (오브젝트 - 조용호 )",
-      "path": "06. Reference Notes/Book/📚 프로그래밍 패러다임 (오브젝트 - 조용호 ).md"
-    },
-    {
-      "basename": "📚 객체지향 프로그래밍 (오브젝트 - 조용호)",
-      "path": "06. Reference Notes/Book/📚 객체지향 프로그래밍 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "수두",
-      "path": "03. Permanent Notes/수두.md"
-    },
-    {
-      "basename": "속류",
-      "path": "03. Permanent Notes/속류.md"
     }
   ],
   "omittedPaths": [],
