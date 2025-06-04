@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
+                "file": "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ Java 버전별 패치 및 마이그레이션 가이드"
+              "title": "4. Java 버전별 특징"
+            }
+          },
+          {
+            "id": "b419ed2e824f250b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/무료와 독점 JDK 모음.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "무료와 독점 JDK 모음"
             }
           },
           {
@@ -37,7 +52,8 @@
               "title": "AI 옵시디언 마크다운 스타일 준수 가이드"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +117,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -115,10 +130,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+                "file": "03. Permanent Notes/무료와 독점 JDK 모음.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ Java 버전별 패치 및 마이그레이션 가이드 의 파일 속성"
+              "title": "무료와 독점 JDK 모음 의 파일 속성"
             }
           },
           {
@@ -204,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
+                "file": "03. Permanent Notes/무료와 독점 JDK 모음.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -227,12 +242,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.3628873693012164,
+                  "scale": 1.0000000000000135,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ Java 버전별 패치 및 마이그레이션 가이드 그래프"
+              "title": "무료와 독점 JDK 모음 그래프"
             }
           },
           {
@@ -266,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -279,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
+                "file": "03. Permanent Notes/무료와 독점 JDK 모음.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ Java 버전별 패치 및 마이그레이션 가이드 의 개요"
+              "title": "무료와 독점 JDK 모음 의 개요"
             }
           },
           {
@@ -327,10 +342,19 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b419ed2e824f250b",
   "lastOpenFiles": [
-    "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md",
+    "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
+    "03. Permanent Notes/Java 12 ~ 17까지 과정.md",
+    "03. Permanent Notes/java 11 특징.md",
+    "03. Permanent Notes/Java8 이전 버전 별 특징.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
+    "07. Solution Notes/Archive/🔬 JDK 17에서 JDK 21로 마이그레이션 가이드.md",
+    "07. Solution Notes/Archive/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드.md",
+    "07. Solution Notes/Archive/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md",
+    "06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md",
+    "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md",
     "03. Permanent Notes/JDK 17 주요 특징 및 패치 분석.md",
     "06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md",
     "03. Permanent Notes/JDK 11 주요 특징 및 패치 분석.md",
@@ -338,23 +362,14 @@
     "06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md",
     "06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md",
     "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md",
-    "07. Solution Notes/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md",
     "00. AI Rules/AI Note 관리 전략.md",
     "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
     "00. AI Rules/AI 노트 유형별 글쓰기 전략.md",
     "01. Guides/Note Guides.md",
-    "02. MOC/Home.md",
-    "07. Solution Notes/🔬 JDK 17에서 JDK 21로 마이그레이션 가이드.md",
     "03. Permanent Notes/구체적 예시로 개선된 RDD 프롬프트 by python.md",
     "04. Practice Notes/Meta Learning.md",
     "04. Practice Notes/JDK 17 주요 특징 및 패치 분석.md",
-    "07. Solution Notes/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드.md",
     "04. Practice Notes/JDK 21 주요 특징 및 패치 분석.md",
-    "06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md",
-    "04. Practice Notes/JDK 8 주요 특징 및 패치 분석.md",
-    "04. Practice Notes/JDK 11 주요 특징 및 패치 분석.md",
-    "06. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md",
-    "09. PARA/3.Resources/IT/java/4. Java 버전별 특징.md",
     "00. AI Rules",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",

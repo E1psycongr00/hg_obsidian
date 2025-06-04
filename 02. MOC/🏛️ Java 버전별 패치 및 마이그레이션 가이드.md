@@ -1,9 +1,15 @@
 ---
-title: "🏛️ Java 버전별 패치 및 마이그레이션 가이드"
-note-type: "MOC"
-created: "2025-01-04"
-tags: ["java", "version", "patch", "migration", "MOC"]
-cssclasses: 
+tags:
+  - java
+  - version
+  - patch
+  - migration
+  - MOC
+aliases: 
+title: 🏛️ Java 버전별 패치 및 마이그레이션 가이드
+note-type: MOC
+created: 2025-01-04
+cssclasses:
 ---
 
 ## 개요
@@ -32,9 +38,9 @@ cssclasses:
 ## 🚀 마이그레이션 가이드
 
 ### 주요 마이그레이션 경로
-- [[🔬 JDK 8에서 JDK 11로 마이그레이션 가이드]] - 가장 일반적인 마이그레이션 경로의 상세 가이드
-- [[🔬 JDK 11에서 JDK 17로 마이그레이션 가이드]] - 안정적인 LTS 간 업그레이드 방법
-- [[🔬 JDK 17에서 JDK 21로 마이그레이션 가이드]] - 최신 기능 활용을 위한 마이그레이션 전략
+- [[07. Solution Notes/Archive/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드]] - 가장 일반적인 마이그레이션 경로의 상세 가이드
+- [[07. Solution Notes/Archive/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드]] - 안정적인 LTS 간 업그레이드 방법
+- [[07. Solution Notes/Archive/🔬 JDK 17에서 JDK 21로 마이그레이션 가이드]] - 최신 기능 활용을 위한 마이그레이션 전략
 
 ### 마이그레이션 체크리스트
 

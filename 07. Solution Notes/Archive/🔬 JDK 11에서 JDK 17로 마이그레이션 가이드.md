@@ -1,8 +1,11 @@
 ---
-title: "🔬 JDK 11에서 JDK 17로 마이그레이션 가이드"
-note-type: "SOLUTION"
-created: "2025-01-04"
+tags: 
+aliases: 
+title: 🔬 JDK 11에서 JDK 17로 마이그레이션 가이드
+note-type: SOLUTION
+created: 2025-06-04
 completed: true
+archive: true
 ---
 
 ## 문제 정의
