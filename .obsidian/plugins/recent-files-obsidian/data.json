@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "인터페이스 분리 원칙",
-      "path": "04. Practice Notes/인터페이스 분리 원칙.md"
+      "basename": "🏛️ GoF 생성 패턴",
+      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
       "basename": "🏛️ SOLID 원칙",
       "path": "02. MOC/🏛️ SOLID 원칙.md"
+    },
+    {
+      "basename": "의존성 역전 원칙",
+      "path": "03. Permanent Notes/의존성 역전 원칙.md"
+    },
+    {
+      "basename": "인터페이스 분리 원칙",
+      "path": "04. Practice Notes/인터페이스 분리 원칙.md"
     },
     {
       "basename": "SOLID란 무엇인가",
@@ -15,10 +27,6 @@
     {
       "basename": "결합도",
       "path": "03. Permanent Notes/결합도.md"
-    },
-    {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
       "basename": "Home",
@@ -33,16 +41,8 @@
       "path": "03. Permanent Notes/Open Closed Principle.md"
     },
     {
-      "basename": "의존성 역전 원칙",
-      "path": "03. Permanent Notes/의존성 역전 원칙.md"
-    },
-    {
       "basename": "Drawing 2025-06-05 10.03.47.excalidraw",
       "path": "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.md"
-    },
-    {
-      "basename": "🏛️ GoF 생성 패턴",
-      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
     },
     {
       "basename": "🏛️ GoF 구조 패턴",
