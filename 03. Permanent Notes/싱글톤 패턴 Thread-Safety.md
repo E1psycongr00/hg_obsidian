@@ -22,7 +22,7 @@ completed: true
 >[!summary]
 >멀티스레드 환경에서 싱글톤 패턴의 Thread-Safety 이슈와 해결 방안 심화 분석
 
-멀티스레드 환경에서 싱글톤 패턴을 구현할 때 발생하는 Thread-Safety 문제는 매우 복잡하고 미묘합니다. 이 노트에서는 이러한 문제들과 해결 방안을 기술적으로 상세히 분석합니다.
+멀티스레드 환경에서 싱글톤 패턴을 구현할 때 발생하는 Thread-Safety 문제는 매우 복잡하고 미묘하다. 따라서 이 노트에서는 이러한 문제들과 해결 방안을 기술적으로 상세히 분석한다.
 
 ### Thread-Safety 문제의 근본 원인
 
@@ -359,9 +359,9 @@ public void stressTest() {
 
 ### 다음 단계 학습
 
-- [[싱글톤 패턴 구현 방법]] - 7가지 구현 방식과 Thread-Safety 특성
-- [[⌨️ 싱글톤 Double-Checked Locking_java]] - 복잡하지만 최적화된 구현
-- [[싱글톤 패턴 실무 적용]] - 실제 사용 사례와 현대적 대안
+- [[03. Permanent Notes/싱글톤 패턴 구현 방법|싱글톤 패턴 구현 방법]] - 7가지 구현 방식과 Thread-Safety 특성
+- [[06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)|⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)]] - 복잡하지만 최적화된 구현
+- [[03. Permanent Notes/싱글톤 패턴 실무 적용|싱글톤 패턴 실무 적용]] - 실제 사용 사례와 현대적 대안
 
 ## 출처
 

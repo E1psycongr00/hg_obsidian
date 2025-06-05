@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "싱글톤 패턴 구현 방법",
-      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
+      "basename": "싱글톤 패턴 Thread-Safety",
+      "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
     },
     {
       "basename": "🏛️ 싱글톤 패턴",
       "path": "02. MOC/🏛️ 싱글톤 패턴.md"
+    },
+    {
+      "basename": "싱글톤 패턴 구현 방법",
+      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
     },
     {
       "basename": "싱글톤 패턴 기본 개념",
@@ -59,10 +63,6 @@
     {
       "basename": "싱글톤 패턴 실무 적용",
       "path": "03. Permanent Notes/싱글톤 패턴 실무 적용.md"
-    },
-    {
-      "basename": "싱글톤 패턴 Thread-Safety",
-      "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
     },
     {
       "basename": "싱글톤 패턴",
