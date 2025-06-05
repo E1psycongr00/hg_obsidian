@@ -96,7 +96,7 @@ classDiagram
 
 - [[Single Responsibility Principal]]
 - [[Open Closed Principle]]
-- [[리스코프 치환 원칙(Liskov Substitution Principle)]]
+- [[03. Permanent Notes/Liskov Substitution Principle|Liskov Substitution Principle]]
 - related:: [[결합도]]
 - related:: [[응집도]]
 

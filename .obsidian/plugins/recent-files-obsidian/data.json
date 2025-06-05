@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "의존성 역전 원칙",
-      "path": "03. Permanent Notes/의존성 역전 원칙.md"
+      "basename": "인터페이스 분리 원칙",
+      "path": "04. Practice Notes/인터페이스 분리 원칙.md"
     },
     {
       "basename": "🏛️ SOLID 원칙",
       "path": "02. MOC/🏛️ SOLID 원칙.md"
     },
     {
-      "basename": "Drawing 2025-06-05 10.03.47.excalidraw",
-      "path": "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.md"
+      "basename": "SOLID란 무엇인가",
+      "path": "03. Permanent Notes/SOLID란 무엇인가.md"
     },
     {
-      "basename": "인터페이스 분리 원칙",
-      "path": "04. Practice Notes/인터페이스 분리 원칙.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "결합도",
+      "path": "03. Permanent Notes/결합도.md"
     },
     {
       "basename": "🏛️ GoF 디자인 패턴",
       "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
-      "basename": "Open Closed Principle",
-      "path": "03. Permanent Notes/Open Closed Principle.md"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "Liskov Substitution Principle",
       "path": "03. Permanent Notes/Liskov Substitution Principle.md"
+    },
+    {
+      "basename": "Open Closed Principle",
+      "path": "03. Permanent Notes/Open Closed Principle.md"
+    },
+    {
+      "basename": "의존성 역전 원칙",
+      "path": "03. Permanent Notes/의존성 역전 원칙.md"
+    },
+    {
+      "basename": "Drawing 2025-06-05 10.03.47.excalidraw",
+      "path": "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.md"
     },
     {
       "basename": "🏛️ GoF 생성 패턴",
@@ -91,10 +99,6 @@
     {
       "basename": "📚 Oracle JDK 21 공식 문서",
       "path": "06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md"
-    },
-    {
-      "basename": "JDK 21 주요 특징 및 패치 분석",
-      "path": "03. Permanent Notes/JDK 21 주요 특징 및 패치 분석.md"
     }
   ],
   "omittedPaths": [],

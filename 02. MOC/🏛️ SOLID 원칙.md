@@ -8,8 +8,9 @@ cssclasses:
 ---
 
 ## SOLID 원칙
+- [[03. Permanent Notes/SOLID란 무엇인가|SOLID란 무엇인가]]
 
-이 MOC는 객체 지향 설계의 다섯 가지 핵심 원칙인 SOLID 원칙에 대한 노트를 정리하고 링크한다.
+### SOLID 원칙 종류
 
 - [[03. Permanent Notes/Single Responsibility Principal|단일 책임 원칙]]
 - [[03. Permanent Notes/Open Closed Principle|개방-폐쇄 원칙]]
