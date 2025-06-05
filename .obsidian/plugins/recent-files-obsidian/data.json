@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "싱글톤 패턴 Thread-Safety",
-      "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
+      "basename": "싱글톤 패턴 실무 적용",
+      "path": "03. Permanent Notes/싱글톤 패턴 실무 적용.md"
     },
     {
       "basename": "🏛️ 싱글톤 패턴",
       "path": "02. MOC/🏛️ 싱글톤 패턴.md"
+    },
+    {
+      "basename": "싱글톤 패턴 Thread-Safety",
+      "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
     },
     {
       "basename": "싱글톤 패턴 구현 방법",
@@ -59,10 +63,6 @@
     {
       "basename": "Junit5와 TestContainer를 이용한 생명주기 관리",
       "path": "03. Permanent Notes/Junit5와 TestContainer를 이용한 생명주기 관리.md"
-    },
-    {
-      "basename": "싱글톤 패턴 실무 적용",
-      "path": "03. Permanent Notes/싱글톤 패턴 실무 적용.md"
     },
     {
       "basename": "싱글톤 패턴",

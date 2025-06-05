@@ -18,10 +18,6 @@ completed: true
 ## 내용(Content)
 
 ### 주제 요약
-
->[!summary]
->멀티스레드 환경에서 싱글톤 패턴의 Thread-Safety 이슈와 해결 방안 심화 분석
-
 멀티스레드 환경에서 싱글톤 패턴을 구현할 때 발생하는 Thread-Safety 문제는 매우 복잡하고 미묘하다. 따라서 이 노트에서는 이러한 문제들과 해결 방안을 기술적으로 상세히 분석한다.
 
 ### Thread-Safety 문제의 근본 원인
@@ -39,7 +35,7 @@ public static LazySingleton getInstance() {
 ```
 
 >[!warning] 원자성 문제
->위 코드에서 1-2번 연산 사이에 다른 스레드가 개입할 수 있어 여러 인스턴스가 생성될 수 있습니다.
+>위 코드에서 1-2번 연산 사이에 다른 스레드가 개입할 수 있어 여러 인스턴스가 생성될 수 있다.
 
 **문제 발생 메커니즘:**
 - `if (instance == null)` 체크와 `instance = new LazySingleton()` 할당이 원자적으로 실행되지 않음
@@ -62,7 +58,7 @@ Thread B: instance = new LazySingleton(); // 두 번째 인스턴스 생성 (덮
 - 상태 불일치 가능성
 
 >[!info] Race Condition 정의
->두 개 이상의 스레드가 공유 자원에 동시에 접근할 때, 실행 순서에 따라 결과가 달라지는 상황을 말합니다.
+>두 개 이상의 스레드가 공유 자원에 동시에 접근할 때, 실행 순서에 따라 결과가 달라지는 상황을 말한다.
 
 #### 3. 메모리 가시성(Memory Visibility) 문제
 
@@ -72,7 +68,7 @@ Thread A: instance = new Singleton(); // CPU A 캐시에만 저장
 Thread B: if (instance == null)       // CPU B 캐시에서 읽음 (여전히 null)
 ```
 
-**Java Memory Model**에 따르면, 한 스레드에서 변경한 값이 다른 스레드에게 즉시 보이지 않을 수 있습니다.
+**Java Memory Model**에 따르면, 한 스레드에서 변경한 값이 다른 스레드에게 즉시 보이지 않을 수 있다.
 
 **메모리 가시성 문제의 원인:**
 - 각 CPU 코어는 독립적인 캐시를 가짐
@@ -110,7 +106,7 @@ long endTime = System.nanoTime();
 ```
 
 >[!warning] 성능 문제
->synchronized는 Thread-Safety를 보장하지만, 인스턴스 생성 후에도 매번 동기화 오버헤드가 발생합니다.
+>synchronized는 Thread-Safety를 보장하지만, 인스턴스 생성 후에도 매번 동기화 오버헤드가 발생한다.
 
 #### 2. volatile 키워드
 
@@ -174,13 +170,13 @@ instance = new Singleton(); // 실제로는 3단계 연산
 ```
 
 >[!danger] 명령어 재배열 문제
->JVM 최적화로 인해 생성자 호출 전에 참조가 할당될 수 있어, 초기화되지 않은 객체를 반환할 위험이 있습니다.
+>JVM 최적화로 인해 생성자 호출 전에 참조가 할당될 수 있어, 초기화되지 않은 객체를 반환할 위험이 있다.
 
 **문제 시나리오:**
 ```java
 Thread A: instance = new Singleton(); // 재배열로 인해 참조만 할당
 Thread B: if (instance == null)       // false (참조는 존재)
-Thread B: return instance;            // 아직 초기화되지 않은 객체 반환!
+Thread B: return instance;            // 아직 초기화되지 않은 객체가 반환된다!
 ```
 
 **상세 구현:** [[⌨️ 싱글톤 Double-Checked Locking_java]]
@@ -294,7 +290,6 @@ public class LockFreeSingleton {
 3. **레거시 시스템**: **Early Initialization**
    - 단순하고 안정적
    - 메모리 사용량이 크지 않은 경우
-
 4. **고성능이 필요한 경우**: **Double-Checked Locking**
    - 세밀한 성능 튜닝 가능
    - volatile 키워드 필수 주의
@@ -312,7 +307,7 @@ public static Singleton getInstance() {
 ```
 
 >[!danger] 위험한 패턴
->위 코드는 멀티스레드 환경에서 여러 인스턴스가 생성될 수 있어 절대 사용하면 안 됩니다.
+>위 코드는 멀티스레드 환경에서 여러 인스턴스가 생성될 수 있어 절대 사용하지 않는다.
 
 ### Thread-Safety 검증 방법
 
@@ -380,9 +375,3 @@ public void stressTest() {
 
 ### 구현 방법
 - [[싱글톤 패턴 구현 방법]] - 각 구현 방법의 Thread-Safety 특성
-
----
-
-**마지막 업데이트**: 2025-01-16  
-**작성자**: AI Assistant  
-**검토 상태**: 완료 
