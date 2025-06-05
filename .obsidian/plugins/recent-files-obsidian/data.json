@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "무제 5",
       "path": "무제 5.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "결합도",
       "path": "03. Permanent Notes/결합도.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     }
   ],
   "omittedPaths": [],
