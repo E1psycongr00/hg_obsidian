@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "싱글톤 패턴",
+      "path": "03. Permanent Notes/싱글톤 패턴.md"
+    },
+    {
       "basename": "🏛️ GoF 생성 패턴",
       "path": "02. MOC/🏛️ GoF 생성 패턴.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
       "path": "07. Solution Notes/Archive/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 21 공식 문서",
-      "path": "06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md"
     }
   ],
   "omittedPaths": [],
