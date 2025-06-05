@@ -1,3 +1,4 @@
+---
 tags:
   - java
   - 디자인패턴
@@ -8,8 +9,8 @@ aliases:
   - Bill Pugh Singleton
   - Static Inner Class Singleton
   - 정적 내부 클래스 싱글톤
-created: 2025-01-16
-title: 싱글톤 Bill Pugh Solution_java
+created: 2025-06-05
+title: ⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05)
 note-type: CODE
 language: java
 completed: true
@@ -616,9 +617,9 @@ private Object readResolve() {
 
 ## 관련 노트
 
-- [[🏛️ 싱글톤 패턴]] - 전체 싱글톤 패턴 MOC
+- [[02. MOC/🏛️ 싱글톤 패턴|🏛️ 싱글톤 패턴]] - 전체 싱글톤 패턴 MOC
 - [[싱글톤 패턴 구현 방법]] - 7가지 구현 방식 비교
-- [[⌨️ 싱글톤 Enum 방식_java]] - 가장 안전한 구현 방법
+- [[06. Code Notes/Area/Java/⌨️ 싱글톤 Enum 방식_java (2025-06-05)|⌨️ 싱글톤 Enum 방식_java (2025-06-05)]] - 가장 안전한 구현 방법
 - [[⌨️ 싱글톤 Double-Checked Locking_java]] - 성능 최적화 구현
 
 ---

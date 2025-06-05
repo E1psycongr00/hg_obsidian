@@ -11,8 +11,8 @@ aliases:
   - Double-Checked Locking
   - 이중 확인 잠금
   - DCL 패턴
-created: 2025-01-16
-title: 싱글톤 Double-Checked Locking_java
+created: 2025-06-05
+title: ⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)
 note-type: CODE
 language: java
 completed: true
