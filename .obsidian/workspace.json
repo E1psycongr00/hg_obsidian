@@ -23,6 +23,16 @@
             }
           },
           {
+            "id": "e9c809c945deca45",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: 싱글톤 패턴 실무 적용.md"
+            }
+          },
+          {
             "id": "6f379345ebdc97e2",
             "type": "leaf",
             "state": {
@@ -34,7 +44,8 @@
               "title": "Drawing 2025-06-05 10.03.47.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -326,7 +337,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e9c809c945deca45",
   "lastOpenFiles": [
     "02. MOC/🏛️ 싱글톤 패턴.md",
     "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md",
