@@ -309,7 +309,8 @@
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "e7a7b303c61786dc",
