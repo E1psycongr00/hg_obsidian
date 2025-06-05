@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/싱글톤 패턴.md",
+                "file": "02. MOC/🏛️ 싱글톤 패턴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "싱글톤 패턴"
+              "title": "🏛️ 싱글톤 패턴"
             }
           },
           {
@@ -112,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/싱글톤 패턴.md"
+                "file": "02. MOC/🏛️ 싱글톤 패턴.md"
               },
               "icon": "lucide-info",
-              "title": "싱글톤 패턴 의 파일 속성"
+              "title": "🏛️ 싱글톤 패턴 의 파일 속성"
             }
           },
           {
@@ -276,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/싱글톤 패턴.md",
+                "file": "02. MOC/🏛️ 싱글톤 패턴.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "싱글톤 패턴 의 개요"
+              "title": "🏛️ 싱글톤 패턴 의 개요"
             }
           },
           {
@@ -327,21 +327,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ GoF 디자인 패턴.md",
+    "02. MOC/🏛️ 싱글톤 패턴.md",
+    "02. MOC/🏛️ GoF 생성 패턴.md",
+    "03. Permanent Notes/싱글톤 패턴 실무 적용.md",
+    "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md",
+    "03. Permanent Notes/싱글톤 패턴 구현 방법.md",
+    "03. Permanent Notes/싱글톤 패턴 기본 개념.md",
+    "03. Permanent Notes/싱글톤 패턴.md",
+    "03. Permanent Notes/싱글톤 패턴_백업_2025-01-16.md",
     "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-01-16).md",
     "06. Code Notes/Area/Java/⌨️ 싱글톤 Enum 방식_java (2025-01-16).md",
     "06. Code Notes/Area/Java/⌨️ 싱글톤 Bill Pugh Solution_java (2025-01-16).md",
     "06. Code Notes/Area/Java",
-    "03. Permanent Notes/싱글톤 패턴 실무 적용.md",
     "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.md",
-    "03. Permanent Notes/싱글톤 패턴.md",
-    "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md",
-    "03. Permanent Notes/싱글톤 패턴 구현 방법.md",
-    "03. Permanent Notes/싱글톤 패턴 기본 개념.md",
-    "02. MOC/🏛️ 싱글톤 패턴.md",
-    "02. MOC/🏛️ GoF 생성 패턴.md",
     "03. Permanent Notes/Junit5와 TestContainer를 이용한 생명주기 관리.md",
     "03. Permanent Notes/SOLID란 무엇인가.md",
-    "02. MOC/🏛️ GoF 디자인 패턴.md",
     "02. MOC/🏛️ SOLID 원칙.md",
     "03. Permanent Notes/의존성 역전 원칙.md",
     "04. Practice Notes/인터페이스 분리 원칙.md",
@@ -355,7 +356,6 @@
     "attachments/screenshot/Pasted image 20250605100503.png",
     "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.svg",
     "03. Permanent Notes/자바 9 ~ 11 이전까지 과정.md",
-    "02. MOC/🏛️ GoF 구조 패턴.md",
     "00. AI Rules",
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",

@@ -9,7 +9,7 @@ tags:
 aliases:
   - Singleton Thread-Safety
   - 싱글톤 스레드 안전성
-created: 2025-01-16
+created: 2025-06-05
 title: 싱글톤 패턴 Thread-Safety
 note-type: COMMON
 completed: true

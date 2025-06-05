@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "싱글톤 패턴",
-      "path": "03. Permanent Notes/싱글톤 패턴.md"
+      "basename": "🏛️ 싱글톤 패턴",
+      "path": "02. MOC/🏛️ 싱글톤 패턴.md"
     },
     {
-      "basename": "Drawing 2025-06-05 10.03.47.excalidraw",
-      "path": "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.md"
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
       "basename": "🏛️ GoF 생성 패턴",
       "path": "02. MOC/🏛️ GoF 생성 패턴.md"
     },
     {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
+      "basename": "싱글톤 패턴 실무 적용",
+      "path": "03. Permanent Notes/싱글톤 패턴 실무 적용.md"
+    },
+    {
+      "basename": "싱글톤 패턴 Thread-Safety",
+      "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
+    },
+    {
+      "basename": "싱글톤 패턴 구현 방법",
+      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
+    },
+    {
+      "basename": "싱글톤 패턴 기본 개념",
+      "path": "03. Permanent Notes/싱글톤 패턴 기본 개념.md"
+    },
+    {
+      "basename": "싱글톤 패턴",
+      "path": "03. Permanent Notes/싱글톤 패턴.md"
+    },
+    {
+      "basename": "Drawing 2025-06-05 10.03.47.excalidraw",
+      "path": "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.md"
     },
     {
       "basename": "🏛️ SOLID 원칙",
@@ -79,26 +99,6 @@
     {
       "basename": "객체 지향",
       "path": "09. PARA/3.Resources/IT/객체지향/객체 지향.md"
-    },
-    {
-      "basename": "Java 배포판(distribution) (Oracle JDK vs Open JDK)",
-      "path": "03. Permanent Notes/Java 배포판(distribution) (Oracle JDK vs Open JDK).md"
-    },
-    {
-      "basename": "Drawing 2025-06-04 20.08.46.excalidraw",
-      "path": "Excalidraw/Drawing 2025-06-04 20.08.46.excalidraw.md"
-    },
-    {
-      "basename": "🔬 JDK 17에서 JDK 21로 마이그레이션 가이드",
-      "path": "07. Solution Notes/Archive/🔬 JDK 17에서 JDK 21로 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "🔬 JDK 11에서 JDK 17로 마이그레이션 가이드",
-      "path": "07. Solution Notes/Archive/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
-      "path": "07. Solution Notes/Archive/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
     }
   ],
   "omittedPaths": [],
