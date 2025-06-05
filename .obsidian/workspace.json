@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03. Permanent Notes/의존성 역전 원칙.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -295,8 +295,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -326,7 +325,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1aaa38f27764a613",
   "lastOpenFiles": [
     "02. MOC/🏛️ SOLID 원칙.md",
     "03. Permanent Notes/의존성 역전 원칙.md",
