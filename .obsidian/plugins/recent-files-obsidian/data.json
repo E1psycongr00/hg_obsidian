@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "싱글톤 패턴 기본 개념",
+      "path": "03. Permanent Notes/싱글톤 패턴 기본 개념.md"
+    },
+    {
+      "basename": "🏛️ 싱글톤 패턴",
+      "path": "02. MOC/🏛️ 싱글톤 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 생성 패턴",
+      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 구조 패턴",
+      "path": "02. MOC/🏛️ GoF 구조 패턴.md"
+    },
+    {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
       "basename": "⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05)",
       "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05).md"
-    },
-    {
-      "basename": "싱글톤 패턴 구현 방법",
-      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
-    },
-    {
-      "basename": "⌨️ 싱글톤 Enum 방식_java (2025-06-05)",
-      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Enum 방식_java (2025-06-05).md"
-    },
-    {
-      "basename": "⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)",
-      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05).md"
     },
     {
       "basename": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)",
@@ -29,20 +41,20 @@
       "path": "06. Code Notes/Area/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md"
     },
     {
-      "basename": "🏛️ 싱글톤 패턴",
-      "path": "02. MOC/🏛️ 싱글톤 패턴.md"
+      "basename": "⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)",
+      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05).md"
+    },
+    {
+      "basename": "⌨️ 싱글톤 Enum 방식_java (2025-06-05)",
+      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Enum 방식_java (2025-06-05).md"
+    },
+    {
+      "basename": "싱글톤 패턴 구현 방법",
+      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
     },
     {
       "basename": "Junit5와 TestContainer를 이용한 생명주기 관리",
       "path": "03. Permanent Notes/Junit5와 TestContainer를 이용한 생명주기 관리.md"
-    },
-    {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
-    },
-    {
-      "basename": "🏛️ GoF 생성 패턴",
-      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
     },
     {
       "basename": "싱글톤 패턴 실무 적용",
@@ -51,10 +63,6 @@
     {
       "basename": "싱글톤 패턴 Thread-Safety",
       "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
-    },
-    {
-      "basename": "싱글톤 패턴 기본 개념",
-      "path": "03. Permanent Notes/싱글톤 패턴 기본 개념.md"
     },
     {
       "basename": "싱글톤 패턴",
@@ -91,14 +99,6 @@
     {
       "basename": "Liskov Substitution Principle",
       "path": "03. Permanent Notes/Liskov Substitution Principle.md"
-    },
-    {
-      "basename": "Open Closed Principle",
-      "path": "03. Permanent Notes/Open Closed Principle.md"
-    },
-    {
-      "basename": "🏛️ GoF 구조 패턴",
-      "path": "02. MOC/🏛️ GoF 구조 패턴.md"
     }
   ],
   "omittedPaths": [],
