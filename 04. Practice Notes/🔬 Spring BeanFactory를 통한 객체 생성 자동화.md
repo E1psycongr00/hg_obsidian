@@ -10,7 +10,7 @@ tags:
 aliases:
   - Spring BeanFactory Automation
   - 스프링 빈팩토리 자동화
-created: 2025-01-07
+created: 2025-06-07
 title: 🔬 Spring BeanFactory를 통한 객체 생성 자동화
 note-type: SOLUTION
 completed: false

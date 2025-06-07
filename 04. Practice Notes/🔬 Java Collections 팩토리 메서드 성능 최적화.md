@@ -9,7 +9,7 @@ tags:
 aliases:
   - Java Collections Factory Method Optimization
   - 자바 컬렉션 팩토리 최적화
-created: 2025-01-07
+created: 2025-06-07
 title: 🔬 Java Collections 팩토리 메서드 성능 최적화
 note-type: SOLUTION
 completed: false
@@ -311,26 +311,3 @@ JVM 최적화와 가비지 컬렉션의 영향으로 정확한 성능 측정이 
 1. **Java 9+ 활용**: `List.of()`, `Set.of()`, `Map.of()` 등 최신 팩토리 메서드 활용
 2. **Guava 라이브러리**: `ImmutableList.of()` 등 더 풍부한 불변 컬렉션 API 활용
 3. **성능 모니터링**: APM 도구를 통한 지속적인 메모리 사용량 모니터링
-
-## 연결 노트
-
-### 상위 개념
-- [[🏛️ 팩토리 메서드 패턴]] - 팩토리 메서드 패턴 전체 개요
-- [[팩토리 메서드 패턴 기본 개념]] - 패턴의 이론적 기초
-
-### 관련 개념
-- [[Java 메모리 관리]] - JVM 메모리 최적화 기법
-- [[불변 객체 설계 패턴]] - 불변성 보장 설계 원칙
-- [[제네릭 타입 안전성]] - Java 제네릭 활용 가이드
-
-### 하위 개념
-- Java 9+ Collection Factory Methods 활용
-- Guava Collections 라이브러리 활용
-- 커스텀 컬렉션 팩토리 구현
-
-## 출처
-
-- "Effective Java" 3rd Edition - Joshua Bloch
-- Java Collections Framework Documentation
-- "Java Performance: The Definitive Guide" - Scott Oaks
-- 실무 성능 최적화 프로젝트 경험 및 측정 데이터 

@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "SOLID란 무엇인가",
+      "path": "03. Permanent Notes/SOLID란 무엇인가.md"
+    },
+    {
       "basename": "🏛️ 팩토리 메서드 패턴",
       "path": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
+    },
+    {
+      "basename": "ExecutorService",
+      "path": "03. Permanent Notes/ExecutorService.md"
+    },
+    {
+      "basename": "🔬 환경별 로깅 시스템 동적 설정",
+      "path": "04. Practice Notes/🔬 환경별 로깅 시스템 동적 설정.md"
+    },
+    {
+      "basename": "🔬 파일 처리 시스템 확장성 개선",
+      "path": "04. Practice Notes/🔬 파일 처리 시스템 확장성 개선.md"
+    },
+    {
+      "basename": "🔬 Java Collections 팩토리 메서드 성능 최적화",
+      "path": "04. Practice Notes/🔬 Java Collections 팩토리 메서드 성능 최적화.md"
+    },
+    {
+      "basename": "🔬 Spring BeanFactory를 통한 객체 생성 자동화",
+      "path": "04. Practice Notes/🔬 Spring BeanFactory를 통한 객체 생성 자동화.md"
+    },
+    {
+      "basename": "🏛️ GoF 생성 패턴",
+      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 구조 패턴",
+      "path": "02. MOC/🏛️ GoF 구조 패턴.md"
+    },
+    {
+      "basename": "🏛️ AI 프롬프트 모음",
+      "path": "02. MOC/🏛️ AI 프롬프트 모음.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
       "basename": "팩토리 메서드 패턴 실무 적용 사례",
@@ -17,16 +61,8 @@
       "path": "03. Permanent Notes/팩토리 메서드 패턴 기본 개념.md"
     },
     {
-      "basename": "🏛️ GoF 생성 패턴",
-      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
-    },
-    {
       "basename": "⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07)",
       "path": "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md"
-    },
-    {
-      "basename": "ExecutorService",
-      "path": "03. Permanent Notes/ExecutorService.md"
     },
     {
       "basename": "🏛️ 싱글톤 패턴",
@@ -35,14 +71,6 @@
     {
       "basename": "싱글톤 패턴 구현 방법",
       "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
-    },
-    {
-      "basename": "SOLID란 무엇인가",
-      "path": "03. Permanent Notes/SOLID란 무엇인가.md"
-    },
-    {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
       "basename": "Home",
@@ -65,40 +93,12 @@
       "path": "무제 5.md"
     },
     {
-      "basename": "🏛️ GoF 구조 패턴",
-      "path": "02. MOC/🏛️ GoF 구조 패턴.md"
-    },
-    {
       "basename": "MOC Guides",
       "path": "01. Guides/MOC Guides.md"
     },
     {
       "basename": "싱글톤 패턴 실무 적용",
       "path": "03. Permanent Notes/싱글톤 패턴 실무 적용.md"
-    },
-    {
-      "basename": "싱글톤 패턴 Thread-Safety",
-      "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
-    },
-    {
-      "basename": "싱글톤 패턴 기본 개념",
-      "path": "03. Permanent Notes/싱글톤 패턴 기본 개념.md"
-    },
-    {
-      "basename": "⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05)",
-      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05).md"
-    },
-    {
-      "basename": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)",
-      "path": "06. Code Notes/Area/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
-    },
-    {
-      "basename": "⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23)",
-      "path": "06. Code Notes/Area/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md"
-    },
-    {
-      "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
-      "path": "06. Code Notes/Area/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md"
     }
   ],
   "omittedPaths": [],
