@@ -5,6 +5,14 @@
       "path": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
     },
     {
+      "basename": "ExecutorService",
+      "path": "03. Permanent Notes/ExecutorService.md"
+    },
+    {
+      "basename": "⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-01-07)",
+      "path": "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-01-07).md"
+    },
+    {
       "basename": "팩토리 메서드 패턴 실무 적용 사례",
       "path": "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
       "path": "06. Code Notes/Area/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md"
-    },
-    {
-      "basename": "⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)",
-      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05).md"
-    },
-    {
-      "basename": "⌨️ 싱글톤 Enum 방식_java (2025-06-05)",
-      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Enum 방식_java (2025-06-05).md"
     }
   ],
   "omittedPaths": [],
