@@ -26,8 +26,8 @@ note-type: GUIDE
 tags: 
   - daily
 aliases: 
-created: YYYY-MM-DD
-title: Daily Notes - YYYY.MM.DD
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
+title: Daily Notes - [실제 오늘 날짜 YYYY.MM.DD 형식]
 note-type: DAILY
 ---
 
@@ -43,8 +43,8 @@ note-type: DAILY
 tags: 
   - daily
 aliases: 
-created: 2025-04-06
-title: Daily Notes - 2025.04.06
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
+title: Daily Notes - [실제 오늘 날짜 YYYY.MM.DD 형식]
 note-type: DAILY
 ---
 
@@ -76,7 +76,7 @@ note-type: DAILY
 ---
 tags:
 aliases:
-created: YYYY-MM-DD
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
 title: 🔬 [문제 제목]
 note-type: SOLUTION
 completed: false
@@ -111,7 +111,7 @@ area-reason: "" # 특정 기술 분야나 문제 영역 명시 (예: 웹 성능 
 ---
 tags:
 aliases:
-created: 2025-01-10
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 🔬 웹사이트 로딩 속도 5초 이상 지연 문제
 note-type: SOLUTION
 completed: true
@@ -161,7 +161,7 @@ area-reason: 웹 성능 최적화
 ---
 tags:
 aliases:
-created: YYYY-MM-DD
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
 title: [학습 주제]
 note-type: COMMON
 completed: false
@@ -182,7 +182,7 @@ completed: false
 ---
 tags:
 aliases:
-created: 2025-04-06
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 머신러닝 기초
 note-type: COMMON
 completed: false
@@ -220,7 +220,7 @@ completed: false
 ---
 tags:
 aliases:
-created: YYYY-MM-DD
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
 title: [프로젝트 이름]
 note-type: PROJECT
 status: (예: 진행중, 완료, 보류)
@@ -305,7 +305,7 @@ status: 진행중
 ---
 tags:
 aliases:
-created: YYYY-MM-DD
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
 title: 📚 [자료 제목]
 note-type: REF
 from: [VIDEO|Lecture|Book|Blog|Paper|Web]
@@ -329,7 +329,7 @@ from: [VIDEO|Lecture|Book|Blog|Paper|Web]
 ---
 tags:
 aliases: 
-created: 2025-04-06
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 📚 AI Ethics Explained (TED Talks)
 note-type: REF
 type: Video
@@ -351,7 +351,7 @@ type: Video
 ---
 tags:
 aliases: 
-created: 2025-04-06
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 📚 Machine Learning Basics (Coursera - Andrew Ng)
 note-type: REF
 from: Lecture
@@ -373,7 +373,7 @@ from: Lecture
 ---
 tags:
 aliases: 
-created: 2025-04-12
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 📚 아토믹 해비츠 - 제1장 요약
 note-type: REF
 from: Book
@@ -408,7 +408,7 @@ from: Book
 ---
 tags:
 aliases: 
-created: 2025-04-06
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 📚 Git Best Practices (Medium - John Doe)
 note-type: REF
 from: Blog
@@ -430,7 +430,7 @@ from: Blog
 ---
 tags: [reference]
 aliases: 
-created: 2025-04-06
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 📚 Attention Is All You Need (Vaswani et al., 2017)
 note-type: REF
 from: Paper
@@ -468,8 +468,8 @@ from: Paper
 ---
 tags:
 aliases: 
-created: YYYY-MM-DD
-title: ⌨️ [코드 주제]_[언어] (YYYY-MM-DD) # 예: ⌨️ 데이터 정렬_python (2024-07-15)
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
+title: ⌨️ [코드 주제]_[언어] ([실제 오늘 날짜 YYYY-MM-DD 형식]) # 예: ⌨️ 데이터 정렬_python (2025-01-10)
 note-type: CODE
 language: "" # 프로그래밍 언어 약자 (예: py, js, java)
 completed: false
@@ -503,8 +503,8 @@ tags:
   - python
   - algorithm
 aliases: 
-created: 2025-04-10
-title: ⌨️ 간단한 합계 함수_py (2025-04-10)
+created: [예시 날짜 YYYY-MM-DD 형식]
+title: ⌨️ 간단한 합계 함수_py ([예시 날짜 YYYY-MM-DD 형식])
 note-type: CODE
 language: py
 completed: true
@@ -553,7 +553,7 @@ result = calculate_sum(3, 4)
 ---
 tags:
 aliases:
-created: YYYY-MM-DD
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
 title: 🔍 [검토 대상]
 note-type: REVIEW
 completed: false
@@ -572,7 +572,7 @@ completed: false
 ---
 tags:
 aliases:
-created: 2025-04-10
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: 🔍 3월 프로젝트 회고
 note-type: REVIEW
 completed: true
@@ -604,7 +604,7 @@ completed: true
 tags:
   - Guide
 aliases: 
-created: YYYY-MM-DD
+created: [실제 오늘 날짜 YYYY-MM-DD 형식]
 title: [가이드 제목]
 note-type: GUIDE
 ---
@@ -623,7 +623,7 @@ note-type: GUIDE
 tags:
   - Guide
 aliases: 
-created: 2025-03-24
+created: [예시 날짜 YYYY-MM-DD 형식]
 title: Obsidian 초기 설정 가이드
 note-type: GUIDE
 ---
