@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ GoF 생성 패턴",
+      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "AI Note 관리 전략",
       "path": "00. AI Rules/AI Note 관리 전략.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "AI 노트 유형별 글쓰기 전략",
       "path": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 팩토리 메서드 패턴",
@@ -47,10 +51,6 @@
     {
       "basename": "ExecutorService",
       "path": "03. Permanent Notes/ExecutorService.md"
-    },
-    {
-      "basename": "🏛️ GoF 생성 패턴",
-      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
     },
     {
       "basename": "🏛️ GoF 디자인 패턴",
