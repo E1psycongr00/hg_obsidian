@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ GoF 생성 패턴",
+      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+    },
+    {
       "basename": "🏛️ 싱글톤 패턴",
       "path": "02. MOC/🏛️ 싱글톤 패턴.md"
     },
     {
-      "basename": "🏛️ GoF 생성 패턴",
-      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+      "basename": "싱글톤 패턴 구현 방법",
+      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
+    },
+    {
+      "basename": "SOLID란 무엇인가",
+      "path": "03. Permanent Notes/SOLID란 무엇인가.md"
     },
     {
       "basename": "🏛️ GoF 디자인 패턴",
@@ -41,20 +49,12 @@
       "path": "01. Guides/MOC Guides.md"
     },
     {
-      "basename": "SOLID란 무엇인가",
-      "path": "03. Permanent Notes/SOLID란 무엇인가.md"
-    },
-    {
       "basename": "싱글톤 패턴 실무 적용",
       "path": "03. Permanent Notes/싱글톤 패턴 실무 적용.md"
     },
     {
       "basename": "싱글톤 패턴 Thread-Safety",
       "path": "03. Permanent Notes/싱글톤 패턴 Thread-Safety.md"
-    },
-    {
-      "basename": "싱글톤 패턴 구현 방법",
-      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
     },
     {
       "basename": "싱글톤 패턴 기본 개념",
