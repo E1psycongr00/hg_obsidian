@@ -269,8 +269,9 @@ abstract class ButtonCreator {
 
 ## 관련 자료
 
-- [[04. Practice Notes/📝 추상 팩토리 패턴 개념.md|📝 추상 팩토리 패턴 개념]]
-- [[04. Practice Notes/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-01-10).md|⌨️ 추상 팩토리 Java 구현]]
+- [[03. Permanent Notes/📝 추상 팩토리 패턴 개념.md|📝 추상 팩토리 패턴 개념]]
+- [[06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-01-10).md|⌨️ 추상 팩토리 Java 구현]]
+- [[06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md|⌨️ 추상 팩토리 Python 구현]]
 - [[06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md|⌨️ 팩토리 메서드 Java 구현]]
-- [[04. Practice Notes/📚 추상 팩토리 패턴 실제 활용 사례.md|📚 실제 활용 사례]]
+- [[03. Permanent Notes/📚 추상 팩토리 패턴 실제 활용 사례.md|📚 실제 활용 사례]]
 - [[02. MOC/🏛️ GoF 생성 패턴.md|��️ GoF 생성 패턴 MOC]] 
