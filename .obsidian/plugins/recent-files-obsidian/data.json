@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Note 관리 전략",
+      "path": "00. AI Rules/AI Note 관리 전략.md"
+    },
+    {
+      "basename": "AI 지식 구조화 및 자동화 전략",
+      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+    },
+    {
+      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
+      "path": "00. AI Rules/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+    },
+    {
+      "basename": "AI 노트 유형별 글쓰기 전략",
+      "path": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 팩토리 메서드 패턴",
       "path": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
     },
@@ -69,10 +89,6 @@
       "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
     },
@@ -83,18 +99,6 @@
     {
       "basename": "캘빈의 법칙",
       "path": "03. Permanent Notes/캘빈의 법칙.md"
-    },
-    {
-      "basename": "무제 5",
-      "path": "무제 5.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "싱글톤 패턴 실무 적용",
-      "path": "03. Permanent Notes/싱글톤 패턴 실무 적용.md"
     }
   ],
   "omittedPaths": [],
