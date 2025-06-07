@@ -1,32 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "SOLID란 무엇인가",
-      "path": "03. Permanent Notes/SOLID란 무엇인가.md"
-    },
-    {
       "basename": "🏛️ 팩토리 메서드 패턴",
       "path": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
     },
     {
-      "basename": "ExecutorService",
-      "path": "03. Permanent Notes/ExecutorService.md"
-    },
-    {
       "basename": "🔬 환경별 로깅 시스템 동적 설정",
-      "path": "04. Practice Notes/🔬 환경별 로깅 시스템 동적 설정.md"
+      "path": "07. Solution Notes/Area/🔬 환경별 로깅 시스템 동적 설정.md"
     },
     {
       "basename": "🔬 파일 처리 시스템 확장성 개선",
-      "path": "04. Practice Notes/🔬 파일 처리 시스템 확장성 개선.md"
+      "path": "07. Solution Notes/Area/🔬 파일 처리 시스템 확장성 개선.md"
     },
     {
       "basename": "🔬 Java Collections 팩토리 메서드 성능 최적화",
-      "path": "04. Practice Notes/🔬 Java Collections 팩토리 메서드 성능 최적화.md"
+      "path": "07. Solution Notes/Area/🔬 Java Collections 팩토리 메서드 성능 최적화.md"
     },
     {
       "basename": "🔬 Spring BeanFactory를 통한 객체 생성 자동화",
-      "path": "04. Practice Notes/🔬 Spring BeanFactory를 통한 객체 생성 자동화.md"
+      "path": "07. Solution Notes/Area/🔬 Spring BeanFactory를 통한 객체 생성 자동화.md"
+    },
+    {
+      "basename": "SOLID란 무엇인가",
+      "path": "03. Permanent Notes/SOLID란 무엇인가.md"
+    },
+    {
+      "basename": "ExecutorService",
+      "path": "03. Permanent Notes/ExecutorService.md"
     },
     {
       "basename": "🏛️ GoF 생성 패턴",
@@ -47,10 +47,6 @@
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "팩토리 메서드 패턴 실무 적용 사례",
-      "path": "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md"
     },
     {
       "basename": "팩토리 메서드 vs 다른 생성 패턴 비교",

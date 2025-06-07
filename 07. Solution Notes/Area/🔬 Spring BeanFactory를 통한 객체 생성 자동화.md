@@ -13,7 +13,7 @@ aliases:
 created: 2025-06-07
 title: 🔬 Spring BeanFactory를 통한 객체 생성 자동화
 note-type: SOLUTION
-completed: false
+completed: true
 archive: false
 area-reason: Spring Framework 객체 생성 최적화
 ---

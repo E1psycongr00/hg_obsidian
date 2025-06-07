@@ -12,7 +12,7 @@ aliases:
 created: 2025-06-07
 title: 🔬 Java Collections 팩토리 메서드 성능 최적화
 note-type: SOLUTION
-completed: false
+completed: true
 archive: false
 area-reason: Java Collections Framework 성능 개선
 ---

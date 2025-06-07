@@ -228,10 +228,10 @@ graph TD
 - 빌더 패턴과의 조합 활용 방법
 
 ### 실무 적용 사례
-- [[🔬 Spring BeanFactory를 통한 객체 생성 자동화]] - Spring Framework 의존성 주입 자동화
-- [[🔬 Java Collections 팩토리 메서드 성능 최적화]] - Collections Framework 메모리 효율성 개선
-- [[🔬 파일 처리 시스템 확장성 개선]] - 다양한 파일 형식 지원을 위한 무수정 확장
-- [[🔬 환경별 로깅 시스템 동적 설정]] - 개발/운영 환경별 로깅 정책 분리
+- [[07. Solution Notes/Area/🔬 Spring BeanFactory를 통한 객체 생성 자동화]] - Spring Framework 의존성 주입 자동화
+- [[07. Solution Notes/Area/🔬 Java Collections 팩토리 메서드 성능 최적화]] - Collections Framework 메모리 효율성 개선
+- [[07. Solution Notes/Area/🔬 파일 처리 시스템 확장성 개선]] - 다양한 파일 형식 지원을 위한 무수정 확장
+- [[07. Solution Notes/Area/🔬 환경별 로깅 시스템 동적 설정]] - 개발/운영 환경별 로깅 정책 분리
 
 ## 출처
 
