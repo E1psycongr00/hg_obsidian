@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md",
+                "file": "02. MOC/🏛️ 팩토리 메서드 패턴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "팩토리 메서드 패턴 실무 적용 사례"
+              "title": "🏛️ 팩토리 메서드 패턴"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md"
+                "file": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
               },
               "icon": "lucide-info",
-              "title": "팩토리 메서드 패턴 실무 적용 사례 의 파일 속성"
+              "title": "🏛️ 팩토리 메서드 패턴 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md",
+                "file": "02. MOC/🏛️ 팩토리 메서드 패턴.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "팩토리 메서드 패턴 실무 적용 사례 그래프"
+              "title": "🏛️ 팩토리 메서드 패턴 그래프"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md",
+                "file": "02. MOC/🏛️ 팩토리 메서드 패턴.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "팩토리 메서드 패턴 실무 적용 사례 의 개요"
+              "title": "🏛️ 팩토리 메서드 패턴 의 개요"
             }
           },
           {
@@ -304,6 +304,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md",
     "04. Practice Notes/🔬 환경별 로깅 시스템 동적 설정.md",
     "04. Practice Notes/🔬 파일 처리 시스템 확장성 개선.md",
     "04. Practice Notes/🔬 Java Collections 팩토리 메서드 성능 최적화.md",
@@ -313,7 +314,6 @@
     "03. Permanent Notes/팩토리 메서드 패턴 기본 개념.md",
     "02. MOC/🏛️ GoF 생성 패턴.md",
     "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md",
-    "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md",
     "03. Permanent Notes/ExecutorService.md",
     "04. Practice Notes/🔬 팩토리 메서드 패턴 실무 적용 사례.md",
     "04. Practice Notes/팩토리 메서드 vs 다른 생성 패턴 비교.md",
