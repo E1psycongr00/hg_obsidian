@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ GoF 생성 패턴.md",
+                "file": "02. MOC/🏛️ 팩토리 메서드 패턴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ GoF 생성 패턴"
+              "title": "🏛️ 팩토리 메서드 패턴"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ GoF 생성 패턴.md"
+                "file": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ GoF 생성 패턴 의 파일 속성"
+              "title": "🏛️ 팩토리 메서드 패턴 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ GoF 생성 패턴.md",
+                "file": "02. MOC/🏛️ 팩토리 메서드 패턴.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ GoF 생성 패턴 그래프"
+              "title": "🏛️ 팩토리 메서드 패턴 그래프"
             }
           },
           {
@@ -305,14 +305,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-01-07).md",
+    "03. Permanent Notes/팩토리 메서드 패턴 실무 적용 사례.md",
+    "02. MOC/🏛️ 팩토리 메서드 패턴.md",
     "03. Permanent Notes/팩토리 메서드 vs 다른 생성 패턴 비교.md",
+    "02. MOC/🏛️ GoF 생성 패턴.md",
     "03. Permanent Notes/팩토리 메서드 패턴 기본 개념.md",
     "04. Practice Notes/🔬 팩토리 메서드 패턴 실무 적용 사례.md",
     "04. Practice Notes/팩토리 메서드 vs 다른 생성 패턴 비교.md",
     "04. Practice Notes/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-01-07).md",
     "04. Practice Notes/팩토리 메서드 패턴 기본 개념.md",
-    "02. MOC/🏛️ 팩토리 메서드 패턴.md",
-    "02. MOC/🏛️ GoF 생성 패턴.md",
     "02. MOC/🏛️ 싱글톤 패턴.md",
     "03. Permanent Notes/싱글톤 패턴 구현 방법.md",
     "03. Permanent Notes/SOLID란 무엇인가.md",
@@ -329,8 +331,6 @@
     "01. Guides/MOC Guides.md",
     "03. Permanent Notes/싱글톤 패턴_백업_2025-01-16.md",
     "03. Permanent Notes/싱글턴 패턴.md",
-    "03. Permanent Notes/싱글톤 패턴.md",
-    "03. Permanent Notes/싱글톤 패턴 실무 적용.md",
     "06. Code Notes/Area/Java",
     "attachments/screenshot/Pasted image 20250605100503.png",
     "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.svg",
