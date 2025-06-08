@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ GoF 생성 패턴",
       "path": "02. MOC/🏛️ GoF 생성 패턴.md"
     },
     {
-      "basename": "📝 추상 팩토리 패턴 개념",
-      "path": "03. Permanent Notes/📝 추상 팩토리 패턴 개념.md"
+      "basename": "🏛️ 팩토리 메서드 패턴",
+      "path": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
     },
     {
-      "basename": "⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07)",
-      "path": "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md"
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
+      "basename": "🏛️ GoF 행위 패턴",
+      "path": "02. MOC/🏛️ GoF 행위 패턴.md"
+    },
+    {
+      "basename": "MOC Guides",
+      "path": "01. Guides/MOC Guides.md"
+    },
+    {
+      "basename": "Tag Guides",
+      "path": "01. Guides/Tag Guides.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "AI Note 관리 전략",
       "path": "00. AI Rules/AI Note 관리 전략.md"
     },
     {
+      "basename": "⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07)",
+      "path": "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md"
+    },
+    {
+      "basename": "⌨️ 추상 팩토리 패턴 Java 구현_java (2025-01-10)",
+      "path": "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-01-10).md"
+    },
+    {
       "basename": "AI 지식 구조화 및 자동화 전략",
       "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+    },
+    {
+      "basename": "📝 추상 팩토리 패턴 개념",
+      "path": "03. Permanent Notes/📝 추상 팩토리 패턴 개념.md"
     },
     {
       "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
@@ -31,10 +59,6 @@
     {
       "basename": "AI 노트 유형별 글쓰기 전략",
       "path": "00. AI Rules/AI 노트 유형별 글쓰기 전략.md"
-    },
-    {
-      "basename": "🏛️ 팩토리 메서드 패턴",
-      "path": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
     },
     {
       "basename": "🔬 환경별 로깅 시스템 동적 설정",
@@ -61,10 +85,6 @@
       "path": "03. Permanent Notes/ExecutorService.md"
     },
     {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
-    },
-    {
       "basename": "🏛️ GoF 구조 패턴",
       "path": "02. MOC/🏛️ GoF 구조 패턴.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "팩토리 메서드 vs 다른 생성 패턴 비교",
       "path": "03. Permanent Notes/팩토리 메서드 vs 다른 생성 패턴 비교.md"
-    },
-    {
-      "basename": "팩토리 메서드 패턴 기본 개념",
-      "path": "03. Permanent Notes/팩토리 메서드 패턴 기본 개념.md"
-    },
-    {
-      "basename": "🏛️ 싱글톤 패턴",
-      "path": "02. MOC/🏛️ 싱글톤 패턴.md"
-    },
-    {
-      "basename": "싱글톤 패턴 구현 방법",
-      "path": "03. Permanent Notes/싱글톤 패턴 구현 방법.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     }
   ],
   "omittedPaths": [],
