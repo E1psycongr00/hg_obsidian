@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
+      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 소프트웨어 개발 원칙",
+      "path": "02. MOC/🏛️ 소프트웨어 개발 원칙.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
+    },
+    {
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
+    },
+    {
+      "basename": "변압기 Y-Y 결선",
+      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
+    },
+    {
+      "basename": "망상식",
+      "path": "04. Practice Notes/망상식.md"
+    },
+    {
+      "basename": "동기 발전기",
+      "path": "04. Practice Notes/동기 발전기.md"
+    },
+    {
+      "basename": "Reference 템플릿",
+      "path": "templaters/Reference 템플릿.md"
+    },
+    {
+      "basename": "Review 템플릿",
+      "path": "templaters/Review 템플릿.md"
+    },
+    {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
+    },
+    {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
+    },
+    {
       "basename": "🔍 추상 팩토리 패턴 안티패턴 및 오용 사례",
       "path": "03. Permanent Notes/🔍 추상 팩토리 패턴 안티패턴 및 오용 사례.md"
     },
@@ -9,16 +61,8 @@
       "path": "02. MOC/🏛️ 추상 팩토리 패턴.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "📚 YAGNI (You Aren't Gonna Need It)",
       "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
-    },
-    {
-      "basename": "Reference 템플릿",
-      "path": "templaters/Reference 템플릿.md"
     },
     {
       "basename": "MoveFileByFrontMatter",
@@ -55,50 +99,6 @@
     {
       "basename": "📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호)",
       "path": "05. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호)",
-      "path": "05. Reference Notes/Book/📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "📚 메시지와 인터페이스 (오브젝트 - 조용호)",
-      "path": "05. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "📚 객체 분해 (오브젝트 - 조용호)",
-      "path": "05. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md"
-    },
-    {
-      "basename": "📚 Oracle JDK 8 공식 문서",
-      "path": "05. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 17 공식 문서",
-      "path": "05. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md"
-    },
-    {
-      "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
-      "path": "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
-    },
-    {
-      "basename": "AI Knowledge Structuring Strategy",
-      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
-    },
-    {
-      "basename": "Folder Guides",
-      "path": "01. Guides/Folder Guides.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "🏛️ 소프트웨어 개발 원칙 MOC",
-      "path": "02. MOC/🏛️ 소프트웨어 개발 원칙 MOC.md"
-    },
-    {
-      "basename": "🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드",
-      "path": "03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md"
     }
   ],
   "omittedPaths": [],
