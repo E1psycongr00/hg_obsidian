@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/추상 팩토리 패턴 개념.md",
+                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "추상 팩토리 패턴 개념"
+              "title": "🏛️ 추상 팩토리 패턴"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/추상 팩토리 패턴 개념.md"
+                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md"
               },
               "icon": "lucide-info",
-              "title": "추상 팩토리 패턴 개념 의 파일 속성"
+              "title": "🏛️ 추상 팩토리 패턴 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/추상 팩토리 패턴 개념.md",
+                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "추상 팩토리 패턴 개념 그래프"
+              "title": "🏛️ 추상 팩토리 패턴 그래프"
             }
           },
           {
@@ -261,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/추상 팩토리 패턴 개념.md",
+                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "추상 팩토리 패턴 개념 의 개요"
+              "title": "🏛️ 추상 팩토리 패턴 의 개요"
             }
           },
           {
@@ -324,12 +324,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/추상 팩토리 패턴 개념.md",
     "02. MOC/🏛️ 추상 팩토리 패턴.md",
     "03. Permanent Notes/📚 추상 팩토리 패턴 실제 활용 사례.md",
     "06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md",
     "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md",
     "03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md",
-    "03. Permanent Notes/추상 팩토리 패턴 개념.md",
     "02. MOC/🏛️ GoF 생성 패턴.md",
     "02. MOC/🏛️ GoF 디자인 패턴.md",
     "02. MOC/🏛️ 전기 기사.md",
