@@ -324,8 +324,9 @@
   },
   "active": "76169802ae166860",
   "lastOpenFiles": [
-    "03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md",
+    "03. Permanent Notes/🚫 추상 팩토리 패턴 안티패턴 및 오용 사례.md",
     "02. MOC/🏛️ 추상 팩토리 패턴.md",
+    "03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md",
     "03. Permanent Notes/추상 팩토리 패턴 개념.md",
     "02. MOC/🏛️ GoF 생성 패턴.md",
     "03. Permanent Notes/📚 추상 팩토리 패턴 실제 활용 사례.md",
@@ -352,7 +353,6 @@
     "00. AI Rules/_backup/AI 노트 유형별 글쓰기 전략.md",
     "00. AI Rules/_backup/AI Note 관리 전략.md",
     "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
-    "00. AI Rules/AI Note 관리 전략.md",
     "00. AI Rules/_backup",
     "06. Code Notes/Area/Python",
     "06. Code Notes/Area/Java",
