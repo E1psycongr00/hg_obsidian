@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AI 지식 구조화 및 자동화 전략",
+      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+    },
+    {
+      "basename": "AI Note 관리 전략",
+      "path": "00. AI Rules/AI Note 관리 전략.md"
+    },
+    {
       "basename": "🏛️ 추상 팩토리 패턴",
       "path": "02. MOC/🏛️ 추상 팩토리 패턴.md"
     },
@@ -89,16 +97,8 @@
       "path": "01. Guides/Note Guides.md"
     },
     {
-      "basename": "AI Note 관리 전략",
-      "path": "00. AI Rules/AI Note 관리 전략.md"
-    },
-    {
       "basename": "⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07)",
       "path": "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md"
-    },
-    {
-      "basename": "AI 지식 구조화 및 자동화 전략",
-      "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
     }
   ],
   "omittedPaths": [],

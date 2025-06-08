@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md",
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 추상 팩토리 패턴"
+              "title": "AI 지식 구조화 및 자동화 전략"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md"
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 추상 팩토리 패턴 의 파일 속성"
+              "title": "AI 지식 구조화 및 자동화 전략 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md",
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 추상 팩토리 패턴 그래프"
+              "title": "AI 지식 구조화 및 자동화 전략 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 추상 팩토리 패턴.md",
+                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 추상 팩토리 패턴 의 개요"
+              "title": "AI 지식 구조화 및 자동화 전략 의 개요"
             }
           },
           {
@@ -324,8 +324,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/추상 팩토리 패턴 개념.md",
+    "00. AI Rules/AI Note 관리 전략.md",
     "02. MOC/🏛️ 추상 팩토리 패턴.md",
+    "03. Permanent Notes/추상 팩토리 패턴 개념.md",
     "03. Permanent Notes/📚 추상 팩토리 패턴 실제 활용 사례.md",
     "06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md",
     "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md",
@@ -346,7 +347,6 @@
     "01. Guides/MOC Guides.md",
     "01. Guides/Tag Guides.md",
     "01. Guides/Note Guides.md",
-    "00. AI Rules/AI Note 관리 전략.md",
     "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md",
     "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
     "06. Code Notes/Area/Python",
