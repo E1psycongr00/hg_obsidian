@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
-      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+      "basename": "🏛️ GoF 생성 패턴",
+      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
+    },
+    {
+      "basename": "🏛️ 추상 팩토리 패턴",
+      "path": "02. MOC/🏛️ 추상 팩토리 패턴.md"
+    },
+    {
+      "basename": "🏛️ 싱글톤 패턴",
+      "path": "02. MOC/🏛️ 싱글톤 패턴.md"
+    },
+    {
+      "basename": "🏛️ 팩토리 메서드 패턴",
+      "path": "02. MOC/🏛️ 팩토리 메서드 패턴.md"
+    },
+    {
+      "basename": "⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07)",
+      "path": "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md"
+    },
+    {
+      "basename": "팩토리 메서드 패턴 기본 개념",
+      "path": "03. Permanent Notes/팩토리 메서드 패턴 기본 개념.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
     {
-      "basename": "🏛️ 소프트웨어 개발 원칙",
-      "path": "02. MOC/🏛️ 소프트웨어 개발 원칙.md"
+      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
+      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
     },
     {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
+      "basename": "JDK 8 주요 특징 및 패치 분석",
+      "path": "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md"
+    },
+    {
+      "basename": "🏛️ 소프트웨어 개발 원칙",
+      "path": "02. MOC/🏛️ 소프트웨어 개발 원칙.md"
     },
     {
       "basename": "웹 기초 MOC",
@@ -57,10 +85,6 @@
       "path": "03. Permanent Notes/🔍 추상 팩토리 패턴 안티패턴 및 오용 사례.md"
     },
     {
-      "basename": "🏛️ 추상 팩토리 패턴",
-      "path": "02. MOC/🏛️ 추상 팩토리 패턴.md"
-    },
-    {
       "basename": "📚 YAGNI (You Aren't Gonna Need It)",
       "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
     },
@@ -75,30 +99,6 @@
     {
       "basename": "📚 Oracle JDK 11 공식 문서",
       "path": "05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
-    },
-    {
-      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
-      "path": "05. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
-    },
-    {
-      "basename": "📚 Oracle JDK 21 공식 문서",
-      "path": "05. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md"
-    },
-    {
-      "basename": "📚 상속과 코드 재사용 (오브젝트 -조용호)",
-      "path": "05. Reference Notes/Book/📚 상속과 코드 재사용 (오브젝트 -조용호).md"
-    },
-    {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
-    },
-    {
-      "basename": "📚 의존성 관리하기 (오브젝트 -조용호)",
-      "path": "05. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
-    },
-    {
-      "basename": "📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호)",
-      "path": "05. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md"
     }
   ],
   "omittedPaths": [],
