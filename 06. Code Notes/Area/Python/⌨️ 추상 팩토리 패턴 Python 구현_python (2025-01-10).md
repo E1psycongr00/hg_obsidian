@@ -374,7 +374,7 @@ Windows 스타일 체크박스를 렌더링합니다.
 
 ### Python 구현의 특징
 
-이 Python 구현은 [[06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-01-10).md|Java 구현]]과 동일한 패턴을 보여주지만, Python의 특성을 활용한다.
+이 Python 구현은 [[06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08)|Java 구현]]과 동일한 패턴을 보여주지만, Python의 특성을 활용한다.
 
 #### Python다운 특징들
 
@@ -411,9 +411,10 @@ Windows 스타일 체크박스를 렌더링합니다.
 
 ## 관련 자료
 
-- [[03. Permanent Notes/📝 추상 팩토리 패턴 개념.md|📝 추상 팩토리 패턴 개념]]
-- [[06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-01-10).md|⌨️ Java 구현 예제]]
+- [[02. MOC/🏛️ 추상 팩토리 패턴.md|🏛️ 추상 팩토리 패턴 MOC]]
+- [[02. MOC/🏛️ GoF 생성 패턴.md|🏛️ GoF 생성 패턴 MOC]]
+- [[03. Permanent Notes/추상 팩토리 패턴 개념|추상 팩토리 패턴 개념]]
+- [[06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08)|⌨️ Java 구현 예제]]
 - [[03. Permanent Notes/📚 추상 팩토리 패턴 실제 활용 사례.md|📚 실제 활용 사례]]
 - [[03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md|🔍 패턴 비교 분석]]
-- [[06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md|⌨️ 팩토리 메서드 패턴 비교]]
-- [[02. MOC/🏛️ GoF 생성 패턴.md|��️ GoF 생성 패턴 MOC]] 
+- [[06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md|⌨️ 팩토리 메서드 패턴 비교]] 
