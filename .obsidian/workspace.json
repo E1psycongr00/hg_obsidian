@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. AI Rules/AI Knowledge Structuring Strategy.md",
+                "file": "00. AI Rules/AI Obsidian Core Rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI Knowledge Structuring Strategy"
+              "title": "AI Obsidian Core Rules"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00. AI Rules/AI Knowledge Structuring Strategy.md"
+                "file": "00. AI Rules/AI Obsidian Core Rules.md"
               },
               "icon": "lucide-info",
-              "title": "AI Knowledge Structuring Strategy 의 파일 속성"
+              "title": "AI Obsidian Core Rules 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. AI Rules/AI Knowledge Structuring Strategy.md",
+                "file": "00. AI Rules/AI Obsidian Core Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "AI Knowledge Structuring Strategy 그래프"
+              "title": "AI Obsidian Core Rules 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. AI Rules/AI Knowledge Structuring Strategy.md",
+                "file": "00. AI Rules/AI Obsidian Core Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Knowledge Structuring Strategy 의 개요"
+              "title": "AI Obsidian Core Rules 의 개요"
             }
           },
           {
@@ -324,11 +324,11 @@
   },
   "active": "76169802ae166860",
   "lastOpenFiles": [
+    "00. AI Rules/AI Note-Type Writing Guide.md",
+    "00. AI Rules/AI Knowledge Structuring Strategy.md",
     "Task3_개선된_8단계_지식구조화_프로세스.md",
     "Task1_AI_Assisted_Research.md",
-    "00. AI Rules/AI Knowledge Structuring Strategy.md",
     "Task2_Structuring_Workflows.md",
-    "00. AI Rules/AI Note-Type Writing Guide.md",
     "00. AI Rules/AI Obsidian Core Rules.md",
     "무제 6.md",
     "00. AI Rules/AI 노트 유형별 글쓰기 전략.md",
