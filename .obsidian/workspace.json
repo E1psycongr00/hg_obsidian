@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+                "file": "Task5_실제워크플로우_시나리오별예시.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI 지식 구조화 및 자동화 전략"
+              "title": "Task5_실제워크플로우_시나리오별예시"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
+                "file": "Task5_실제워크플로우_시나리오별예시.md"
               },
               "icon": "lucide-info",
-              "title": "AI 지식 구조화 및 자동화 전략 의 파일 속성"
+              "title": "Task5_실제워크플로우_시나리오별예시 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+                "file": "Task5_실제워크플로우_시나리오별예시.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "AI 지식 구조화 및 자동화 전략 그래프"
+              "title": "Task5_실제워크플로우_시나리오별예시 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+                "file": "Task5_실제워크플로우_시나리오별예시.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI 지식 구조화 및 자동화 전략 의 개요"
+              "title": "Task5_실제워크플로우_시나리오별예시 의 개요"
             }
           },
           {
@@ -324,11 +324,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Task5_실제워크플로우_시나리오별예시.md",
     "Task4_기존노트활용_전용가이드라인.md",
     "Task3_개선된_8단계_지식구조화_프로세스.md",
     "Task2_기존_노트_활용_프로세스_부족_분석.md",
     "Task1_AI_Rules_문서_체계_분석_결과.md",
+    "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+    "Task5_실제워크플로우_시나리오별예시.md",
     "00. AI Rules/AI Note 관리 전략.md",
     "02. MOC/🏛️ 추상 팩토리 패턴.md",
     "03. Permanent Notes/추상 팩토리 패턴 개념.md",
@@ -349,7 +350,6 @@
     "03. Permanent Notes/팩토리 메서드 패턴 기본 개념.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ GoF 행위 패턴.md",
-    "01. Guides/MOC Guides.md",
     "06. Code Notes/Area/Python",
     "06. Code Notes/Area/Java",
     "attachments/screenshot/Pasted image 20250605100503.png",

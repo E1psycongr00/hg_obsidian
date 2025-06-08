@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Task5_실제워크플로우_시나리오별예시",
+      "path": "Task5_실제워크플로우_시나리오별예시.md"
+    },
+    {
+      "basename": "Task4_기존노트활용_전용가이드라인",
+      "path": "Task4_기존노트활용_전용가이드라인.md"
+    },
+    {
+      "basename": "Task3_개선된_8단계_지식구조화_프로세스",
+      "path": "Task3_개선된_8단계_지식구조화_프로세스.md"
+    },
+    {
+      "basename": "Task2_기존_노트_활용_프로세스_부족_분석",
+      "path": "Task2_기존_노트_활용_프로세스_부족_분석.md"
+    },
+    {
+      "basename": "Task1_AI_Rules_문서_체계_분석_결과",
+      "path": "Task1_AI_Rules_문서_체계_분석_결과.md"
+    },
+    {
       "basename": "AI 지식 구조화 및 자동화 전략",
       "path": "00. AI Rules/AI 지식 구조화 및 자동화 전략.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "🏛️ GoF 행위 패턴",
-      "path": "02. MOC/🏛️ GoF 행위 패턴.md"
-    },
-    {
-      "basename": "MOC Guides",
-      "path": "01. Guides/MOC Guides.md"
-    },
-    {
-      "basename": "Tag Guides",
-      "path": "01. Guides/Tag Guides.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07)",
-      "path": "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md"
     }
   ],
   "omittedPaths": [],

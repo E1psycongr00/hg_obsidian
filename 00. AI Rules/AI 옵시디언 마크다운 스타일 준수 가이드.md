@@ -123,7 +123,7 @@ created: [실제 오늘 날짜 YYYY-MM-DD 형식]
 title: 🏛️ [주제명] MOC
 note-type: MOC
 cssclasses: dashboard
-scope: [다루는 주제 범위]
+scope: [다루는 주제 범위 명시 - 예: 파이썬 기본 문법과 라이브러리 사용법, 전자기학 이론과 실험]
 ---
 ```
 
