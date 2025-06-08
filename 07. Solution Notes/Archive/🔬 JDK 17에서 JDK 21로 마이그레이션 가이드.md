@@ -306,7 +306,7 @@ void testMemoryUsage() {
 ### 관련 자료
 - [[03. Permanent Notes/JDK 17 주요 특징 및 패치 분석]] - 마이그레이션 출발점 분석
 - [[03. Permanent Notes/JDK 21 주요 특징 및 패치 분석]] - 마이그레이션 목표 버전 분석
-- [[📚 Oracle JDK 21 공식 문서]] - 공식 마이그레이션 가이드
+- [[05. Reference Notes/Web/📚 Oracle JDK 21 공식 문서]] - 공식 마이그레이션 가이드
 
 > [!important] Virtual Threads 활용 팁
 > Virtual Threads는 I/O 집약적인 작업에서 최대 효과를 발휘한다. 데이터베이스 연결, HTTP 요청, 파일 I/O 등이 많은 애플리케이션에서는 기존 스레드 풀 대비 수십 배의 성능 향상을 기대할 수 있다. 단, CPU 집약적 작업에서는 오히려 성능이 저하될 수 있으므로 작업 특성에 따른 선택적 적용이 중요하다. 

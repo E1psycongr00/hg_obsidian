@@ -20,19 +20,19 @@ cssclasses:
 
 ### JDK 8 (2014-2030)
 - [[03. Permanent Notes/JDK 8 주요 특징 및 패치 분석|JDK 8 주요 특징 및 패치 분석]] - 람다 표현식, 스트림 API, PermGen 제거 등 핵심 특징 분석
-- [[06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서|📚 Oracle JDK 8 공식 문서]] - Oracle 공식 문서 및 릴리즈 노트 요약
+- [[05. Reference Notes/Web/📚 Oracle JDK 8 공식 문서|📚 Oracle JDK 8 공식 문서]] - Oracle 공식 문서 및 릴리즈 노트 요약
 
 ### JDK 11 (2018-2026)
 - [[03. Permanent Notes/JDK 11 주요 특징 및 패치 분석|JDK 11 주요 특징 및 패치 분석]] - HTTP 클라이언트 API, var 키워드 확장, 모듈 시스템 안정화
-- [[06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서|📚 Oracle JDK 11 공식 문서]] - 공식 마이그레이션 가이드 및 새로운 기능 소개
+- [[05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서|📚 Oracle JDK 11 공식 문서]] - 공식 마이그레이션 가이드 및 새로운 기능 소개
 
 ### JDK 17 (2021-2029)
 - [[03. Permanent Notes/JDK 17 주요 특징 및 패치 분석|JDK 17 주요 특징 및 패치 분석]] - Sealed 클래스, 패턴 매칭, ZGC/Shenandoah 정식 지원
-- [[06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서|📚 Oracle JDK 17 공식 문서]] - 현대적 Java 개발 표준으로서의 특징과 개선사항
+- [[05. Reference Notes/Web/📚 Oracle JDK 17 공식 문서|📚 Oracle JDK 17 공식 문서]] - 현대적 Java 개발 표준으로서의 특징과 개선사항
 
 ### JDK 21 (2023-2031)
 - [[03. Permanent Notes/JDK 21 주요 특징 및 패치 분석|JDK 21 주요 특징 및 패치 분석]] - Virtual Threads, 패턴 매칭 강화, Generational ZGC
-- [[06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서|📚 Oracle JDK 21 공식 문서]] - 최신 LTS 버전의 혁신적 기능들과 성능 개선
+- [[05. Reference Notes/Web/📚 Oracle JDK 21 공식 문서|📚 Oracle JDK 21 공식 문서]] - 최신 LTS 버전의 혁신적 기능들과 성능 개선
 
 
 ## 🚀 마이그레이션 가이드
@@ -67,10 +67,10 @@ cssclasses:
 ## 📚 공식 자료 및 참고 문서
 
 ### Oracle 공식 문서
-- [[06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서|📚 Oracle JDK 8 공식 문서]] - JDK 8 릴리즈 노트 및 마이그레이션 가이드
-- [[06. Reference Notes/Web/📚 Oracle JDK 11 공식 문서|📚 Oracle JDK 11 공식 문서]] - JDK 11 새로운 기능 및 변경사항
-- [[06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서|📚 Oracle JDK 17 공식 문서]] - JDK 17 언어 기능 및 성능 개선
-- [[06. Reference Notes/Web/📚 Oracle JDK 21 공식 문서|📚 Oracle JDK 21 공식 문서]] - JDK 21 혁신적 기능 및 최적화
+- [[05. Reference Notes/Web/📚 Oracle JDK 8 공식 문서|📚 Oracle JDK 8 공식 문서]] - JDK 8 릴리즈 노트 및 마이그레이션 가이드
+- [[05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서|📚 Oracle JDK 11 공식 문서]] - JDK 11 새로운 기능 및 변경사항
+- [[05. Reference Notes/Web/📚 Oracle JDK 17 공식 문서|📚 Oracle JDK 17 공식 문서]] - JDK 17 언어 기능 및 성능 개선
+- [[05. Reference Notes/Web/📚 Oracle JDK 21 공식 문서|📚 Oracle JDK 21 공식 문서]] - JDK 21 혁신적 기능 및 최적화
 
 ### 추가 참고 자료
 - [OpenJDK 공식 사이트](https://openjdk.java.net/) - 오픈소스 JDK 정보

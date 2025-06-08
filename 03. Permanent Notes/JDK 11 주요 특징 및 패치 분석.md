@@ -95,6 +95,6 @@ JDK 11로 마이그레이션 시 가장 큰 변화는 Java EE 및 CORBA 모듈�
 
 ### 관련 노트
 
-- [[📚 Oracle JDK 11 공식 문서]] - 공식 문서 참조
+- [[05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서]] - 공식 문서 참조
 - [[03. Permanent Notes/JDK 8 주요 특징 및 패치 분석|JDK 8 주요 특징 및 패치 분석]] - 이전 LTS 버전과의 비교
 - [[자바 버전 간 마이그레이션 가이드]] - 마이그레이션 전략 

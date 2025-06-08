@@ -92,7 +92,7 @@ JDK 7 이하에서 JDK 8로 마이그레이션할 때는 몇 가지 주요 변�
 
 ### 출처
 
-- [[06. Reference Notes/Web/📚 Oracle JDK 8 공식 문서|📚 Oracle JDK 8 공식 문서]]
+- [[05. Reference Notes/Web/📚 Oracle JDK 8 공식 문서|📚 Oracle JDK 8 공식 문서]]
 - Oracle JDK 8 공식 릴리즈 노트 및 기술 문서
 
 >[!note] LTS 버전의 특징

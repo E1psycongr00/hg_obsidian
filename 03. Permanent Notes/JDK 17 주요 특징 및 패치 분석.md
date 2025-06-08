@@ -97,7 +97,7 @@ JDK 17로 마이그레이션 시에는 강화된 캡슐화와 보안 관리자(S
 
 ### 관련 노트
 
-- [[06. Reference Notes/Web/📚 Oracle JDK 17 공식 문서|📚 Oracle JDK 17 공식 문서]] - 공식 문서 및 출처 정보
+- [[05. Reference Notes/Web/📚 Oracle JDK 17 공식 문서|📚 Oracle JDK 17 공식 문서]] - 공식 문서 및 출처 정보
 - [[03. Permanent Notes/JDK 8 주요 특징 및 패치 분석|JDK 8 주요 특징 및 패치 분석]] - 이전 LTS 버전과의 비교
 - [[03. Permanent Notes/JDK 11 주요 특징 및 패치 분석|JDK 11 주요 특징 및 패치 분석]] - 직전 LTS 버전과의 비교
 

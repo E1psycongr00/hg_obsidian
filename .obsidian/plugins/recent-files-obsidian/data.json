@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
+      "basename": "📚 의존성 관리하기 (오브젝트 -조용호)",
+      "path": "05. Reference Notes/Book/📚 의존성 관리하기 (오브젝트 -조용호).md"
+    },
+    {
+      "basename": "📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호)",
+      "path": "05. Reference Notes/Book/📚 설계 품질과 트레이드 오프 (오브젝트 - 조용호).md"
+    },
+    {
+      "basename": "📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호)",
+      "path": "05. Reference Notes/Book/📚 서브 클래싱과 서브 타이핑 (오브젝트 - 조용호).md"
+    },
+    {
+      "basename": "📚 메시지와 인터페이스 (오브젝트 - 조용호)",
+      "path": "05. Reference Notes/Book/📚 메시지와 인터페이스 (오브젝트 - 조용호).md"
+    },
+    {
+      "basename": "📚 객체 분해 (오브젝트 - 조용호)",
+      "path": "05. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md"
+    },
+    {
       "basename": "📚 YAGNI (You Aren't Gonna Need It)",
-      "path": "05. Reference Notes/📚 YAGNI (You Aren't Gonna Need It).md"
+      "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
+    },
+    {
+      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
+      "path": "05. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
+    },
+    {
+      "basename": "📚 Oracle JDK 8 공식 문서",
+      "path": "05. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 17 공식 문서",
+      "path": "05. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 11 공식 문서",
+      "path": "05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 21 공식 문서",
+      "path": "05. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
+      "path": "06. Code Notes/Archive/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+    },
+    {
+      "basename": "AI Knowledge Structuring Strategy",
+      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
+    },
+    {
+      "basename": "Folder Guides",
+      "path": "01. Guides/Folder Guides.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
     },
     {
       "basename": "🏛️ 소프트웨어 개발 원칙 MOC",
@@ -21,10 +89,6 @@
       "path": "03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "무제 6",
       "path": "무제 6.md"
     },
@@ -35,38 +99,6 @@
     {
       "basename": "📚 추상 팩토리 패턴 실제 활용 사례",
       "path": "03. Permanent Notes/📚 추상 팩토리 패턴 실제 활용 사례.md"
-    },
-    {
-      "basename": "⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10)",
-      "path": "06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md"
-    },
-    {
-      "basename": "⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08)",
-      "path": "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md"
-    },
-    {
-      "basename": "🏛️ GoF 생성 패턴",
-      "path": "02. MOC/🏛️ GoF 생성 패턴.md"
-    },
-    {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
-    },
-    {
-      "basename": "🏛️ 제어 공학",
-      "path": "02. MOC/🏛️ 제어 공학.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
     }
   ],
   "omittedPaths": [],
