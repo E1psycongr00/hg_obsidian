@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "00. AI Rules/AI 노트 작성 및 관리.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "AI 노트 작성 및 관리"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "00. AI Rules/AI 노트 작성 및 관리.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "AI 노트 작성 및 관리 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "00. AI Rules/AI 노트 작성 및 관리.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Home 그래프"
+              "title": "AI 노트 작성 및 관리 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "00. AI Rules/AI 노트 작성 및 관리.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 의 개요"
+              "title": "AI 노트 작성 및 관리 의 개요"
             }
           },
           {
@@ -324,6 +324,13 @@
   },
   "active": "76169802ae166860",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
+    "00. AI Rules/_backup/AI 노트 유형별 글쓰기 전략.md",
+    "00. AI Rules/_backup/AI 지식 구조화 및 자동화 전략.md",
+    "00. AI Rules/_backup/AI 옵시디언 마크다운 스타일 준수 가이드.md",
+    "00. AI Rules/_backup/AI Note 관리 전략.md",
+    "00. AI Rules/AI 지식 구조화 워크플로우.md",
+    "00. AI Rules/AI 노트 작성 및 관리.md",
     "00. AI Rules/AI 옵시디언 기본 시스템.md",
     "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
     "00. AI Rules/AI 지식 구조화 및 자동화 전략_backup.md",
@@ -335,22 +342,15 @@
     "00. AI Rules/AI Note 관리 전략_backup.md",
     "00. AI Rules/AI 옵시디언 기본 규칙.md",
     "00. AI Rules/AI 가이드 네비게이션.md",
-    "02. MOC/Home.md",
     "Task4_기존노트활용_전용가이드라인.md",
     "Task5_실제워크플로우_시나리오별예시.md",
     "00. AI Rules/_backup/문서_구조_분석_결과.md",
-    "00. AI Rules/_backup/AI 지식 구조화 및 자동화 전략.md",
-    "00. AI Rules/_backup/AI 옵시디언 마크다운 스타일 준수 가이드.md",
-    "00. AI Rules/_backup/AI 노트 유형별 글쓰기 전략.md",
-    "00. AI Rules/_backup/AI Note 관리 전략.md",
     "00. AI Rules/_backup/AI 지식 구조화 및 자동화 전략_backup.md",
     "00. AI Rules/_backup/AI 옵시디언 마크다운 스타일 준수 가이드_backup.md",
     "00. AI Rules/_backup/AI 노트 유형별 글쓰기 전략_backup.md",
     "00. AI Rules/_backup/AI Note 관리 전략_backup.md",
     "00. AI Rules/_backup",
     "Task3_개선된_8단계_지식구조화_프로세스.md",
-    "Task2_기존_노트_활용_프로세스_부족_분석.md",
-    "Task1_AI_Rules_문서_체계_분석_결과.md",
     "06. Code Notes/Area/Python",
     "06. Code Notes/Area/Java",
     "attachments/screenshot/Pasted image 20250605100503.png",
