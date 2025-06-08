@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "7fd7e287228983ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "76169802ae166860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task5_실제워크플로우_시나리오별예시.md",
+                "file": "00. AI Rules/AI 옵시디언 기본 규칙.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Task5_실제워크플로우_시나리오별예시"
+              "title": "AI 옵시디언 기본 규칙"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task5_실제워크플로우_시나리오별예시.md"
+                "file": "00. AI Rules/AI 옵시디언 기본 규칙.md"
               },
               "icon": "lucide-info",
-              "title": "Task5_실제워크플로우_시나리오별예시 의 파일 속성"
+              "title": "AI 옵시디언 기본 규칙 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task5_실제워크플로우_시나리오별예시.md",
+                "file": "00. AI Rules/AI 옵시디언 기본 규칙.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Task5_실제워크플로우_시나리오별예시 그래프"
+              "title": "AI 옵시디언 기본 규칙 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task5_실제워크플로우_시나리오별예시.md",
+                "file": "00. AI Rules/AI 옵시디언 기본 규칙.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Task5_실제워크플로우_시나리오별예시 의 개요"
+              "title": "AI 옵시디언 기본 규칙 의 개요"
             }
           },
           {
@@ -322,10 +322,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "76169802ae166860",
   "lastOpenFiles": [
     "00. AI Rules/AI 가이드 네비게이션.md",
+    "00. AI Rules/AI 노트 유형별 글쓰기 전략.md",
     "00. AI Rules/AI 옵시디언 기본 규칙.md",
+    "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
+    "02. MOC/Home.md",
+    "Task4_기존노트활용_전용가이드라인.md",
+    "Task5_실제워크플로우_시나리오별예시.md",
     "00. AI Rules/_backup/문서_구조_분석_결과.md",
     "00. AI Rules/_backup/AI 지식 구조화 및 자동화 전략.md",
     "00. AI Rules/_backup/AI 옵시디언 마크다운 스타일 준수 가이드.md",
@@ -336,12 +341,9 @@
     "00. AI Rules/_backup/AI 노트 유형별 글쓰기 전략_backup.md",
     "00. AI Rules/_backup/AI Note 관리 전략_backup.md",
     "00. AI Rules/_backup",
-    "Task4_기존노트활용_전용가이드라인.md",
     "Task3_개선된_8단계_지식구조화_프로세스.md",
     "Task2_기존_노트_활용_프로세스_부족_분석.md",
     "Task1_AI_Rules_문서_체계_분석_결과.md",
-    "00. AI Rules/AI 지식 구조화 및 자동화 전략.md",
-    "Task5_실제워크플로우_시나리오별예시.md",
     "00. AI Rules/AI Note 관리 전략.md",
     "02. MOC/🏛️ 추상 팩토리 패턴.md",
     "03. Permanent Notes/추상 팩토리 패턴 개념.md",
@@ -349,8 +351,6 @@
     "06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md",
     "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md",
     "03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md",
-    "02. MOC/🏛️ GoF 생성 패턴.md",
-    "02. MOC/🏛️ GoF 디자인 패턴.md",
     "06. Code Notes/Area/Python",
     "06. Code Notes/Area/Java",
     "attachments/screenshot/Pasted image 20250605100503.png",

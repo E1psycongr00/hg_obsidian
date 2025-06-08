@@ -1,143 +1,50 @@
+# AI 노트 유형별 글쓰기 전략
+
+---
+
+## 🔗 빠른 참조
+
+### 📖 기본 규칙 참조
+이 가이드를 사용하기 전에 **[[AI 옵시디언 기본 규칙.md]]**를 먼저 확인하세요.
+
+#### 필수 확인 사항
+- **Frontmatter 템플릿**: [[AI 옵시디언 기본 규칙.md#📝-노트-유형별-frontmatter-규칙]]
+- **마크다운 기본 스타일**: [[AI 옵시디언 기본 규칙.md#✍️-기본-마크다운-스타일-규칙]]
+- **태그 지침**: [[AI 옵시디언 기본 규칙.md#🏷️-태그-사용-지침]]
+
+### 🧭 관련 가이드
+- **[[AI 가이드 네비게이션.md]]** - 전체 가이드 시스템 안내
+- **[[AI Note 관리 전략.md]]** - 노트 생성 및 관리 프로세스
+- **[[AI 옵시디언 마크다운 스타일 준수 가이드.md]]** - 기술적 마크다운 표현
+- **[[AI 지식 구조화 및 자동화 전략.md]]** - 체계적 구조화
+
+---
+
 ## 1. 가이드 목적
 
 이 가이드는 AI가 각기 다른 노트 유형(`note-type`)의 본질적인 목적과 성격을 깊이 이해하고, 해당 노트의 맥락에 맞는 적절한 글쓰기 스타일과 내용 전개 방식을 구사하도록 돕기 위해 작성되었습니다. AI는 이 지침을 통해 사용자의 지식 구성 의도에 부합하는, 일관성 있고 효과적인 노트 콘텐츠 생성을 지원해야 합니다.
 
-모든 노트 생성은 아래에 정의된 8개 노트 유형별 기본 구조와 frontmatter 규칙을 **반드시 엄격하게** 준수하는 것을 전제로 합니다. 특히, 각 `note-type`에 따른 frontmatter 필드(필수 및 선택 포함)와 값의 형식은 아래에 정의된 각 노트 유형별 규칙을 정확히 따라야 합니다.
+### 🎯 이 가이드의 특화 영역
+- **5분 규칙**: 직관적 이해 우선 철학과 적용 방법
+- **분리 전략**: 복잡한 내용의 효과적인 분리 및 링크 연결
+- **노트 유형별 글쓰기 스타일**: 각 노트 유형에 최적화된 글 구성 방법
 
-## 2. 기본 Frontmatter 규칙
+모든 노트 생성은 **[[AI 옵시디언 기본 규칙.md]]**에 정의된 8개 노트 유형별 기본 구조와 frontmatter 규칙을 **반드시 엄격하게** 준수하는 것을 전제로 합니다.
 
-### 📅 DAILY Note
-```yaml
----
-tags: [daily]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 📅 [YYYY년 MM월 DD일]
-note-type: DAILY
----
-```
+## 2. 글쓰기 전략 핵심 원칙
 
-### 🔬 SOLUTION Note
-```yaml
----
-tags: [문제해결-관련-태그]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 🔬 [구체적인 문제 요약]
-note-type: SOLUTION
-problem: [해결하고자 하는 구체적 문제]
-solution-status: [진행중/해결됨/보류]
----
-```
+### 📋 필수 참조 규칙 (요약)
+- **Frontmatter 템플릿**: [[AI 옵시디언 기본 규칙.md#📝-노트-유형별-frontmatter-규칙]]
+- **마크다운 기본 스타일**: [[AI 옵시디언 기본 규칙.md#✍️-기본-마크다운-스타일-규칙]]
+- **태그 지침**: [[AI 옵시디언 기본 규칙.md#🏷️-태그-사용-지침]]
 
-### 📝 COMMON Note
-```yaml
----
-tags: [주제-관련-태그]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 📝 [학습 주제명]
-note-type: COMMON
-difficulty: [입문/중급/고급]
-time-to-understand: [5분/10분/20분 등]
----
-```
+### 🎯 이 가이드의 특화 영역
+1. **노트 유형별 글쓰기 철학**: 각 노트 유형의 본질적 목적과 성격 이해
+2. **5분 규칙 및 분리 전략**: Common Notes의 직관적 이해 우선 철학
+3. **콘텐츠 품질 관리**: 글의 전개 방향과 피해야 할 스타일 명확화
+4. **노트 간 연결 전략**: 효과적인 링크 활용과 지식 네트워크 구축
 
-### 🚀 PROJECT Note
-```yaml
----
-tags: [프로젝트명-태그]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 🚀 [프로젝트명]
-note-type: PROJECT
-project-status: [계획/진행중/완료/중단]
-start-date: [YYYY-MM-DD]
-end-date: [YYYY-MM-DD 또는 미정]
----
-```
-
-### 📚 REF Note
-```yaml
----
-tags: [참고자료-관련-태그]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 📚 [자료명]
-note-type: REF
-from: [자료 출처: Book/Web/Article/Video/Paper 등]
-url: [해당되는 경우 URL]
----
-```
-
-### ⌨️ CODE Note
-```yaml
----
-tags: [프로그래밍-언어-태그]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: ⌨️ [코드 목적/기능 요약]
-note-type: CODE
-language: [주 프로그래밍 언어]
-environment: [개발 환경/플랫폼]
----
-```
-
-### 🔍 REVIEW Note
-```yaml
----
-tags: [회고/검토]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 🔍 [검토 대상] 회고
-note-type: REVIEW
-review-period: [검토 기간 YYYY-MM-DD ~ YYYY-MM-DD]
-review-type: [프로젝트/학습/주간/월간 등]
----
-```
-
-### 🗺️ GUIDE Note
-```yaml
----
-tags: [Guide]
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 🗺️ [가이드 주제]
-note-type: GUIDE
-target-audience: [대상 독자]
-difficulty: [입문/중급/고급]
----
-```
-
-### 🏛️ MOC Note
-```yaml
----
-tags: 
-aliases: 
-created: [실제 오늘 날짜 YYYY-MM-DD 형식]
-title: 🏛️ [주제명] MOC
-note-type: MOC
-cssclasses: dashboard
-scope: [다루는 주제 범위 명시 - 예: 파이썬 기본 문법과 라이브러리 사용법, 전자기학 이론과 실험]
----
-```
-
-## 3. 마크다운 스타일 기본 규칙
-
-### 태그 사용 지침
-- **기본 태그**: `daily`, `Guide` 등 노트 유형별 전용 태그
-- **기술 스택별 태그**: `python`, `javascript`, `java` 등
-- **분야별 태그**: `algorithm`, `web-development`, `database` 등
-- **상태 태그**: `completed`, `in-progress`, `archived` 등
-- **네이밍 규칙**: 소문자 사용, 하이픈(-) 연결, 일관성 있는 약어 사용
-
-### 구조화 원칙
-- **헤더 사용**: `##`, `###`, `####`를 활용한 명확한 계층 구조
-- **리스트 활용**: 순서가 있는 항목은 번호 리스트, 없으면 불릿 리스트
-- **코드 블록**: 언어 명시와 함께 적절한 들여쓰기 사용
-- **강조 표시**: **굵게**, *기울임*, `인라인 코드`의 일관된 사용
-
-## 4. 노트 유형별 글쓰기 전략
+## 3. 노트 유형별 글쓰기 전략
 
 ### 📅 Daily Notes (일상 노트)
 
