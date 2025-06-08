@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "AI 노트 유형별 글쓰기 전략",
+      "path": "00. AI Rules/_backup/AI 노트 유형별 글쓰기 전략.md"
+    },
+    {
+      "basename": "AI Note 관리 전략",
+      "path": "00. AI Rules/_backup/AI Note 관리 전략.md"
+    },
+    {
+      "basename": "AI 지식 구조화 및 자동화 전략",
+      "path": "00. AI Rules/_backup/AI 지식 구조화 및 자동화 전략.md"
+    },
+    {
+      "basename": "AI 옵시디언 마크다운 스타일 준수 가이드",
+      "path": "00. AI Rules/_backup/AI 옵시디언 마크다운 스타일 준수 가이드.md"
+    },
+    {
       "basename": "AI 노트 작성 및 관리",
       "path": "00. AI Rules/AI 노트 작성 및 관리.md"
+    },
+    {
+      "basename": "AI 옵시디언 기본 시스템",
+      "path": "00. AI Rules/AI 옵시디언 기본 시스템.md"
+    },
+    {
+      "basename": "AI 지식 구조화 워크플로우",
+      "path": "00. AI Rules/AI 지식 구조화 워크플로우.md"
     },
     {
       "basename": "Home",
@@ -75,10 +99,6 @@
     {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     }
   ],
   "omittedPaths": [],
