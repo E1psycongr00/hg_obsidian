@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. AI Rules/AI Note-Type Writing Guide.md",
+                "file": "00. AI Rules/AI Obsidian Core Rules.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI Note-Type Writing Guide"
+              "title": "AI Obsidian Core Rules"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00. AI Rules/AI Note-Type Writing Guide.md"
+                "file": "00. AI Rules/AI Obsidian Core Rules.md"
               },
               "icon": "lucide-info",
-              "title": "AI Note-Type Writing Guide 의 파일 속성"
+              "title": "AI Obsidian Core Rules 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00. AI Rules/AI Note-Type Writing Guide.md",
+                "file": "00. AI Rules/AI Obsidian Core Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "AI Note-Type Writing Guide 그래프"
+              "title": "AI Obsidian Core Rules 그래프"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. AI Rules/AI Note-Type Writing Guide.md",
+                "file": "00. AI Rules/AI Obsidian Core Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Note-Type Writing Guide 의 개요"
+              "title": "AI Obsidian Core Rules 의 개요"
             }
           },
           {
@@ -324,8 +324,10 @@
   },
   "active": "76169802ae166860",
   "lastOpenFiles": [
-    "무제 6.md",
     "00. AI Rules/AI Note-Type Writing Guide.md",
+    "00. AI Rules/AI Obsidian Core Rules.md",
+    "00. AI Rules/AI Knowledge Structuring Strategy.md",
+    "무제 6.md",
     "00. AI Rules/AI 노트 유형별 글쓰기 전략.md",
     "00. AI Rules/AI Note Type Stredegy",
     "00. AI Rules/_backup/AI 지식 구조화 및 자동화 전략.md",
@@ -349,8 +351,6 @@
     "Task5_실제워크플로우_시나리오별예시.md",
     "00. AI Rules/_backup/문서_구조_분석_결과.md",
     "00. AI Rules/_backup/AI 지식 구조화 및 자동화 전략_backup.md",
-    "00. AI Rules/_backup/AI 옵시디언 마크다운 스타일 준수 가이드_backup.md",
-    "00. AI Rules/_backup/AI 노트 유형별 글쓰기 전략_backup.md",
     "00. AI Rules/_backup",
     "06. Code Notes/Area/Python",
     "06. Code Notes/Area/Java",
