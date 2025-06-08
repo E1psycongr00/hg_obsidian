@@ -13,7 +13,7 @@ title: ⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10)
 note-type: CODE
 language: python
 environment: Python 3.8+
-completed: false
+completed: true
 archive: false
 area-reason: 디자인 패턴 구현 예제
 ---

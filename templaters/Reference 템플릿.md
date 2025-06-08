@@ -28,7 +28,7 @@ from: ${from}
   
   // 파일 이름도 동일하게 변경
   
-  await tp.user.moveFileToTarget(tp, `06. Reference Notes/${from}`);
+  await tp.user.moveFileToTarget(tp, `05. Reference Notes/${from}`);
   await tp.file.rename(newTitle);
 %>
 ## 출처
