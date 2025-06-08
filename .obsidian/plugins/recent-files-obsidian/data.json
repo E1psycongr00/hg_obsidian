@@ -5,6 +5,26 @@
       "path": "AI_Rules/AI Note-Type Writing Guide.md"
     },
     {
+      "basename": "📚 Oracle JDK 11 공식 문서",
+      "path": "05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
+    },
+    {
+      "basename": "📚 YAGNI (You Aren't Gonna Need It)",
+      "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
+    },
+    {
+      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
+      "path": "05. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
+    },
+    {
+      "basename": "📚 Oracle JDK 21 공식 문서",
+      "path": "05. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md"
+    },
+    {
+      "basename": "📚 상속과 코드 재사용 (오브젝트 -조용호)",
+      "path": "05. Reference Notes/Book/📚 상속과 코드 재사용 (오브젝트 -조용호).md"
+    },
+    {
       "basename": "AI Obsidian Core Rules",
       "path": "AI_Rules/AI Obsidian Core Rules.md"
     },
@@ -29,28 +49,12 @@
       "path": "05. Reference Notes/Book/📚 객체 분해 (오브젝트 - 조용호).md"
     },
     {
-      "basename": "📚 YAGNI (You Aren't Gonna Need It)",
-      "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
-    },
-    {
-      "basename": "📚 왜 타입스크립트인가 (Typescript Deep Dive)",
-      "path": "05. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive).md"
-    },
-    {
       "basename": "📚 Oracle JDK 8 공식 문서",
       "path": "05. Reference Notes/Web/📚 Oracle JDK 8 공식 문서.md"
     },
     {
       "basename": "📚 Oracle JDK 17 공식 문서",
       "path": "05. Reference Notes/Web/📚 Oracle JDK 17 공식 문서.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 11 공식 문서",
-      "path": "05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 21 공식 문서",
-      "path": "05. Reference Notes/Web/📚 Oracle JDK 21 공식 문서.md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "추상 팩토리 패턴 개념",
       "path": "03. Permanent Notes/추상 팩토리 패턴 개념.md"
-    },
-    {
-      "basename": "📚 추상 팩토리 패턴 실제 활용 사례",
-      "path": "03. Permanent Notes/📚 추상 팩토리 패턴 실제 활용 사례.md"
     }
   ],
   "omittedPaths": [],
