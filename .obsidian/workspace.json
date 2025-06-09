@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md",
+                "file": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "⌨️ Python 프로토타입 패턴 구현"
+              "title": "⌨️ Java 프로토타입 패턴 구현"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md"
+                "file": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md"
               },
               "icon": "lucide-info",
-              "title": "⌨️ Python 프로토타입 패턴 구현 의 파일 속성"
+              "title": "⌨️ Java 프로토타입 패턴 구현 의 파일 속성"
             }
           },
           {
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md",
+                "file": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "⌨️ Python 프로토타입 패턴 구현 의 개요"
+              "title": "⌨️ Java 프로토타입 패턴 구현 의 개요"
             }
           },
           {
@@ -345,6 +345,7 @@
   "active": "3d0e88a3cd1f9f78",
   "lastOpenFiles": [
     "02. MOC/🏛️ 프로토타입 패턴.md",
+    "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md",
     "AI_Rules/AI Note-Type Writing Guide.md",
     "AI_Rules/AI Obsidian Core Rules.md",
@@ -360,7 +361,6 @@
     "03. Permanent Notes/📝 프로토타입 패턴의 구조와 참여자.md",
     "03. Permanent Notes/📝 프로토타입 패턴의 정의와 목적.md",
     "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
-    "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 빌더 패턴.md",
