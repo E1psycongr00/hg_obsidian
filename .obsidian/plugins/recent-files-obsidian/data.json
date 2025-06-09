@@ -9,6 +9,10 @@
       "path": "AI_Rules/AI Obsidian Core Rules.md"
     },
     {
+      "basename": "AI Knowledge Structuring Strategy",
+      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "⌨️ Python 프로토타입 패턴 구현",
       "path": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md"
-    },
-    {
-      "basename": "AI Knowledge Structuring Strategy",
-      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
     },
     {
       "basename": "🏛️ 소프트웨어 개발 원칙",

@@ -62,7 +62,7 @@ aliases:
 created: 2025-06-08 # 예시: 실제 생성일로 변경
 title: 📝 [학습 주제명]
 note-type: COMMON
-difficulty: "입문" # 입문/중급/고급
+completed: false
 time-to-understand: "5분" # 5분/10분/20분 등
 ---
 ```
@@ -134,7 +134,6 @@ created: 2025-06-08 # 예시: 실제 생성일로 변경
 title: 🗺️ [가이드 주제]
 note-type: GUIDE
 target-audience: ""
-difficulty: "입문" # 입문/중급/고급
 ---
 ```
 
