@@ -1,0 +1,346 @@
+---
+tags: [design-pattern, gof, creational-pattern, builder, java]
+aliases: 
+created: 2025-01-27
+title: ⌨️ 빌더 패턴 구현 예제 (Java)
+note-type: CODE
+language: "java"
+environment: "Java 8+"
+---
+
+## 빌더 패턴 Java 구현 예제
+
+이 예제는 Computer 객체를 생성하는 빌더 패턴의 완전한 구현을 보여준다.
+
+### 1. Product 클래스
+
+```java
+/**
+ * Product: 생성될 복잡한 객체
+ * 여러 선택적 속성을 가진 Computer 클래스
+ */
+public class Computer {
+    // 필수 속성
+    private final String cpu;
+    private final String ram;
+    
+    // 선택적 속성
+    private final String storage;
+    private final String graphicsCard;
+    private final boolean hasWifi;
+    private final boolean hasBluetooth;
+    private final String operatingSystem;
+    
+    // 빌더를 통해서만 객체 생성 가능
+    public Computer(ComputerBuilder builder) {
+        this.cpu = builder.cpu;
+        this.ram = builder.ram;
+        this.storage = builder.storage;
+        this.graphicsCard = builder.graphicsCard;
+        this.hasWifi = builder.hasWifi;
+        this.hasBluetooth = builder.hasBluetooth;
+        this.operatingSystem = builder.operatingSystem;
+    }
+    
+    // Getter 메서드들
+    public String getCpu() { return cpu; }
+    public String getRam() { return ram; }
+    public String getStorage() { return storage; }
+    public String getGraphicsCard() { return graphicsCard; }
+    public boolean hasWifi() { return hasWifi; }
+    public boolean hasBluetooth() { return hasBluetooth; }
+    public String getOperatingSystem() { return operatingSystem; }
+    
+    @Override
+    public String toString() {
+        return "Computer{" +
+                "cpu='" + cpu + '\'' +
+                ", ram='" + ram + '\'' +
+                ", storage='" + storage + '\'' +
+                ", graphicsCard='" + graphicsCard + '\'' +
+                ", hasWifi=" + hasWifi +
+                ", hasBluetooth=" + hasBluetooth +
+                ", operatingSystem='" + operatingSystem + '\'' +
+                '}';
+    }
+}
+```
+
+### 2. Builder 인터페이스
+
+```java
+/**
+ * Builder: 제품 생성을 위한 추상 인터페이스
+ * 모든 ConcreteBuilder가 구현해야 할 메서드들을 정의
+ */
+public interface ComputerBuilder {
+    ComputerBuilder setCpu(String cpu);
+    ComputerBuilder setRam(String ram);
+    ComputerBuilder setStorage(String storage);
+    ComputerBuilder setGraphicsCard(String graphicsCard);
+    ComputerBuilder setWifi(boolean hasWifi);
+    ComputerBuilder setBluetooth(boolean hasBluetooth);
+    ComputerBuilder setOperatingSystem(String os);
+    Computer build();
+}
+```
+
+### 3. ConcreteBuilder 클래스
+
+```java
+/**
+ * ConcreteBuilder: Builder 인터페이스의 구체적 구현
+ * 실제 Computer 객체를 생성하고 조립하는 역할
+ */
+public class DesktopComputerBuilder implements ComputerBuilder {
+    String cpu;
+    String ram;
+    String storage = "500GB HDD"; // 기본값
+    String graphicsCard = "Integrated"; // 기본값
+    boolean hasWifi = false; // 기본값
+    boolean hasBluetooth = false; // 기본값
+    String operatingSystem = "Windows 10"; // 기본값
+    
+    @Override
+    public ComputerBuilder setCpu(String cpu) {
+        this.cpu = cpu;
+        return this; // 메서드 체이닝을 위한 자기 자신 반환
+    }
+    
+    @Override
+    public ComputerBuilder setRam(String ram) {
+        this.ram = ram;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setStorage(String storage) {
+        this.storage = storage;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setGraphicsCard(String graphicsCard) {
+        this.graphicsCard = graphicsCard;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setWifi(boolean hasWifi) {
+        this.hasWifi = hasWifi;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setBluetooth(boolean hasBluetooth) {
+        this.hasBluetooth = hasBluetooth;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setOperatingSystem(String os) {
+        this.operatingSystem = os;
+        return this;
+    }
+    
+    @Override
+    public Computer build() {
+        // 필수 속성 검증
+        if (cpu == null || ram == null) {
+            throw new IllegalStateException("CPU와 RAM은 필수 속성입니다.");
+        }
+        return new Computer(this);
+    }
+}
+
+/**
+ * 다른 종류의 ConcreteBuilder 예시
+ * 게이밍 컴퓨터에 특화된 빌더
+ */
+public class GamingComputerBuilder implements ComputerBuilder {
+    String cpu;
+    String ram;
+    String storage = "1TB SSD"; // 게이밍용 기본값
+    String graphicsCard = "RTX 4070"; // 게이밍용 기본값
+    boolean hasWifi = true; // 게이밍용 기본값
+    boolean hasBluetooth = true; // 게이밍용 기본값
+    String operatingSystem = "Windows 11"; // 게이밍용 기본값
+    
+    // 메서드 구현은 DesktopComputerBuilder와 동일
+    @Override
+    public ComputerBuilder setCpu(String cpu) {
+        this.cpu = cpu;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setRam(String ram) {
+        this.ram = ram;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setStorage(String storage) {
+        this.storage = storage;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setGraphicsCard(String graphicsCard) {
+        this.graphicsCard = graphicsCard;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setWifi(boolean hasWifi) {
+        this.hasWifi = hasWifi;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setBluetooth(boolean hasBluetooth) {
+        this.hasBluetooth = hasBluetooth;
+        return this;
+    }
+    
+    @Override
+    public ComputerBuilder setOperatingSystem(String os) {
+        this.operatingSystem = os;
+        return this;
+    }
+    
+    @Override
+    public Computer build() {
+        if (cpu == null || ram == null) {
+            throw new IllegalStateException("CPU와 RAM은 필수 속성입니다.");
+        }
+        return new Computer(this);
+    }
+}
+```
+
+### 4. Director 클래스
+
+```java
+/**
+ * Director: 복잡한 객체의 생성 과정을 관리
+ * 미리 정의된 순서와 방법으로 객체를 생성
+ */
+public class ComputerDirector {
+    
+    /**
+     * 사무용 컴퓨터 생성
+     */
+    public Computer createOfficeComputer(ComputerBuilder builder) {
+        return builder
+                .setCpu("Intel i5")
+                .setRam("8GB")
+                .setStorage("256GB SSD")
+                .setWifi(true)
+                .setOperatingSystem("Windows 11")
+                .build();
+    }
+    
+    /**
+     * 고성능 게이밍 컴퓨터 생성
+     */
+    public Computer createGamingComputer(ComputerBuilder builder) {
+        return builder
+                .setCpu("Intel i9")
+                .setRam("32GB")
+                .setStorage("2TB SSD")
+                .setGraphicsCard("RTX 4090")
+                .setWifi(true)
+                .setBluetooth(true)
+                .setOperatingSystem("Windows 11")
+                .build();
+    }
+    
+    /**
+     * 개발자용 컴퓨터 생성
+     */
+    public Computer createDeveloperComputer(ComputerBuilder builder) {
+        return builder
+                .setCpu("AMD Ryzen 9")
+                .setRam("64GB")
+                .setStorage("1TB SSD")
+                .setGraphicsCard("RTX 4070")
+                .setWifi(true)
+                .setBluetooth(true)
+                .setOperatingSystem("Ubuntu 22.04")
+                .build();
+    }
+}
+```
+
+### 5. 사용 예제
+
+```java
+/**
+ * 빌더 패턴 사용 예제
+ */
+public class BuilderPatternExample {
+    public static void main(String[] args) {
+        ComputerDirector director = new ComputerDirector();
+        
+        // 1. Director를 사용한 사무용 컴퓨터 생성
+        ComputerBuilder desktopBuilder = new DesktopComputerBuilder();
+        Computer officeComputer = director.createOfficeComputer(desktopBuilder);
+        System.out.println("사무용 컴퓨터: " + officeComputer);
+        
+        // 2. Director를 사용한 게이밍 컴퓨터 생성
+        ComputerBuilder gamingBuilder = new GamingComputerBuilder();
+        Computer gamingComputer = director.createGamingComputer(gamingBuilder);
+        System.out.println("게이밍 컴퓨터: " + gamingComputer);
+        
+        // 3. 직접 빌더를 사용한 커스텀 컴퓨터 생성
+        Computer customComputer = new DesktopComputerBuilder()
+                .setCpu("Intel i7")
+                .setRam("16GB")
+                .setStorage("512GB SSD")
+                .setGraphicsCard("RTX 4060")
+                .setWifi(true)
+                .build();
+        System.out.println("커스텀 컴퓨터: " + customComputer);
+        
+        // 4. 필수 속성 누락 시 예외 발생 예제
+        try {
+            Computer invalidComputer = new DesktopComputerBuilder()
+                    .setStorage("1TB SSD")
+                    .build(); // CPU, RAM 누락
+        } catch (IllegalStateException e) {
+            System.out.println("오류: " + e.getMessage());
+        }
+    }
+}
+```
+
+### 실행 결과
+
+```
+사무용 컴퓨터: Computer{cpu='Intel i5', ram='8GB', storage='256GB SSD', graphicsCard='Integrated', hasWifi=true, hasBluetooth=false, operatingSystem='Windows 11'}
+게이밍 컴퓨터: Computer{cpu='Intel i9', ram='32GB', storage='2TB SSD', graphicsCard='RTX 4090', hasWifi=true, hasBluetooth=true, operatingSystem='Windows 11'}
+커스텀 컴퓨터: Computer{cpu='Intel i7', ram='16GB', storage='512GB SSD', graphicsCard='RTX 4060', hasWifi=true, hasBluetooth=false, operatingSystem='Windows 10'}
+오류: CPU와 RAM은 필수 속성입니다.
+```
+
+### 구현의 핵심 포인트
+
+#### 메서드 체이닝
+- 각 setter 메서드가 `this`를 반환하여 연속적인 메서드 호출 가능
+- 가독성 높은 fluent interface 제공
+
+#### 불변 객체
+- Computer 객체의 모든 필드가 `final`로 선언
+- 생성 후 상태 변경 불가능
+
+#### 유효성 검증
+- `build()` 메서드에서 필수 속성 검증
+- 잘못된 상태의 객체 생성 방지
+
+#### 기본값 설정
+- ConcreteBuilder에서 선택적 속성의 기본값 제공
+- 사용자가 명시적으로 설정하지 않은 속성에 대한 합리적 기본값
+
+>[!tip] 실행 방법
+>위의 모든 클래스를 같은 패키지에 생성하고 `BuilderPatternExample` 클래스의 `main` 메서드를 실행하면 빌더 패턴의 동작을 확인할 수 있다. 
