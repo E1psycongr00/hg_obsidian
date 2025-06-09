@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현.md",
+                "file": "03. Permanent Notes/📝 프로토타입 패턴의 장점과 단점.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현"
+              "title": "📝 프로토타입 패턴의 장점과 단점"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현.md"
+                "file": "03. Permanent Notes/📝 프로토타입 패턴의 장점과 단점.md"
               },
               "icon": "lucide-info",
-              "title": "⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현 의 파일 속성"
+              "title": "📝 프로토타입 패턴의 장점과 단점 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ GoF 디자인 패턴.md",
+                "file": "03. Permanent Notes/📝 프로토타입 패턴의 장점과 단점.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ GoF 디자인 패턴 그래프"
+              "title": "📝 프로토타입 패턴의 장점과 단점 그래프"
             }
           },
           {
@@ -281,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현.md",
+                "file": "03. Permanent Notes/📝 프로토타입 패턴의 장점과 단점.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현 의 개요"
+              "title": "📝 프로토타입 패턴의 장점과 단점 의 개요"
             }
           },
           {
@@ -346,30 +346,30 @@
   "lastOpenFiles": [
     "02. MOC/🏛️ 프로토타입 패턴.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 깊은 복사 구현.md",
+    "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현.md",
+    "03. Permanent Notes/📝 프로토타입 패턴의 구조와 참여자.md",
+    "03. Permanent Notes/📝 프로토타입 패턴의 정의와 목적.md",
+    "02. MOC/🏛️ 팩토리 메서드 패턴.md",
+    "02. MOC/🏛️ 소프트웨어 개발 원칙.md",
+    "02. MOC/🏛️ 싱글톤 패턴.md",
+    "02. MOC/🏛️ 오브젝트 - 조용호.md",
+    "02. MOC/🏛️ 추상 팩토리 패턴.md",
+    "AI_Rules/AI Knowledge Structuring Strategy.md",
+    "AI_Rules/AI Obsidian Core Rules.md",
+    "AI_Rules/AI Note-Type Writing Guide.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 얕은 복사 구현.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 깊은 복사 구현.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 얕은 복사 구현.md",
-    "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md",
-    "AI_Rules/AI Note-Type Writing Guide.md",
-    "AI_Rules/AI Obsidian Core Rules.md",
-    "AI_Rules/AI Knowledge Structuring Strategy.md",
     "02. MOC/Home.md",
     "05. Reference Notes/Web/📚 프로토타입 패턴 활용 사례.md",
     "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md",
     "05. Reference Notes/📚 프로토타입 패턴 활용 사례.md",
     "02. MOC/🏛️ GoF 디자인 패턴.md",
-    "02. MOC/🏛️ 소프트웨어 개발 원칙.md",
     "03. Permanent Notes/📝 프로토타입 패턴의 장점과 단점.md",
     "03. Permanent Notes/📝 얕은 복사와 깊은 복사.md",
-    "03. Permanent Notes/📝 프로토타입 패턴의 구조와 참여자.md",
-    "03. Permanent Notes/📝 프로토타입 패턴의 정의와 목적.md",
-    "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
-    "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
-    "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/🏛️ 빌더 패턴.md",
     "AI_Rules",
     "AI Rule",
     "00. AI Rules/AI Note Type Stredegy",
