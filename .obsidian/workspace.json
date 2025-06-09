@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md",
+                "file": "02. MOC/🏛️ 프로토타입 패턴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AI Note-Type Writing Guide"
+              "title": "🏛️ 프로토타입 패턴"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md"
+                "file": "02. MOC/🏛️ 프로토타입 패턴.md"
               },
               "icon": "lucide-info",
-              "title": "AI Note-Type Writing Guide 의 파일 속성"
+              "title": "🏛️ 프로토타입 패턴 의 파일 속성"
             }
           },
           {
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md",
+                "file": "02. MOC/🏛️ 프로토타입 패턴.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Note-Type Writing Guide 의 개요"
+              "title": "🏛️ 프로토타입 패턴 의 개요"
             }
           },
           {
@@ -344,18 +344,19 @@
   },
   "active": "a49cf1f5967fd11e",
   "lastOpenFiles": [
-    "05. Reference Notes/프로토타입 패턴 활용 사례.md",
-    "AI_Rules/AI Obsidian Core Rules.md",
+    "03. Permanent Notes/📝 프로토타입 패턴의 장점과 단점.md",
     "02. MOC/🏛️ 프로토타입 패턴.md",
+    "03. Permanent Notes/📝 얕은 복사와 깊은 복사.md",
+    "AI_Rules/AI Note-Type Writing Guide.md",
+    "AI_Rules/AI Obsidian Core Rules.md",
+    "03. Permanent Notes/📝 프로토타입 패턴의 구조와 참여자.md",
+    "03. Permanent Notes/📝 프로토타입 패턴의 정의와 목적.md",
+    "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
+    "05. Reference Notes/프로토타입 패턴 활용 사례.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md",
-    "04. Practice Notes/📝 프로토타입 패턴의 장점과 단점.md",
-    "04. Practice Notes/📝 얕은 복사와 깊은 복사.md",
-    "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md",
-    "04. Practice Notes/📝 프로토타입 패턴의 정의와 목적.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md",
     "02. MOC/🏛️ GoF 디자인 패턴.md",
     "AI_Rules/AI Knowledge Structuring Strategy.md",
-    "AI_Rules/AI Note-Type Writing Guide.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 소프트웨어 개발 원칙.md",
     "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md",
@@ -369,7 +370,6 @@
     "06. Code Notes/Area/Java/⌨️ 빌더 패턴 구현 예제_Java (2025-06-09).md",
     "02. MOC/🏛️ 싱글톤 패턴.md",
     "03. Permanent Notes/옵저버 패턴.md",
-    "03. Permanent Notes/상태 패턴.md",
     "AI_Rules",
     "AI Rule",
     "00. AI Rules/AI Note Type Stredegy",

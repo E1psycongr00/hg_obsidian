@@ -344,6 +344,6 @@ public class CircularReferenceHandler {
 ```
 
 ## 관련 노트
-- [[04. Practice Notes/📝 얕은 복사와 깊은 복사|📝 얕은 복사와 깊은 복사]]
-- [[04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자|📝 프로토타입 패턴의 구조와 참여자]]
+- [[03. Permanent Notes/📝 얕은 복사와 깊은 복사|📝 얕은 복사와 깊은 복사]]
+- [[03. Permanent Notes/📝 프로토타입 패턴의 구조와 참여자|📝 프로토타입 패턴의 구조와 참여자]]
 - [[02. MOC/🏛️ 프로토타입 패턴|🏛️ 프로토타입 패턴]] - 상위 MOC 

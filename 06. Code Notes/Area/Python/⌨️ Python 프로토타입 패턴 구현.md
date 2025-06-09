@@ -486,6 +486,6 @@ class PerformanceTestPrototype(Prototype):
 ```
 
 ## 관련 노트
-- [[04. Practice Notes/📝 얕은 복사와 깊은 복사|📝 얕은 복사와 깊은 복사]]
+- [[03. Permanent Notes/📝 얕은 복사와 깊은 복사|📝 얕은 복사와 깊은 복사]]
 - [[06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현|⌨️ Java 프로토타입 패턴 구현]]
 - [[02. MOC/🏛️ 프로토타입 패턴|🏛️ 프로토타입 패턴]] - 상위 MOC 
