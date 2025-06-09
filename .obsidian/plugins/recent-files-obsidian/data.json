@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "📚 프로토타입 패턴 활용 사례",
+      "path": "05. Reference Notes/Web/📚 프로토타입 패턴 활용 사례.md"
+    },
+    {
+      "basename": "📚 YAGNI (You Aren't Gonna Need It)",
+      "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
+    },
+    {
       "basename": "🏛️ 프로토타입 패턴",
       "path": "02. MOC/🏛️ 프로토타입 패턴.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "📝 프로토타입 패턴의 장점과 단점",
@@ -37,16 +53,8 @@
       "path": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md"
     },
     {
-      "basename": "🏛️ GoF 디자인 패턴",
-      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
-    },
-    {
       "basename": "AI Knowledge Structuring Strategy",
       "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 소프트웨어 개발 원칙",
@@ -87,18 +95,6 @@
     {
       "basename": "🏛️ 오브젝트 - 조용호",
       "path": "02. MOC/🏛️ 오브젝트 - 조용호.md"
-    },
-    {
-      "basename": "⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23)",
-      "path": "06. Code Notes/Area/Python/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md"
-    },
-    {
-      "basename": "⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25)",
-      "path": "06. Code Notes/Area/Python/⌨️ 혼자서 하는 틱택토_v1_py (2025-04-25).md"
-    },
-    {
-      "basename": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)",
-      "path": "06. Code Notes/Area/Java/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
     }
   ],
   "omittedPaths": [],
