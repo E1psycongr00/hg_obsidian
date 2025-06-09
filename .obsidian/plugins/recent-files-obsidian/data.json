@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 빌더 패턴의 장단점",
+      "path": "04. Practice Notes/📝 빌더 패턴의 장단점.md"
+    },
+    {
+      "basename": "🏛️ 빌더 패턴",
+      "path": "02. MOC/🏛️ 빌더 패턴.md"
+    },
+    {
+      "basename": "⌨️ 빌더 패턴 구현 예제 (Java)",
+      "path": "06. Code Notes/⌨️ 빌더 패턴 구현 예제 (Java).md"
+    },
+    {
+      "basename": "📝 빌더 패턴의 구조",
+      "path": "04. Practice Notes/📝 빌더 패턴의 구조.md"
+    },
+    {
+      "basename": "📝 빌더 패턴이란",
+      "path": "04. Practice Notes/📝 빌더 패턴이란.md"
+    },
+    {
       "basename": "🏛️ GoF 디자인 패턴",
       "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "Code 템플릿",
       "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "🔍 추상 팩토리 패턴 안티패턴 및 오용 사례",
-      "path": "03. Permanent Notes/🔍 추상 팩토리 패턴 안티패턴 및 오용 사례.md"
-    },
-    {
-      "basename": "📚 YAGNI (You Aren't Gonna Need It)",
-      "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "AI Note-Type Writing Guide",
-      "path": "AI_Rules/AI Note-Type Writing Guide.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 11 공식 문서",
-      "path": "05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서.md"
     }
   ],
   "omittedPaths": [],
