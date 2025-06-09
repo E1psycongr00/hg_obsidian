@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md",
+                "file": "AI_Rules/AI Note-Type Writing Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 프로토타입 패턴의 구조와 참여자"
+              "title": "AI Note-Type Writing Guide"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md"
+                "file": "AI_Rules/AI Note-Type Writing Guide.md"
               },
               "icon": "lucide-info",
-              "title": "📝 프로토타입 패턴의 구조와 참여자 의 파일 속성"
+              "title": "AI Note-Type Writing Guide 의 파일 속성"
             }
           },
           {
@@ -294,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md",
+                "file": "AI_Rules/AI Note-Type Writing Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 프로토타입 패턴의 구조와 참여자 의 개요"
+              "title": "AI Note-Type Writing Guide 의 개요"
             }
           },
           {
@@ -344,11 +344,14 @@
   },
   "active": "a49cf1f5967fd11e",
   "lastOpenFiles": [
+    "05. Reference Notes/프로토타입 패턴 활용 사례.md",
+    "AI_Rules/AI Obsidian Core Rules.md",
     "02. MOC/🏛️ 프로토타입 패턴.md",
-    "04. Practice Notes/📝 프로토타입 패턴의 정의와 목적.md",
-    "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md",
-    "04. Practice Notes/📝 얕은 복사와 깊은 복사.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md",
+    "04. Practice Notes/📝 프로토타입 패턴의 장점과 단점.md",
+    "04. Practice Notes/📝 얕은 복사와 깊은 복사.md",
+    "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md",
+    "04. Practice Notes/📝 프로토타입 패턴의 정의와 목적.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md",
     "02. MOC/🏛️ GoF 디자인 패턴.md",
     "AI_Rules/AI Knowledge Structuring Strategy.md",
@@ -367,9 +370,6 @@
     "02. MOC/🏛️ 싱글톤 패턴.md",
     "03. Permanent Notes/옵저버 패턴.md",
     "03. Permanent Notes/상태 패턴.md",
-    "03. Permanent Notes/싱글톤 패턴 기본 개념.md",
-    "02. MOC/🏛️ 오브젝트 - 조용호.md",
-    "03. Permanent Notes/📝 빌더 패턴이란.md",
     "AI_Rules",
     "AI Rule",
     "00. AI Rules/AI Note Type Stredegy",

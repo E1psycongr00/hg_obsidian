@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 프로토타입 패턴의 구조와 참여자",
-      "path": "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md"
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
     },
     {
       "basename": "🏛️ 프로토타입 패턴",
       "path": "02. MOC/🏛️ 프로토타입 패턴.md"
     },
     {
-      "basename": "📝 프로토타입 패턴의 정의와 목적",
-      "path": "04. Practice Notes/📝 프로토타입 패턴의 정의와 목적.md"
+      "basename": "⌨️ Python 프로토타입 패턴 구현",
+      "path": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md"
     },
     {
       "basename": "📝 얕은 복사와 깊은 복사",
       "path": "04. Practice Notes/📝 얕은 복사와 깊은 복사.md"
+    },
+    {
+      "basename": "📝 프로토타입 패턴의 구조와 참여자",
+      "path": "04. Practice Notes/📝 프로토타입 패턴의 구조와 참여자.md"
+    },
+    {
+      "basename": "📝 프로토타입 패턴의 정의와 목적",
+      "path": "04. Practice Notes/📝 프로토타입 패턴의 정의와 목적.md"
     },
     {
       "basename": "⌨️ Java 프로토타입 패턴 구현",
@@ -27,10 +39,6 @@
     {
       "basename": "AI Knowledge Structuring Strategy",
       "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
-    },
-    {
-      "basename": "AI Note-Type Writing Guide",
-      "path": "AI_Rules/AI Note-Type Writing Guide.md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
       "path": "06. Code Notes/Archive/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md"
-    },
-    {
-      "basename": "⌨️ 싱글톤 Enum 방식_java (2025-06-05)",
-      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Enum 방식_java (2025-06-05).md"
-    },
-    {
-      "basename": "⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)",
-      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05).md"
     }
   ],
   "omittedPaths": [],
