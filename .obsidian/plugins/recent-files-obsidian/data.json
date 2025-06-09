@@ -9,16 +9,20 @@
       "path": "02. MOC/🏛️ 빌더 패턴.md"
     },
     {
-      "basename": "⌨️ 빌더 패턴 구현 예제 (Java)",
-      "path": "06. Code Notes/⌨️ 빌더 패턴 구현 예제 (Java).md"
-    },
-    {
       "basename": "📝 빌더 패턴의 구조",
       "path": "04. Practice Notes/📝 빌더 패턴의 구조.md"
     },
     {
       "basename": "📝 빌더 패턴이란",
-      "path": "04. Practice Notes/📝 빌더 패턴이란.md"
+      "path": "03. Permanent Notes/📝 빌더 패턴이란.md"
+    },
+    {
+      "basename": "📝 빌더 패턴과 다른 생성 패턴 비교",
+      "path": "04. Practice Notes/📝 빌더 패턴과 다른 생성 패턴 비교.md"
+    },
+    {
+      "basename": "⌨️ 빌더 패턴 구현 예제 (Java)",
+      "path": "06. Code Notes/⌨️ 빌더 패턴 구현 예제 (Java).md"
     },
     {
       "basename": "🏛️ GoF 디자인 패턴",
@@ -95,10 +99,6 @@
     {
       "basename": "Common 템플릿",
       "path": "templaters/Common 템플릿.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
     }
   ],
   "omittedPaths": [],
