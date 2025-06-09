@@ -344,6 +344,8 @@
   },
   "active": "3d0e88a3cd1f9f78",
   "lastOpenFiles": [
+    "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현.md",
+    "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 깊은 복사 구현.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 얕은 복사 구현.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현.md",
     "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 깊은 복사 구현.md",
@@ -368,8 +370,6 @@
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 빌더 패턴.md",
-    "02. MOC/🏛️ 추상 팩토리 패턴.md",
-    "02. MOC/🏛️ 팩토리 메서드 패턴.md",
     "AI_Rules",
     "AI Rule",
     "00. AI Rules/AI Note Type Stredegy",
