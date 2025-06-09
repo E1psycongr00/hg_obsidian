@@ -8,7 +8,7 @@ tags:
 aliases: 
 title: 🏛️ Java 버전별 패치 및 마이그레이션 가이드
 note-type: MOC
-created: 2025-01-04
+created: 2025-06-05
 cssclasses:
 ---
 

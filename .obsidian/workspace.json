@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c4ace627aaa5a38",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd429e4daeadcb6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ GoF 디자인 패턴.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -264,6 +264,16 @@
             "id": "a0905833da225299",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "6ffe75a91563cfe7",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -271,7 +281,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       },
       {
         "id": "92582217f19033e7",
@@ -332,19 +342,20 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7cd429e4daeadcb6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
+    "02. MOC/🏛️ 소프트웨어 개발 원칙.md",
+    "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
+    "02. MOC/🏛️ 오브젝트 - 조용호.md",
+    "02. MOC/🏛️ GoF 디자인 패턴.md",
     "02. MOC/🏛️ GoF 생성 패턴.md",
     "02. MOC/🏛️ 추상 팩토리 패턴.md",
     "02. MOC/🏛️ 싱글톤 패턴.md",
     "02. MOC/🏛️ 팩토리 메서드 패턴.md",
     "06. Code Notes/Area/Java/⌨️ 팩토리 메서드 패턴 Java 구현_java (2025-06-07).md",
     "03. Permanent Notes/팩토리 메서드 패턴 기본 개념.md",
-    "02. MOC/🏛️ GoF 디자인 패턴.md",
-    "02. MOC/Home.md",
-    "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "03. Permanent Notes/JDK 8 주요 특징 및 패치 분석.md",
-    "02. MOC/🏛️ 소프트웨어 개발 원칙.md",
     "02. MOC/🏛️ SOLID 원칙.md",
     "04. Practice Notes/권선형 유도 전동기.md",
     "02. MOC/웹 기초 MOC.md",
@@ -359,7 +370,6 @@
     "templaters/Common 템플릿.md",
     "templaters/Code 템플릿.md",
     "02. MOC/🏛️ 전기 기사.md",
-    "03. Permanent Notes/🔍 추상 팩토리 패턴 안티패턴 및 오용 사례.md",
     "AI_Rules",
     "AI Rule",
     "00. AI Rules/AI Note Type Stredegy",
