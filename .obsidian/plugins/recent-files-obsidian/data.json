@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "⌨️ Java 프로토타입 패턴 구현",
+      "path": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md"
+    },
+    {
+      "basename": "🏛️ 프로토타입 패턴",
+      "path": "02. MOC/🏛️ 프로토타입 패턴.md"
+    },
+    {
       "basename": "📚 프로토타입 패턴 활용 사례",
       "path": "05. Reference Notes/Web/📚 프로토타입 패턴 활용 사례.md"
     },
@@ -9,16 +29,8 @@
       "path": "05. Reference Notes/Web/📚 YAGNI (You Aren't Gonna Need It).md"
     },
     {
-      "basename": "🏛️ 프로토타입 패턴",
-      "path": "02. MOC/🏛️ 프로토타입 패턴.md"
-    },
-    {
       "basename": "🏛️ GoF 디자인 패턴",
       "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "📝 프로토타입 패턴의 장점과 단점",
@@ -27,14 +39,6 @@
     {
       "basename": "📝 얕은 복사와 깊은 복사",
       "path": "03. Permanent Notes/📝 얕은 복사와 깊은 복사.md"
-    },
-    {
-      "basename": "AI Note-Type Writing Guide",
-      "path": "AI_Rules/AI Note-Type Writing Guide.md"
-    },
-    {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
     },
     {
       "basename": "📝 프로토타입 패턴의 구조와 참여자",
@@ -47,10 +51,6 @@
     {
       "basename": "⌨️ Python 프로토타입 패턴 구현",
       "path": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 구현.md"
-    },
-    {
-      "basename": "⌨️ Java 프로토타입 패턴 구현",
-      "path": "06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 구현.md"
     },
     {
       "basename": "AI Knowledge Structuring Strategy",
