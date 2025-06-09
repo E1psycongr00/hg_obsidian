@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ 싱글톤 패턴.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -343,7 +343,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "05945c099298a576",
+  "active": "a49cf1f5967fd11e",
   "lastOpenFiles": [
     "02. MOC/🏛️ GoF 디자인 패턴.md",
     "02. MOC/🏛️ 빌더 패턴.md",
