@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a86cef4a55146d06",
+        "id": "0d5a6226b185c62e",
         "type": "tabs",
         "children": [
           {
-            "id": "139a967a80641b3f",
+            "id": "b64c4d36a2a5b783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. PARA/3.Resources/Obsidian/제텔카스텐.md",
+                "file": "02. MOC/Home.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "제텔카스텐"
+              "title": "Home"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "09. PARA/3.Resources/Resource란.md"
+                "file": "09. PARA/2.Area/Area란.md"
               },
               "icon": "lucide-info",
-              "title": "Resource란 의 파일 속성"
+              "title": "Area란 의 파일 속성"
             }
           },
           {
@@ -253,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09. PARA/3.Resources/Resource란.md",
+                "file": "09. PARA/2.Area/Area란.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Resource란 의 개요"
+              "title": "Area란 의 개요"
             }
           },
           {
@@ -303,8 +303,10 @@
   },
   "active": "2d39029a77522e3a",
   "lastOpenFiles": [
-    "09. PARA/3.Resources/Obsidian/제텔카스텐.md",
+    "02. MOC/Home.md",
     "09. PARA/3.Resources/Obsidian/Obsidian 관련 내용.md",
+    "09. PARA/3.Resources/Obsidian/제텔카스텐.md",
+    "09. PARA/3.Resources/Resource란.md",
     "09. PARA/3.Resources/Obsidian/Obsidian.md",
     "09. PARA/3.Resources/전기기사/전력공학 and 전기기기.md",
     "09. PARA/3.Resources/전기기사/회로 and 제어.md",
@@ -326,9 +328,7 @@
     "06. Code Notes/Area/Java/⌨️ 빌더 패턴 구현 예제_Java (2025-06-09).md",
     "06. Code Notes/Area/Java/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Code Notes/Area/Java/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
-    "02. MOC/Home.md",
     "01. Guides/🗺️ 노트 아카이빙 및 복원 가이드.md",
-    "01. Guides/Note Guides.md",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
     "05. Reference Notes/Archive",
