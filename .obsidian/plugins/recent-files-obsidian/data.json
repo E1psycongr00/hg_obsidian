@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "🔬 파일 처리 시스템 확장성 개선",
-      "path": "07. Solution Notes/Area/🔬 파일 처리 시스템 확장성 개선.md"
+      "basename": "🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드",
+      "path": "03. Permanent Notes/🔍 생성 패턴 비교 분석 - 추상 팩토리 vs 팩토리 메서드.md"
+    },
+    {
+      "basename": "📝 프로토타입 패턴의 정의와 목적",
+      "path": "03. Permanent Notes/📝 프로토타입 패턴의 정의와 목적.md"
+    },
+    {
+      "basename": "🔍 추상 팩토리 패턴 안티패턴 및 오용 사례",
+      "path": "03. Permanent Notes/🔍 추상 팩토리 패턴 안티패턴 및 오용 사례.md"
+    },
+    {
+      "basename": "🔍 혼자서하는 틱택토v1 리뷰",
+      "path": "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
     },
     {
       "basename": "🔬 Spring BeanFactory를 통한 객체 생성 자동화",
@@ -17,12 +33,12 @@
       "path": "07. Solution Notes/Area/🔬 환경별 로깅 시스템 동적 설정.md"
     },
     {
-      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
-      "path": "07. Solution Notes/Archive/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
+      "basename": "🔬 파일 처리 시스템 확장성 개선",
+      "path": "07. Solution Notes/Area/🔬 파일 처리 시스템 확장성 개선.md"
     },
     {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
+      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
+      "path": "07. Solution Notes/Archive/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
     },
     {
       "basename": "원형 코일의 자계",
@@ -83,22 +99,6 @@
     {
       "basename": "Spring Modulith",
       "path": "04. Practice Notes/Spring Modulith.md"
-    },
-    {
-      "basename": "전속 밀도",
-      "path": "03. Permanent Notes/전속 밀도.md"
-    },
-    {
-      "basename": "적산 유량 곡선",
-      "path": "03. Permanent Notes/적산 유량 곡선.md"
-    },
-    {
-      "basename": "인터페이스 분리 원칙",
-      "path": "03. Permanent Notes/인터페이스 분리 원칙.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     }
   ],
   "omittedPaths": [],

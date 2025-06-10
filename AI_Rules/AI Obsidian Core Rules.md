@@ -63,7 +63,7 @@ created: 2025-06-08 # 예시: 실제 생성일로 변경
 title: 📝 [학습 주제명]
 note-type: COMMON
 completed: false
-time-to-understand: "5분" # 5분/10분/20분 등
+time-to-understand: "5분" # 5분/10분 등
 ---
 ```
 
