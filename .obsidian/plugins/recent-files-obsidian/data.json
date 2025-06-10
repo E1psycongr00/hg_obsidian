@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 단권 변압기 기본 개념",
+      "path": "04. Practice Notes/📝 단권 변압기 기본 개념.md"
+    },
+    {
+      "basename": "🏛️ 단권 변압기",
+      "path": "02. MOC/🏛️ 단권 변압기.md"
+    },
+    {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현",
       "path": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
     }
   ],
   "omittedPaths": [],
