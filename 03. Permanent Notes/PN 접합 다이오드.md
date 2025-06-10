@@ -6,7 +6,7 @@ aliases:
 created: 2025-04-11
 title: PN 접합 다이오드
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 ## 내용(Content)
