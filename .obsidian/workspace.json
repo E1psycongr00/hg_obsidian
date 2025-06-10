@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
-                "mode": "preview",
+                "file": "templaters/Common 템플릿.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Common 템플릿"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "09. PARA/2.Area/Area란.md"
+                "file": "templaters/Common 템플릿.md"
               },
               "icon": "lucide-info",
-              "title": "Area란 의 파일 속성"
+              "title": "Common 템플릿 의 파일 속성"
             }
           },
           {
@@ -189,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "templaters/Common 템플릿.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "Common 템플릿 그래프"
             }
           },
           {
@@ -253,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09. PARA/2.Area/Area란.md",
+                "file": "templaters/Common 템플릿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Area란 의 개요"
+              "title": "Common 템플릿 의 개요"
             }
           },
           {
@@ -301,8 +302,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2d39029a77522e3a",
+  "active": "b64c4d36a2a5b783",
   "lastOpenFiles": [
+    "09. PARA/2.Area/Area란.md",
+    "00. Daily",
     "02. MOC/Home.md",
     "09. PARA/3.Resources/Obsidian/Obsidian 관련 내용.md",
     "09. PARA/3.Resources/Obsidian/제텔카스텐.md",
@@ -328,7 +331,6 @@
     "06. Code Notes/Area/Java/⌨️ 빌더 패턴 구현 예제_Java (2025-06-09).md",
     "06. Code Notes/Area/Java/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "06. Code Notes/Area/Java/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
-    "01. Guides/🗺️ 노트 아카이빙 및 복원 가이드.md",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
     "05. Reference Notes/Archive",
@@ -338,7 +340,6 @@
     "00. AI Rules/AI Note Type Stredegy",
     "00. AI Rules/_backup",
     "06. Code Notes/Area/Python",
-    "06. Code Notes/Area/Java",
     "attachments/screenshot/Pasted image 20250605100503.png",
     "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.svg",
     "attachments/screenshot/Pasted image 20250528082734.png",
