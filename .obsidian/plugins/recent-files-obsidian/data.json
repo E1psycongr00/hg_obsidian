@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "전자기학",
+      "path": "09. PARA/3.Resources/전기기사/전자기학.md"
+    },
+    {
+      "basename": "회로 and 제어",
+      "path": "09. PARA/3.Resources/전기기사/회로 and 제어.md"
+    },
+    {
+      "basename": "전력공학 and 전기기기",
+      "path": "09. PARA/3.Resources/전기기사/전력공학 and 전기기기.md"
+    },
+    {
+      "basename": "브리기테",
+      "path": "09. PARA/3.Resources/게임/Overwatch/브리기테.md"
+    },
+    {
+      "basename": "겐지",
+      "path": "09. PARA/3.Resources/게임/Overwatch/겐지.md"
+    },
+    {
+      "basename": "AI Knowledge Structuring Strategy",
+      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
+    },
+    {
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
+    },
+    {
       "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
       "path": "06. Code Notes/Area/Python/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md"
     },
@@ -71,34 +99,6 @@
     {
       "basename": "포인팅 벡터",
       "path": "03. Permanent Notes/Area/포인팅 벡터.md"
-    },
-    {
-      "basename": "제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다",
-      "path": "03. Permanent Notes/Area/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md"
-    },
-    {
-      "basename": "자기 이력 곡선",
-      "path": "03. Permanent Notes/Area/자기 이력 곡선.md"
-    },
-    {
-      "basename": "유전체",
-      "path": "03. Permanent Notes/Area/유전체.md"
-    },
-    {
-      "basename": "암페어-턴",
-      "path": "03. Permanent Notes/Area/암페어-턴.md"
-    },
-    {
-      "basename": "속도 특성 곡선",
-      "path": "03. Permanent Notes/Area/속도 특성 곡선.md"
-    },
-    {
-      "basename": "변압기 전압 변동률",
-      "path": "03. Permanent Notes/Area/변압기 전압 변동률.md"
-    },
-    {
-      "basename": "돌림힘",
-      "path": "03. Permanent Notes/Area/돌림힘.md"
     }
   ],
   "omittedPaths": [],
