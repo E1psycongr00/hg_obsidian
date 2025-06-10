@@ -9,9 +9,9 @@ created: 2025-06-10
 title: 📝 단권 변압기 V결선 부하용량 자기용량 관계 증명
 note-type: COMMON
 level: 전문가
-completed: false
+completed: true
 archived: false
-time-to-understand: 10분
+time-to-understand: 5분
 last-reviewed: 2025-06-10
 ---
 
@@ -39,16 +39,17 @@ $$
 V_{l} = V_{1}
 $$
 
-이 2 식을 활용해서 표현하면
+위 2개의 식을 활용해서 표현하면
 
 $$
-V_{2} = V_{h} - V_{l}
-$$
+V$$
 
 #### 자기 용량과 부하 용량의 비 구하기
 
+위 그림을 보면 $I_{h} = I_{2}$임을 알 수 있다.
+
 $$
-\frac{\text{자기 용량}}{\text{부하 용량}} = \frac{2V_{2}I_{2}}{\sqrt{ 3 }V_{h}I_{h}} - \frac{2}{\sqrt{ 3 }} V_{h}
+\frac{\text{자기 용량}}{\text{부하 용량}} = \frac{2V_{2}\cancel{ I_{2} }}{\sqrt{ 3 }V_{h}\cancel{ I_{h} }} = \frac{2}{\sqrt{ 3 }} \frac{V_{h}-V_{l}}{V_{h}}
 $$
 
 
