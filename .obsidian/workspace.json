@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 단권 변압기.md",
+                "file": "04. Practice Notes/📝 단권 변압기 V결선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 단권 변압기"
+              "title": "📝 단권 변압기 V결선"
             }
           },
           {
@@ -38,15 +38,27 @@
             }
           },
           {
-            "id": "9a1663293a911476",
+            "id": "600dc8ab89f80784",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/단권 변압기 Y 결선 (draw).md"
+                "file": "Excalidraw/Drawing 2025-06-10 21.50.09.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "단권 변압기 Y 결선 (draw)"
+              "title": "Drawing 2025-06-10 21.50.09.excalidraw"
+            }
+          },
+          {
+            "id": "bfeab1dd627b1767",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/단권 변압기 V 결선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "단권 변압기 V 결선 (draw)"
             }
           }
         ]
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "단권 변압기",
+                "query": "단권 변압기 V ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -126,10 +138,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 단권 변압기.md"
+                "file": "04. Practice Notes/📝 단권 변압기 V결선.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 단권 변압기 의 파일 속성"
+              "title": "📝 단권 변압기 V결선 의 파일 속성"
             }
           },
           {
@@ -215,7 +227,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 단권 변압기.md",
+                "file": "04. Practice Notes/📝 단권 변압기 V결선.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -243,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 단권 변압기 그래프"
+              "title": "📝 단권 변압기 V결선 그래프"
             }
           },
           {
@@ -280,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 단권 변압기.md",
+                "file": "04. Practice Notes/📝 단권 변압기 V결선.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 단권 변압기 의 개요"
+              "title": "📝 단권 변압기 V결선 의 개요"
             }
           },
           {
@@ -331,12 +343,15 @@
   },
   "active": "21ed25a3f91856ab",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 단권 변압기.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
+    "Excalidraw/단권 변압기 V 결선 (draw).md",
+    "02. MOC/Home.md",
+    "Excalidraw/단권 변압기 Y 결선 (draw).md",
+    "Excalidraw/Drawing 2025-06-10 21.50.09.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-10 21.50.09.excalidraw.svg",
     "04. Practice Notes/📝 단권 변압기 V결선.md",
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
-    "Excalidraw/단권 변압기 Y 결선 (draw).md",
     "03. Permanent Notes/Area/단권 변압기.md",
     "Excalidraw/단권 변압기 Y 결선 (draw).svg",
     "04. Practice Notes/📝 단권 변압기 델타결선.md",
@@ -356,7 +371,6 @@
     "02. MOC/🏛️ GoF 디자인 패턴.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "02. MOC/🏛️ SOLID 원칙.md",
-    "02. MOC/🏛️ Typescript Deep Dive.md",
     "00. Daily",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
@@ -375,7 +389,6 @@
     "Excalidraw/공극 (draw).svg",
     "Excalidraw/평행 도선 모형 (draw).svg",
     "Excalidraw/대전된 동심구 모형 (draw).svg",
-    "Excalidraw/전계 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "index.canvas",
