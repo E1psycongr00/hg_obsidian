@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
+    },
+    {
+      "basename": "AI Knowledge Structuring Strategy",
+      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
+    },
+    {
       "basename": "AI Knowledge Lifecycle Guide",
       "path": "AI_Rules/AI Knowledge Lifecycle Guide.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "📝 프로토타입 패턴의 정의와 목적",
       "path": "03. Permanent Notes/📝 프로토타입 패턴의 정의와 목적.md"
-    },
-    {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
     },
     {
       "basename": "🔬 Spring BeanFactory를 통한 객체 생성 자동화",
@@ -91,14 +99,6 @@
     {
       "basename": "망상식",
       "path": "04. Practice Notes/망상식.md"
-    },
-    {
-      "basename": "권선형 유도 전동기",
-      "path": "04. Practice Notes/권선형 유도 전동기.md"
-    },
-    {
-      "basename": "📝 프로토타입 패턴과 다른 생성 패턴 비교",
-      "path": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
     }
   ],
   "omittedPaths": [],
