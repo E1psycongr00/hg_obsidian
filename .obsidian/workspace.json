@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5a6226b185c62e",
+        "id": "571ca65564d97bfc",
         "type": "tabs",
         "children": [
           {
-            "id": "b64c4d36a2a5b783",
+            "id": "af29a84c0c6d8455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AI Note-Type Writing Guide"
+              "title": "새 탭"
             }
           }
         ]
@@ -42,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "단권 변압기",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +81,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -302,7 +296,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b64c4d36a2a5b783",
+  "active": "021db5a64478cc2e",
   "lastOpenFiles": [
     "AI_Rules/AI Obsidian Core Rules.md",
     "AI_Rules/AI Note-Type Writing Guide.md",
