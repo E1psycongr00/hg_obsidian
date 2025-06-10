@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 델타결선.md",
+                "file": "04. Practice Notes/📝 단권 변압기 변연장 3각 결선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 단권 변압기 델타결선"
+              "title": "📝 단권 변압기 변연장 3각 결선"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "단권 변압기 델타 결선 (draw)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 델타결선.md"
+                "file": "Excalidraw/단권 변압기 델타 결선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "📝 단권 변압기 델타결선 의 파일 속성"
+              "title": "단권 변압기 델타 결선 (draw) 의 파일 속성"
             }
           },
           {
@@ -216,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 델타결선.md",
+                "file": "Excalidraw/단권 변압기 델타 결선 (draw).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -244,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 단권 변압기 델타결선 그래프"
+              "title": "단권 변압기 델타 결선 (draw) 그래프"
             }
           },
           {
@@ -281,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 델타결선.md",
+                "file": "Excalidraw/단권 변압기 델타 결선 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 단권 변압기 델타결선 의 개요"
+              "title": "단권 변압기 델타 결선 (draw) 의 개요"
             }
           },
           {
@@ -329,12 +330,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "1aaa38f27764a613",
+  "active": "600dc8ab89f80784",
   "lastOpenFiles": [
-    "Excalidraw/단권 변압기 델타 결선 (draw).md",
-    "04. Practice Notes/📝 단권 변압기 델타결선.md",
     "04. Practice Notes/📝 단권 변압기 변연장 3각 결선.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 델타결선.md",
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
+    "Excalidraw/단권 변압기 델타 결선 (draw).md",
     "02. MOC/🏛️ 단권 변압기.md",
     "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
     "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
