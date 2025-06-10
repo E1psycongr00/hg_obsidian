@@ -18,7 +18,7 @@ title: LCEL
 
 ### LangChain Expression Language
 
-- [[RunnablePassThrough]]
-- [[RunnableLambda]]
-- [[LLM chain 라우팅]]
-- [[@chain과 Runnable]]
+- [[03. Permanent Notes/Area/RunnablePassThrough]]
+- [[03. Permanent Notes/Area/RunnableLambda]]
+- [[03. Permanent Notes/Area/LLM chain 라우팅]]
+- [[03. Permanent Notes/Area/@chain과 Runnable]]

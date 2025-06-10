@@ -14,8 +14,8 @@ AI가 프로그래밍시 지켜야할 룰 또는 프롬프트를 보관하는 �
 
 ## 설계
 - 📖 **RDD**
-	- [[03. Permanent Notes/RDD 책임 지향 설계 프롬프트 by python|RDD 책임 지향 설계 프롬프트 by python]]
-	- [[03. Permanent Notes/좀 더 세분화된 RDD 프로젝트 by Java|좀 더 세분화된 RDD 프로젝트 by Java]]
-	- [[03. Permanent Notes/구체적 예시로 개선된 RDD 프롬프트 by python|구체적 예시로 개선된 RDD 프롬프트 by python]]
+	- [[03. Permanent Notes/Area/RDD 책임 지향 설계 프롬프트 by python|RDD 책임 지향 설계 프롬프트 by python]]
+	- [[03. Permanent Notes/Area/좀 더 세분화된 RDD 프로젝트 by Java|좀 더 세분화된 RDD 프로젝트 by Java]]
+	- [[03. Permanent Notes/Area/구체적 예시로 개선된 RDD 프롬프트 by python|구체적 예시로 개선된 RDD 프롬프트 by python]]
 - 📖 **python**
 	- 

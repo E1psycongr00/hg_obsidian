@@ -220,8 +220,8 @@ public String stringConcatenation() {
 4. **모니터링 강화**: 마이그레이션 후 성능, 메모리 사용량, 오류율 집중 모니터링
 
 ### 관련 자료
-- [[03. Permanent Notes/JDK 11 주요 특징 및 패치 분석]] - 마이그레이션 출발점 분석
-- [[03. Permanent Notes/JDK 17 주요 특징 및 패치 분석]] - 마이그레이션 목표 버전 분석
+- [[03. Permanent Notes/Area/JDK 11 주요 특징 및 패치 분석]] - 마이그레이션 출발점 분석
+- [[03. Permanent Notes/Area/JDK 17 주요 특징 및 패치 분석]] - 마이그레이션 목표 버전 분석
 - [[05. Reference Notes/Area/Web/📚 Oracle JDK 17 공식 문서]] - 공식 마이그레이션 가이드
 
 > [!tip] 마이그레이션 팁

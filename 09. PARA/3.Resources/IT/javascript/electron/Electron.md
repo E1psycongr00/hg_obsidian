@@ -17,5 +17,5 @@ title: Electron
 
 ## Electron tutorial
 
-1. [[Electron이란 무엇인가]]
+1. [[03. Permanent Notes/Area/Electron이란 무엇인가]]
 2. 

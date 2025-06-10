@@ -216,5 +216,5 @@ public class CircularReferenceHandler {
 ## 관련 노트
 - [[06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 얕은 복사 구현|⌨️ Java 프로토타입 패턴 - 얕은 복사 구현]]
 - [[06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현|⌨️ Java 프로토타입 패턴 - 프로토타입 관리자 구현]]
-- [[03. Permanent Notes/📝 얕은 복사와 깊은 복사|📝 얕은 복사와 깊은 복사]]
+- [[03. Permanent Notes/Area/📝 얕은 복사와 깊은 복사|📝 얕은 복사와 깊은 복사]]
 - [[02. MOC/🏛️ 프로토타입 패턴|🏛️ 프로토타입 패턴]] 

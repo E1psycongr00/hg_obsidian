@@ -18,8 +18,8 @@ title: JOOQ
 
 # JOOQ
 
-- [[JOOQ 소개]]
-- [[JOOQ 기본 세팅하기]]
-- [[JOOQ로 테스트시 DDL]]
-- [[싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기]]
-- [[JOOQ와 Flyway로 Codegen하기 with JPA]]
+- [[03. Permanent Notes/Area/JOOQ 소개]]
+- [[03. Permanent Notes/Area/JOOQ 기본 세팅하기]]
+- [[03. Permanent Notes/Area/JOOQ로 테스트시 DDL]]
+- [[03. Permanent Notes/Area/싱글턴 컨테이너 패턴과 JOOQ를 활용해서 안전한 테스트 코드 설계하기]]
+- [[03. Permanent Notes/Area/JOOQ와 Flyway로 Codegen하기 with JPA]]

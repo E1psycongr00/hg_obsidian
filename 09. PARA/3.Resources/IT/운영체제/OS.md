@@ -5,10 +5,10 @@
 
 
 ### 운영 체제
-- [[운영 체제(OS)]]
-- [[CPU 스케줄러]]
-- [[Process Basic]]
-- [[Thread Basic]]
+- [[03. Permanent Notes/Area/운영 체제(OS)]]
+- [[03. Permanent Notes/Area/CPU 스케줄러]]
+- [[03. Permanent Notes/Area/Process Basic]]
+- [[03. Permanent Notes/Area/Thread Basic]]
 
 >[!tip]- process thread tag dataview
 >```dataview

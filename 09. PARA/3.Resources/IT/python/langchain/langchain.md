@@ -17,18 +17,18 @@ title: langchain
 
 ## Langchain
 
-- [[Langchain이란]]
-- [[Prompt 정의하기]]
-- [[RAG란]]
-- [[Native RAG란]]
-- [[Adaptive RAG]]
-- [[LLM 테스트 FakeLLM]]
-- [[StrOutputParser]]
-- [[LCEL과 RAG]]
-- [[한국어 검색 embedding model 벤치마크]]
-- [[HuggingFace에서 받은 embedding 모델 저장하기]]
-- [[Query Translation]]
-- [[with_structured_output과 프롬프트 관계]]
+- [[03. Permanent Notes/Area/Langchain이란]]
+- [[03. Permanent Notes/Area/Prompt 정의하기]]
+- [[03. Permanent Notes/Area/RAG란]]
+- [[03. Permanent Notes/Area/Native RAG란]]
+- [[03. Permanent Notes/Area/Adaptive RAG]]
+- [[03. Permanent Notes/Area/LLM 테스트 FakeLLM]]
+- [[03. Permanent Notes/Area/StrOutputParser]]
+- [[03. Permanent Notes/Area/LCEL과 RAG]]
+- [[03. Permanent Notes/Area/한국어 검색 embedding model 벤치마크]]
+- [[03. Permanent Notes/Area/HuggingFace에서 받은 embedding 모델 저장하기]]
+- [[03. Permanent Notes/Area/Query Translation]]
+- [[03. Permanent Notes/Area/with_structured_output과 프롬프트 관계]]
 - 
 ## 하위 Resource 문서
 

@@ -17,10 +17,10 @@ title: Retriever
 
 ### Retriever
 
-- [[Retriever란 무엇인가]]
-- [[Sparse Retriever VS Dense Retriever]]
-- [[MultiQueryRetriever]]
-- [[ParentDocumentRetriever]]
-- [[SelfQueryRetriever]]
-- [[TimeWeightedVectorStoreRetriever]]
-- [[LongContextReorder|긴 문맥 정렬기]]
+- [[03. Permanent Notes/Area/Retriever란 무엇인가]]
+- [[03. Permanent Notes/Area/Sparse Retriever VS Dense Retriever]]
+- [[03. Permanent Notes/Area/MultiQueryRetriever]]
+- [[03. Permanent Notes/Area/ParentDocumentRetriever]]
+- [[03. Permanent Notes/Area/SelfQueryRetriever]]
+- [[03. Permanent Notes/Area/TimeWeightedVectorStoreRetriever]]
+- [[03. Permanent Notes/Area/LongContextReorder|긴 문맥 정렬기]]

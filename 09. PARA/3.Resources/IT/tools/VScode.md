@@ -18,26 +18,26 @@ title: vscode
 ### Github
 
 #### Github Pull Requests
-- [[VScode Github Pull Requests Plugin 소개]]
-- [[Vscode Github PR Plugin Issue 생성 방법]]
-- [[VSCode Github PR Plugin Issue 기반 브랜치 전략 개발]]
+- [[03. Permanent Notes/Area/VScode Github Pull Requests Plugin 소개]]
+- [[03. Permanent Notes/Area/Vscode Github PR Plugin Issue 생성 방법]]
+- [[03. Permanent Notes/Area/VSCode Github PR Plugin Issue 기반 브랜치 전략 개발]]
 
 ### Python
 
 #### Ruff
-- [[Ruff란]]
-- [[VSCode에 Ruff 환경 세팅]]
-- [[Ruff 특정 모듈 linter 체크에서 제외하기]]
+- [[03. Permanent Notes/Area/Ruff란]]
+- [[03. Permanent Notes/Area/VSCode에 Ruff 환경 세팅]]
+- [[03. Permanent Notes/Area/Ruff 특정 모듈 linter 체크에서 제외하기]]
 
 #### PyLance
 
-- [[VSCode package index depth 설정하기]]
+- [[03. Permanent Notes/Area/VSCode package index depth 설정하기]]
 
 ### Java
 
-- [[vscode java 패키지 import 제대로 안되는 경우 해결방법]]
--  [[java vscode format 세팅]]
-- [[java-vscode-setting-json]]
+- [[03. Permanent Notes/Area/vscode java 패키지 import 제대로 안되는 경우 해결방법]]
+-  [[03. Permanent Notes/Area/java vscode format 세팅]]
+- [[03. Permanent Notes/Area/java-vscode-setting-json]]
 
 ### CSharp
 

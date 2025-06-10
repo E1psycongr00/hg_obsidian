@@ -295,5 +295,5 @@ public class LazyPrototypeManager {
 ## 관련 노트
 - [[06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 얕은 복사 구현|⌨️ Java 프로토타입 패턴 - 얕은 복사 구현]]
 - [[06. Code Notes/Area/Java/⌨️ Java 프로토타입 패턴 - 깊은 복사 구현|⌨️ Java 프로토타입 패턴 - 깊은 복사 구현]]
-- [[03. Permanent Notes/📝 프로토타입 패턴의 구조와 참여자|📝 프로토타입 패턴의 구조와 참여자]]
+- [[03. Permanent Notes/Area/📝 프로토타입 패턴의 구조와 참여자|📝 프로토타입 패턴의 구조와 참여자]]
 - [[02. MOC/🏛️ 프로토타입 패턴|🏛️ 프로토타입 패턴]] 

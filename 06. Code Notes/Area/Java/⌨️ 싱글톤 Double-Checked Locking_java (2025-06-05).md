@@ -815,7 +815,7 @@ JDBC URL: jdbc:postgresql://localhost:5432/mydb
 ## 관련 노트
 
 - [[🏛️ 싱글톤 패턴]] - 전체 싱글톤 패턴 MOC
-- [[싱글톤 패턴 Thread-Safety]] - Thread-Safety 이슈 심화 분석
+- [[03. Permanent Notes/Area/싱글톤 패턴 Thread-Safety]] - Thread-Safety 이슈 심화 분석
 - [[⌨️ 싱글톤 Bill Pugh Solution_java]] - 더 간단한 대안
 - [[⌨️ 싱글톤 Enum 방식_java]] - 가장 안전한 대안
 

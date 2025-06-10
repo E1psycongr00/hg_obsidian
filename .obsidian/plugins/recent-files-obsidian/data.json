@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "WebServlet 어노테이션",
+      "path": "03. Permanent Notes/Area/WebServlet 어노테이션.md"
+    },
+    {
+      "basename": "Thread 분류 기준",
+      "path": "03. Permanent Notes/Area/Thread 분류 기준.md"
+    },
+    {
+      "basename": "OpenAI 프롬프팅 엔지니어링 기법",
+      "path": "03. Permanent Notes/Area/OpenAI 프롬프팅 엔지니어링 기법.md"
+    },
+    {
+      "basename": "LongContextReorder",
+      "path": "03. Permanent Notes/Area/LongContextReorder.md"
+    },
+    {
+      "basename": "JOOQ로 테스트시 DDL",
+      "path": "03. Permanent Notes/Area/JOOQ로 테스트시 DDL.md"
+    },
+    {
+      "basename": "Finite State Machine",
+      "path": "03. Permanent Notes/Area/Finite State Machine.md"
+    },
+    {
+      "basename": "포인팅 벡터",
+      "path": "03. Permanent Notes/Area/포인팅 벡터.md"
+    },
+    {
+      "basename": "제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다",
+      "path": "03. Permanent Notes/Area/제텔카스텐은 하향식이 아닌 상향식을 기본으로 한다.md"
+    },
+    {
+      "basename": "자기 이력 곡선",
+      "path": "03. Permanent Notes/Area/자기 이력 곡선.md"
+    },
+    {
+      "basename": "유전체",
+      "path": "03. Permanent Notes/Area/유전체.md"
+    },
+    {
+      "basename": "암페어-턴",
+      "path": "03. Permanent Notes/Area/암페어-턴.md"
+    },
+    {
+      "basename": "속도 특성 곡선",
+      "path": "03. Permanent Notes/Area/속도 특성 곡선.md"
+    },
+    {
+      "basename": "변압기 전압 변동률",
+      "path": "03. Permanent Notes/Area/변압기 전압 변동률.md"
+    },
+    {
+      "basename": "돌림힘",
+      "path": "03. Permanent Notes/Area/돌림힘.md"
+    },
+    {
+      "basename": "경계 다루기",
+      "path": "03. Permanent Notes/Area/경계 다루기.md"
+    },
+    {
+      "basename": "%Z법",
+      "path": "03. Permanent Notes/Area/%Z법.md"
+    },
+    {
+      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
+      "path": "03. Permanent Notes/Area/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
+    },
+    {
       "basename": "AI Knowledge Structuring Strategy",
       "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
     },
@@ -14,11 +82,7 @@
     },
     {
       "basename": "톰슨 효과",
-      "path": "03. Permanent Notes/Archive/톰슨 효과.md"
-    },
-    {
-      "basename": "톰슨 효과",
-      "path": "03. Permanent Notes/톰슨 효과.md"
+      "path": "03. Permanent Notes/Area/톰슨 효과.md"
     },
     {
       "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
@@ -35,70 +99,6 @@
     {
       "basename": "🔬원형 고리 전계 구하기",
       "path": "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md"
-    },
-    {
-      "basename": "🔬분극과 전속 밀도 관계 증명",
-      "path": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md"
-    },
-    {
-      "basename": "🔬원형 고리 자계 구하기",
-      "path": "07. Solution Notes/Area/🔬원형 고리 자계 구하기.md"
-    },
-    {
-      "basename": "🔬15년 회로이론 70번 문제 풀이 by 테브난",
-      "path": "07. Solution Notes/Area/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
-    },
-    {
-      "basename": "🔬15년 회로이론 70번 문제 풀리 by 노튼",
-      "path": "07. Solution Notes/Area/🔬15년 회로이론 70번 문제 풀리 by 노튼.md"
-    },
-    {
-      "basename": "🔬 Spring BeanFactory를 통한 객체 생성 자동화",
-      "path": "07. Solution Notes/Area/🔬 Spring BeanFactory를 통한 객체 생성 자동화.md"
-    },
-    {
-      "basename": "🔬 JDK 17에서 JDK 21로 마이그레이션 가이드",
-      "path": "07. Solution Notes/Area/🔬 JDK 17에서 JDK 21로 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "🔬 JDK 11에서 JDK 17로 마이그레이션 가이드",
-      "path": "07. Solution Notes/Area/🔬 JDK 11에서 JDK 17로 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "🔬 JDK 8에서 JDK 11로 마이그레이션 가이드",
-      "path": "07. Solution Notes/Area/🔬 JDK 8에서 JDK 11로 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "🔬 Java Collections 팩토리 메서드 성능 최적화",
-      "path": "07. Solution Notes/Area/🔬 Java Collections 팩토리 메서드 성능 최적화.md"
-    },
-    {
-      "basename": "🔬 환경별 로깅 시스템 동적 설정",
-      "path": "07. Solution Notes/Area/🔬 환경별 로깅 시스템 동적 설정.md"
-    },
-    {
-      "basename": "🔬 파일 처리 시스템 확장성 개선",
-      "path": "07. Solution Notes/Area/🔬 파일 처리 시스템 확장성 개선.md"
-    },
-    {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
-    },
-    {
-      "basename": "MOC 템플릿",
-      "path": "templaters/MOC 템플릿.md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "Code 템플릿",
-      "path": "templaters/Code 템플릿.md"
-    },
-    {
-      "basename": "AI Note-Type Writing Guide",
-      "path": "AI_Rules/AI Note-Type Writing Guide.md"
     }
   ],
   "omittedPaths": [],

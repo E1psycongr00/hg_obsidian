@@ -15,5 +15,5 @@ title: flyway
 
 ## Flyway
 
-- [[Flyway 소개]]
+- [[03. Permanent Notes/Area/Flyway 소개]]
 - [[Flyway 사용하기 with Gradle]]

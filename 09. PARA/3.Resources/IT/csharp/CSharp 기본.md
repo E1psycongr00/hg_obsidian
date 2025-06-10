@@ -16,7 +16,7 @@ title: CSharp 기본
 
 ### CSharp
 
-- [[CSharp의 Null 다루기]]
-- [[CSharp 반복기]]
-- [[CSharp 프로퍼티]]
+- [[03. Permanent Notes/Area/CSharp의 Null 다루기]]
+- [[03. Permanent Notes/Area/CSharp 반복기]]
+- [[03. Permanent Notes/Area/CSharp 프로퍼티]]
 - 

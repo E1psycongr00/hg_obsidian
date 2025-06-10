@@ -18,5 +18,5 @@ title: langgraph
 
 ## LangGraph
 
-- [[LangGraph의 Graph 구성 요소]]
+- [[03. Permanent Notes/Area/LangGraph의 Graph 구성 요소]]
 - 
