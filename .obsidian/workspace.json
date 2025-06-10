@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06f216d25ca76441",
+        "id": "1647c7ad764c2ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "0a196484403ccd3b",
+            "id": "21ed25a3f91856ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "단권 변압기",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -302,18 +301,19 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "0a196484403ccd3b",
+  "active": "21ed25a3f91856ab",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
+    "Excalidraw/단권 변압기 (draw).md",
+    "04. Practice Notes/📝 단권 변압기 기본 개념.md",
     "02. MOC/🏛️ 단권 변압기.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "04. Practice Notes/📝 단권 변압기 변연장 3각 결선.md",
     "04. Practice Notes/📝 단권 변압기 델타결선.md",
     "04. Practice Notes/📝 단권 변압기 V결선.md",
     "04. Practice Notes/📝 단권 변압기 Y결선.md",
-    "04. Practice Notes/📝 단권 변압기 기본 개념.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기기사 필기.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
     "02. MOC/🏛️ 제어 공학.md",
     "02. MOC/🏛️ 프로토타입 패턴.md",
@@ -329,7 +329,6 @@
     "06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 깊은 복사 구현.md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 얕은 복사 구현.md",
-    "06. Code Notes/Area/Python/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md",
     "00. Daily",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
