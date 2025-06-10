@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "단권 변압기",
-      "path": "03. Permanent Notes/Area/단권 변압기.md"
+      "basename": "📝 단권 변압기 Y결선",
+      "path": "04. Practice Notes/📝 단권 변압기 Y결선.md"
+    },
+    {
+      "basename": "🏛️ 단권 변압기",
+      "path": "02. MOC/🏛️ 단권 변압기.md"
     },
     {
       "basename": "📝 단권 변압기 기본 개념",
       "path": "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md"
     },
     {
-      "basename": "🏛️ 단권 변압기",
-      "path": "02. MOC/🏛️ 단권 변압기.md"
+      "basename": "단권 변압기",
+      "path": "03. Permanent Notes/Area/단권 변압기.md"
     },
     {
       "basename": "Solution 템플릿",
@@ -95,10 +99,6 @@
     {
       "basename": "⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10)",
       "path": "06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md"
-    },
-    {
-      "basename": "⌨️ Python 프로토타입 패턴 - 깊은 복사 구현",
-      "path": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 깊은 복사 구현.md"
     }
   ],
   "omittedPaths": [],
