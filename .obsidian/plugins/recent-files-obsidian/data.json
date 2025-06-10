@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 단권 변압기 V결선",
-      "path": "04. Practice Notes/📝 단권 변압기 V결선.md"
-    },
-    {
-      "basename": "📝 단권 변압기 Y결선",
-      "path": "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md"
+      "basename": "📝 단권 변압기 변연장 3각 결선",
+      "path": "04. Practice Notes/📝 단권 변압기 변연장 3각 결선.md"
     },
     {
       "basename": "🏛️ 단권 변압기",
       "path": "02. MOC/🏛️ 단권 변압기.md"
+    },
+    {
+      "basename": "📝 단권 변압기 V결선",
+      "path": "03. Permanent Notes/Area/📝 단권 변압기 V결선.md"
+    },
+    {
+      "basename": "📝 단권 변압기 Y결선",
+      "path": "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md"
     },
     {
       "basename": "📝 단권 변압기 기본 개념",
@@ -95,10 +99,6 @@
     {
       "basename": "🏛️ Typescript Deep Dive",
       "path": "02. MOC/🏛️ Typescript Deep Dive.md"
-    },
-    {
-      "basename": "웹 기초 MOC",
-      "path": "02. MOC/웹 기초 MOC.md"
     }
   ],
   "omittedPaths": [],

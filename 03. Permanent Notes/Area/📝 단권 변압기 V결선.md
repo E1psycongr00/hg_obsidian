@@ -9,10 +9,10 @@ aliases:
 created: 2025-06-10
 title: 📝 단권 변압기 V결선
 note-type: COMMON
-level: "심화"
-completed: false
+level: 심화
+completed: true
 archived: false
-time-to-understand: "10분"
+time-to-understand: 10분
 last-reviewed: 2025-06-10
 ---
 
@@ -26,9 +26,9 @@ V결선은 3상 전력을 공급하는 변압기 3대 중 1대가 고장 났을 
 
 ### 단권 변압기 V 결선 부하용량, 자기 용량
 부하 용량: $\sqrt{ 3 }V_{h}I_{h} = \sqrt{ 3 }V_{l}I_{l}$
-자기 용량: $V_{2}I_{2}$
+자기 용량: $2V_{2}I_{2}$
 $$
-\frac{자기용량}{부하용량} = \frac{V_h - V_l}{V_h} = \frac{I_h - I_l}{I_h}
+\frac{자기용량}{부하용량} = \frac{2}{\sqrt{ 3 }} \cdot\frac{V_h - V_l}{V_h}
 $$
 - $V_h$: 고압측 전압
 - $V_l$: 저압측 전압
