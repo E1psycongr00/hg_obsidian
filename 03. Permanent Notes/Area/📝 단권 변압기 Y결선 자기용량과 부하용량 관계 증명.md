@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - 전기기사
   - 변압기
   - 단권변압기
@@ -9,7 +9,7 @@ created: 2025-06-10
 title: 📝 단권 변압기 Y결선 자기용량과 부하용량 관계 증명
 note-type: COMMON
 level: 전문가
-completed: false
+completed: true
 archived: false
 time-to-understand: 10분
 last-reviewed: 2025-06-10
@@ -57,5 +57,4 @@ $$
 위 그림을 참고하면 $I_{2} = I_{h}$와 같기 때문에 비를 간단하게 표현 가능하다.
 
 $$
-\frac{\text{자기 용량}}{\text{부하 용량}} = \frac{3V_{2}I_{2}}{\sqrt{ 3 }V_{h}I_{h}} = \frac{3 \left( \frac{V_{h} - V_{l}}{\sqrt{ 3 }} \right) \cancel{ I_{h} }}{\sqrt{ 3 }V_{h}\cancel{ I_{h} }} = \frac{V_{h} - V_{l}}{V_{h}}
-$$
+\f$
