@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Knowledge Lifecycle Guide",
+      "path": "AI_Rules/AI Knowledge Lifecycle Guide.md"
+    },
+    {
       "basename": "1선 지락 사고",
       "path": "03. Permanent Notes/1선 지락 사고.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📝 프로토타입 패턴과 다른 생성 패턴 비교",
       "path": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
-    },
-    {
-      "basename": "정재파",
-      "path": "03. Permanent Notes/정재파.md"
     }
   ],
   "omittedPaths": [],
