@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "e704367ed6957f96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 단권 변압기 기본 개념"
+            }
+          },
+          {
             "id": "9a1663293a911476",
             "type": "leaf",
             "state": {
@@ -32,21 +47,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "단권 변압기 Y 결선 (draw)"
-            }
-          },
-          {
-            "id": "0c329b3654b2d0f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/Area/단권 변압기.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "단권 변압기"
             }
           }
         ]
@@ -304,8 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,14 +331,14 @@
   },
   "active": "21ed25a3f91856ab",
   "lastOpenFiles": [
+    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
+    "04. Practice Notes/📝 단권 변압기 Y결선.md",
     "Excalidraw/단권 변압기 Y 결선 (draw).md",
     "03. Permanent Notes/Area/단권 변압기.md",
-    "04. Practice Notes/📝 단권 변압기 Y결선.md",
+    "02. MOC/🏛️ 단권 변압기.md",
     "Excalidraw/단권 변압기 Y 결선 (draw).svg",
     "02. MOC/Home.md",
     "04. Practice Notes/📝 단권 변압기 델타결선.md",
-    "02. MOC/🏛️ 단권 변압기.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
     "templaters/Solution 템플릿.md",
     "templaters/Common 템플릿.md",
     "templaters/commander/MoveFileByFrontMatter.md",
