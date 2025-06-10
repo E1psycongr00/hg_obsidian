@@ -24,15 +24,15 @@ created: ${date}
 title: ${newTitle}
 note-type: CODE
 language: ${selectedLanguage}
-completed: false
+environment: ""
 archive: false
-area-reason:
+last-reviewed:
 ---
 `;
   
   // 파일 이름도 동일하게 변경
   
-  await tp.user.moveFileToTarget(tp, "04. Practice Notes");
+  await tp.user.moveFileToTarget(tp, `06. Code Notes/Area/${selectedLanguage}`);
   await tp.file.rename(newTitle);
 %>
 

@@ -23,6 +23,9 @@ created: ${date}
 title: ${newTitle}
 note-type: REF
 from: ${from}
+uri: ""
+archived: false
+last-reviewed: ${date}
 ---
 `;
   

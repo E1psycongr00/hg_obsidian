@@ -15,8 +15,7 @@ aliases:
 created: ${date}
 title: ${newTitle}
 note-type: MOC
-cssclasses:
-  - dashboard
+cssclasses: das
 ---
 `;
   
