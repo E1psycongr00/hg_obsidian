@@ -317,8 +317,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2d39029a77522e3a",
   "lastOpenFiles": [
+    "01. Guides/System Archiving Guide.md",
+    "05. Reference Notes/Archive",
+    "03. Permanent Notes/Archive",
     "07. Solution Notes/Area/🔬인덕턴스 병렬 접속 등가 인덕턴스 유도.md",
     "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md",
     "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md",
@@ -344,7 +347,6 @@
     "AI_Rules/AI Knowledge Lifecycle Guide.md",
     "03. Permanent Notes/1선 지락 사고.md",
     "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md",
-    "03. Permanent Notes/🔍 추상 팩토리 패턴 안티패턴 및 오용 사례.md",
     "AI_Rules",
     "AI Rule",
     "00. AI Rules/AI Note Type Stredegy",
@@ -363,8 +365,6 @@
     "Excalidraw/전계 (draw).svg",
     "Excalidraw/유도 전압 조정기 (draw).svg",
     "Rules/무제",
-    "templaters/scripts/processFileMovement.js",
-    "templaters/config/conditionConfig.js",
     "무제 1.canvas",
     "무제.canvas",
     "index.canvas",
