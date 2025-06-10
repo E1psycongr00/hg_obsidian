@@ -25,7 +25,7 @@ last-reviewed: 2025-06-10
 Y 결선의 경우 상 기준 분석이 되기 때문에 [[03. Permanent Notes/Area/📝 단권 변압기 기본 개념|단상 단권 변압기]]와 같은 공식이 적용된다.
 
 $$
-\frac{자기용량}{부하용량} = \frac{V_h - V_l}{V_h} = \frac{I_h - I_l}{I_h}
+\frac{자기용량}{부하용량} = \frac{V_h - V_l}{V_h}
 $$
 
 - $V_h$: 고압측 전압
