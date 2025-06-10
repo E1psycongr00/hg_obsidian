@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
+    },
+    {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
       "basename": "Note Guides",
       "path": "01. Guides/Note Guides.md"
+    },
+    {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
     },
     {
       "basename": "AI Note-Type Writing Guide",
@@ -87,18 +99,6 @@
     {
       "basename": "보호 계전 방식",
       "path": "03. Permanent Notes/보호 계전 방식.md"
-    },
-    {
-      "basename": "나이퀴스트 작도법",
-      "path": "04. Practice Notes/나이퀴스트 작도법.md"
-    },
-    {
-      "basename": "변압기 Y-Y 결선",
-      "path": "04. Practice Notes/변압기 Y-Y 결선.md"
-    },
-    {
-      "basename": "망상식",
-      "path": "04. Practice Notes/망상식.md"
     }
   ],
   "omittedPaths": [],
