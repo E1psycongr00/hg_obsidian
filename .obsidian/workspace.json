@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기사.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기 기사"
+              "title": "🏛️ 전기기사 실기"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기사.md"
+                "file": "02. MOC/🏛️ 전기기사 실기.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기 기사 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기사.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전기 기사 그래프"
+              "title": "🏛️ 전기기사 실기 그래프"
             }
           },
           {
@@ -254,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전기 기사.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전기 기사 의 개요"
+              "title": "🏛️ 전기기사 실기 의 개요"
             }
           },
           {
@@ -304,10 +304,10 @@
   },
   "active": "0a196484403ccd3b",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전기기사 실기.md",
-    "02. MOC/🏛️ 전기기사 필기.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기 기사.md",
+    "02. MOC/🏛️ 전기기사 필기.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
     "02. MOC/🏛️ 제어 공학.md",
     "02. MOC/🏛️ 프로토타입 패턴.md",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 전기기사 실기",
+      "path": "02. MOC/🏛️ 전기기사 실기.md"
+    },
+    {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "🏛️ 전기기사 필기",
+      "path": "02. MOC/🏛️ 전기기사 필기.md"
     },
     {
       "basename": "Home",
@@ -91,14 +99,6 @@
     {
       "basename": "Solution 템플릿",
       "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "Review 템플릿",
-      "path": "templaters/Review 템플릿.md"
-    },
-    {
-      "basename": "Reference 템플릿",
-      "path": "templaters/Reference 템플릿.md"
     }
   ],
   "omittedPaths": [],
