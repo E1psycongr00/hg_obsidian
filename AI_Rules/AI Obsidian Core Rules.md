@@ -50,6 +50,7 @@ title: 🔬 [구체적인 문제 요약]
 note-type: SOLUTION
 problem: "[해결하고자 하는 구체적 문제]"
 solution-status: "진행중" # 진행중/해결됨/보류
+archived: false # 보관 여부
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
 ---
 ```
@@ -64,6 +65,7 @@ created: 2025-06-08 # 예시: 실제 생성일로 변경
 title: 📝 [학습 주제명]
 note-type: COMMON
 completed: false
+archived: false # 보관 여부
 time-to-understand: "5분" # 5분/10분 등
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
 ---
@@ -95,6 +97,7 @@ title: 📚 [자료명]
 note-type: REF
 from: "Web" # Book/Web/Article/Video/Paper 등
 url: ""
+archived: false # 보관 여부
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
 ---
 ```
@@ -110,6 +113,7 @@ title: ⌨️ [코드 목적/기능 요약]
 note-type: CODE
 language: "" # 주 프로그래밍 언어 (예: python, javascript)
 environment: "" # 개발 환경/플랫폼
+archived: false # 보관 여부
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
 ---
 ```
@@ -173,7 +177,13 @@ MOC는 지식 구조화의 중심 역할을 하며, 다음 5가지 핵심 원칙
 4. **유연성과 확장성을 유지합니다**: MOC는 고정된 틀이 아니며, 언제든 수정, 추가, 분할이 가능해야 합니다.
 5. **참조와 연결을 적극 활용합니다**: 관련된 상세 노트나 외부 자료를 링크로 적극 연결하여 허브 역할을 수행합니다.
 
-## 6. 마크다운 스타일 가이드
+## 6. 노트 아카이빙 규칙
+
+더 이상 적극적으로 편집하거나 참고하지 않는 특정 유형의 노트(`COMMON`, `REF`, `CODE`, `SOLUTION`)는 `archived: true` 메타데이터를 설정하여 보관(아카이브)할 수 있습니다. 아카이브된 노트는 지정된 `Archive` 폴더로 이동되어 작업 공간을 효율적으로 관리할 수 있게 돕습니다.
+
+자세한 절차와 규칙은 `[[01. Guides/🗺️ 노트 아카이빙 및 복원 가이드.md]]` 문서를 참조하세요.
+
+## 7. 마크다운 스타일 가이드
 
 ### 가. 글쓰기 기본 원칙
 

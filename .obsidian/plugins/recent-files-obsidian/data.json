@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "Note Guides",
+      "path": "01. Guides/Note Guides.md"
+    },
+    {
       "basename": "WebServlet 어노테이션",
       "path": "03. Permanent Notes/Area/WebServlet 어노테이션.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "🔬인덕턴스 병렬 접속 등가 인덕턴스 유도",
       "path": "07. Solution Notes/Area/🔬인덕턴스 병렬 접속 등가 인덕턴스 유도.md"
-    },
-    {
-      "basename": "🔬유한한 길이의 선전류 자계 구하기",
-      "path": "07. Solution Notes/Area/🔬유한한 길이의 선전류 자계 구하기.md"
-    },
-    {
-      "basename": "🔬원형 고리 전계 구하기",
-      "path": "07. Solution Notes/Area/🔬원형 고리 전계 구하기.md"
     }
   ],
   "omittedPaths": [],
