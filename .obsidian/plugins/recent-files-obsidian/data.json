@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 전자기학",
+      "path": "02. MOC/🏛️ 전자기학.md"
+    },
+    {
+      "basename": "🏛️ 제어 공학",
+      "path": "02. MOC/🏛️ 제어 공학.md"
+    },
+    {
+      "basename": "🏛️ 프로토타입 패턴",
+      "path": "02. MOC/🏛️ 프로토타입 패턴.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "🏛️ AI 프롬프트 모음",
+      "path": "02. MOC/🏛️ AI 프롬프트 모음.md"
+    },
+    {
+      "basename": "🏛️ GoF 디자인 패턴",
+      "path": "02. MOC/🏛️ GoF 디자인 패턴.md"
+    },
+    {
+      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
+      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+    },
+    {
+      "basename": "🏛️ SOLID 원칙",
+      "path": "02. MOC/🏛️ SOLID 원칙.md"
+    },
+    {
+      "basename": "🏛️ Typescript Deep Dive",
+      "path": "02. MOC/🏛️ Typescript Deep Dive.md"
+    },
+    {
+      "basename": "웹 기초 MOC",
+      "path": "02. MOC/웹 기초 MOC.md"
+    },
+    {
       "basename": "MOC 템플릿",
       "path": "templaters/MOC 템플릿.md"
     },
@@ -51,54 +99,6 @@
     {
       "basename": "Reference 템플릿",
       "path": "templaters/Reference 템플릿.md"
-    },
-    {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
-    },
-    {
-      "basename": "AI Note-Type Writing Guide",
-      "path": "AI_Rules/AI Note-Type Writing Guide.md"
-    },
-    {
-      "basename": "단권 변압기 Y결선",
-      "path": "03. Permanent Notes/Area/단권 변압기 Y결선.md"
-    },
-    {
-      "basename": "단권 변압기",
-      "path": "03. Permanent Notes/Area/단권 변압기.md"
-    },
-    {
-      "basename": "단권 변압기 V결선",
-      "path": "03. Permanent Notes/Area/단권 변압기 V결선.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "Obsidian 관련 내용",
-      "path": "09. PARA/3.Resources/Obsidian/Obsidian 관련 내용.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "09. PARA/3.Resources/Obsidian/Obsidian.md"
-    },
-    {
-      "basename": "브리기테",
-      "path": "09. PARA/3.Resources/게임/Overwatch/브리기테.md"
-    },
-    {
-      "basename": "겐지",
-      "path": "09. PARA/3.Resources/게임/Overwatch/겐지.md"
-    },
-    {
-      "basename": "AI Knowledge Structuring Strategy",
-      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
-    },
-    {
-      "basename": "⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08)",
-      "path": "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md"
     }
   ],
   "omittedPaths": [],
