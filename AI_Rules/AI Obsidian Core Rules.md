@@ -51,7 +51,6 @@ note-type: SOLUTION
 problem: "[해결하고자 하는 구체적 문제]"
 solution-status: "진행중" # 진행중/해결됨/보류
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
-knowledge-status: "DRAFT" # DRAFT/REVIEW/EVERGREEN/OUTDATED/ARCHIVED
 ---
 ```
 
@@ -67,7 +66,6 @@ note-type: COMMON
 completed: false
 time-to-understand: "5분" # 5분/10분 등
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
-knowledge-status: "DRAFT" # DRAFT/REVIEW/EVERGREEN/OUTDATED/ARCHIVED
 ---
 ```
 
@@ -98,7 +96,6 @@ note-type: REF
 from: "Web" # Book/Web/Article/Video/Paper 등
 url: ""
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
-knowledge-status: "DRAFT" # DRAFT/REVIEW/EVERGREEN/OUTDATED/ARCHIVED
 ---
 ```
 
@@ -114,7 +111,6 @@ note-type: CODE
 language: "" # 주 프로그래밍 언어 (예: python, javascript)
 environment: "" # 개발 환경/플랫폼
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
-knowledge-status: "DRAFT" # DRAFT/REVIEW/EVERGREEN/OUTDATED/ARCHIVED
 ---
 ```
 
@@ -142,8 +138,6 @@ created: 2025-06-08 # 예시: 실제 생성일로 변경
 title: 🗺️ [가이드 주제]
 note-type: GUIDE
 target-audience: ""
-last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
-knowledge-status: "DRAFT" # DRAFT/REVIEW/EVERGREEN/OUTDATED/ARCHIVED
 ---
 ```
 
