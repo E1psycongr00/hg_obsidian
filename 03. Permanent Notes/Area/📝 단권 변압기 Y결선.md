@@ -9,10 +9,10 @@ aliases:
 created: 2025-06-10
 title: 📝 단권 변압기 Y결선
 note-type: COMMON
-level: "심화"
-completed: false
+level: 심화
+completed: true
 archived: false
-time-to-understand: "10분"
+time-to-understand: 10분
 last-reviewed: 2025-06-10
 ---
 
