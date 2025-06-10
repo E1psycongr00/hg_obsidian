@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "AI Note-Type Writing Guide",
-      "path": "AI_Rules/AI Note-Type Writing Guide.md"
-    },
-    {
       "basename": "AI Obsidian Core Rules",
       "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
+    },
+    {
+      "basename": "Code 템플릿",
+      "path": "templaters/Code 템플릿.md"
+    },
+    {
+      "basename": "Reference 템플릿",
+      "path": "templaters/Reference 템플릿.md"
+    },
+    {
+      "basename": "MOC 템플릿",
+      "path": "templaters/MOC 템플릿.md"
+    },
+    {
+      "basename": "Common 템플릿",
+      "path": "templaters/Common 템플릿.md"
+    },
+    {
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
     },
     {
       "basename": "단권 변압기 Y결선",
@@ -19,10 +39,6 @@
     {
       "basename": "단권 변압기 V결선",
       "path": "03. Permanent Notes/Area/단권 변압기 V결선.md"
-    },
-    {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
     },
     {
       "basename": "Home",
@@ -83,22 +99,6 @@
     {
       "basename": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)",
       "path": "06. Code Notes/Area/Java/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
-    },
-    {
-      "basename": "Note Guides",
-      "path": "01. Guides/Note Guides.md"
-    },
-    {
-      "basename": "WebServlet 어노테이션",
-      "path": "03. Permanent Notes/Area/WebServlet 어노테이션.md"
-    },
-    {
-      "basename": "Thread 분류 기준",
-      "path": "03. Permanent Notes/Area/Thread 분류 기준.md"
-    },
-    {
-      "basename": "OpenAI 프롬프팅 엔지니어링 기법",
-      "path": "03. Permanent Notes/Area/OpenAI 프롬프팅 엔지니어링 기법.md"
     }
   ],
   "omittedPaths": [],

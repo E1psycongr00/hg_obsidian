@@ -15,7 +15,11 @@ aliases:
 created: ${date}
 title: ${newTitle}
 note-type: COMMON
+level: "기초"
 completed: false
+archived: false
+time-to-understand: "5분"
+last-reviewed: ${date}
 ---
 `;
   

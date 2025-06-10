@@ -11,10 +11,36 @@
             "id": "af29a84c0c6d8455",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templaters/Solution 템플릿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Solution 템플릿"
+            }
+          }
+        ]
+      },
+      {
+        "id": "77ea8fb08a1f696c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c33693d189ddc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI_Rules/AI Obsidian Core Rules.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Obsidian Core Rules"
             }
           }
         ]
@@ -81,7 +107,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -94,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md"
+                "file": "AI_Rules/AI Obsidian Core Rules.md"
               },
               "icon": "lucide-info",
-              "title": "AI Note-Type Writing Guide 의 파일 속성"
+              "title": "AI Obsidian Core Rules 의 파일 속성"
             }
           },
           {
@@ -183,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md",
+                "file": "AI_Rules/AI Obsidian Core Rules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -211,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "AI Note-Type Writing Guide 그래프"
+              "title": "AI Obsidian Core Rules 그래프"
             }
           },
           {
@@ -248,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md",
+                "file": "AI_Rules/AI Obsidian Core Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI Note-Type Writing Guide 의 개요"
+              "title": "AI Obsidian Core Rules 의 개요"
             }
           },
           {
@@ -296,14 +323,18 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "021db5a64478cc2e",
+  "active": "89c33693d189ddc3",
   "lastOpenFiles": [
+    "templaters/Solution 템플릿.md",
     "AI_Rules/AI Obsidian Core Rules.md",
+    "templaters/Code 템플릿.md",
+    "templaters/Reference 템플릿.md",
+    "templaters/MOC 템플릿.md",
+    "templaters/Common 템플릿.md",
     "AI_Rules/AI Note-Type Writing Guide.md",
     "03. Permanent Notes/Area/단권 변압기 Y결선.md",
     "03. Permanent Notes/Area/단권 변압기.md",
     "03. Permanent Notes/Area/단권 변압기 V결선.md",
-    "templaters/Common 템플릿.md",
     "09. PARA/2.Area/Area란.md",
     "00. Daily",
     "02. MOC/Home.md",
@@ -321,10 +352,6 @@
     "09. PARA/1.Projects/Projects란.md",
     "09. PARA/1.Projects/유튜브 댓글 분석 기반 챗봇.md",
     "09. PARA/1.Projects/이력서 관리/새 이력서.md",
-    "06. Code Notes/Area/Python/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md",
-    "06. Code Notes/Area/Python/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md",
-    "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현.md",
-    "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
     "05. Reference Notes/Archive",
