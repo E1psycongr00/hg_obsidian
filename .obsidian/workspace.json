@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
-                "mode": "source",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 단권 변압기 변연장 3각 결선"
-            }
-          },
-          {
-            "id": "04c7665ea091df26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명"
+              "title": "🏛️ 전기기사 실기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명.md"
+                "file": "02. MOC/🏛️ 전기기사 실기.md"
               },
               "icon": "lucide-info",
-              "title": "📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 의 파일 속성"
             }
           },
           {
@@ -205,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -228,12 +212,12 @@
                   "repelStrength": 13.9583333333333,
                   "linkStrength": 1,
                   "linkDistance": 194,
-                  "scale": 0.7132754626224538,
+                  "scale": 1.0000000000000169,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명 그래프"
+              "title": "🏛️ 전기기사 실기 그래프"
             }
           },
           {
@@ -270,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명 의 개요"
+              "title": "🏛️ 전기기사 실기 의 개요"
             }
           },
           {
@@ -319,12 +303,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "04c7665ea091df26",
+  "active": "21ed25a3f91856ab",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
-    "04. Practice Notes/📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명.md",
     "02. MOC/🏛️ 단권 변압기.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
     "03. Permanent Notes/Area/📝 단권 변압기 델타 결선 자기용량 부하용량 관계 증명.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명.md",
     "03. Permanent Notes/Area/📝 단권 변압기 델타결선.md",
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선 자기용량과 부하용량 관계 증명.md",
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
@@ -334,7 +320,6 @@
     "Excalidraw/단권 변압기 변연장 3각 결선 (draw).svg",
     "02. MOC/Home.md",
     "Excalidraw/단권 변압기 델타 결선 (draw).md",
-    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
     "Excalidraw/단권 변압기 V 결선 (draw).md",
     "Excalidraw/단권 변압기 Y 결선 (draw).md",
     "Excalidraw/단권 변압기 델타 결선 (draw).svg",
@@ -344,7 +329,6 @@
     "templaters/Common 템플릿.md",
     "templaters/commander/MoveFileByFrontMatter.md",
     "Excalidraw/단권 변압기 (draw).md",
-    "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기기사 필기.md",
     "02. MOC/🏛️ 전자기학.md",
