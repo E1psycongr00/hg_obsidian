@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2025-06-10 21.29.25.excalidraw",
+      "path": "Excalidraw/Drawing 2025-06-10 21.29.25.excalidraw.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "📝 단권 변압기 Y결선",
       "path": "04. Practice Notes/📝 단권 변압기 Y결선.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "MoveFileByFrontMatter",
       "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "단권 변압기 (draw)",
@@ -95,10 +99,6 @@
     {
       "basename": "AI Obsidian Core Rules",
       "path": "AI_Rules/AI Obsidian Core Rules.md"
-    },
-    {
-      "basename": "⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10)",
-      "path": "06. Code Notes/Area/Python/⌨️ 추상 팩토리 패턴 Python 구현_python (2025-01-10).md"
     }
   ],
   "omittedPaths": [],

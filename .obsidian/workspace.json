@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "9a1663293a911476",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-10 21.29.25.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-10 21.29.25.excalidraw"
+            }
+          },
+          {
             "id": "0c329b3654b2d0f1",
             "type": "leaf",
             "state": {
@@ -37,7 +49,8 @@
               "title": "단권 변압기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,10 +127,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 Y결선.md"
+                "file": "02. MOC/Home.md"
               },
               "icon": "lucide-info",
-              "title": "📝 단권 변압기 Y결선 의 파일 속성"
+              "title": "Home 의 파일 속성"
             }
           },
           {
@@ -203,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 Y결선.md",
+                "file": "02. MOC/Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -231,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 단권 변압기 Y결선 그래프"
+              "title": "Home 그래프"
             }
           },
           {
@@ -268,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 단권 변압기 Y결선.md",
+                "file": "02. MOC/Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 단권 변압기 Y결선 의 개요"
+              "title": "Home 의 개요"
             }
           },
           {
@@ -317,10 +330,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "21ed25a3f91856ab",
+  "active": "9a1663293a911476",
   "lastOpenFiles": [
-    "04. Practice Notes/📝 단권 변압기 델타결선.md",
+    "Excalidraw/Drawing 2025-06-10 21.29.25.excalidraw.md",
     "04. Practice Notes/📝 단권 변압기 Y결선.md",
+    "04. Practice Notes/📝 단권 변압기 델타결선.md",
     "02. MOC/🏛️ 단권 변압기.md",
     "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
     "03. Permanent Notes/Area/단권 변압기.md",
@@ -344,7 +358,6 @@
     "02. MOC/🏛️ SOLID 원칙.md",
     "02. MOC/🏛️ Typescript Deep Dive.md",
     "02. MOC/웹 기초 MOC.md",
-    "templaters/MOC 템플릿.md",
     "00. Daily",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
