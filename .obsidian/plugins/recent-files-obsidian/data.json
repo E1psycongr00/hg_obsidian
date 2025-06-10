@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "단권 변압기 Y결선",
+      "path": "03. Permanent Notes/Area/단권 변압기 Y결선.md"
+    },
+    {
+      "basename": "단권 변압기",
+      "path": "03. Permanent Notes/Area/단권 변압기.md"
+    },
+    {
+      "basename": "단권 변압기 V결선",
+      "path": "03. Permanent Notes/Area/단권 변압기 V결선.md"
+    },
+    {
       "basename": "Common 템플릿",
       "path": "templaters/Common 템플릿.md"
     },
@@ -87,14 +99,6 @@
     {
       "basename": "LongContextReorder",
       "path": "03. Permanent Notes/Area/LongContextReorder.md"
-    },
-    {
-      "basename": "JOOQ로 테스트시 DDL",
-      "path": "03. Permanent Notes/Area/JOOQ로 테스트시 DDL.md"
-    },
-    {
-      "basename": "Finite State Machine",
-      "path": "03. Permanent Notes/Area/Finite State Machine.md"
     }
   ],
   "omittedPaths": [],

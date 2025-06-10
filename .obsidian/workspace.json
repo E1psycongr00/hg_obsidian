@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templaters/Common 템플릿.md",
+                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Common 템플릿"
+              "title": "단권 변압기 Y결선"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "톰슨 효과",
+                "query": "단권 변압기",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,8 +86,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -100,10 +99,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "templaters/Common 템플릿.md"
+                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md"
               },
               "icon": "lucide-info",
-              "title": "Common 템플릿 의 파일 속성"
+              "title": "단권 변압기 Y결선 의 파일 속성"
             }
           },
           {
@@ -189,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "templaters/Common 템플릿.md",
+                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Common 템플릿 그래프"
+              "title": "단권 변압기 Y결선 그래프"
             }
           },
           {
@@ -254,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templaters/Common 템플릿.md",
+                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Common 템플릿 의 개요"
+              "title": "단권 변압기 Y결선 의 개요"
             }
           },
           {
@@ -304,6 +303,9 @@
   },
   "active": "b64c4d36a2a5b783",
   "lastOpenFiles": [
+    "03. Permanent Notes/Area/단권 변압기.md",
+    "03. Permanent Notes/Area/단권 변압기 V결선.md",
+    "templaters/Common 템플릿.md",
     "09. PARA/2.Area/Area란.md",
     "00. Daily",
     "02. MOC/Home.md",
@@ -328,9 +330,6 @@
     "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md",
     "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05).md",
     "06. Code Notes/Area/Java/⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05).md",
-    "06. Code Notes/Area/Java/⌨️ 빌더 패턴 구현 예제_Java (2025-06-09).md",
-    "06. Code Notes/Area/Java/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
-    "06. Code Notes/Area/Java/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
     "05. Reference Notes/Archive",
