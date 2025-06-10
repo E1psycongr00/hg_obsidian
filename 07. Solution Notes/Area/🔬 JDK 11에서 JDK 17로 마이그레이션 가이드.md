@@ -222,7 +222,7 @@ public String stringConcatenation() {
 ### 관련 자료
 - [[03. Permanent Notes/JDK 11 주요 특징 및 패치 분석]] - 마이그레이션 출발점 분석
 - [[03. Permanent Notes/JDK 17 주요 특징 및 패치 분석]] - 마이그레이션 목표 버전 분석
-- [[05. Reference Notes/Web/📚 Oracle JDK 17 공식 문서]] - 공식 마이그레이션 가이드
+- [[05. Reference Notes/Area/Web/📚 Oracle JDK 17 공식 문서]] - 공식 마이그레이션 가이드
 
 > [!tip] 마이그레이션 팁
 > JDK 11에서 JDK 17로의 마이그레이션은 상대적으로 안전하므로, 새로운 기능들을 적극적으로 활용하여 코드 품질과 개발 생산성을 향상시키는 것에 집중하는 것이 좋다. 특히 Records와 sealed 클래스는 기존 코드의 안전성과 가독성을 크게 개선할 수 있다. 

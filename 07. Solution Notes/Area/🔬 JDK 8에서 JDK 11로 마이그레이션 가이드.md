@@ -188,7 +188,7 @@ public void testPerformance() {
 ### 관련 자료
 - [[03. Permanent Notes/JDK 8 주요 특징 및 패치 분석]] - 마이그레이션 출발점 분석
 - [[03. Permanent Notes/JDK 11 주요 특징 및 패치 분석]] - 마이그레이션 목표 버전 분석
-- [[05. Reference Notes/Web/📚 Oracle JDK 11 공식 문서]] - 공식 마이그레이션 가이드
+- [[05. Reference Notes/Area/Web/📚 Oracle JDK 11 공식 문서]] - 공식 마이그레이션 가이드
 
 > [!warning] 주의사항
 > 프로덕션 환경 마이그레이션 전에 반드시 스테이징 환경에서 충분한 테스트를 진행하고, 롤백 계획을 수립해야 한다. 특히 JAXB 관련 코드가 많은 경우 의존성 추가 후에도 런타임 오류가 발생할 수 있으므로 주의가 필요하다. 

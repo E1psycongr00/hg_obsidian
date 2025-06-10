@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "AI Knowledge Structuring Strategy",
+      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
+      "basename": "System Archiving Guide",
+      "path": "01. Guides/System Archiving Guide.md"
+    },
+    {
+      "basename": "톰슨 효과",
+      "path": "03. Permanent Notes/Archive/톰슨 효과.md"
+    },
+    {
+      "basename": "톰슨 효과",
+      "path": "03. Permanent Notes/톰슨 효과.md"
+    },
+    {
       "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
       "path": "07. Solution Notes/Area/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
     },
@@ -79,26 +99,6 @@
     {
       "basename": "AI Note-Type Writing Guide",
       "path": "AI_Rules/AI Note-Type Writing Guide.md"
-    },
-    {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
-    },
-    {
-      "basename": "AI Knowledge Structuring Strategy",
-      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
-    },
-    {
-      "basename": "1선 지락 사고",
-      "path": "03. Permanent Notes/1선 지락 사고.md"
-    },
-    {
-      "basename": "🔍 혼자서하는 틱택토v1 리뷰",
-      "path": "03. Permanent Notes/🔍 혼자서하는 틱택토v1 리뷰.md"
-    },
-    {
-      "basename": "🔍 추상 팩토리 패턴 안티패턴 및 오용 사례",
-      "path": "03. Permanent Notes/🔍 추상 팩토리 패턴 안티패턴 및 오용 사례.md"
     }
   ],
   "omittedPaths": [],

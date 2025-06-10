@@ -14,5 +14,5 @@ cssclasses:
 
 ### 학습
 
-- [[05. Reference Notes/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive)]]
+- [[05. Reference Notes/Area/Web/📚 왜 타입스크립트인가 (Typescript Deep Dive)]]
 - 
