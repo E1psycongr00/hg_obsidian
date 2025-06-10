@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "02. MOC/🏛️ 단권 변압기.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "🏛️ 단권 변압기"
+            }
+          },
+          {
+            "id": "b06fd19ceb1a37f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 단권 변압기 Y결선"
+            }
+          },
+          {
+            "id": "94eebf30f0de9d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "04. Practice Notes/📝 단권 변압기 V결선.md",
                 "mode": "source",
                 "source": false,
@@ -48,20 +78,9 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-06-10 21.50.09.excalidraw"
             }
-          },
-          {
-            "id": "bfeab1dd627b1767",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/단권 변압기 V 결선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "단권 변압기 V 결선 (draw)"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -341,17 +360,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "21ed25a3f91856ab",
+  "active": "94eebf30f0de9d06",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
-    "04. Practice Notes/📝 단권 변압기 V결선.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
     "02. MOC/🏛️ 단권 변압기.md",
+    "04. Practice Notes/📝 단권 변압기 V결선.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
+    "Excalidraw/Drawing 2025-06-10 21.50.09.excalidraw.md",
     "Excalidraw/단권 변압기 V 결선 (draw).md",
     "02. MOC/Home.md",
     "Excalidraw/단권 변압기 Y 결선 (draw).md",
-    "Excalidraw/Drawing 2025-06-10 21.50.09.excalidraw.md",
     "Excalidraw/Drawing 2025-06-10 21.50.09.excalidraw.svg",
-    "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
     "03. Permanent Notes/Area/단권 변압기.md",
     "Excalidraw/단권 변압기 Y 결선 (draw).svg",
     "04. Practice Notes/📝 단권 변압기 델타결선.md",
