@@ -64,6 +64,7 @@ aliases:
 created: 2025-06-08 # 예시: 실제 생성일로 변경
 title: 📝 [학습 주제명]
 note-type: COMMON
+level: "기초" # 기초/심화/전문가
 completed: false
 archived: false # 보관 여부
 time-to-understand: "5분" # 5분/10분 등

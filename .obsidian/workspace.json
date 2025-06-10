@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md",
+                "file": "AI_Rules/AI Note-Type Writing Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "단권 변압기 Y결선"
+              "title": "AI Note-Type Writing Guide"
             }
           }
         ]
@@ -86,7 +86,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7fbbd6c7ae27996e",
@@ -99,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md"
+                "file": "AI_Rules/AI Note-Type Writing Guide.md"
               },
               "icon": "lucide-info",
-              "title": "단권 변압기 Y결선 의 파일 속성"
+              "title": "AI Note-Type Writing Guide 의 파일 속성"
             }
           },
           {
@@ -188,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md",
+                "file": "AI_Rules/AI Note-Type Writing Guide.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -216,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "단권 변압기 Y결선 그래프"
+              "title": "AI Note-Type Writing Guide 그래프"
             }
           },
           {
@@ -253,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/Area/단권 변압기 Y결선.md",
+                "file": "AI_Rules/AI Note-Type Writing Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "단권 변압기 Y결선 의 개요"
+              "title": "AI Note-Type Writing Guide 의 개요"
             }
           },
           {
@@ -303,6 +304,9 @@
   },
   "active": "b64c4d36a2a5b783",
   "lastOpenFiles": [
+    "AI_Rules/AI Obsidian Core Rules.md",
+    "AI_Rules/AI Note-Type Writing Guide.md",
+    "03. Permanent Notes/Area/단권 변압기 Y결선.md",
     "03. Permanent Notes/Area/단권 변압기.md",
     "03. Permanent Notes/Area/단권 변압기 V결선.md",
     "templaters/Common 템플릿.md",
@@ -319,7 +323,6 @@
     "09. PARA/3.Resources/게임/Overwatch/브리기테.md",
     "09. PARA/3.Resources/게임/Overwatch/겐지.md",
     "AI_Rules/AI Knowledge Structuring Strategy.md",
-    "AI_Rules/AI Note-Type Writing Guide.md",
     "09. PARA/1.Projects/정적 블로그 사이트 프로젝트.md",
     "09. PARA/1.Projects/Projects란.md",
     "09. PARA/1.Projects/유튜브 댓글 분석 기반 챗봇.md",
@@ -328,8 +331,6 @@
     "06. Code Notes/Area/Python/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md",
     "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현.md",
     "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md",
-    "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05).md",
-    "06. Code Notes/Area/Java/⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05).md",
     "05. Reference Notes/Area",
     "03. Permanent Notes/Area",
     "05. Reference Notes/Archive",
