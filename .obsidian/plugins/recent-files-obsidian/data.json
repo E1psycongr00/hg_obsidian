@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "전자기학",
-      "path": "09. PARA/3.Resources/전기기사/전자기학.md"
+      "basename": "제텔카스텐",
+      "path": "09. PARA/3.Resources/Obsidian/제텔카스텐.md"
     },
     {
-      "basename": "회로 and 제어",
-      "path": "09. PARA/3.Resources/전기기사/회로 and 제어.md"
+      "basename": "Obsidian 관련 내용",
+      "path": "09. PARA/3.Resources/Obsidian/Obsidian 관련 내용.md"
     },
     {
-      "basename": "전력공학 and 전기기기",
-      "path": "09. PARA/3.Resources/전기기사/전력공학 and 전기기기.md"
+      "basename": "Obsidian",
+      "path": "09. PARA/3.Resources/Obsidian/Obsidian.md"
     },
     {
       "basename": "브리기테",
@@ -95,10 +95,6 @@
     {
       "basename": "Finite State Machine",
       "path": "03. Permanent Notes/Area/Finite State Machine.md"
-    },
-    {
-      "basename": "포인팅 벡터",
-      "path": "03. Permanent Notes/Area/포인팅 벡터.md"
     }
   ],
   "omittedPaths": [],
