@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "⌨️ 최대 출력 슬립 구하기_py (2025-04-09)",
+      "path": "06. Code Notes/Area/Python/⌨️ 최대 출력 슬립 구하기_py (2025-04-09).md"
+    },
+    {
+      "basename": "⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23)",
+      "path": "06. Code Notes/Area/Python/⌨️ 유도성 부하 평활화 코드(colab)_py (2025-04-23).md"
+    },
+    {
+      "basename": "⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현",
+      "path": "06. Code Notes/Area/Python/⌨️ Python 프로토타입 패턴 - 프로토타입 관리자 구현.md"
+    },
+    {
+      "basename": "⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08)",
+      "path": "06. Code Notes/Area/Java/⌨️ 추상 팩토리 패턴 Java 구현_java (2025-06-08).md"
+    },
+    {
+      "basename": "⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05)",
+      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Double-Checked Locking_java (2025-06-05).md"
+    },
+    {
+      "basename": "⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05)",
+      "path": "06. Code Notes/Area/Java/⌨️ 싱글톤 Bill Pugh Solution_java (2025-06-05).md"
+    },
+    {
+      "basename": "⌨️ 빌더 패턴 구현 예제_Java (2025-06-09)",
+      "path": "06. Code Notes/Area/Java/⌨️ 빌더 패턴 구현 예제_Java (2025-06-09).md"
+    },
+    {
+      "basename": "⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15)",
+      "path": "06. Code Notes/Area/Java/⌨️ 객체 설계의 비효율 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+    },
+    {
+      "basename": "⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15)",
+      "path": "06. Code Notes/Area/Java/⌨️ 객체 설계 효율 적인 코드 (오브젝트 - 조용호)_java (2025-04-15).md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -63,42 +99,6 @@
     {
       "basename": "돌림힘",
       "path": "03. Permanent Notes/Area/돌림힘.md"
-    },
-    {
-      "basename": "경계 다루기",
-      "path": "03. Permanent Notes/Area/경계 다루기.md"
-    },
-    {
-      "basename": "%Z법",
-      "path": "03. Permanent Notes/Area/%Z법.md"
-    },
-    {
-      "basename": "(javadoc task error) unmappable character (0xEB) for encoding x-windows-949",
-      "path": "03. Permanent Notes/Area/(javadoc task error) unmappable character (0xEB) for encoding x-windows-949.md"
-    },
-    {
-      "basename": "AI Knowledge Structuring Strategy",
-      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
-    },
-    {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
-    },
-    {
-      "basename": "System Archiving Guide",
-      "path": "01. Guides/System Archiving Guide.md"
-    },
-    {
-      "basename": "톰슨 효과",
-      "path": "03. Permanent Notes/Area/톰슨 효과.md"
-    },
-    {
-      "basename": "🔬토크 곡선과 부하 토크 곡선 해석 방법",
-      "path": "07. Solution Notes/Area/🔬토크 곡선과 부하 토크 곡선 해석 방법.md"
-    },
-    {
-      "basename": "🔬인덕턴스 병렬 접속 등가 인덕턴스 유도",
-      "path": "07. Solution Notes/Area/🔬인덕턴스 병렬 접속 등가 인덕턴스 유도.md"
     }
   ],
   "omittedPaths": [],
