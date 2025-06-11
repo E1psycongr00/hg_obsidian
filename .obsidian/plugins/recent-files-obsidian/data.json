@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 단권 변압기",
       "path": "02. MOC/🏛️ 단권 변압기.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "단권 변압기 변연장 3각 결선 (draw)",
       "path": "Excalidraw/단권 변압기 변연장 3각 결선 (draw).md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "단권 변압기 델타 결선 (draw)",
