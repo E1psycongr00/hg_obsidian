@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "🏛️ 단권 변압기",
       "path": "02. MOC/🏛️ 단권 변압기.md"
+    },
+    {
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기기사 실기",
@@ -79,10 +83,6 @@
     {
       "basename": "단권 변압기 (draw)",
       "path": "Excalidraw/단권 변압기 (draw).md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
       "basename": "🏛️ 전기기사 필기",
