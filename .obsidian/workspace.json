@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 단권 변압기 V결선.md"
+                "file": "02. MOC/🏛️ 단권 변압기.md"
               },
               "icon": "lucide-info",
-              "title": "📝 단권 변압기 V결선 의 파일 속성"
+              "title": "🏛️ 단권 변압기 의 파일 속성"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
+                "file": "02. MOC/🏛️ 단권 변압기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 단권 변압기 V결선 그래프"
+              "title": "🏛️ 단권 변압기 그래프"
             }
           },
           {
@@ -313,10 +313,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "0740373bcc859c39",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
     "02. MOC/🏛️ 단권 변압기.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 델타결선.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
+    "03. Permanent Notes/Area/📝 단권 변압기 Y결선.md",
     "03. Permanent Notes/Area/📝 단권 변압기 기본 개념.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
@@ -326,9 +329,6 @@
     "03. Permanent Notes/Area/📝 단권 변압기 델타 결선 자기용량 부하용량 관계 증명.md",
     "03. Permanent Notes/Area/📝 단권 변압기 V결선 부하용량 자기용량 관계 증명.md",
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선 자기용량과 부하용량 관계 증명.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 델타결선.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
     "Excalidraw/단권 변압기 변연장 3각 결선 (draw).md",
     "Excalidraw/단권 변압기 변연장 3각 결선 (draw).svg",
     "Excalidraw/단권 변압기 델타 결선 (draw).md",
