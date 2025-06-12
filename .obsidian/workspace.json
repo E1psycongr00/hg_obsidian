@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전원공급장치 MOC.md",
-                "mode": "preview",
+                "file": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전원공급장치 MOC"
+              "title": "📝 UPS 개요 및 기본 구성"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전원공급장치 MOC.md"
+                "file": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전원공급장치 MOC 의 파일 속성"
+              "title": "📝 UPS 개요 및 기본 구성 의 파일 속성"
             }
           },
           {
@@ -325,9 +325,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전원공급장치 MOC.md",
     "04. Practice Notes/📝 UPS 개요 및 기본 구성.md",
     "04. Practice Notes/📝 UPS의 필요성.md",
-    "02. MOC/🏛️ 전원공급장치 MOC.md",
     "04. Practice Notes/📝 UPS란 왜 필요한가.md",
     "04. Practice Notes/📝 UPS의 기본 구성 (블록 다이어그램).md",
     "04. Practice Notes/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
