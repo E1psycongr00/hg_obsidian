@@ -286,13 +286,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 단권 변압기.md",
+                "file": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 단권 변압기 의 개요"
+              "title": "📝 UPS 개요 및 기본 구성 의 개요"
             }
           },
           {
@@ -305,8 +305,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
