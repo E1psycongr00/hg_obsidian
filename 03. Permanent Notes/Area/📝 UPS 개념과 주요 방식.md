@@ -1,13 +1,18 @@
 ---
-tags: [전기기사, UPS, 기초]
-aliases: [UPS 개념, 무정전 전원 공급장치]
+tags:
+  - 전기기사
+  - UPS
+  - 기초
+aliases:
+  - UPS 개념
+  - 무정전 전원 공급장치
 created: 2024-06-12
 title: 📝 UPS 개념과 주요 방식
 note-type: COMMON
-level: "기초"
-completed: false
+level: 기초
+completed: true
 archived: false
-time-to-understand: "5분"
+time-to-understand: 5분
 last-reviewed: 2024-06-12
 ---
 
@@ -45,4 +50,4 @@ UPS는 동작 방식에 따라 크게 세 가지로 분류된다:
 
 ### 더 자세한 내용
 
-온라인 이중 변환 방식의 상세한 동작 원리와 블록 다이어그램에 대해서는 [[04. Practice Notes/📝 UPS 온라인 이중 변환 방식 동작 원리.md|UPS 온라인 이중 변환 방식 동작 원리]] 문서를 참고하자.
+온라인 이중 변환 방식의 상세한 동작 원리와 블록 다이어그램에 대해서는 [[03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리|UPS 온라인 이중 변환 방식 동작 원리]] 문서를 참고하자.

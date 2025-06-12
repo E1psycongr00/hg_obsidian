@@ -13,25 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
-                "mode": "preview",
+                "file": "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 UPS 온라인 이중 변환 방식 동작 원리"
-            }
-          },
-          {
-            "id": "182a3dd5f69bd340",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/무정전 전원공급 다이어그램 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "무정전 전원공급 다이어그램 (draw)"
+              "title": "📝 축전지 용량(Ah)의 개념과 계산"
             }
           }
         ]
@@ -112,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 UPS 온라인 이중 변환 방식 동작 원리.md"
+                "file": "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md"
               },
               "icon": "lucide-info",
-              "title": "📝 UPS 온라인 이중 변환 방식 동작 원리 의 파일 속성"
+              "title": "📝 축전지 용량(Ah)의 개념과 계산 의 파일 속성"
             }
           },
           {
@@ -286,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
+                "file": "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 UPS 온라인 이중 변환 방식 동작 원리 의 개요"
+              "title": "📝 축전지 용량(Ah)의 개념과 계산 의 개요"
             }
           },
           {
@@ -336,21 +324,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "04. Practice Notes/📝 UPS 개요 및 기본 구성.md",
-    "04. Practice Notes/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
-    "Excalidraw/무정전 전원공급 다이어그램 (draw).md",
-    "Excalidraw/무정전 전원공급 다이어그램 (draw).svg",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전원공급장치 MOC.md",
-    "04. Practice Notes/📝 전원공급장치란.md",
+    "Excalidraw/무정전 전원공급 다이어그램 (draw).md",
+    "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
+    "03. Permanent Notes/Area/📝 UPS 개념과 주요 방식.md",
+    "02. MOC/🏛️ 전기 기사.md",
+    "02. MOC/Home.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
+    "03. Permanent Notes/Area/📝 전원공급장치란.md",
+    "Excalidraw/무정전 전원공급 다이어그램 (draw).svg",
     "04. Practice Notes/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
     "04. Practice Notes/📝 축전지 충전 방식 (부동충전, 균등충전).md",
     "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md",
     "04. Practice Notes/📝 UPS의 필요성.md",
     "04. Practice Notes/📝 UPS란 왜 필요한가.md",
     "04. Practice Notes/📝 UPS의 기본 구성 (블록 다이어그램).md",
-    "02. MOC/🏛️ 전기기사 실기.md",
-    "02. MOC/🏛️ 전기 기사.md",
     "07. Solution Notes/Area/🔬 Spring BeanFactory를 통한 객체 생성 자동화.md",
     "02. MOC/🏛️ 단권 변압기.md",
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선 자기용량과 부하용량 관계 증명.md",
