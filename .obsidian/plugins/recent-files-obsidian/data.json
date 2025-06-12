@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 UPS 온라인 이중 변환 방식 동작 원리",
+      "path": "04. Practice Notes/📝 UPS 온라인 이중 변환 방식 동작 원리.md"
+    },
+    {
       "basename": "📝 UPS 개요 및 기본 구성",
       "path": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "단권 변압기 Y 결선 (draw)",
       "path": "Excalidraw/단권 변압기 Y 결선 (draw).md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
     }
   ],
   "omittedPaths": [],
