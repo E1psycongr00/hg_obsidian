@@ -1,13 +1,18 @@
 ---
-tags: [전기기사, 축전지, 기초, 용량]
-aliases: [축전지 용량 계산]
+tags:
+  - 전기기사
+  - 축전지
+  - 기초
+  - 용량
+aliases:
+  - 축전지 용량 계산
 created: 2024-06-12
 title: 📝 축전지 용량(Ah)의 개념과 계산
 note-type: COMMON
-level: "기초"
-completed: false
+level: 기초
+completed: true
 archived: false
-time-to-understand: "5분"
+time-to-understand: 5분
 last-reviewed: 2024-06-12
 ---
 
