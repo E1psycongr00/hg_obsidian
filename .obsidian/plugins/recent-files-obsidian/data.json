@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 UPS 개요 및 기본 구성",
-      "path": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md"
-    },
-    {
       "basename": "🏛️ 전원공급장치 MOC",
       "path": "02. MOC/🏛️ 전원공급장치 MOC.md"
+    },
+    {
+      "basename": "📝 전원공급장치란",
+      "path": "04. Practice Notes/📝 전원공급장치란.md"
+    },
+    {
+      "basename": "📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지)",
+      "path": "04. Practice Notes/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md"
+    },
+    {
+      "basename": "📝 축전지 충전 방식 (부동충전, 균등충전)",
+      "path": "04. Practice Notes/📝 축전지 충전 방식 (부동충전, 균등충전).md"
+    },
+    {
+      "basename": "📝 축전지 용량(Ah)의 개념과 계산",
+      "path": "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md"
+    },
+    {
+      "basename": "📝 UPS 개요 및 기본 구성",
+      "path": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md"
     },
     {
       "basename": "🏛️ 전기기사 실기",
@@ -83,18 +99,6 @@
     {
       "basename": "Common 템플릿",
       "path": "templaters/Common 템플릿.md"
-    },
-    {
-      "basename": "MoveFileByFrontMatter",
-      "path": "templaters/commander/MoveFileByFrontMatter.md"
-    },
-    {
-      "basename": "단권 변압기 (draw)",
-      "path": "Excalidraw/단권 변압기 (draw).md"
-    },
-    {
-      "basename": "🏛️ 전기기사 필기",
-      "path": "02. MOC/🏛️ 전기기사 필기.md"
     }
   ],
   "omittedPaths": [],
