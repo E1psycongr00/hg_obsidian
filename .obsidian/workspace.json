@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
+                "file": "02. MOC/🏛️ 전원공급장치 MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지)"
+              "title": "🏛️ 전원공급장치 MOC"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md"
+                "file": "02. MOC/🏛️ 전원공급장치 MOC.md"
               },
               "icon": "lucide-info",
-              "title": "📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지) 의 파일 속성"
+              "title": "🏛️ 전원공급장치 MOC 의 파일 속성"
             }
           },
           {
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
+                "file": "02. MOC/🏛️ 전원공급장치 MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지) 의 개요"
+              "title": "🏛️ 전원공급장치 MOC 의 개요"
             }
           },
           {
@@ -325,12 +325,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
     "02. MOC/🏛️ 전원공급장치 MOC.md",
+    "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
     "04. Practice Notes/📝 축전지 충전 방식 (부동충전, 균등충전).md",
     "03. Permanent Notes/Area/📝 축전지 용량(Ah)의 개념과 계산.md",
-    "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
     "Excalidraw/무정전 전원공급 다이어그램 (draw).md",
-    "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
     "03. Permanent Notes/Area/📝 UPS 개념과 주요 방식.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/Home.md",
