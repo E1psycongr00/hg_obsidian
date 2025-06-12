@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 UPS 개요 및 기본 구성",
+      "path": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md"
+    },
+    {
+      "basename": "무정전 전원공급 다이어그램 (draw)",
+      "path": "Excalidraw/무정전 전원공급 다이어그램 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전원공급장치 MOC",
       "path": "02. MOC/🏛️ 전원공급장치 MOC.md"
     },
@@ -21,20 +33,12 @@
       "path": "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md"
     },
     {
-      "basename": "📝 UPS 개요 및 기본 구성",
-      "path": "04. Practice Notes/📝 UPS 개요 및 기본 구성.md"
-    },
-    {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 단권 변압기",
@@ -95,10 +99,6 @@
     {
       "basename": "Solution 템플릿",
       "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "Common 템플릿",
-      "path": "templaters/Common 템플릿.md"
     }
   ],
   "omittedPaths": [],
