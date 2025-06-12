@@ -14,6 +14,7 @@ scope: "전원공급장치의 기본 개념과 UPS, 축전지의 핵심 내용�
 - [[04. Practice Notes/📝 전원공급장치란.md|전원공급장치란?]]
 
 ### 무정전 전원 공급장치 (UPS)
+- [[04. Practice Notes/📝 UPS의 필요성.md|UPS의 필요성]]
 - [[04. Practice Notes/📝 UPS 개요 및 기본 구성.md|UPS 개요 및 기본 구성]]
 
 ### 축전지
