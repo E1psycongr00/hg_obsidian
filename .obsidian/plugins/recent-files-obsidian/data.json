@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 축전지 용량(Ah)의 개념과 계산",
-      "path": "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md"
+      "basename": "📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지)",
+      "path": "04. Practice Notes/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md"
     },
     {
       "basename": "🏛️ 전원공급장치 MOC",
       "path": "02. MOC/🏛️ 전원공급장치 MOC.md"
+    },
+    {
+      "basename": "📝 축전지 용량(Ah)의 개념과 계산",
+      "path": "04. Practice Notes/📝 축전지 용량(Ah)의 개념과 계산.md"
     },
     {
       "basename": "무정전 전원공급 다이어그램 (draw)",
@@ -35,10 +39,6 @@
     {
       "basename": "📝 전원공급장치란",
       "path": "03. Permanent Notes/Area/📝 전원공급장치란.md"
-    },
-    {
-      "basename": "📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지)",
-      "path": "04. Practice Notes/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md"
     },
     {
       "basename": "📝 축전지 충전 방식 (부동충전, 균등충전)",
