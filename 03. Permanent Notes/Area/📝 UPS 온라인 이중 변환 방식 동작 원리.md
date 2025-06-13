@@ -7,14 +7,14 @@ tags:
 aliases:
   - UPS 블록 다이어그램
   - 온라인 UPS 동작원리
-created: 2024-06-12
+created: 2025-06-12
 title: 📝 UPS 온라인 이중 변환 방식 동작 원리
 note-type: COMMON
 level: 심화
 completed: true
 archived: false
 time-to-understand: 10분
-last-reviewed: 2024-06-12
+last-reviewed: 2025-06-12
 ---
 
 ### 온라인 이중 변환 방식이란?

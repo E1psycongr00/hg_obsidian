@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "📝 부동충전 방식 상세"
             }
-          },
-          {
-            "id": "61317709d95e55a1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/부동 충전방식 개략도 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "부동 충전방식 개략도 (draw)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/부동 충전방식 개략도 (draw).md"
+                "file": "04. Practice Notes/📝 부동충전 방식 상세.md"
               },
               "icon": "lucide-info",
-              "title": "부동 충전방식 개략도 (draw) 의 파일 속성"
+              "title": "📝 부동충전 방식 상세 의 파일 속성"
             }
           },
           {
@@ -336,25 +323,25 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "61317709d95e55a1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/부동 충전방식 개략도 (draw).svg",
-    "02. MOC/Home.md",
+    "02. MOC/🏛️ 전원공급장치.md",
     "Excalidraw/부동 충전방식 개략도 (draw).md",
-    "04. Practice Notes/📝 부동충전 방식 상세.md",
+    "03. Permanent Notes/Area/📝 UPS 개념과 주요 방식.md",
+    "03. Permanent Notes/Area/📝 전원공급장치란.md",
     "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
     "04. Practice Notes/📝 축전지 충전 방식 개요.md",
-    "02. MOC/🏛️ 전원공급장치.md",
+    "04. Practice Notes/📝 부동충전 방식 상세.md",
+    "Excalidraw/부동 충전방식 개략도 (draw).svg",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기기사 필기.md",
     "무제 5.md",
-    "03. Permanent Notes/Area/📝 UPS 개념과 주요 방식.md",
     "04. Practice Notes/📝 축전지 충전 방식 (부동충전, 균등충전).md",
     "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
     "03. Permanent Notes/Area/📝 축전지 용량(Ah)의 개념과 계산.md",
     "Excalidraw/무정전 전원공급 다이어그램 (draw).md",
     "02. MOC/🏛️ 전기 기사.md",
-    "03. Permanent Notes/Area/📝 전원공급장치란.md",
     "Excalidraw/무정전 전원공급 다이어그램 (draw).svg",
     "04. Practice Notes/📝 UPS의 필요성.md",
     "04. Practice Notes/📝 UPS란 왜 필요한가.md",
@@ -383,7 +370,6 @@
     "attachments/screenshot/Pasted image 20250528082734.png",
     "Excalidraw/원형 코일 자계 (draw).svg",
     "Excalidraw/유한한 길이 자계 (draw).svg",
-    "Excalidraw/공극 (draw).svg",
     "무제 1.canvas",
     "무제.canvas",
     "index.canvas",

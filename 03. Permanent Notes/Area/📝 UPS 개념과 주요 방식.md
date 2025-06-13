@@ -6,14 +6,14 @@ tags:
 aliases:
   - UPS 개념
   - 무정전 전원 공급장치
-created: 2024-06-12
+created: 2025-06-12
 title: 📝 UPS 개념과 주요 방식
 note-type: COMMON
 level: 기초
 completed: true
 archived: false
 time-to-understand: 5분
-last-reviewed: 2024-06-12
+last-reviewed: 2025-06-13
 ---
 
 ### UPS란?
