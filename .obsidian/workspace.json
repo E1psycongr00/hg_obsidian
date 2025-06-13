@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝 축전지 현상 및 고장.md",
+                "file": "03. Permanent Notes/Area/📝 축전지 현상 및 고장.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 축전지 현상 및 고장.md"
+                "file": "03. Permanent Notes/Area/📝 축전지 현상 및 고장.md"
               },
               "icon": "lucide-info",
               "title": "📝 축전지 현상 및 고장 의 파일 속성"
@@ -341,7 +341,8 @@
   },
   "active": "9d57691ad8093ecf",
   "lastOpenFiles": [
-    "04. Practice Notes/📝 축전지 현상 및 고장.md",
+    "03. Permanent Notes/Area/📝 설페이션 현상.md",
+    "03. Permanent Notes/Area/📝 축전지 현상 및 고장.md",
     "02. MOC/🏛️ 전원공급장치.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "03. Permanent Notes/Area/📝 부동충전 방식 상세.md",
@@ -368,7 +369,6 @@
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선 자기용량과 부하용량 관계 증명.md",
     "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
     "03. Permanent Notes/Area/📝 단권 변압기 델타결선.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
     "Excalidraw/단권 변압기 변연장 3각 결선 (draw).svg",
     "Excalidraw/단권 변압기 델타 결선 (draw).svg",
     "Excalidraw/단권 변압기 Y 결선 (draw).svg",
