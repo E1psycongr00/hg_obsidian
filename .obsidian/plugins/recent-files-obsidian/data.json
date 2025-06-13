@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 5",
+      "path": "무제 5.md"
+    },
+    {
       "basename": "🏛️ 전원공급장치",
       "path": "02. MOC/🏛️ 전원공급장치.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "단권 변압기 V 결선 (draw)",
       "path": "Excalidraw/단권 변압기 V 결선 (draw).md"
-    },
-    {
-      "basename": "단권 변압기 Y 결선 (draw)",
-      "path": "Excalidraw/단권 변압기 Y 결선 (draw).md"
     }
   ],
   "omittedPaths": [],
