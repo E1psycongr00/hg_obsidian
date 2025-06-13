@@ -1386,8 +1386,7 @@ var _LocalParser = class extends Parser {
   }
   getImage(doc, url) {
     return __async(this, null, function* () {
-      const baseEl = doc.querySelector("base[href]");
-      const base = baseEl && baseEl.href || url.href;
+      const base = url.href;
       const failedUrls = new Set();
       this.debugLog("[Link Embed] Image - Looking for image for:", url.href);
       this.debugLog("[Link Embed] Image - Base URL:", base);
@@ -1452,8 +1451,7 @@ var _LocalParser = class extends Parser {
     return "";
   }
   getFavicon(doc, url) {
-    const baseEl = doc.querySelector("base[href]");
-    const base = baseEl && baseEl.href || url.href;
+    const base = url.href;
     this.debugLog("[Link Embed] Favicon - Looking for favicon for:", url.href);
     this.debugLog("[Link Embed] Favicon - Base URL:", base);
     const faviconLink = doc.querySelector('link[rel="icon"], link[rel="shortcut icon"]');

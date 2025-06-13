@@ -313,20 +313,6 @@
   "mcp": {
     "servers": [
       {
-        "id": "memory",
-        "parameters": {
-          "command": "npx",
-          "args": [
-            "-y",
-            "@itseasy21/mcp-knowledge-graph",
-            "--memory-path",
-            "C:\\ai_memory\\obsidian.json"
-          ]
-        },
-        "enabled": false,
-        "toolOptions": {}
-      },
-      {
         "id": "server-sequential-thinking",
         "parameters": {
           "command": "npx",
@@ -346,6 +332,20 @@
             "allowAutoExecution": true
           }
         }
+      },
+      {
+        "id": "memory",
+        "parameters": {
+          "command": "cmd",
+          "args": [
+            "/c",
+            "npx",
+            "-y",
+            "@modelcontextprotocol/server-memory"
+          ]
+        },
+        "toolOptions": {},
+        "enabled": true
       }
     ]
   },
