@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md",
+                "file": "02. MOC/🏛️ 전원공급장치.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 축전지 충전 방식 개요"
+              "title": "🏛️ 전원공급장치"
             }
           }
         ]
@@ -100,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md"
+                "file": "02. MOC/🏛️ 전원공급장치.md"
               },
               "icon": "lucide-info",
-              "title": "📝 축전지 충전 방식 개요 의 파일 속성"
+              "title": "🏛️ 전원공급장치 의 파일 속성"
             }
           },
           {
@@ -325,14 +325,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02. MOC/🏛️ 전원공급장치.md",
     "03. Permanent Notes/Area/📝 부동충전 방식 상세.md",
+    "02. MOC/🏛️ 전원공급장치.md",
+    "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md",
     "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
     "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
     "Excalidraw/부동 충전방식 개략도 (draw).md",
     "03. Permanent Notes/Area/📝 UPS 개념과 주요 방식.md",
     "03. Permanent Notes/Area/📝 전원공급장치란.md",
-    "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md",
     "Excalidraw/부동 충전방식 개략도 (draw).svg",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전기기사 실기.md",
