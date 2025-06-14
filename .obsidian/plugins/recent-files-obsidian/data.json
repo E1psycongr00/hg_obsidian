@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 전압강하 정밀 계산법",
+      "path": "03. Permanent Notes/Area/📝 전압강하 정밀 계산법.md"
+    },
+    {
       "basename": "🏛️ 옥내배선설계",
       "path": "02. MOC/🏛️ 옥내배선설계.md"
+    },
+    {
+      "basename": "📝 전기 방식별 전압강하 계산 기초",
+      "path": "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기기사 실기",
@@ -11,10 +23,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 변압기",
@@ -91,14 +99,6 @@
     {
       "basename": "📝 축전지 현상 및 고장",
       "path": "03. Permanent Notes/Area/📝 축전지 현상 및 고장.md"
-    },
-    {
-      "basename": "📝 설페이션 현상",
-      "path": "03. Permanent Notes/Area/📝 설페이션 현상.md"
-    },
-    {
-      "basename": "📝 부동충전 방식 상세",
-      "path": "03. Permanent Notes/Area/📝 부동충전 방식 상세.md"
     }
   ],
   "omittedPaths": [],
