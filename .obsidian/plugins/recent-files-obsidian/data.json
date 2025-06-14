@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "📝 UPS 온라인 이중 변환 방식 동작 원리",
       "path": "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기기사 필기",
