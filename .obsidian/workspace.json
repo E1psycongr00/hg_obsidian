@@ -28,43 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f3da7f700af74048",
+    "id": "781769eab0d48076",
     "type": "split",
     "children": [
       {
-        "id": "d9f00a06d3554543",
+        "id": "f90f7fb50eca4683",
         "type": "tabs",
-        "dimension": 56.770310932798395,
         "children": [
           {
-            "id": "021db5a64478cc2e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "단권 변압기 V ",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "검색"
-            }
-          },
-          {
-            "id": "cbe64a85e78c869e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "북마크"
-            }
-          },
-          {
-            "id": "2d39029a77522e3a",
+            "id": "e172747f41579191",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,43 +49,85 @@
             }
           },
           {
-            "id": "d4d5b1da2fa85337",
+            "id": "5a4ecabe6f4a6fb3",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "7fbbd6c7ae27996e",
-        "type": "tabs",
-        "dimension": 43.229689067201605,
-        "children": [
-          {
-            "id": "62d96583bb3c34ce",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
+              "type": "search",
               "state": {
-                "file": "02. MOC/Home.md"
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               },
-              "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
-            "id": "c4c24c7255fda044",
+            "id": "7ba529457dd53898",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ed9ed8699c974be",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e9e30d7ecba782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa91a7f8be35b60c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "d6d446e766b84721",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "8b4e97c3fd4ad414",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -122,7 +136,7 @@
             }
           },
           {
-            "id": "5e306fa3df851206",
+            "id": "33800574e0a592e7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -134,134 +148,23 @@
               "icon": "lucide-archive",
               "title": "모든 속성"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 354.5
-  },
-  "right": {
-    "id": "bf1db9e62cf4fa4d",
-    "type": "split",
-    "children": [
-      {
-        "id": "1838285c49809bd3",
-        "type": "tabs",
-        "dimension": 43.84615384615385,
-        "children": [
+          },
           {
-            "id": "fbb43720530e7e29",
+            "id": "41297a751c63d11a",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "연습노트/Raft.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Raft의 백링크"
+              "icon": "lucide-list",
+              "title": "개요"
             }
           },
           {
-            "id": "2abf04359b647b45",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "무제 파일 2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "무제 파일 2의 나가는 링크"
-            }
-          },
-          {
-            "id": "c824f374a77799a5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "02. MOC/Home.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "-file: draw",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.4,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.619791666666667,
-                  "repelStrength": 13.9583333333333,
-                  "linkStrength": 1,
-                  "linkDistance": 194,
-                  "scale": 0.713275462622454,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Home 그래프"
-            }
-          },
-          {
-            "id": "da686ca83a9dd244",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "e2ed9fcb17b1ee3f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "89da67d7c7048bfa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "e6fcdbde26f3015e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "6d34f93cec55cad2",
+            "id": "bec09b0b8cd58dd5",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -271,125 +174,36 @@
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "92582217f19033e7",
-        "type": "tabs",
-        "dimension": 56.15384615384615,
-        "children": [
-          {
-            "id": "1aaa38f27764a613",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02. MOC/🏛️ 전원공급장치 MOC.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "🏛️ 전원공급장치 MOC 의 개요"
-            }
-          },
-          {
-            "id": "05945c099298a576",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "random-note:무작위 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "random-note:무작위 노트 열기": false,
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "3d-graph:3D Graph": false,
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
       "smart-composer:Open smart composer": false
     }
   },
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "04. Practice Notes/권선형 유도 전동기.md",
-    "02. MOC/Home.md",
-    "02. MOC/🏛️ 변압기.md",
-    "03. Permanent Notes/Area/📝 변압기 절연.md",
-    "03. Permanent Notes/Area/📝 변압기 보호 장치.md",
-    "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md",
-    "03. Permanent Notes/Area/📝 변압기 냉각 방식.md",
-    "02. MOC/🏛️ 전기 기기.md",
-    "03. Permanent Notes/Area/단락법.md",
-    "03. Permanent Notes/Area/열풍법.md",
-    "03. Permanent Notes/Area/📝 변압기 호흡작용.md",
-    "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
-    "02. MOC/🏛️ 전기기사 실기.md",
-    "03. Permanent Notes/Area/📝 몰드 변압기.md",
-    "03. Permanent Notes/Area/📝 변압기 효율.md",
-    "03. Permanent Notes/Area/📝 변압기 결선.md",
-    "attachments/screenshot/Pasted image 20250614153807.png",
-    "02. MOC/🏛️ 단권 변압기.md",
-    "02. MOC/🏛️ 전기 기사.md",
-    "06. Code Notes/Area/전기기사/수변전 설비 심볼 및 약어.md",
-    "06. Code Notes/Area/전기기사",
-    "02. MOC/🏛️ 제어 공학.md",
-    "02. MOC/🏛️ 전원공급장치.md",
-    "02. MOC/🏛️ 전력 공학.md",
-    "02. MOC/🏛️ 전자기학.md",
-    "02. MOC/🏛️ 소프트웨어 개발 원칙.md",
-    "02. MOC/🏛️ 싱글톤 패턴.md",
-    "03. Permanent Notes/Area/📝 축전지 현상 및 고장.md",
-    "Excalidraw/부동 충전방식 개략도 (draw).svg",
-    "Excalidraw/무정전 전원공급 다이어그램 (draw).svg",
-    "Excalidraw/단권 변압기 변연장 3각 결선 (draw).svg",
-    "Excalidraw/단권 변압기 델타 결선 (draw).svg",
-    "Excalidraw/단권 변압기 Y 결선 (draw).svg",
-    "00. Daily",
-    "05. Reference Notes/Area",
-    "03. Permanent Notes/Area",
-    "05. Reference Notes/Archive",
-    "03. Permanent Notes/Archive",
-    "AI_Rules",
-    "AI Rule",
-    "00. AI Rules/AI Note Type Stredegy",
-    "00. AI Rules/_backup",
-    "attachments/screenshot/Pasted image 20250605100503.png",
-    "Excalidraw/Drawing 2025-06-05 10.03.47.excalidraw.svg",
-    "attachments/screenshot/Pasted image 20250528082734.png",
-    "Excalidraw/원형 코일 자계 (draw).svg",
-    "무제 1.canvas",
-    "무제.canvas",
-    "index.canvas",
-    "3.Resources/IT/운영체제/OS.canvas",
-    "연습노트/직류기.canvas",
-    "명언 모음.canvas",
-    "Resources/IT/운영체제/네트워크 IO Models.canvas",
-    "Resources/IT/운영체제/동기화 모음.canvas",
-    "Resources/명언/명언 모음.canvas",
-    "Java 공부.canvas"
-  ]
+  "lastOpenFiles": []
 }
