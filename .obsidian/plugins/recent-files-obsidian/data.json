@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 변압기",
       "path": "02. MOC/🏛️ 변압기.md"
     },
     {
-      "basename": "변압기 보호 장치",
-      "path": "03. Permanent Notes/Area/변압기 보호 장치.md"
+      "basename": "📝 변압기 절연",
+      "path": "03. Permanent Notes/Area/📝 변압기 절연.md"
     },
     {
-      "basename": "변압기 절연",
-      "path": "03. Permanent Notes/Area/변압기 절연.md"
+      "basename": "📝 변압기 보호 장치",
+      "path": "03. Permanent Notes/Area/📝 변압기 보호 장치.md"
+    },
+    {
+      "basename": "📝 아몰퍼스 변압기",
+      "path": "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md"
     },
     {
       "basename": "📝 변압기 냉각 방식",
@@ -19,10 +27,6 @@
     {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
-    },
-    {
-      "basename": "📝 아몰퍼스 변압기",
-      "path": "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md"
     },
     {
       "basename": "📝 변압기 호흡작용",
@@ -51,10 +55,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 단권 변압기",
