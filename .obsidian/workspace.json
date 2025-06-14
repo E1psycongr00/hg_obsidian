@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 변압기.md",
+                "file": "04. Practice Notes/📝 아몰퍼스 변압기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 변압기"
-            }
-          },
-          {
-            "id": "8fb3f3cb4b405f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 결선.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "📝 변압기 결선"
+              "title": "📝 아몰퍼스 변압기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +100,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 결선.md"
+                "file": "04. Practice Notes/📝 아몰퍼스 변압기.md"
               },
               "icon": "lucide-info",
-              "title": "📝 변압기 결선 의 파일 속성"
+              "title": "📝 아몰퍼스 변압기 의 파일 속성"
             }
           },
           {
@@ -339,13 +323,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "8fb3f3cb4b405f13",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 변압기.md",
-    "03. Permanent Notes/Area/📝 변압기 결선.md",
-    "04. Practice Notes/📝 몰드 변압기.md",
-    "attachments/screenshot/Pasted image 20250614153807.png",
+    "03. Permanent Notes/Area/📝 몰드 변압기.md",
     "03. Permanent Notes/Area/📝 변압기 효율.md",
+    "03. Permanent Notes/Area/📝 변압기 결선.md",
+    "attachments/screenshot/Pasted image 20250614153807.png",
     "04. Practice Notes/📝 아몰퍼스 변압기.md",
     "02. MOC/🏛️ 단권 변압기.md",
     "02. MOC/🏛️ 전기기사 실기.md",
