@@ -23,7 +23,37 @@
             }
           },
           {
-            "id": "bcac432560d13128",
+            "id": "891afd5f05f0f3b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/Area/변압기 절연.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "변압기 절연"
+            }
+          },
+          {
+            "id": "3bf6a3a435593a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/Area/변압기 보호 장치.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "변압기 보호 장치"
+            }
+          },
+          {
+            "id": "f42d68bb5187762d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +67,7 @@
               "title": "📝 아몰퍼스 변압기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,10 +145,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md"
+                "file": "02. MOC/🏛️ 변압기.md"
               },
               "icon": "lucide-info",
-              "title": "📝 아몰퍼스 변압기 의 파일 속성"
+              "title": "🏛️ 변압기 의 파일 속성"
             }
           },
           {
@@ -205,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기.md",
+                "file": "02. MOC/🏛️ 변압기.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file: draw",
@@ -233,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전기기사 실기 그래프"
+              "title": "🏛️ 변압기 그래프"
             }
           },
           {
@@ -277,7 +306,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "92582217f19033e7",
@@ -339,11 +368,18 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "bcac432560d13128",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
-    "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md",
+    "03. Permanent Notes/Area/변압기 보호 장치.md",
+    "03. Permanent Notes/Area/변압기 절연.md",
     "02. MOC/🏛️ 변압기.md",
+    "03. Permanent Notes/Area/📝 변압기 냉각 방식.md",
+    "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/Area/단락법.md",
+    "03. Permanent Notes/Area/열풍법.md",
+    "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md",
+    "03. Permanent Notes/Area/📝 변압기 호흡작용.md",
+    "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "03. Permanent Notes/Area/📝 몰드 변압기.md",
     "03. Permanent Notes/Area/📝 변압기 효율.md",
@@ -362,13 +398,6 @@
     "02. MOC/🏛️ 싱글톤 패턴.md",
     "03. Permanent Notes/Area/📝 축전지 현상 및 고장.md",
     "03. Permanent Notes/Area/📝 설페이션 현상.md",
-    "03. Permanent Notes/Area/📝 부동충전 방식 상세.md",
-    "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md",
-    "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
-    "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md",
-    "Excalidraw/부동 충전방식 개략도 (draw).md",
-    "03. Permanent Notes/Area/📝 UPS 개념과 주요 방식.md",
-    "03. Permanent Notes/Area/📝 전원공급장치란.md",
     "Excalidraw/부동 충전방식 개략도 (draw).svg",
     "Excalidraw/무정전 전원공급 다이어그램 (draw).svg",
     "Excalidraw/단권 변압기 변연장 3각 결선 (draw).svg",

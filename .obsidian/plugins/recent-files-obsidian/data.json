@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 변압기",
+      "path": "02. MOC/🏛️ 변압기.md"
+    },
+    {
+      "basename": "변압기 보호 장치",
+      "path": "03. Permanent Notes/Area/변압기 보호 장치.md"
+    },
+    {
+      "basename": "변압기 절연",
+      "path": "03. Permanent Notes/Area/변압기 절연.md"
+    },
+    {
+      "basename": "📝 변압기 냉각 방식",
+      "path": "03. Permanent Notes/Area/📝 변압기 냉각 방식.md"
+    },
+    {
+      "basename": "🏛️ 전기 기기",
+      "path": "02. MOC/🏛️ 전기 기기.md"
+    },
+    {
       "basename": "📝 아몰퍼스 변압기",
       "path": "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md"
     },
     {
-      "basename": "📝 변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md"
+      "basename": "📝 변압기 호흡작용",
+      "path": "03. Permanent Notes/Area/📝 변압기 호흡작용.md"
     },
     {
-      "basename": "🏛️ 변압기",
-      "path": "02. MOC/🏛️ 변압기.md"
+      "basename": "📝 변압기 병렬 운전 조건",
+      "path": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md"
     },
     {
       "basename": "🏛️ 전기기사 실기",
@@ -79,26 +99,6 @@
     {
       "basename": "📝 축전지 충전 방식 개요",
       "path": "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md"
-    },
-    {
-      "basename": "부동 충전방식 개략도 (draw)",
-      "path": "Excalidraw/부동 충전방식 개략도 (draw).md"
-    },
-    {
-      "basename": "📝 UPS 개념과 주요 방식",
-      "path": "03. Permanent Notes/Area/📝 UPS 개념과 주요 방식.md"
-    },
-    {
-      "basename": "📝 전원공급장치란",
-      "path": "03. Permanent Notes/Area/📝 전원공급장치란.md"
-    },
-    {
-      "basename": "📝 UPS 온라인 이중 변환 방식 동작 원리",
-      "path": "03. Permanent Notes/Area/📝 UPS 온라인 이중 변환 방식 동작 원리.md"
-    },
-    {
-      "basename": "🏛️ 전기기사 필기",
-      "path": "02. MOC/🏛️ 전기기사 필기.md"
     }
   ],
   "omittedPaths": [],
