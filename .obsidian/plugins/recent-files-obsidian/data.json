@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 입체각",
+      "path": "04. Practice Notes/📝 입체각.md"
+    },
+    {
       "basename": "📝 조명의 기본 단위와 용어",
       "path": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📝 변압기 병렬 운전 조건",
       "path": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md"
-    },
-    {
-      "basename": "📝 몰드 변압기",
-      "path": "03. Permanent Notes/Area/📝 몰드 변압기.md"
     }
   ],
   "omittedPaths": [],
