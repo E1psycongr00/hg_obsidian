@@ -9,18 +9,6 @@
       "path": "02. MOC/🏛️ 옥내배선설계.md"
     },
     {
-      "basename": "📝 분기회로수 산정 기준 및 방법",
-      "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
-    },
-    {
-      "basename": "📝 설비 불평형률 계산 및 기준",
-      "path": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md"
-    },
-    {
-      "basename": "📝 수용가 설비 전압강하 허용 기준",
-      "path": "04. Practice Notes/📝 수용가 설비 전압강하 허용 기준.md"
-    },
-    {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
@@ -31,6 +19,30 @@
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "결선에 따른 전기 공급 방식",
+      "path": "03. Permanent Notes/Area/결선에 따른 전기 공급 방식.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "🏛️ 전기기사 필기",
+      "path": "02. MOC/🏛️ 전기기사 필기.md"
+    },
+    {
+      "basename": "📝 분기회로수 산정 기준 및 방법",
+      "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
+    },
+    {
+      "basename": "📝 설비 불평형률 계산 및 기준",
+      "path": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md"
+    },
+    {
+      "basename": "📝 수용가 설비 전압강하 허용 기준",
+      "path": "04. Practice Notes/📝 수용가 설비 전압강하 허용 기준.md"
     },
     {
       "basename": "Flyway 사용하기 with Gradle",
@@ -83,10 +95,6 @@
     {
       "basename": "📝 프로토타입 패턴과 다른 생성 패턴 비교",
       "path": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
-    },
-    {
-      "basename": "🏛️ 전기기사 필기",
-      "path": "02. MOC/🏛️ 전기기사 필기.md"
     },
     {
       "basename": "🏛️ 변압기",
