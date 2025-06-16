@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md",
+                "file": "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 옥내배선설계"
+              "title": "📝 전기 방식별 전압강하 계산 기초"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md"
+                "file": "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 옥내배선설계 의 파일 속성"
+              "title": "📝 전기 방식별 전압강하 계산 기초 의 파일 속성"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md",
+                "file": "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 옥내배선설계 그래프"
+              "title": "📝 전기 방식별 전압강하 계산 기초 그래프"
             }
           }
         ],
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md",
+                "file": "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 옥내배선설계 의 개요"
+              "title": "📝 전기 방식별 전압강하 계산 기초 의 개요"
             }
           },
           {
@@ -281,8 +281,8 @@
   },
   "active": "09cc7c16d0932c2c",
   "lastOpenFiles": [
-    "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
     "02. MOC/🏛️ 옥내배선설계.md",
+    "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
     "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
     "04. Practice Notes/📝 수용가 설비 전압강하 허용 기준.md",
     "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md",
