@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ 조명.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝 조명의 기본 단위와 용어.md",
+                "file": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -37,8 +37,7 @@
               "title": "📝 조명의 기본 단위와 용어"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,10 +133,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 조명의 기본 단위와 용어.md"
+                "file": "02. MOC/🏛️ 조명.md"
               },
               "icon": "lucide-info",
-              "title": "📝 조명의 기본 단위와 용어 의 파일 속성"
+              "title": "🏛️ 조명 의 파일 속성"
             }
           }
         ],
@@ -247,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 조명의 기본 단위와 용어.md",
+                "file": "02. MOC/🏛️ 조명.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 조명의 기본 단위와 용어 의 개요"
+              "title": "🏛️ 조명 의 개요"
             }
           }
         ]
@@ -285,14 +284,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "f88ccfa2c52fa546",
+  "active": "28716588f3ac07ca",
   "lastOpenFiles": [
+    "04. Practice Notes/📝 조도 계산의 기본 원리.md",
     "02. MOC/🏛️ 조명.md",
+    "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
     "02. MOC/Home.md",
     "04. Practice Notes/📝 조명기구의 종류와 특성.md",
-    "04. Practice Notes/📝 조명의 기본 단위와 용어.md",
     "04. Practice Notes/📝 광속법을 이용한 조명 설계.md",
-    "04. Practice Notes/📝 조도 계산의 기본 원리.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "04. Practice Notes/📝 조명률과 실내지수.md",
     "02. MOC/🏛️ 전기기사 실기.md",
