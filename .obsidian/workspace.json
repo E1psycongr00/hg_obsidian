@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md",
+                "file": "03. Permanent Notes/Area/스케일 팩터.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 원뿔 입체각 공식 유도 과정"
+              "title": "스케일 팩터"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md"
+                "file": "03. Permanent Notes/Area/스케일 팩터.md"
               },
               "icon": "lucide-info",
-              "title": "📝 원뿔 입체각 공식 유도 과정 의 파일 속성"
+              "title": "스케일 팩터 의 파일 속성"
             }
           }
         ],
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
+                "file": "03. Permanent Notes/Area/스케일 팩터.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,11 +246,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 설비 불평형률 계산 및 기준 그래프"
+              "title": "스케일 팩터 그래프"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "ab55e369c44ac380",
@@ -262,13 +262,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md",
+                "file": "03. Permanent Notes/Area/스케일 팩터.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 원뿔 입체각 공식 유도 과정 의 개요"
+              "title": "스케일 팩터 의 개요"
             }
           }
         ]
@@ -300,10 +300,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "f88ccfa2c52fa546",
+  "active": "c5917958275c2e01",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/곡선 좌표계와 미분 연산자.md",
     "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md",
+    "03. Permanent Notes/Area/곡선 좌표계와 미분 연산자.md",
     "03. Permanent Notes/Area/스케일 팩터.md",
     "03. Permanent Notes/Area/📝 입체각.md",
     "02. MOC/🏛️ 조명.md",
