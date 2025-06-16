@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md",
+                "file": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 옥내배선설계"
+              "title": "📝 설비 불평형률 계산 및 기준"
             }
           },
           {
@@ -148,10 +148,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md"
+                "file": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 옥내배선설계 의 파일 속성"
+              "title": "📝 설비 불평형률 계산 및 기준 의 파일 속성"
             }
           }
         ],
@@ -217,7 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md",
+                "file": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +245,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 옥내배선설계 그래프"
+              "title": "📝 설비 불평형률 계산 및 기준 그래프"
             }
           }
         ],
@@ -261,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 옥내배선설계.md",
+                "file": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 옥내배선설계 의 개요"
+              "title": "📝 설비 불평형률 계산 및 기준 의 개요"
             }
           },
           {
@@ -311,10 +311,11 @@
   },
   "active": "8bf69020fa38f9cd",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 수용가 설비 전압강하 허용 기준.md",
     "02. MOC/🏛️ 옥내배선설계.md",
-    "03. Permanent Notes/Area/📝 구리선 기준 전압강하 식 증명.md",
     "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산.md",
+    "03. Permanent Notes/Area/📝 구리선 기준 전압강하 식 증명.md",
+    "03. Permanent Notes/Area/📝 수용가 설비 전압강하 허용 기준.md",
+    "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
     "Excalidraw/Drawing 2025-06-16 19.09.10.excalidraw.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전기기사 실기.md",
@@ -329,7 +330,6 @@
     "03. Permanent Notes/Area/저압 뱅킹 방식.md",
     "02. MOC/🏛️ 전기기사 필기.md",
     "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
-    "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
     "03. Permanent Notes/Area/📝 전압강하 정밀 계산법.md",
     "03. Permanent Notes/Area/Flyway 사용하기 with Gradle.md",
     "04. Practice Notes/프롬프트 엔지니어링.md",
