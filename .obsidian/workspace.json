@@ -28,10 +28,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md"
+                "file": "Excalidraw/조도 (draw).md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-16 18.31.50.excalidraw"
+              "title": "조도 (draw)"
             }
           }
         ],
@@ -131,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md"
+                "file": "Excalidraw/조도 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "Drawing 2025-06-16 18.31.50.excalidraw 의 파일 속성"
+              "title": "조도 (draw) 의 파일 속성"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md",
+                "file": "Excalidraw/조도 (draw).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Drawing 2025-06-16 18.31.50.excalidraw 그래프"
+              "title": "조도 (draw) 그래프"
             }
           }
         ],
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md",
+                "file": "Excalidraw/조도 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2025-06-16 18.31.50.excalidraw 의 개요"
+              "title": "조도 (draw) 의 개요"
             }
           },
           {
@@ -294,10 +294,11 @@
   },
   "active": "89bf97da522f4a6e",
   "lastOpenFiles": [
-    "02. MOC/Home.md",
-    "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md",
-    "Excalidraw/실지수 (draw).md",
     "04. Practice Notes/📝 조도의 종류와 특성.md",
+    "Excalidraw/조도 (draw).md",
+    "Excalidraw/조도 (draw).svg",
+    "02. MOC/Home.md",
+    "Excalidraw/실지수 (draw).md",
     "02. MOC/🏛️ 조명.md",
     "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
     "03. Permanent Notes/Area/📝실내 조명 설계.md",
@@ -320,7 +321,6 @@
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기기사 필기.md",
     "02. MOC/🏛️ 변압기.md",
-    "02. MOC/🏛️ 옥내배선설계.md",
-    "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md"
+    "02. MOC/🏛️ 옥내배선설계.md"
   ]
 }
