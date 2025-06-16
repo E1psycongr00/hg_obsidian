@@ -9,7 +9,7 @@ aliases:
 created: 2024-11-13
 title: Flyway 사용하기 with Gradle
 note-type: COMMON
-completed: false
+completed: true
 ---
 
 

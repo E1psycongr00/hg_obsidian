@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "조도 (draw)",
-      "path": "Excalidraw/조도 (draw).md"
+      "basename": "🏛️ 전기기사 실기",
+      "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
     {
-      "basename": "📝 조도의 종류와 특성",
-      "path": "04. Practice Notes/📝 조도의 종류와 특성.md"
+      "basename": "🏛️ 전기 기사",
+      "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
     {
-      "basename": "실지수 (draw)",
-      "path": "Excalidraw/실지수 (draw).md"
+      "basename": "Flyway 사용하기 with Gradle",
+      "path": "03. Permanent Notes/Area/Flyway 사용하기 with Gradle.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "04. Practice Notes/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "조도 (draw)",
+      "path": "Excalidraw/조도 (draw).md"
     },
     {
       "basename": "🏛️ 조명",
@@ -25,12 +33,20 @@
       "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
     },
     {
+      "basename": "📝 조명의 기본 단위와 용어",
+      "path": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md"
+    },
+    {
+      "basename": "📝 조도의 종류와 특성",
+      "path": "03. Permanent Notes/Area/📝 조도의 종류와 특성.md"
+    },
+    {
       "basename": "📝실내 조명 설계",
       "path": "03. Permanent Notes/Area/📝실내 조명 설계.md"
     },
     {
-      "basename": "📝 조명의 기본 단위와 용어",
-      "path": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md"
+      "basename": "실지수 (draw)",
+      "path": "Excalidraw/실지수 (draw).md"
     },
     {
       "basename": "📝 원뿔 입체각 공식 유도 과정",
@@ -57,20 +73,8 @@
       "path": "04. Practice Notes/📝 수용가 설비 전압강하 허용 기준.md"
     },
     {
-      "basename": "📝 조명기구의 종류와 특성",
-      "path": "04. Practice Notes/📝 조명기구의 종류와 특성.md"
-    },
-    {
       "basename": "📝 프로토타입 패턴과 다른 생성 패턴 비교",
       "path": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
-    },
-    {
-      "basename": "🏛️ 전기기사 실기",
-      "path": "02. MOC/🏛️ 전기기사 실기.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
       "basename": "🏛️ 전기기사 필기",
@@ -87,18 +91,6 @@
     {
       "basename": "📝 전기 방식별 전압강하 계산 기초",
       "path": "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md"
-    },
-    {
-      "basename": "📝 전압강하 정밀 계산법",
-      "path": "03. Permanent Notes/Area/📝 전압강하 정밀 계산법.md"
-    },
-    {
-      "basename": "📝 변압기 절연",
-      "path": "03. Permanent Notes/Area/📝 변압기 절연.md"
-    },
-    {
-      "basename": "📝 변압기 보호 장치",
-      "path": "03. Permanent Notes/Area/📝 변압기 보호 장치.md"
     }
   ],
   "omittedPaths": [],
