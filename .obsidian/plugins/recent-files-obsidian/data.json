@@ -5,6 +5,14 @@
       "path": "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md"
     },
     {
+      "basename": "곡선 좌표계와 미분 연산자",
+      "path": "03. Permanent Notes/Area/곡선 좌표계와 미분 연산자.md"
+    },
+    {
+      "basename": "스케일 팩터",
+      "path": "03. Permanent Notes/Area/스케일 팩터.md"
+    },
+    {
       "basename": "📝 입체각",
       "path": "03. Permanent Notes/Area/📝 입체각.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "📝 변압기 냉각 방식",
       "path": "03. Permanent Notes/Area/📝 변압기 냉각 방식.md"
-    },
-    {
-      "basename": "🏛️ 전기 기기",
-      "path": "02. MOC/🏛️ 전기 기기.md"
-    },
-    {
-      "basename": "📝 변압기 호흡작용",
-      "path": "03. Permanent Notes/Area/📝 변압기 호흡작용.md"
     }
   ],
   "omittedPaths": [],
