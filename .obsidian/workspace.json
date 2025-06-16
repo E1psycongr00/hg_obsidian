@@ -262,8 +262,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -292,7 +291,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "28716588f3ac07ca",
+  "active": "41297a751c63d11a",
   "lastOpenFiles": [
     "Excalidraw/실지수 (draw).md",
     "Excalidraw/실지수 (draw).svg",
