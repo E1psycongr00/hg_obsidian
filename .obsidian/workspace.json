@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝실내 조명 설계.md",
+                "file": "04. Practice Notes/📝 조도의 종류와 특성.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝실내 조명 설계"
+              "title": "📝 조도의 종류와 특성"
             }
           },
           {
-            "id": "59e42963a0eb5aed",
+            "id": "89bf97da522f4a6e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/실지수 (draw).md"
+                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "실지수 (draw)"
+              "title": "Drawing 2025-06-16 18.31.50.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝실내 조명 설계.md"
+                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md"
               },
               "icon": "lucide-info",
-              "title": "📝실내 조명 설계 의 파일 속성"
+              "title": "Drawing 2025-06-16 18.31.50.excalidraw 의 파일 속성"
             }
           }
         ],
@@ -199,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/📝실내 조명 설계.md",
+                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝실내 조명 설계 그래프"
+              "title": "Drawing 2025-06-16 18.31.50.excalidraw 그래프"
             }
           }
         ],
@@ -243,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝실내 조명 설계.md",
+                "file": "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝실내 조명 설계 의 개요"
+              "title": "Drawing 2025-06-16 18.31.50.excalidraw 의 개요"
             }
           },
           {
@@ -291,15 +292,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "41297a751c63d11a",
+  "active": "89bf97da522f4a6e",
   "lastOpenFiles": [
-    "Excalidraw/실지수 (draw).md",
-    "Excalidraw/실지수 (draw).svg",
     "02. MOC/Home.md",
-    "04. Practice Notes/📝실내 조명 설계.md",
-    "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
-    "02. MOC/🏛️ 조명.md",
+    "Excalidraw/Drawing 2025-06-16 18.31.50.excalidraw.md",
+    "Excalidraw/실지수 (draw).md",
     "04. Practice Notes/📝 조도의 종류와 특성.md",
+    "02. MOC/🏛️ 조명.md",
+    "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
+    "03. Permanent Notes/Area/📝실내 조명 설계.md",
+    "Excalidraw/실지수 (draw).svg",
     "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
     "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md",
     "attachments/screenshot/Pasted image 20250616132021.png",
