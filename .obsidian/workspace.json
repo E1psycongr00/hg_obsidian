@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝 조도의 종류와 특성.md",
+                "file": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 조도의 종류와 특성"
+              "title": "📝 조명의 기본 단위와 용어"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 조도의 종류와 특성.md"
+                "file": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md"
               },
               "icon": "lucide-info",
-              "title": "📝 조도의 종류와 특성 의 파일 속성"
+              "title": "📝 조명의 기본 단위와 용어 의 파일 속성"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/📝 조도의 종류와 특성.md",
+                "file": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 조도의 종류와 특성 그래프"
+              "title": "📝 조명의 기본 단위와 용어 그래프"
             }
           }
         ],
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 조도의 종류와 특성.md",
+                "file": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 조도의 종류와 특성 의 개요"
+              "title": "📝 조명의 기본 단위와 용어 의 개요"
             }
           }
         ]
@@ -271,14 +271,14 @@
   },
   "active": "28716588f3ac07ca",
   "lastOpenFiles": [
-    "04. Practice Notes/📝 조명률과 실내지수.md",
+    "02. MOC/🏛️ 조명.md",
     "04. Practice Notes/📝 조도의 종류와 특성.md",
+    "04. Practice Notes/📝 조명률과 실내지수.md",
     "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md",
     "attachments/screenshot/Pasted image 20250616132021.png",
     "03. Permanent Notes/Area/스케일 팩터.md",
     "03. Permanent Notes/Area/곡선 좌표계와 미분 연산자.md",
     "03. Permanent Notes/Area/📝 입체각.md",
-    "02. MOC/🏛️ 조명.md",
     "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
     "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
     "04. Practice Notes/📝 수용가 설비 전압강하 허용 기준.md",
