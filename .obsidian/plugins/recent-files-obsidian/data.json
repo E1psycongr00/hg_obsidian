@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 입체각",
-      "path": "04. Practice Notes/📝 입체각.md"
-    },
-    {
       "basename": "📝 조명의 기본 단위와 용어",
       "path": "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md"
+    },
+    {
+      "basename": "📝 원뿔 입체각 공식 유도 과정",
+      "path": "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md"
+    },
+    {
+      "basename": "📝 입체각",
+      "path": "04. Practice Notes/📝 입체각.md"
     },
     {
       "basename": "📝 조도의 종류와 특성",
@@ -95,10 +99,6 @@
     {
       "basename": "📝 변압기 호흡작용",
       "path": "03. Permanent Notes/Area/📝 변압기 호흡작용.md"
-    },
-    {
-      "basename": "📝 변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md"
     }
   ],
   "omittedPaths": [],
