@@ -5,6 +5,14 @@
       "path": "04. Practice Notes/📝실내 조명 설계.md"
     },
     {
+      "basename": "실지수 (draw)",
+      "path": "Excalidraw/실지수 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "📝 분기회로수 산정 기준 및 방법",
       "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
     },
@@ -53,10 +61,6 @@
       "path": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📝 아몰퍼스 변압기",
       "path": "03. Permanent Notes/Area/📝 아몰퍼스 변압기.md"
-    },
-    {
-      "basename": "📝 변압기 냉각 방식",
-      "path": "03. Permanent Notes/Area/📝 변압기 냉각 방식.md"
     }
   ],
   "omittedPaths": [],

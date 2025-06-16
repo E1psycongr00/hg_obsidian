@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "📝실내 조명 설계"
             }
+          },
+          {
+            "id": "59e42963a0eb5aed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/실지수 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "실지수 (draw)"
+            }
           }
         ]
       }
@@ -280,13 +292,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c5917958275c2e01",
+  "active": "28716588f3ac07ca",
   "lastOpenFiles": [
+    "Excalidraw/실지수 (draw).md",
+    "Excalidraw/실지수 (draw).svg",
+    "02. MOC/Home.md",
+    "04. Practice Notes/📝실내 조명 설계.md",
     "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
     "02. MOC/🏛️ 조명.md",
     "04. Practice Notes/📝 조도의 종류와 특성.md",
     "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
-    "04. Practice Notes/📝실내 조명 설계.md",
     "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md",
     "attachments/screenshot/Pasted image 20250616132021.png",
     "03. Permanent Notes/Area/스케일 팩터.md",
@@ -299,14 +314,12 @@
     "04. Practice Notes/📝 조명 배치 방식의 기초.md",
     "04. Practice Notes/📝 광속법을 이용한 조명 설계.md",
     "04. Practice Notes/📝 조도 계산의 기본 원리.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기기사 필기.md",
     "02. MOC/🏛️ 변압기.md",
     "02. MOC/🏛️ 옥내배선설계.md",
-    "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md",
-    "07. Solution Notes/Area/🔬 Spring BeanFactory를 통한 객체 생성 자동화.md"
+    "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md"
   ]
 }
