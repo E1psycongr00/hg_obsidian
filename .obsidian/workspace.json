@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기.md",
-                "mode": "preview",
+                "file": "02. MOC/🏛️ 옥내배선설계.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기기사 실기"
+              "title": "🏛️ 옥내배선설계"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기.md"
+                "file": "02. MOC/🏛️ 옥내배선설계.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기기사 실기 의 파일 속성"
+              "title": "🏛️ 옥내배선설계 의 파일 속성"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기.md",
+                "file": "02. MOC/🏛️ 옥내배선설계.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전기기사 실기 그래프"
+              "title": "🏛️ 옥내배선설계 그래프"
             }
           }
         ],
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기.md",
+                "file": "02. MOC/🏛️ 옥내배선설계.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전기기사 실기 의 개요"
+              "title": "🏛️ 옥내배선설계 의 개요"
             }
           },
           {
@@ -281,6 +281,13 @@
   },
   "active": "09cc7c16d0932c2c",
   "lastOpenFiles": [
+    "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
+    "02. MOC/🏛️ 옥내배선설계.md",
+    "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
+    "04. Practice Notes/📝 수용가 설비 전압강하 허용 기준.md",
+    "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md",
+    "03. Permanent Notes/Area/📝 전압강하 정밀 계산법.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/Area/Flyway 사용하기 with Gradle.md",
@@ -289,7 +296,6 @@
     "04. Practice Notes/Spring Modulith.md",
     "04. Practice Notes/Meta Learning.md",
     "02. MOC/🏛️ 조명.md",
-    "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
     "04. Practice Notes/📝 조명기구의 종류와 특성.md",
     "03. Permanent Notes/Area/📝 조명의 기본 단위와 용어.md",
     "03. Permanent Notes/Area/📝 조도의 종류와 특성.md",
@@ -302,13 +308,7 @@
     "03. Permanent Notes/Area/스케일 팩터.md",
     "03. Permanent Notes/Area/곡선 좌표계와 미분 연산자.md",
     "03. Permanent Notes/Area/📝 입체각.md",
-    "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
-    "04. Practice Notes/📝 수용가 설비 전압강하 허용 기준.md",
     "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
-    "04. Practice Notes/📝 조명 배치 방식의 기초.md",
-    "04. Practice Notes/📝 광속법을 이용한 조명 설계.md",
-    "04. Practice Notes/📝 조도 계산의 기본 원리.md",
-    "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
-    "02. MOC/🏛️ 전기기사 실기.md"
+    "04. Practice Notes/📝 조명 배치 방식의 기초.md"
   ]
 }
