@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 조명.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 조명"
+              "title": "🏛️ 전기기사 실기"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 조명.md"
+                "file": "02. MOC/🏛️ 전기기사 실기.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 조명 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 의 파일 속성"
             }
           }
         ],
@@ -231,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 조명.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 조명 의 개요"
+              "title": "🏛️ 전기기사 실기 의 개요"
             }
           }
         ]
@@ -271,6 +271,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 조명.md",
     "04. Practice Notes/📝 조명률과 실내지수.md",
     "04. Practice Notes/📝 광속법을 이용한 조명 설계.md",
     "04. Practice Notes/📝 조도 계산의 기본 원리.md",
@@ -281,7 +282,6 @@
     "04. Practice Notes/📝 조명 배치 방식의 기초.md",
     "04. Practice Notes/📝 조명기구의 종류와 특성.md",
     "04. Practice Notes/📝 조명의 기본 단위와 용어.md",
-    "02. MOC/🏛️ 조명.md",
     "02. MOC/🏛️ 변압기.md",
     "02. MOC/🏛️ 옥내배선설계.md",
     "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md",
