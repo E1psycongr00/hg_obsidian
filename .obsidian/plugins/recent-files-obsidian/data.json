@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 조명",
       "path": "02. MOC/🏛️ 조명.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "📝 전기 방식별 전압강하 계산 기초",
       "path": "03. Permanent Notes/Area/📝 전기 방식별 전압강하 계산 기초.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "📝 설비 불평형률 계산 및 기준",
