@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "컴파일(compile)과 빌드(build) 개념",
+      "path": "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md"
+    },
+    {
+      "basename": "📚 Oracle JDK 21 공식 문서",
+      "path": "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md"
+    },
+    {
+      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
+      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
+    },
+    {
+      "basename": "JDK 17 주요 특징 및 패치 분석",
+      "path": "03. Permanent Notes/Area/JDK 17 주요 특징 및 패치 분석.md"
+    },
+    {
+      "basename": "3. Java 문법",
+      "path": "09. PARA/3.Resources/IT/java/3. Java 문법.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
@@ -31,10 +55,6 @@
     {
       "basename": "📝 수용가 설비 전압강하 허용 기준",
       "path": "03. Permanent Notes/Area/📝 수용가 설비 전압강하 허용 기준.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기 기사",
@@ -79,26 +99,6 @@
     {
       "basename": "📝실내 조명 설계",
       "path": "03. Permanent Notes/Area/📝실내 조명 설계.md"
-    },
-    {
-      "basename": "실지수 (draw)",
-      "path": "Excalidraw/실지수 (draw).md"
-    },
-    {
-      "basename": "📝 원뿔 입체각 공식 유도 과정",
-      "path": "03. Permanent Notes/Area/📝 원뿔 입체각 공식 유도 과정.md"
-    },
-    {
-      "basename": "스케일 팩터",
-      "path": "03. Permanent Notes/Area/스케일 팩터.md"
-    },
-    {
-      "basename": "곡선 좌표계와 미분 연산자",
-      "path": "03. Permanent Notes/Area/곡선 좌표계와 미분 연산자.md"
-    },
-    {
-      "basename": "📝 입체각",
-      "path": "03. Permanent Notes/Area/📝 입체각.md"
     }
   ],
   "omittedPaths": [],
