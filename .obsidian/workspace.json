@@ -8,34 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deee4dcb5026477d",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
                 "page": 1,
-                "left": -31,
+                "left": -66,
                 "top": 796,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "paxos-simple 1"
-            }
-          },
-          {
-            "id": "7aa995fd6dbda052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제8.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "무제8"
             }
           }
         ]
@@ -238,6 +223,16 @@
             "id": "5019dfe98ad8c12c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "b21a4373b246682e",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -245,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "ab55e369c44ac380",
@@ -307,10 +302,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "deee4dcb5026477d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "무제8.md",
     "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
+    "02. MOC/Home.md",
     "무제 6.md",
     "attachments/screenshot/paxos-simple 1.webp",
     "08. 공부 자료/pdf/논문/paxos-simple.pdf",
@@ -328,7 +324,6 @@
     "attachments/screenshot/Pasted image 20250618140755.png",
     "attachments/screenshot/Pasted image 20250618140741.png",
     "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
     "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",

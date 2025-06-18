@@ -67,6 +67,8 @@
   "blue-topaz-theme@@header-3-background": false,
   "blue-topaz-theme@@h3-toggle-short-underline": false,
   "blue-topaz-theme@@h3-line-height": 2.5,
-  "pdf-plus@@pdf-plus-pdf-link-like-popover-width": 100,
-  "pdf-plus@@pdf-plus-backlink-popover-width": 100
+  "pdf-plus@@pdf-plus-pdf-link-like-popover-width": 800,
+  "pdf-plus@@pdf-plus-backlink-popover-width": 800,
+  "pdf-plus@@pdf-plus-backlink-popover-height": 730,
+  "pdf-plus@@pdf-plus-pdf-link-like-popover-height": 710
 }

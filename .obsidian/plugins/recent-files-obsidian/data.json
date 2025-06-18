@@ -9,6 +9,10 @@
       "path": "무제8.md"
     },
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "무제 6",
       "path": "무제 6.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "컴파일(compile)과 빌드(build) 개념",
