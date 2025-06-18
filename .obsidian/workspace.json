@@ -13,17 +13,34 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "08. 공부 자료/pdf/논문/paxos-simple.pdf",
-                "page": 10,
+                "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
+                "page": 3,
                 "left": -31,
-                "top": 550,
+                "top": 796,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
-              "title": "paxos-simple"
+              "title": "paxos-simple 1"
+            }
+          },
+          {
+            "id": "f7fb58fcbf44dd7e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
+                "page": 2,
+                "left": -31,
+                "top": 35,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "paxos-simple 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,10 +136,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/논문/paxos-simple.pdf"
+                "file": "무제 7.md"
               },
               "icon": "lucide-info",
-              "title": "paxos-simple 의 파일 속성"
+              "title": "무제 7 의 파일 속성"
             }
           }
         ],
@@ -292,13 +309,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "deee4dcb5026477d",
+  "active": "e172747f41579191",
   "lastOpenFiles": [
+    "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
     "무제 7.md",
     "08. 공부 자료/pdf/논문/paxos-simple.pdf",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전원공급장치.md",
-    "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "08. 공부 자료/pdf/전기설비/KEC_2024_10.pdf",
