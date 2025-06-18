@@ -30,9 +30,9 @@
               "type": "pdf",
               "state": {
                 "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
-                "page": 504,
+                "page": 1141,
                 "left": -20,
-                "top": 846,
+                "top": 799,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -46,9 +46,9 @@
               "type": "pdf",
               "state": {
                 "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
-                "page": 20,
+                "page": 27,
                 "left": -39,
-                "top": 745,
+                "top": 446,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -335,7 +335,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "0eb6a1ae673a2e11",
+  "active": "a7819cd22d4b3f11",
   "lastOpenFiles": [
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문 1.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
