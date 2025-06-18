@@ -263,7 +263,7 @@
   "newFileTemplatePath": "",
   "newPDFLocation": "current",
   "newPDFFolderPath": "",
-  "rectEmbedStaticImage": false,
+  "rectEmbedStaticImage": true,
   "rectImageFormat": "file",
   "rectImageExtension": "webp",
   "zoomToFitRect": false,

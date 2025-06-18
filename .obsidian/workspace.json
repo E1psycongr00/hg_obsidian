@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -44,9 +44,9 @@
               "type": "pdf",
               "state": {
                 "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
-                "page": 994,
+                "page": 992,
                 "left": -8,
-                "top": 845,
+                "top": 797,
                 "zoom": 1.65
               },
               "icon": "lucide-file-text",
@@ -69,8 +69,7 @@
               "title": "한국전기설비규정(KEC) 전문"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +165,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
+                "file": "02. MOC/🏛️ 전기기사 실기.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기기사 실기 2023년 기출문제 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 의 파일 속성"
             }
           }
         ],
@@ -339,10 +338,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c1481884602d6c7f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
+    "02. MOC/🏛️ 전원공급장치.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
     "08. 공부 자료/pdf/전기설비/KEC_2024_10.pdf",
     "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정개정전문_2025.pdf",
@@ -351,7 +352,6 @@
     "08. 공부 자료/pdf/전기설비",
     "attachments/screenshot/Pasted image 20250618140755.png",
     "attachments/screenshot/Pasted image 20250618140741.png",
-    "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
@@ -361,7 +361,6 @@
     "03. Permanent Notes/Area/instanceof 패턴 매칭.md",
     "09. PARA/3.Resources/IT/java/3. Java 문법.md",
     "03. Permanent Notes/Area/Record Pattern.md",
-    "02. MOC/🏛️ 전원공급장치.md",
     "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md",
     "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
     "02. MOC/🏛️ 옥내배선설계.md",
