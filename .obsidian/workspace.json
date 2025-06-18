@@ -37,8 +37,7 @@
               "title": "📚 KEC 설비 규정"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,10 +133,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 1.공통사항.pdf"
+                "file": "04. Practice Notes/🔬2023년도 3회차 1번.md"
               },
               "icon": "lucide-info",
-              "title": "한국전기설비규정(KEC) 1.공통사항 의 파일 속성"
+              "title": "🔬2023년도 3회차 1번 의 파일 속성"
             }
           }
         ],
@@ -317,11 +316,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ed6e8855b7a31d54",
+  "active": "94b0a6a6bede0034",
   "lastOpenFiles": [
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정.md",
     "04. Practice Notes/🔬2023년도 3회차 1번.md",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 1.공통사항.pdf",
-    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정.md",
     "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
     "02. MOC/Home.md",
     "05. Reference Notes/Area/Paper",
