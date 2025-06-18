@@ -21,6 +21,22 @@
               "icon": "lucide-file",
               "title": "📚 KEC 설비 규정"
             }
+          },
+          {
+            "id": "3fc123e9fee09029",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 1.공통사항.pdf",
+                "page": 17,
+                "left": -74,
+                "top": 164,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "한국전기설비규정(KEC) 1.공통사항"
+            }
           }
         ]
       }
@@ -301,11 +317,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e172747f41579191",
+  "active": "391730c3544d1729",
   "lastOpenFiles": [
-    "05. Reference Notes/Area/Paper",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 1.공통사항.pdf",
     "05. Reference Notes/Area/Paper/📚 KEC 설비 규정.md",
+    "05. Reference Notes/Area/Paper",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 0.목차.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 7.발전용_화력설비.pdf",
@@ -314,7 +330,6 @@
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 3.고압_특고압_전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문 1.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC 목차.pdf",
     "무제 6.md",
     "무제8.md",
     "02. MOC/Home.md",
