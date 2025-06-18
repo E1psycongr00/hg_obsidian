@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
-                "mode": "preview",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "🏛️ 전기기사 실기"
+            }
+          },
+          {
+            "id": "c1481884602d6c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "🏛️ 전기기사 실기 2023년 기출문제"
             }
           }
         ]
@@ -118,10 +133,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "02. MOC/🏛️ 전기기사 실기.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 의 파일 속성"
             }
           }
         ],
@@ -292,6 +307,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
+    "02. MOC/🏛️ 전기 기사.md",
+    "02. MOC/Home.md",
     "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
     "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
@@ -299,8 +318,6 @@
     "03. Permanent Notes/Area/instanceof 패턴 매칭.md",
     "09. PARA/3.Resources/IT/java/3. Java 문법.md",
     "03. Permanent Notes/Area/Record Pattern.md",
-    "02. MOC/Home.md",
-    "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전원공급장치.md",
     "03. Permanent Notes/Area/📝 축전지 충전 방식 개요.md",
     "03. Permanent Notes/Area/📝 대표적인 축전지의 종류 (연축전지 vs 알칼리 축전지).md",
@@ -311,13 +328,11 @@
     "03. Permanent Notes/Area/📝 구리선 기준 전압강하 식 증명.md",
     "03. Permanent Notes/Area/📝 수용가 설비 전압강하 허용 기준.md",
     "Excalidraw/Drawing 2025-06-16 19.09.10.excalidraw.md",
-    "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/Area/결선에 따른 전기 공급 방식.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/Area/분산 부하와 집중 부하.md",
     "03. Permanent Notes/Area/정전 유도 장해.md",
     "03. Permanent Notes/Area/페란티 현상.md",
-    "03. Permanent Notes/Area/송전 전력.md",
     "Excalidraw/조도 (draw).svg",
     "Excalidraw/실지수 (draw).svg",
     "attachments/screenshot/Pasted image 20250616132021.png"
