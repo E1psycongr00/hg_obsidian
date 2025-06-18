@@ -4,26 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9b48c29d830e55db",
+        "id": "1d8b8492ab5083b9",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc123e9fee09029",
+            "id": "94b0a6a6bede0034",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 1.공통사항.pdf",
-                "page": 17,
-                "left": -74,
-                "top": 64,
-                "zoom": 1.5
+                "file": "04. Practice Notes/🔬2023년도 3회차 1번.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "한국전기설비규정(KEC) 1.공통사항"
+              "icon": "lucide-file",
+              "title": "🔬2023년도 3회차 1번"
+            }
+          },
+          {
+            "id": "517f3d0b313c8e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Reference Notes/Area/Paper/📚 KEC 설비 규정.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📚 KEC 설비 규정"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,11 +317,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "3fc123e9fee09029",
+  "active": "ed6e8855b7a31d54",
   "lastOpenFiles": [
-    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정.md",
+    "04. Practice Notes/🔬2023년도 3회차 1번.md",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 1.공통사항.pdf",
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정.md",
     "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
+    "02. MOC/Home.md",
     "05. Reference Notes/Area/Paper",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 0.목차.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
@@ -318,13 +335,11 @@
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문 1.pdf",
     "무제 6.md",
     "무제8.md",
-    "02. MOC/Home.md",
     "attachments/screenshot/paxos-simple 1.webp",
     "무제 7.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전원공급장치.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
-    "04. Practice Notes/🔬2023년도 3회차 1번.md",
     "attachments/screenshot/Pasted image 20250618140755.png",
     "attachments/screenshot/Pasted image 20250618140741.png",
     "02. MOC/🏛️ 전기 기사.md",
