@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "컴파일(compile)과 빌드(build) 개념",
       "path": "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "3. Java 문법",
       "path": "09. PARA/3.Resources/IT/java/3. Java 문법.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 전기기사 실기",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
+                "file": "02. MOC/Home.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "컴파일(compile)과 빌드(build) 개념"
+              "title": "Home"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md"
+                "file": "02. MOC/Home.md"
               },
               "icon": "lucide-info",
-              "title": "컴파일(compile)과 빌드(build) 개념 의 파일 속성"
+              "title": "Home 의 파일 속성"
             }
           }
         ],
@@ -290,8 +290,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "332a60b6b5a4c7c6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
     "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "03. Permanent Notes/Area/JDK 17 주요 특징 및 패치 분석.md",
@@ -317,7 +318,6 @@
     "03. Permanent Notes/Area/정전 유도 장해.md",
     "03. Permanent Notes/Area/페란티 현상.md",
     "03. Permanent Notes/Area/송전 전력.md",
-    "03. Permanent Notes/Area/수지식 선로.md",
     "Excalidraw/조도 (draw).svg",
     "Excalidraw/실지수 (draw).svg",
     "attachments/screenshot/Pasted image 20250616132021.png"
