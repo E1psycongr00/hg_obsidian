@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "무제8",
+      "path": "무제8.md"
+    },
+    {
+      "basename": "무제 6",
+      "path": "무제 6.md"
+    },
+    {
       "basename": "paxos-simple 1",
       "path": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "🏛️ 전기기사 필기",
-      "path": "02. MOC/🏛️ 전기기사 필기.md"
     }
   ],
   "omittedPaths": [],

@@ -14,7 +14,7 @@
               "type": "pdf",
               "state": {
                 "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
-                "page": 3,
+                "page": 1,
                 "left": -31,
                 "top": 796,
                 "zoom": 1.5
@@ -27,16 +27,30 @@
             "id": "f7fb58fcbf44dd7e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
-                "page": 2,
-                "left": -31,
-                "top": 35,
-                "zoom": 1.5
+                "file": "무제8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "paxos-simple 1"
+              "icon": "lucide-file",
+              "title": "무제8"
+            }
+          },
+          {
+            "id": "94ca202b03fa82e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 6.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 6"
             }
           }
         ],
@@ -136,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 7.md"
+                "file": "무제8.md"
               },
               "icon": "lucide-info",
-              "title": "무제 7 의 파일 속성"
+              "title": "무제8 의 파일 속성"
             }
           }
         ],
@@ -309,11 +323,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e172747f41579191",
+  "active": "f7fb58fcbf44dd7e",
   "lastOpenFiles": [
+    "무제 6.md",
+    "무제8.md",
     "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
-    "무제 7.md",
     "08. 공부 자료/pdf/논문/paxos-simple.pdf",
+    "무제 7.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전원공급장치.md",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
@@ -344,8 +360,6 @@
     "03. Permanent Notes/Area/📝 구리선 기준 전압강하 식 증명.md",
     "03. Permanent Notes/Area/📝 수용가 설비 전압강하 허용 기준.md",
     "Excalidraw/Drawing 2025-06-16 19.09.10.excalidraw.md",
-    "03. Permanent Notes/Area/결선에 따른 전기 공급 방식.md",
-    "02. MOC/🏛️ 전력 공학.md",
     "Excalidraw/조도 (draw).svg",
     "Excalidraw/실지수 (draw).svg",
     "attachments/screenshot/Pasted image 20250616132021.png"
