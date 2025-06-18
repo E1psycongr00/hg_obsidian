@@ -1,32 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "paxos-simple 1",
-      "path": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf"
-    },
-    {
-      "basename": "무제8",
-      "path": "무제8.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
-      "basename": "무제 6",
-      "path": "무제 6.md"
+      "basename": "한국전기설비규정(KEC) 전문",
+      "path": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf"
     },
     {
       "basename": "paxos-simple",
       "path": "08. 공부 자료/pdf/논문/paxos-simple.pdf"
     },
     {
-      "basename": "🏛️ 전기기사 실기",
-      "path": "02. MOC/🏛️ 전기기사 실기.md"
+      "basename": "무제 6",
+      "path": "무제 6.md"
     },
     {
-      "basename": "한국전기설비규정(KEC) 전문",
-      "path": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf"
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
+      "basename": "🏛️ 전기기사 실기",
+      "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
     {
       "basename": "🏛️ 전기기사 실기 2023년 기출문제",
@@ -95,10 +87,6 @@
     {
       "basename": "결선에 따른 전기 공급 방식",
       "path": "03. Permanent Notes/Area/결선에 따른 전기 공급 방식.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     }
   ],
   "omittedPaths": [],

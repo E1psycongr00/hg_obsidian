@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "1efb9785b375a559",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "aee5f021363c93c3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
-                "page": 1,
-                "left": -66,
-                "top": 796,
+                "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
+                "page": 992,
+                "left": -39,
+                "top": 814,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
-              "title": "paxos-simple 1"
+              "title": "한국전기설비규정(KEC) 전문"
             }
           }
         ]
@@ -119,10 +119,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf"
+                "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf"
               },
               "icon": "lucide-info",
-              "title": "paxos-simple 1 의 파일 속성"
+              "title": "한국전기설비규정(KEC) 전문 의 파일 속성"
             }
           }
         ],
@@ -302,14 +302,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "aee5f021363c93c3",
   "lastOpenFiles": [
-    "무제8.md",
-    "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
-    "02. MOC/Home.md",
-    "무제 6.md",
-    "attachments/screenshot/paxos-simple 1.webp",
     "08. 공부 자료/pdf/논문/paxos-simple.pdf",
+    "무제 6.md",
+    "08. 공부 자료/pdf/논문/paxos-simple 2.pdf",
+    "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
+    "무제8.md",
+    "02. MOC/Home.md",
+    "attachments/screenshot/paxos-simple 1.webp",
     "무제 7.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전원공급장치.md",
