@@ -29,17 +29,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Reference Notes/Paper/📚 KEC 실무.md",
+                "file": "05. Reference Notes/Paper/📚 KEC 실무 가이드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📚 KEC 실무"
+              "title": "📚 KEC 실무 가이드"
+            }
+          },
+          {
+            "id": "0f264917eec431bb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
+                "page": 42,
+                "left": -74,
+                "top": 494,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "keca 2025"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,10 +151,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05. Reference Notes/Paper/📚 KEC 실무.md"
+                "file": "08. 공부 자료/pdf/전기설비/keca 2025.pdf"
               },
               "icon": "lucide-info",
-              "title": "📚 KEC 실무 의 파일 속성"
+              "title": "keca 2025 의 파일 속성"
             }
           }
         ],
@@ -318,10 +334,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7fcb29fa82e6c4ef",
+  "active": "0f264917eec431bb",
   "lastOpenFiles": [
+    "05. Reference Notes/Paper/📚 KEC 실무 가이드.md",
     "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
-    "05. Reference Notes/Paper/📚 KEC 실무.md",
     "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 - 공통 사항.md",
     "05. Reference Notes/Paper",
     "04. Practice Notes/🔬2023년도 3회차 1번.md",
