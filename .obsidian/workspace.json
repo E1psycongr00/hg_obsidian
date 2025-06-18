@@ -57,19 +57,20 @@
             "id": "8a244cef485a6942",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "04. Practice Notes/🔬2023년도 3회차 1번.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "08. 공부 자료/pdf/전기설비/KEC_2024_10.pdf",
+                "page": 33,
+                "left": -7,
+                "top": 844,
+                "zoom": 2.122689075630252
               },
-              "icon": "lucide-file",
-              "title": "🔬2023년도 3회차 1번"
+              "icon": "lucide-file-text",
+              "title": "KEC_2024_10"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +166,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/한국전기설비규정개정전문_2025.pdf"
+                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
               },
               "icon": "lucide-info",
-              "title": "한국전기설비규정개정전문_2025 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 2023년 기출문제 의 파일 속성"
             }
           }
         ],
@@ -176,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "9ed9ed8699c974be",
@@ -312,7 +314,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 474.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,10 +340,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e172747f41579191",
+  "active": "c1481884602d6c7f",
   "lastOpenFiles": [
-    "08. 공부 자료/pdf/전기설비/keca 2025 1.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC_2024_10.pdf",
+    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정개정전문_2025.pdf",
+    "08. 공부 자료/pdf/전기설비/keca 2025 1.pdf",
     "04. Practice Notes/🔬2023년도 3회차 1번.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
