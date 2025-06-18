@@ -2,7 +2,7 @@
 tags:
 aliases: 
 created: 2025-06-18
-title: 📚 KEC 설비 규정
+title: 📚 KEC 설비 규정 - 공통 사항
 note-type: REF
 from: Paper
 uri: ""
