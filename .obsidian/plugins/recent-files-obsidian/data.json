@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 7",
+      "path": "무제 7.md"
+    },
+    {
+      "basename": "paxos-simple",
+      "path": "08. 공부 자료/pdf/논문/paxos-simple.pdf"
+    },
+    {
+      "basename": "paxos-simple 1",
+      "path": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf"
+    },
+    {
       "basename": "한국전기설비규정(KEC) 전문",
       "path": "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf"
     },
@@ -87,14 +99,6 @@
     {
       "basename": "🏛️ 전기기사 필기",
       "path": "02. MOC/🏛️ 전기기사 필기.md"
-    },
-    {
-      "basename": "📝 분기회로수 산정 기준 및 방법",
-      "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
-    },
-    {
-      "basename": "Flyway 사용하기 with Gradle",
-      "path": "03. Permanent Notes/Area/Flyway 사용하기 with Gradle.md"
     }
   ],
   "omittedPaths": [],

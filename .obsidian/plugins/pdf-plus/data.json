@@ -227,7 +227,7 @@
   "autoFocusTarget": "last-active-and-open-then-last-paste",
   "autoPasteTarget": "last-active-and-open-then-last-paste",
   "openAutoFocusTargetIfNotOpened": true,
-  "howToOpenAutoFocusTargetIfNotOpened": "right",
+  "howToOpenAutoFocusTargetIfNotOpened": "hover-editor",
   "closeHoverEditorWhenLostFocus": true,
   "closeSidebarWhenLostFocus": false,
   "openAutoFocusTargetInEditingView": true,
