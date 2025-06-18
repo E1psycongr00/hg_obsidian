@@ -15,6 +15,9 @@ last-reviewed: 2025-06-18
 - [[08. 공부 자료/pdf/전기설비/keca 2025.pdf|keca 2025]]
 
 ## 요약
+![[attachments/screenshot/keca 2025.webp]]
+
+[[08. 공부 자료/pdf/전기설비/keca 2025.pdf#page=42&rect=34,75,559,395|keca 2025, p.42]]
 
 ## 추가 인용
 
