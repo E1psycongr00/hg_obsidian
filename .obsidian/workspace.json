@@ -44,33 +44,17 @@
               "type": "pdf",
               "state": {
                 "file": "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
-                "page": 123,
-                "left": -14,
-                "top": 845,
-                "zoom": 1.0507730867698346
+                "page": 122,
+                "left": -9,
+                "top": 4,
+                "zoom": 1.6492349767166827
               },
               "icon": "lucide-file-text",
               "title": "keca 2025"
             }
-          },
-          {
-            "id": "8a244cef485a6942",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "08. 공부 자료/pdf/전기설비/KEC_2024_10.pdf",
-                "page": 33,
-                "left": -7,
-                "top": 844,
-                "zoom": 2.122689075630252
-              },
-              "icon": "lucide-file-text",
-              "title": "KEC_2024_10"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
+                "file": "08. 공부 자료/pdf/전기설비/KEC_2024_10.pdf"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기기사 실기 2023년 기출문제 의 파일 속성"
+              "title": "KEC_2024_10 의 파일 속성"
             }
           }
         ],
@@ -177,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "9ed9ed8699c974be",
@@ -340,15 +323,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c1481884602d6c7f",
+  "active": "e172747f41579191",
   "lastOpenFiles": [
+    "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
+    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "08. 공부 자료/pdf/전기설비/KEC_2024_10.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 전문.pdf",
     "08. 공부 자료/pdf/전기설비/한국전기설비규정개정전문_2025.pdf",
     "08. 공부 자료/pdf/전기설비/keca 2025 1.pdf",
     "04. Practice Notes/🔬2023년도 3회차 1번.md",
-    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
-    "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
     "08. 공부 자료/pdf/전기설비",
     "attachments/screenshot/Pasted image 20250618140755.png",
     "attachments/screenshot/Pasted image 20250618140741.png",
