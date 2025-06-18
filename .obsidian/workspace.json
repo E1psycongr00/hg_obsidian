@@ -15,8 +15,8 @@
               "state": {
                 "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
                 "page": 1,
-                "left": -66,
-                "top": 574,
+                "left": -31,
+                "top": 796,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -38,7 +38,8 @@
               "title": "무제8"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/논문/paxos-simple 1.pdf"
+                "file": "무제8.md"
               },
               "icon": "lucide-info",
-              "title": "paxos-simple 1 의 파일 속성"
+              "title": "무제8 의 파일 속성"
             }
           }
         ],
@@ -307,10 +308,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "deee4dcb5026477d",
+  "active": "f7fb58fcbf44dd7e",
   "lastOpenFiles": [
-    "무제8.md",
     "08. 공부 자료/pdf/논문/paxos-simple 1.pdf",
+    "무제8.md",
     "무제 6.md",
     "attachments/screenshot/paxos-simple 1.webp",
     "08. 공부 자료/pdf/논문/paxos-simple.pdf",
