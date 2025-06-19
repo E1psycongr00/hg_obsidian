@@ -59,32 +59,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+                "file": "03. Permanent Notes/Area/📝 변압기 절연.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기기사 실기 2023년 기출문제"
+              "title": "📝 변압기 절연"
             }
           },
           {
-            "id": "c1282c08c13cc553",
+            "id": "ed004c132fb340cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/🔬2023 3회차 5번 풀이.md",
+                "file": "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🔬2023 3회차 5번 풀이"
+              "title": "📝 변압기 부하 분담"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전기기사 실기",
+                "query": "분담 부하",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f44d8f9ccca34175",
@@ -180,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/🔬2023 3회차 5번 풀이.md"
+                "file": "03. Permanent Notes/Area/📝 변압기 절연.md"
               },
               "icon": "lucide-info",
-              "title": "🔬2023 3회차 5번 풀이 의 파일 속성"
+              "title": "📝 변압기 절연 의 파일 속성"
             }
           }
         ],
@@ -249,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/🔬2023 3회차 5번 풀이.md",
+                "file": "03. Permanent Notes/Area/📝 변압기 절연.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +278,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🔬2023 3회차 5번 풀이 그래프"
+              "title": "📝 변압기 절연 그래프"
             }
           },
           {
@@ -323,13 +324,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/🔬2023 3회차 5번 풀이.md",
+                "file": "03. Permanent Notes/Area/📝 변압기 절연.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🔬2023 3회차 5번 풀이 의 개요"
+              "title": "📝 변압기 절연 의 개요"
             }
           },
           {
@@ -371,13 +372,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c1282c08c13cc553",
+  "active": "81159e7f8e7101ad",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20250619211228.png",
-    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
-    "07. Solution Notes/Area/🔬2023 3회차 3번 풀이.md",
-    "04. Practice Notes/🔬2023 3회차 5번 풀이.md",
+    "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
+    "03. Permanent Notes/Area/📝 변압기 절연.md",
+    "02. MOC/🏛️ 변압기.md",
+    "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기기사 실기.md",
+    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+    "07. Solution Notes/Area/🔬2023 3회차 5번 풀이.md",
+    "attachments/screenshot/Pasted image 20250619211228.png",
+    "07. Solution Notes/Area/🔬2023 3회차 3번 풀이.md",
     "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
     "03. Permanent Notes/Area/📝 연료 전지.md",
     "07. Solution Notes/Area/🔬2023 3회차 2번 풀이.md",
@@ -414,10 +419,6 @@
     "attachments/screenshot/keca 2025.webp",
     "02. MOC/Home.md",
     "무제 6.md",
-    "무제8.md",
-    "attachments/screenshot/paxos-simple 1.webp",
-    "02. MOC/🏛️ 전원공급장치.md",
-    "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
-    "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md"
+    "무제8.md"
   ]
 }
