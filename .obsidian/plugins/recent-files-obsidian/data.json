@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 차단 용량",
+      "path": "04. Practice Notes/📝 차단 용량.md"
+    },
+    {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "🔬분극과 전속 밀도 관계 증명",
       "path": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md"
-    },
-    {
-      "basename": "AI Knowledge Structuring Strategy",
-      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
     }
   ],
   "omittedPaths": [],
