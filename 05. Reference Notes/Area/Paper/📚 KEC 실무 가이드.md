@@ -29,6 +29,10 @@ last-reviewed: 2025-06-19
 
 [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf#page=5&rect=39,93,552,401&color=important|keca_3.전로_절연_130, p.5]]
 
+![[attachments/screenshot/keca_9.과전류보호_212.webp]]
+
+[[08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf#page=15&rect=61,368,551,749&color=important|keca_9.과전류보호_212, p.15]]
+
 ## 추가 인용
 
 
