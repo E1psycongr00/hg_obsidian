@@ -25,6 +25,10 @@ last-reviewed: 2025-06-19
 - [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_11.고압특고압설비_3xx.pdf|keca_11.고압특고압설비_3xx]]
 
 ## 요약
+
+
+## 추가 인용
+
 ![[attachments/screenshot/keca_3.전로_절연_130.webp]]
 
 [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf#page=5&rect=39,93,552,401&color=important|keca_3.전로_절연_130, p.5]]
@@ -33,7 +37,12 @@ last-reviewed: 2025-06-19
 
 [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf#page=15&rect=61,368,551,749&color=important|keca_9.과전류보호_212, p.15]]
 
-## 추가 인용
+> [!PDF|note] [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf#page=3&selection=177,0,200,16&color=note|keca_9.과전류보호_212, p.3]]
+> > 중성선 `차단` 및 `재폐로`(KEC 212.2.3) 중성 도체를 차단 및 재폐로 하는 회로의 경우에 설치하는 개폐기 및 차단기는 차단 시 중성도체가 상도체 보다 늦게 차단되어야 하며, 재폐로 시에는 상도체와 동시 또는 먼저 투입될 것
+
+![[attachments/screenshot/keca_9.과전류보호_212 1.webp]]
+
+[[08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf#page=4&rect=90,542,534,688&color=important|keca_9.과전류보호_212, p.4]]
 
 
 
