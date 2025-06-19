@@ -44,13 +44,28 @@
               "type": "pdf",
               "state": {
                 "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
-                "page": 1,
+                "page": 29,
                 "left": -74,
-                "top": 842,
+                "top": 480,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
               "title": "한국전기설비규정(KEC) 2.저압전기설비"
+            }
+          },
+          {
+            "id": "f9e060418f6ab8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📚 KEC 설비 규정 -저압 전기 설비"
             }
           }
         ],
@@ -345,8 +360,14 @@
   },
   "active": "37bb207b9f13c5e6",
   "lastOpenFiles": [
-    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
+    "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비.webp",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 - 공통 사항.md",
     "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+    "05. Reference Notes/Paper",
+    "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "attachments/screenshot/keca_9.과전류보호_212.webp",
     "attachments/screenshot/keca_3.전로_절연_130.webp",
     "04. Practice Notes/🔬2023 3회차 2번 풀이.md",
@@ -366,13 +387,9 @@
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_11.고압특고압설비_3xx.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_8.배선규격(굵기,허용전류,전압강하)_232.pdf",
-    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_7.배선설비_213.pdf",
-    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_6.피뢰시스템_150.pdf",
     "attachments/screenshot/keca 2025-1.webp",
-    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 - 공통 사항.md",
     "attachments/screenshot/keca 2025.webp",
     "02. MOC/Home.md",
-    "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
     "무제 6.md",
     "무제8.md",
     "attachments/screenshot/paxos-simple 1.webp",
@@ -387,8 +404,6 @@
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
     "03. Permanent Notes/Area/JDK 17 주요 특징 및 패치 분석.md",
     "03. Permanent Notes/Area/instanceof 패턴 매칭.md",
-    "09. PARA/3.Resources/IT/java/3. Java 문법.md",
-    "03. Permanent Notes/Area/Record Pattern.md",
-    "Excalidraw/조도 (draw).svg"
+    "09. PARA/3.Resources/IT/java/3. Java 문법.md"
   ]
 }
