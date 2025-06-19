@@ -46,7 +46,7 @@
                 "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
                 "page": 29,
                 "left": -74,
-                "top": 480,
+                "top": 30,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -68,8 +68,7 @@
               "title": "📚 KEC 설비 규정 -저압 전기 설비"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,10 +164,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf"
+                "file": "04. Practice Notes/🔬2023 3회차 2번 풀이.md"
               },
               "icon": "lucide-info",
-              "title": "한국전기설비규정(KEC) 2.저압전기설비 의 파일 속성"
+              "title": "🔬2023 3회차 2번 풀이 의 파일 속성"
             }
           }
         ],
@@ -358,19 +357,21 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "37bb207b9f13c5e6",
+  "active": "2273e83212543610",
   "lastOpenFiles": [
-    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
-    "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비.webp",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
-    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 - 공통 사항.md",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
+    "04. Practice Notes/🔬2023 3회차 2번 풀이.md",
     "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+    "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비 1.webp",
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
+    "attachments/screenshot/Pasted image 20250619170306.png",
+    "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비.webp",
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 - 공통 사항.md",
     "05. Reference Notes/Paper",
     "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
-    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "attachments/screenshot/keca_9.과전류보호_212.webp",
     "attachments/screenshot/keca_3.전로_절연_130.webp",
-    "04. Practice Notes/🔬2023 3회차 2번 풀이.md",
     "attachments/screenshot/Pasted image 20250619165229.png",
     "07. Solution Notes/Area/🔬2023년도 3회차 1번 풀이.md",
     "07. Solution Notes/Area/🔬15년 회로이론 70번 문제 풀이 by 테브난.md",
@@ -396,8 +397,6 @@
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전원공급장치.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
-    "attachments/screenshot/Pasted image 20250618140755.png",
-    "attachments/screenshot/Pasted image 20250618140741.png",
     "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
     "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md",

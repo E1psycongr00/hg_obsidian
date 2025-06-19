@@ -22,5 +22,7 @@ last-reviewed: 2025-06-19
 
 [[08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf#page=29&rect=58,167,535,315&color=yellow|한국전기설비규정(KEC) 2.저압전기설비, p.29]]
 
+![[attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비 1.webp]]
 
+[[08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf#page=30&rect=56,553,541,727&color=important|한국전기설비규정(KEC) 2.저압전기설비, p.30]]
 ## 코멘트
