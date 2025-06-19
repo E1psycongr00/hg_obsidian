@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "🔬2023년도 3회차 1번",
-      "path": "07. Solution Notes/Area/🔬2023년도 3회차 1번.md"
+      "basename": "🔬2023 3회차 2번 풀이",
+      "path": "04. Practice Notes/🔬2023 3회차 2번 풀이.md"
     },
     {
-      "basename": "keca_3.전로_절연_130",
-      "path": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf"
+      "basename": "🔬2023년도 3회차 1번 풀이",
+      "path": "07. Solution Notes/Area/🔬2023년도 3회차 1번 풀이.md"
+    },
+    {
+      "basename": "🔬15년 회로이론 70번 문제 풀이 by 테브난",
+      "path": "07. Solution Notes/Area/🔬15년 회로이론 70번 문제 풀이 by 테브난.md"
+    },
+    {
+      "basename": "🔬15년 회로이론 70번 문제 풀리 by 노튼",
+      "path": "07. Solution Notes/Area/🔬15년 회로이론 70번 문제 풀리 by 노튼.md"
+    },
+    {
+      "basename": "🔬분극과 전속 밀도 관계 증명",
+      "path": "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md"
+    },
+    {
+      "basename": "AI Knowledge Structuring Strategy",
+      "path": "AI_Rules/AI Knowledge Structuring Strategy.md"
+    },
+    {
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "📚 KEC 실무 가이드",
       "path": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md"
+    },
+    {
+      "basename": "keca_3.전로_절연_130",
+      "path": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf"
     },
     {
       "basename": "한국전기설비규정(KEC) 0.목차",
@@ -67,34 +99,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "컴파일(compile)과 빌드(build) 개념",
-      "path": "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md"
-    },
-    {
-      "basename": "📚 Oracle JDK 21 공식 문서",
-      "path": "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md"
-    },
-    {
-      "basename": "🏛️ Java 버전별 패치 및 마이그레이션 가이드",
-      "path": "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md"
-    },
-    {
-      "basename": "JDK 17 주요 특징 및 패치 분석",
-      "path": "03. Permanent Notes/Area/JDK 17 주요 특징 및 패치 분석.md"
-    },
-    {
-      "basename": "3. Java 문법",
-      "path": "09. PARA/3.Resources/IT/java/3. Java 문법.md"
-    },
-    {
-      "basename": "🏛️ 전원공급장치",
-      "path": "02. MOC/🏛️ 전원공급장치.md"
-    },
-    {
-      "basename": "🏛️ 옥내배선설계",
-      "path": "02. MOC/🏛️ 옥내배선설계.md"
     }
   ],
   "omittedPaths": [],

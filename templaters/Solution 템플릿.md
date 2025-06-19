@@ -16,6 +16,7 @@ note-type: SOLUTION
 completed: false
 archive: false
 area-reason:
+last-reviewed: ${date}
 ---
 `;
   
