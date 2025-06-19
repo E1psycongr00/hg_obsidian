@@ -11,10 +11,16 @@
             "id": "ee053f58778f71df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "type": "pdf",
+              "state": {
+                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 0.목차.pdf",
+                "page": 4,
+                "left": -4,
+                "top": 353,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "한국전기설비규정(KEC) 0.목차"
             }
           }
         ]
@@ -149,10 +155,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/keca 2025-2.pdf"
+                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 0.목차.pdf"
               },
               "icon": "lucide-info",
-              "title": "keca 2025-2 의 파일 속성"
+              "title": "한국전기설비규정(KEC) 0.목차 의 파일 속성"
             }
           }
         ],
@@ -344,14 +350,16 @@
   },
   "active": "e172747f41579191",
   "lastOpenFiles": [
-    "08. 공부 자료/pdf/전기설비/keca 2025-1.pdf",
+    "08. 공부 자료/pdf/전기설비/무제",
     "08. 공부 자료/pdf/전기설비/keca 2025-2.pdf",
-    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 7.발전용_화력설비.pdf",
-    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 6.발전용_수력설비.pdf",
-    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 4-5.전기철도.pdf",
-    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 3.고압_특고압_전기설비.pdf",
-    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 2.저압전기설비.pdf",
-    "08. 공부 자료/pdf/전기설비/한국전기설비규정(KEC) 1.공통사항.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC",
+    "08. 공부 자료/pdf/전기설비/keca 2025-1.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 7.발전용_화력설비.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 6.발전용_수력설비.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 4-5.전기철도.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 3.고압_특고압_전기설비.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 1.공통사항.pdf",
     "04. Practice Notes/🔬2023년도 3회차 1번.md",
     "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
     "attachments/screenshot/keca 2025-1.webp",
@@ -359,9 +367,7 @@
     "attachments/screenshot/keca 2025.webp",
     "02. MOC/Home.md",
     "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
-    "05. Reference Notes/Paper",
     "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
-    "05. Reference Notes/Area/Paper",
     "무제 6.md",
     "무제8.md",
     "attachments/screenshot/paxos-simple 1.webp",
