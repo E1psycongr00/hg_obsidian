@@ -74,13 +74,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 변압기 부하 분담"
+              "title": "🏛️ 전력 공학"
             }
           }
         ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "분담 부하",
+                "query": "전력 공학",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 부하 분담.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "📝 변압기 부하 분담 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           }
         ],
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +278,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 변압기 부하 분담 그래프"
+              "title": "🏛️ 전력 공학 그래프"
             }
           },
           {
@@ -324,13 +324,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 변압기 부하 분담 의 개요"
+              "title": "🏛️ 전력 공학 의 개요"
             }
           },
           {
@@ -375,6 +375,8 @@
   "active": "ed004c132fb340cb",
   "lastOpenFiles": [
     "02. MOC/🏛️ 변압기.md",
+    "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/Area/%Z법.md",
     "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
     "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
@@ -417,7 +419,6 @@
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_11.고압특고압설비_3xx.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_8.배선규격(굵기,허용전류,전압강하)_232.pdf",
-    "attachments/screenshot/keca 2025-1.webp",
-    "02. MOC/Home.md"
+    "attachments/screenshot/keca 2025-1.webp"
   ]
 }
