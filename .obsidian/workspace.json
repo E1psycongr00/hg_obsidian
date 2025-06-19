@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "전기기사 실기",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -360,11 +360,15 @@
   },
   "active": "5618ed77f83d856d",
   "lastOpenFiles": [
-    "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
     "07. Solution Notes/Area/🔬2023 3회차 2번 풀이.md",
-    "04. Practice Notes/🔬2023 3회차 3번 풀이.md",
-    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비 1.webp",
+    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+    "04. Practice Notes/🔬2023 3회차 3번 풀이.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
+    "02. MOC/🏛️ 전기 기사.md",
+    "02. MOC/🏛️ 단권 변압기.md",
+    "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "attachments/screenshot/Pasted image 20250619170306.png",
@@ -396,15 +400,10 @@
     "무제 6.md",
     "무제8.md",
     "attachments/screenshot/paxos-simple 1.webp",
-    "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전원공급장치.md",
-    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
-    "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/Area/컴파일(compile)과 빌드(build) 개념.md",
     "05. Reference Notes/Area/Web/📚 Oracle JDK 21 공식 문서.md",
     "02. MOC/🏛️ Java 버전별 패치 및 마이그레이션 가이드.md",
-    "03. Permanent Notes/Area/JDK 17 주요 특징 및 패치 분석.md",
-    "03. Permanent Notes/Area/instanceof 패턴 매칭.md",
-    "09. PARA/3.Resources/IT/java/3. Java 문법.md"
+    "03. Permanent Notes/Area/JDK 17 주요 특징 및 패치 분석.md"
   ]
 }
