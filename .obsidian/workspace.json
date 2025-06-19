@@ -23,22 +23,6 @@
             }
           },
           {
-            "id": "d1ce7d2e73b6bf7e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
-                "page": 3,
-                "left": -74,
-                "top": 39,
-                "zoom": 1.5
-              },
-              "icon": "lucide-file-text",
-              "title": "keca_9.과전류보호_212"
-            }
-          },
-          {
             "id": "37bb207b9f13c5e6",
             "type": "leaf",
             "state": {
@@ -47,7 +31,7 @@
                 "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
                 "page": 26,
                 "left": -74,
-                "top": 654,
+                "top": 554,
                 "zoom": 1.5
               },
               "icon": "lucide-file-text",
@@ -99,8 +83,7 @@
               "title": "🏛️ 전력 공학"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +179,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf"
+                "file": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md"
               },
               "icon": "lucide-info",
-              "title": "한국전기설비규정(KEC) 2.저압전기설비 의 파일 속성"
+              "title": "📚 KEC 실무 가이드 의 파일 속성"
             }
           }
         ],
@@ -265,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
+                "file": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "한국전기설비규정(KEC) 2.저압전기설비 그래프"
+              "title": "📚 KEC 실무 가이드 그래프"
             }
           },
           {
@@ -339,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
+                "file": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "한국전기설비규정(KEC) 2.저압전기설비 의 개요"
+              "title": "📚 KEC 실무 가이드 의 개요"
             }
           },
           {
@@ -388,13 +371,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "37bb207b9f13c5e6",
+  "active": "615b7d6c6cfa97c2",
   "lastOpenFiles": [
-    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
-    "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
-    "attachments/screenshot/keca_9.과전류보호_212 1.webp",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
+    "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
+    "attachments/screenshot/keca_9.과전류보호_212 1.webp",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
     "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/📝 차단 용량.md",
