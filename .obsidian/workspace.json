@@ -83,7 +83,8 @@
               "title": "🏛️ 전력 공학"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,10 +180,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "📚 KEC 실무 가이드 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           }
         ],
@@ -248,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📚 KEC 실무 가이드 그래프"
+              "title": "🏛️ 전력 공학 그래프"
             }
           },
           {
@@ -322,13 +323,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+                "file": "02. MOC/🏛️ 전력 공학.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📚 KEC 실무 가이드 의 개요"
+              "title": "🏛️ 전력 공학 의 개요"
             }
           },
           {
@@ -371,17 +372,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "615b7d6c6cfa97c2",
+  "active": "ed004c132fb340cb",
   "lastOpenFiles": [
-    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
+    "02. MOC/🏛️ 변압기.md",
     "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
     "attachments/screenshot/keca_9.과전류보호_212 1.webp",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
     "02. MOC/🏛️ 전력 공학.md",
     "04. Practice Notes/📝 차단 용량.md",
-    "02. MOC/🏛️ 변압기.md",
     "03. Permanent Notes/Area/%Z법.md",
     "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
     "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
