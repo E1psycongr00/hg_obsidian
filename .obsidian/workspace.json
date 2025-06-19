@@ -4,28 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d7d6796f77d76530",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee053f58778f71df",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 0.목차.pdf",
-                "page": 4,
-                "left": -4,
-                "top": 353,
-                "zoom": 1.5
-              },
-              "icon": "lucide-file-text",
-              "title": "한국전기설비규정(KEC) 0.목차"
-            }
-          }
-        ]
-      },
-      {
         "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
@@ -57,6 +35,22 @@
               },
               "icon": "lucide-file",
               "title": "📚 KEC 실무 가이드"
+            }
+          },
+          {
+            "id": "ee053f58778f71df",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf",
+                "page": 5,
+                "left": -74,
+                "top": 444,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "keca_3.전로_절연_130"
             }
           }
         ]
@@ -155,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 0.목차.pdf"
+                "file": "04. Practice Notes/🔬2023년도 3회차 1번.md"
               },
               "icon": "lucide-info",
-              "title": "한국전기설비규정(KEC) 0.목차 의 파일 속성"
+              "title": "🔬2023년도 3회차 1번 의 파일 속성"
             }
           }
         ],
@@ -348,25 +342,25 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e172747f41579191",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "08. 공부 자료/pdf/전기설비/무제",
-    "08. 공부 자료/pdf/전기설비/keca 2025-2.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC",
-    "08. 공부 자료/pdf/전기설비/keca 2025-1.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 7.발전용_화력설비.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 6.발전용_수력설비.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 4-5.전기철도.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 3.고압_특고압_전기설비.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
-    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 1.공통사항.pdf",
+    "attachments/screenshot/keca_3.전로_절연_130.webp",
     "04. Practice Notes/🔬2023년도 3회차 1번.md",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf",
     "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+    "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 0.목차.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_2.전선_120.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_1.일반사항.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_11.고압특고압설비_3xx.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_8.배선규격(굵기,허용전류,전압강하)_232.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_7.배선설비_213.pdf",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_6.피뢰시스템_150.pdf",
     "attachments/screenshot/keca 2025-1.webp",
     "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 - 공통 사항.md",
     "attachments/screenshot/keca 2025.webp",
     "02. MOC/Home.md",
-    "08. 공부 자료/pdf/전기설비/keca 2025.pdf",
     "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
     "무제 6.md",
     "무제8.md",

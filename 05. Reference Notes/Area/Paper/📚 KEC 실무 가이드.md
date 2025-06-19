@@ -1,5 +1,5 @@
 ---
-tags:
+tags: 
 aliases: 
 created: 2025-06-18
 title: 📚 KEC 실무 가이드
@@ -7,18 +7,27 @@ note-type: REF
 from: Paper
 uri: ""
 archived: false
-last-reviewed: 2025-06-18
+last-reviewed: 2025-06-19
 ---
 
 ## 출처
 - [한국 전기 공사 협회 KEC 실무 가이드 북](https://www.keca.or.kr/ebook/keca_brochure/KEC_guide_20241231/index.html)
-- [[08. 공부 자료/pdf/전기설비/keca 2025-1.pdf|keca 2025-1]]
-- [[08. 공부 자료/pdf/전기설비/keca 2025-2.pdf|keca 2025-2]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_1.일반사항.pdf|keca_1.일반사항]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_2.전선_120.pdf|keca_2.전선_120]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf|keca_3.전로_절연_130]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_4.접지시스템_140.pdf|keca_4.접지시스템_140]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_5.감전보호_211.pdf|keca_5.감전보호_211]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_6.피뢰시스템_150.pdf|keca_6.피뢰시스템_150]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_7.배선설비_213.pdf|keca_7.배선설비_213]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_8.배선규격(굵기,허용전류,전압강하)_232.pdf|keca_8.배선규격(굵기,허용전류,전압강하)_232]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf|keca_9.과전류보호_212]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf|keca_10.배선설비_공사방법_213]]
+- [[08. 공부 자료/pdf/전기설비/실무 가이드/keca_11.고압특고압설비_3xx.pdf|keca_11.고압특고압설비_3xx]]
 
 ## 요약
-![[attachments/screenshot/keca 2025-1.webp]]
+![[attachments/screenshot/keca_3.전로_절연_130.webp]]
 
-[[08. 공부 자료/pdf/전기설비/keca 2025-1.pdf#page=42&rect=36,70,559,398&color=important|keca 2025-1, p.42]]
+[[08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf#page=5&rect=39,93,552,401&color=important|keca_3.전로_절연_130, p.5]]
 
 ## 추가 인용
 
