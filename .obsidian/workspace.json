@@ -23,6 +23,22 @@
             }
           },
           {
+            "id": "e5569f4212baa533",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 846,
+                "zoom": 1.5
+              },
+              "icon": "lucide-file-text",
+              "title": "keca_10.배선설비_공사방법_213"
+            }
+          },
+          {
             "id": "37bb207b9f13c5e6",
             "type": "leaf",
             "state": {
@@ -84,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md"
+                "file": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전력 공학 의 파일 속성"
+              "title": "keca_10.배선설비_공사방법_213 의 파일 속성"
             }
           }
         ],
@@ -249,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +293,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 전력 공학 그래프"
+              "title": "keca_10.배선설비_공사방법_213 그래프"
             }
           },
           {
@@ -323,13 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전력 공학 의 개요"
+              "title": "keca_10.배선설비_공사방법_213 의 개요"
             }
           },
           {
@@ -371,10 +387,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ed004c132fb340cb",
+  "active": "e5569f4212baa533",
   "lastOpenFiles": [
-    "04. Practice Notes/📝 차단 용량.md",
+    "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
+    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
+    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "04. Practice Notes/📝 차단 용량.md",
     "02. MOC/🏛️ 변압기.md",
     "03. Permanent Notes/Area/%Z법.md",
     "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
@@ -387,7 +406,6 @@
     "07. Solution Notes/Area/🔬2023 3회차 5번 풀이.md",
     "attachments/screenshot/Pasted image 20250619211228.png",
     "07. Solution Notes/Area/🔬2023 3회차 3번 풀이.md",
-    "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
     "03. Permanent Notes/Area/📝 연료 전지.md",
     "07. Solution Notes/Area/🔬2023 3회차 2번 풀이.md",
     "attachments/screenshot/keca_9.과전류보호_212.webp",
@@ -395,8 +413,6 @@
     "attachments/screenshot/Pasted image 20250619165229.png",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 단권 변압기.md",
-    "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
-    "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "attachments/screenshot/Pasted image 20250619170306.png",
     "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비.webp",
@@ -410,7 +426,6 @@
     "07. Solution Notes/Area/🔬분극과 전속 밀도 관계 증명.md",
     "AI_Rules/AI Knowledge Structuring Strategy.md",
     "AI_Rules/AI Note-Type Writing Guide.md",
-    "AI_Rules/AI Obsidian Core Rules.md",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 0.목차.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_2.전선_120.pdf",
