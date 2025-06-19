@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 변압기 절연",
-      "path": "03. Permanent Notes/Area/📝 변압기 절연.md"
+      "basename": "📝 변압기 병렬 운전 조건",
+      "path": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md"
     },
     {
       "basename": "📝 변압기 부하 분담",
@@ -11,6 +11,10 @@
     {
       "basename": "🏛️ 변압기",
       "path": "02. MOC/🏛️ 변압기.md"
+    },
+    {
+      "basename": "📝 변압기 절연",
+      "path": "03. Permanent Notes/Area/📝 변압기 절연.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -95,10 +99,6 @@
     {
       "basename": "AI Obsidian Core Rules",
       "path": "AI_Rules/AI Obsidian Core Rules.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
     }
   ],
   "omittedPaths": [],

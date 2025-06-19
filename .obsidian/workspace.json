@@ -59,13 +59,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 절연.md",
+                "file": "02. MOC/🏛️ 변압기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 변압기 절연"
+              "title": "🏛️ 변압기"
             }
           },
           {
@@ -74,17 +74,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
+                "file": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 변압기 부하 분담"
+              "title": "📝 변압기 병렬 운전 조건"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 절연.md"
+                "file": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md"
               },
               "icon": "lucide-info",
-              "title": "📝 변압기 절연 의 파일 속성"
+              "title": "📝 변압기 병렬 운전 조건 의 파일 속성"
             }
           }
         ],
@@ -250,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 절연.md",
+                "file": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,7 +278,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 변압기 절연 그래프"
+              "title": "📝 변압기 병렬 운전 조건 그래프"
             }
           },
           {
@@ -324,13 +324,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 변압기 절연.md",
+                "file": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 변압기 절연 의 개요"
+              "title": "📝 변압기 병렬 운전 조건 의 개요"
             }
           },
           {
@@ -372,11 +372,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "81159e7f8e7101ad",
+  "active": "ed004c132fb340cb",
   "lastOpenFiles": [
     "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
-    "03. Permanent Notes/Area/📝 변압기 절연.md",
+    "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
+    "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
     "02. MOC/🏛️ 변압기.md",
+    "03. Permanent Notes/Area/📝 변압기 절연.md",
     "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
@@ -416,9 +418,6 @@
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_8.배선규격(굵기,허용전류,전압강하)_232.pdf",
     "attachments/screenshot/keca 2025-1.webp",
-    "attachments/screenshot/keca 2025.webp",
-    "02. MOC/Home.md",
-    "무제 6.md",
-    "무제8.md"
+    "02. MOC/Home.md"
   ]
 }
