@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+                "file": "03. Permanent Notes/Area/동기 발전기 병렬 운전 조건.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기기사 실기 2023년 기출문제"
+              "title": "동기 발전기 병렬 운전 조건"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전력 공학",
+                "query": "동기 발전기",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f44d8f9ccca34175",
@@ -148,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
+                "file": "03. Permanent Notes/Area/동기 발전기 병렬 운전 조건.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전기기사 실기 2023년 기출문제 의 파일 속성"
+              "title": "동기 발전기 병렬 운전 조건 의 파일 속성"
             }
           }
         ],
@@ -281,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+                "file": "03. Permanent Notes/Area/동기 발전기 병렬 운전 조건.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🏛️ 전기기사 실기 2023년 기출문제 의 개요"
+              "title": "동기 발전기 병렬 운전 조건 의 개요"
             }
           },
           {
@@ -300,8 +301,7 @@
               "title": "Smart composer chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -330,13 +330,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "41297a751c63d11a",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전기 기기.md",
+    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+    "02. MOC/🏛️ 차단기.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/Home.md",
     "03. Permanent Notes/Area/📝 차단 용량.md",
-    "02. MOC/🏛️ 차단기.md",
     "04. Practice Notes/📝 누전 차단기 (ELCB).md",
     "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md",
     "04. Practice Notes/📝 배선 차단기 (MCCB).md",
@@ -360,8 +362,6 @@
     "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
     "03. Permanent Notes/Area/📝 변압기 절연.md",
-    "02. MOC/🏛️ 전기 기기.md",
-    "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "07. Solution Notes/Area/🔬2023 3회차 5번 풀이.md",
     "attachments/screenshot/Pasted image 20250619211228.png",
     "07. Solution Notes/Area/🔬2023 3회차 3번 풀이.md",
