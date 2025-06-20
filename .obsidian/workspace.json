@@ -52,8 +52,7 @@
               "title": "📝 고압 특고압 차단기별 특징"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md"
+                "file": "03. Permanent Notes/Area/동기 발전기 병렬 운전 조건.md"
               },
               "icon": "lucide-info",
-              "title": "📝 고압 특고압 차단기별 특징 의 파일 속성"
+              "title": "동기 발전기 병렬 운전 조건 의 파일 속성"
             }
           }
         ],
@@ -283,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md",
+                "file": "03. Permanent Notes/Area/동기 발전기 병렬 운전 조건.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 고압 특고압 차단기별 특징 의 개요"
+              "title": "동기 발전기 병렬 운전 조건 의 개요"
             }
           },
           {
@@ -331,7 +330,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "3254a962f853b5c5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "02. MOC/🏛️ 조명.md",
     "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md",
