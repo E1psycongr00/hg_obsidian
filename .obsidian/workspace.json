@@ -53,22 +53,37 @@
             }
           },
           {
-            "id": "10d5c9935a83349b",
+            "id": "c0067a166368dd43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 기중 차단기 (ACB).md",
+                "file": "04. Practice Notes/📝 누전 차단기 (ELCB).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 기중 차단기 (ACB)"
+              "title": "📝 누전 차단기 (ELCB)"
+            }
+          },
+          {
+            "id": "2e05481e0bbabee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/📝 배선 차단기 (MCCB).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 배선 차단기 (MCCB)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,10 +179,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 차단기.md"
+                "file": "04. Practice Notes/📝 배선 차단기 (MCCB).md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 차단기 의 파일 속성"
+              "title": "📝 배선 차단기 (MCCB) 의 파일 속성"
             }
           }
         ],
@@ -366,13 +381,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "3254a962f853b5c5",
+  "active": "2e05481e0bbabee2",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 차단기 개요.md",
+    "04. Practice Notes/📝 누전 차단기 (ELCB).md",
+    "02. MOC/🏛️ 차단기.md",
     "03. Permanent Notes/Area/📝 기중 차단기 (ACB).md",
+    "04. Practice Notes/📝 배선 차단기 (MCCB).md",
+    "03. Permanent Notes/Area/📝 차단기 개요.md",
     "attachments/screenshot/Pasted image 20250620151115.png",
     "03. Permanent Notes/Area/아크.md",
-    "02. MOC/🏛️ 차단기.md",
     "02. MOC/🏛️ 조명.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 옥내배선설계.md",
@@ -402,7 +419,6 @@
     "attachments/screenshot/keca_9.과전류보호_212.webp",
     "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비 1.webp",
     "attachments/screenshot/Pasted image 20250619165229.png",
-    "02. MOC/🏛️ 전기 기사.md",
     "attachments/screenshot/Pasted image 20250619170306.png",
     "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비.webp",
     "05. Reference Notes/Paper",
