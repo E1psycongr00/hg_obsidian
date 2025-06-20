@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "7695fe5bb237899b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Permanent Notes/Area/📝 차단기 개요.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 차단기 개요"
+            }
+          },
+          {
             "id": "10d5c9935a83349b",
             "type": "leaf",
             "state": {
@@ -164,10 +179,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 기중 차단기 (ACB).md"
+                "file": "03. Permanent Notes/Area/📝 차단기 개요.md"
               },
               "icon": "lucide-info",
-              "title": "📝 기중 차단기 (ACB) 의 파일 속성"
+              "title": "📝 차단기 개요 의 파일 속성"
             }
           }
         ],
@@ -366,17 +381,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "10d5c9935a83349b",
+  "active": "7695fe5bb237899b",
   "lastOpenFiles": [
-    "04. Practice Notes/📝 기중 차단기 (ACB).md",
     "02. MOC/🏛️ 차단기.md",
+    "03. Permanent Notes/Area/📝 차단기 개요.md",
+    "04. Practice Notes/📝 기중 차단기 (ACB).md",
     "02. MOC/🏛️ 조명.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 옥내배선설계.md",
     "03. Permanent Notes/Area/📝 차단 용량.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 변압기.md",
-    "03. Permanent Notes/Area/차단기.md",
     "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md",
