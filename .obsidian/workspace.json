@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "🏛️ 전기기사 실기 2023년 기출문제"
             }
           },
           {
@@ -148,10 +148,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 2023년 기출문제 의 파일 속성"
             }
           }
         ],
@@ -281,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 의 개요"
+              "title": "🏛️ 전기기사 실기 2023년 기출문제 의 개요"
             }
           },
           {
@@ -332,8 +332,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 차단 용량.md",
     "02. MOC/🏛️ 전기기사 실기.md",
+    "02. MOC/🏛️ 전기 기사.md",
+    "02. MOC/Home.md",
+    "03. Permanent Notes/Area/📝 차단 용량.md",
     "02. MOC/🏛️ 차단기.md",
     "04. Practice Notes/📝 누전 차단기 (ELCB).md",
     "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md",
@@ -344,7 +346,6 @@
     "03. Permanent Notes/Area/아크.md",
     "02. MOC/🏛️ 조명.md",
     "02. MOC/🏛️ 옥내배선설계.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 변압기.md",
     "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
@@ -364,7 +365,6 @@
     "07. Solution Notes/Area/🔬2023 3회차 5번 풀이.md",
     "attachments/screenshot/Pasted image 20250619211228.png",
     "07. Solution Notes/Area/🔬2023 3회차 3번 풀이.md",
-    "03. Permanent Notes/Area/📝 연료 전지.md",
     "attachments/screenshot/keca_9.과전류보호_212.webp",
     "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비 1.webp",
     "attachments/screenshot/Pasted image 20250619165229.png",
