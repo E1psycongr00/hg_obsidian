@@ -16,11 +16,6 @@ cssclasses:
 TABLE file.name AS "파일명", created AS "작성 완료 날짜" FROM "" WHERE completed = false SORT file.mtime DESC LIMIT 9
 ```
 
-- 📖 **최근 작성한 노트 (상위 5개)**
-```dataview
-TABLE file.name AS "파일명", created AS "작성 완료 날짜" FROM "" SORT created DESC LIMIT 5
-```
-
 - 📖 **노트 작성 및 관리 가이드**
 ```dataview
 LIST file.name
