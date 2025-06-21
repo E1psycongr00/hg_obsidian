@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 6",
+      "path": "무제 6.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "📝 변압기 부하 분담",
       "path": "03. Permanent Notes/Area/📝 변압기 부하 분담.md"
-    },
-    {
-      "basename": "📝 변압기 병렬 운전 조건",
-      "path": "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md"
-    },
-    {
-      "basename": "📝 변압기 절연",
-      "path": "03. Permanent Notes/Area/📝 변압기 절연.md"
     }
   ],
   "omittedPaths": [],

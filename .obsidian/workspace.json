@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/Home.md",
-                "mode": "preview",
+                "file": "무제 6.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "무제 6"
             }
           }
         ]
@@ -76,8 +76,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f44d8f9ccca34175",
@@ -119,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/Home.md"
+                "file": "무제 6.md"
               },
               "icon": "lucide-info",
-              "title": "Home 의 파일 속성"
+              "title": "무제 6 의 파일 속성"
             }
           }
         ],
@@ -262,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "무제 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 의 개요"
+              "title": "무제 6 의 개요"
             }
           },
           {
@@ -312,6 +311,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "무제.md",
+    "02. MOC/Home.md",
     "03. Permanent Notes/Area/동기 발전기 병렬 운전 조건.md",
     "02. MOC/🏛️ 조명.md",
     "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md",
@@ -320,7 +321,6 @@
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/Home.md",
     "03. Permanent Notes/Area/📝 차단 용량.md",
     "04. Practice Notes/📝 누전 차단기 (ELCB).md",
     "04. Practice Notes/📝 배선 차단기 (MCCB).md",
@@ -343,7 +343,6 @@
     "03. Permanent Notes/Area/📝 변압기 병렬 운전 조건.md",
     "Excalidraw/변압기 병렬 운전 극성 일치 (draw).svg",
     "03. Permanent Notes/Area/📝 변압기 절연.md",
-    "07. Solution Notes/Area/🔬2023 3회차 5번 풀이.md",
     "attachments/screenshot/Pasted image 20250619211228.png",
     "attachments/screenshot/keca_9.과전류보호_212.webp",
     "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비 1.webp",
