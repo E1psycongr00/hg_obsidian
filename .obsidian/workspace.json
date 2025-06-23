@@ -59,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "02. MOC/🏛️ 변압기.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "V결선",
+                "query": "델타 결선",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -358,11 +358,13 @@
   },
   "active": "beb5672136c86539",
   "lastOpenFiles": [
+    "02. MOC/🏛️ 전기 기기.md",
+    "03. Permanent Notes/Area/변압기 감극성과 가극성.md",
+    "02. MOC/🏛️ 변압기.md",
     "02. MOC/🏛️ 단권 변압기.md",
     "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
     "Excalidraw/단권 변압기 V 결선 (draw).svg",
     "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선 자기용량 부하용량 관계 증명.md",
-    "02. MOC/🏛️ 변압기.md",
     "03. Permanent Notes/Area/📝 변압기 부하 분담.md",
     "03. Permanent Notes/Area/📝 단권 변압기 Y결선 자기용량과 부하용량 관계 증명.md",
     "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md",
@@ -381,7 +383,6 @@
     "02. MOC/🏛️ 조명.md",
     "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md",
     "02. MOC/🏛️ 차단기.md",
-    "02. MOC/🏛️ 전기 기기.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "03. Permanent Notes/Area/📝 차단 용량.md",
