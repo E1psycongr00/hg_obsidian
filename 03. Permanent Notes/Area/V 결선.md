@@ -5,6 +5,7 @@ tags:
 aliases: 
 created: 2025-04-28
 title: V 결선
+level: 
 note-type: COMMON
 completed: true
 ---

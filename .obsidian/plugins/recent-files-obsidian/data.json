@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "V 결선",
+      "path": "03. Permanent Notes/Area/V 결선.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
+      "basename": "📝 변압기 효율",
+      "path": "03. Permanent Notes/Area/📝 변압기 효율.md"
+    },
+    {
+      "basename": "🔬2023 - 3회 7번 문제 풀이",
+      "path": "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md"
+    },
+    {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
+    },
+    {
+      "basename": "🏛️ 변압기",
+      "path": "02. MOC/🏛️ 변압기.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -9,20 +33,12 @@
       "path": "03. Permanent Notes/Area/2전력계법.md"
     },
     {
-      "basename": "V 결선",
-      "path": "03. Permanent Notes/Area/V 결선.md"
-    },
-    {
       "basename": "delta 결선",
       "path": "03. Permanent Notes/Area/delta 결선.md"
     },
     {
       "basename": "Y 결선",
       "path": "03. Permanent Notes/Area/Y 결선.md"
-    },
-    {
-      "basename": "🏛️ 변압기",
-      "path": "02. MOC/🏛️ 변압기.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -45,20 +61,8 @@
       "path": "AI_Rules/AI Note-Type Writing Guide.md"
     },
     {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
-    },
-    {
-      "basename": "🔬2023 - 3회 7번 문제 풀이",
-      "path": "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md"
-    },
-    {
       "basename": "🏛️ 전기기사 실기 2023년 기출문제",
       "path": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
     },
     {
       "basename": "Home",
@@ -95,10 +99,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "📝 차단 용량",
-      "path": "03. Permanent Notes/Area/📝 차단 용량.md"
     }
   ],
   "omittedPaths": [],
