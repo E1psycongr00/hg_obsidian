@@ -5,6 +5,14 @@
       "path": "02. MOC/🏛️ 변압기.md"
     },
     {
+      "basename": "🏛️ 단권 변압기",
+      "path": "02. MOC/🏛️ 단권 변압기.md"
+    },
+    {
+      "basename": "📝 단권 변압기 V결선",
+      "path": "03. Permanent Notes/Area/📝 단권 변압기 V결선.md"
+    },
+    {
       "basename": "📝 역 V결선 (Open-Delta) 분석",
       "path": "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md"
     },
@@ -91,14 +99,6 @@
     {
       "basename": "📚 KEC 실무 가이드",
       "path": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md"
-    },
-    {
-      "basename": "한국전기설비규정(KEC) 2.저압전기설비",
-      "path": "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf"
-    },
-    {
-      "basename": "📚 KEC 설비 규정 -저압 전기 설비",
-      "path": "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md"
     }
   ],
   "omittedPaths": [],
