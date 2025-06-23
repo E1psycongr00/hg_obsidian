@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "칼로리",
+      "path": "03. Permanent Notes/Area/칼로리.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📝 단권 변압기 V결선",
       "path": "03. Permanent Notes/Area/📝 단권 변압기 V결선.md"
-    },
-    {
-      "basename": "AI Note-Type Writing Guide",
-      "path": "AI_Rules/AI Note-Type Writing Guide.md"
     }
   ],
   "omittedPaths": [],
