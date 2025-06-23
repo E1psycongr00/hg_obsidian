@@ -2,12 +2,17 @@
 tags:
   - 회로이론
   - 평형3상교류
-aliases: 
-created: 2025-04-28
-title: V 결선
-level: 
+aliases:
+  - V 결선
+  - V결선
+created: 2025-04-27
+title: 📝 V 결선
 note-type: COMMON
+level: 심화
 completed: true
+archived: false
+time-to-understand: 5분
+last-reviewed: 2025-06-23
 ---
 
 ## 내용(Content)
@@ -56,4 +61,3 @@ $$
 ## 연결 노트
 
 ## 출처(링크)
-
