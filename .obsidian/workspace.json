@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "f528393f82ff3af4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/screenshot/Pasted image 20250623174852.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250623174852"
-            }
-          },
-          {
             "id": "8e57198442528c34",
             "type": "leaf",
             "state": {
@@ -161,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "attachments/screenshot/Pasted image 20250623174852.png"
+                "file": "무제 6.md"
               },
               "icon": "lucide-info",
-              "title": "Pasted image 20250623174852 의 파일 속성"
+              "title": "무제 6 의 파일 속성"
             }
           }
         ],
@@ -230,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "attachments/screenshot/Pasted image 20250623174852.png",
+                "file": "무제 6.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Pasted image 20250623174852 그래프"
+              "title": "무제 6 그래프"
             }
           },
           {
@@ -304,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/screenshot/Pasted image 20250623174852.png",
+                "file": "무제 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250623174852 의 개요"
+              "title": "무제 6 의 개요"
             }
           },
           {
@@ -353,9 +341,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "f528393f82ff3af4",
+  "active": "8e57198442528c34",
   "lastOpenFiles": [
     "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
+    "attachments/screenshot/Pasted image 20250623174852.png",
     "03. Permanent Notes/Area/📝 Y 결선.md",
     "02. MOC/🏛️ 변압기.md",
     "무제 6.md",
@@ -387,9 +376,7 @@
     "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md",
     "02. MOC/🏛️ 전기 기기.md",
     "03. Permanent Notes/Area/변압기 감극성과 가극성.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
     "Excalidraw/단권 변압기 V 결선 (draw).svg",
-    "attachments/screenshot/Pasted image 20250623174852.png",
     "attachments/screenshot/Pasted image 20250620151115.png",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
