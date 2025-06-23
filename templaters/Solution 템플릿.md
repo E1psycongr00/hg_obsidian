@@ -13,9 +13,9 @@ aliases:
 created: ${date}
 title: ${newTitle}
 note-type: SOLUTION
+problem:
 completed: false
 archive: false
-area-reason:
 last-reviewed: ${date}
 ---
 `;

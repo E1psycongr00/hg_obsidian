@@ -9,6 +9,10 @@
       "path": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
     },
     {
+      "basename": "Solution 템플릿",
+      "path": "templaters/Solution 템플릿.md"
+    },
+    {
       "basename": "Home",
       "path": "02. MOC/Home.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "keca_10.배선설비_공사방법_213",
       "path": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf"
-    },
-    {
-      "basename": "%Z법",
-      "path": "03. Permanent Notes/Area/%Z법.md"
     }
   ],
   "omittedPaths": [],

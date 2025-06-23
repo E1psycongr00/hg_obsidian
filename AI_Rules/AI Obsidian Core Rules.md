@@ -49,7 +49,7 @@ created: 2025-06-08 # 예시: 실제 생성일로 변경
 title: 🔬 [구체적인 문제 요약]
 note-type: SOLUTION
 problem: "[해결하고자 하는 구체적 문제]"
-solution-status: "진행중" # 진행중/해결됨/보류
+completed: false # true/false
 archived: false # 보관 여부
 last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
 ---
