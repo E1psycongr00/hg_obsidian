@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "🔬2023 -3회 17번 풀이",
+      "path": "04. Practice Notes/🔬2023 -3회 17번 풀이.md"
+    },
+    {
+      "basename": "AI Note-Type Writing Guide",
+      "path": "AI_Rules/AI Note-Type Writing Guide.md"
+    },
+    {
+      "basename": "AI Obsidian Core Rules",
+      "path": "AI_Rules/AI Obsidian Core Rules.md"
+    },
+    {
       "basename": "🔬2023 - 3회 7번 문제 풀이",
-      "path": "04. Practice Notes/🔬2023 - 3회 7번 문제 풀이.md"
+      "path": "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md"
     },
     {
       "basename": "🏛️ 전기기사 실기 2023년 기출문제",
@@ -87,18 +99,6 @@
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "피뢰기",
-      "path": "03. Permanent Notes/Area/피뢰기.md"
-    },
-    {
-      "basename": "keca_9.과전류보호_212",
-      "path": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf"
-    },
-    {
-      "basename": "keca_10.배선설비_공사방법_213",
-      "path": "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf"
     }
   ],
   "omittedPaths": [],
