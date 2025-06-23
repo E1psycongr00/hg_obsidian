@@ -4,7 +4,7 @@ tags:
   - 평형3상교류
 aliases:
 created: 2025-04-27
-title: n상 대칭 결선
+title: 📝 n상 대칭 결선
 note-type: COMMON
 level: "심화"
 completed: true
