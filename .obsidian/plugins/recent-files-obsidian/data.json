@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "무제 6",
-      "path": "무제 6.md"
+      "basename": "분류기",
+      "path": "03. Permanent Notes/Area/분류기.md"
+    },
+    {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "📝 delta 결선",
+      "path": "03. Permanent Notes/Area/📝 delta 결선.md"
+    },
+    {
+      "basename": "🏛️ 변압기",
+      "path": "02. MOC/🏛️ 변압기.md"
     },
     {
       "basename": "🔬2023 -3회 17번 풀이",
       "path": "04. Practice Notes/🔬2023 -3회 17번 풀이.md"
+    },
+    {
+      "basename": "무제 6",
+      "path": "무제 6.md"
     },
     {
       "basename": "Pasted image 20250623174852",
@@ -15,10 +31,6 @@
     {
       "basename": "📝 Y 결선",
       "path": "03. Permanent Notes/Area/📝 Y 결선.md"
-    },
-    {
-      "basename": "🏛️ 변압기",
-      "path": "02. MOC/🏛️ 변압기.md"
     },
     {
       "basename": "📝 역 V 결선",
@@ -61,10 +73,6 @@
       "path": "03. Permanent Notes/Area/📝 n상 대칭 결선.md"
     },
     {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
       "basename": "📝V 결선",
       "path": "03. Permanent Notes/Area/📝V 결선.md"
     },
@@ -81,10 +89,6 @@
       "path": "03. Permanent Notes/Area/2전력계법.md"
     },
     {
-      "basename": "📝 delta 결선",
-      "path": "03. Permanent Notes/Area/📝 delta 결선.md"
-    },
-    {
       "basename": "🏛️ 전기 기기",
       "path": "02. MOC/🏛️ 전기 기기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "AI Note-Type Writing Guide",
       "path": "AI_Rules/AI Note-Type Writing Guide.md"
-    },
-    {
-      "basename": "무제",
-      "path": "무제.md"
     }
   ],
   "omittedPaths": [],
