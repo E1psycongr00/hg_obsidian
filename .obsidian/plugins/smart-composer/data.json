@@ -61,7 +61,7 @@
       "providerId": "anthropic",
       "id": "claude-3.7-sonnet-thinking",
       "model": "claude-3-7-sonnet-latest",
-      "enable": true,
+      "enable": false,
       "thinking": {
         "budget_tokens": 8192
       }
@@ -136,7 +136,7 @@
       "providerId": "gemini",
       "id": "gemini-2.5-pro",
       "model": "gemini-2.5-pro-exp-03-25",
-      "enable": true
+      "enable": false
     },
     {
       "providerType": "gemini",
@@ -334,7 +334,7 @@
         }
       },
       {
-        "id": "memory",
+        "id": "time-mcp",
         "parameters": {
           "command": "cmd",
           "args": [
@@ -343,13 +343,13 @@
             "-y",
             "@smithery/cli@latest",
             "run",
-            "@jlia0/servers",
+            "@yokingma/time-mcp",
             "--key",
             "a87648db-cdb9-49b1-8c82-cf85831af17b"
           ]
         },
-        "enabled": true,
-        "toolOptions": {}
+        "toolOptions": {},
+        "enabled": true
       }
     ]
   },

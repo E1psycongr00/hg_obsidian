@@ -6,9 +6,13 @@ aliases:
   - 환형 결선
   - 델타 결선
 created: 2025-04-27
-title: delta 결선
+title: 📝 delta 결선
 note-type: COMMON
+level: "기초"
 completed: true
+archived: false
+time-to-understand: "5분"
+last-reviewed: 2025-06-23
 ---
 
 ## 내용(Content)
