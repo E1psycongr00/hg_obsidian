@@ -29,5 +29,6 @@
   "homepage",
   "cmdr",
   "callout-manager",
-  "smart-composer"
+  "smart-composer",
+  "settings-search"
 ]
