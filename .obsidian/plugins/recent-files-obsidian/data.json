@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "2전력계법",
+      "path": "03. Permanent Notes/Area/2전력계법.md"
+    },
+    {
+      "basename": "V 결선",
+      "path": "03. Permanent Notes/Area/V 결선.md"
+    },
+    {
+      "basename": "delta 결선",
+      "path": "03. Permanent Notes/Area/delta 결선.md"
+    },
+    {
+      "basename": "Y 결선",
+      "path": "03. Permanent Notes/Area/Y 결선.md"
+    },
+    {
       "basename": "🏛️ 변압기",
       "path": "02. MOC/🏛️ 변압기.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "📝 단권 변압기 V결선",
       "path": "03. Permanent Notes/Area/📝 단권 변압기 V결선.md"
-    },
-    {
-      "basename": "📝 역 V결선 (Open-Delta) 분석",
-      "path": "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md"
     },
     {
       "basename": "🔬2023 -3회 17번 풀이",
@@ -83,22 +99,6 @@
     {
       "basename": "📝 차단 용량",
       "path": "03. Permanent Notes/Area/📝 차단 용량.md"
-    },
-    {
-      "basename": "📝 누전 차단기 (ELCB)",
-      "path": "04. Practice Notes/📝 누전 차단기 (ELCB).md"
-    },
-    {
-      "basename": "📝 기중 차단기 (ACB)",
-      "path": "03. Permanent Notes/Area/📝 기중 차단기 (ACB).md"
-    },
-    {
-      "basename": "📝 차단기 개요",
-      "path": "03. Permanent Notes/Area/📝 차단기 개요.md"
-    },
-    {
-      "basename": "📚 KEC 실무 가이드",
-      "path": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md"
     }
   ],
   "omittedPaths": [],

@@ -10,7 +10,7 @@
   "initialWidth": "700px",
   "showViewHeader": true,
   "imageZoom": true,
-  "hoverEmbeds": true,
+  "hoverEmbeds": false,
   "footnotes": "never",
   "headings": "always",
   "blocks": "always"
