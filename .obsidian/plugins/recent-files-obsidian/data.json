@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "n상 대칭 결선",
+      "path": "03. Permanent Notes/Area/n상 대칭 결선.md"
+    },
+    {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
-      "basename": "📝 Y 결선",
-      "path": "03. Permanent Notes/Area/📝 Y 결선.md"
+      "basename": "📝 역 V 결선",
+      "path": "04. Practice Notes/📝 역 V 결선.md"
     },
     {
       "basename": "📝V 결선",
       "path": "03. Permanent Notes/Area/📝V 결선.md"
+    },
+    {
+      "basename": "📝 Y 결선",
+      "path": "03. Permanent Notes/Area/📝 Y 결선.md"
     },
     {
       "basename": "📝 변압기 효율",
@@ -37,8 +45,8 @@
       "path": "03. Permanent Notes/Area/2전력계법.md"
     },
     {
-      "basename": "delta 결선",
-      "path": "03. Permanent Notes/Area/delta 결선.md"
+      "basename": "📝 delta 결선",
+      "path": "03. Permanent Notes/Area/📝 delta 결선.md"
     },
     {
       "basename": "🏛️ 전기 기기",
@@ -91,14 +99,6 @@
     {
       "basename": "🏛️ 차단기",
       "path": "02. MOC/🏛️ 차단기.md"
-    },
-    {
-      "basename": "🏛️ 전기기사 실기",
-      "path": "02. MOC/🏛️ 전기기사 실기.md"
-    },
-    {
-      "basename": "🏛️ 전기 기사",
-      "path": "02. MOC/🏛️ 전기 기사.md"
     }
   ],
   "omittedPaths": [],

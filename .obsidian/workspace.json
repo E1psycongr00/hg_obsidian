@@ -58,13 +58,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Permanent Notes/Area/delta 결선.md",
+                "file": "03. Permanent Notes/Area/n상 대칭 결선.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "delta 결선"
+              "title": "n상 대칭 결선"
+            }
+          },
+          {
+            "id": "8e57198442528c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/📝 역 V 결선.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "📝 역 V 결선"
             }
           }
         ],
@@ -164,10 +179,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/delta 결선.md"
+                "file": "03. Permanent Notes/Area/n상 대칭 결선.md"
               },
               "icon": "lucide-info",
-              "title": "delta 결선 의 파일 속성"
+              "title": "n상 대칭 결선 의 파일 속성"
             }
           }
         ],
@@ -233,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/Area/delta 결선.md",
+                "file": "03. Permanent Notes/Area/n상 대칭 결선.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "delta 결선 그래프"
+              "title": "n상 대칭 결선 그래프"
             }
           },
           {
@@ -307,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Permanent Notes/Area/delta 결선.md",
+                "file": "03. Permanent Notes/Area/n상 대칭 결선.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "delta 결선 의 개요"
+              "title": "n상 대칭 결선 의 개요"
             }
           },
           {
@@ -359,21 +374,22 @@
   "active": "9108a080bc9944aa",
   "lastOpenFiles": [
     "02. MOC/🏛️ 회로 이론.md",
-    "03. Permanent Notes/Area/📝 Y 결선.md",
-    "03. Permanent Notes/Area/delta 결선.md",
+    "03. Permanent Notes/Area/2전력계법.md",
+    "04. Practice Notes/📝 역 V 결선.md",
+    "03. Permanent Notes/Area/📝 delta 결선.md",
     "03. Permanent Notes/Area/📝V 결선.md",
+    "03. Permanent Notes/Area/n상 대칭 결선.md",
+    "03. Permanent Notes/Area/📝 Y 결선.md",
     "03. Permanent Notes/Area/📝 변압기 효율.md",
     "AI_Rules/AI Obsidian Core Rules.md",
     "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md",
     "templaters/Solution 템플릿.md",
     "02. MOC/🏛️ 변압기.md",
     "03. Permanent Notes/Area/대칭 3상 교류 발전기 기본식.md",
-    "03. Permanent Notes/Area/2전력계법.md",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
     "Excalidraw/V결선 (draw).svg",
     "Excalidraw/델타-델타 결선 (draw).svg",
-    "03. Permanent Notes/Area/n상 대칭 결선.md",
     "Excalidraw/delta 결선 (draw).svg",
     "Excalidraw/Y 결선 (draw).svg",
     "03. Permanent Notes/Area/인덕턴스 결합 회로.md",
@@ -392,7 +408,6 @@
     "attachments/screenshot/Pasted image 20250623174852.png",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "02. MOC/Home.md",
-    "무제 6.md",
     "attachments/screenshot/Pasted image 20250620151115.png",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",

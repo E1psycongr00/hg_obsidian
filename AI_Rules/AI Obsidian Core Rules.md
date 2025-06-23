@@ -51,7 +51,7 @@ note-type: SOLUTION
 problem: "[해결하고자 하는 구체적 문제]"
 completed: false # true/false
 archived: false # 보관 여부
-last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
+last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD, 현재 날짜)
 ---
 ```
 
@@ -68,7 +68,7 @@ level: "기초" # 기초/심화/전문가
 completed: false
 archived: false # 보관 여부
 time-to-understand: "5분" # 5분/10분 등
-last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
+last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD, 현재 날짜)
 ---
 ```
 
@@ -99,7 +99,7 @@ note-type: REF
 from: "Web" # Book/Web/Article/Video/Paper 등
 url: ""
 archived: false # 보관 여부
-last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
+last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD, 현재 날짜)
 ---
 ```
 
@@ -115,7 +115,7 @@ note-type: CODE
 language: "" # 주 프로그래밍 언어 (예: python, javascript)
 environment: "" # 개발 환경/플랫폼
 archived: false # 보관 여부
-last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD)
+last-reviewed: 2025-06-08 # 최종 검토일 (YYYY-MM-DD, 현재 날짜)
 ---
 ```
 
