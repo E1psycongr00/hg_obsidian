@@ -43,28 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
+                "file": "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🔬2023 -3회 17번 풀이"
-            }
-          },
-          {
-            "id": "210e9f1b485864aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI_Rules/AI Note-Type Writing Guide.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "AI Note-Type Writing Guide"
+              "title": "📝 역 V결선 (Open-Delta) 분석"
             }
           }
         ],
@@ -101,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "동기 발전기",
+                "query": "역 V결선",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +107,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f44d8f9ccca34175",
@@ -164,10 +150,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/🔬2023 -3회 17번 풀이.md"
+                "file": "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md"
               },
               "icon": "lucide-info",
-              "title": "🔬2023 -3회 17번 풀이 의 파일 속성"
+              "title": "📝 역 V결선 (Open-Delta) 분석 의 파일 속성"
             }
           }
         ],
@@ -307,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
+                "file": "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🔬2023 -3회 17번 풀이 의 개요"
+              "title": "📝 역 V결선 (Open-Delta) 분석 의 개요"
             }
           },
           {
@@ -357,10 +343,12 @@
   },
   "active": "5e0df79f8c316d90",
   "lastOpenFiles": [
-    "attachments/screenshot/Pasted image 20250623174852.png",
-    "AI_Rules/AI Note-Type Writing Guide.md",
-    "AI_Rules/AI Obsidian Core Rules.md",
+    "02. MOC/🏛️ 변압기.md",
     "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
+    "AI_Rules/AI Note-Type Writing Guide.md",
+    "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md",
+    "attachments/screenshot/Pasted image 20250623174852.png",
+    "AI_Rules/AI Obsidian Core Rules.md",
     "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "templaters/Solution 템플릿.md",
@@ -383,7 +371,6 @@
     "attachments/screenshot/Pasted image 20250620151115.png",
     "03. Permanent Notes/Area/아크.md",
     "02. MOC/🏛️ 옥내배선설계.md",
-    "02. MOC/🏛️ 변압기.md",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "attachments/screenshot/keca_9.과전류보호_212 1.webp",
@@ -396,7 +383,6 @@
     "attachments/screenshot/Pasted image 20250619170306.png",
     "attachments/screenshot/한국전기설비규정(KEC) 2.저압전기설비.webp",
     "05. Reference Notes/Paper",
-    "attachments/screenshot/한국전기설비규정(KEC) 1.공통사항.webp",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_3.전로_절연_130.pdf",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 0.목차.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_2.전선_120.pdf",

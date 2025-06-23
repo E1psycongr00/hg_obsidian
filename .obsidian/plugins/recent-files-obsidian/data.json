@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 역 V결선 (Open-Delta) 분석",
+      "path": "03. Permanent Notes/Area/📝 역 V결선 (Open-Delta) 분석.md"
+    },
+    {
+      "basename": "🏛️ 변압기",
+      "path": "02. MOC/🏛️ 변압기.md"
+    },
+    {
       "basename": "🔬2023 -3회 17번 풀이",
       "path": "04. Practice Notes/🔬2023 -3회 17번 풀이.md"
     },
@@ -81,10 +89,6 @@
       "path": "03. Permanent Notes/Area/📝 차단기 개요.md"
     },
     {
-      "basename": "🏛️ 변압기",
-      "path": "02. MOC/🏛️ 변압기.md"
-    },
-    {
       "basename": "📚 KEC 실무 가이드",
       "path": "05. Reference Notes/Area/Paper/📚 KEC 실무 가이드.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📚 KEC 설비 규정 -저압 전기 설비",
       "path": "05. Reference Notes/Area/Paper/📚 KEC 설비 규정 -저압 전기 설비.md"
-    },
-    {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
     }
   ],
   "omittedPaths": [],
