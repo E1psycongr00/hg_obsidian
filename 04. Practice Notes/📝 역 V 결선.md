@@ -11,7 +11,7 @@ created: 2025-06-23
 title: 📝 역 V 결선
 note-type: COMMON
 level: "기초"
-completed: true
+completed: false
 archived: false
 time-to-understand: "5분"
 last-reviewed: 2025-01-27
@@ -70,7 +70,9 @@ last-reviewed: 2025-01-27
 
 ### 출처
 
-- 네이버 블로그: v결선과 역v결선의 차이
-- 전기기사 실기 참고서
+- [네이버 블로그: v결선과 역v결선의 차이](https://m.blog.naver.com/casd00/221201561992)
+- [Electrical Technology: Open Delta Connections of Transformers](https://www.electricaltechnology.org/2019/06/open-delta-connections-of-transformers.html)
+- [Tutorials Point: Transformers Open Delta (V-V) Connection](https://www.tutorialspoint.com/electrical_machines/transformers_open_delta_v_v_connection.htm)
+- [Daelim Transformer: The Ultimate FAQs Guide To Transformer Connection](https://www.daelimtransformer.com/transformer-connection.html)
 
 
