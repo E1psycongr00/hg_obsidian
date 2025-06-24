@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 프로토타입 패턴과 다른 생성 패턴 비교",
+      "path": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
+    },
+    {
+      "basename": "🔬2023 -3회 17번 풀이",
+      "path": "04. Practice Notes/🔬2023 -3회 17번 풀이.md"
+    },
+    {
+      "basename": "📝 설비 불평형률 계산 및 기준",
+      "path": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md"
+    },
+    {
+      "basename": "📝 분기회로수 산정 기준 및 방법",
+      "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
+    },
+    {
+      "basename": "📝 누전 차단기 (ELCB)",
+      "path": "04. Practice Notes/📝 누전 차단기 (ELCB).md"
+    },
+    {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "동기 발전기",
+      "path": "04. Practice Notes/동기 발전기.md"
+    },
+    {
       "basename": "🏛️ 변압기",
       "path": "02. MOC/🏛️ 변압기.md"
     },
@@ -61,10 +89,6 @@
       "path": "03. Permanent Notes/Area/📝 분류기.md"
     },
     {
-      "basename": "🔬2023 -3회 17번 풀이",
-      "path": "04. Practice Notes/🔬2023 -3회 17번 풀이.md"
-    },
-    {
       "basename": "Pasted image 20250623174852",
       "path": "attachments/screenshot/Pasted image 20250623174852.png"
     },
@@ -75,30 +99,6 @@
     {
       "basename": "🏛️ 전기기사 실기 2023년 기출문제",
       "path": "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md"
-    },
-    {
-      "basename": "🔬2023 - 3회 7번 문제 풀이",
-      "path": "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md"
-    },
-    {
-      "basename": "📝 변압기 효율",
-      "path": "03. Permanent Notes/Area/📝 변압기 효율.md"
-    },
-    {
-      "basename": "📝 n상 대칭 결선",
-      "path": "03. Permanent Notes/Area/📝 n상 대칭 결선.md"
-    },
-    {
-      "basename": "AI Obsidian Core Rules",
-      "path": "AI_Rules/AI Obsidian Core Rules.md"
-    },
-    {
-      "basename": "Solution 템플릿",
-      "path": "templaters/Solution 템플릿.md"
-    },
-    {
-      "basename": "2전력계법",
-      "path": "03. Permanent Notes/Area/2전력계법.md"
     }
   ],
   "omittedPaths": [],

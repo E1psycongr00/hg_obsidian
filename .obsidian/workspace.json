@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 변압기.md",
+                "file": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 변압기"
+              "title": "📝 프로토타입 패턴과 다른 생성 패턴 비교"
             }
           }
         ]
@@ -118,10 +118,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 변압기.md"
+                "file": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 변압기 의 파일 속성"
+              "title": "📝 프로토타입 패턴과 다른 생성 패턴 비교 의 파일 속성"
             }
           }
         ],
@@ -163,22 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
+                "file": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "📝 설비 불평형률 계산 및 기준 의 나가는 링크"
-            }
-          },
-          {
-            "id": "bec09b0b8cd58dd5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "📝 프로토타입 패턴과 다른 생성 패턴 비교 의 나가는 링크"
             }
           },
           {
@@ -187,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04. Practice Notes/📝 역 V 결선.md",
+                "file": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,47 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 역 V 결선 그래프"
-            }
-          },
-          {
-            "id": "5019dfe98ad8c12c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "08d37b27f433df8c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "93d1325bc505ccea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
-            }
-          },
-          {
-            "id": "d8cfbbdd934ca6c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "📝 프로토타입 패턴과 다른 생성 패턴 비교 그래프"
             }
           },
           {
@@ -269,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       },
       {
         "id": "ab55e369c44ac380",
@@ -330,10 +280,17 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2e9a6d7eb26500a",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 역 V 결선.md",
+    "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
+    "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
+    "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md",
+    "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md",
+    "04. Practice Notes/📝 누전 차단기 (ELCB).md",
+    "04. Practice Notes/권선형 유도 전동기.md",
+    "04. Practice Notes/동기 발전기.md",
     "02. MOC/🏛️ 변압기.md",
+    "03. Permanent Notes/Area/📝 역 V 결선.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 옥내배선설계.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
@@ -351,14 +308,7 @@
     "03. Permanent Notes/Area/📝 칼로리.md",
     "03. Permanent Notes/Area/📝 휘스톤 브릿지.md",
     "03. Permanent Notes/Area/📝 분류기.md",
-    "03. Permanent Notes/Area/📝 배율기.md",
-    "03. Permanent Notes/Area/최대 전력 전송.md",
-    "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
     "attachments/screenshot/Pasted image 20250623174852.png",
-    "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
-    "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md",
-    "03. Permanent Notes/Area/📝 변압기 효율.md",
-    "03. Permanent Notes/Area/📝 n상 대칭 결선.md",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
     "Excalidraw/V결선 (draw).svg",
