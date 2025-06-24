@@ -37,8 +37,7 @@
               "title": "📝 delta 결선"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,10 +133,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 delta 결선.md"
+                "file": "04. Practice Notes/📝 역 V 결선.md"
               },
               "icon": "lucide-info",
-              "title": "📝 delta 결선 의 파일 속성"
+              "title": "📝 역 V 결선 의 파일 속성"
             }
           }
         ],
@@ -203,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03. Permanent Notes/Area/📝 delta 결선.md",
+                "file": "04. Practice Notes/📝 역 V 결선.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "📝 delta 결선 그래프"
+              "title": "📝 역 V 결선 그래프"
             }
           },
           {
@@ -336,8 +335,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "4ce5b6cdd7ba04ce",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03. Permanent Notes/Area/📝 delta 결선.md",
     "02. MOC/🏛️ 회로 이론.md",
     "04. Practice Notes/📝 역 V 결선.md",
     "03. Permanent Notes/Area/📝 V 결선.md",
@@ -356,7 +356,6 @@
     "03. Permanent Notes/Area/📝 분류기.md",
     "03. Permanent Notes/Area/📝 배율기.md",
     "03. Permanent Notes/Area/최대 전력 전송.md",
-    "03. Permanent Notes/Area/📝 delta 결선.md",
     "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
     "attachments/screenshot/Pasted image 20250623174852.png",
     "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
