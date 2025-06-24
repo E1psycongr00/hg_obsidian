@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14b43e0e1d2c2f4c",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c44733d45028abdd",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -242,6 +242,16 @@
             "id": "93d1325bc505ccea",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          },
+          {
+            "id": "d8cfbbdd934ca6c6",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -249,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "ab55e369c44ac380",
@@ -310,8 +320,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c44733d45028abdd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02. MOC/Home.md",
     "무제 6.md",
     "03. Permanent Notes/Area/📝 칼로리.md",
     "02. MOC/🏛️ 회로 이론.md",
@@ -329,7 +340,6 @@
     "03. Permanent Notes/Area/📝 단권 변압기 변연장 3각 결선.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "07. Solution Notes/Area/🔬2023 - 3회 7번 문제 풀이.md",
     "03. Permanent Notes/Area/📝 변압기 효율.md",
