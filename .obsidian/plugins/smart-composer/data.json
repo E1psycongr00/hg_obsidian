@@ -342,22 +342,15 @@
         }
       },
       {
-        "id": "time-mcp",
+        "id": "date",
         "parameters": {
-          "command": "cmd",
+          "command": "node",
           "args": [
-            "/c",
-            "npx",
-            "-y",
-            "@smithery/cli@latest",
-            "run",
-            "@yokingma/time-mcp",
-            "--key",
-            "a87648db-cdb9-49b1-8c82-cf85831af17b"
+            "C:/mcp/time-mcp-server/dist/index.js"
           ]
         },
-        "enabled": true,
-        "toolOptions": {}
+        "toolOptions": {},
+        "enabled": true
       }
     ]
   },
