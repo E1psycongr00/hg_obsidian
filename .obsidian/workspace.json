@@ -53,18 +53,6 @@
             }
           },
           {
-            "id": "8042e44fef769248",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/환상 모선 (draw).md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "환상 모선 (draw)"
-            }
-          },
-          {
             "id": "8178b6d441874614",
             "type": "leaf",
             "state": {
@@ -77,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/환상 모선 (draw).md"
+                "file": "04. Practice Notes/📝 환상 모선.md"
               },
               "icon": "lucide-info",
-              "title": "환상 모선 (draw) 의 파일 속성"
+              "title": "📝 환상 모선 의 파일 속성"
             }
           }
         ],
@@ -296,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/환상 모선 (draw).md",
+                "file": "04. Practice Notes/📝 환상 모선.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환상 모선 (draw) 의 개요"
+              "title": "📝 환상 모선 의 개요"
             }
           },
           {
@@ -345,11 +333,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "8042e44fef769248",
+  "active": "7748136a4b96ae51",
   "lastOpenFiles": [
+    "Excalidraw/환상 모선 (draw).md",
     "04. Practice Notes/📝 환상 모선.md",
     "Excalidraw/단모선 (draw).md",
-    "Excalidraw/환상 모선 (draw).md",
     "02. MOC/Home.md",
     "Excalidraw/환상 모선 (draw).svg",
     "03. Permanent Notes/Area/📝 단모선.md",
