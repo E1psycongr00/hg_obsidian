@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 단모선",
+      "path": "04. Practice Notes/📝 단모선.md"
+    },
+    {
       "basename": "🏛️ 변전소 모선 구성 방식",
       "path": "02. MOC/🏛️ 변전소 모선 구성 방식.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📝 칼로리",
       "path": "03. Permanent Notes/Area/📝 칼로리.md"
-    },
-    {
-      "basename": "📝 분류기",
-      "path": "03. Permanent Notes/Area/📝 분류기.md"
     }
   ],
   "omittedPaths": [],
