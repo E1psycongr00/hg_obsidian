@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "메모리 프롬프트",
+      "path": "메모리 프롬프트.md"
+    },
+    {
       "basename": "무제 6",
       "path": "무제 6.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "📝 Y 결선",
       "path": "03. Permanent Notes/Area/📝 Y 결선.md"
-    },
-    {
-      "basename": "🏛️ 단권 변압기",
-      "path": "02. MOC/🏛️ 단권 변압기.md"
     }
   ],
   "omittedPaths": [

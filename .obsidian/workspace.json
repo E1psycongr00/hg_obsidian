@@ -51,9 +51,24 @@
               "icon": "lucide-file",
               "title": "무제 6"
             }
+          },
+          {
+            "id": "4b997ccf825ea42f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "메모리 프롬프트.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "메모리 프롬프트"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,10 +174,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "무제 6.md"
+                "file": "메모리 프롬프트.md"
               },
               "icon": "lucide-info",
-              "title": "무제 6 의 파일 속성"
+              "title": "메모리 프롬프트 의 파일 속성"
             }
           }
         ],
@@ -272,13 +287,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 6.md",
+                "file": "메모리 프롬프트.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 6 의 개요"
+              "title": "메모리 프롬프트 의 개요"
             }
           },
           {
@@ -321,8 +336,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "865ef011fbd3c94f",
+  "active": "4b997ccf825ea42f",
   "lastOpenFiles": [
+    "무제 6.md",
+    "메모리 프롬프트.md",
     "02. MOC/🏛️ 변전소 모선 구성 방식.md",
     "04. Practice Notes/📝 환상 모선.md",
     "Excalidraw/단모선 (draw).md",
@@ -349,7 +366,6 @@
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/Area/📝 V 결선.md",
     "03. Permanent Notes/Area/📝 Y 결선.md",
-    "02. MOC/🏛️ 단권 변압기.md",
     "attachments/screenshot/Pasted image 20250623174852.png",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
