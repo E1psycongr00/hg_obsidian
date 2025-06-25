@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 시퀀스",
       "path": "02. MOC/🏛️ 시퀀스.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "📝 프로토타입 패턴과 다른 생성 패턴 비교",
