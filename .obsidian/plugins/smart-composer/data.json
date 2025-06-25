@@ -342,7 +342,7 @@
         }
       },
       {
-        "id": "date",
+        "id": "Time-MCP-Server",
         "parameters": {
           "command": "node",
           "args": [
