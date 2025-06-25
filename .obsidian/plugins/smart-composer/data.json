@@ -252,8 +252,8 @@
       "enable": true
     },
     {
-      "providerId": "gemini",
       "providerType": "gemini",
+      "providerId": "gemini",
       "id": "gemini 2.5 flash stable",
       "model": "gemini-2.5-flash",
       "promptLevel": 1
@@ -349,8 +349,8 @@
             "C:\\mcp\\time-mcp-server\\dist\\index.js"
           ]
         },
-        "toolOptions": {},
-        "enabled": true
+        "enabled": true,
+        "toolOptions": {}
       }
     ]
   },
