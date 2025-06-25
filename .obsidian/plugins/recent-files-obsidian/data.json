@@ -5,6 +5,14 @@
       "path": "04. Practice Notes/📝 단모선.md"
     },
     {
+      "basename": "단모선 (draw)",
+      "path": "Excalidraw/단모선 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 변전소 모선 구성 방식",
       "path": "02. MOC/🏛️ 변전소 모선 구성 방식.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 시퀀스",
@@ -95,10 +99,6 @@
     {
       "basename": "무제 6",
       "path": "무제 6.md"
-    },
-    {
-      "basename": "📝 칼로리",
-      "path": "03. Permanent Notes/Area/📝 칼로리.md"
     }
   ],
   "omittedPaths": [],

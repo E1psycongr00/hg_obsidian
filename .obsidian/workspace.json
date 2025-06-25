@@ -51,6 +51,18 @@
               "icon": "lucide-file",
               "title": "📝 단모선"
             }
+          },
+          {
+            "id": "0fdebac4dee152f5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/단모선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "단모선 (draw)"
+            }
           }
         ],
         "currentTab": 2
@@ -313,13 +325,15 @@
   },
   "active": "8fda784ee6cb1c1a",
   "lastOpenFiles": [
+    "Excalidraw/단모선 (draw).md",
+    "Excalidraw/단모선 (draw).svg",
+    "02. MOC/Home.md",
     "04. Practice Notes/📝 단모선.md",
     "02. MOC/🏛️ 변전소 모선 구성 방식.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 변압기.md",
     "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 시퀀스.md",
     "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md",
     "04. Practice Notes/🔬2023 -3회 17번 풀이.md",
@@ -337,8 +351,6 @@
     "02. MOC/🏛️ 단권 변압기.md",
     "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
     "03. Permanent Notes/Area/📝 단권 변압기 V결선 부하용량 자기용량 관계 증명.md",
-    "03. Permanent Notes/Area/📝 변압기 호흡작용.md",
-    "무제 6.md",
     "attachments/screenshot/Pasted image 20250623174852.png",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
@@ -348,7 +360,6 @@
     "Excalidraw/Y 결선 (draw).svg",
     "Excalidraw/Y 결선 전압 벡터도 (draw).svg",
     "Excalidraw/단권 변압기 V 결선 (draw).svg",
-    "attachments/screenshot/Pasted image 20250620151115.png",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
