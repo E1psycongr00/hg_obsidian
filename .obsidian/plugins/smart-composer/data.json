@@ -346,7 +346,7 @@
         "parameters": {
           "command": "node",
           "args": [
-            "C:/mcp/time-mcp-server/dist/index.js"
+            "C:\\mcp\\time-mcp-server\\dist\\index.js"
           ]
         },
         "toolOptions": {},
