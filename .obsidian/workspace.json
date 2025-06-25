@@ -26,10 +26,15 @@
             "id": "9da6deb2a931e761",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02. MOC/🏛️ 변전소 모선 구성 방식.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "🏛️ 변전소 모선 구성 방식"
             }
           }
         ],
@@ -128,9 +133,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "02. MOC/🏛️ 변전소 모선 구성 방식.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "🏛️ 변전소 모선 구성 방식 의 파일 속성"
             }
           }
         ],
@@ -240,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. MOC/Home.md",
+                "file": "02. MOC/🏛️ 변전소 모선 구성 방식.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 의 개요"
+              "title": "🏛️ 변전소 모선 구성 방식 의 개요"
             }
           },
           {
@@ -289,9 +296,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "9da6deb2a931e761",
+  "active": "332a60b6b5a4c7c6",
   "lastOpenFiles": [
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
+    "02. MOC/🏛️ 변전소 모선 구성 방식.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 변압기.md",
     "02. MOC/🏛️ 전기 기사.md",
@@ -316,7 +324,6 @@
     "03. Permanent Notes/Area/📝 변압기 호흡작용.md",
     "무제 6.md",
     "03. Permanent Notes/Area/📝 칼로리.md",
-    "03. Permanent Notes/Area/📝 휘스톤 브릿지.md",
     "attachments/screenshot/Pasted image 20250623174852.png",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
