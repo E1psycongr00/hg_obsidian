@@ -51,9 +51,33 @@
               "icon": "lucide-file",
               "title": "📝 환상 모선"
             }
+          },
+          {
+            "id": "8042e44fef769248",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/환상 모선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "환상 모선 (draw)"
+            }
+          },
+          {
+            "id": "8178b6d441874614",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/단모선 (draw).md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "단모선 (draw)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +130,16 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "bf755cf63f6f787c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       },
@@ -149,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 환상 모선.md"
+                "file": "Excalidraw/환상 모선 (draw).md"
               },
               "icon": "lucide-info",
-              "title": "📝 환상 모선 의 파일 속성"
+              "title": "환상 모선 (draw) 의 파일 속성"
             }
           }
         ],
@@ -262,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Practice Notes/📝 환상 모선.md",
+                "file": "Excalidraw/환상 모선 (draw).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📝 환상 모선 의 개요"
+              "title": "환상 모선 (draw) 의 개요"
             }
           },
           {
@@ -311,14 +345,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7748136a4b96ae51",
+  "active": "8042e44fef769248",
   "lastOpenFiles": [
     "04. Practice Notes/📝 환상 모선.md",
+    "Excalidraw/단모선 (draw).md",
+    "Excalidraw/환상 모선 (draw).md",
+    "02. MOC/Home.md",
+    "Excalidraw/환상 모선 (draw).svg",
     "03. Permanent Notes/Area/📝 단모선.md",
     "02. MOC/🏛️ 변전소 모선 구성 방식.md",
-    "Excalidraw/단모선 (draw).md",
     "Excalidraw/단모선 (draw).svg",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기기사 실기 2023년 기출문제.md",
     "02. MOC/🏛️ 전기기사 실기.md",
     "02. MOC/🏛️ 변압기.md",
@@ -338,8 +374,6 @@
     "03. Permanent Notes/Area/📝 V 결선.md",
     "03. Permanent Notes/Area/📝 Y 결선.md",
     "02. MOC/🏛️ 단권 변압기.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 V결선.md",
-    "03. Permanent Notes/Area/📝 단권 변압기 V결선 부하용량 자기용량 관계 증명.md",
     "attachments/screenshot/Pasted image 20250623174852.png",
     "Excalidraw/2전력계법 벡터도 (draw).svg",
     "Excalidraw/2전력계법 (draw).svg",
@@ -348,7 +382,6 @@
     "Excalidraw/delta 결선 (draw).svg",
     "Excalidraw/Y 결선 (draw).svg",
     "Excalidraw/Y 결선 전압 벡터도 (draw).svg",
-    "Excalidraw/단권 변압기 V 결선 (draw).svg",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",

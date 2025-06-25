@@ -6,7 +6,6 @@
   "obsidian-excalidraw-plugin",
   "3d-graph",
   "obsidian-tasks-plugin",
-  "recent-files-obsidian",
   "obsidian-latex-suite",
   "link-exploder",
   "obsidian-list-callouts",
@@ -30,5 +29,6 @@
   "cmdr",
   "callout-manager",
   "smart-composer",
-  "settings-search"
+  "settings-search",
+  "recent-files-obsidian"
 ]
