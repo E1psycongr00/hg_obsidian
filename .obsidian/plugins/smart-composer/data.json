@@ -350,7 +350,12 @@
           ]
         },
         "enabled": true,
-        "toolOptions": {}
+        "toolOptions": {
+          "current_time": {
+            "allowAutoExecution": true,
+            "disabled": false
+          }
+        }
       }
     ]
   },
