@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "대칭 좌표법",
-      "path": "03. Permanent Notes/Area/대칭 좌표법.md"
+      "basename": "📝 분류기",
+      "path": "03. Permanent Notes/Area/📝 분류기.md"
     },
     {
-      "basename": "크라머 법칙",
-      "path": "03. Permanent Notes/Area/크라머 법칙.md"
+      "basename": "🏛️ 회로 이론",
+      "path": "02. MOC/🏛️ 회로 이론.md"
+    },
+    {
+      "basename": "🏛️ 전기기사 필기",
+      "path": "02. MOC/🏛️ 전기기사 필기.md"
     },
     {
       "basename": "🏛️ 전력 공학",
       "path": "02. MOC/🏛️ 전력 공학.md"
     },
     {
-      "basename": "🏛️ 전기기사 필기",
-      "path": "02. MOC/🏛️ 전기기사 필기.md"
+      "basename": "대칭 좌표법",
+      "path": "03. Permanent Notes/Area/대칭 좌표법.md"
+    },
+    {
+      "basename": "크라머 법칙",
+      "path": "03. Permanent Notes/Area/크라머 법칙.md"
     },
     {
       "basename": "🏛️ 전기 기사",
@@ -91,14 +99,6 @@
     {
       "basename": "동기 발전기",
       "path": "04. Practice Notes/동기 발전기.md"
-    },
-    {
-      "basename": "🏛️ 변압기",
-      "path": "02. MOC/🏛️ 변압기.md"
-    },
-    {
-      "basename": "📝 역 V 결선",
-      "path": "03. Permanent Notes/Area/📝 역 V 결선.md"
     }
   ],
   "omittedPaths": [
