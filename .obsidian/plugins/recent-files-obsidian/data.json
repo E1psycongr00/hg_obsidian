@@ -9,6 +9,10 @@
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
+      "basename": "📝 배율기",
+      "path": "03. Permanent Notes/Area/📝 배율기.md"
+    },
+    {
       "basename": "🏛️ 전기기사 필기",
       "path": "02. MOC/🏛️ 전기기사 필기.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "권선형 유도 전동기",
       "path": "04. Practice Notes/권선형 유도 전동기.md"
-    },
-    {
-      "basename": "동기 발전기",
-      "path": "04. Practice Notes/동기 발전기.md"
     }
   ],
   "omittedPaths": [
