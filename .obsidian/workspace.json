@@ -43,17 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Practice Notes/📝 선로 충전 전류.md",
+                "file": "03. Permanent Notes/Area/📝 충전 전류.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "📝 선로 충전 전류"
+              "title": "📝 충전 전류"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04. Practice Notes/📝 선로 충전 전류.md"
+                "file": "02. MOC/🏛️ 전력 공학.md"
               },
               "icon": "lucide-info",
-              "title": "📝 선로 충전 전류 의 파일 속성"
+              "title": "🏛️ 전력 공학 의 파일 속성"
             }
           }
         ],
@@ -321,10 +320,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "cb2071c19be3a9cf",
+  "active": "9b94b58282ea82d9",
   "lastOpenFiles": [
+    "03. Permanent Notes/Area/📝 충전 전류.md",
+    "04. Practice Notes/📝 부하 중심.md",
     "attachments/screenshot/Pasted image 20250627172104.png",
-    "04. Practice Notes/📝 선로 충전 전류.md",
     "02. MOC/🏛️ 전력 공학.md",
     "03. Permanent Notes/Area/연가.md",
     "03. Permanent Notes/Area/선간 정전용량.md",
@@ -332,7 +332,6 @@
     "02. MOC/🏛️ 전기기사 필기.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기기사 실기.md",
-    "04. Practice Notes/📝 부하 중심.md",
     "03. Permanent Notes/Area/📝 Tagg의 접지 저항 측정 기본 식.md",
     "03. Permanent Notes/Area/저항과 정전용량 관계.md",
     "02. MOC/Home.md",
@@ -358,7 +357,6 @@
     "Excalidraw/V결선 (draw).svg",
     "Excalidraw/델타-델타 결선 (draw).svg",
     "Excalidraw/delta 결선 (draw).svg",
-    "Excalidraw/Y 결선 (draw).svg",
     "08. 공부 자료/pdf/전기설비/KEC/한국전기설비규정(KEC) 2.저압전기설비.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_9.과전류보호_212.pdf",
     "08. 공부 자료/pdf/전기설비/실무 가이드/keca_10.배선설비_공사방법_213.pdf",
