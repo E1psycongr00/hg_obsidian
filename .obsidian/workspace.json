@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "크래머",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,7 +306,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5a4ecabe6f4a6fb3",
   "lastOpenFiles": [
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/Area/📝 분류기.md",
