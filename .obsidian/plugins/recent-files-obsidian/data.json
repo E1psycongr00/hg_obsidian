@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "🏛️ 전력 공학",
-      "path": "02. MOC/🏛️ 전력 공학.md"
-    },
-    {
-      "basename": "📝 충전 전류",
-      "path": "03. Permanent Notes/Area/📝 충전 전류.md"
-    },
-    {
-      "basename": "📝 부하 중심",
-      "path": "04. Practice Notes/📝 부하 중심.md"
-    },
-    {
-      "basename": "🏛️ 전기기사 필기",
-      "path": "02. MOC/🏛️ 전기기사 필기.md"
+      "basename": "🏛️ 전기기사 실기",
+      "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
     },
     {
-      "basename": "🏛️ 전기기사 실기",
-      "path": "02. MOC/🏛️ 전기기사 실기.md"
+      "basename": "🏛️ 전기기사 필기",
+      "path": "02. MOC/🏛️ 전기기사 필기.md"
+    },
+    {
+      "basename": "🏛️ 전력 공학",
+      "path": "02. MOC/🏛️ 전력 공학.md"
+    },
+    {
+      "basename": "📝 부하 중심",
+      "path": "03. Permanent Notes/Area/📝 부하 중심.md"
+    },
+    {
+      "basename": "📝 충전 전류",
+      "path": "03. Permanent Notes/Area/📝 충전 전류.md"
+    },
+    {
+      "basename": "📝 충전 용량",
+      "path": "03. Permanent Notes/Area/📝 충전 용량.md"
+    },
+    {
+      "basename": "무제 7",
+      "path": "무제 7.md"
     },
     {
       "basename": "📝 Tagg의 접지 저항 측정 기본 식",
@@ -91,14 +99,6 @@
     {
       "basename": "단모선 (draw)",
       "path": "Excalidraw/단모선 (draw).md"
-    },
-    {
-      "basename": "환상 모선 (draw)",
-      "path": "Excalidraw/환상 모선 (draw).md"
-    },
-    {
-      "basename": "📝 단모선",
-      "path": "03. Permanent Notes/Area/📝 단모선.md"
     }
   ],
   "omittedPaths": [

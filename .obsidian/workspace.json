@@ -13,43 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md",
+                "file": "02. MOC/🏛️ 전기기사 실기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전력 공학"
-            }
-          },
-          {
-            "id": "30daa5d8ea0e194b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. Practice Notes/📝 부하 중심.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "📝 부하 중심"
-            }
-          },
-          {
-            "id": "cb2071c19be3a9cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. Permanent Notes/Area/📝 충전 전류.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "📝 충전 전류"
+              "title": "🏛️ 전기기사 실기"
             }
           }
         ]
@@ -158,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02. MOC/🏛️ 전력 공학.md"
+                "file": "02. MOC/🏛️ 전기기사 실기.md"
               },
               "icon": "lucide-info",
-              "title": "🏛️ 전력 공학 의 파일 속성"
+              "title": "🏛️ 전기기사 실기 의 파일 속성"
             }
           }
         ],
@@ -322,17 +292,19 @@
   },
   "active": "9b94b58282ea82d9",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 충전 전류.md",
-    "04. Practice Notes/📝 부하 중심.md",
-    "attachments/screenshot/Pasted image 20250627172104.png",
+    "03. Permanent Notes/Area/📝 Tagg의 접지 저항 측정 기본 식.md",
+    "02. MOC/🏛️ 전기기사 실기.md",
+    "02. MOC/🏛️ 전기 기사.md",
+    "02. MOC/🏛️ 전기기사 필기.md",
     "02. MOC/🏛️ 전력 공학.md",
+    "03. Permanent Notes/Area/📝 부하 중심.md",
+    "03. Permanent Notes/Area/📝 충전 전류.md",
+    "03. Permanent Notes/Area/📝 충전 용량.md",
+    "무제 7.md",
+    "attachments/screenshot/Pasted image 20250627172104.png",
     "03. Permanent Notes/Area/연가.md",
     "03. Permanent Notes/Area/선간 정전용량.md",
     "03. Permanent Notes/Area/선간 인덕턴스.md",
-    "02. MOC/🏛️ 전기기사 필기.md",
-    "02. MOC/🏛️ 전기 기사.md",
-    "02. MOC/🏛️ 전기기사 실기.md",
-    "03. Permanent Notes/Area/📝 Tagg의 접지 저항 측정 기본 식.md",
     "03. Permanent Notes/Area/저항과 정전용량 관계.md",
     "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
@@ -348,7 +320,6 @@
     "무제 6.md",
     "메모리 프롬프트.md",
     "02. MOC/🏛️ 변전소 모선 구성 방식.md",
-    "04. Practice Notes/📝 환상 모선.md",
     "Excalidraw/환상 모선 (draw).svg",
     "Excalidraw/단모선 (draw).svg",
     "attachments/screenshot/Pasted image 20250623174852.png",
