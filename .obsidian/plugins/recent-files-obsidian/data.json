@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "📝 배율기",
-      "path": "03. Permanent Notes/Area/📝 배율기.md"
+      "basename": "📝 분류기",
+      "path": "03. Permanent Notes/Area/📝 분류기.md"
+    },
+    {
+      "basename": "분류기 (draw)",
+      "path": "Excalidraw/분류기 (draw).md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
     },
     {
       "basename": "🏛️ 회로 이론",
       "path": "02. MOC/🏛️ 회로 이론.md"
     },
     {
-      "basename": "📝 분류기",
-      "path": "03. Permanent Notes/Area/📝 분류기.md"
+      "basename": "📝 배율기",
+      "path": "03. Permanent Notes/Area/📝 배율기.md"
+    },
+    {
+      "basename": "배율기 (draw)",
+      "path": "Excalidraw/배율기 (draw).md"
     },
     {
       "basename": "🏛️ 전기기사 필기",
@@ -31,10 +43,6 @@
     {
       "basename": "🏛️ 전기 기사",
       "path": "02. MOC/🏛️ 전기 기사.md"
-    },
-    {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
     },
     {
       "basename": "무제 6",
@@ -91,14 +99,6 @@
     {
       "basename": "📝 분기회로수 산정 기준 및 방법",
       "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
-    },
-    {
-      "basename": "📝 누전 차단기 (ELCB)",
-      "path": "04. Practice Notes/📝 누전 차단기 (ELCB).md"
-    },
-    {
-      "basename": "권선형 유도 전동기",
-      "path": "04. Practice Notes/권선형 유도 전동기.md"
     }
   ],
   "omittedPaths": [
