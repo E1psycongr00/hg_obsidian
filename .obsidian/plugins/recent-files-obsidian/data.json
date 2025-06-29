@@ -5,6 +5,10 @@
       "path": "02. MOC/🏛️ 차단기.md"
     },
     {
+      "basename": "📝 고압 특고압 차단기별 특징",
+      "path": "03. Permanent Notes/Area/📝 고압 특고압 차단기별 특징.md"
+    },
+    {
       "basename": "📝 차단기 용량 산정",
       "path": "03. Permanent Notes/Area/📝 차단기 용량 산정.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "배율기 (draw)",
       "path": "Excalidraw/배율기 (draw).md"
-    },
-    {
-      "basename": "대칭 좌표법",
-      "path": "03. Permanent Notes/Area/대칭 좌표법.md"
     }
   ],
   "omittedPaths": [
