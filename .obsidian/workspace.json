@@ -4,25 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "acb9a2cc997387ce",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9b94b58282ea82d9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기.md",
+                "file": "02. MOC/Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "0890bbc7987c954b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. MOC/🏛️ 차단기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "🏛️ 전기기사 실기"
+              "title": "🏛️ 차단기"
+            }
+          },
+          {
+            "id": "be44c1f5de557bf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "차단기",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +112,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f44d8f9ccca34175",
@@ -127,11 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "02. MOC/🏛️ 전기기사 실기.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "🏛️ 전기기사 실기 의 파일 속성"
+              "title": "파일 속성"
             }
           }
         ],
@@ -187,7 +212,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02. MOC/🏛️ 시퀀스.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,12 +234,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224422,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "🏛️ 시퀀스 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -229,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "ab55e369c44ac380",
@@ -290,10 +314,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "332a60b6b5a4c7c6",
+  "active": "be44c1f5de557bf2",
   "lastOpenFiles": [
-    "03. Permanent Notes/Area/📝 Tagg의 접지 저항 측정 기본 식.md",
+    "02. MOC/🏛️ 차단기.md",
+    "04. Practice Notes/📝 누전 차단기 (ELCB).md",
+    "03. Permanent Notes/Area/📝 기중 차단기 (ACB).md",
+    "03. Permanent Notes/Area/📝 차단기 개요.md",
+    "02. MOC/Home.md",
     "02. MOC/🏛️ 전기기사 실기.md",
+    "03. Permanent Notes/Area/📝 Tagg의 접지 저항 측정 기본 식.md",
     "02. MOC/🏛️ 전기 기사.md",
     "02. MOC/🏛️ 전기기사 필기.md",
     "02. MOC/🏛️ 전력 공학.md",
@@ -306,7 +335,6 @@
     "03. Permanent Notes/Area/선간 정전용량.md",
     "03. Permanent Notes/Area/선간 인덕턴스.md",
     "03. Permanent Notes/Area/저항과 정전용량 관계.md",
-    "02. MOC/Home.md",
     "02. MOC/🏛️ 전자기학.md",
     "Excalidraw/완전 매설된 접지 저항 (draw).md",
     "Excalidraw/완전 매설된 접지 저항 (draw).svg",
@@ -316,10 +344,6 @@
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/Area/📝 배율기.md",
     "Excalidraw/배율기 (draw).md",
-    "03. Permanent Notes/Area/대칭 좌표법.md",
-    "무제 6.md",
-    "메모리 프롬프트.md",
-    "02. MOC/🏛️ 변전소 모선 구성 방식.md",
     "Excalidraw/환상 모선 (draw).svg",
     "Excalidraw/단모선 (draw).svg",
     "attachments/screenshot/Pasted image 20250623174852.png",

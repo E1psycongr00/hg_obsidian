@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "🏛️ 차단기",
+      "path": "02. MOC/🏛️ 차단기.md"
+    },
+    {
+      "basename": "📝 누전 차단기 (ELCB)",
+      "path": "04. Practice Notes/📝 누전 차단기 (ELCB).md"
+    },
+    {
+      "basename": "📝 기중 차단기 (ACB)",
+      "path": "03. Permanent Notes/Area/📝 기중 차단기 (ACB).md"
+    },
+    {
+      "basename": "📝 차단기 개요",
+      "path": "03. Permanent Notes/Area/📝 차단기 개요.md"
+    },
+    {
+      "basename": "Home",
+      "path": "02. MOC/Home.md"
+    },
+    {
       "basename": "🏛️ 전기기사 실기",
       "path": "02. MOC/🏛️ 전기기사 실기.md"
     },
@@ -41,10 +61,6 @@
       "path": "03. Permanent Notes/Area/저항과 정전용량 관계.md"
     },
     {
-      "basename": "Home",
-      "path": "02. MOC/Home.md"
-    },
-    {
       "basename": "🏛️ 전자기학",
       "path": "02. MOC/🏛️ 전자기학.md"
     },
@@ -83,22 +99,6 @@
     {
       "basename": "무제 6",
       "path": "무제 6.md"
-    },
-    {
-      "basename": "메모리 프롬프트",
-      "path": "메모리 프롬프트.md"
-    },
-    {
-      "basename": "🏛️ 변전소 모선 구성 방식",
-      "path": "02. MOC/🏛️ 변전소 모선 구성 방식.md"
-    },
-    {
-      "basename": "📝 환상 모선",
-      "path": "04. Practice Notes/📝 환상 모선.md"
-    },
-    {
-      "basename": "단모선 (draw)",
-      "path": "Excalidraw/단모선 (draw).md"
     }
   ],
   "omittedPaths": [
