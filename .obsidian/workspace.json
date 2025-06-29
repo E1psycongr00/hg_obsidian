@@ -41,10 +41,15 @@
             "id": "be44c1f5de557bf2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04. Practice Notes/📝 차단기 용량 산정.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "📝 차단기 용량 산정"
             }
           }
         ],
@@ -112,8 +117,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f44d8f9ccca34175",
@@ -154,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "04. Practice Notes/📝 차단기 용량 산정.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "📝 차단기 용량 산정 의 파일 속성"
             }
           }
         ],
@@ -212,6 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04. Practice Notes/📝 차단기 용량 산정.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "📝 차단기 용량 산정 그래프"
             }
           },
           {
@@ -316,6 +323,7 @@
   },
   "active": "be44c1f5de557bf2",
   "lastOpenFiles": [
+    "04. Practice Notes/📝 차단기 용량 산정.md",
     "02. MOC/🏛️ 차단기.md",
     "04. Practice Notes/📝 누전 차단기 (ELCB).md",
     "03. Permanent Notes/Area/📝 기중 차단기 (ACB).md",
@@ -343,7 +351,6 @@
     "Excalidraw/분류기 (draw).md",
     "02. MOC/🏛️ 회로 이론.md",
     "03. Permanent Notes/Area/📝 배율기.md",
-    "Excalidraw/배율기 (draw).md",
     "Excalidraw/환상 모선 (draw).svg",
     "Excalidraw/단모선 (draw).svg",
     "attachments/screenshot/Pasted image 20250623174852.png",
