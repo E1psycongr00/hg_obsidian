@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "📝 환상 모선",
+      "path": "04. Practice Notes/📝 환상 모선.md"
+    },
+    {
+      "basename": "📝 프로토타입 패턴과 다른 생성 패턴 비교",
+      "path": "04. Practice Notes/📝 프로토타입 패턴과 다른 생성 패턴 비교.md"
+    },
+    {
+      "basename": "📝 설비 불평형률 계산 및 기준",
+      "path": "04. Practice Notes/📝 설비 불평형률 계산 및 기준.md"
+    },
+    {
+      "basename": "📝 분기회로수 산정 기준 및 방법",
+      "path": "04. Practice Notes/📝 분기회로수 산정 기준 및 방법.md"
+    },
+    {
+      "basename": "📝 누전 차단기 (ELCB)",
+      "path": "04. Practice Notes/📝 누전 차단기 (ELCB).md"
+    },
+    {
+      "basename": "🔬2023 -3회 17번 풀이",
+      "path": "04. Practice Notes/🔬2023 -3회 17번 풀이.md"
+    },
+    {
+      "basename": "권선형 유도 전동기",
+      "path": "04. Practice Notes/권선형 유도 전동기.md"
+    },
+    {
+      "basename": "동기 발전기",
+      "path": "04. Practice Notes/동기 발전기.md"
+    },
+    {
+      "basename": "프롬프트 엔지니어링",
+      "path": "04. Practice Notes/프롬프트 엔지니어링.md"
+    },
+    {
+      "basename": "🏛️ 단권 변압기",
+      "path": "02. MOC/🏛️ 단권 변압기.md"
+    },
+    {
       "basename": "🏛️ 차단기",
       "path": "02. MOC/🏛️ 차단기.md"
     },
@@ -11,10 +51,6 @@
     {
       "basename": "📝 차단기 용량 산정",
       "path": "03. Permanent Notes/Area/📝 차단기 용량 산정.md"
-    },
-    {
-      "basename": "📝 누전 차단기 (ELCB)",
-      "path": "04. Practice Notes/📝 누전 차단기 (ELCB).md"
     },
     {
       "basename": "📝 기중 차단기 (ACB)",
@@ -63,42 +99,6 @@
     {
       "basename": "📝 Tagg의 접지 저항 측정 기본 식",
       "path": "03. Permanent Notes/Area/📝 Tagg의 접지 저항 측정 기본 식.md"
-    },
-    {
-      "basename": "저항과 정전용량 관계",
-      "path": "03. Permanent Notes/Area/저항과 정전용량 관계.md"
-    },
-    {
-      "basename": "🏛️ 전자기학",
-      "path": "02. MOC/🏛️ 전자기학.md"
-    },
-    {
-      "basename": "완전 매설된 접지 저항 (draw)",
-      "path": "Excalidraw/완전 매설된 접지 저항 (draw).md"
-    },
-    {
-      "basename": "크라머 법칙",
-      "path": "03. Permanent Notes/Area/크라머 법칙.md"
-    },
-    {
-      "basename": "📝 분류기",
-      "path": "03. Permanent Notes/Area/📝 분류기.md"
-    },
-    {
-      "basename": "분류기 (draw)",
-      "path": "Excalidraw/분류기 (draw).md"
-    },
-    {
-      "basename": "🏛️ 회로 이론",
-      "path": "02. MOC/🏛️ 회로 이론.md"
-    },
-    {
-      "basename": "📝 배율기",
-      "path": "03. Permanent Notes/Area/📝 배율기.md"
-    },
-    {
-      "basename": "배율기 (draw)",
-      "path": "Excalidraw/배율기 (draw).md"
     }
   ],
   "omittedPaths": [
